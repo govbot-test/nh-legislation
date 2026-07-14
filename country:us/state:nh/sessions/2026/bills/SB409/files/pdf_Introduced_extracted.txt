@@ -1,0 +1,171 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB409-FN-ASINTRODUCED
+2026SESSION
+26-2177
+09/08
+409-FN
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+SPONSORS: Sen. Gannon, Dist 23; Sen. McGough, Dist 11; Sen. Innis, Dist 7; Sen. Lang, Dist
+2; Sen. McConkey, Dist 3; Sen. Carson, Dist 14; Sen. Pearl, Dist 17; Rep. Weyler,
+Rock. 14; Rep. Rice, Hills. 38; Rep. L. Walsh, Rock. 15; Rep. Bernardy, Rock. 36;
+Rep.Rhodes,Ches.17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillamendsthepenaltiesfortheoffenseofdisobeyinganofficer.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB409-FN-ASINTRODUCED
+26-2177
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DisobeyinganOfficer;Penalties. AmendRSA265:4,II-IIItoreadasfollows:
+2 II. Any person who violates any provision of paragraph I of this section may have his or her
+3 licenseorprivilegetodriveandanyregistrationsissuedinhisorhernamesuspended.
+4 III. InadditiontothepenaltylistedinparagraphII:
+5 (a) Any person who violates the provisions of subparagraphs I (a), (b), (d), (e), or (f) of
+6 thissectionshallbeguiltyofaclassAmisdemeanor.
+7 [III.(a) In addition to the penalties listed in paragraph II,] (b) Any person who violates the
+8 provisionsofsubparagraphI(c)shall beguiltyofaclassB felony[Amisdemeanorand shallbefined
+9 notlessthan$500].
+10 [(b) Any person who violates the provisions of subparagraph I(c), and is involved in a
+11 motor vehicle accident which causes serious bodily injury as defined in RSA 625:11, VI while being
+12 pursued,shallbeguiltyofaclassBfelony.]
+13 (c) Any person who violates the provisions of subparagraph I(c), and is involved in a
+14 motor vehicle accident which injures or causes the death of a person [another while being
+15 pursued],shallbeguiltyofaclassAfelony.
+16 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2177
+10/2/25
+SB409-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B4N-ASI6SEBNATretotepsfrteoeofdgano:S.G,Dt2;S.M,Dt1;S.I,Dt7;S.L,D;S.M,Dt3;S.C,Dt1;S.P,Dt1;R.W.1;R.R,H.3;R.L.W,R.1;R.B,R.3.R,C.1:Jsblastepsfrteoeofdganosblisartoftedtofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotepsfrteoeofdganoeitEdbyteSeadHeofRsinGlCtc1DganO;P.AdRA2,IItordasfI.AypnwovsaypnofphIoftssnmyhehsorhleorpetodeadayrsidinhsorhrnesI.InantotepyldinphI()AypnwovstepsofssI(,(,(,(,or()otssnslbegyofacsAm[)InantotepsldinphI]()AypnwovstpsofshI)slbegyofacsBfy[Amradslbefntlstn$0[)AypnwovstepsofshI,adisidin1mrveatwhcsssbyiyasddinRA6,VIweb2p,slbegyofacsBf3()AypnwovstepsofshI,adisidin4mrveatwhisorcstedhofapn[rweb5p,slbegyofacsAf62EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretotepsfrteoeofdganoLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB409-FN-ASINTRODUCED
+2026SESSION
+26-2177
+09/08
+409-FN
+SENATEBILL
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+SPONSORS: Sen. Gannon, Dist 23; Sen. McGough, Dist 11; Sen. Innis, Dist 7; Sen. Lang, Dist
+2; Sen. McConkey, Dist 3; Sen. Carson, Dist 14; Sen. Pearl, Dist 17; Rep. Weyler,
+Rock. 14; Rep. Rice, Hills. 38; Rep. L. Walsh, Rock. 15; Rep. Bernardy, Rock. 36;
+Rep.Rhodes,Ches.17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillamendsthepenaltiesfortheoffenseofdisobeyinganofficer.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB409-FN-ASINTRODUCED
+26-2177
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DisobeyinganOfficer;Penalties. AmendRSA265:4,II-IIItoreadasfollows:
+2 II. Any person who violates any provision of paragraph I of this section may have his or her
+3 licenseorprivilegetodriveandanyregistrationsissuedinhisorhernamesuspended.
+4 III. InadditiontothepenaltylistedinparagraphII:
+5 (a) Any person who violates the provisions of subparagraphs I (a), (b), (d), (e), or (f) of
+6 thissectionshallbeguiltyofaclassAmisdemeanor.
+7 [III.(a) In addition to the penalties listed in paragraph II,] (b) Any person who violates the
+8 provisionsofsubparagraphI(c)shall beguiltyofaclassB felony[Amisdemeanorand shallbefined
+9 notlessthan$500].
+10 [(b) Any person who violates the provisions of subparagraph I(c), and is involved in a
+11 motor vehicle accident which causes serious bodily injury as defined in RSA 625:11, VI while being
+12 pursued,shallbeguiltyofaclassBfelony.]
+13 (c) Any person who violates the provisions of subparagraph I(c), and is involved in a
+14 motor vehicle accident which injures or causes the death of a person [another while being
+15 pursued],shallbeguiltyofaclassAfelony.
+16 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2177
+10/2/25
+SB409-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepenaltiesfortheoffenseofdisobeyinganofficer.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B4N-ASI6SEBNATretotepsfrteoeofdgano:S.G,Dt2;S.M,Dt1;S.I,Dt7;S.L,D;S.M,Dt3;S.C,Dt1;S.P,Dt1;R.W.1;R.R,H.3;R.L.W,R.1;R.B,R.3.R,C.1:Jsblastepsfrteoeofdganosblisartoftedtofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotepsfrteoeofdganoeitEdbyteSeadHeofRsinGlCtc1DganO;P.AdRA2,IItordasfI.AypnwovsaypnofphIoftssnmyhehsorhleorpetodeadayrsidinhsorhrnesI.InantotepyldinphI()AypnwovstepsofssI(,(,(,(,or()otssnslbegyofacsAm[)InantotepsldinphI]()AypnwovstpsofshI)slbegyofacsBfy[Amradslbefntlstn$0[)AypnwovstepsofshI,adisidin1mrveatwhcsssbyiyasddinRA6,VIweb2p,slbegyofacsBf3()AypnwovstepsofshI,adisidin4mrveatwhisorcstedhofapn[rweb5p,slbegyofacsAf62EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretotepsfrteoeofdganoLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

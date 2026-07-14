@@ -1,0 +1,311 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB565-FN-ASINTRODUCED
+2026SESSION
+26-2199
+07/06
+565-FN
+ANACT relative to reports and notices by the commissioner of the insurance department
+regardinginsurancerisksassociatedwithextremeweather.
+SPONSORS: Sen. Watters, Dist 4; Sen. Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen.
+Fenton, Dist 10; Sen. Avard, Dist 12; Sen. Altschiller, Dist 24; Rep. Edgar, Rock.
+29;Rep.Potucek,Rock.13;Rep.Muns,Rock.29
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes changes to reports and notices given by the commissioner of the insurance
+departmentregardinginsurancerisksassociatedwithextremeweather.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB565-FN-ASINTRODUCED
+26-2199
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to reports and notices by the commissioner of the insurance department
+regardinginsurancerisksassociatedwithextremeweather.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Insurance; Regulation of Forms and Rates for Property and Casualty
+2 Insurance;Purpose. AmendRSA412:1byinsertingafterparagraphXthefollowingnewparagraph:
+3 XI. Topromoteincentivesforfortifiedhomeandcommercialstandards,andothermitigation
+4 andresiliencyprograms.
+5 2 New Paragraph; Insurance; Regulation of Forms and Rates for Property and Casualty
+6 Insurance; Definitions. Amend RSA 412:3 by inserting after paragraph XXIV the following new
+7 paragraph:
+8 XXV. "Fortified home and commercial standards" means mitigation and resiliency programs
+9 or other measures taken to reduce loss due to extreme precipitation events, storm surge, and coastal
+10 flooding,highwinds,hurricanes,andhail,asdevelopedbythecommissioner.
+11 3 New Paragraph; Insurance; Regulation of Forms and Rates for Property and Casualty
+12 Insurance; Consumer Information. Amend RSA 412:4 by inserting after paragraph III the following
+13 newparagraph:
+14 IV. The commissioner shall utilize, develop, or cause to be developed consumer information
+15 which shall be provided on a readily available basis to purchasers of homeowners, private passenger
+16 nonfleet automobile, or property insurance for personal, family, household needs, commercial
+17 property risks, and personal risks not otherwise specified herein related to fortified home and
+18 commercial standards, and other mitigation and resiliency programs. The report shall also include
+19 references to available information on areas that may be at risk of insurance coverage loss or price
+20 increases due to extreme precipitation, storm surge, coastal flooding, high winds, hurricanes, and
+21 hail. For the purposes of this section, the commissioner shall consult RSA 483-B:22, FEMA flood
+22 maps, the National Flood Insurance Program, and any other available mapping that may include
+23 projected threats, including first street maps, the New Hampshire coastal viewer, and the
+24 departmentofenvironmentalservicescoastalprogram,todetermineareasofpresentandfuturerisk
+25 toinsurancecoverage. The reportmayalsoinclude asummaryofanyinformationthecommissioner
+26 may have received, provided by insurers, on the rate of premium cost increases in such areas. This
+27 report shall be made available by January 1, 2028, and in subsequent 5 year intervals. The
+28 commissioner may establish an advisory council to undertake these duties, under RSA 400-A:11,
+29 which may be authorized to seek grants, donations, and other sources of funding, or from any fee
+30 authorizedunderRSA400:A-29,XVI.
+SB565-FN-ASINTRODUCED
+-Page2-
+1 4 Insurance; Regulation of Forms and Rates for Property and Casualty Insurance; Rate
+2 Standards. AmendRSA412:15,IItoreadasfollows:
+3 II. In determining whether rates comply with the excessiveness standard in a
+4 noncompetitive market under subparagraph I(b), the standards under II(b), the inadequacy
+5 standardsundersubparagraphI(c)andtheunfairdiscriminationstandardundersubparagraphI(d),
+6 thefollowingcriteriashallapply:
+7 (a) Due consideration shall be given to past and prospective loss experience within and
+8 outside this state; to the conflagration and catastrophe hazards; to a reasonable margin for profit
+9 and contingencies; to dividends, savings, or unabsorbed premium deposits allowed or returned by
+10 insurers to their policyholders, members or subscribers; to past and prospective expenses both
+11 countrywide and those specifically applicable to this state; and to provisions for special assessments
+12 andtoallotherrelevantfactorswithinandoutsidethestate.
+13 (b) [Risksmaybegroupedbyclassificationsfortheestablishmentofratesand minimum
+14 premiums. Classification rates may be modified to produce rates for individual risks in accordance
+15 with rating plans that establish standards for measuring variations in hazards or expense
+16 provisions, or both. Such standards may measure any differences among risks that can be
+17 demonstratedtohaveaprobableeffectuponlossesorexpenses. Noriskclassification,however,may
+18 be based upon race, creed, national origin or the religion of the insured.] Due consideration shall
+19 be given to fortified home and commercial standards and other mitigation and resiliency
+20 programs measures taken to reduce loss due to extreme precipitation events, storm surge,
+21 and coastal flooding, high winds, hurricanes, and hail. The commissioner shall develop
+22 fortified home and commercial standards with reference to science-based standards
+23 developed by national insurance organizations recognized by insurance companies
+24 licensedinNewHampshire.
+25 (c) Theexpenseprovisionsincludedintheratestobeusedbyaninsurershallreflectthe
+26 operatingmethodsoftheinsureranditsanticipatedexpenses.
+27 (d) The rates may contain provision for contingencies and an allowance permitting a
+28 reasonable profit. In determining the reasonableness of the profit, consideration shall be given to all
+29 investmentincomeattributabletothelineofinsurance.
+30 5 New Subparagraph; Insurance; Unfair Insurance Trade Practices; Unfair Methods, Acts, and
+31 Practices. Amend RSA 417:4, VIII by inserting after subparagraph (h) the following new
+32 subparagraph:
+33 (i) For purposes of this section, "place" or "area of residence" shall include projected
+34 conditions in places or areas the commissioner has indicated will be subject to increasing extreme
+35 precipitation,stormsurge,coastalflooding,highwinds,hurricanes,orhail.
+36 6 New Subdivision; Reporting. Amend RSA 417 by inserting after section 31 the following new
+37 subdivision:
+SB565-FN-ASINTRODUCED
+-Page3-
+1 Reporting
+2 417:32 Report.
+3 I. To promoteawareness of and incentives for fortified home and commercial standards, and
+4 other mitigation and resiliency programs, the commissioner shall utilize, develop, or cause to be
+5 developed a report which shall be provided on a readily available basis to purchasers of personal
+6 property and commercial property risks insurance related to fortified home and commercial
+7 standards,andothermitigationandresiliencyprograms. Theinformationmayincludereferencesto
+8 available information on areas that may be at risk of insurance coverage loss or price increases due
+9 to extreme precipitation, storm surge, coastal flooding, high winds, hurricanes, and hail. For the
+10 purposes of this section, the commissioner shall consult RSA 483-B:22, FEMA flood maps, the
+11 National Flood Insurance Program, and any other available mapping that may include projected
+12 threats, including first street maps, the New Hampshire coastal viewer, and the department of
+13 environmental services coastal program, to determine areas of present and future risk to insurance
+14 coverage. The report may also include a summary of any information the commissioner may have
+15 received,providedbyinsurers,ontherateofpremiumcostincreasesinsuchareas. Thisreportshall
+16 be made available by January 1, 2028, and in subsequent 5-year intervals. The commissioner may
+17 establish an advisory council to undertake these duties, under RSA 400-A:11, which may be
+18 authorized to seek grants, donations, and other sources of funding, or from any fee authorized under
+19 RSA400:A-29,XVI.
+20 II. For the purposes of this section, "fortified home and commercial standards and other
+21 mitigation and resiliency programs" means measures taken to reduce loss due to extreme
+22 precipitation events, storm surge, and coastal flooding, high winds, hurricanes, or hail, as developed
+23 bythecommissioner.
+24 7 Insurance; Cancellation, Refusal to Write, Refusal to Renew Certain Property and Liability
+25 Insurance;CancellationGrounds. AmendRSA417-B:3,Vtoreadasfollows:
+26 V. Physical changes in the insured property which result in the property becoming
+27 [insurable]uninsurable,withtheprovisionthatdueconsiderationbegiventofortifiedhome
+28 and commercial standards developed by the commissioner and other mitigation and
+29 resiliencyprogramsmeanmeasuresestablishedinstatuteorbythecommissioner.
+30 8 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2199
+12/4/25
+SB565-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to reports and notices by the commissioner of the insurance department
+regardinginsurancerisksassociatedwithextremeweather.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+InsuranceDepartment
+[DELETED: B5N-ASI6SEBNATretorsadnsbytecrofteiedgiersadwheew:S.W,Dt4;S.R,Dt1;S.PsK,Dt2;S,Dt1;S.A,Dt1;S.A,Dt2;R.E,R;R.P,R.1;R.M,R.2:Csblmscstorsadnsgnbytecrofteitrgiersadwheew-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretorsadnsbytecrofteiedgiersadwheeweitEdbyteSeadHeofRsinGlCtc1NwP;I;RnofFsadRsfrPyadCI;P.AdRA41byigarphXtefgnwpX.Topeisfrfdheadcls,adormadryp2NwP;I;RnofFsadRsfrPyadCI;D.AdRA43byigarphXVtefgnpX."dheadcls"msmnadryporormstntorelsdetoeepne,sms,adc0f,hhw,h,adh,asddbytec13NwP;I;RnofFsadRsfrPyadC2I;CrI.AdRA44byigarphIItef3nwp4I.Tecrslu,d,orcetobeddcri5whslbepdonaryaebstopsofh,pep6nta,orpyiefrp,f,hdn,c7pyr,adplrsntoesdhnrdtofdhea8cls,adormnadryp.Tertslaoi9rstoaeinonasttmybeatrkofiecelsorp0isdetoeep,sms,clf,hhw,h,a1h.Frtepsoftss,tecrslctRA4,FAf2m,teNlFdIeP,adayoraemgttmyi3pdt,igftstm,teNwHeclv,adt4dtofelssclp,todeasofptadfer5toiec.Tertmyaoieasyofayintec6myher,pdbyi,ontereofpmctisinsha.T7rtslbemeaebyJy1,2,adinst5yri.T8crmyehanaycltoueted,urRA49whmybeadtoskg,d,adorssoff,orfmayf0adurRA4,X]
+[DELETED: B5N-ASIPe24I;RnofFsadRsfrPyadCyI;RS.AdRA4,IItordasfI.IndgwrrscywhteessdinnemturshI,tessurI,teissurshI)adteurdnsdurshItefgcasla()Decnslbegntoptadpelseewnaoetss;totecnadceh;toaremnfrpadc;tod,s,orudpmdsadorrdb0istotrp,msors;toptadpeesb1ceadtesyaetotss;adtopsfrsla2adtoalorrtfswnadoetes3()[smybegdbycsfrteetofrsadm4p.Cnrsmybemdtopersfrilrsina5whrgpsttehssfrmgvsinhsore6p,orb.Shssmymeaydsagrsttcnb7ddtoheapeetunlsore.Norkc,h,m8bebdunr,c,nlonorternoftei]Decns9begntofdheadclssadormnadr0psmstntorelsdetoeepne,sms1adclf,hhw,h,adh.Tecrsld2fdheadclsswhretosds3ddbynlieosrdbyiec4ldinNwH5()Teeepsidinterstobeudbyanirslrtt6ogmsofteiradisade7()Tersmycnpnfrcsadanaepg8rep.Indgtersoftep,cnslbegntoa9itieaetoteleofi05NwS;I;UrIeTeP;UrM,A,a1P.AdRA4,VIbyigarsh()tefgn2s3()Frpsoftss,""or"aofr"sliep4csinpsorastecrhsidwlbesttoige5p,sms,clf,hhw,h,orh66NwS;R.AdRA47byigarsn31tefgn7s]
+[DELETED: B5N-ASIPe3R42RI.Topeasofadisfrfdheadcls,aormnadryp,tecrslu,d,orcetobddartwhslbepdonaryaebstopsofppyadclpyrsierdtofdheadcs,adormnadryp.Teinmyierstaeinonasttmybeatrkofiecelsorpeisdtoeep,sms,clf,hhw,h,adh.Frt0psoftss,tecrslctRA4,FAfdm,t1NlFdIeP,adayoraemgttmyiep2t,igftstm,teNwHeclv,adtedto3elssclp,todeasofptadferktoi4c.Tertmyaoieasyofayintecrmyh5r,pdbyi,ontereofpmctisinsha.Tsrts6bemeaebyJy1,2,adinst5ri.Tecrm7ehanaycltoueted,urRA4,whmyb8adtoskg,d,adorssoff,orfmayfeadu9RA4,X0I.Frtepsoftss,"dheadclssado1mnadryp"msmstntorelsdetoe2pne,sms,adclf,hhw,h,orh,asd3bytec47I;C,RltoW,RltoRwCnPyadL5I;CnG.AdRA4,Vtordasf6V.Plcsinteidpywhrtintepyb7[]u,whtepnttdecnbegntofdh8adclssddbytecradormna9rypsmnmsedinseorbytec08EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretorsadnsbytecrofteiedgiersadwheewLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCeD]
+
+
+================================================================================
+
+Raw Text:
+SB565-FN-ASINTRODUCED
+2026SESSION
+26-2199
+07/06
+565-FN
+SENATEBILL
+ANACT relative to reports and notices by the commissioner of the insurance department
+regardinginsurancerisksassociatedwithextremeweather.
+SPONSORS: Sen. Watters, Dist 4; Sen. Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen.
+Fenton, Dist 10; Sen. Avard, Dist 12; Sen. Altschiller, Dist 24; Rep. Edgar, Rock.
+29;Rep.Potucek,Rock.13;Rep.Muns,Rock.29
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes changes to reports and notices given by the commissioner of the insurance
+departmentregardinginsurancerisksassociatedwithextremeweather.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB565-FN-ASINTRODUCED
+26-2199
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to reports and notices by the commissioner of the insurance department
+regardinginsurancerisksassociatedwithextremeweather.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Insurance; Regulation of Forms and Rates for Property and Casualty
+2 Insurance;Purpose. AmendRSA412:1byinsertingafterparagraphXthefollowingnewparagraph:
+3 XI. Topromoteincentivesforfortifiedhomeandcommercialstandards,andothermitigation
+4 andresiliencyprograms.
+5 2 New Paragraph; Insurance; Regulation of Forms and Rates for Property and Casualty
+6 Insurance; Definitions. Amend RSA 412:3 by inserting after paragraph XXIV the following new
+7 paragraph:
+8 XXV. "Fortified home and commercial standards" means mitigation and resiliency programs
+9 or other measures taken to reduce loss due to extreme precipitation events, storm surge, and coastal
+10 flooding,highwinds,hurricanes,andhail,asdevelopedbythecommissioner.
+11 3 New Paragraph; Insurance; Regulation of Forms and Rates for Property and Casualty
+12 Insurance; Consumer Information. Amend RSA 412:4 by inserting after paragraph III the following
+13 newparagraph:
+14 IV. The commissioner shall utilize, develop, or cause to be developed consumer information
+15 which shall be provided on a readily available basis to purchasers of homeowners, private passenger
+16 nonfleet automobile, or property insurance for personal, family, household needs, commercial
+17 property risks, and personal risks not otherwise specified herein related to fortified home and
+18 commercial standards, and other mitigation and resiliency programs. The report shall also include
+19 references to available information on areas that may be at risk of insurance coverage loss or price
+20 increases due to extreme precipitation, storm surge, coastal flooding, high winds, hurricanes, and
+21 hail. For the purposes of this section, the commissioner shall consult RSA 483-B:22, FEMA flood
+22 maps, the National Flood Insurance Program, and any other available mapping that may include
+23 projected threats, including first street maps, the New Hampshire coastal viewer, and the
+24 departmentofenvironmentalservicescoastalprogram,todetermineareasofpresentandfuturerisk
+25 toinsurancecoverage. The reportmayalsoinclude asummaryofanyinformationthecommissioner
+26 may have received, provided by insurers, on the rate of premium cost increases in such areas. This
+27 report shall be made available by January 1, 2028, and in subsequent 5 year intervals. The
+28 commissioner may establish an advisory council to undertake these duties, under RSA 400-A:11,
+29 which may be authorized to seek grants, donations, and other sources of funding, or from any fee
+30 authorizedunderRSA400:A-29,XVI.
+
+SB565-FN-ASINTRODUCED
+-Page2-
+1 4 Insurance; Regulation of Forms and Rates for Property and Casualty Insurance; Rate
+2 Standards. AmendRSA412:15,IItoreadasfollows:
+3 II. In determining whether rates comply with the excessiveness standard in a
+4 noncompetitive market under subparagraph I(b), the standards under II(b), the inadequacy
+5 standardsundersubparagraphI(c)andtheunfairdiscriminationstandardundersubparagraphI(d),
+6 thefollowingcriteriashallapply:
+7 (a) Due consideration shall be given to past and prospective loss experience within and
+8 outside this state; to the conflagration and catastrophe hazards; to a reasonable margin for profit
+9 and contingencies; to dividends, savings, or unabsorbed premium deposits allowed or returned by
+10 insurers to their policyholders, members or subscribers; to past and prospective expenses both
+11 countrywide and those specifically applicable to this state; and to provisions for special assessments
+12 andtoallotherrelevantfactorswithinandoutsidethestate.
+13 (b) [Risksmaybegroupedbyclassificationsfortheestablishmentofratesand minimum
+14 premiums. Classification rates may be modified to produce rates for individual risks in accordance
+15 with rating plans that establish standards for measuring variations in hazards or expense
+16 provisions, or both. Such standards may measure any differences among risks that can be
+17 demonstratedtohaveaprobableeffectuponlossesorexpenses. Noriskclassification,however,may
+18 be based upon race, creed, national origin or the religion of the insured.] Due consideration shall
+19 be given to fortified home and commercial standards and other mitigation and resiliency
+20 programs measures taken to reduce loss due to extreme precipitation events, storm surge,
+21 and coastal flooding, high winds, hurricanes, and hail. The commissioner shall develop
+22 fortified home and commercial standards with reference to science-based standards
+23 developed by national insurance organizations recognized by insurance companies
+24 licensedinNewHampshire.
+25 (c) Theexpenseprovisionsincludedintheratestobeusedbyaninsurershallreflectthe
+26 operatingmethodsoftheinsureranditsanticipatedexpenses.
+27 (d) The rates may contain provision for contingencies and an allowance permitting a
+28 reasonable profit. In determining the reasonableness of the profit, consideration shall be given to all
+29 investmentincomeattributabletothelineofinsurance.
+30 5 New Subparagraph; Insurance; Unfair Insurance Trade Practices; Unfair Methods, Acts, and
+31 Practices. Amend RSA 417:4, VIII by inserting after subparagraph (h) the following new
+32 subparagraph:
+33 (i) For purposes of this section, "place" or "area of residence" shall include projected
+34 conditions in places or areas the commissioner has indicated will be subject to increasing extreme
+35 precipitation,stormsurge,coastalflooding,highwinds,hurricanes,orhail.
+36 6 New Subdivision; Reporting. Amend RSA 417 by inserting after section 31 the following new
+37 subdivision:
+
+SB565-FN-ASINTRODUCED
+-Page3-
+1 Reporting
+2 417:32 Report.
+3 I. To promoteawareness of and incentives for fortified home and commercial standards, and
+4 other mitigation and resiliency programs, the commissioner shall utilize, develop, or cause to be
+5 developed a report which shall be provided on a readily available basis to purchasers of personal
+6 property and commercial property risks insurance related to fortified home and commercial
+7 standards,andothermitigationandresiliencyprograms. Theinformationmayincludereferencesto
+8 available information on areas that may be at risk of insurance coverage loss or price increases due
+9 to extreme precipitation, storm surge, coastal flooding, high winds, hurricanes, and hail. For the
+10 purposes of this section, the commissioner shall consult RSA 483-B:22, FEMA flood maps, the
+11 National Flood Insurance Program, and any other available mapping that may include projected
+12 threats, including first street maps, the New Hampshire coastal viewer, and the department of
+13 environmental services coastal program, to determine areas of present and future risk to insurance
+14 coverage. The report may also include a summary of any information the commissioner may have
+15 received,providedbyinsurers,ontherateofpremiumcostincreasesinsuchareas. Thisreportshall
+16 be made available by January 1, 2028, and in subsequent 5-year intervals. The commissioner may
+17 establish an advisory council to undertake these duties, under RSA 400-A:11, which may be
+18 authorized to seek grants, donations, and other sources of funding, or from any fee authorized under
+19 RSA400:A-29,XVI.
+20 II. For the purposes of this section, "fortified home and commercial standards and other
+21 mitigation and resiliency programs" means measures taken to reduce loss due to extreme
+22 precipitation events, storm surge, and coastal flooding, high winds, hurricanes, or hail, as developed
+23 bythecommissioner.
+24 7 Insurance; Cancellation, Refusal to Write, Refusal to Renew Certain Property and Liability
+25 Insurance;CancellationGrounds. AmendRSA417-B:3,Vtoreadasfollows:
+26 V. Physical changes in the insured property which result in the property becoming
+27 [insurable]uninsurable,withtheprovisionthatdueconsiderationbegiventofortifiedhome
+28 and commercial standards developed by the commissioner and other mitigation and
+29 resiliencyprogramsmeanmeasuresestablishedinstatuteorbythecommissioner.
+30 8 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2199
+12/4/25
+SB565-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to reports and notices by the commissioner of the insurance department
+regardinginsurancerisksassociatedwithextremeweather.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+InsuranceDepartment
+
+[DELETED: B5N-ASI6SEBNATretorsadnsbytecrofteiedgiersadwheew:S.W,Dt4;S.R,Dt1;S.PsK,Dt2;S,Dt1;S.A,Dt1;S.A,Dt2;R.E,R;R.P,R.1;R.M,R.2:Csblmscstorsadnsgnbytecrofteitrgiersadwheew-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretorsadnsbytecrofteiedgiersadwheeweitEdbyteSeadHeofRsinGlCtc1NwP;I;RnofFsadRsfrPyadCI;P.AdRA41byigarphXtefgnwpX.Topeisfrfdheadcls,adormadryp2NwP;I;RnofFsadRsfrPyadCI;D.AdRA43byigarphXVtefgnpX."dheadcls"msmnadryporormstntorelsdetoeepne,sms,adc0f,hhw,h,adh,asddbytec13NwP;I;RnofFsadRsfrPyadC2I;CrI.AdRA44byigarphIItef3nwp4I.Tecrslu,d,orcetobeddcri5whslbepdonaryaebstopsofh,pep6nta,orpyiefrp,f,hdn,c7pyr,adplrsntoesdhnrdtofdhea8cls,adormnadryp.Tertslaoi9rstoaeinonasttmybeatrkofiecelsorp0isdetoeep,sms,clf,hhw,h,a1h.Frtepsoftss,tecrslctRA4,FAf2m,teNlFdIeP,adayoraemgttmyi3pdt,igftstm,teNwHeclv,adt4dtofelssclp,todeasofptadfer5toiec.Tertmyaoieasyofayintec6myher,pdbyi,ontereofpmctisinsha.T7rtslbemeaebyJy1,2,adinst5yri.T8crmyehanaycltoueted,urRA49whmybeadtoskg,d,adorssoff,orfmayf0adurRA4,X]
+[DELETED: B5N-ASIPe24I;RnofFsadRsfrPyadCyI;RS.AdRA4,IItordasfI.IndgwrrscywhteessdinnemturshI,tessurI,teissurshI)adteurdnsdurshItefgcasla()Decnslbegntoptadpelseewnaoetss;totecnadceh;toaremnfrpadc;tod,s,orudpmdsadorrdb0istotrp,msors;toptadpeesb1ceadtesyaetotss;adtopsfrsla2adtoalorrtfswnadoetes3()[smybegdbycsfrteetofrsadm4p.Cnrsmybemdtopersfrilrsina5whrgpsttehssfrmgvsinhsore6p,orb.Shssmymeaydsagrsttcnb7ddtoheapeetunlsore.Norkc,h,m8bebdunr,c,nlonorternoftei]Decns9begntofdheadclssadormnadr0psmstntorelsdetoeepne,sms1adclf,hhw,h,adh.Tecrsld2fdheadclsswhretosds3ddbynlieosrdbyiec4ldinNwH5()Teeepsidinterstobeudbyanirslrtt6ogmsofteiradisade7()Tersmycnpnfrcsadanaepg8rep.Indgtersoftep,cnslbegntoa9itieaetoteleofi05NwS;I;UrIeTeP;UrM,A,a1P.AdRA4,VIbyigarsh()tefgn2s3()Frpsoftss,""or"aofr"sliep4csinpsorastecrhsidwlbesttoige5p,sms,clf,hhw,h,orh66NwS;R.AdRA47byigarsn31tefgn7s]
+[DELETED: B5N-ASIPe3R42RI.Topeasofadisfrfdheadcls,aormnadryp,tecrslu,d,orcetobddartwhslbepdonaryaebstopsofppyadclpyrsierdtofdheadcs,adormnadryp.Teinmyierstaeinonasttmybeatrkofiecelsorpeisdtoeep,sms,clf,hhw,h,adh.Frt0psoftss,tecrslctRA4,FAfdm,t1NlFdIeP,adayoraemgttmyiep2t,igftstm,teNwHeclv,adtedto3elssclp,todeasofptadferktoi4c.Tertmyaoieasyofayintecrmyh5r,pdbyi,ontereofpmctisinsha.Tsrts6bemeaebyJy1,2,adinst5ri.Tecrm7ehanaycltoueted,urRA4,whmyb8adtoskg,d,adorssoff,orfmayfeadu9RA4,X0I.Frtepsoftss,"dheadclssado1mnadryp"msmstntorelsdetoe2pne,sms,adclf,hhw,h,orh,asd3bytec47I;C,RltoW,RltoRwCnPyadL5I;CnG.AdRA4,Vtordasf6V.Plcsinteidpywhrtintepyb7[]u,whtepnttdecnbegntofdh8adclssddbytecradormna9rypsmnmsedinseorbytec08EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretorsadnsbytecrofteiedgiersadwheewLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCeD]

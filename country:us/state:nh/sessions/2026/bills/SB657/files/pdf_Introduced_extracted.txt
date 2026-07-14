@@ -1,0 +1,483 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SB657-FN-ASINTRODUCED
+2026SESSION
+26-3270
+07/09
+657-FN
+ANACT relativetotheoversightofartificialintelligence.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Prentiss, Dist 5; Sen.
+Long, Dist 20; Sen. Watters, Dist 4; Rep. Simpson, Rock. 33; Rep. Telerski, Hills.
+11
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Establishesanartificialintelligenceoversightpositionwiththedepartmentofjustice.
+II. Createsacivilrightofactionforcertainusesofartificialintelligence.
+III. Createsastudycommissiontooverseetheuseofartificialintelligenceinthestate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB657-FN-ASINTRODUCED
+26-3270
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoversightofartificialintelligence.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownasthe"ArtificialOversightIntelligenceAct."
+2 2 StatementofPurpose. Thegeneralcourtherebyfindsthatthestatehasavestedinterestin:
+3 I. Establishing a dedicated position within the attorney general's office to monitor the
+4 development,deployment,andimpactofartificialintelligence(AI)inNewHampshire;
+5 II. Protectingconsumersandworkersfromunfair,deceptive,orharmfulusesofAI;
+6 III. Promoting transparency, accountability, and informed policy development around AI in
+7 NewHampshire;
+8 IV. Establishing a study commission to research and make recommendations regarding AI's
+9 impactonlabor,wages,commerce,education,healthcare,elections,andothersocietalsectors;and
+10 V. EvaluatingtheuseofAIinpoliticalcampaigns,advertisements,andmessagingtoensure
+11 transparency,fairness,andpreventmisleadingordeceptivepractices.
+12 3 New Subdivision; Artificial Intelligence Analysis. Amend RSA 21-M by inserting after section
+13 19thefollowingnewsubdivision:
+14 ArtificialIntelligenceAnalysis
+15 21-M:20 ArtificialIntelligenceAnalyst.
+16 I. The department of justice shall establish a full-time position dedicated to artificial
+17 intelligenceoversight(AI).
+18 II. Thepositionshall:
+19 (a) Monitor the development and deployment of AI in New Hampshire, including, but
+20 not limited to, consumer-facing products, consumer pricing, labor applications, commercial
+21 marketingtechnologies,andenvironmentalimplications;
+22 (b) Investigate potential consumer protection violations arising from AI, including, but
+23 notlimitedto,misleading,deceptive,ormanipulativeusesincommercialadvertising;
+24 (c) Evaluate AI systems for potential labor-related harms, including wage suppression,
+25 misclassification,orautomateddiscrimination;
+26 (d) ProvideguidanceandreportstotheattorneygeneralregardingAIrisks,enforcement
+27 priorities,anduseofthetechnologyinthestate;and
+28 (e) Coordinate with state agencies, including the departments of labor, education,
+29 energy,environmentalservices,andhealthandhumanservices,andotheragenciesasnecessary.
+30 III. The attorney general may adopt policies and procedures, pursuant to RSA 541-A, as
+31 necessarytocarryoutthedutiesofthisposition.
+SB657-FN-ASINTRODUCED
+-Page2-
+1 21-M:21 Annual Appropriation. There is hereby appropriated annually the sum of $150,000 to
+2 the department of justice for the purpose of funding the artificial intelligence analyst position
+3 established under RSA 21-M:20. The governor is authorized to draw a warrant for said sum out of
+4 anymoneyinthetreasurynototherwiseappropriated.
+5 21-M:22 ArtificialIntelligenceOversightCommission.
+6 I. There is established a commission to study the broader commercial and political effects of
+7 artificialintelligence(AI)inNewHampshire.
+8 II. NotwithstandingRSA14:49,II(c),themembersofthecommissionshallbeasfollows:
+9 (a) Twomembersofthesenate,appointedbythepresidentofthesenate.
+10 (b) Two members of the house of representatives, appointed by the speaker of the house
+11 ofrepresentatives.
+12 (c) Theattorneygeneral,ordesignee.
+13 (d) Thesecretaryofstate,ordesignee.
+14 (e) Thecommissionerofthedepartmentoflabor,ordesignee.
+15 (f) Thecommissionerofthedepartmentofeducation,ordesignee.
+16 (g) Thecommissionerofthedepartmentofhealthandhumanservices,ordesignee.
+17 (h) One member appointed by the governor, who shall have expertise in technology or
+18 AI.
+19 (i) Onememberofthegeneralpublic,appointedbythegovernor.
+20 III. Legislativemembersofthecommissionshallreceivemileageatthelegislativeratewhen
+21 attendingtothedutiesofthecommission.
+22 IV. Thecommissionshall:
+23 (a) StudyhowAIdevelopmentandimplementationaffects:
+24 (1) Workforcecompositionandemploymentpatterns;
+25 (2) Wagesandcompensation;
+26 (3) Education,training,andskillrequirements;
+27 (4) Healthcaredeliveryandpatientoutcomes;
+28 (5) Consumerprotections,includingfairness,privacy,andtransparency;and
+29 (6) Political and campaign communications, including advertisements, messaging,
+30 andmicrotargetingusingAI,andthepotentialformisleadingormanipulativecontent.
+31 (b) Make recommendations regarding policies, regulations, or legislation to mitigate the
+32 negativeimpactsandmaximizethepublicbenefitsofAI.
+33 V. The members of the study commission shall elect a chairperson from among the
+34 members. The first meeting of the commission shall be called by the first-named senate member.
+35 The first meeting of the commission shall be held within 45 days of the effective date of this section.
+36 Sixmembersofthecommissionshallconstituteaquorum.
+SB657-FN-ASINTRODUCED
+-Page3-
+1 VI. The commission shall report its findings and any recommendations for proposed
+2 legislation to the president of the senate, the speaker of the house of representatives, the senate
+3 clerk,thehouseclerk,thegovernor,andthestatelibraryonorbeforethefirstofeachNovember.
+4 4 New Subdivision; Civil Action for Deceptive Use of Artificial Intelligence. Amend RSA 507 by
+5 insertingaftersection8-kthefollowingnewsubdivision:
+6 CivilActionforDeceptiveUseofArtificialIntelligence
+7 507:8-l Definitions. Asusedinthissubdivision:
+8 I. "Artificial intelligence system" means any machine-based system that, for explicit or
+9 implicit objectives, infers from inputs to generate outputs, such as content, predictions,
+10 recommendations,ordecisions,thatinfluencephysicalorvirtualenvironments.
+11 II. "Deceptive use of artificial intelligence" means the use of an artificial intelligence system
+12 inamannerthat:
+13 (a) Knowingly or recklessly misrepresents the identity, intent, or authority of a natural
+14 personorentity;
+15 (b) Knowinglycreates,alters,ordisseminatessyntheticcontentthatareasonableperson
+16 wouldbelievetobeauthentic,wheresuchbeliefismaterialtoatransaction,decision,orreputational
+17 assessment;or
+18 (c) Omits disclosure of the use of artificial intelligence where such omission renders the
+19 communicationorconductmateriallymisleadingunderthecircumstances.
+20 III. "Synthetic content" means audio, visual, audiovisual, or textual content generated or
+21 materiallyalteredbyartificialintelligencesoastoappeartobecreatedbyanaturalperson.
+22 IV. ''Materially misleading" means likely to affect a reasonable person's conduct, decision-
+23 making,orunderstandingofamaterialfact.
+24 507:8-m ProhibitedConduct.
+25 I. No person shall engage in the deceptive use of artificial intelligence in commerce,
+26 employment, political advocacy, legal proceedings, or any transaction or interaction where reliance
+27 byanotherpersonisreasonablyforeseeable.
+28 II. This subdivision shall apply regardless of whether the artificial intelligence system is
+29 deployeddirectlybythepersonorthroughanagent,contractor,orthird-partyplatform.
+30 507:8-n CausesofAction.
+31 I. Any person injured by a violation of this subdivision may bring a civil action in the circuit
+32 courtdistrictdivision.
+33 II. A plaintiff shall not be required to prove actual reliance if the deceptive use of artificial
+34 intelligencewasmaterialandreasonablylikelytomislead.
+35 III. Each distinct dissemination or deployment of deceptive synthetic content shall
+36 constituteaseparateviolation.
+37 507:8-o DamagesandRemedies.
+SB657-FN-ASINTRODUCED
+-Page4-
+1 I. Aplaintiffprevailingunderthissubdivisionmayrecover:
+2 (a) Actual damages, including economic loss, emotional distress, and reputational harm;
+3 or
+4 (b) Statutory damages of not less than $1,000 and not more than $10,000 per violation,
+5 whicheverisgreater.
+6 II. Ifthecourtfindsthattheviolationwasknowing,willful,orreckless,itmayaward:
+7 (a) Trebledamages,or
+8 (b) Statutorydamagesofupto$25,000perviolation,whicheverisgreater.
+9 III. Thecourtmayalsoaward:
+10 (a) Reasonableattorney'sfeesandcosts;
+11 (b) Injunctiveordeclaratoryrelief;and
+12 (c) Anorderrequiringdisclosure,correction,orremovalofdeceptivesyntheticcontent.
+13 507:8-p AffirmativeDefenses.
+14 I. Itshallbeanaffirmativedefensetoanactionpursuedunderthissubdivisionthat:
+15 (a) The synthetic content was clearly and conspicuously disclosed as AI-generated at the
+16 timeofdissemination;
+17 (b) The use constituted parody, satire, or commentary protected by the First
+18 Amendment,andareasonablepersonwouldnotbelievethecontenttobeactual;or
+19 (c) The defendant reasonably relied on representations from a third-party AI provider
+20 regardingcompliancewiththissubdivision.
+21 II. Thissubdivisionshallnotapplyto:
+22 (a) Internalresearchortestingnotintendedforpublicdissemination;
+23 (b) Lawenforcementorjudicialusesauthorizedbylaw;
+24 (c) Uses solely for accessibility or translation purposes, where no deception is intended
+25 orreasonablyforeseeable;
+26 (d) Theprovider or developerof anytechnologyused inthecreationof synthetic content;
+27 and
+28 (e) Anyinformationservice, system, or access softwareprovider that provides or enables
+29 computer access by multiple users to a computer server, including specifically a service or system
+30 that provides access to the Internet and such systems operated or services offered by libraries or
+31 educationalinstitutions.
+32 507:8-q Preemption.
+33 I. The remedies provided by this subdivision shall be cumulative and shall not preempt or
+34 limitanyotherremedyavailableunderlaw,includingRSA358-A.
+35 II. Nothinginthissubdivisionshallbeconstruedtolimitconstitutionallyprotectedspeech.
+36 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-3270
+Revised02/20/2026
+SB657-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoversightofartificialintelligence.
+FISCALIMPACT: Theappropriationincludedinthebilldoesnotfullyfundthebilland
+notallpositionsrequestedareauthorized.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$400,000to $400,000to $400,000to
+$900,000 $900,000 $900,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $150,000 $150,000 $150,000
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes an artificial intelligence oversight framework within the Department of
+Justice by creating a full time artificial intelligence analyst position and makes an annual
+appropriation of $150,000 from the General Fund to fund the position. Additionally, this bill
+establishes a study commission on the impacts of artificial intelligence, and creates a new civil
+causeofactionforthedeceptiveuseofartificialintelligence.
+The Department of Justice states this bill establishes one full time artificial intelligence analyst
+position within the Attorney General’s Office and includes an annual appropriation of $150,000
+to fund salary, benefits, and associated operating costs. The Department assumes the position
+would be classified as a Data Scientist, SOC 15-2050, beginning at step 2, with total salary,
+benefit, and operating costs estimated at approximately $125,000 in FY 2027, $127,000 in FY
+2028, and $133,000 in FY 2029, which can be supported within the annual appropriation
+provided by the bill. Additionally, this bill also establishes an artificial intelligence oversight
+commission. TheDepartmentnotesthatparticipationonthecommissioncanbeabsorbedwithin
+existingresourcesanddoesnotresultinadditionalexpenditures.
+The Judicial Branch states this bill creates a new civil cause of action for the deceptive use of
+artificial intelligence in the Circuit Court District Division. The Branch indicates this would
+establish a new and potentially complex case type on the District Division docket and would
+require additional administrative resources to develop and maintain forms, guidance materials,
+and training resources for judges and court staff. Because the volume of filings and the
+complexity of such cases cannot be predicted, the Judicial Branch states the fiscal impact is
+indeterminable. However, the Branch anticipates the need for at least one additional full time
+equivalent position to administer the program and provide ongoing training to judges and staff,
+as well as additional judicial and court staff resources to address the increased caseload. The
+Judicial Branch estimates the fiscal impact to be between $250,000 and $750,000 per fiscal year
+beginninginFY2027,fundedfromtheGeneralFund.
+ThisbilldoesnotfundnordoesitauthorizeJudicialBranchpositions.
+AGENCIESCONTACTED:
+DepartmentofJusticeandJudicialBranch
+[DELETED: B6N-ASI6SEBNATretoteotofali:S.PsK,Dt2;S.R,Dt1;S.P,Dt5;S,Dt2;S.W,Dt4;R.S,R.3;R.T,H:Jsb.Esanalieotpnwhtedtofj.Csaclrtofanfrcnusofali.Csasycntooeteueofalieintes-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretoteotofalieitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknaste"lOtIeA2StofP.TeglcthyfstttesehsavditiI.Egaddpnwnteaygsoetomrtd,d,aditofalie()inNwHI.Pgcsadwsfmu,d,orhlusofAI.Pgt,a,adidpydtadAIiNwHI.EgasycntorhadmersrgAitonl,w,c,e,hhc,e,adorsls;a0V.EgteueofAIinplc,a,admgtoe1t,f,adptmgordep23NwS;AlIeA.AdRA2Mbyigars319tefgnws4AlIeA520AlIeA6I.Tedtofjeslehafepnddtoa7ieot(8I.Tepns9()MrtedtaddtofAIinNwH,i,b0ntldt,cgp,crp,lra,c1mgt,adeli2()IeplcrpnvsagfmA,i,b3ntldt,m,d,ormeusincla4()EeAIssfrplldh,igwes5m,oradd6()PegeadrstoteayglrgAIr,e7p,adueoftetyintes;a8()Cewhsea,igtedsofl,e9e,els,adhhadhns,adorasasn0I.Teayglmyatpsadp,pttoRA5,a1nytocyottedsoftsp]
+[DELETED: B6N-ASIPe221AlA.Teishyadaytesmof$0ttedtofjefrtepeoffgtealieatpedurRA2.Tegrisadtodwawtfrsdsmotoaymyintetyntoea22AlIeOtCI.Teisedacntosytebrcladplesoalie()inNwHI.NgRA1,I,temsoftecnslbeasf()Tomsoftes,adbyteptoftes0()Tomsofteheofr,adbytesrofteh1ofr2()Teayg,ord3()Tesyofs,ord4()Tecroftedtofl,ord5()Tecroftedtofe,ord6()Tecroftedtofhhadhns,ord7()Oemradbyteg,woslheeeintyo8A9()Oemrofteglp,adbyteg0I.Lemsoftecnslremeattelerew1agtotedsoftec2I.Tecns3()SyhwAIdtadina4()Wecnadetp5()Wsadc6()E,t,adslr7()Hhcedyadpto8()Crp,igf,p,adt;a9()Pladcnc,iga,m0admgugA,adteplfrmgormec1()Mersrgp,r,orlntomet2neisadmetepcbsofA3V.Temsoftesycnsletacnfmagt4m.Teftmgoftecnslbecdbytefdsem5Teftmgoftecnslbehdwn45dsofteeedeoftss6Sxmsoftecnslceaq]
+[DELETED: B6N-ASIPe3V.Tecnslrtisfsadayrsfrplntoteptoftes,tesrofteheofr,tesc,tehec,teg,adteselyonorbeteftofehN4NwS;ClAnfrDeUeofAlI.AdRA57bigarsn8ktefgnwsClAnfrDeUeofAlI5lD.AsudintssI."lies"msaymdsmt,fretoito,isfmistogeo,shasc,p0r,ord,ttieplorvle1I."eueofali"msteueofanalies2inamrt3()Kyorrymstei,i,orayofan4pnore5()Kyc,a,ordsscctttarep6wdbetobea,weshbfismltoat,d,orr7a;o8()Osdeofteueofalieweshonrst9cnorctmymgurtec0I."cc"msa,v,a,ortlctgdo1myadbyaliesoastoartobecdbyanlp2I.'ym"mslytoatarepsc,d3m,orugofamlf45mPdC5I.Nopnsleeintedeueofalieinc6e,pla,llp,oraytnorinwer7byarpnisryf8I.Tssnslayrsofwrtealiesmi9dddybytepnorthana,c,ortyp05nCsofA1I.Aypnidbyavnoftssnmybgaclanintec2ctdtd3I.Apfslntberdtopealreiftedeueofa4iewsmladrylytom5I.Ehdtdnordtofdesccts6ceasev75oDsadR]
+[DELETED: B6N-ASIPe4I.Apfpgurtssnmyr()Ald,igecl,eld,adrlho()Sydsofntlstn$0adntmetn$0prvwrisgI.Iftectfstttevnwsk,w,orr,itmya()Ted,o()Sydsofupto$0prv,wrisgI.Tectmyaoa0()Reasfsadc1()Ieordyr;a2()Anorrgd,c,orrlofdescc35pAeD4I.Itslbeanaedetoananpdurtssnt5()TescctwscyadcyddasAdatt6teofd7()Teuecdp,s,orcypdbyteF8A,adarepnwdntbetecttobea;o9()TedtryrdonrsfmatyAIp0rgcewhtss1I.Tssnslntayt2()Ilrhortgntidfrpcd3()Lwetorjlusadbyl4()Ussyfrayortnp,wenodnisi5orryf6()Teprordrofaytyudintecnofscc7a8()Ayins,s,orasseprttpsore9crasbymeustoacrs,igsyaseors0ttpsastoteItadshssodorssodbylso1eli25qP3I.Terspdbytssnslbeceadslntpto4ltayorryaeurl,igRA35I.Ngintssnslbecdtoltcypds65EeD.Tsatslteet60dsarisp]
+[DELETED: d0B6-FLNSINATretoteotofaliLI:TeanidintebldsntfyfdteblatalpsrdaeadSeIY26FY27FY28FY20$0$0$eFeIeIeIeI0to$0to$0t0$0$gSlF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesanalieotfkwnteDtoebycgafltealieatpnadmsananof$0fmteGlFdtofdtep.A,tsbsasycnonteisofali,adcsanwceofanfrtedeueofalieDtofJesstsblesoefltealieanwnteAyGsOeadisanalanof$ofds,b,adadogc.TeDtastepdbecdasaDaS,SC1,bgatsp2,whtls,adogcsedatay$0inFY2,$0inF,ad$0inFY2,whcnbesdwntealadbyteb.A,tsblaoesanalieo.TeDtnsttpnontecncnbeadwgrsaddsntrtinale]
+[DELETED: eJlBhsstsblcsanwclceofanfrtedeueolieinteCtCtDtD.TeBhistswhanwadpycxceteonteDtDndtadwealaerstodpadmnf,gemdtgrsfrjsadcts.Beteveoffsadtyofshcsctbep,teJlBhsstefliti.H,teBhastendfratltoealflttpntoartepmadpeogtgtojsadsswlasaljladctsfrstoasteidc.TlBhesteflittobebn$0ad$0prflyginFY2,fdfmteGlFsbldsntfdnrdsitaeJlBhpSCtofJeadJlB]
+
+
+================================================================================
+
+Raw Text:
+SB657-FN-ASINTRODUCED
+2026SESSION
+26-3270
+07/09
+657-FN
+SENATEBILL
+ANACT relativetotheoversightofartificialintelligence.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Prentiss, Dist 5; Sen.
+Long, Dist 20; Sen. Watters, Dist 4; Rep. Simpson, Rock. 33; Rep. Telerski, Hills.
+11
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Establishesanartificialintelligenceoversightpositionwiththedepartmentofjustice.
+II. Createsacivilrightofactionforcertainusesofartificialintelligence.
+III. Createsastudycommissiontooverseetheuseofartificialintelligenceinthestate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB657-FN-ASINTRODUCED
+26-3270
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoversightofartificialintelligence.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownasthe"ArtificialOversightIntelligenceAct."
+2 2 StatementofPurpose. Thegeneralcourtherebyfindsthatthestatehasavestedinterestin:
+3 I. Establishing a dedicated position within the attorney general's office to monitor the
+4 development,deployment,andimpactofartificialintelligence(AI)inNewHampshire;
+5 II. Protectingconsumersandworkersfromunfair,deceptive,orharmfulusesofAI;
+6 III. Promoting transparency, accountability, and informed policy development around AI in
+7 NewHampshire;
+8 IV. Establishing a study commission to research and make recommendations regarding AI's
+9 impactonlabor,wages,commerce,education,healthcare,elections,andothersocietalsectors;and
+10 V. EvaluatingtheuseofAIinpoliticalcampaigns,advertisements,andmessagingtoensure
+11 transparency,fairness,andpreventmisleadingordeceptivepractices.
+12 3 New Subdivision; Artificial Intelligence Analysis. Amend RSA 21-M by inserting after section
+13 19thefollowingnewsubdivision:
+14 ArtificialIntelligenceAnalysis
+15 21-M:20 ArtificialIntelligenceAnalyst.
+16 I. The department of justice shall establish a full-time position dedicated to artificial
+17 intelligenceoversight(AI).
+18 II. Thepositionshall:
+19 (a) Monitor the development and deployment of AI in New Hampshire, including, but
+20 not limited to, consumer-facing products, consumer pricing, labor applications, commercial
+21 marketingtechnologies,andenvironmentalimplications;
+22 (b) Investigate potential consumer protection violations arising from AI, including, but
+23 notlimitedto,misleading,deceptive,ormanipulativeusesincommercialadvertising;
+24 (c) Evaluate AI systems for potential labor-related harms, including wage suppression,
+25 misclassification,orautomateddiscrimination;
+26 (d) ProvideguidanceandreportstotheattorneygeneralregardingAIrisks,enforcement
+27 priorities,anduseofthetechnologyinthestate;and
+28 (e) Coordinate with state agencies, including the departments of labor, education,
+29 energy,environmentalservices,andhealthandhumanservices,andotheragenciesasnecessary.
+30 III. The attorney general may adopt policies and procedures, pursuant to RSA 541-A, as
+31 necessarytocarryoutthedutiesofthisposition.
+
+SB657-FN-ASINTRODUCED
+-Page2-
+1 21-M:21 Annual Appropriation. There is hereby appropriated annually the sum of $150,000 to
+2 the department of justice for the purpose of funding the artificial intelligence analyst position
+3 established under RSA 21-M:20. The governor is authorized to draw a warrant for said sum out of
+4 anymoneyinthetreasurynototherwiseappropriated.
+5 21-M:22 ArtificialIntelligenceOversightCommission.
+6 I. There is established a commission to study the broader commercial and political effects of
+7 artificialintelligence(AI)inNewHampshire.
+8 II. NotwithstandingRSA14:49,II(c),themembersofthecommissionshallbeasfollows:
+9 (a) Twomembersofthesenate,appointedbythepresidentofthesenate.
+10 (b) Two members of the house of representatives, appointed by the speaker of the house
+11 ofrepresentatives.
+12 (c) Theattorneygeneral,ordesignee.
+13 (d) Thesecretaryofstate,ordesignee.
+14 (e) Thecommissionerofthedepartmentoflabor,ordesignee.
+15 (f) Thecommissionerofthedepartmentofeducation,ordesignee.
+16 (g) Thecommissionerofthedepartmentofhealthandhumanservices,ordesignee.
+17 (h) One member appointed by the governor, who shall have expertise in technology or
+18 AI.
+19 (i) Onememberofthegeneralpublic,appointedbythegovernor.
+20 III. Legislativemembersofthecommissionshallreceivemileageatthelegislativeratewhen
+21 attendingtothedutiesofthecommission.
+22 IV. Thecommissionshall:
+23 (a) StudyhowAIdevelopmentandimplementationaffects:
+24 (1) Workforcecompositionandemploymentpatterns;
+25 (2) Wagesandcompensation;
+26 (3) Education,training,andskillrequirements;
+27 (4) Healthcaredeliveryandpatientoutcomes;
+28 (5) Consumerprotections,includingfairness,privacy,andtransparency;and
+29 (6) Political and campaign communications, including advertisements, messaging,
+30 andmicrotargetingusingAI,andthepotentialformisleadingormanipulativecontent.
+31 (b) Make recommendations regarding policies, regulations, or legislation to mitigate the
+32 negativeimpactsandmaximizethepublicbenefitsofAI.
+33 V. The members of the study commission shall elect a chairperson from among the
+34 members. The first meeting of the commission shall be called by the first-named senate member.
+35 The first meeting of the commission shall be held within 45 days of the effective date of this section.
+36 Sixmembersofthecommissionshallconstituteaquorum.
+
+SB657-FN-ASINTRODUCED
+-Page3-
+1 VI. The commission shall report its findings and any recommendations for proposed
+2 legislation to the president of the senate, the speaker of the house of representatives, the senate
+3 clerk,thehouseclerk,thegovernor,andthestatelibraryonorbeforethefirstofeachNovember.
+4 4 New Subdivision; Civil Action for Deceptive Use of Artificial Intelligence. Amend RSA 507 by
+5 insertingaftersection8-kthefollowingnewsubdivision:
+6 CivilActionforDeceptiveUseofArtificialIntelligence
+7 507:8-l Definitions. Asusedinthissubdivision:
+8 I. "Artificial intelligence system" means any machine-based system that, for explicit or
+9 implicit objectives, infers from inputs to generate outputs, such as content, predictions,
+10 recommendations,ordecisions,thatinfluencephysicalorvirtualenvironments.
+11 II. "Deceptive use of artificial intelligence" means the use of an artificial intelligence system
+12 inamannerthat:
+13 (a) Knowingly or recklessly misrepresents the identity, intent, or authority of a natural
+14 personorentity;
+15 (b) Knowinglycreates,alters,ordisseminatessyntheticcontentthatareasonableperson
+16 wouldbelievetobeauthentic,wheresuchbeliefismaterialtoatransaction,decision,orreputational
+17 assessment;or
+18 (c) Omits disclosure of the use of artificial intelligence where such omission renders the
+19 communicationorconductmateriallymisleadingunderthecircumstances.
+20 III. "Synthetic content" means audio, visual, audiovisual, or textual content generated or
+21 materiallyalteredbyartificialintelligencesoastoappeartobecreatedbyanaturalperson.
+22 IV. ''Materially misleading" means likely to affect a reasonable person's conduct, decision-
+23 making,orunderstandingofamaterialfact.
+24 507:8-m ProhibitedConduct.
+25 I. No person shall engage in the deceptive use of artificial intelligence in commerce,
+26 employment, political advocacy, legal proceedings, or any transaction or interaction where reliance
+27 byanotherpersonisreasonablyforeseeable.
+28 II. This subdivision shall apply regardless of whether the artificial intelligence system is
+29 deployeddirectlybythepersonorthroughanagent,contractor,orthird-partyplatform.
+30 507:8-n CausesofAction.
+31 I. Any person injured by a violation of this subdivision may bring a civil action in the circuit
+32 courtdistrictdivision.
+33 II. A plaintiff shall not be required to prove actual reliance if the deceptive use of artificial
+34 intelligencewasmaterialandreasonablylikelytomislead.
+35 III. Each distinct dissemination or deployment of deceptive synthetic content shall
+36 constituteaseparateviolation.
+37 507:8-o DamagesandRemedies.
+
+SB657-FN-ASINTRODUCED
+-Page4-
+1 I. Aplaintiffprevailingunderthissubdivisionmayrecover:
+2 (a) Actual damages, including economic loss, emotional distress, and reputational harm;
+3 or
+4 (b) Statutory damages of not less than $1,000 and not more than $10,000 per violation,
+5 whicheverisgreater.
+6 II. Ifthecourtfindsthattheviolationwasknowing,willful,orreckless,itmayaward:
+7 (a) Trebledamages,or
+8 (b) Statutorydamagesofupto$25,000perviolation,whicheverisgreater.
+9 III. Thecourtmayalsoaward:
+10 (a) Reasonableattorney'sfeesandcosts;
+11 (b) Injunctiveordeclaratoryrelief;and
+12 (c) Anorderrequiringdisclosure,correction,orremovalofdeceptivesyntheticcontent.
+13 507:8-p AffirmativeDefenses.
+14 I. Itshallbeanaffirmativedefensetoanactionpursuedunderthissubdivisionthat:
+15 (a) The synthetic content was clearly and conspicuously disclosed as AI-generated at the
+16 timeofdissemination;
+17 (b) The use constituted parody, satire, or commentary protected by the First
+18 Amendment,andareasonablepersonwouldnotbelievethecontenttobeactual;or
+19 (c) The defendant reasonably relied on representations from a third-party AI provider
+20 regardingcompliancewiththissubdivision.
+21 II. Thissubdivisionshallnotapplyto:
+22 (a) Internalresearchortestingnotintendedforpublicdissemination;
+23 (b) Lawenforcementorjudicialusesauthorizedbylaw;
+24 (c) Uses solely for accessibility or translation purposes, where no deception is intended
+25 orreasonablyforeseeable;
+26 (d) Theprovider or developerof anytechnologyused inthecreationof synthetic content;
+27 and
+28 (e) Anyinformationservice, system, or access softwareprovider that provides or enables
+29 computer access by multiple users to a computer server, including specifically a service or system
+30 that provides access to the Internet and such systems operated or services offered by libraries or
+31 educationalinstitutions.
+32 507:8-q Preemption.
+33 I. The remedies provided by this subdivision shall be cumulative and shall not preempt or
+34 limitanyotherremedyavailableunderlaw,includingRSA358-A.
+35 II. Nothinginthissubdivisionshallbeconstruedtolimitconstitutionallyprotectedspeech.
+36 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3270
+Revised02/20/2026
+SB657-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoversightofartificialintelligence.
+FISCALIMPACT: Theappropriationincludedinthebilldoesnotfullyfundthebilland
+notallpositionsrequestedareauthorized.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$400,000to $400,000to $400,000to
+$900,000 $900,000 $900,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $150,000 $150,000 $150,000
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes an artificial intelligence oversight framework within the Department of
+Justice by creating a full time artificial intelligence analyst position and makes an annual
+appropriation of $150,000 from the General Fund to fund the position. Additionally, this bill
+establishes a study commission on the impacts of artificial intelligence, and creates a new civil
+causeofactionforthedeceptiveuseofartificialintelligence.
+The Department of Justice states this bill establishes one full time artificial intelligence analyst
+position within the Attorney General’s Office and includes an annual appropriation of $150,000
+to fund salary, benefits, and associated operating costs. The Department assumes the position
+would be classified as a Data Scientist, SOC 15-2050, beginning at step 2, with total salary,
+benefit, and operating costs estimated at approximately $125,000 in FY 2027, $127,000 in FY
+2028, and $133,000 in FY 2029, which can be supported within the annual appropriation
+provided by the bill. Additionally, this bill also establishes an artificial intelligence oversight
+commission. TheDepartmentnotesthatparticipationonthecommissioncanbeabsorbedwithin
+existingresourcesanddoesnotresultinadditionalexpenditures.
+
+The Judicial Branch states this bill creates a new civil cause of action for the deceptive use of
+artificial intelligence in the Circuit Court District Division. The Branch indicates this would
+establish a new and potentially complex case type on the District Division docket and would
+require additional administrative resources to develop and maintain forms, guidance materials,
+and training resources for judges and court staff. Because the volume of filings and the
+complexity of such cases cannot be predicted, the Judicial Branch states the fiscal impact is
+indeterminable. However, the Branch anticipates the need for at least one additional full time
+equivalent position to administer the program and provide ongoing training to judges and staff,
+as well as additional judicial and court staff resources to address the increased caseload. The
+Judicial Branch estimates the fiscal impact to be between $250,000 and $750,000 per fiscal year
+beginninginFY2027,fundedfromtheGeneralFund.
+ThisbilldoesnotfundnordoesitauthorizeJudicialBranchpositions.
+AGENCIESCONTACTED:
+DepartmentofJusticeandJudicialBranch
+
+[DELETED: B6N-ASI6SEBNATretoteotofali:S.PsK,Dt2;S.R,Dt1;S.P,Dt5;S,Dt2;S.W,Dt4;R.S,R.3;R.T,H:Jsb.Esanalieotpnwhtedtofj.Csaclrtofanfrcnusofali.Csasycntooeteueofalieintes-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretoteotofalieitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknaste"lOtIeA2StofP.TeglcthyfstttesehsavditiI.Egaddpnwnteaygsoetomrtd,d,aditofalie()inNwHI.Pgcsadwsfmu,d,orhlusofAI.Pgt,a,adidpydtadAIiNwHI.EgasycntorhadmersrgAitonl,w,c,e,hhc,e,adorsls;a0V.EgteueofAIinplc,a,admgtoe1t,f,adptmgordep23NwS;AlIeA.AdRA2Mbyigars319tefgnws4AlIeA520AlIeA6I.Tedtofjeslehafepnddtoa7ieot(8I.Tepns9()MrtedtaddtofAIinNwH,i,b0ntldt,cgp,crp,lra,c1mgt,adeli2()IeplcrpnvsagfmA,i,b3ntldt,m,d,ormeusincla4()EeAIssfrplldh,igwes5m,oradd6()PegeadrstoteayglrgAIr,e7p,adueoftetyintes;a8()Cewhsea,igtedsofl,e9e,els,adhhadhns,adorasasn0I.Teayglmyatpsadp,pttoRA5,a1nytocyottedsoftsp]
+[DELETED: B6N-ASIPe221AlA.Teishyadaytesmof$0ttedtofjefrtepeoffgtealieatpedurRA2.Tegrisadtodwawtfrsdsmotoaymyintetyntoea22AlIeOtCI.Teisedacntosytebrcladplesoalie()inNwHI.NgRA1,I,temsoftecnslbeasf()Tomsoftes,adbyteptoftes0()Tomsofteheofr,adbytesrofteh1ofr2()Teayg,ord3()Tesyofs,ord4()Tecroftedtofl,ord5()Tecroftedtofe,ord6()Tecroftedtofhhadhns,ord7()Oemradbyteg,woslheeeintyo8A9()Oemrofteglp,adbyteg0I.Lemsoftecnslremeattelerew1agtotedsoftec2I.Tecns3()SyhwAIdtadina4()Wecnadetp5()Wsadc6()E,t,adslr7()Hhcedyadpto8()Crp,igf,p,adt;a9()Pladcnc,iga,m0admgugA,adteplfrmgormec1()Mersrgp,r,orlntomet2neisadmetepcbsofA3V.Temsoftesycnsletacnfmagt4m.Teftmgoftecnslbecdbytefdsem5Teftmgoftecnslbehdwn45dsofteeedeoftss6Sxmsoftecnslceaq]
+[DELETED: B6N-ASIPe3V.Tecnslrtisfsadayrsfrplntoteptoftes,tesrofteheofr,tesc,tehec,teg,adteselyonorbeteftofehN4NwS;ClAnfrDeUeofAlI.AdRA57bigarsn8ktefgnwsClAnfrDeUeofAlI5lD.AsudintssI."lies"msaymdsmt,fretoito,isfmistogeo,shasc,p0r,ord,ttieplorvle1I."eueofali"msteueofanalies2inamrt3()Kyorrymstei,i,orayofan4pnore5()Kyc,a,ordsscctttarep6wdbetobea,weshbfismltoat,d,orr7a;o8()Osdeofteueofalieweshonrst9cnorctmymgurtec0I."cc"msa,v,a,ortlctgdo1myadbyaliesoastoartobecdbyanlp2I.'ym"mslytoatarepsc,d3m,orugofamlf45mPdC5I.Nopnsleeintedeueofalieinc6e,pla,llp,oraytnorinwer7byarpnisryf8I.Tssnslayrsofwrtealiesmi9dddybytepnorthana,c,ortyp05nCsofA1I.Aypnidbyavnoftssnmybgaclanintec2ctdtd3I.Apfslntberdtopealreiftedeueofa4iewsmladrylytom5I.Ehdtdnordtofdesccts6ceasev75oDsadR]
+[DELETED: B6N-ASIPe4I.Apfpgurtssnmyr()Ald,igecl,eld,adrlho()Sydsofntlstn$0adntmetn$0prvwrisgI.Iftectfstttevnwsk,w,orr,itmya()Ted,o()Sydsofupto$0prv,wrisgI.Tectmyaoa0()Reasfsadc1()Ieordyr;a2()Anorrgd,c,orrlofdescc35pAeD4I.Itslbeanaedetoananpdurtssnt5()TescctwscyadcyddasAdatt6teofd7()Teuecdp,s,orcypdbyteF8A,adarepnwdntbetecttobea;o9()TedtryrdonrsfmatyAIp0rgcewhtss1I.Tssnslntayt2()Ilrhortgntidfrpcd3()Lwetorjlusadbyl4()Ussyfrayortnp,wenodnisi5orryf6()Teprordrofaytyudintecnofscc7a8()Ayins,s,orasseprttpsore9crasbymeustoacrs,igsyaseors0ttpsastoteItadshssodorssodbylso1eli25qP3I.Terspdbytssnslbeceadslntpto4ltayorryaeurl,igRA35I.Ngintssnslbecdtoltcypds65EeD.Tsatslteet60dsarisp]
+[DELETED: d0B6-FLNSINATretoteotofaliLI:TeanidintebldsntfyfdteblatalpsrdaeadSeIY26FY27FY28FY20$0$0$eFeIeIeIeI0to$0to$0t0$0$gSlF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesanalieotfkwnteDtoebycgafltealieatpnadmsananof$0fmteGlFdtofdtep.A,tsbsasycnonteisofali,adcsanwceofanfrtedeueofalieDtofJesstsblesoefltealieanwnteAyGsOeadisanalanof$ofds,b,adadogc.TeDtastepdbecdasaDaS,SC1,bgatsp2,whtls,adogcsedatay$0inFY2,$0inF,ad$0inFY2,whcnbesdwntealadbyteb.A,tsblaoesanalieo.TeDtnsttpnontecncnbeadwgrsaddsntrtinale]
+[DELETED: eJlBhsstsblcsanwclceofanfrtedeueolieinteCtCtDtD.TeBhistswhanwadpycxceteonteDtDndtadwealaerstodpadmnf,gemdtgrsfrjsadcts.Beteveoffsadtyofshcsctbep,teJlBhsstefliti.H,teBhastendfratltoealflttpntoartepmadpeogtgtojsadsswlasaljladctsfrstoasteidc.TlBhesteflittobebn$0ad$0prflyginFY2,fdfmteGlFsbldsntfdnrdsitaeJlBhpSCtofJeadJlB]

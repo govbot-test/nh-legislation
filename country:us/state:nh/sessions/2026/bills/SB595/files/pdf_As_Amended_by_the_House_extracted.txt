@@ -1,0 +1,102 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB595-ASAMENDEDBYTHEHOUSE
+03/26/2026 1119s
+23Apr2026...1367h
+2026SESSION
+26-2185
+08/09
+595
+ANACT relativetorulemakingfortransientnon-communitywatersystems.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Avard, Dist 12; Sen. McGough, Dist 11; Sen. Pearl,
+Dist17;Sen.PerkinsKwoka,Dist21
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires rules made by the department of environmental services relative to drinking
+water include an option for sampling of transient non-community water systems under certain
+circumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB595-ASAMENDEDBYTHEHOUSE
+03/26/2026 1119s
+23Apr2026...1367h 26-2185
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetorulemakingfortransientnon-communitywatersystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DrinkingWaterRules. AmendRSA485:3,I(c)toreadasfollows:
+2 (c) Criteria and procedures to assure compliance with the levels or methods determined
+3 under subparagraph (b), including quality control monitoring and testing procedures and standards
+4 to ensure compliance with such levels or methods; criteria and standards to ensure proper operation
+5 and maintenance of the system; requirements as to the minimum quality of water which may be
+6 delivered to the consumer; and requirements with respect to siting new facilities. Such rules shall
+7 be no less stringent than the most recent national Primary Drinking Water Regulations in effect, as
+8 issued or promulgated by the United States Environmental Protection Agency. Such rules shall
+9 include the option for transient non-community water systems to remain on quarterly
+10 sampling if a sample is missed consistent with the criteria and procedures in 40 C.F.R.
+11 section141.854etseq,asamendedfromtimetotime.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B55-ASADBYTEH61.16SEBNATretorgfrttnywrs:S.M,Dt1;S.A,Dt1;S.M,Dt1;S.Pt1;S.PsK,Dt2:EyadNlRDAsblrsrsmebytedtofelssretodrieanonfrsgofttnywrssurc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B55-ASADBYTEH61.1h2EOFNWHnteYrofOrLdToTdTNATretorgfrttnywrseitEdbyteSeadHeofRsinGlCtc1DgWrR.AdRA4,I)tordasf()Caadpstoaecewhtelsormsdursh(,igqyclmgadtgpsadstoeecewhshlsorm;caadsstoeeproadmeoftes;rsastotemmqyofwrwhmybddtotec;adrswhrttosgnwf.ShrssbenolssttntemtrtnlPyDgWrRsine,aidorpdbyteUdSsElPnA.Shrssieteonfrttnywrsstornonq0sgifaseismdctwhtecaadpsin40C1sn14ets,asadfmtetot22EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB595-ASAMENDEDBYTHEHOUSE
+03/26/2026 1119s
+23Apr2026...1367h
+2026SESSION
+26-2185
+08/09
+595
+SENATEBILL
+ANACT relativetorulemakingfortransientnon-communitywatersystems.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Avard, Dist 12; Sen. McGough, Dist 11; Sen. Pearl,
+Dist17;Sen.PerkinsKwoka,Dist21
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires rules made by the department of environmental services relative to drinking
+water include an option for sampling of transient non-community water systems under certain
+circumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB595-ASAMENDEDBYTHEHOUSE
+03/26/2026 1119s
+23Apr2026...1367h 26-2185
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetorulemakingfortransientnon-communitywatersystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 DrinkingWaterRules. AmendRSA485:3,I(c)toreadasfollows:
+2 (c) Criteria and procedures to assure compliance with the levels or methods determined
+3 under subparagraph (b), including quality control monitoring and testing procedures and standards
+4 to ensure compliance with such levels or methods; criteria and standards to ensure proper operation
+5 and maintenance of the system; requirements as to the minimum quality of water which may be
+6 delivered to the consumer; and requirements with respect to siting new facilities. Such rules shall
+7 be no less stringent than the most recent national Primary Drinking Water Regulations in effect, as
+8 issued or promulgated by the United States Environmental Protection Agency. Such rules shall
+9 include the option for transient non-community water systems to remain on quarterly
+10 sampling if a sample is missed consistent with the criteria and procedures in 40 C.F.R.
+11 section141.854etseq,asamendedfromtimetotime.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B55-ASADBYTEH61.16SEBNATretorgfrttnywrs:S.M,Dt1;S.A,Dt1;S.M,Dt1;S.Pt1;S.PsK,Dt2:EyadNlRDAsblrsrsmebytedtofelssretodrieanonfrsgofttnywrssurc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B55-ASADBYTEH61.1h2EOFNWHnteYrofOrLdToTdTNATretorgfrttnywrseitEdbyteSeadHeofRsinGlCtc1DgWrR.AdRA4,I)tordasf()Caadpstoaecewhtelsormsdursh(,igqyclmgadtgpsadstoeecewhshlsorm;caadsstoeeproadmeoftes;rsastotemmqyofwrwhmybddtotec;adrswhrttosgnwf.ShrssbenolssttntemtrtnlPyDgWrRsine,aidorpdbyteUdSsElPnA.Shrssieteonfrttnywrsstornonq0sgifaseismdctwhtecaadpsin40C1sn14ets,asadfmtetot22EeD.Tsatslteet60dsarisp]

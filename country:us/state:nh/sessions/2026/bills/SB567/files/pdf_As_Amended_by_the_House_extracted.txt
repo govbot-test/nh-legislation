@@ -1,0 +1,210 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB567-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0682s
+14May2026...1750h
+14May2026...1965h
+2026SESSION
+26-2172
+09/06
+567-FN
+ANACT relative to the composition of the board of dental examiners and relative to the
+practiceofdentistryandwhenradiographicexaminationsarerequired.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Innis, Dist 7; Sen. Gannon, Dist 23; Sen. Pearl, Dist
+17
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Mandatesthatonememberoftheboardofdentalexaminersbeageneraldentist.
+II. Mandatesthatradiographicscreeningshallnotbeperformedbeforetheclinicalexamination.
+ThedecisiontoobtainaradiographorCBCTscanshallbemadeonthebasisofthepatient'smedical
+and dental histories, clinical examination, disease risk assessment, presence of a clinical condition,
+andpreviouslyobtainedradiographicimaging.
+III. Providesthatadentistmaytreatapatientwhodeclinestohavearadiographicexamination
+andthedentistinsuchcasesshallrequirethepatienttosignawaiverofliability.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB567-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0682s
+14May2026...1750h
+14May2026...1965h 26-2172
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the composition of the board of dental examiners and relative to the
+practiceofdentistryandwhenradiographicexaminationsarerequired.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Dentists and Dentistry; Examining Board; Membership. Amend RSA 317-A:2, I to read as
+2 follows:
+3 I. There shall be a board of dental examiners consisting of 9 members,[;] including 6
+4 dentists, 2 dental hygienists, and one public member, each to be appointed by the governor, with the
+5 approval of the council, to a term of 5 years. One dentist member shall have a current permit to
+6 administer general anesthesia and deep sedation, and one dentist member shall be a general
+7 dentist. No member of the board shall be appointed to more than 2 consecutive terms. Only board
+8 membersprovidedforinthisparagraphshallhavetheauthoritytovoteinboarddeterminations.
+9 2 Finding. With respect to section 3 of this section, the general court finds that general
+10 recommendation1.2fromtheJanuary2026publication"AmericanDentalAssociationandAmerican
+11 AcademyofOralandMaxillofacialRadiologypatientselectionfordentalradiographyandcone-beam
+12 computed tomography Clinical recommendations" in the Journal of the American Dental Association
+13 states that "radiographic screening shall not be performed before the clinical examination. The
+14 decisiontoobtainaradiographorCBCTscanshallbemadeonthebasisofthepatient'smedicaland
+15 dental histories, clinical examination, disease risk assessment, presence of a clinical condition, and
+16 previously obtained radiographic imaging. The benefits to the diagnosis and treatment planning
+17 must outweigh the potential risks from exposure to radiation, especially in the case of a child or
+18 youngadult."
+19 3 New Paragraph; Practice of Dentistry; X-Rays; When Required. Amend RSA 317-A:17 by
+20 insertingafterparagraphIIthefollowingnewparagraph:
+21 II-a. Notwithstanding RSA 317-A:17, II(g) and recognizing that the clinical guidelines
+22 published by the American Dental Association and the American Dental Hygienists Society state
+23 that they are not intended as regulatory documents, the board shall not take action against a
+24 licensee for variations from clinical guidelines intended to provide person-centered care that is
+25 specificforeachindividualandwhichconsiderstheperson'sneeds,valuesandpreferences.
+26 (a) Radiographic screening shall not be performed before the clinical examination. The
+27 decisiontoobtainaradiographorCBCTscanshallbemadeonthebasisofthepatient'smedicaland
+28 dental histories, clinical examination, disease risk assessment, presence of a clinical condition, and
+29 previously obtained radiographic imaging. The benefits to the diagnosis and treatment planning
+SB567-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 must outweigh the potential risks from exposure to radiation, especially in the case of a child or
+2 youngadult.
+3 (b) When the decision to obtain a radiograph is refused by the patient, the dentist may
+4 treat the patient who has declined to have a radiographic examination. In such cases, the dentist
+5 shall require the patient to sign a waiver of liability, indicating that the patient waives the right to
+6 sue the dentist in the event that the lack of a radiographic examination results in unforeseen injury
+7 to the patient. No dentist shall be subject to license suspension, revocation, or any other
+8 disciplinaryactionbytheboardforactionstakenpursuanttothisparagraph.
+9 4 EffectiveDate.
+10 I. Section1ofthisactshalltakeeffectSeptember1,2026.
+11 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2172
+05/18/2026
+SB567-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENTS#2026-1750hand#2026-1965h)
+ANACT relative to the composition of the board of dental examiners and relative to the
+practiceofdentistryandwhenradiographicexaminationsarerequired.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertification
+[DELETED: B5N-ASADBYTEH60.1.16SEBNATretotecnoftebdofdlesadretoteofdyadwnrcesaer:S.R,Dt1;S.I,Dt7;S.G,Dt2;S.P,D:EeDsadADAsb.Msttoemroftebdofdlesbeagld.MsttrcsgslntbepdbetecleedntoonarhorCTsnslbemeontebsoftepsmddlh,cle,derka,peofaclcdpyodrci.Psttadtmyttaptwodstohearcedtedtinshcsslretepttosnawrofl-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTEH60.1.1h2EOFNWHnteYrofOrLdToTdTNATretotecnoftebdofdlesadretoteofdyadwnrcesaereitEdbyteSeadHeofRsinGlCtc1DsadD;EgB;M.AdRA3,ItordafI.Teslbeabdofdlescgof9m]igd,2dlh,adoepcm,ehtobeadbyteg,whtaloftec,toatmof5y.Oedtmrslheactpttarglaaaddps,adoedtmrslbeagd.Nomroftebdslbeadtometn2cet.Oybmspdfrintsphslheteaytoveinbdd2F.Whrttosn3oftss,teglctfsttg0rn12fmteJy26pn"nDlAnadA1AyofOladMlRyptsnfrdlryadc2cdtyClr"inteJlofteAnDlA3sstt"csgslntbepdbetecle.T4dntoonarhorCTsnslbemeontebsoftepsmla5dlh,cle,derka,peofaclc,a6pyodrci.Tebstotedsadttp7mtohteplrsfmeetor,eyinteceofacdo8yga93NwP;PeofD;X;WnR.AdRA37b0igarphIItefgnwp1I.NgRA3,I)adrgttteclg2pdbyteAnDlAnadteAnDlHsSys3tttyaentidasryd,tebdslntteanat4lefrvsfmclgsidtopepdcetti5scfrehiladwhcstepsn,vsadp6()Rcsgslntbepdbetecle.T7dntoonarhorCTsnslbemeontebsoftepsmla8dlh,cle,derka,peofaclc,a9pyodrci.Tebstotedsadttp]
+[DELETED: B5N-ASADBYTEHPe2mtohteplrsfmeetor,eyinteceofacdoyga()Wntedntoonarhisrdbytep,tedtmttteptwohsddtohearce.Inshc,tedslretepttosnawrofl,igttteptwsterttsetedtinteettttelkofarcenrsinunitotep.Nodtslbesttoles,r,orayodyanbytebdfrastnpttotsp4EeD0I.Sn1oftsatslteetSr1,21I.Terroftsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTEHE(S#had#NATretotecnoftebdofdlesadretoteofdyadwnrcesaerLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCeofPlLeadC]
+
+
+================================================================================
+
+Raw Text:
+SB567-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0682s
+14May2026...1750h
+14May2026...1965h
+2026SESSION
+26-2172
+09/06
+567-FN
+SENATEBILL
+ANACT relative to the composition of the board of dental examiners and relative to the
+practiceofdentistryandwhenradiographicexaminationsarerequired.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Innis, Dist 7; Sen. Gannon, Dist 23; Sen. Pearl, Dist
+17
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Mandatesthatonememberoftheboardofdentalexaminersbeageneraldentist.
+II. Mandatesthatradiographicscreeningshallnotbeperformedbeforetheclinicalexamination.
+ThedecisiontoobtainaradiographorCBCTscanshallbemadeonthebasisofthepatient'smedical
+and dental histories, clinical examination, disease risk assessment, presence of a clinical condition,
+andpreviouslyobtainedradiographicimaging.
+III. Providesthatadentistmaytreatapatientwhodeclinestohavearadiographicexamination
+andthedentistinsuchcasesshallrequirethepatienttosignawaiverofliability.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB567-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0682s
+14May2026...1750h
+14May2026...1965h 26-2172
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the composition of the board of dental examiners and relative to the
+practiceofdentistryandwhenradiographicexaminationsarerequired.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Dentists and Dentistry; Examining Board; Membership. Amend RSA 317-A:2, I to read as
+2 follows:
+3 I. There shall be a board of dental examiners consisting of 9 members,[;] including 6
+4 dentists, 2 dental hygienists, and one public member, each to be appointed by the governor, with the
+5 approval of the council, to a term of 5 years. One dentist member shall have a current permit to
+6 administer general anesthesia and deep sedation, and one dentist member shall be a general
+7 dentist. No member of the board shall be appointed to more than 2 consecutive terms. Only board
+8 membersprovidedforinthisparagraphshallhavetheauthoritytovoteinboarddeterminations.
+9 2 Finding. With respect to section 3 of this section, the general court finds that general
+10 recommendation1.2fromtheJanuary2026publication"AmericanDentalAssociationandAmerican
+11 AcademyofOralandMaxillofacialRadiologypatientselectionfordentalradiographyandcone-beam
+12 computed tomography Clinical recommendations" in the Journal of the American Dental Association
+13 states that "radiographic screening shall not be performed before the clinical examination. The
+14 decisiontoobtainaradiographorCBCTscanshallbemadeonthebasisofthepatient'smedicaland
+15 dental histories, clinical examination, disease risk assessment, presence of a clinical condition, and
+16 previously obtained radiographic imaging. The benefits to the diagnosis and treatment planning
+17 must outweigh the potential risks from exposure to radiation, especially in the case of a child or
+18 youngadult."
+19 3 New Paragraph; Practice of Dentistry; X-Rays; When Required. Amend RSA 317-A:17 by
+20 insertingafterparagraphIIthefollowingnewparagraph:
+21 II-a. Notwithstanding RSA 317-A:17, II(g) and recognizing that the clinical guidelines
+22 published by the American Dental Association and the American Dental Hygienists Society state
+23 that they are not intended as regulatory documents, the board shall not take action against a
+24 licensee for variations from clinical guidelines intended to provide person-centered care that is
+25 specificforeachindividualandwhichconsiderstheperson'sneeds,valuesandpreferences.
+26 (a) Radiographic screening shall not be performed before the clinical examination. The
+27 decisiontoobtainaradiographorCBCTscanshallbemadeonthebasisofthepatient'smedicaland
+28 dental histories, clinical examination, disease risk assessment, presence of a clinical condition, and
+29 previously obtained radiographic imaging. The benefits to the diagnosis and treatment planning
+
+SB567-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 must outweigh the potential risks from exposure to radiation, especially in the case of a child or
+2 youngadult.
+3 (b) When the decision to obtain a radiograph is refused by the patient, the dentist may
+4 treat the patient who has declined to have a radiographic examination. In such cases, the dentist
+5 shall require the patient to sign a waiver of liability, indicating that the patient waives the right to
+6 sue the dentist in the event that the lack of a radiographic examination results in unforeseen injury
+7 to the patient. No dentist shall be subject to license suspension, revocation, or any other
+8 disciplinaryactionbytheboardforactionstakenpursuanttothisparagraph.
+9 4 EffectiveDate.
+10 I. Section1ofthisactshalltakeeffectSeptember1,2026.
+11 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2172
+05/18/2026
+SB567-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENTS#2026-1750hand#2026-1965h)
+ANACT relative to the composition of the board of dental examiners and relative to the
+practiceofdentistryandwhenradiographicexaminationsarerequired.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertification
+
+[DELETED: B5N-ASADBYTEH60.1.16SEBNATretotecnoftebdofdlesadretoteofdyadwnrcesaer:S.R,Dt1;S.I,Dt7;S.G,Dt2;S.P,D:EeDsadADAsb.Msttoemroftebdofdlesbeagld.MsttrcsgslntbepdbetecleedntoonarhorCTsnslbemeontebsoftepsmddlh,cle,derka,peofaclcdpyodrci.Psttadtmyttaptwodstohearcedtedtinshcsslretepttosnawrofl-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTEH60.1.1h2EOFNWHnteYrofOrLdToTdTNATretotecnoftebdofdlesadretoteofdyadwnrcesaereitEdbyteSeadHeofRsinGlCtc1DsadD;EgB;M.AdRA3,ItordafI.Teslbeabdofdlescgof9m]igd,2dlh,adoepcm,ehtobeadbyteg,whtaloftec,toatmof5y.Oedtmrslheactpttarglaaaddps,adoedtmrslbeagd.Nomroftebdslbeadtometn2cet.Oybmspdfrintsphslheteaytoveinbdd2F.Whrttosn3oftss,teglctfsttg0rn12fmteJy26pn"nDlAnadA1AyofOladMlRyptsnfrdlryadc2cdtyClr"inteJlofteAnDlA3sstt"csgslntbepdbetecle.T4dntoonarhorCTsnslbemeontebsoftepsmla5dlh,cle,derka,peofaclc,a6pyodrci.Tebstotedsadttp7mtohteplrsfmeetor,eyinteceofacdo8yga93NwP;PeofD;X;WnR.AdRA37b0igarphIItefgnwp1I.NgRA3,I)adrgttteclg2pdbyteAnDlAnadteAnDlHsSys3tttyaentidasryd,tebdslntteanat4lefrvsfmclgsidtopepdcetti5scfrehiladwhcstepsn,vsadp6()Rcsgslntbepdbetecle.T7dntoonarhorCTsnslbemeontebsoftepsmla8dlh,cle,derka,peofaclc,a9pyodrci.Tebstotedsadttp]
+[DELETED: B5N-ASADBYTEHPe2mtohteplrsfmeetor,eyinteceofacdoyga()Wntedntoonarhisrdbytep,tedtmttteptwohsddtohearce.Inshc,tedslretepttosnawrofl,igttteptwsterttsetedtinteettttelkofarcenrsinunitotep.Nodtslbesttoles,r,orayodyanbytebdfrastnpttotsp4EeD0I.Sn1oftsatslteetSr1,21I.Terroftsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTEHE(S#had#NATretotecnoftebdofdlesadretoteofdyadwnrcesaerLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCeofPlLeadC]

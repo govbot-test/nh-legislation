@@ -1,0 +1,149 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB438-ASAMENDEDBYTHESENATE
+03/05/2026 0773s
+2026SESSION
+26-2240
+08/09
+438
+ANACT relativetothesharingofdatabetweenthedepartmentof safetyand thesecretary
+ofstateforthepurposesofverifyingtheaccuracyofinformationinthecentralized
+voterregistrationdatabase.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Lang, Dist 2; Rep. Lane, Merr. 16; Rep.
+Telerski,Hills.11;Rep.Simpson,Rock.33
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the commissioner of safety and the secretary of state to enter into an
+agreement that enables the sharing of voter information from the department of safety with the
+secretaryofstateforuseinthecentralizedvoterdatabase.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB438-ASAMENDEDBYTHESENATE
+03/05/2026 0773s 26-2240
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothesharingofdatabetweenthedepartmentof safetyand thesecretary
+ofstateforthepurposesofverifyingtheaccuracyofinformationinthecentralized
+voterregistrationdatabase.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CentralizedVoterRegistrationDatabase. AmendRSA654:45,IV(b)toreadasfollows:
+2 (b) Voter database record data shall be verified by matching the records with those of
+3 the department of safety and the federal Social Security Administration as are required by law, and
+4 with the records of the state agency or division charged with maintaining vital records. For this
+5 purpose the voter registration record database may be linked to the state agency or division charged
+6 with maintaining vital records and the department of safety, provided that no linked agency or
+7 divisionmaysaveorretainvoterinformationoruseitforpurposesotherthanverifyingtheaccuracy
+8 of the information to be entered or contained in the voter database. The link authorized by this
+9 subparagraph shall not allow the department of state or election officials direct access to the motor
+10 vehicle registration or driver's license records maintained by the division of motor vehicles; provided
+11 that such link shall authorize the department of state to identify voter records with out-of-state
+12 driver's license information where the record cannot be matched to an in-state driver's license
+13 obtained within the deadline provided in RSA 263:35. The secretary of state shall authorize the
+14 release of information from the voter database necessary for the department of safety to notify an
+15 individualpursuanttoRSA263:35,II. Thecommissionerofsafety[may]shallauthorizetherelease
+16 of information from motor vehicle registration and driver's license records to the extent that the
+17 information is necessary to department of state and department of safety cooperation in a joint
+18 notification to individuals of apparent discrepancies in their records to the extent that the
+19 information is necessary to resolve those discrepancies or to complete voter registration. The
+20 commissioner of safety and the secretary of state [are authorized to] shall enter into an agreement
+21 that establishes the services to be provided by the department of safety and the cost for those
+22 services. Any agreement established shall be reviewed at least once every 3 years, or as
+23 needed. The department of safety shall not be required to provide any services under this
+24 subparagraph unless an agreement is in place and there are sufficient funds in the election fund to
+25 pay the cost for the services. The system shall facilitate the completion, identification, and
+26 correction of voter registration records, including but not limited to when a registered voter has died
+27 orhasbeendisenfranchisedpursuanttopartI,article11oftheNewHampshireconstitutionorRSA
+28 654:5 through RSA 654:6, or when the domicile address does not match the address provided by the
+29 sameindividualtothedepartmentofsafetyortoverifycitizenshipforvoterregistration.
+SB438-ASAMENDEDBYTHESENATE
+-Page2-
+1 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B48-ASADBYTES606SEBNATretotesgofdabntedtofsyadtesfsefrtepsofvgteayofinintecrrnd:S.PsK,Dt2;S.L,Dt2;R.L,M.1;R,H.1;R.S,R.3:EnLwadMlADAsblrstecrofsyadtesyofsetoerioatttestesgofvrinfmtedtofsywhtyofsefrueintecdvrd-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B48-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotesgofdabntedtofsyadtesfsefrtepsofvgteayofinintecrrndeitEdbyteSeadHeofRsinGlCtc1CdVrRnD.AdRA6,I)tordasf()VrderddaslbevdbymgterswhteotedtofsyadteflSlSyAnasaerdbyl,awhtersofteseayordncdwhmgvlr.Frtpetevrrnrddemybeldtoteseayordncwhmgvlrsadtedtofs,pdttnoldayodnmyseorrnvrinorueitfrpsortnvgteaofteintobeedorcdintevrd.Telkadbytshslntawtedtofseorenosdtastotem0vernordslersmdbytednofmrv;p1ttshlkslaetedtofsetoiyvrrswho2dsleinweterdctbemdtoaniedsl3odwntedepdinRA2.Tesyofseslaet4reofinfmtevrdenyfrtedtofsytonya5ilpttoRA2,I.Tecrofsy[]slaeter6ofinfmmrvernaddslerstoteetttt7inisnytodtofseaddtofsycninaj8nntoisofatdsintrrstoteetttt9inisnytoretedsortocevrr.T0crofsyadtesyofse[eadt]slerioana1ttestesstobepdbytedtofsyadtectfrt2s.Ayatedslberdatltoeey3y,ora3n.Tedtofsyslntberdtopeayssurt4shusanatisinpeadteaestfsinteenfdt5pytectfrtes.Tesmslfetec,i,a6cnofvrrnr,igbtntldtownardvrhsd7orhsbnddpttoptI,ae11ofteNwHecnorR865thRA6,orwntedeasdsntmhteaspdbyt9seiltotedtofsyortovycpfrvrr]
+[DELETED: B48-ASADBYTESPe22EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB438-ASAMENDEDBYTHESENATE
+03/05/2026 0773s
+2026SESSION
+26-2240
+08/09
+438
+SENATEBILL
+ANACT relativetothesharingofdatabetweenthedepartmentof safetyand thesecretary
+ofstateforthepurposesofverifyingtheaccuracyofinformationinthecentralized
+voterregistrationdatabase.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Lang, Dist 2; Rep. Lane, Merr. 16; Rep.
+Telerski,Hills.11;Rep.Simpson,Rock.33
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the commissioner of safety and the secretary of state to enter into an
+agreement that enables the sharing of voter information from the department of safety with the
+secretaryofstateforuseinthecentralizedvoterdatabase.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB438-ASAMENDEDBYTHESENATE
+03/05/2026 0773s 26-2240
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothesharingofdatabetweenthedepartmentof safetyand thesecretary
+ofstateforthepurposesofverifyingtheaccuracyofinformationinthecentralized
+voterregistrationdatabase.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CentralizedVoterRegistrationDatabase. AmendRSA654:45,IV(b)toreadasfollows:
+2 (b) Voter database record data shall be verified by matching the records with those of
+3 the department of safety and the federal Social Security Administration as are required by law, and
+4 with the records of the state agency or division charged with maintaining vital records. For this
+5 purpose the voter registration record database may be linked to the state agency or division charged
+6 with maintaining vital records and the department of safety, provided that no linked agency or
+7 divisionmaysaveorretainvoterinformationoruseitforpurposesotherthanverifyingtheaccuracy
+8 of the information to be entered or contained in the voter database. The link authorized by this
+9 subparagraph shall not allow the department of state or election officials direct access to the motor
+10 vehicle registration or driver's license records maintained by the division of motor vehicles; provided
+11 that such link shall authorize the department of state to identify voter records with out-of-state
+12 driver's license information where the record cannot be matched to an in-state driver's license
+13 obtained within the deadline provided in RSA 263:35. The secretary of state shall authorize the
+14 release of information from the voter database necessary for the department of safety to notify an
+15 individualpursuanttoRSA263:35,II. Thecommissionerofsafety[may]shallauthorizetherelease
+16 of information from motor vehicle registration and driver's license records to the extent that the
+17 information is necessary to department of state and department of safety cooperation in a joint
+18 notification to individuals of apparent discrepancies in their records to the extent that the
+19 information is necessary to resolve those discrepancies or to complete voter registration. The
+20 commissioner of safety and the secretary of state [are authorized to] shall enter into an agreement
+21 that establishes the services to be provided by the department of safety and the cost for those
+22 services. Any agreement established shall be reviewed at least once every 3 years, or as
+23 needed. The department of safety shall not be required to provide any services under this
+24 subparagraph unless an agreement is in place and there are sufficient funds in the election fund to
+25 pay the cost for the services. The system shall facilitate the completion, identification, and
+26 correction of voter registration records, including but not limited to when a registered voter has died
+27 orhasbeendisenfranchisedpursuanttopartI,article11oftheNewHampshireconstitutionorRSA
+28 654:5 through RSA 654:6, or when the domicile address does not match the address provided by the
+29 sameindividualtothedepartmentofsafetyortoverifycitizenshipforvoterregistration.
+
+SB438-ASAMENDEDBYTHESENATE
+-Page2-
+1 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B48-ASADBYTES606SEBNATretotesgofdabntedtofsyadtesfsefrtepsofvgteayofinintecrrnd:S.PsK,Dt2;S.L,Dt2;R.L,M.1;R,H.1;R.S,R.3:EnLwadMlADAsblrstecrofsyadtesyofsetoerioatttestesgofvrinfmtedtofsywhtyofsefrueintecdvrd-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B48-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotesgofdabntedtofsyadtesfsefrtepsofvgteayofinintecrrndeitEdbyteSeadHeofRsinGlCtc1CdVrRnD.AdRA6,I)tordasf()VrderddaslbevdbymgterswhteotedtofsyadteflSlSyAnasaerdbyl,awhtersofteseayordncdwhmgvlr.Frtpetevrrnrddemybeldtoteseayordncwhmgvlrsadtedtofs,pdttnoldayodnmyseorrnvrinorueitfrpsortnvgteaofteintobeedorcdintevrd.Telkadbytshslntawtedtofseorenosdtastotem0vernordslersmdbytednofmrv;p1ttshlkslaetedtofsetoiyvrrswho2dsleinweterdctbemdtoaniedsl3odwntedepdinRA2.Tesyofseslaet4reofinfmtevrdenyfrtedtofsytonya5ilpttoRA2,I.Tecrofsy[]slaeter6ofinfmmrvernaddslerstoteetttt7inisnytodtofseaddtofsycninaj8nntoisofatdsintrrstoteetttt9inisnytoretedsortocevrr.T0crofsyadtesyofse[eadt]slerioana1ttestesstobepdbytedtofsyadtectfrt2s.Ayatedslberdatltoeey3y,ora3n.Tedtofsyslntberdtopeayssurt4shusanatisinpeadteaestfsinteenfdt5pytectfrtes.Tesmslfetec,i,a6cnofvrrnr,igbtntldtownardvrhsd7orhsbnddpttoptI,ae11ofteNwHecnorR865thRA6,orwntedeasdsntmhteaspdbyt9seiltotedtofsyortovycpfrvrr]
+[DELETED: B48-ASADBYTESPe22EeD.TsatslteetJy1,2]

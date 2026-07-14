@@ -1,0 +1,185 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB503-ASAMENDEDBYTHESENATE
+02/19/2026 0513s
+2026SESSION
+26-2099
+12/09
+503
+ANACT relativetotheuseofspruce-pine-firlumber.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Sullivan, Dist 18; Sen. Birdsell, Dist 19; Sen.
+McGough, Dist 11; Sen. Gray, Dist 6; Sen. Avard, Dist 12; Sen. Innis, Dist 7; Sen.
+Watters, Dist 4; Sen. McConkey, Dist 3; Sen. Ward, Dist 8; Sen. Gannon, Dist 23;
+Sen. Lang, Dist 2; Sen. Murphy, Dist 16; Sen. Reardon, Dist 15; Sen. Pearl, Dist
+17; Sen. Carson, Dist 14; Sen. Perkins Kwoka, Dist 21; Sen. Abbas, Dist 22; Rep.
+A.Davis,Coos2;Rep.Ouellet,Coos3
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill promotes the use of New Hampshire-grown spruce-pine-fir lumber by specifying that
+spruce-pine-fir (SPF) lumber shall include spruce-pine-fir-south (SPFS) lumber within the New
+Hampshirebuildingcode.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB503-ASAMENDEDBYTHESENATE
+02/19/2026 0513s 26-2099
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofspruce-pine-firlumber.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. The majority of structural timber harvested for building materials in New Hampshire
+3 comes from Coos County and many areas of Coos County extend farther north than portions of
+4 Canadawherelumberisgradedassprucepinefir(SPF).
+5 II. TimbergradedasSPFfromCanadaisviewedasstrongeranddenserunderinternational
+6 design standards in part because of cold climate growth conditions; however, New Hampshire's
+7 northern climate, soils, and growing conditions are substantially similar, and produce the same
+8 speciesofspruce,pine,andfirincludedintheSPFdesignation.
+9 III. Architects and engineers typically specify "SPF" lumber in certain residential
+10 construction documents. Because "SPF" is an international designation reserved to Canadian
+11 graded wood, New Hampshire's native lumber graders cannot certify New Hampshire-grown spruce,
+12 pine, and fir as SPF. Instead, the same species must be graded as spruce-pine-fir south (SPFS),
+13 whichisviewedintheindustryasaseparate,slightlyweakerclassification.
+14 IV. This technical distinction disadvantages New Hampshire sawmills, loggers, and the
+15 forest products industry, even though New Hampshire-grown wood from the north country is of
+16 equaltypeandquality.
+17 V. It is therefore the policy of the state of New Hampshire to ensure that New Hampshire
+18 families and New Hampshire builders can build New Hampshire homes with New Hampshire wood
+19 byeliminatingthebarrierbetweenSPFandSPFSwithinthestatebuildingcode.
+20 VI. The general court of New Hampshire finds that wood density should be a latitudinal
+21 demarcationratherthananarbitrarydesignationofdensitybaseduponpoliticalborders. Viewedas
+22 latitude, New Hampshire encompasses 42 degrees, 40 minutes north up to 45 degrees, 18 minutes.
+23 Timber harvested to produce building lumber between the latitude of 43 degrees, 45 minutes, 18
+24 seconds north to 45 degrees, 18 minutes north warrants the same density demarcation as Canadian
+25 SPFunlessotherwisedesignatedbyalicensedarchitectorstructuralengineer.
+26 2 New Section; Use of Spruce-Pine-Fir (SPF) and Spruce-Pine-Fir-South (SPFS). Amend RSA
+27 155-Abyinsertingaftersection14thefollowingnewsection:
+28 155-A:15 UseofSpruce-Pine-Fir(SPF)LumberandSpruce-Pine-Fir-South(SPFS)Lumber.
+29 I. For purposes of the state building code, spruce-pine-fir south (SPFS) lumber harvested
+30 and milled in New Hampshire and graded either by a grader permitted under RSA 426:18 or by an
+SB503-ASAMENDEDBYTHESENATE
+-Page2-
+1 American Lumber Standard Committee (ALSC) accredited agency shall be accepted wherever
+2 spruce-pine-fir(SPF)isspecified.
+3 II. Structural design and inspection shall use the published SPFS design values for the
+4 gradeandsizeprovided.
+5 III. Where a code evaluation report, product listing, or manufacturer's installation
+6 instructions differentiate allowable loads or limitations by lumber species group, the allowable loads
+7 corresponding to the installed species group shall be used. When SPFS lumber is installed, the
+8 values for SPFS shall govern. This requirement applies to, but is not limited to, structural
+9 connectors,hangers,fasteners,trussplates,adhesives,andproprietarysystems.
+10 IV. Municipalities shall accept either a native lumber certificate pursuant to RSA 426:18 or
+11 anALSCgradestampassufficientproofofgrade.
+12 V. Nothing herein prevents a licensed architect or engineer from specifying higher strength
+13 materials if required for safety and structural integrity of a structure. Licensed architects and
+14 structural engineers shall also consider and provide alternative options of construction utilizing
+15 SPFSlumber.
+16 VI. ThissectionshallnotbeconstruedtoprohibittheuseofSPFlumbergradedbyanALSC
+17 accreditedagency.
+18 3 EffectiveDate. Thisactshalltakeeffect180daysafterpassage.
+[DELETED: B53-ASADBYTES606SEBNATretoteueofsrl:S.R,Dt1;S.S,Dt1;S.B,Dt1;S,Dt1;S.G,Dt6;S.A,Dt1;S.I,Dt7;S,Dt4;S.M,Dt3;S.W,Dt8;S.G,Dt2.L,Dt2;S.M,Dt1;S.R,Dt1;S.P,D;S.C,Dt1;S.PsK,Dt2;S.A,Dt2;R.D,Cs2;R.O,Cs:CsblpsteueofNwHnsrlrbysgtr()lrsliesh()lrwnteNebgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B53-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretoteueofsrleitEdbyteSeadHeofRsinGlCtc1StofFsadP.TeglctfstI.TemyofsltrhdfrbgmsinNwHcsfmCsCyadmyasofCsCyedfrnhtnpsoCawelrisgdassepefr(I.TrgdasSFfmCaisvdassraddruridnssinptbeofcdceghc;h,NwHnnc,s,adggcsaesys,adpetesssofs,p,adfridinteSFdI.Asadestysy""lrincnr0cnd.Be""isanildnrdtoC1gdw,NwHsnelrgsctcyNwHns2p,adfrasS.I,tesessmtbegdassrsh(3whisvdinteiyasas,sywrc4I.TstldndsNwHes,l,adt5ftpsi,enthNwHnwdfmtenhcyiso6elteadq7V.ItistetepyofteseofNwHetoeettNwH8fsadNwHebscnbdNwHehswhNwHew9byegtebrbnSFadSSwntesebgc0V.TeglctofNwHefsttwddysdbeal1dnrrtnanaydnofdybdunplb.Vda2l,NwHees42d,40msnhupto45d,18m3Trhdtopebglrbnteleof43d,45m,14ssnhto45d,18msnhwstesedydnasC5SFusoeddbyaldatorsle62NwS;UeofSr()adSh(.AdR71Abyigarsn14tefgnws815UeofSr()LradSh()L9I.Frpsoftesebgc,srsh()lrh0admdinNwHeadgderbyagrpdurRA48orbya]
+[DELETED: B53-ASADBYTESPe2AnLrSdCe()adayslbeadwsr()issI.SldnadinsluetepdSSdnvsfrtgeadsepI.Weaceenr,ptl,ormsiisdeaelsorlsbylrssg,teaelcgtoteidssgpslbeu.WnSSlrisi,tvsfrSSslg.Tsrtast,btisntldt,sc,h,f,tsp,a,adpys0I.MsslateranelrcepttoRA48o1anACgespasstpfofg2V.Nghnpsaldatorerfmsghrs3msifrdfrsyadsliyofas.Ldasa4slesslaocradpeaeosofcnu5SSl6V.TssnslntbecdtoptteueofSFlrgdbyanA7ada83EeD.Tsatslteet10dsarp]
+
+
+================================================================================
+
+Raw Text:
+SB503-ASAMENDEDBYTHESENATE
+02/19/2026 0513s
+2026SESSION
+26-2099
+12/09
+503
+SENATEBILL
+ANACT relativetotheuseofspruce-pine-firlumber.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Sullivan, Dist 18; Sen. Birdsell, Dist 19; Sen.
+McGough, Dist 11; Sen. Gray, Dist 6; Sen. Avard, Dist 12; Sen. Innis, Dist 7; Sen.
+Watters, Dist 4; Sen. McConkey, Dist 3; Sen. Ward, Dist 8; Sen. Gannon, Dist 23;
+Sen. Lang, Dist 2; Sen. Murphy, Dist 16; Sen. Reardon, Dist 15; Sen. Pearl, Dist
+17; Sen. Carson, Dist 14; Sen. Perkins Kwoka, Dist 21; Sen. Abbas, Dist 22; Rep.
+A.Davis,Coos2;Rep.Ouellet,Coos3
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill promotes the use of New Hampshire-grown spruce-pine-fir lumber by specifying that
+spruce-pine-fir (SPF) lumber shall include spruce-pine-fir-south (SPFS) lumber within the New
+Hampshirebuildingcode.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB503-ASAMENDEDBYTHESENATE
+02/19/2026 0513s 26-2099
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofspruce-pine-firlumber.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. The majority of structural timber harvested for building materials in New Hampshire
+3 comes from Coos County and many areas of Coos County extend farther north than portions of
+4 Canadawherelumberisgradedassprucepinefir(SPF).
+5 II. TimbergradedasSPFfromCanadaisviewedasstrongeranddenserunderinternational
+6 design standards in part because of cold climate growth conditions; however, New Hampshire's
+7 northern climate, soils, and growing conditions are substantially similar, and produce the same
+8 speciesofspruce,pine,andfirincludedintheSPFdesignation.
+9 III. Architects and engineers typically specify "SPF" lumber in certain residential
+10 construction documents. Because "SPF" is an international designation reserved to Canadian
+11 graded wood, New Hampshire's native lumber graders cannot certify New Hampshire-grown spruce,
+12 pine, and fir as SPF. Instead, the same species must be graded as spruce-pine-fir south (SPFS),
+13 whichisviewedintheindustryasaseparate,slightlyweakerclassification.
+14 IV. This technical distinction disadvantages New Hampshire sawmills, loggers, and the
+15 forest products industry, even though New Hampshire-grown wood from the north country is of
+16 equaltypeandquality.
+17 V. It is therefore the policy of the state of New Hampshire to ensure that New Hampshire
+18 families and New Hampshire builders can build New Hampshire homes with New Hampshire wood
+19 byeliminatingthebarrierbetweenSPFandSPFSwithinthestatebuildingcode.
+20 VI. The general court of New Hampshire finds that wood density should be a latitudinal
+21 demarcationratherthananarbitrarydesignationofdensitybaseduponpoliticalborders. Viewedas
+22 latitude, New Hampshire encompasses 42 degrees, 40 minutes north up to 45 degrees, 18 minutes.
+23 Timber harvested to produce building lumber between the latitude of 43 degrees, 45 minutes, 18
+24 seconds north to 45 degrees, 18 minutes north warrants the same density demarcation as Canadian
+25 SPFunlessotherwisedesignatedbyalicensedarchitectorstructuralengineer.
+26 2 New Section; Use of Spruce-Pine-Fir (SPF) and Spruce-Pine-Fir-South (SPFS). Amend RSA
+27 155-Abyinsertingaftersection14thefollowingnewsection:
+28 155-A:15 UseofSpruce-Pine-Fir(SPF)LumberandSpruce-Pine-Fir-South(SPFS)Lumber.
+29 I. For purposes of the state building code, spruce-pine-fir south (SPFS) lumber harvested
+30 and milled in New Hampshire and graded either by a grader permitted under RSA 426:18 or by an
+
+SB503-ASAMENDEDBYTHESENATE
+-Page2-
+1 American Lumber Standard Committee (ALSC) accredited agency shall be accepted wherever
+2 spruce-pine-fir(SPF)isspecified.
+3 II. Structural design and inspection shall use the published SPFS design values for the
+4 gradeandsizeprovided.
+5 III. Where a code evaluation report, product listing, or manufacturer's installation
+6 instructions differentiate allowable loads or limitations by lumber species group, the allowable loads
+7 corresponding to the installed species group shall be used. When SPFS lumber is installed, the
+8 values for SPFS shall govern. This requirement applies to, but is not limited to, structural
+9 connectors,hangers,fasteners,trussplates,adhesives,andproprietarysystems.
+10 IV. Municipalities shall accept either a native lumber certificate pursuant to RSA 426:18 or
+11 anALSCgradestampassufficientproofofgrade.
+12 V. Nothing herein prevents a licensed architect or engineer from specifying higher strength
+13 materials if required for safety and structural integrity of a structure. Licensed architects and
+14 structural engineers shall also consider and provide alternative options of construction utilizing
+15 SPFSlumber.
+16 VI. ThissectionshallnotbeconstruedtoprohibittheuseofSPFlumbergradedbyanALSC
+17 accreditedagency.
+18 3 EffectiveDate. Thisactshalltakeeffect180daysafterpassage.
+
+[DELETED: B53-ASADBYTES606SEBNATretoteueofsrl:S.R,Dt1;S.S,Dt1;S.B,Dt1;S,Dt1;S.G,Dt6;S.A,Dt1;S.I,Dt7;S,Dt4;S.M,Dt3;S.W,Dt8;S.G,Dt2.L,Dt2;S.M,Dt1;S.R,Dt1;S.P,D;S.C,Dt1;S.PsK,Dt2;S.A,Dt2;R.D,Cs2;R.O,Cs:CsblpsteueofNwHnsrlrbysgtr()lrsliesh()lrwnteNebgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B53-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretoteueofsrleitEdbyteSeadHeofRsinGlCtc1StofFsadP.TeglctfstI.TemyofsltrhdfrbgmsinNwHcsfmCsCyadmyasofCsCyedfrnhtnpsoCawelrisgdassepefr(I.TrgdasSFfmCaisvdassraddruridnssinptbeofcdceghc;h,NwHnnc,s,adggcsaesys,adpetesssofs,p,adfridinteSFdI.Asadestysy""lrincnr0cnd.Be""isanildnrdtoC1gdw,NwHsnelrgsctcyNwHns2p,adfrasS.I,tesessmtbegdassrsh(3whisvdinteiyasas,sywrc4I.TstldndsNwHes,l,adt5ftpsi,enthNwHnwdfmtenhcyiso6elteadq7V.ItistetepyofteseofNwHetoeettNwH8fsadNwHebscnbdNwHehswhNwHew9byegtebrbnSFadSSwntesebgc0V.TeglctofNwHefsttwddysdbeal1dnrrtnanaydnofdybdunplb.Vda2l,NwHees42d,40msnhupto45d,18m3Trhdtopebglrbnteleof43d,45m,14ssnhto45d,18msnhwstesedydnasC5SFusoeddbyaldatorsle62NwS;UeofSr()adSh(.AdR71Abyigarsn14tefgnws815UeofSr()LradSh()L9I.Frpsoftesebgc,srsh()lrh0admdinNwHeadgderbyagrpdurRA48orbya]
+[DELETED: B53-ASADBYTESPe2AnLrSdCe()adayslbeadwsr()issI.SldnadinsluetepdSSdnvsfrtgeadsepI.Weaceenr,ptl,ormsiisdeaelsorlsbylrssg,teaelcgtoteidssgpslbeu.WnSSlrisi,tvsfrSSslg.Tsrtast,btisntldt,sc,h,f,tsp,a,adpys0I.MsslateranelrcepttoRA48o1anACgespasstpfofg2V.Nghnpsaldatorerfmsghrs3msifrdfrsyadsliyofas.Ldasa4slesslaocradpeaeosofcnu5SSl6V.TssnslntbecdtoptteueofSFlrgdbyanA7ada83EeD.Tsatslteet10dsarp]

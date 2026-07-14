@@ -1,0 +1,104 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER61
+SB428-FINALVERSION
+2026SESSION
+26-2019
+09/06
+428
+ANACT relative to the maximum amount of terms an individual can serve on the electricians'
+board.
+SPONSORS: Sen. Pearl, Dist 17; Sen. McGough, Dist 11; Sen. Gannon, Dist 23; Sen. Altschiller,
+Dist24;Rep.Layon,Rock.13;Rep.C.McGuire,Merr.27
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillincreasesthetotalnumberoftermsmembersoftheelectricians'boardmayserve.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER61
+SB428-FINALVERSION
+26-2019
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the maximum amount of terms an individual can serve on the electricians'
+board.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 61:1 Electricians;Board. AmendRSA319-C:4,IandI-atoreadasfollows:
+2 I. There shall be an electricians' board consisting of 5 members, including 2 master electricians,
+3 one journeyman electrician, and 2 public members, each to be appointed by the governor, with the
+4 approvalofthecouncil,toatermof5years. Nomemberoftheboardshallbeappointedtomorethan[2]
+5 3terms. The state fire marshal or his designee shall be an ex officio member of the board, but shall not
+6 voteinboarddeterminations.
+7 I-a. No member of the board shall serve more than [12]16years, including the time of [2]35-
+8 yearterms,beingheldoverafteratermexpires,andfulfillinganunexpiredterm. Members'termsshallbe
+9 staggered and in no case shall any member's term coincide with another member's term. To avoid
+10 coinciding terms, the next appointment for a member shall be for a term which complies with this
+11 paragraph.
+61:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May08,2026
+EffectiveDate:July07,2026
+[DELETED: R6B48-FLV6SEBNATretotemmatoftsanilcnseontee:S.P,Dt1;S.M,Dt1;S.G,Dt2;S.At2;R.L,R.1;R.C.M,M.2:EeDsadAsblistetlnroftsmsoftee'bdmys-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R6B48-FLVEOFNWHNATretotemmatoftsanilcnseontee61E;B.AdRA3,IadIatordasfI.Teslbeane'bdcgof5m,ig2mreoejne,ad2pcm,ehtobeadbyteg,whtaloftec,toatmof5y.Nomroftebdslbeadtometn[3.Tesefemlorhsdeslbeanexoomrofteb,btslnveinbddI.Nomroftebdslsemetn[]1,igteteof[]3yrt,bghdoraratme,adfganudt.M'tsslbsdadinnoceslaymstmcewharmst.Toa0cgt,tentatframrslbefratmwhcswht1p2EeD.Tsatslteet60dsarisp:My0,2eD:Jy0,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER61
+SB428-FINALVERSION
+2026SESSION
+26-2019
+09/06
+428
+SENATEBILL
+ANACT relative to the maximum amount of terms an individual can serve on the electricians'
+board.
+SPONSORS: Sen. Pearl, Dist 17; Sen. McGough, Dist 11; Sen. Gannon, Dist 23; Sen. Altschiller,
+Dist24;Rep.Layon,Rock.13;Rep.C.McGuire,Merr.27
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillincreasesthetotalnumberoftermsmembersoftheelectricians'boardmayserve.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER61
+SB428-FINALVERSION
+26-2019
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the maximum amount of terms an individual can serve on the electricians'
+board.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 61:1 Electricians;Board. AmendRSA319-C:4,IandI-atoreadasfollows:
+2 I. There shall be an electricians' board consisting of 5 members, including 2 master electricians,
+3 one journeyman electrician, and 2 public members, each to be appointed by the governor, with the
+4 approvalofthecouncil,toatermof5years. Nomemberoftheboardshallbeappointedtomorethan[2]
+5 3terms. The state fire marshal or his designee shall be an ex officio member of the board, but shall not
+6 voteinboarddeterminations.
+7 I-a. No member of the board shall serve more than [12]16years, including the time of [2]35-
+8 yearterms,beingheldoverafteratermexpires,andfulfillinganunexpiredterm. Members'termsshallbe
+9 staggered and in no case shall any member's term coincide with another member's term. To avoid
+10 coinciding terms, the next appointment for a member shall be for a term which complies with this
+11 paragraph.
+61:2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May08,2026
+EffectiveDate:July07,2026
+
+[DELETED: R6B48-FLV6SEBNATretotemmatoftsanilcnseontee:S.P,Dt1;S.M,Dt1;S.G,Dt2;S.At2;R.L,R.1;R.C.M,M.2:EeDsadAsblistetlnroftsmsoftee'bdmys-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R6B48-FLVEOFNWHNATretotemmatoftsanilcnseontee61E;B.AdRA3,IadIatordasfI.Teslbeane'bdcgof5m,ig2mreoejne,ad2pcm,ehtobeadbyteg,whtaloftec,toatmof5y.Nomroftebdslbeadtometn[3.Tesefemlorhsdeslbeanexoomrofteb,btslnveinbddI.Nomroftebdslsemetn[]1,igteteof[]3yrt,bghdoraratme,adfganudt.M'tsslbsdadinnoceslaymstmcewharmst.Toa0cgt,tentatframrslbefratmwhcswht1p2EeD.Tsatslteet60dsarisp:My0,2eD:Jy0,2]

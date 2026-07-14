@@ -1,0 +1,163 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB460-FN-ASINTRODUCED
+2026SESSION
+26-2225
+09/06
+460-FN
+ANACT relativetotheoffenseofloiteringorprowling.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Gannon, Dist 23; Sen. Birdsell,
+Dist 19; Sen. Altschiller, Dist 24; Rep. Lynn, Rock. 17; Rep. Perez, Rock. 16; Rep.
+Kuttab,Rock.17;Rep.Rhodes,Ches.17;Rep.Roy,Rock.31
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits certain registered offenders who are required to register due to a sexual
+offense against a child under 13 years of age from appearing within 1,000 feet of certain locations
+undercircumstancesthatwouldwarrantalarm.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB460-FN-ASINTRODUCED
+26-2225
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofloiteringorprowling.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Loitering or Prowling. Amend RSA 644:6 by inserting after paragraph I the
+2 followingnewparagraph:
+3 I-a. A person commits a violation if he or she, while being required to register as a tier II or
+4 tier III offender under RSA 651-B as a result of a sexual offense against a child under 13 years of
+5 age, knowingly appears within 1,000 feet of any of the following places under circumstances that
+6 warrantalarmforthesafetyofpersonsinthevicinity:
+7 (a) Anychildcarefacility.
+8 (b) Anychurch.
+9 (c) Anyschool.
+10 (d) Anyareawhereareasonablepersonwouldknowthatminorchildrencongregate.
+11 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2225
+10/14/25
+SB460-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofloiteringorprowling.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B4N-ASI6SEBNATretoteoeoflgorp:S.R,Dt9;S.W,Dt4;S.G,Dt2;S.Bt1;S.A,Dt2;R.L,R.1;R.P,R.1;R,R.1;R.R,C.1;R.R,R.3:Jsblpscnrdoswoaerdtorrdetoaseatacdur13ysofaefmagwn10ftofcnlrcsttwdwtasblisartoftedtofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretoteoeoflgorpeitEdbyteSeadHeofRsinGlCtc1NwP;LgorP.AdRA66byigarphItfgnwpI.Apncsavnifheors,webgrdtorrasatrIIotrIIorurRA6Basartofasloeatacdur13ysoa,kyaswn10ftofayoftefgpsurcstwtamfrtesyofpsintev()Aycef()Ayc()Ays0()Ayaawearepnwdkwttmrcnc12EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretoteoeoflgorpLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB460-FN-ASINTRODUCED
+2026SESSION
+26-2225
+09/06
+460-FN
+SENATEBILL
+ANACT relativetotheoffenseofloiteringorprowling.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Gannon, Dist 23; Sen. Birdsell,
+Dist 19; Sen. Altschiller, Dist 24; Rep. Lynn, Rock. 17; Rep. Perez, Rock. 16; Rep.
+Kuttab,Rock.17;Rep.Rhodes,Ches.17;Rep.Roy,Rock.31
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits certain registered offenders who are required to register due to a sexual
+offense against a child under 13 years of age from appearing within 1,000 feet of certain locations
+undercircumstancesthatwouldwarrantalarm.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB460-FN-ASINTRODUCED
+26-2225
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofloiteringorprowling.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Loitering or Prowling. Amend RSA 644:6 by inserting after paragraph I the
+2 followingnewparagraph:
+3 I-a. A person commits a violation if he or she, while being required to register as a tier II or
+4 tier III offender under RSA 651-B as a result of a sexual offense against a child under 13 years of
+5 age, knowingly appears within 1,000 feet of any of the following places under circumstances that
+6 warrantalarmforthesafetyofpersonsinthevicinity:
+7 (a) Anychildcarefacility.
+8 (b) Anychurch.
+9 (c) Anyschool.
+10 (d) Anyareawhereareasonablepersonwouldknowthatminorchildrencongregate.
+11 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2225
+10/14/25
+SB460-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofloiteringorprowling.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B4N-ASI6SEBNATretoteoeoflgorp:S.R,Dt9;S.W,Dt4;S.G,Dt2;S.Bt1;S.A,Dt2;R.L,R.1;R.P,R.1;R,R.1;R.R,C.1;R.R,R.3:Jsblpscnrdoswoaerdtorrdetoaseatacdur13ysofaefmagwn10ftofcnlrcsttwdwtasblisartoftedtofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretoteoeoflgorpeitEdbyteSeadHeofRsinGlCtc1NwP;LgorP.AdRA66byigarphItfgnwpI.Apncsavnifheors,webgrdtorrasatrIIotrIIorurRA6Basartofasloeatacdur13ysoa,kyaswn10ftofayoftefgpsurcstwtamfrtesyofpsintev()Aycef()Ayc()Ays0()Ayaawearepnwdkwttmrcnc12EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretoteoeoflgorpLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

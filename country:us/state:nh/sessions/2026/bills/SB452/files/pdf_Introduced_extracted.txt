@@ -1,0 +1,203 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB452 -ASINTRODUCED
+2026SESSION
+26-2024
+05/09
+452
+ANACT enabling health care providers to offer certain complementary and alternative
+healthcareservices.
+SPONSORS: Sen.Ward,Dist8;Sen.Long,Dist20;Sen.Avard,Dist12;Sen.Rochefort,Dist1
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables an individual to offer certain complementary and alternative health care
+services to patients notwithstanding state licensing requirements, provided that the individual does
+not engage in certain conduct, and the individual discloses their qualifications and obtains informed
+consentfromthepatientforsuchservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB452-ASINTRODUCED
+26-2024
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling health care providers to offer certain complementary and alternative
+healthcareservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Complementary and Alternative Health Care Practice Act. Amend RSA by
+2 insertingafterchapter310-Cthefollowingnewchapter:
+3 CHAPTER310-D
+4 COMPLEMENTARYANDALTERNATIVEHEALTHCAREPRACTICEACT
+5 310-D:1 Short Title. This chapter may be cited as the "Complementary and Alternative Health
+6 CarePracticeAct".
+7 310-D:2 Definition of Complementary and Alternative Health Care Services. "Complementary
+8 and alternative health care services" means health care and healing methods, modalities,
+9 treatments, procedures, or protocols that have not been generally adopted by a profession, or that
+10 arenotgenerallyconsideredtobewithintheprevailingstandardsofcareofaprofession.
+11 310-D:3 Licensing Exemption. Notwithstanding New Hampshire licensing laws related to
+12 health care occupations and services, a person who provides complementary and alternative health
+13 care services and who is not licensed by the state of New Hampshire to practice a health care
+14 occupation shall not violate any New Hampshire licensing law relating to health care occupations
+15 andservicesunlessthatindividual:
+16 I. EngagesinanactivityprohibitedunderRSA310-D:4;or
+17 II. FailstofulfillthedutiessetforthinRSA310-D:5.
+18 310-D:4 Prohibited Acts. A person providing complementary and alternative health care
+19 servicesshallnot:
+20 I. Performsurgeryonanindividual.
+21 II. Administerx-rayradiationtoanindividual.
+22 III. Setfracturesonanindividual.
+23 IV. Prescribeordispenseprescriptiondrugsorcontrolledsubstancestoanindividual.
+24 V. Directlymanipulatethejointsorspineofanindividual.
+25 VI. Make a recommendation to discontinue current medical treatment prescribed by a
+26 licensedhealthcarepractitioner.
+27 VII. Hold himself or herself out as or imply that he or she is licensed by the state of New
+28 Hampshireasahealthcareproviderifheorsheisnot.
+SB452 -ASINTRODUCED
+-Page2-
+1 310-D:5 Disclosures. Except for persons acting pursuant to the direction of licensed health care
+2 facilities or licensed health care providers while working within the scope of their employment or
+3 direction,acomplementaryandalternativehealthcarepractitionershalldoallofthefollowing:
+4 I. Provide to a client prior to rendering services a client information document, either in
+5 writing in plain language that the client understands or, if the client cannot read, orally in a
+6 languagetheclientunderstands,containingthefollowing:
+7 (a) The name, complementary and alternative health care title, business address, and
+8 telephonenumberofthepersonprovidingthecomplementaryandalternativehealthcareservices.
+9 (b) A statement that the person providing complementary and alternative health care
+10 servicesisnotahealthcarepractitionerlicensedbythestateofNewHampshire.
+11 (c) A statement describing the nature of the complementary and alternative health care
+12 servicesgenerallyprovided.
+13 (d) Thedegrees,education,training,experience,orotherqualifications,ifany,regarding
+14 the complementary and alternative health care services to be provided held by the person providing
+15 thecomplementaryandalternativehealthcareservice.
+16 II. Post a copyof theclient information document in aprominent locationin theoffice of the
+17 unlicensedcomplementaryandalternativehealthcarepractitioner.
+18 III. Obtain a written acknowledgment from a client, stating that the client has been
+19 provided with a copy of the information document described in paragraph I. The client shall be
+20 provided with a copy of the written acknowledgment, which shall be maintained for 2 years by the
+21 complementary and alternative health care practitioner providing the complementary and
+22 alternativehealthcareservice.
+23 310-D:6 Civil Relief. Nothing in this chapter shall be construed to limit the right of any
+24 person to seek relief for negligence or any other civil remedy against a person providing services
+25 subjecttotherequirementsofthischapter.
+26 310-D:7 Scope of Practice. This chapter shall not affect the scope of practice of a health care
+27 professional licensed under this title or their right to practice complementary or alternative health
+28 care. This chapter shall not be construed to prevent a person from providing complementary or
+29 alternative health care services that would otherwise be exempt under this title. This chapter may
+30 not be construed to require a person to be licensed to provide services who would otherwise be
+31 exemptunderthistitle.
+32 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B42-ASI6SEBNATeghhcepstoorcncyadahces:S.W,Dt8;S.L,Dt2;S.A,Dt1;S.R,Dt:HhadHnSsblesaniltoorcncyadaehhcstopsngselgr,pdttteildteeincnc,adteildstrqsadositfmteptfrshs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B42-ASIEOFNWHnteYrofOrLdToTdTNATeghhcepstoorcncyadahceseitEdbyteSeadHeofRsinGlCtc1NwC;CyadAeHhCePeA.AdRAbigarcr3CtefgnwcCR3CYADAEHHCEPEA31StT.Tscrmybecdaste"yadAeHCePeA32DnofCyadAeHhCeS."adaehhces"mshhceadhgm,mt,p,orpstthentbngyadbyap,ort0aentgycdtobewntepgssofceofap133LgE.NgNwHelglsrdt2hhceosads,apnwopscyadaeh3cessadwoisntldbyteseofNwHetopeahhc4onslntveayNwHelglwrgtohhceo5adssustti6I.EsinanaypdurRA3;o7I.FstofltedsstfhinRA3834PdA.Apnpgcyadaehhc9sssln0I.Pmsyonani1I.Arxyrntoani2I.Stfsonani3I.Peordepndsorcdsstoani4V.Dymetejsorseofani5V.Mearntodectmlttpdby6ldhhcep7V.HdhforhfotasoriyttheorseisldbyteseofN8Heasahhceprifheorseisn]
+[DELETED: B42-ASIPe235D.Etfrpsagpttotednofldhhcfsorldhhcepswewgwnteseoftretod,acyadaehhceprsldoaloftefI.Petoactprtorgssactind,eriwginpnletttectuso,iftectctr,oyinletectu,cgtef()Ten,cyadaehhcet,bsa,atenroftepnpgtecyadaehhces()Asttttepnpgcyadaehhc0ssisntahhceprldbyteseofNwH1()Astdgteneoftecyadaehhc2ssgyp3()Ted,e,t,e,ororq,ifa,r4tecyadaehhcesstobepdhdbytepnp5tecyadaehhces6I.Ptacyoftectindtinaptlninteoeoft7udcyadaehhcep8I.Onawnatfmac,sgtttecthsb9pdwhacyofteindtddinphI.Tectslb0pdwhacyoftewna,whslbemdfr2ysbyt1cyadaehhceprpgtecya2aehhces336ClR.Ngintscrslbecdtolttertofa4pntoskrffrneorayorclryatapnpgs5sttotersoftsc637SeofP.Tscrslntatteseofpeofahhc7plldurtsteortrrttopecyoraeh8c.Tscrslntbecdtoptapnfmpgcyo9aehhcessttwdoebeeturtst.Tscrm0ntbecdtoreapntobeldtopesswowdoeb1eturtst22EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB452 -ASINTRODUCED
+2026SESSION
+26-2024
+05/09
+452
+SENATEBILL
+ANACT enabling health care providers to offer certain complementary and alternative
+healthcareservices.
+SPONSORS: Sen.Ward,Dist8;Sen.Long,Dist20;Sen.Avard,Dist12;Sen.Rochefort,Dist1
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables an individual to offer certain complementary and alternative health care
+services to patients notwithstanding state licensing requirements, provided that the individual does
+not engage in certain conduct, and the individual discloses their qualifications and obtains informed
+consentfromthepatientforsuchservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB452-ASINTRODUCED
+26-2024
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling health care providers to offer certain complementary and alternative
+healthcareservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Complementary and Alternative Health Care Practice Act. Amend RSA by
+2 insertingafterchapter310-Cthefollowingnewchapter:
+3 CHAPTER310-D
+4 COMPLEMENTARYANDALTERNATIVEHEALTHCAREPRACTICEACT
+5 310-D:1 Short Title. This chapter may be cited as the "Complementary and Alternative Health
+6 CarePracticeAct".
+7 310-D:2 Definition of Complementary and Alternative Health Care Services. "Complementary
+8 and alternative health care services" means health care and healing methods, modalities,
+9 treatments, procedures, or protocols that have not been generally adopted by a profession, or that
+10 arenotgenerallyconsideredtobewithintheprevailingstandardsofcareofaprofession.
+11 310-D:3 Licensing Exemption. Notwithstanding New Hampshire licensing laws related to
+12 health care occupations and services, a person who provides complementary and alternative health
+13 care services and who is not licensed by the state of New Hampshire to practice a health care
+14 occupation shall not violate any New Hampshire licensing law relating to health care occupations
+15 andservicesunlessthatindividual:
+16 I. EngagesinanactivityprohibitedunderRSA310-D:4;or
+17 II. FailstofulfillthedutiessetforthinRSA310-D:5.
+18 310-D:4 Prohibited Acts. A person providing complementary and alternative health care
+19 servicesshallnot:
+20 I. Performsurgeryonanindividual.
+21 II. Administerx-rayradiationtoanindividual.
+22 III. Setfracturesonanindividual.
+23 IV. Prescribeordispenseprescriptiondrugsorcontrolledsubstancestoanindividual.
+24 V. Directlymanipulatethejointsorspineofanindividual.
+25 VI. Make a recommendation to discontinue current medical treatment prescribed by a
+26 licensedhealthcarepractitioner.
+27 VII. Hold himself or herself out as or imply that he or she is licensed by the state of New
+28 Hampshireasahealthcareproviderifheorsheisnot.
+
+SB452 -ASINTRODUCED
+-Page2-
+1 310-D:5 Disclosures. Except for persons acting pursuant to the direction of licensed health care
+2 facilities or licensed health care providers while working within the scope of their employment or
+3 direction,acomplementaryandalternativehealthcarepractitionershalldoallofthefollowing:
+4 I. Provide to a client prior to rendering services a client information document, either in
+5 writing in plain language that the client understands or, if the client cannot read, orally in a
+6 languagetheclientunderstands,containingthefollowing:
+7 (a) The name, complementary and alternative health care title, business address, and
+8 telephonenumberofthepersonprovidingthecomplementaryandalternativehealthcareservices.
+9 (b) A statement that the person providing complementary and alternative health care
+10 servicesisnotahealthcarepractitionerlicensedbythestateofNewHampshire.
+11 (c) A statement describing the nature of the complementary and alternative health care
+12 servicesgenerallyprovided.
+13 (d) Thedegrees,education,training,experience,orotherqualifications,ifany,regarding
+14 the complementary and alternative health care services to be provided held by the person providing
+15 thecomplementaryandalternativehealthcareservice.
+16 II. Post a copyof theclient information document in aprominent locationin theoffice of the
+17 unlicensedcomplementaryandalternativehealthcarepractitioner.
+18 III. Obtain a written acknowledgment from a client, stating that the client has been
+19 provided with a copy of the information document described in paragraph I. The client shall be
+20 provided with a copy of the written acknowledgment, which shall be maintained for 2 years by the
+21 complementary and alternative health care practitioner providing the complementary and
+22 alternativehealthcareservice.
+23 310-D:6 Civil Relief. Nothing in this chapter shall be construed to limit the right of any
+24 person to seek relief for negligence or any other civil remedy against a person providing services
+25 subjecttotherequirementsofthischapter.
+26 310-D:7 Scope of Practice. This chapter shall not affect the scope of practice of a health care
+27 professional licensed under this title or their right to practice complementary or alternative health
+28 care. This chapter shall not be construed to prevent a person from providing complementary or
+29 alternative health care services that would otherwise be exempt under this title. This chapter may
+30 not be construed to require a person to be licensed to provide services who would otherwise be
+31 exemptunderthistitle.
+32 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B42-ASI6SEBNATeghhcepstoorcncyadahces:S.W,Dt8;S.L,Dt2;S.A,Dt1;S.R,Dt:HhadHnSsblesaniltoorcncyadaehhcstopsngselgr,pdttteildteeincnc,adteildstrqsadositfmteptfrshs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B42-ASIEOFNWHnteYrofOrLdToTdTNATeghhcepstoorcncyadahceseitEdbyteSeadHeofRsinGlCtc1NwC;CyadAeHhCePeA.AdRAbigarcr3CtefgnwcCR3CYADAEHHCEPEA31StT.Tscrmybecdaste"yadAeHCePeA32DnofCyadAeHhCeS."adaehhces"mshhceadhgm,mt,p,orpstthentbngyadbyap,ort0aentgycdtobewntepgssofceofap133LgE.NgNwHelglsrdt2hhceosads,apnwopscyadaeh3cessadwoisntldbyteseofNwHetopeahhc4onslntveayNwHelglwrgtohhceo5adssustti6I.EsinanaypdurRA3;o7I.FstofltedsstfhinRA3834PdA.Apnpgcyadaehhc9sssln0I.Pmsyonani1I.Arxyrntoani2I.Stfsonani3I.Peordepndsorcdsstoani4V.Dymetejsorseofani5V.Mearntodectmlttpdby6ldhhcep7V.HdhforhfotasoriyttheorseisldbyteseofN8Heasahhceprifheorseisn]
+[DELETED: B42-ASIPe235D.Etfrpsagpttotednofldhhcfsorldhhcepswewgwnteseoftretod,acyadaehhceprsldoaloftefI.Petoactprtorgssactind,eriwginpnletttectuso,iftectctr,oyinletectu,cgtef()Ten,cyadaehhcet,bsa,atenroftepnpgtecyadaehhces()Asttttepnpgcyadaehhc0ssisntahhceprldbyteseofNwH1()Astdgteneoftecyadaehhc2ssgyp3()Ted,e,t,e,ororq,ifa,r4tecyadaehhcesstobepdhdbytepnp5tecyadaehhces6I.Ptacyoftectindtinaptlninteoeoft7udcyadaehhcep8I.Onawnatfmac,sgtttecthsb9pdwhacyofteindtddinphI.Tectslb0pdwhacyoftewna,whslbemdfr2ysbyt1cyadaehhceprpgtecya2aehhces336ClR.Ngintscrslbecdtolttertofa4pntoskrffrneorayorclryatapnpgs5sttotersoftsc637SeofP.Tscrslntatteseofpeofahhc7plldurtsteortrrttopecyoraeh8c.Tscrslntbecdtoptapnfmpgcyo9aehhcessttwdoebeeturtst.Tscrm0ntbecdtoreapntobeldtopesswowdoeb1eturtst22EeD.TsatslteetJy1,2]

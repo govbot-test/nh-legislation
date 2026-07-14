@@ -1,0 +1,182 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SB611-FN-ASINTRODUCED
+2026SESSION
+26-2206
+05/09
+611-FN
+ANACT relativetoratesettingparityforMedicaidstateplancasemanagementservices.
+SPONSORS: Sen.Avard,Dist12
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to annually establish rates for
+Medicaid state plan case management services to create rate parity for such services within the
+program.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB611-FN-ASINTRODUCED
+26-2206
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoratesettingparityforMedicaidstateplancasemanagementservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;RateSettingParityforMedicaidStatePlanCaseManagementServices. Amend
+2 RSA126-Abyinsertingaftersection18-bthefollowingnewsection:
+3 126-A:18-c RateSettingParityforMedicaidStatePlanCaseManagementServices.
+4 I. Annually, on or before October 1, the department of health and human services shall
+5 establish unit rates for all case management services paid under the state Medicaid plan which
+6 betterreflecttheaveragecosttodeliverservices.
+7 II. The department shall consider the factors of economy, efficiency, quality of care, and
+8 accesstocare,inaccordancewithguidelinesinfederalregulations.
+9 III. The department shall ensure equitable rate parity by giving comprehensive
+10 consideration to factors which cause disparity, including but not limited to administrative payments
+11 ofoverheadcostsmadetocertainproviders,inthecalculationstoachieveparity.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2206
+Revised1/7/26
+SB611-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoratesettingparityforMedicaidstateplancasemanagementservices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$2.3millionto $2.3millionto $2.3millionto
+$6.45million $6.45million $6.45million
+generalfunds; generalfunds; generalfunds;
+Expenditures* $0
+$2.1millionto $2.1millionto $2.1millionto
+$6.25million $6.25million $6.25million
+federalfunds federalfunds federalfunds
+FundingSource(s)
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to establish unit rates for all
+Medicaid case management services that better reflect the average cost to deliver services. The
+bill requires the Department to consider the factors of economy, efficiency, quality of care, and
+access to care, and to give comprehensive consideration to factors which cause disparity, such as
+administrativepayments of overhead costs made tocertain providers. The Department assumes
+that the reference to overhead costs relates to the Designated Area Agency Delivery System
+(DAADS), and that the bill is intended to equate the rates for case management services with
+those for DAADS services. The Department notes DAADS services are not equivalent to case
+management services, and further notes that state plan case management services are not
+currently eligible for Medicaid administrative payments, per the federal Centers for Medicare
+and Medicaid Services (CMS). If CMS ultimately allows the Department to provide
+administrativepaymentstostateplancasemanagementservices,providerswouldberequiredto
+prepare audited cost report submissions, in keeping with the process followed by area agencies
+that receive the CMS-approved DAADS rate. In the absence of audited data, the Department is
+unable to accurately determine a fiscal impact, but estimates that the new rates required by the
+billwillcostbetween$4.2millionand$12.5millionintotalfundsannually,ofwhichhalf,or$2.1
+millionto $6.25 million, will begeneral funds. In addition, the Department assumes it will need
+onefinancialspecialisttoauditcostreports,atageneralfundcostof$101,000inFY27,$106,000
+in FY28 and $110,000 in FY29. Finally, to set the rates based on the cost reports, the
+Department assumes a budget analyst will be needed, at a general fund cost of $101,000 in
+FY27,$106,000inFY28and$110,000inFY29.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+
+================================================================================
+
+Raw Text:
+SB611-FN-ASINTRODUCED
+2026SESSION
+26-2206
+05/09
+611-FN
+SENATEBILL
+ANACT relativetoratesettingparityforMedicaidstateplancasemanagementservices.
+SPONSORS: Sen.Avard,Dist12
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to annually establish rates for
+Medicaid state plan case management services to create rate parity for such services within the
+program.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB611-FN-ASINTRODUCED
+26-2206
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoratesettingparityforMedicaidstateplancasemanagementservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;RateSettingParityforMedicaidStatePlanCaseManagementServices. Amend
+2 RSA126-Abyinsertingaftersection18-bthefollowingnewsection:
+3 126-A:18-c RateSettingParityforMedicaidStatePlanCaseManagementServices.
+4 I. Annually, on or before October 1, the department of health and human services shall
+5 establish unit rates for all case management services paid under the state Medicaid plan which
+6 betterreflecttheaveragecosttodeliverservices.
+7 II. The department shall consider the factors of economy, efficiency, quality of care, and
+8 accesstocare,inaccordancewithguidelinesinfederalregulations.
+9 III. The department shall ensure equitable rate parity by giving comprehensive
+10 consideration to factors which cause disparity, including but not limited to administrative payments
+11 ofoverheadcostsmadetocertainproviders,inthecalculationstoachieveparity.
+12 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2206
+Revised1/7/26
+SB611-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoratesettingparityforMedicaidstateplancasemanagementservices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$2.3millionto $2.3millionto $2.3millionto
+$6.45million $6.45million $6.45million
+generalfunds; generalfunds; generalfunds;
+Expenditures* $0
+$2.1millionto $2.1millionto $2.1millionto
+$6.25million $6.25million $6.25million
+federalfunds federalfunds federalfunds
+FundingSource(s)
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to establish unit rates for all
+Medicaid case management services that better reflect the average cost to deliver services. The
+bill requires the Department to consider the factors of economy, efficiency, quality of care, and
+access to care, and to give comprehensive consideration to factors which cause disparity, such as
+administrativepayments of overhead costs made tocertain providers. The Department assumes
+that the reference to overhead costs relates to the Designated Area Agency Delivery System
+(DAADS), and that the bill is intended to equate the rates for case management services with
+those for DAADS services. The Department notes DAADS services are not equivalent to case
+management services, and further notes that state plan case management services are not
+currently eligible for Medicaid administrative payments, per the federal Centers for Medicare
+and Medicaid Services (CMS). If CMS ultimately allows the Department to provide
+administrativepaymentstostateplancasemanagementservices,providerswouldberequiredto
+prepare audited cost report submissions, in keeping with the process followed by area agencies
+that receive the CMS-approved DAADS rate. In the absence of audited data, the Department is
+unable to accurately determine a fiscal impact, but estimates that the new rates required by the
+billwillcostbetween$4.2millionand$12.5millionintotalfundsannually,ofwhichhalf,or$2.1
+
+millionto $6.25 million, will begeneral funds. In addition, the Department assumes it will need
+onefinancialspecialisttoauditcostreports,atageneralfundcostof$101,000inFY27,$106,000
+in FY28 and $110,000 in FY29. Finally, to set the rates based on the cost reports, the
+Department assumes a budget analyst will be needed, at a general fund cost of $101,000 in
+FY27,$106,000inFY28and$110,000inFY29.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices

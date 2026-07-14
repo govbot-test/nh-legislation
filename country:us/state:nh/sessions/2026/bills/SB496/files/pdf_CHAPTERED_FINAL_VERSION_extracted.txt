@@ -1,0 +1,104 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER189
+SB496-FINALVERSION
+2026SESSION
+26-2061
+07/09
+496
+ANACT relativetosupervisionandregistrationrequirementsforassociatesofbroker-dealers.
+SPONSORS: Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Sen. Fenton, Dist 10; Sen. Watters, Dist
+4;Sen.Gannon,Dist23;Sen.Innis,Dist7;Rep.Miles,Hills.12
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts certain private residences designated by broker-dealers as a supervisory location
+frombeingclassifiedasabranchoffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER189
+SB496-FINALVERSION
+26-2061
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetosupervisionandregistrationrequirementsforassociatesofbroker-dealers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 189:1 Securities; Uniform Securities Act; Definitions. Amend RSA 421-B:1-102, 5(B) to read as
+2 follows:
+3 (B) Notwithstandingtheexclusionsprovidedinsubsection(5)(A)(ii),anylocationthat
+4 is responsible for supervising the activities of agents of the broker dealer at one or more non-branch
+5 locationsofthebroker-dealershallbeabranchoffice. Notwithstandingtheforegoing,aprivateresidence
+6 designatedbyabroker-dealerasaresidentialsupervisorylocationincompliancewithFINRARule
+7 3110.19,orsuccessorrule,shallnotbedeemedabranchofficeforpurposesofthischapter.
+8 189:2 NewSubparagraph; Securities; Uniform SecuritiesAct; Definitions. AmendRSA 421-B:1-102,
+9 5byinsertingaftersubparagraph(C)thefollowingnewsubparagraph:
+10 (D) “Residential supervisory location” means a private residence from which an
+11 associated person engages in supervisory functions that a broker-dealer has designated as a residential
+12 supervisorylocationincompliancewithFINRARule3110.19,orsuccessorrule.
+189:3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:June19,2026
+EffectiveDate:June19,2026
+[DELETED: R1B46-FLV6SEBNATretosnadrnrsfrasofb:S.M,Dt1;S.P,Dt1;S.F,Dt1;S.W,D;S.G,Dt2;S.I,Dt7;R.M,H.1:Csblescnpersddbybsasasylmbgcdasabho-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B46-FLVEOFNWHNATretosnadrnrsfrasofb11S;UmSsA;D.AdRA4,5)tordaf()Ngteespdinsn(,aylntisrefrsgteasofasoftebrdratoeormenlsoftebrslbeabho.Ndabarylew312NwS;S;UmSsA;D.AdRA45byigarsh()tefgnws0()“lsyl”msaperefmwha1adpnesinsyfsttabrhsddasar2sylnincewhFARe3,orsrr3EeD.Tsatslteetunisp:Je1,2eD:Je1,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER189
+SB496-FINALVERSION
+2026SESSION
+26-2061
+07/09
+496
+SENATEBILL
+ANACT relativetosupervisionandregistrationrequirementsforassociatesofbroker-dealers.
+SPONSORS: Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Sen. Fenton, Dist 10; Sen. Watters, Dist
+4;Sen.Gannon,Dist23;Sen.Innis,Dist7;Rep.Miles,Hills.12
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts certain private residences designated by broker-dealers as a supervisory location
+frombeingclassifiedasabranchoffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER189
+SB496-FINALVERSION
+26-2061
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetosupervisionandregistrationrequirementsforassociatesofbroker-dealers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 189:1 Securities; Uniform Securities Act; Definitions. Amend RSA 421-B:1-102, 5(B) to read as
+2 follows:
+3 (B) Notwithstandingtheexclusionsprovidedinsubsection(5)(A)(ii),anylocationthat
+4 is responsible for supervising the activities of agents of the broker dealer at one or more non-branch
+5 locationsofthebroker-dealershallbeabranchoffice. Notwithstandingtheforegoing,aprivateresidence
+6 designatedbyabroker-dealerasaresidentialsupervisorylocationincompliancewithFINRARule
+7 3110.19,orsuccessorrule,shallnotbedeemedabranchofficeforpurposesofthischapter.
+8 189:2 NewSubparagraph; Securities; Uniform SecuritiesAct; Definitions. AmendRSA 421-B:1-102,
+9 5byinsertingaftersubparagraph(C)thefollowingnewsubparagraph:
+10 (D) “Residential supervisory location” means a private residence from which an
+11 associated person engages in supervisory functions that a broker-dealer has designated as a residential
+12 supervisorylocationincompliancewithFINRARule3110.19,orsuccessorrule.
+189:3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:June19,2026
+EffectiveDate:June19,2026
+
+[DELETED: R1B46-FLV6SEBNATretosnadrnrsfrasofb:S.M,Dt1;S.P,Dt1;S.F,Dt1;S.W,D;S.G,Dt2;S.I,Dt7;R.M,H.1:Csblescnpersddbybsasasylmbgcdasabho-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B46-FLVEOFNWHNATretosnadrnrsfrasofb11S;UmSsA;D.AdRA4,5)tordaf()Ngteespdinsn(,aylntisrefrsgteasofasoftebrdratoeormenlsoftebrslbeabho.Ndabarylew312NwS;S;UmSsA;D.AdRA45byigarsh()tefgnws0()“lsyl”msaperefmwha1adpnesinsyfsttabrhsddasar2sylnincewhFARe3,orsrr3EeD.Tsatslteetunisp:Je1,2eD:Je1,2]

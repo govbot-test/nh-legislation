@@ -1,0 +1,560 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SB618-FN-ASINTRODUCED
+2026SESSION
+26-2196
+09/05
+618-FN
+ANACT relativetothepenaltiesforrepeatspeedingoffenders.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Fenton, Dist 10; Sen. Watters, Dist 4; Sen. Long, Dist
+20; Sen. Birdsell, Dist 19; Sen. Perkins Kwoka, Dist 21; Rep. Rhodes, Ches. 17;
+Rep.Crawford,Carr.3
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows for the department of safety and courts to require drivers to install a device that
+uses GPS to actively limit the vehicle's speed to posted or preset speed limits, following certain
+offensesrelatedtospeeding.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB618-FN-ASINTRODUCED
+26-2196
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltiesforrepeatspeedingoffenders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Excessive Speeding. Amend RSA 265 by inserting after section 67 the
+2 followingnewsubdivision:
+3 ExcessiveSpeeding
+4 265:67-a Definitions.
+5 I. “Intelligent speed assistance (ISA) device” means an aftermarket device that uses GPS to
+6 actively limit the vehicle's speed to posted or preset speed limits. Devices must be tamper-resistant
+7 and capable of reporting attempts to disable or circumvent functionality. Active "intelligent speed
+8 assistance device" does not include any technology that is provided by the vehicle manufacturer as a
+9 componentofanewmotorvehicleandthatcontrolsoraffectsthespeedofamotorvehicle.
+10 II. “Department”meansthedepartmentofsafety.
+11 III. “Excessivespeeding” means travelingover 100miles per hour oncontrolled access roads
+12 or50milesperhourabovethepostedspeedlimitonsecondaryroads.
+13 IV. “Eligible offender” means a person whose license is suspended due to a conviction or
+14 administrative finding of excessive speeding, racing pursuant to RSA 265:75, or reckless driving
+15 wherespeedwasafactor,orapersonwhohasexceededmorethanadeterminednumberofspeeding
+16 ticketsperyear,asdefinedbyrule.
+17 265:67-b DataCollection.
+18 I. All data collected under this subdivision shall be securely maintained by the ISA device
+19 provider. Data related to violations involving tampering with, circumventing, or removing the ISA
+20 devicemaybesharedwiththedepartmentorthecourtthatorderedtheinstallationofthedevice.
+21 II. Data collected under this subdivision may only be shared under the following
+22 circumstances:
+23 (a) Whenrequiredbyacourtorder;
+24 (b) Asdirectedbyastatestatuteorregulation;
+25 (c) Withthedepartmentortheorderingcourtincasesinvolvingviolationsfortampering
+26 with,circumventing,orremovingthedevice;or
+27 (d) If the data is depersonalized and aggregated for research or evaluation purposes,
+28 suchasassessingtheeffectivenessofISAoffenderprogramsincollaborationwiththirdparties.
+29 265:67-c UseofISADevices.
+30 I. The department may require installation and use of an ISA device as a condition for
+31 licensereinstatementforanyeligibleoffender.
+SB618-FN-ASINTRODUCED
+-Page2-
+1 II. Ifaperson'slicensehasbeensuspendedunderthissubdivision,thetermsofrestricted or
+2 revokedlicense reinstatementmayrequirethepersontouseaproperlyfunctioningISAdevicewhile
+3 operatingamotorvehicle.
+4 III. If a person has exceeded a defined number of speeding tickets per year, as determined
+5 by the department of safety through rules adopted pursuant to RSA 541-A, they may be subject to
+6 installingthisdeviceasaconditionofkeepingtheirlicense.
+7 IV. A person subject to the requirements of this section shall not operate a motor vehicle
+8 withoutaproperlyfunctioningdeviceforthedurationoftherestrictedlicense.
+9 V. ApersonsubjecttotherequirementsinthissectionshallprovideproofofISAinstallation
+10 tothedepartmentthroughaformapprovedbythedepartmentfromanISAvendor.
+11 VI. The offender shall bear the cost of leasing, installing, and maintaining the ISA device,
+12 unlessdeterminedlowincomebythedepartment,pursuanttoRSA265:67-d.
+13 VII. The ISA device shall be operational on any vehicle the offender operates for a period of
+14 notlessthan12monthsfollowingreinstatement.
+15 265:67-d ProgramAffordability.
+16 I. The offender shall bear the cost of leasing, installing, and maintaining the ISA device,
+17 unless determined low income by the department and qualified to participate in an affordability
+18 program to partially offset the costs of the device. Persons meeting this standard shall receive
+19 discounts for installation of the device and removal of the device and a discount on the monthly
+20 deviceleaserate.
+21 II. Personsapplyingforlowincomestatusshallbedeemedtoqualifyforsuchstatusif:
+22 (a) Theyshowproofofenrollmentinanyofthefollowingpublicassistanceprograms:
+23 (1) TemporaryAssistanceforNeedyFamilies(TANF);
+24 (2) SupplementalSecurityIncome(SSI);
+25 (3) SupplementalNutritionalAssistanceProgram(SNAP);
+26 (4) LowIncomeHomeEnergyAssistanceProgram(LIHEAP);or
+27 (b) The individual’s household income is at or below 150 percent of the federal poverty
+28 levelasdocumented.
+29 265:67-e CertificationandInstallation.
+30 I. To be eligible to install, repair, maintain, monitor, or remove an intelligent speed
+31 assistance device, a company shall apply to the department and meet the requirements as provided
+32 inthissection.
+33 II. An applicant seeking approval to install the device shall submit a declaration to the
+34 departmentthatthedeviceisanintelligentspeedassistancedeviceasdefinedinthissubdivision.
+35 III. To maintain eligibility under this section, a certified ISA or ignition interlock device
+36 provider or installer shall submit the results of a criminal background check to the department
+37 annuallyforanyindividualthatishiredtoinstall,repair,maintain,monitor,orremovethedevice.
+SB618-FN-ASINTRODUCED
+-Page3-
+1 IV. Only certified ISA devices and installers of ISA and ignition interlock devices may be
+2 usedtomeettherequirementsofthissubdivision.
+3 V. The department shall adopt regulations pursuant to RSA 541-A governing the
+4 certificationofISAdeviceprovidersandinstallers.
+5 265:67-f ProgramAdministration.
+6 Thedepartmentshallestablishproceduresfor:
+7 I. NotifyingoffendersofISArequirements;
+8 II. VerifyinginstallationandcontinuedfunctionalityofISAdevices;and
+9 III. Monitoringcomplianceandrespondingtoviolations.
+10 265:67-g PenaltiesforNoncompliance.
+11 I. A person who is restricted to the use of a vehicle equipped with an intelligent speed
+12 assistancedeviceisnoncompliantiftherestricteddriver:
+13 (a) Tampers with the device or any components of the device, or otherwise interferes
+14 with the proper functionality of the device, by modifying, detaching, disconnecting, or otherwise
+15 disablingittoallowtherestricteddrivertooperatethevehicle;
+16 (b) Has, directs, authorizes, or requests another personto tamper with thedevice or any
+17 components of the device, or otherwise interfere with the proper functionality of the device, by
+18 modifying, detaching, disconnecting, or otherwise disabling it to allow the restricted driver to
+19 operatethevehicle.
+20 (c) OperatesavehiclewithoutarequiredISAdevice;or
+21 (d) Failstoreturnthedevicetothevendoruponprogramcompletion.
+22 II. Penaltiesfornoncomplianceunderthesectionshallbesubjectto:
+23 (a) Immediatere-suspensionorrevocationofdrivingprivileges;and
+24 (b) ExtensionoftheISArequirementforanadditional6months;
+25 III. If an individual is found to be noncompliant and chooses to instead cede all driving
+26 privileges, the individual’s license shall be suspended or revoked entirely and shall submit an
+27 affidavitofcompliancetothedepartment.
+28 IV. License reinstatement occurs when the user has satisfied the period of time required by
+29 the court or department to use the device without incurring additional time penalties or has
+30 completed the required time utilizing the device following additional time penalties, as specified in
+31 thissection.
+32 265:67-h ReportingandEvaluation;Rulemaking.
+33 I. The department shall submit an annual report to the legislature summarizing program
+34 data,includingrecidivismrates,andusercompliance.
+35 II. The department may adjust implementation based on findings and emerging best
+36 practicesinISAtechnology.
+SB618-FN-ASINTRODUCED
+-Page4-
+1 III. The department may adopt rules under RSA 541-A to implement the provisions of this
+2 subdivision.
+3 265:67-i LimitationofLiability.
+4 I. A manufacturer, distributor, or retailer of amotor vehicle is not liable for any loss, injury,
+5 or damages caused by the design, manufacture, installation, improper installation, use, or misuse of
+6 an aftermarket intelligent speed assistance device. However, liability shall exist if the
+7 manufacturer, distributor, or retailer of a motor vehicle knowingly engages in a repair or update to
+8 the aftermarket intelligent speed assistance device and such repair or update proximately causes
+9 loss,injury,ordamage.
+10 II. Nothing in this chapter requires a manufacturer, distributor, or retailer of a motor
+11 vehicle to manufacture, distribute, or offer for sale a motor vehicle that includes or is compatible
+12 withanaftermarketintelligentspeedassistancedevice.
+13 III. Nothing in this chapter prohibits a lessor or lienholder from requiring that a motor
+14 vehicle lessee or owner notify the lessor or lienholder that an aftermarket intelligent speed
+15 assistance device has been installed on a motor vehicle that is subject to a lease or finance
+16 agreement.
+17 2 New Paragraph; Reckless Driving. Amend RSA 265:79 by inserting after paragraph II the
+18 followingnewparagraph:
+19 III. Uponanyconvictionunderthissentenceinwhichthecourtdeterminesthatspeedwasa
+20 factor, the court may order the defendant to participate in intelligent speed assistance device
+21 program administered by the department of safety under RSA 265:67-c following the period of
+22 licensesuspension.
+23 3 NewParagraph;RacingonHighways. AmendRSA265:75byinsertingafterparagraphIVthe
+24 followingnewparagraph:
+25 V. Upon any conviction under this sentence, the court may order the defendant to
+26 participate in the intelligent speed assistance device program administered by the department of
+27 safetyunderRSA265:67-c.
+28 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2196
+Revised1/6/26
+SB618-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepenaltiesforrepeatspeedingoffenders.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $807,000 $837,000 $875,000
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,
+costsassociatedwiththecollection/administrationofhighwayfundrevenue
+FundingSource(s)
+bytheDepartmentofSafetyisdeductedpriortofundsbeingcreditedas
+unrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective January 1, 2027, creates an Intelligent Speed Assistance Device (ISAD)
+Program targeting the accumulation of excessive speeding citations, street racing, and reckless
+driving convictions where speed is a factor. The law defines “excessive speeding” and outlines
+conditions under which offenders may be required to install and use ISADs as prerequisite for
+license reinstatement or retention to include “… a person who has exceeded more than a
+determined number of speeding tickets per year… (currently undefined)”. This bill includes
+certification and oversight of ISAD providers and installers, data collection and sharing
+protocols, affordability program for low-income participants, and penalties for noncompliance.
+Additionally,thisbillrequiresannualreportingbasedondataanalysisoftheprogramaswell as
+rulemaking authority granted to the Department of Safety. The Department would be
+responsible for administering the program to include notifying offenders, verifying installation
+and functionality, compliance monitoring, certifying vendors and installers, and management of
+affordability determinations. This bill is expected to have an impact on both the Department’s
+BureauofHearingsandDivisionofMotorVehicles(DMV).
+The Department of Safety states that given that no ISAD program currently exists in New
+Hampshire, implementation would require the creation of a new administrative framework.
+Based on similarities to the existing Ignition Interlock Device (IID) Program and the process for
+identifyingHabitualOffenders,thefollowingassumptionsaremadebytheDepartment:
+BureauofHearingsStaffing
+This bill will likely require administrative hearings to determine whether an individual shall be
+required to install an ISAD under RSA 265:67-c III. The bill may require administrative
+hearings to determine an individual’s eligibility for a discount on the monthly rates to maintain
+theISADunderRSA265:67-dIandII. Thebillwouldrequireadministrativehearingstoimpose
+penaltiesfornoncompliancewiththeISADunderRSA265:67-g. TheDepartmentstatesthisbill
+would require additional staff within the Bureau of Hearings to include three (3) Administrative
+Law Judges to hear the matters and issue written decisions based upon the relevant law and
+rules, and one (1) support staff member to process the paperwork, schedule the hearings and
+enterthehearingresults.
+DivisionofMotorVehicles(DMV)Staffing
+The Division of Motor Vehicles (DMV) will need four (4) new full-time positions to administer an
+ISAD program. If this program were to run like the IID program, there would be a workload
+increase to determine and identify eligible offenders as defined in the bill. There are currently
+1,400 participants in the IID program of which anywhere from 50-100 violations are received
+daily for manual review. This program is currently run with one (1) compliance officer position
+and up to two (2) support staff. Unlike IID, ISAD would require data analysis and annual
+reporting. The only data analysis and annual report position DMV has is the Fatal Analysis
+Reporting System (FARS) which is a federal National Highway Traffic Safety Administration
+(NHTSA) requirement for reporting and statistically tracking fatality rates related to crashes in
+the state. It is assumed that the workload for an ISAD program would be significantly higher
+than that of the current IID program, as there are more individuals who could potentially meet
+the criteria to install an ISAD. The staffing needs are related to certification and oversight of
+ISA vendors and installers, compliance monitoring and violation processing, customer service
+andoffendersupport,anddataanalysisandoverallprogramadministration
+DMVTechnologyandSystems
+The Department’s internal systems would need to be developed and/or modified dependent on
+therulesdeveloped,topotentiallyinclude:
+ TrackingISADinstallationsandoffendercompliance
+ InterfacingsecurelywithISAvendorsfordataexchange
+ InterfacingwithSPOTSforISADrestrictiononcredential
+ Creating queues and reports for excessive speed compliance and identification of
+offenders
+ Buildinguponexistingcompliancerequirementsforconvictionsand/orcourtinterfaces
+DMVRulemakingandLegalSupport
+Legal and administrative staff will be required to draft and adopt rules under RSA 541-A for
+comprehensive program development. It would also need to review and respond to legal
+challengesorenforcementactions.
+DMVTrainingandOutreach
+There will need to be comprehensive staff training on ISAD technology, procedures, and best
+practicesandthedevelopmentofeducationalmaterialsforoffendersandstakeholders.
+CostSummary
+Belowisasummaryofthecostsassociatedwiththisbill,asestimatedbytheDepartment:
+Description FY2027 FY2028 FY2029
+DMVStaffing
+One(1)ManagementAnalyst(SOC13-05)
+Two(2)RecordsClerks(SOC43-03)
+One(1)ComplianceOfficer(SOC13-03) $311,000 $312,000 $326,000
+BureauofHearingsStaffing
+One(1)AdminAssistant(SOC43-04)
+Three(3)AdminLawJudges(SOC13-10) $276,000 $525,000 $549,000
+SystemDevelopmentandProgramming $220,000 $0 $0
+Total $807,000 $837,000 $875,000
+It should be noted that this bill provides neither authorization nor appropriation for new
+personnel.
+AGENCIESCONTACTED:
+DepartmentofSafety
+[DELETED: B6N-ASI6SEBNATretotepsfrrtsgo:S.R,Dt9;S.F,Dt1;S.W,Dt4;S.L,D;S.B,Dt1;S.PsK,Dt2;R.R,C.1.C,C.:JsblasfrtedtofsyadcstoredstoiladetsGStoaylttevssdtopdorptsdl,fgcsrdtos-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretotepsfrrtsgoeitEdbyteSeadHeofRsinGlCtc1NwS;EeS.AdRA25byigarsn67tfgnwsEeS2aDI.“tsdae()d”msanatdettusGStaylttevssdtopdorptsdl.Dsmtbetadceofrgastodeorctf.Ae"tsaed"dsntieaytyttispdbytevemrasctofanwmrveadttcsorastesdofamrv0I.“”mstedtofs1I.“es”mstgor10msprhroncdasr2or50msprhraetepdsdltonsyr3I.“eo”msapnweleissddetoacno4aefgofees,rgpttoRA2,orrsd5wesdwsaf,orapnwohsedmetnaddnrofs6tspry,asddbyr72bDaC8I.AldacdurtssnslbesymdbyteIAd9p.Dardtovsigtgw,c,orrgteI0demybesdwhtedtortectttodteinofted1I.Dacdurtssnmyoybesdurtef2c3()Wnrdbyacto4()Asddbyaseseorr5()Whtedtorteogctincsigvsfrt6w,c,orrgted;o7()Iftedaisddadadfrrhorenp8shasagteesofIAorpsincnwhtdp92cUeofIAD0I.TedtmyreinadueofanIAdeasacnf1lertfrayeeo]
+[DELETED: B6N-ASIPe2I.Ifapslehsbnsdurtss,tetsofrdordlertmyretepntoueapyfgIAdewogamrvI.Ifapnhsedaddnrofsgtspry,asdbytedtofsythrsadpttoRA5,tymybesttigtsdeasacnofkgtrlI.ApnsttotersoftssnslntoeamrvwtapyfgdefrtednofterdlV.ApnsttotersintssnslpepfofIAi0totedtthafmadbytedtfmanIAv1V.Teorslbrtectofl,i,admgteIAd2usddlwiebyted,pttoRA23V.TeIAdeslbeolonayveteorosfrapdo4ntlstn12msfgr52dPmA6I.Teorslbrtectofl,i,admgteIAd7usddlwiebytedtadqdtopeinana8pmtopyottecsofted.Psmgtssdslr9dsfrinoftedeadrloftedeadadtontem0deler1I.Psagfrlwiessslbeddtoqyfrshssi2()Tyswpfofetinayoftefgpcaep3()TyAefrNyFs(4()SlSyIe(5()SlNlAePm(6()LwIeHeEyAePm(;o7()Teishdieisatorbw10ptofteflp8llasd92eCnadI0I.Tobeeetoi,r,m,m,orreanits1aed,acyslaytotedtadmttersasp2intss3I.Anatsgaltoiltedeslstadntot4dttttedeisanitsdaedeasddintss5I.Tomneyurtss,acdIAorinikd6prorirslsttersofaclbdcktoted7ayfrayilttishdtoi,r,m,m,orreted]
+[DELETED: B6N-ASIPe3I.OycdIAdsadisofIAadinikdsmybudtomttersoftssV.TedtslatrspttoRA5AggtcnofIAdepsadi2fPmATedtslehpsfI.NgosofIArI.VginadcdfyofIAd;aI.Mgceadrgtov02gPsfrN1I.Apnwoisrdtoteueofaveedwhanits2aedeisntifterdd3()Tswhtedeoraycsofted,oroei4whteprfyofted,bym,d,d,oro5dgittoawterddrtooetev6()H,d,a,orrsarpntotrwhtedeora7csofted,oroeiewhteprfyofted,b8m,d,d,oroedgittoawterddrt9oetev0()OsavewtardIAd;o1()Fstorntedetotevrunpmc2I.Psfrneurtesnslbestt3()Iernorrnofdgp;a4()EnofteIArtfranal6m5I.Ifanilisfdtobentadcstoidceald6p,teisleslbesdorrdeyadslsta7atofcetoted8I.Lertoswnteurhssdtepdofterdb9tectordttouetedewtigaltepsorh0cdterdteugtedefgaltep,assdi1tss22hRgadE;R3I.Tedtslstanalrttotelesgp4d,igrmr,adurc5I.Tedtmyatinbdonfsadegb6psinIAt]
+[DELETED: B6N-ASIPe4I.TedtmyatrsurRA5Atoittepsofts2iLnofLI.Am,d,orrrofamrveisntlefrayl,iordscdbyted,m,i,iri,u,ormeoanatitsdaed.H,lysletiftm,d,orrrofamrvekyesinarroruetteatitsdaedeadshrroruepycl,i,ord0I.Ngintscrrsam,d,orrrofam1vetom,d,ororfrseamrvettisorisc2whanatitsdaed3I.Ngintscrpsalrorlrfmrgttam4veleorornytelrorlrttanatits5aedehsbnidonamrvettissttoaleorf6a72NwP;RsD.AdRA29byigarphIIt8fgnwp9I.Unaycnurtsseinwhtectdsttsdws0f,tectmyortedttopeinitsdaed1pmadbytedtofsyurRA2cfgtepdo2les33NwP;RgonH.AdRA25byigarphIVt4fgnwp5V.Unaycnurtss,tectmyortedtt6peinteitsdaedepmadbytedto7syurRA284EeD.TsatslteetJy1,2]
+[DELETED: d1B6-FLNSINATretotepsfrrtsgoLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSd-HyFdCtofCs-PrtesecsadwhtecnofhyfdryteDtofSyisddprtofsbgcdadhyfdr0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsb,eeJy1,2,csanItSdAeDe(mtgteanofeesgc,str,adrgcswesdisaf.Telwds“es”adosurwhosmyberdtoiladueIsaspefertorrntoie“…apnwohsedmetndnrofsgtspry…(yu.TsblinadotofIDpsadi,dacnads,aypmfrlep,adpsfrn,tsblrsalrgbdondaasoftepmaswlagaygdtoteDtofS.TeDtwdbefragtepmtoiengo,vgidf,cem,cgvsadi,admtoyd.TsblisedtoheanitonbhteDuofHsadDnofMrVs(eDtofSyssttgnttnoIDpmcyesinN,inwdretecnofanwaef]
+[DELETED: donsstoteegInIkDe()PmadtepsfgHlO,tefgasaemebyteDuofHsSsblwllyreaehstodewranilslbdtoilanIDurRA2cI.TeblmyreastodeaniseyfradtontemyrstomeIDurRA2dIadI.TeblwdreaehstoisfrnewhteIDurRA2.TeDtsstsbdrealsfwnteBuofHstoiete()AwJstohrtemsadiewndsbduntertlwa,adoe()stsfmrtopstep,setehsartehgrnofMrVs()SeDnofMrVs()wlndfr()nwfepstoaraDp.IftspmwetornleteIDp,tewdbeawetodeadiyeeosasddinteb.Teaec0psinteIDpmofwhaefm50vsaeryfrmlr.Tspmiscyrnwhoe()ceorpduptoto()sts.UeI,IDwdredaasada.TeoydaasadalrtpnDVhsisteFlAgSm()whisaflNlHyTcSyA)rtfrrgadsytgfyrsrdtocsies.ItisadtttewdfranIDpmwdbesyhnttoftectIDp,asteaemeiswocdpymecatoilanI.TesgnsaerdtocnadotoAvsadi,cemgadvnp,crsdors,addaasadolpmaVTyadSeDsilsswdndtobeddarmddtoersd,topyigIDisadorcgsywhIAvsfrdaegwhSSfrIDrnoncgqsadrsfreesdceadino]
+[DELETED: gunegcersfrcsarctiVRgadLlSladaesfwlberdtodtadatrsurRA5Afepmd.ItwdaondtorwadrdtolsoretaVTgadOewlndtobecesftgonIDt,p,adbsadtedtofelmsfrosadstSwisasyoftecsadwhtsb,asedbyteDnFY27FY28FY2VSe()MtAt(C1o()RsCs(C4e()CeOr(C1)$0$0$uofHsSe()AnAt(C4e()AnLwJs(C1)$0$0$mDtadPg$0$0$l$0$0$tsdbendtttsblpsnrannranfrnSCtofS]
+
+
+================================================================================
+
+Raw Text:
+SB618-FN-ASINTRODUCED
+2026SESSION
+26-2196
+09/05
+618-FN
+SENATEBILL
+ANACT relativetothepenaltiesforrepeatspeedingoffenders.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Fenton, Dist 10; Sen. Watters, Dist 4; Sen. Long, Dist
+20; Sen. Birdsell, Dist 19; Sen. Perkins Kwoka, Dist 21; Rep. Rhodes, Ches. 17;
+Rep.Crawford,Carr.3
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows for the department of safety and courts to require drivers to install a device that
+uses GPS to actively limit the vehicle's speed to posted or preset speed limits, following certain
+offensesrelatedtospeeding.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB618-FN-ASINTRODUCED
+26-2196
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothepenaltiesforrepeatspeedingoffenders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Excessive Speeding. Amend RSA 265 by inserting after section 67 the
+2 followingnewsubdivision:
+3 ExcessiveSpeeding
+4 265:67-a Definitions.
+5 I. “Intelligent speed assistance (ISA) device” means an aftermarket device that uses GPS to
+6 actively limit the vehicle's speed to posted or preset speed limits. Devices must be tamper-resistant
+7 and capable of reporting attempts to disable or circumvent functionality. Active "intelligent speed
+8 assistance device" does not include any technology that is provided by the vehicle manufacturer as a
+9 componentofanewmotorvehicleandthatcontrolsoraffectsthespeedofamotorvehicle.
+10 II. “Department”meansthedepartmentofsafety.
+11 III. “Excessivespeeding” means travelingover 100miles per hour oncontrolled access roads
+12 or50milesperhourabovethepostedspeedlimitonsecondaryroads.
+13 IV. “Eligible offender” means a person whose license is suspended due to a conviction or
+14 administrative finding of excessive speeding, racing pursuant to RSA 265:75, or reckless driving
+15 wherespeedwasafactor,orapersonwhohasexceededmorethanadeterminednumberofspeeding
+16 ticketsperyear,asdefinedbyrule.
+17 265:67-b DataCollection.
+18 I. All data collected under this subdivision shall be securely maintained by the ISA device
+19 provider. Data related to violations involving tampering with, circumventing, or removing the ISA
+20 devicemaybesharedwiththedepartmentorthecourtthatorderedtheinstallationofthedevice.
+21 II. Data collected under this subdivision may only be shared under the following
+22 circumstances:
+23 (a) Whenrequiredbyacourtorder;
+24 (b) Asdirectedbyastatestatuteorregulation;
+25 (c) Withthedepartmentortheorderingcourtincasesinvolvingviolationsfortampering
+26 with,circumventing,orremovingthedevice;or
+27 (d) If the data is depersonalized and aggregated for research or evaluation purposes,
+28 suchasassessingtheeffectivenessofISAoffenderprogramsincollaborationwiththirdparties.
+29 265:67-c UseofISADevices.
+30 I. The department may require installation and use of an ISA device as a condition for
+31 licensereinstatementforanyeligibleoffender.
+
+SB618-FN-ASINTRODUCED
+-Page2-
+1 II. Ifaperson'slicensehasbeensuspendedunderthissubdivision,thetermsofrestricted or
+2 revokedlicense reinstatementmayrequirethepersontouseaproperlyfunctioningISAdevicewhile
+3 operatingamotorvehicle.
+4 III. If a person has exceeded a defined number of speeding tickets per year, as determined
+5 by the department of safety through rules adopted pursuant to RSA 541-A, they may be subject to
+6 installingthisdeviceasaconditionofkeepingtheirlicense.
+7 IV. A person subject to the requirements of this section shall not operate a motor vehicle
+8 withoutaproperlyfunctioningdeviceforthedurationoftherestrictedlicense.
+9 V. ApersonsubjecttotherequirementsinthissectionshallprovideproofofISAinstallation
+10 tothedepartmentthroughaformapprovedbythedepartmentfromanISAvendor.
+11 VI. The offender shall bear the cost of leasing, installing, and maintaining the ISA device,
+12 unlessdeterminedlowincomebythedepartment,pursuanttoRSA265:67-d.
+13 VII. The ISA device shall be operational on any vehicle the offender operates for a period of
+14 notlessthan12monthsfollowingreinstatement.
+15 265:67-d ProgramAffordability.
+16 I. The offender shall bear the cost of leasing, installing, and maintaining the ISA device,
+17 unless determined low income by the department and qualified to participate in an affordability
+18 program to partially offset the costs of the device. Persons meeting this standard shall receive
+19 discounts for installation of the device and removal of the device and a discount on the monthly
+20 deviceleaserate.
+21 II. Personsapplyingforlowincomestatusshallbedeemedtoqualifyforsuchstatusif:
+22 (a) Theyshowproofofenrollmentinanyofthefollowingpublicassistanceprograms:
+23 (1) TemporaryAssistanceforNeedyFamilies(TANF);
+24 (2) SupplementalSecurityIncome(SSI);
+25 (3) SupplementalNutritionalAssistanceProgram(SNAP);
+26 (4) LowIncomeHomeEnergyAssistanceProgram(LIHEAP);or
+27 (b) The individual’s household income is at or below 150 percent of the federal poverty
+28 levelasdocumented.
+29 265:67-e CertificationandInstallation.
+30 I. To be eligible to install, repair, maintain, monitor, or remove an intelligent speed
+31 assistance device, a company shall apply to the department and meet the requirements as provided
+32 inthissection.
+33 II. An applicant seeking approval to install the device shall submit a declaration to the
+34 departmentthatthedeviceisanintelligentspeedassistancedeviceasdefinedinthissubdivision.
+35 III. To maintain eligibility under this section, a certified ISA or ignition interlock device
+36 provider or installer shall submit the results of a criminal background check to the department
+37 annuallyforanyindividualthatishiredtoinstall,repair,maintain,monitor,orremovethedevice.
+
+SB618-FN-ASINTRODUCED
+-Page3-
+1 IV. Only certified ISA devices and installers of ISA and ignition interlock devices may be
+2 usedtomeettherequirementsofthissubdivision.
+3 V. The department shall adopt regulations pursuant to RSA 541-A governing the
+4 certificationofISAdeviceprovidersandinstallers.
+5 265:67-f ProgramAdministration.
+6 Thedepartmentshallestablishproceduresfor:
+7 I. NotifyingoffendersofISArequirements;
+8 II. VerifyinginstallationandcontinuedfunctionalityofISAdevices;and
+9 III. Monitoringcomplianceandrespondingtoviolations.
+10 265:67-g PenaltiesforNoncompliance.
+11 I. A person who is restricted to the use of a vehicle equipped with an intelligent speed
+12 assistancedeviceisnoncompliantiftherestricteddriver:
+13 (a) Tampers with the device or any components of the device, or otherwise interferes
+14 with the proper functionality of the device, by modifying, detaching, disconnecting, or otherwise
+15 disablingittoallowtherestricteddrivertooperatethevehicle;
+16 (b) Has, directs, authorizes, or requests another personto tamper with thedevice or any
+17 components of the device, or otherwise interfere with the proper functionality of the device, by
+18 modifying, detaching, disconnecting, or otherwise disabling it to allow the restricted driver to
+19 operatethevehicle.
+20 (c) OperatesavehiclewithoutarequiredISAdevice;or
+21 (d) Failstoreturnthedevicetothevendoruponprogramcompletion.
+22 II. Penaltiesfornoncomplianceunderthesectionshallbesubjectto:
+23 (a) Immediatere-suspensionorrevocationofdrivingprivileges;and
+24 (b) ExtensionoftheISArequirementforanadditional6months;
+25 III. If an individual is found to be noncompliant and chooses to instead cede all driving
+26 privileges, the individual’s license shall be suspended or revoked entirely and shall submit an
+27 affidavitofcompliancetothedepartment.
+28 IV. License reinstatement occurs when the user has satisfied the period of time required by
+29 the court or department to use the device without incurring additional time penalties or has
+30 completed the required time utilizing the device following additional time penalties, as specified in
+31 thissection.
+32 265:67-h ReportingandEvaluation;Rulemaking.
+33 I. The department shall submit an annual report to the legislature summarizing program
+34 data,includingrecidivismrates,andusercompliance.
+35 II. The department may adjust implementation based on findings and emerging best
+36 practicesinISAtechnology.
+
+SB618-FN-ASINTRODUCED
+-Page4-
+1 III. The department may adopt rules under RSA 541-A to implement the provisions of this
+2 subdivision.
+3 265:67-i LimitationofLiability.
+4 I. A manufacturer, distributor, or retailer of amotor vehicle is not liable for any loss, injury,
+5 or damages caused by the design, manufacture, installation, improper installation, use, or misuse of
+6 an aftermarket intelligent speed assistance device. However, liability shall exist if the
+7 manufacturer, distributor, or retailer of a motor vehicle knowingly engages in a repair or update to
+8 the aftermarket intelligent speed assistance device and such repair or update proximately causes
+9 loss,injury,ordamage.
+10 II. Nothing in this chapter requires a manufacturer, distributor, or retailer of a motor
+11 vehicle to manufacture, distribute, or offer for sale a motor vehicle that includes or is compatible
+12 withanaftermarketintelligentspeedassistancedevice.
+13 III. Nothing in this chapter prohibits a lessor or lienholder from requiring that a motor
+14 vehicle lessee or owner notify the lessor or lienholder that an aftermarket intelligent speed
+15 assistance device has been installed on a motor vehicle that is subject to a lease or finance
+16 agreement.
+17 2 New Paragraph; Reckless Driving. Amend RSA 265:79 by inserting after paragraph II the
+18 followingnewparagraph:
+19 III. Uponanyconvictionunderthissentenceinwhichthecourtdeterminesthatspeedwasa
+20 factor, the court may order the defendant to participate in intelligent speed assistance device
+21 program administered by the department of safety under RSA 265:67-c following the period of
+22 licensesuspension.
+23 3 NewParagraph;RacingonHighways. AmendRSA265:75byinsertingafterparagraphIVthe
+24 followingnewparagraph:
+25 V. Upon any conviction under this sentence, the court may order the defendant to
+26 participate in the intelligent speed assistance device program administered by the department of
+27 safetyunderRSA265:67-c.
+28 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2196
+Revised1/6/26
+SB618-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothepenaltiesforrepeatspeedingoffenders.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $807,000 $837,000 $875,000
+Restricted-HighwayFundCostofCollections-Perthestateconstitution,
+costsassociatedwiththecollection/administrationofhighwayfundrevenue
+FundingSource(s)
+bytheDepartmentofSafetyisdeductedpriortofundsbeingcreditedas
+unrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective January 1, 2027, creates an Intelligent Speed Assistance Device (ISAD)
+Program targeting the accumulation of excessive speeding citations, street racing, and reckless
+driving convictions where speed is a factor. The law defines “excessive speeding” and outlines
+conditions under which offenders may be required to install and use ISADs as prerequisite for
+license reinstatement or retention to include “… a person who has exceeded more than a
+determined number of speeding tickets per year… (currently undefined)”. This bill includes
+certification and oversight of ISAD providers and installers, data collection and sharing
+protocols, affordability program for low-income participants, and penalties for noncompliance.
+Additionally,thisbillrequiresannualreportingbasedondataanalysisoftheprogramaswell as
+rulemaking authority granted to the Department of Safety. The Department would be
+responsible for administering the program to include notifying offenders, verifying installation
+and functionality, compliance monitoring, certifying vendors and installers, and management of
+affordability determinations. This bill is expected to have an impact on both the Department’s
+BureauofHearingsandDivisionofMotorVehicles(DMV).
+The Department of Safety states that given that no ISAD program currently exists in New
+Hampshire, implementation would require the creation of a new administrative framework.
+
+Based on similarities to the existing Ignition Interlock Device (IID) Program and the process for
+identifyingHabitualOffenders,thefollowingassumptionsaremadebytheDepartment:
+BureauofHearingsStaffing
+This bill will likely require administrative hearings to determine whether an individual shall be
+required to install an ISAD under RSA 265:67-c III. The bill may require administrative
+hearings to determine an individual’s eligibility for a discount on the monthly rates to maintain
+theISADunderRSA265:67-dIandII. Thebillwouldrequireadministrativehearingstoimpose
+penaltiesfornoncompliancewiththeISADunderRSA265:67-g. TheDepartmentstatesthisbill
+would require additional staff within the Bureau of Hearings to include three (3) Administrative
+Law Judges to hear the matters and issue written decisions based upon the relevant law and
+rules, and one (1) support staff member to process the paperwork, schedule the hearings and
+enterthehearingresults.
+DivisionofMotorVehicles(DMV)Staffing
+The Division of Motor Vehicles (DMV) will need four (4) new full-time positions to administer an
+ISAD program. If this program were to run like the IID program, there would be a workload
+increase to determine and identify eligible offenders as defined in the bill. There are currently
+1,400 participants in the IID program of which anywhere from 50-100 violations are received
+daily for manual review. This program is currently run with one (1) compliance officer position
+and up to two (2) support staff. Unlike IID, ISAD would require data analysis and annual
+reporting. The only data analysis and annual report position DMV has is the Fatal Analysis
+Reporting System (FARS) which is a federal National Highway Traffic Safety Administration
+(NHTSA) requirement for reporting and statistically tracking fatality rates related to crashes in
+the state. It is assumed that the workload for an ISAD program would be significantly higher
+than that of the current IID program, as there are more individuals who could potentially meet
+the criteria to install an ISAD. The staffing needs are related to certification and oversight of
+ISA vendors and installers, compliance monitoring and violation processing, customer service
+andoffendersupport,anddataanalysisandoverallprogramadministration
+DMVTechnologyandSystems
+The Department’s internal systems would need to be developed and/or modified dependent on
+therulesdeveloped,topotentiallyinclude:
+ TrackingISADinstallationsandoffendercompliance
+ InterfacingsecurelywithISAvendorsfordataexchange
+ InterfacingwithSPOTSforISADrestrictiononcredential
+ Creating queues and reports for excessive speed compliance and identification of
+offenders
+
+ Buildinguponexistingcompliancerequirementsforconvictionsand/orcourtinterfaces
+DMVRulemakingandLegalSupport
+Legal and administrative staff will be required to draft and adopt rules under RSA 541-A for
+comprehensive program development. It would also need to review and respond to legal
+challengesorenforcementactions.
+DMVTrainingandOutreach
+There will need to be comprehensive staff training on ISAD technology, procedures, and best
+practicesandthedevelopmentofeducationalmaterialsforoffendersandstakeholders.
+CostSummary
+Belowisasummaryofthecostsassociatedwiththisbill,asestimatedbytheDepartment:
+Description FY2027 FY2028 FY2029
+DMVStaffing
+One(1)ManagementAnalyst(SOC13-05)
+Two(2)RecordsClerks(SOC43-03)
+One(1)ComplianceOfficer(SOC13-03) $311,000 $312,000 $326,000
+BureauofHearingsStaffing
+One(1)AdminAssistant(SOC43-04)
+Three(3)AdminLawJudges(SOC13-10) $276,000 $525,000 $549,000
+SystemDevelopmentandProgramming $220,000 $0 $0
+Total $807,000 $837,000 $875,000
+It should be noted that this bill provides neither authorization nor appropriation for new
+personnel.
+AGENCIESCONTACTED:
+DepartmentofSafety
+
+[DELETED: B6N-ASI6SEBNATretotepsfrrtsgo:S.R,Dt9;S.F,Dt1;S.W,Dt4;S.L,D;S.B,Dt1;S.PsK,Dt2;R.R,C.1.C,C.:JsblasfrtedtofsyadcstoredstoiladetsGStoaylttevssdtopdorptsdl,fgcsrdtos-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretotepsfrrtsgoeitEdbyteSeadHeofRsinGlCtc1NwS;EeS.AdRA25byigarsn67tfgnwsEeS2aDI.“tsdae()d”msanatdettusGStaylttevssdtopdorptsdl.Dsmtbetadceofrgastodeorctf.Ae"tsaed"dsntieaytyttispdbytevemrasctofanwmrveadttcsorastesdofamrv0I.“”mstedtofs1I.“es”mstgor10msprhroncdasr2or50msprhraetepdsdltonsyr3I.“eo”msapnweleissddetoacno4aefgofees,rgpttoRA2,orrsd5wesdwsaf,orapnwohsedmetnaddnrofs6tspry,asddbyr72bDaC8I.AldacdurtssnslbesymdbyteIAd9p.Dardtovsigtgw,c,orrgteI0demybesdwhtedtortectttodteinofted1I.Dacdurtssnmyoybesdurtef2c3()Wnrdbyacto4()Asddbyaseseorr5()Whtedtorteogctincsigvsfrt6w,c,orrgted;o7()Iftedaisddadadfrrhorenp8shasagteesofIAorpsincnwhtdp92cUeofIAD0I.TedtmyreinadueofanIAdeasacnf1lertfrayeeo]
+[DELETED: B6N-ASIPe2I.Ifapslehsbnsdurtss,tetsofrdordlertmyretepntoueapyfgIAdewogamrvI.Ifapnhsedaddnrofsgtspry,asdbytedtofsythrsadpttoRA5,tymybesttigtsdeasacnofkgtrlI.ApnsttotersoftssnslntoeamrvwtapyfgdefrtednofterdlV.ApnsttotersintssnslpepfofIAi0totedtthafmadbytedtfmanIAv1V.Teorslbrtectofl,i,admgteIAd2usddlwiebyted,pttoRA23V.TeIAdeslbeolonayveteorosfrapdo4ntlstn12msfgr52dPmA6I.Teorslbrtectofl,i,admgteIAd7usddlwiebytedtadqdtopeinana8pmtopyottecsofted.Psmgtssdslr9dsfrinoftedeadrloftedeadadtontem0deler1I.Psagfrlwiessslbeddtoqyfrshssi2()Tyswpfofetinayoftefgpcaep3()TyAefrNyFs(4()SlSyIe(5()SlNlAePm(6()LwIeHeEyAePm(;o7()Teishdieisatorbw10ptofteflp8llasd92eCnadI0I.Tobeeetoi,r,m,m,orreanits1aed,acyslaytotedtadmttersasp2intss3I.Anatsgaltoiltedeslstadntot4dttttedeisanitsdaedeasddintss5I.Tomneyurtss,acdIAorinikd6prorirslsttersofaclbdcktoted7ayfrayilttishdtoi,r,m,m,orreted]
+[DELETED: B6N-ASIPe3I.OycdIAdsadisofIAadinikdsmybudtomttersoftssV.TedtslatrspttoRA5AggtcnofIAdepsadi2fPmATedtslehpsfI.NgosofIArI.VginadcdfyofIAd;aI.Mgceadrgtov02gPsfrN1I.Apnwoisrdtoteueofaveedwhanits2aedeisntifterdd3()Tswhtedeoraycsofted,oroei4whteprfyofted,bym,d,d,oro5dgittoawterddrtooetev6()H,d,a,orrsarpntotrwhtedeora7csofted,oroeiewhteprfyofted,b8m,d,d,oroedgittoawterddrt9oetev0()OsavewtardIAd;o1()Fstorntedetotevrunpmc2I.Psfrneurtesnslbestt3()Iernorrnofdgp;a4()EnofteIArtfranal6m5I.Ifanilisfdtobentadcstoidceald6p,teisleslbesdorrdeyadslsta7atofcetoted8I.Lertoswnteurhssdtepdofterdb9tectordttouetedewtigaltepsorh0cdterdteugtedefgaltep,assdi1tss22hRgadE;R3I.Tedtslstanalrttotelesgp4d,igrmr,adurc5I.Tedtmyatinbdonfsadegb6psinIAt]
+[DELETED: B6N-ASIPe4I.TedtmyatrsurRA5Atoittepsofts2iLnofLI.Am,d,orrrofamrveisntlefrayl,iordscdbyted,m,i,iri,u,ormeoanatitsdaed.H,lysletiftm,d,orrrofamrvekyesinarroruetteatitsdaedeadshrroruepycl,i,ord0I.Ngintscrrsam,d,orrrofam1vetom,d,ororfrseamrvettisorisc2whanatitsdaed3I.Ngintscrpsalrorlrfmrgttam4veleorornytelrorlrttanatits5aedehsbnidonamrvettissttoaleorf6a72NwP;RsD.AdRA29byigarphIIt8fgnwp9I.Unaycnurtsseinwhtectdsttsdws0f,tectmyortedttopeinitsdaed1pmadbytedtofsyurRA2cfgtepdo2les33NwP;RgonH.AdRA25byigarphIVt4fgnwp5V.Unaycnurtss,tectmyortedtt6peinteitsdaedepmadbytedto7syurRA284EeD.TsatslteetJy1,2]
+[DELETED: d1B6-FLNSINATretotepsfrrtsgoLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSd-HyFdCtofCs-PrtesecsadwhtecnofhyfdryteDtofSyisddprtofsbgcdadhyfdr0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsb,eeJy1,2,csanItSdAeDe(mtgteanofeesgc,str,adrgcswesdisaf.Telwds“es”adosurwhosmyberdtoiladueIsaspefertorrntoie“…apnwohsedmetndnrofsgtspry…(yu.TsblinadotofIDpsadi,dacnads,aypmfrlep,adpsfrn,tsblrsalrgbdondaasoftepmaswlagaygdtoteDtofS.TeDtwdbefragtepmtoiengo,vgidf,cem,cgvsadi,admtoyd.TsblisedtoheanitonbhteDuofHsadDnofMrVs(eDtofSyssttgnttnoIDpmcyesinN,inwdretecnofanwaef]
+[DELETED: donsstoteegInIkDe()PmadtepsfgHlO,tefgasaemebyteDuofHsSsblwllyreaehstodewranilslbdtoilanIDurRA2cI.TeblmyreastodeaniseyfradtontemyrstomeIDurRA2dIadI.TeblwdreaehstoisfrnewhteIDurRA2.TeDtsstsbdrealsfwnteBuofHstoiete()AwJstohrtemsadiewndsbduntertlwa,adoe()stsfmrtopstep,setehsartehgrnofMrVs()SeDnofMrVs()wlndfr()nwfepstoaraDp.IftspmwetornleteIDp,tewdbeawetodeadiyeeosasddinteb.Teaec0psinteIDpmofwhaefm50vsaeryfrmlr.Tspmiscyrnwhoe()ceorpduptoto()sts.UeI,IDwdredaasada.TeoydaasadalrtpnDVhsisteFlAgSm()whisaflNlHyTcSyA)rtfrrgadsytgfyrsrdtocsies.ItisadtttewdfranIDpmwdbesyhnttoftectIDp,asteaemeiswocdpymecatoilanI.TesgnsaerdtocnadotoAvsadi,cemgadvnp,crsdors,addaasadolpmaVTyadSeDsilsswdndtobeddarmddtoersd,topyigIDisadorcgsywhIAvsfrdaegwhSSfrIDrnoncgqsadrsfreesdceadino]
+[DELETED: gunegcersfrcsarctiVRgadLlSladaesfwlberdtodtadatrsurRA5Afepmd.ItwdaondtorwadrdtolsoretaVTgadOewlndtobecesftgonIDt,p,adbsadtedtofelmsfrosadstSwisasyoftecsadwhtsb,asedbyteDnFY27FY28FY2VSe()MtAt(C1o()RsCs(C4e()CeOr(C1)$0$0$uofHsSe()AnAt(C4e()AnLwJs(C1)$0$0$mDtadPg$0$0$l$0$0$tsdbendtttsblpsnrannranfrnSCtofS]

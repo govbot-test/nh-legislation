@@ -1,0 +1,167 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 2
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB407-FN-A-ASINTRODUCED
+2026SESSION
+26-2259
+07/05
+407-FN-A
+ANACT making an appropriation for each full-time student eligible for the in-state tuition
+rateenrolledintheuniversitysystemofNewHampshire.
+SPONSORS: Sen.Gray,Dist6
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes an appropriation for each full-time student eligible for the in-state tuition rate
+enrolledintheuniversitysystemofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB407-FN-A-ASINTRODUCED
+26-2259
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT making an appropriation for each full-time student eligible for the in-state tuition
+rateenrolledintheuniversitysystemofNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;Education;StateCollegeandUniversitySystem;In-StateTuitionAppropriation.
+2 AmendRSA187-Abyinsertingaftersection25-athefollowingnewsection:
+3 187:25-b In-State Tuition; Appropriation. Beginning in fiscal year 2027 and for each fiscal year
+4 thereafter, the sum of $300 for each full-time student in this state enrolled in the university system
+5 of New Hampshire, who is also eligible for an in-state tuition rate is hereby appropriated to the
+6 university system of New Hampshire for the purpose of reducing in-state tuition costs for qualifying
+7 students. The number of full-time students enrolled in the university system of New Hampshire in
+8 this state who are also eligible for an in-state tuition rate shall be calculated every October 1. The
+9 total appropriation for each year of the biennium shall be limited to $5,400,000. These funds shall
+10 benon-lapsing. The governor is authorized to draw a warrant for said sums out of any moneyin the
+11 treasurynototherwiseappropriated.
+12 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2259
+10/21/25
+SB407-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT making an appropriation for each full-time student eligible for the in-state tuition
+rateenrolledintheuniversitysystemofNewHampshire.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $2,988,300 $3,012,300 $3,036,300
+FundingSource(s) GeneralFund
+Appropriations* $0 $2,988,300 $3,012,300 $3,036,300
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, beginning in FY 2027, appropriates general funds to the University System of New
+Hampshire in an amount equal to $300 for each full-time student in this state enrolled in the
+System who is eligible for an in-state tuition rate, for the purpose of reducing in-state tuition
+costs. The number of students shall be calculated every October 1st, and the total appropriation
+foreachyearshallbelimitedto$5,400,000.
+The System reports a current Fall 2025 enrollment of 9,882 and assumes an annual growth of
+
+Section 2:
+0.8%.Belowisasummaryofthisbill’spotentialappropriationtotheSystem:
+Estimated PerStudent Total
+Enrollment Appropriation Appropriation
+Fall2025(FY2026) 9,882 N/A N/A
+Fall2026(FY2027) 9,961 $300 $2,988,300
+Fall2027(FY2028) 10,041 $300 $3,012,300
+Fall2028(FY2029) 10,121 $300 $3,036,300
+AGENCIESCONTACTED:
+UniversitySystemofNewHampshire
+[DELETED: B4A-ASI6SEBNATmgananfrehfesteefrteieteedinteuysmofNwH:S.G,Dt:FsblmsananfrehfesteefrteietnrdinteuysmofNwH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4A-ASIEOFNWHnteYrofOrLdToTdTNATmgananfrehfesteefrteieteedinteuysmofNwHeitEdbyteSeadHeofRsinGlCtc1NwS;E;SeCeadUyS;IeTnAAdRA1Abyigarsn2atefgnws1bIeT;A.Bginflyr27adfrehflyt,tesmof$0frehfestintsseedinteuysofNwH,woisaoeefranietnreishyadtotuysmofNwHefrtepeofrgietncsfrqs.TenroffessedinteuysmofNwHeitssewoaeaoeefranietnreslbecdeyOr1.Ttlanfrehyroftebmslbeldto$.Tefss0ben.Tegrisadtodwawtfrsdssotofaymyint1tyntoea22EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATmgananfrehfesteefrteieteedinteuysmofNwHLIdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=Adfgtocrctofbsb,bginFY2,asglfstoteUySmofNeinanatelto$0frehfestintsseedintmwoiseefranietnr,frtepeofrgiet.TenrofssslbecdeyOr1,adtetlarehyrslbeldto$eSmrsactFl25etof92adasanalgho.BwisasyoftsbsplantoteSdPrStTtAnAl25(Y22NANl26(Y21$0$l27(Y21$0$l28(Y21$0$SCySmofNwH]
+
+
+================================================================================
+
+Raw Text:
+SB407-FN-A-ASINTRODUCED
+2026SESSION
+26-2259
+07/05
+407-FN-A
+SENATEBILL
+ANACT making an appropriation for each full-time student eligible for the in-state tuition
+rateenrolledintheuniversitysystemofNewHampshire.
+SPONSORS: Sen.Gray,Dist6
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes an appropriation for each full-time student eligible for the in-state tuition rate
+enrolledintheuniversitysystemofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB407-FN-A-ASINTRODUCED
+26-2259
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT making an appropriation for each full-time student eligible for the in-state tuition
+rateenrolledintheuniversitysystemofNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;Education;StateCollegeandUniversitySystem;In-StateTuitionAppropriation.
+2 AmendRSA187-Abyinsertingaftersection25-athefollowingnewsection:
+3 187:25-b In-State Tuition; Appropriation. Beginning in fiscal year 2027 and for each fiscal year
+4 thereafter, the sum of $300 for each full-time student in this state enrolled in the university system
+5 of New Hampshire, who is also eligible for an in-state tuition rate is hereby appropriated to the
+6 university system of New Hampshire for the purpose of reducing in-state tuition costs for qualifying
+7 students. The number of full-time students enrolled in the university system of New Hampshire in
+8 this state who are also eligible for an in-state tuition rate shall be calculated every October 1. The
+9 total appropriation for each year of the biennium shall be limited to $5,400,000. These funds shall
+10 benon-lapsing. The governor is authorized to draw a warrant for said sums out of any moneyin the
+11 treasurynototherwiseappropriated.
+12 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2259
+10/21/25
+SB407-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT making an appropriation for each full-time student eligible for the in-state tuition
+rateenrolledintheuniversitysystemofNewHampshire.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $2,988,300 $3,012,300 $3,036,300
+FundingSource(s) GeneralFund
+Appropriations* $0 $2,988,300 $3,012,300 $3,036,300
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, beginning in FY 2027, appropriates general funds to the University System of New
+Hampshire in an amount equal to $300 for each full-time student in this state enrolled in the
+System who is eligible for an in-state tuition rate, for the purpose of reducing in-state tuition
+costs. The number of students shall be calculated every October 1st, and the total appropriation
+foreachyearshallbelimitedto$5,400,000.
+The System reports a current Fall 2025 enrollment of 9,882 and assumes an annual growth of
+0.8%.Belowisasummaryofthisbill’spotentialappropriationtotheSystem:
+Estimated PerStudent Total
+Enrollment Appropriation Appropriation
+Fall2025(FY2026) 9,882 N/A N/A
+Fall2026(FY2027) 9,961 $300 $2,988,300
+Fall2027(FY2028) 10,041 $300 $3,012,300
+Fall2028(FY2029) 10,121 $300 $3,036,300
+AGENCIESCONTACTED:
+UniversitySystemofNewHampshire
+
+[DELETED: B4A-ASI6SEBNATmgananfrehfesteefrteieteedinteuysmofNwH:S.G,Dt:FsblmsananfrehfesteefrteietnrdinteuysmofNwH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4A-ASIEOFNWHnteYrofOrLdToTdTNATmgananfrehfesteefrteieteedinteuysmofNwHeitEdbyteSeadHeofRsinGlCtc1NwS;E;SeCeadUyS;IeTnAAdRA1Abyigarsn2atefgnws1bIeT;A.Bginflyr27adfrehflyt,tesmof$0frehfestintsseedinteuysofNwH,woisaoeefranietnreishyadtotuysmofNwHefrtepeofrgietncsfrqs.TenroffessedinteuysmofNwHeitssewoaeaoeefranietnreslbecdeyOr1.Ttlanfrehyroftebmslbeldto$.Tefss0ben.Tegrisadtodwawtfrsdssotofaymyint1tyntoea22EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATmgananfrehfesteefrteieteedinteuysmofNwHLIdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=Adfgtocrctofbsb,bginFY2,asglfstoteUySmofNeinanatelto$0frehfestintsseedintmwoiseefranietnr,frtepeofrgiet.TenrofssslbecdeyOr1,adtetlarehyrslbeldto$eSmrsactFl25etof92adasanalgho.BwisasyoftsbsplantoteSdPrStTtAnAl25(Y22NANl26(Y21$0$l27(Y21$0$l28(Y21$0$SCySmofNwH]

@@ -1,0 +1,151 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB513-FN-ASINTRODUCED
+2026SESSION
+26-2109
+12/09
+513-FN
+ANACT requiring schools to engage an owner's project manager for construction of school
+buildingaidprojectsatthetimeofapplication.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Innis, Dist 7; Sen. Watters, Dist 4; Sen. Sullivan, Dist
+18; Sen. Avard, Dist 12; Sen. Murphy, Dist 16; Sen. Long, Dist 20; Sen.
+McConkey, Dist 3; Rep. Donnelly, Rock. 25; Rep. Janigian, Rock. 25; Rep. D.
+Mannion,Rock.25;Rep.Sweeney,Rock.25
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires schools to have engaged the services of an owner's project manager at the time
+theyapplyforschoolbuildingaid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB513-FN-ASINTRODUCED
+26-2109
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring schools to engage an owner's project manager for construction of school
+buildingaidprojectsatthetimeofapplication.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 School Building Aid; Approval of Plans; Specifications, and Costs of Construction or Purchase.
+2 AmendRSA198:15-c,IIItoreadasfollows:
+3 III. Aschooldistrictorcharteredpublicschoolthat[accepts]appliesforschoolbuildingaid
+4 for construction shall have [engage] engaged the services of an owner's project manager for
+5 construction or reconstruction/renovation projects of $1,250,000 or more, unless the commissioner
+6 waives such requirement as unnecessary. The owner's project manager shall have his or her own
+7 comprehensive liability and auto insurance, workers' compensation coverage, and professional
+8 liability coverage. The state board of education shall adopt rules pursuant to RSA 541-A relative to
+9 the required services, responsibilities, and qualifications for the owner's project manager to ensure
+10 theprojectowner'sbestinterestsarecarriedout.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2109
+9/29/25
+SB513-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring schools to engage an owner's project manager for construction of school
+buildingaidprojectsatthetimeofapplication.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill changes the time when a school district or chartered public school must retain the
+services of an owner’s project manager (OPM) for the purposes of applying for a school building
+aid grant. Currently, OPMs are only required to be retained for a building aid applicant to
+receive an award. This bill would require applicants to retain the services of an OPM prior to
+submitting a building aid application. At the time of application submittal, there is no
+guarantee that appropriation will be available or that applicants will receive an award. Any
+impact that this bill may have on local school districts applying for school building aid is
+indeterminable. For informational purposes, the Department of Education states that the
+servicesforanOPMgenerallyrunat1%to5%ofthetotalprojectcost.
+AGENCIESCONTACTED:
+DepartmentofEducation
+[DELETED: B5N-ASI6SEBNATrgsstoeeanosptmrfrcnofsgadpsatteteofa:S.A,Dt2;S.I,Dt7;S.W,Dt4;S.S,D;S.A,Dt1;S.M,Dt1;S.L,Dt2;S,Dt3;R.D,R.2;R.J,R.2;R.D,R.2;R.S,R.2:EnFsblrssstoheedtessofanosptmrattetyayfrslbga-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATrgsstoeeanosptmrfrcnofsgadpsatteteofaeitEdbyteSeadHeofRsinGlCtc1SlBgA;AlofP;S,adCsofCnorPAdRA1,IItordasfI.Asldtorcdpcsltt[]asfrslbgafrcnslhe[]edtessofanosptmrfcnorrnpsof$0orm,ustecwsshrtasu.Teosptmrslhehsorhrocelyadaoi,w'cnc,adplyc.TesebdofenslatrspttoRA5Aretterds,r,adqsfrteosptmrtoe0teptosbtisaecdo12EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATrgsstoeeanosptmrfrcnofsgadpsatteteofaLIdPlSnIY26FY27FY28FY2lR0$0$0$lE0Isblcstetewnasldtorcdpcslmtrntsofanosptmr()frtepsofagfraslbdg.C,Osaeoyrdtoberdfrabgadatteana.TsblwdreastorntessofanOMprtgabgada.Atteteofans,teisnettanwlbeaeorttaswlreana.Attttsblmyheonllsldsagfrslbgadi.Frilp,teDtofEnsstttsfranOMgyrnat1%to5%oftetlptcSCtofE]
+
+
+================================================================================
+
+Raw Text:
+SB513-FN-ASINTRODUCED
+2026SESSION
+26-2109
+12/09
+513-FN
+SENATEBILL
+ANACT requiring schools to engage an owner's project manager for construction of school
+buildingaidprojectsatthetimeofapplication.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Innis, Dist 7; Sen. Watters, Dist 4; Sen. Sullivan, Dist
+18; Sen. Avard, Dist 12; Sen. Murphy, Dist 16; Sen. Long, Dist 20; Sen.
+McConkey, Dist 3; Rep. Donnelly, Rock. 25; Rep. Janigian, Rock. 25; Rep. D.
+Mannion,Rock.25;Rep.Sweeney,Rock.25
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires schools to have engaged the services of an owner's project manager at the time
+theyapplyforschoolbuildingaid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB513-FN-ASINTRODUCED
+26-2109
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring schools to engage an owner's project manager for construction of school
+buildingaidprojectsatthetimeofapplication.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 School Building Aid; Approval of Plans; Specifications, and Costs of Construction or Purchase.
+2 AmendRSA198:15-c,IIItoreadasfollows:
+3 III. Aschooldistrictorcharteredpublicschoolthat[accepts]appliesforschoolbuildingaid
+4 for construction shall have [engage] engaged the services of an owner's project manager for
+5 construction or reconstruction/renovation projects of $1,250,000 or more, unless the commissioner
+6 waives such requirement as unnecessary. The owner's project manager shall have his or her own
+7 comprehensive liability and auto insurance, workers' compensation coverage, and professional
+8 liability coverage. The state board of education shall adopt rules pursuant to RSA 541-A relative to
+9 the required services, responsibilities, and qualifications for the owner's project manager to ensure
+10 theprojectowner'sbestinterestsarecarriedout.
+11 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2109
+9/29/25
+SB513-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring schools to engage an owner's project manager for construction of school
+buildingaidprojectsatthetimeofapplication.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill changes the time when a school district or chartered public school must retain the
+services of an owner’s project manager (OPM) for the purposes of applying for a school building
+aid grant. Currently, OPMs are only required to be retained for a building aid applicant to
+receive an award. This bill would require applicants to retain the services of an OPM prior to
+submitting a building aid application. At the time of application submittal, there is no
+guarantee that appropriation will be available or that applicants will receive an award. Any
+impact that this bill may have on local school districts applying for school building aid is
+indeterminable. For informational purposes, the Department of Education states that the
+servicesforanOPMgenerallyrunat1%to5%ofthetotalprojectcost.
+AGENCIESCONTACTED:
+DepartmentofEducation
+
+[DELETED: B5N-ASI6SEBNATrgsstoeeanosptmrfrcnofsgadpsatteteofa:S.A,Dt2;S.I,Dt7;S.W,Dt4;S.S,D;S.A,Dt1;S.M,Dt1;S.L,Dt2;S,Dt3;R.D,R.2;R.J,R.2;R.D,R.2;R.S,R.2:EnFsblrssstoheedtessofanosptmrattetyayfrslbga-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATrgsstoeeanosptmrfrcnofsgadpsatteteofaeitEdbyteSeadHeofRsinGlCtc1SlBgA;AlofP;S,adCsofCnorPAdRA1,IItordasfI.Asldtorcdpcsltt[]asfrslbgafrcnslhe[]edtessofanosptmrfcnorrnpsof$0orm,ustecwsshrtasu.Teosptmrslhehsorhrocelyadaoi,w'cnc,adplyc.TesebdofenslatrspttoRA5Aretterds,r,adqsfrteosptmrtoe0teptosbtisaecdo12EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATrgsstoeeanosptmrfrcnofsgadpsatteteofaLIdPlSnIY26FY27FY28FY2lR0$0$0$lE0Isblcstetewnasldtorcdpcslmtrntsofanosptmr()frtepsofagfraslbdg.C,Osaeoyrdtoberdfrabgadatteana.TsblwdreastorntessofanOMprtgabgada.Atteteofans,teisnettanwlbeaeorttaswlreana.Attttsblmyheonllsldsagfrslbgadi.Frilp,teDtofEnsstttsfranOMgyrnat1%to5%oftetlptcSCtofE]

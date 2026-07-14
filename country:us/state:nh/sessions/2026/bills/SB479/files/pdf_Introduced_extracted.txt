@@ -1,0 +1,349 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB479-FN-ASINTRODUCED
+2026SESSION
+26-2039
+05/06
+479-FN
+ANACT allowingalternativetreatmentcenterstooperateforprofit.
+SPONSORS: Sen.Innis,Dist7;Sen.Fenton,Dist10;Sen.Murphy,Dist16;Sen.Pearl,Dist17;
+Sen. Rochefort, Dist 1; Rep. Kofalt, Hills. 32; Rep. C. McGuire, Merr. 27; Rep.
+Edwards,Rock.31;Rep.Ebel,Merr.7;Rep.Seaworth,Merr.12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsalternativetreatmentcenterstooperateforprofit.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB479-FN-ASINTRODUCED
+26-2039
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowingalternativetreatmentcenterstooperateforprofit.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Public Health; Use of Cannabis for Therapeutic Purposes; Definitions; Alternative Treatment
+2 Center. AmendRSA126-X:1,Itoreadasfollows:
+3 I. "Alternative treatment center" means a domestic business corporation organized
+4 under RSA 293-A, a domestic limited liability company organized under RSA 304-C, or a
+5 not-for-profit [entity] voluntary corporation organized under RSA 292 that is registered under
+6 RSA 126-X:7 and that acquires, possesses, cultivates, manufactures, delivers, transfers, transports,
+7 sells,supplies,anddispensescannabis,andrelatedsuppliesandeducationalmaterials,toqualifying
+8 patients,designatedcaregivers,otheralternativetreatmentcenters,andvisitingqualifyingpatients.
+9 2 Public Health; Use of Cannabis for Therapeutic Purposes; Departmental Administration;
+10 AlternativeTreatmentCenters;ApplicationForm. AmendRSA126-X:7,IV(a)(4)toreadasfollows:
+11 (4) The name, address, and date of birth of each principal officer and board member
+12 of the alternative treatment center. The board of directors or board of managers, as applicable,
+13 for the [nonprofit] alternative treatment center shall include at least one physician, advance
+14 practice registered nurse, or pharmacist licensed to practice in New Hampshire and at least one
+15 patient qualified to register as a qualifying patient. The majority of board members or managers,
+16 as applicable, shall be New Hampshire residents. A medical professional listed in this
+17 subparagraph may be a member of the alternative treatment center board of directors or
+18 managers,asapplicable,butshallnotmaintainanownershipinterestinthecenter.
+19 3 Public Health; Use of Cannabis for Therapeutic Purposes; Alternative Treatment Centers;
+20 Requirements. AmendRSA126-X:8,Itoreadasfollows:
+21 I. An alternative treatment center [shall] may be operated on a for-profit or not-for-profit
+22 basisforthebenefitofits patients. Analternativetreatmentcenter neednotberecognizedasatax-
+23 exemptorganizationbytheInternalRevenueService.
+24 4 New Paragraphs; Public Health; Use of Cannabis for Therapeutic Purposes; Alternative
+25 Treatment Centers; Requirements. Amend RSA 126-X:8 by inserting after paragraph XVIII the
+26 followingnewparagraphs:
+27 XIX. Except as otherwise provided in this chapter, an alternative treatment center shall be
+28 subject to RSA 293-A if organized as a domestic business corporation, RSA 304-C if organized as a
+29 domesticlimitedliabilitycompany,andRSA292iforganizedasavoluntarycorporation.
+30 XX. An alternative treatment center organized as a voluntary corporation under RSA 292
+31 may convert from a voluntary corporation under RSA 292 to either a domestic business corporation
+SB479-FN-ASINTRODUCED
+-Page2-
+1 organized under RSA 293-A or a limited liability company organized under RSA 304-C in any of the
+2 followingways:
+3 (a) ByadoptingaplanofentityconversioninaccordancewithRSA293-AorRSA304-C,
+4 as applicable, that includes a provision prohibiting the sale of memberships or shares to a foreign
+5 corporation for a period of 3 years, provided that each such conversion shall be authorized by a vote
+6 of 2/3 of the members of the board of directors at a meeting duly called for the purpose or by
+7 unanimouswrittenconsent.
+8 (b) By adopting a plan of merger in accordance with RSA 293-A that includes a
+9 provision prohibiting the sale of memberships or shares to a foreign corporation for a period of 3
+10 years, for which the domestic business corporation shall be the surviving entity, provided that, such
+11 mergershallbeauthorizedbyavoteof2/3ofthemembersoftheboardofdirectorsofthealternative
+12 treatmentcenteratameetingdulycalledforthepurposeorbyunanimouswrittenconsent.
+13 (c) ByadoptingaplanofmergerinaccordancewithRSA304-Cthatincludesaprovision
+14 prohibiting the sale of memberships or shares to a foreign corporation for a period of 3 years, for
+15 which the domestic limited liability company shall be the surviving entity, provided that, such
+16 mergershallbeauthorizedbyavoteof2/3ofthemembersoftheboardofdirectorsatameetingduly
+17 calledforthepurposeorbyunanimouswrittenconsent.
+18 XXI. Articles of entity conversion or articles of merger, as applicable, shall be signed and
+19 submitted to the secretary of state pursuant to RSA 293-A or RSA 304-C, as applicable, and the
+20 secretaryofstateshallapproveallsuchfilingssubmittedpursuanttothissection.
+21 XXII. The secretary of state shall certify such articles of entity conversion or articles of
+22 merger and shall provide them to the department. Upon receipt, the department shall update the
+23 existinglicensesheldbytheconvertedormergedalternativetreatmentcenter.
+24 XXIII. For the purposes of converting or merging an alternative treatment center pursuant
+25 to this section, notwithstanding any provision in the articles of agreement or alternative treatment
+26 centerlicenseapplicationstothecontrary,themembersofanalternativetreatmentcenter'sboardof
+27 directors may determine that a plan of entity conversion or merger is consistent with its corporate
+28 charter, and such voluntary corporation may surrender its articles of agreement in connection with
+29 theplanofentityconversionormerger.
+30 5 Voluntary Corporations and Associations; Powers of Corporations; Change of Name;
+31 AmendingArticles;ConversionandMerger. AmendRSA292:7toreadasfollows:
+32 292:7 ChangeofName;AmendingArticles.
+33 I. Any corporation now or hereafter organized or registered in accordance with the
+34 provisions of this chapter, and any existing corporation which may have been so organized or
+35 registered, may change its name, increase or decrease its capital stock or membership certificates,
+36 mergewithoracquireanyothercorporationformedpursuanttothischapter,oramenditsarticlesof
+37 agreement, by a majority vote of such corporation's board of directors or trustees, at a meeting duly
+SB479-FN-ASINTRODUCED
+-Page3-
+1 called for that purpose, and by recording a certified copy of such vote in the office of the secretary of
+2 state and in the office of the clerk of the town or city in this state which is its principal place of
+3 business. In the case of a foreign nonprofit corporation registered in New Hampshire, a copy of the
+4 amendment or plan of merger, certified by the proper officer of the state of incorporation, shall be
+5 filed with the secretary of state, together with the fee provided in RSA 292:5. The surviving
+6 corporation in a merger shall continue to have all the authority and powers vested in the merging
+7 corporations,includinganypowerspreviouslyconferreduponthembythelegislature.
+8 II. An alternative treatment center registered pursuant to RSA 126-X and
+9 organized under this chapter may, pursuant to RSA 126-X:8, XX, convert to either a
+10 domestic corporation organized under RSA 293-A or a limited liability company organized
+11 under to RSA 304-C, and may merge with a domestic business corporation organized under
+12 RSA293-AoralimitedliabilitycompanyorganizedunderRSA304-C.
+13 6 New Subparagraph; New Hampshire Business Corporation Act; Domestication and
+14 Conversion; Entity Conversion Authorized. Amend RSA 293-A:9.50 by inserting after paragraph (f)
+15 thefollowingnewsubparagraph:
+16 (g) Alternative treatment centers registered pursuant to RSA 126-X and organized
+17 pursuant to RSA 292 may become a domestic corporation pursuant to a plan of conversion in
+18 accordance with RSA 126-X:8, XX and this subdivision. The alternative treatment center shall be
+19 deemed to be a domestic unincorporated entity for purposes of applying RSA 293-A:9.50 through
+20 RSA293-A:9.56,exceptthatapprovaloftheconversionshallbeasoutlinedinRSA126-X:8,XX.
+21 7 Limited Liability Companies; Statutory Conversions; Statutory Conversions of Other
+22 BusinessEntitiestoLimitedLiabilityCompanies. AmendRSA304-C:149,Itoreadasfollows:
+23 I. Any other business entity, including alternative treatment centers pursuant to RSA
+24 126-X:8, XX, may make a statutory conversion of its business organization form to the limited
+25 liability company business organization form under this act by complying with the requirements of
+26 this section and with applicable law governing the other business entity. Approval of a
+27 conversion of an alternative treatment center pursuant to this paragraph shall be as
+28 outlinedinRSA126-X:8,XX.
+29 8 New Paragraph; Limited Liability Companies; Statutory Conversions; Statutory Conversions
+30 of Other Business Entities to Limited Liability Companies; Approvals of Statutory Conversion.
+31 AmendRSA304-C:149byinsertingafterparagraphVIIIthefollowingnewparagraph:
+32 IX. In the case of the conversion of an alternative treatment center registered under RSA
+33 126-X and organized pursuant to RSA 292, such conversion shall be approved by the board of
+34 directorsinaccordancewithRSA126-X:8,XX.
+35 9 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2039
+9/30/25
+SB479-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowingalternativetreatmentcenterstooperateforprofit.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $13,000 $0 $0
+FundingSource(s) VariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill allows alternative treatment centers to operate as for-profit entities. The Department
+of State estimates that this will necessitate software and other changes, resulting in a one-time
+expenditure of $13,000. The Department states that it will use non-general fund revenue
+sourcestocoverthesecosts.
+The Department of Health and Human Services states the bill will have no fiscal impact on that
+department.
+ItisassumedanyfiscalimpactwillnotoccuruntilFY2027.
+AGENCIESCONTACTED:
+DepartmentsofStateandHealthandHumanServices
+[As this bill is identical to HB 54, 2025 Session, we used the same information the agency
+providedatthattimetopreparetheabovefiscalnote]
+[DELETED: B4N-ASI6SEBNATagaettcstooefrp:S.I,Dt7;S.F,Dt1;S.M,Dt1;S.P,Dt1.R,Dt1;R.K,H.3;R.C.M,M.2;R,R.3;R.E,M.7;R.S,M.1:Jsblasaettcstooefrp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATagaettcstooefrpeitEdbyteSeadHeofRsinGlCtc1PcH;UeofCsfrTcP;D;AeTC.AdRA1,ItordasfI."ettc"msadcbscnourRA2,adcldlycyodurRA3,ornt[]vycnodurRA22ttisrduRA17adtta,p,c,m,d,t,ts,s,addsc,adrdssadelm,toqp,ddc,oraettc,advgqgp2PcH;UeofCsfrTcP;DlA0AeTtC;AnF.AdRA1,I)tordasf1()Ten,a,addeofbhofehploradbdm2ofteaettc.Tebdofdsorbdofm,asa3frte[]aettcrslieatltoep,a4perdn,orptldtopeinNwHeadatlto5ptqdtorrasaqgp.Temyofbdmsorm6asa,slbeNwHer.Amlplldint7shmybeamrofteaettcrbdofdso8m,asa,btslntmnanopitintec93PcH;UeofCsfrTcP;AeTtC0R.AdRA1,Itordasf1I.Anaettcr[]mybeodonaftorn2bsfrtebtofisp.Anaettcrndntberdasat3etonbyteIlReS44NwP;PcH;UeofCsfrTcP;A5TtC;R.AdRA18byigarphXIt6fgnwp7X.Etasoepdintsc,anaettcrslb8sttoRA2Aifodasadcbsc,RA3Cifodas9dcldlyc,adRA22ifodasavyc0X.AnaettcrodasavycnurRA21myctfmavycnurRA22toeradcbsc]
+[DELETED: B4N-ASIPe2odurRA2AoraldlycyodurRA3Cinayoftfgw()ByagapnofeycninaewhRA2AorRA3asa,ttisapnpgteseofmsorsstoafcnfrapdof3y,pdttehshcnslbeadbyavof23oftemsoftebdofdsatamgdycdfrtepeorbuswnc()ByagapnofmrinaewhRA2Attispnpgteseofmsorsstoafncnfrapdof0y,frwhtedcbscnslbetesge,pdt,s1mrslbeadbyaveof23oftemsoftebdofdsoftea2ttcratamgdycdfrtepeorbyuswnc3()ByagapnofmrinaewhRA3Cttisap4pgteseofmsorsstoafncnfrapdof3y,f5whtedcldlycyslbetesge,pdt,s6mrslbeadbyaveof23oftemsoftebdofdsatamgd7cdfrtepeorbyuswnc8X.Asofeycnorasofm,asa,slbesda9sdtotesyofsepttoRA2AorRA3,asa,adt0syofseslaealshfssdpttotss1X.Tesyofseslcyshasofeycnoraso2mradslpetmtoted.Unr,tedtsluet3eglshdbytecdormdaettc4X.Frtepsofcgormganaettcrp5totss,ngaypninteasofatoraet6crleastotec,temsofanaettcsbdo7dsmydettapnofeycnormrisctwhisc8c,adshvycnmysrisasofatincnw9tepnofeycnorm05VyCsadA;PsofC;CeofN1AgA;CnadM.AdRA27tordasf227CeofN;AgA3I.Aycnnworhrodorrdinaewht4psoftsc,adayegcnwhmyhebnsoodo5r,myceisn,ieordeisclskormpc6mewhoraeayorcnfdpttotsc,oradisaso7a,byamyveofshcsbdofdsort,atamgd]
+[DELETED: B4N-ASIPe3cdfrttp,adbyrgacdcyofshveinteoeoftesyoseadinteoeofteckoftetnorcyintssewhisisplpeob.InteceofafnntcnrdinNwH,acyoftatorpnofm,cdbyteprorofteseofi,slbfdwhtesyofs,trwhtefepdinRA2.Tescninamrslcetohealteayadpsvdintemc,igaypspycduntmbytelI.AnaettcrrdpttoRA1Xaodurtscrm,pttoRA1,X,cttoer0dccnodurRA2Aoraldlycyo1urtoRA3,admymewhadcbscnodu2RA2AoraldlycyodurRA336NwS;NwHeBsCnA;Dna4C;EyCnA.AdRA20byigarph(5tefgnws6()AettcsrdpttoRA1Xado7pttoRA22mybeadccnpttoapnofcni8aewhRA1,XXadtss.Teaettcrslb9ddtobeadcudeyfrpsofagRA20t0RA2,etttaloftecnslbeasodinRA1,X17LdLyC;SyC;SyCsofO2BsEstoLdLyC.AdRA3,Itordasf3I.Ayorbse,igaettcspttoR41,X,mymeasycnofisbsonfmtotel5lycybsonfmurtsatbycgwhterso6tssnadwhaelwggteorbse.Alof7cnofanaettcrpttotsphslbea8odinRA1,X98NwP;LdLyC;SyC;SyC0ofOrBsEstoLdLyC;AsofSyC1AdRA39byigarphVItefgnwp2I.InteceoftecnofanaettcrrdurR31XadodpttoRA2,shcnslbeadbytebdo4dsinaewhRA1,X59EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATagaettcstooefrpLI:TsbldsntpefdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSsAyF0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblasaettcstooeasfte.TeDfSeestttswlneseadorc,rginaoeof$.TeDtssttitwluenlfdrstocrteceDtofHhadHnSsssteblwlhenoflitonttisadayflitwlntorulFY2SCsofSeadHhadHnSstsblisiltoHB5,25S,weudteseinteadattttetopeteaefln]
+
+
+================================================================================
+
+Raw Text:
+SB479-FN-ASINTRODUCED
+2026SESSION
+26-2039
+05/06
+479-FN
+SENATEBILL
+ANACT allowingalternativetreatmentcenterstooperateforprofit.
+SPONSORS: Sen.Innis,Dist7;Sen.Fenton,Dist10;Sen.Murphy,Dist16;Sen.Pearl,Dist17;
+Sen. Rochefort, Dist 1; Rep. Kofalt, Hills. 32; Rep. C. McGuire, Merr. 27; Rep.
+Edwards,Rock.31;Rep.Ebel,Merr.7;Rep.Seaworth,Merr.12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillallowsalternativetreatmentcenterstooperateforprofit.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB479-FN-ASINTRODUCED
+26-2039
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT allowingalternativetreatmentcenterstooperateforprofit.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Public Health; Use of Cannabis for Therapeutic Purposes; Definitions; Alternative Treatment
+2 Center. AmendRSA126-X:1,Itoreadasfollows:
+3 I. "Alternative treatment center" means a domestic business corporation organized
+4 under RSA 293-A, a domestic limited liability company organized under RSA 304-C, or a
+5 not-for-profit [entity] voluntary corporation organized under RSA 292 that is registered under
+6 RSA 126-X:7 and that acquires, possesses, cultivates, manufactures, delivers, transfers, transports,
+7 sells,supplies,anddispensescannabis,andrelatedsuppliesandeducationalmaterials,toqualifying
+8 patients,designatedcaregivers,otheralternativetreatmentcenters,andvisitingqualifyingpatients.
+9 2 Public Health; Use of Cannabis for Therapeutic Purposes; Departmental Administration;
+10 AlternativeTreatmentCenters;ApplicationForm. AmendRSA126-X:7,IV(a)(4)toreadasfollows:
+11 (4) The name, address, and date of birth of each principal officer and board member
+12 of the alternative treatment center. The board of directors or board of managers, as applicable,
+13 for the [nonprofit] alternative treatment center shall include at least one physician, advance
+14 practice registered nurse, or pharmacist licensed to practice in New Hampshire and at least one
+15 patient qualified to register as a qualifying patient. The majority of board members or managers,
+16 as applicable, shall be New Hampshire residents. A medical professional listed in this
+17 subparagraph may be a member of the alternative treatment center board of directors or
+18 managers,asapplicable,butshallnotmaintainanownershipinterestinthecenter.
+19 3 Public Health; Use of Cannabis for Therapeutic Purposes; Alternative Treatment Centers;
+20 Requirements. AmendRSA126-X:8,Itoreadasfollows:
+21 I. An alternative treatment center [shall] may be operated on a for-profit or not-for-profit
+22 basisforthebenefitofits patients. Analternativetreatmentcenter neednotberecognizedasatax-
+23 exemptorganizationbytheInternalRevenueService.
+24 4 New Paragraphs; Public Health; Use of Cannabis for Therapeutic Purposes; Alternative
+25 Treatment Centers; Requirements. Amend RSA 126-X:8 by inserting after paragraph XVIII the
+26 followingnewparagraphs:
+27 XIX. Except as otherwise provided in this chapter, an alternative treatment center shall be
+28 subject to RSA 293-A if organized as a domestic business corporation, RSA 304-C if organized as a
+29 domesticlimitedliabilitycompany,andRSA292iforganizedasavoluntarycorporation.
+30 XX. An alternative treatment center organized as a voluntary corporation under RSA 292
+31 may convert from a voluntary corporation under RSA 292 to either a domestic business corporation
+
+SB479-FN-ASINTRODUCED
+-Page2-
+1 organized under RSA 293-A or a limited liability company organized under RSA 304-C in any of the
+2 followingways:
+3 (a) ByadoptingaplanofentityconversioninaccordancewithRSA293-AorRSA304-C,
+4 as applicable, that includes a provision prohibiting the sale of memberships or shares to a foreign
+5 corporation for a period of 3 years, provided that each such conversion shall be authorized by a vote
+6 of 2/3 of the members of the board of directors at a meeting duly called for the purpose or by
+7 unanimouswrittenconsent.
+8 (b) By adopting a plan of merger in accordance with RSA 293-A that includes a
+9 provision prohibiting the sale of memberships or shares to a foreign corporation for a period of 3
+10 years, for which the domestic business corporation shall be the surviving entity, provided that, such
+11 mergershallbeauthorizedbyavoteof2/3ofthemembersoftheboardofdirectorsofthealternative
+12 treatmentcenteratameetingdulycalledforthepurposeorbyunanimouswrittenconsent.
+13 (c) ByadoptingaplanofmergerinaccordancewithRSA304-Cthatincludesaprovision
+14 prohibiting the sale of memberships or shares to a foreign corporation for a period of 3 years, for
+15 which the domestic limited liability company shall be the surviving entity, provided that, such
+16 mergershallbeauthorizedbyavoteof2/3ofthemembersoftheboardofdirectorsatameetingduly
+17 calledforthepurposeorbyunanimouswrittenconsent.
+18 XXI. Articles of entity conversion or articles of merger, as applicable, shall be signed and
+19 submitted to the secretary of state pursuant to RSA 293-A or RSA 304-C, as applicable, and the
+20 secretaryofstateshallapproveallsuchfilingssubmittedpursuanttothissection.
+21 XXII. The secretary of state shall certify such articles of entity conversion or articles of
+22 merger and shall provide them to the department. Upon receipt, the department shall update the
+23 existinglicensesheldbytheconvertedormergedalternativetreatmentcenter.
+24 XXIII. For the purposes of converting or merging an alternative treatment center pursuant
+25 to this section, notwithstanding any provision in the articles of agreement or alternative treatment
+26 centerlicenseapplicationstothecontrary,themembersofanalternativetreatmentcenter'sboardof
+27 directors may determine that a plan of entity conversion or merger is consistent with its corporate
+28 charter, and such voluntary corporation may surrender its articles of agreement in connection with
+29 theplanofentityconversionormerger.
+30 5 Voluntary Corporations and Associations; Powers of Corporations; Change of Name;
+31 AmendingArticles;ConversionandMerger. AmendRSA292:7toreadasfollows:
+32 292:7 ChangeofName;AmendingArticles.
+33 I. Any corporation now or hereafter organized or registered in accordance with the
+34 provisions of this chapter, and any existing corporation which may have been so organized or
+35 registered, may change its name, increase or decrease its capital stock or membership certificates,
+36 mergewithoracquireanyothercorporationformedpursuanttothischapter,oramenditsarticlesof
+37 agreement, by a majority vote of such corporation's board of directors or trustees, at a meeting duly
+
+SB479-FN-ASINTRODUCED
+-Page3-
+1 called for that purpose, and by recording a certified copy of such vote in the office of the secretary of
+2 state and in the office of the clerk of the town or city in this state which is its principal place of
+3 business. In the case of a foreign nonprofit corporation registered in New Hampshire, a copy of the
+4 amendment or plan of merger, certified by the proper officer of the state of incorporation, shall be
+5 filed with the secretary of state, together with the fee provided in RSA 292:5. The surviving
+6 corporation in a merger shall continue to have all the authority and powers vested in the merging
+7 corporations,includinganypowerspreviouslyconferreduponthembythelegislature.
+8 II. An alternative treatment center registered pursuant to RSA 126-X and
+9 organized under this chapter may, pursuant to RSA 126-X:8, XX, convert to either a
+10 domestic corporation organized under RSA 293-A or a limited liability company organized
+11 under to RSA 304-C, and may merge with a domestic business corporation organized under
+12 RSA293-AoralimitedliabilitycompanyorganizedunderRSA304-C.
+13 6 New Subparagraph; New Hampshire Business Corporation Act; Domestication and
+14 Conversion; Entity Conversion Authorized. Amend RSA 293-A:9.50 by inserting after paragraph (f)
+15 thefollowingnewsubparagraph:
+16 (g) Alternative treatment centers registered pursuant to RSA 126-X and organized
+17 pursuant to RSA 292 may become a domestic corporation pursuant to a plan of conversion in
+18 accordance with RSA 126-X:8, XX and this subdivision. The alternative treatment center shall be
+19 deemed to be a domestic unincorporated entity for purposes of applying RSA 293-A:9.50 through
+20 RSA293-A:9.56,exceptthatapprovaloftheconversionshallbeasoutlinedinRSA126-X:8,XX.
+21 7 Limited Liability Companies; Statutory Conversions; Statutory Conversions of Other
+22 BusinessEntitiestoLimitedLiabilityCompanies. AmendRSA304-C:149,Itoreadasfollows:
+23 I. Any other business entity, including alternative treatment centers pursuant to RSA
+24 126-X:8, XX, may make a statutory conversion of its business organization form to the limited
+25 liability company business organization form under this act by complying with the requirements of
+26 this section and with applicable law governing the other business entity. Approval of a
+27 conversion of an alternative treatment center pursuant to this paragraph shall be as
+28 outlinedinRSA126-X:8,XX.
+29 8 New Paragraph; Limited Liability Companies; Statutory Conversions; Statutory Conversions
+30 of Other Business Entities to Limited Liability Companies; Approvals of Statutory Conversion.
+31 AmendRSA304-C:149byinsertingafterparagraphVIIIthefollowingnewparagraph:
+32 IX. In the case of the conversion of an alternative treatment center registered under RSA
+33 126-X and organized pursuant to RSA 292, such conversion shall be approved by the board of
+34 directorsinaccordancewithRSA126-X:8,XX.
+35 9 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2039
+9/30/25
+SB479-FN-FISCALNOTE
+ASINTRODUCED
+ANACT allowingalternativetreatmentcenterstooperateforprofit.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $13,000 $0 $0
+FundingSource(s) VariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill allows alternative treatment centers to operate as for-profit entities. The Department
+of State estimates that this will necessitate software and other changes, resulting in a one-time
+expenditure of $13,000. The Department states that it will use non-general fund revenue
+sourcestocoverthesecosts.
+The Department of Health and Human Services states the bill will have no fiscal impact on that
+department.
+ItisassumedanyfiscalimpactwillnotoccuruntilFY2027.
+AGENCIESCONTACTED:
+DepartmentsofStateandHealthandHumanServices
+[As this bill is identical to HB 54, 2025 Session, we used the same information the agency
+providedatthattimetopreparetheabovefiscalnote]
+
+[DELETED: B4N-ASI6SEBNATagaettcstooefrp:S.I,Dt7;S.F,Dt1;S.M,Dt1;S.P,Dt1.R,Dt1;R.K,H.3;R.C.M,M.2;R,R.3;R.E,M.7;R.S,M.1:Jsblasaettcstooefrp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATagaettcstooefrpeitEdbyteSeadHeofRsinGlCtc1PcH;UeofCsfrTcP;D;AeTC.AdRA1,ItordasfI."ettc"msadcbscnourRA2,adcldlycyodurRA3,ornt[]vycnodurRA22ttisrduRA17adtta,p,c,m,d,t,ts,s,addsc,adrdssadelm,toqp,ddc,oraettc,advgqgp2PcH;UeofCsfrTcP;DlA0AeTtC;AnF.AdRA1,I)tordasf1()Ten,a,addeofbhofehploradbdm2ofteaettc.Tebdofdsorbdofm,asa3frte[]aettcrslieatltoep,a4perdn,orptldtopeinNwHeadatlto5ptqdtorrasaqgp.Temyofbdmsorm6asa,slbeNwHer.Amlplldint7shmybeamrofteaettcrbdofdso8m,asa,btslntmnanopitintec93PcH;UeofCsfrTcP;AeTtC0R.AdRA1,Itordasf1I.Anaettcr[]mybeodonaftorn2bsfrtebtofisp.Anaettcrndntberdasat3etonbyteIlReS44NwP;PcH;UeofCsfrTcP;A5TtC;R.AdRA18byigarphXIt6fgnwp7X.Etasoepdintsc,anaettcrslb8sttoRA2Aifodasadcbsc,RA3Cifodas9dcldlyc,adRA22ifodasavyc0X.AnaettcrodasavycnurRA21myctfmavycnurRA22toeradcbsc]
+[DELETED: B4N-ASIPe2odurRA2AoraldlycyodurRA3Cinayoftfgw()ByagapnofeycninaewhRA2AorRA3asa,ttisapnpgteseofmsorsstoafcnfrapdof3y,pdttehshcnslbeadbyavof23oftemsoftebdofdsatamgdycdfrtepeorbuswnc()ByagapnofmrinaewhRA2Attispnpgteseofmsorsstoafncnfrapdof0y,frwhtedcbscnslbetesge,pdt,s1mrslbeadbyaveof23oftemsoftebdofdsoftea2ttcratamgdycdfrtepeorbyuswnc3()ByagapnofmrinaewhRA3Cttisap4pgteseofmsorsstoafncnfrapdof3y,f5whtedcldlycyslbetesge,pdt,s6mrslbeadbyaveof23oftemsoftebdofdsatamgd7cdfrtepeorbyuswnc8X.Asofeycnorasofm,asa,slbesda9sdtotesyofsepttoRA2AorRA3,asa,adt0syofseslaealshfssdpttotss1X.Tesyofseslcyshasofeycnoraso2mradslpetmtoted.Unr,tedtsluet3eglshdbytecdormdaettc4X.Frtepsofcgormganaettcrp5totss,ngaypninteasofatoraet6crleastotec,temsofanaettcsbdo7dsmydettapnofeycnormrisctwhisc8c,adshvycnmysrisasofatincnw9tepnofeycnorm05VyCsadA;PsofC;CeofN1AgA;CnadM.AdRA27tordasf227CeofN;AgA3I.Aycnnworhrodorrdinaewht4psoftsc,adayegcnwhmyhebnsoodo5r,myceisn,ieordeisclskormpc6mewhoraeayorcnfdpttotsc,oradisaso7a,byamyveofshcsbdofdsort,atamgd]
+[DELETED: B4N-ASIPe3cdfrttp,adbyrgacdcyofshveinteoeoftesyoseadinteoeofteckoftetnorcyintssewhisisplpeob.InteceofafnntcnrdinNwH,acyoftatorpnofm,cdbyteprorofteseofi,slbfdwhtesyofs,trwhtefepdinRA2.Tescninamrslcetohealteayadpsvdintemc,igaypspycduntmbytelI.AnaettcrrdpttoRA1Xaodurtscrm,pttoRA1,X,cttoer0dccnodurRA2Aoraldlycyo1urtoRA3,admymewhadcbscnodu2RA2AoraldlycyodurRA336NwS;NwHeBsCnA;Dna4C;EyCnA.AdRA20byigarph(5tefgnws6()AettcsrdpttoRA1Xado7pttoRA22mybeadccnpttoapnofcni8aewhRA1,XXadtss.Teaettcrslb9ddtobeadcudeyfrpsofagRA20t0RA2,etttaloftecnslbeasodinRA1,X17LdLyC;SyC;SyCsofO2BsEstoLdLyC.AdRA3,Itordasf3I.Ayorbse,igaettcspttoR41,X,mymeasycnofisbsonfmtotel5lycybsonfmurtsatbycgwhterso6tssnadwhaelwggteorbse.Alof7cnofanaettcrpttotsphslbea8odinRA1,X98NwP;LdLyC;SyC;SyC0ofOrBsEstoLdLyC;AsofSyC1AdRA39byigarphVItefgnwp2I.InteceoftecnofanaettcrrdurR31XadodpttoRA2,shcnslbeadbytebdo4dsinaewhRA1,X59EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATagaettcstooefrpLI:TsbldsntpefdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSsAyF0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblasaettcstooeasfte.TeDfSeestttswlneseadorc,rginaoeof$.TeDtssttitwluenlfdrstocrteceDtofHhadHnSsssteblwlhenoflitonttisadayflitwlntorulFY2SCsofSeadHhadHnSstsblisiltoHB5,25S,weudteseinteadattttetopeteaefln]

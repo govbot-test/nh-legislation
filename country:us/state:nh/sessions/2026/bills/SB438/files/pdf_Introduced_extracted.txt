@@ -1,0 +1,187 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB438 -ASINTRODUCED
+2026SESSION
+26-2240
+08/09
+438
+ANACT enabling the department of safety and the secretary of state to develop a process
+tosharecertaininformationregardingREALIDapplicants.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Lang, Dist 2; Rep. Lane, Merr. 16; Rep.
+Telerski,Hills.11;Rep.Simpson,Rock.33
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablesthedepartmentofsafetyandthesecretaryofstatetodevelopaprocesstoshare
+certaininformationregardingREALIDapplicants.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB438-ASINTRODUCED
+26-2240
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling the department of safety and the secretary of state to develop a process
+tosharecertaininformationregardingREALIDapplicants.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Identification. Amend RSA659byinsertingafter section13-bthefollowingnew
+2 section:
+3 659:13-c CitizenshipInformation;SecretaryofState;DepartmentofSafety.
+4 I. Notwithstanding any other provision of law, any United States citizen applying for an
+5 enhanced identification card pursuant to RSA 260:21-b shall be given the opportunity to have their
+6 photo image and information regarding their United States citizenship shared with the secretary of
+7 state for voting identification purposes. The commissioner of the department of safety and the
+8 secretary of state shall develop an agreement to electronically transmit photo images and
+9 informationrelatedtoUnitedStatescitizenshipsecurelyandconfidentiallybyJanuary1,2027.
+10 II. The secretary of state shall transmit photo images and information related to United
+11 States citizenship to the appropriate clerk to be used by the clerk, moderator, or supervisor of the
+12 checklist for purposes of identification, if applicable. The secretary of state shall transmit photo
+13 images and other United States citizenship information to the appropriate clerk within 3 days of
+14 receiptofsuchphotosandinformation. Notwithstandinganyotherprovisionoflaw,thephotoimage
+15 and United States citizenship information provided shall satisfy proof of citizenship documentation
+16 requirements pursuant to RSA 654:7-a and RSA 654:12. In order to be used on election day, the
+17 photoimageandUnitedStatescitizenshipinformationshallbecapturedbythedepartmentofsafety
+18 nolaterthan14daysbeforetheelection.
+19 III. In cities and towns that use electronic poll books under RSA 652:27, the clerk shall
+20 download the photo image and United States citizenship information to the checklist no later than
+21 the Friday before the election. In cities and towns that do not use electronic poll books, the clerk
+22 shall confirm receipt of the photo image and United States citizenship information by marking the
+23 column on the checklist for citizenship information under RSA 654:25. Nothing in this section shall
+24 be construed as permitting the electronic poll book device to be connected to the Internet on election
+25 day.
+26 IV. The applicant may decline or withdraw consent to have his or her photo and United
+27 States citizenship information shared with the secretary of state at any time by contacting the
+28 department of safety. In the event the applicant declines or withdraws consent, the department of
+29 safety and the secretary of state shall remove the photo image captured for the enhanced
+SB438 -ASINTRODUCED
+-Page2-
+1 identification card promptly and the secretary of state shall remove information regarding the
+2 applicant'sUnitedStatescitizenshippromptly.
+3 V. Nothing in this section shall be construed as enabling the registering of an applicant at
+4 anofficeofthedepartmentofsafetyorimpactinganapplicant'svoterregistrationstatus.
+5 2 PreparingChecklist. AmendRSA654:25toreadasfollows:
+6 654:25 Preparing Checklist. The secretary of state shall issue and distribute guidelines for the
+7 content, composition, and style of checklists and for the maintenance of data related to checklists by
+8 which the supervisors of the checklist shall compile and correct the checklist. Such guidelines shall
+9 specify the information which will be maintained and updated by the supervisors. The secretary
+10 shall establish standard forms and procedures for the use of the supervisors for the maintenance of
+11 such information. The information to be maintained and updated shall include the full name,
+12 domicile address, mailing address, citizenship status, if the clerk has received such
+13 information from the secretary of state under RSA 659:13-c, and party affiliation, if any, of
+14 each voter on the checklist and such other information as the secretary requires. Every checklist
+15 used at any election shall at a minimum contain the full name, domicile address, mailing address,
+16 andpartyaffiliation,ifany,ofeachvoteronthechecklist. Thepaperchecklistsusedbyballotclerks
+17 on election day need not include mailing addresses. The name and address of a voter shall not
+18 appear on the checklist at the request of the voter if the voter presents to the supervisors of the
+19 checklist a valid protective order pursuant to RSA 173-B. The name, domicile address, and mailing
+20 address, if different, of such a voter shall be maintained on a separate list of voters, which shall be
+21 nonpublic and not subject to RSA 91-A. If it is necessary to establish such a nonpublic list, the
+22 publicchecklist shall bemarked at the end withanotationof thenumber of voters whose names are
+23 maintainedonthenonpubliclist.
+24 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B48-ASI6SEBNATegtedtofsyadtesyofsetodpaposecninrgRLIDa:S.PsK,Dt2;S.L,Dt2;R.L,M.1;R,H.1;R.S,R.3:EnLwadMlAsblestedtofsyadtesyofsetodpapstosninrgRLIDa-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B48-ASIEOFNWHnteYrofOrLdToTdTNATegtedtofsyadtesyofsetodpaposecninrgRLIDaeitEdbyteSeadHeofRsinGlCtc1NwS;I.AdRA69byigarsn1btefgns6cCpI;SyofS;DtofSI.Ngayorpnofl,ayUdSscnagfraedincdpttoRA2bslbegnteoytohetpoieadinrgtrUdSscpsdwhtesyosefrvginp.TecroftedtofsyadtsyofsesldpanattoeyttpoisainrdtoUdSscpsyadcybyJy1,20I.TesyofseslttpoisadinrdtoU1Sscptoteaecktobeudbytec,m,orsroft2ctfrpsofi,ifa.Tesyofseslttp3isadorUdSscpintoteaeckwn3dso4rtofshpsadi.Ngayorpnofl,tepoi5adUdSscpinpdslsypfofcpd6rspttoRA6aadRA6.Inortobeudonend,t7poieadUdSscpinslbecdbytedtofs8nolrtn14dsbetee9I.IncsadtsttueecplbsurRA6,tecks0ddtepoieadUdSscpintotectnolrt1teFybetee.Incsadtsttdontueecplb,tec2slcmrtoftepoieadUdSscpinbymgt3cnontectfrcpinurRA6.Ngintssns4becdaspgteecplbkdetobecdtoteItone5d6I.TeatmydeorwwcttohehsorhrpoadU7Sscpinsdwhtesyofseataytebycgt8dtofs.Inteetteatdsorwsc,tedto9syadtesyofseslretepoiecdfrtee]
+[DELETED: B48-ASIPe2incdpyadtesyofseslreinrgtasUdSscppV.Ngintssnslbecdasegtergofanataanoeoftedtofsyoriganasvrrns2PgC.AdRA65tordasf65PgC.Tesyofseslieaddegsfrtc,c,adseofcsadfrtemeofdardtocsbwhtessoftectslceadcttec.Shgsssyteinwhwlbemdadudbytes.Tes0slehsdfsadpsfrteueoftessfrtemeo1shi.Teintobemdadudslietefln2dea,mga,cps,ifteckhsrds3infmtesyofseurRA6,adpya,ifa,o4ehvrontectadshorinastesyr.Eyc5udatayenslatammcntefln,dea,mga6adpya,ifa,ofehvrontec.Teprcsudbybtc7onendyndntiemga.Teneadasofavrsln8arontectattertoftevriftevrpstotessoft9ctavdpeorpttoRA1.Ten,dea,adm0a,ifd,ofshavrslbemdonaseltofv,whslb1ncadntsttoRA9.Ifitisnytoehshancl,t2pcctslbemdatteedwhannoftenrofvswensa3mdontencl43EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB438 -ASINTRODUCED
+2026SESSION
+26-2240
+08/09
+438
+SENATEBILL
+ANACT enabling the department of safety and the secretary of state to develop a process
+tosharecertaininformationregardingREALIDapplicants.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Lang, Dist 2; Rep. Lane, Merr. 16; Rep.
+Telerski,Hills.11;Rep.Simpson,Rock.33
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillenablesthedepartmentofsafetyandthesecretaryofstatetodevelopaprocesstoshare
+certaininformationregardingREALIDapplicants.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB438-ASINTRODUCED
+26-2240
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling the department of safety and the secretary of state to develop a process
+tosharecertaininformationregardingREALIDapplicants.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Identification. Amend RSA659byinsertingafter section13-bthefollowingnew
+2 section:
+3 659:13-c CitizenshipInformation;SecretaryofState;DepartmentofSafety.
+4 I. Notwithstanding any other provision of law, any United States citizen applying for an
+5 enhanced identification card pursuant to RSA 260:21-b shall be given the opportunity to have their
+6 photo image and information regarding their United States citizenship shared with the secretary of
+7 state for voting identification purposes. The commissioner of the department of safety and the
+8 secretary of state shall develop an agreement to electronically transmit photo images and
+9 informationrelatedtoUnitedStatescitizenshipsecurelyandconfidentiallybyJanuary1,2027.
+10 II. The secretary of state shall transmit photo images and information related to United
+11 States citizenship to the appropriate clerk to be used by the clerk, moderator, or supervisor of the
+12 checklist for purposes of identification, if applicable. The secretary of state shall transmit photo
+13 images and other United States citizenship information to the appropriate clerk within 3 days of
+14 receiptofsuchphotosandinformation. Notwithstandinganyotherprovisionoflaw,thephotoimage
+15 and United States citizenship information provided shall satisfy proof of citizenship documentation
+16 requirements pursuant to RSA 654:7-a and RSA 654:12. In order to be used on election day, the
+17 photoimageandUnitedStatescitizenshipinformationshallbecapturedbythedepartmentofsafety
+18 nolaterthan14daysbeforetheelection.
+19 III. In cities and towns that use electronic poll books under RSA 652:27, the clerk shall
+20 download the photo image and United States citizenship information to the checklist no later than
+21 the Friday before the election. In cities and towns that do not use electronic poll books, the clerk
+22 shall confirm receipt of the photo image and United States citizenship information by marking the
+23 column on the checklist for citizenship information under RSA 654:25. Nothing in this section shall
+24 be construed as permitting the electronic poll book device to be connected to the Internet on election
+25 day.
+26 IV. The applicant may decline or withdraw consent to have his or her photo and United
+27 States citizenship information shared with the secretary of state at any time by contacting the
+28 department of safety. In the event the applicant declines or withdraws consent, the department of
+29 safety and the secretary of state shall remove the photo image captured for the enhanced
+
+SB438 -ASINTRODUCED
+-Page2-
+1 identification card promptly and the secretary of state shall remove information regarding the
+2 applicant'sUnitedStatescitizenshippromptly.
+3 V. Nothing in this section shall be construed as enabling the registering of an applicant at
+4 anofficeofthedepartmentofsafetyorimpactinganapplicant'svoterregistrationstatus.
+5 2 PreparingChecklist. AmendRSA654:25toreadasfollows:
+6 654:25 Preparing Checklist. The secretary of state shall issue and distribute guidelines for the
+7 content, composition, and style of checklists and for the maintenance of data related to checklists by
+8 which the supervisors of the checklist shall compile and correct the checklist. Such guidelines shall
+9 specify the information which will be maintained and updated by the supervisors. The secretary
+10 shall establish standard forms and procedures for the use of the supervisors for the maintenance of
+11 such information. The information to be maintained and updated shall include the full name,
+12 domicile address, mailing address, citizenship status, if the clerk has received such
+13 information from the secretary of state under RSA 659:13-c, and party affiliation, if any, of
+14 each voter on the checklist and such other information as the secretary requires. Every checklist
+15 used at any election shall at a minimum contain the full name, domicile address, mailing address,
+16 andpartyaffiliation,ifany,ofeachvoteronthechecklist. Thepaperchecklistsusedbyballotclerks
+17 on election day need not include mailing addresses. The name and address of a voter shall not
+18 appear on the checklist at the request of the voter if the voter presents to the supervisors of the
+19 checklist a valid protective order pursuant to RSA 173-B. The name, domicile address, and mailing
+20 address, if different, of such a voter shall be maintained on a separate list of voters, which shall be
+21 nonpublic and not subject to RSA 91-A. If it is necessary to establish such a nonpublic list, the
+22 publicchecklist shall bemarked at the end withanotationof thenumber of voters whose names are
+23 maintainedonthenonpubliclist.
+24 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B48-ASI6SEBNATegtedtofsyadtesyofsetodpaposecninrgRLIDa:S.PsK,Dt2;S.L,Dt2;R.L,M.1;R,H.1;R.S,R.3:EnLwadMlAsblestedtofsyadtesyofsetodpapstosninrgRLIDa-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B48-ASIEOFNWHnteYrofOrLdToTdTNATegtedtofsyadtesyofsetodpaposecninrgRLIDaeitEdbyteSeadHeofRsinGlCtc1NwS;I.AdRA69byigarsn1btefgns6cCpI;SyofS;DtofSI.Ngayorpnofl,ayUdSscnagfraedincdpttoRA2bslbegnteoytohetpoieadinrgtrUdSscpsdwhtesyosefrvginp.TecroftedtofsyadtsyofsesldpanattoeyttpoisainrdtoUdSscpsyadcybyJy1,20I.TesyofseslttpoisadinrdtoU1Sscptoteaecktobeudbytec,m,orsroft2ctfrpsofi,ifa.Tesyofseslttp3isadorUdSscpintoteaeckwn3dso4rtofshpsadi.Ngayorpnofl,tepoi5adUdSscpinpdslsypfofcpd6rspttoRA6aadRA6.Inortobeudonend,t7poieadUdSscpinslbecdbytedtofs8nolrtn14dsbetee9I.IncsadtsttueecplbsurRA6,tecks0ddtepoieadUdSscpintotectnolrt1teFybetee.Incsadtsttdontueecplb,tec2slcmrtoftepoieadUdSscpinbymgt3cnontectfrcpinurRA6.Ngintssns4becdaspgteecplbkdetobecdtoteItone5d6I.TeatmydeorwwcttohehsorhrpoadU7Sscpinsdwhtesyofseataytebycgt8dtofs.Inteetteatdsorwsc,tedto9syadtesyofseslretepoiecdfrtee]
+[DELETED: B48-ASIPe2incdpyadtesyofseslreinrgtasUdSscppV.Ngintssnslbecdasegtergofanataanoeoftedtofsyoriganasvrrns2PgC.AdRA65tordasf65PgC.Tesyofseslieaddegsfrtc,c,adseofcsadfrtemeofdardtocsbwhtessoftectslceadcttec.Shgsssyteinwhwlbemdadudbytes.Tes0slehsdfsadpsfrteueoftessfrtemeo1shi.Teintobemdadudslietefln2dea,mga,cps,ifteckhsrds3infmtesyofseurRA6,adpya,ifa,o4ehvrontectadshorinastesyr.Eyc5udatayenslatammcntefln,dea,mga6adpya,ifa,ofehvrontec.Teprcsudbybtc7onendyndntiemga.Teneadasofavrsln8arontectattertoftevriftevrpstotessoft9ctavdpeorpttoRA1.Ten,dea,adm0a,ifd,ofshavrslbemdonaseltofv,whslb1ncadntsttoRA9.Ifitisnytoehshancl,t2pcctslbemdatteedwhannoftenrofvswensa3mdontencl43EeD.TsatslteetJy1,2]

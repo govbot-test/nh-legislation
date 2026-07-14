@@ -1,0 +1,239 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB549-FN-ASAMENDEDBYTHESENATE
+03/12/2026 1040s
+03/12/2026 1162s
+2026SESSION
+26-2141
+09/05
+549-FN
+ANACT requiring certain syringe service program entities to provide options for disposal
+of used syringes and needles and creating reporting requirements for such
+entities.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Lang, Dist 2;
+Sen. Avard, Dist 12; Sen. Gannon, Dist 23; Sen. Sullivan, Dist 18; Sen. McGough,
+Dist11;Sen.Innis,Dist7;Sen.Birdsell,Dist19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires certain syringe service program entities to provide options for disposal of used
+syringesandneedlesandcreatesreportingrequirementsforsuchentities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB549-FN-ASAMENDEDBYTHESENATE
+03/12/2026 1040s
+03/12/2026 1162s 26-2141
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring certain syringe service program entities to provide options for disposal
+of used syringes and needles and creating reporting requirements for such
+entities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Pharmacists and Pharmacies; Regulation of Pharmacies; Syringe Service
+2 Programs; Authorized Activities and Funding Sources. Amend RSA 318:43-a by inserting after
+3 paragraphIIthefollowingnewparagraph:
+4 II-a.(a) Any entity operating a syringe service program in New Hampshire that involves the
+5 provision of sterile needles and syringes shall provide options for the disposal of used syringes,
+6 needles,andotherrelatedparaphernalia. Suchoptionsshallbefreetothepublic.
+7 (b) Any organization required to provide options for the disposal of used syringes,
+8 needles, and other related paraphernalia shall undertake an annual marketing campaign to inform
+9 participantsoffreedisposaloptions.
+10 (c) At the time of a quarterly report, each entity operating a syringe service program in
+11 New Hampshire shall report to the department whether they are required to provide options for
+12 disposalasoutlinedinthisparagraphand,ifso,shalldemonstratetheircompliance.
+13 (d) At the time of a quarterly report, each entity operating a syringe service program in
+14 New Hampshire shall report to the department calculated return rates. In addition to calculated
+15 return rates, each program shall provide a description of methods used in syringe counting or
+16 estimation; separation of returns from direct participant exchange versus secondary/community
+17 sources; and a narrative of factors affecting performance and improvement efforts. Strengthening
+18 syringe services programs (SSPs) shall seek to achieve and maintain a return rate of 95 percent or
+19 higher in each calendar quarter. The department shall assess performance over rolling 4-quarter
+20 periods. Areturnratemayexceed 100percent. IfanSSPreports areturnratebelow 95percent for
+21 2 consecutive quarters, it must submit a corrective action plan within 30 days. The plan shall
+22 include strategies to increase return rate, such as enhanced drop box access, peer outreach,
+23 incentives, or community partnerships; a timeline with measurable targets; and a statement of
+24 resource or technical needs. Upon request, the department shall provide support, including
+25 guidance on data gathering and best practices. The department shall adopt rules pursuant to RSA
+26 541-A establishing a schedule of fines for failure to file required reports or implement corrective
+27 actionplans.
+28 (e) No municipality shall adopt any local ordinance or other rule to prohibit any activity
+29 authorizedbythisparagraph.
+SB549-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 2 Effective Date. This act shall take effect 90 days after its passage.
+LBA
+26-2141
+04/06/2026
+SB549-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENTS#2026-1040sand#2026-1162s)
+ANACT requiring certain syringe service program entities to provide options for disposal
+of used syringes and needles and creating reporting requirements for such
+entities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $115,000 $120,000 $126,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+Thisbillrequiresallsyringeserviceprograms(SSP)thatdistributesterilesyringesto:
+(1)providefreedisposaloptionsforusedsyringesandrelatedparaphernalia;
+(2)conductanannualmarketingcampaignregardingdisposaloptions;
+(3)submitquarterlyreportsdocumentingcompliancewithdisposalrequirements;and
+(4) report syringe return rates and associated methodology, narrative context, and performance
+factors.
+Inaddition,thebill establishesa95percentreturnrategoal,requirescorrectiveactionplansfor
+programs falling below this threshold for two consecutive quarters, and directs the Department
+of Health and Human Services to provide technical assistance upon request. The Department
+must alsoassess performanceover rollingfour quarter periods and adopt administrativerules to
+establish a schedule of fines for non-compliance. The Department states these new, ongoing
+oversight responsibilities will result in the need for a new, full-time program specialist position,
+atanestimatedcostof$115,000inFY27,$120,000inFY28,and$126,000inFY29.
+To the extent that any local funds are budgeted for SSPs, the fiscal impact on municipalities is
+indeterminable.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B5N-ASADBYTES61616SEBNATrgcnsesepmestopeosfrdfudssadnsadcgrgrsfrs:S.M,Dt1;S.P,Dt1;S.W,Dt8;S.L,Dt2.A,Dt1;S.G,Dt2;S.S,Dt1;S.Mt1;S.I,Dt7;S.B,Dt1:HhadHnSDAsblrscnsesepmestopeosfrdlofusadnsadcsrgrsfrshe-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES6161s2EOFNWHnteYrofOrLdToTdTNATrgcnsesepmestopeosfrdfudssadnsadcgrgrsfrseitEdbyteSeadHeofRsinGlCtc1NwP;PsadP;RnofP;SeSP;AdAsadFgS.AdRA3abyigaphIItefgnwpI)AyeyogasesepminNwHettistpnofsensadssslpeosfrtedlofudsn,adorrdp.Shosslbefetotep()Ayonrdtopeosfrtedlofudsn,adorrdpaslueanalmgcntoipsoffedlo0()Atteteofaqyr,eheyogasesepmi1NwHeslrttotedtwrtyaerdtopeosf2dlasodintspha,ifs,sldetrc3()Atteteofaqyr,eheyogasesepmi4NwHeslrttotedtcdrnr.Inantoc5rnr,ehpmslpeadnofmsudinsecgo6e;snofrsfmdtpteevss7s;adaneoffsagpeadite.S8sessps()slsktoaeadmnarnreof95pto9hrinehcrq.Tedtslaspeorrg40p.Arnremyed10p.IfanSPrsarnrebw95ptf12ceq,itmtstaceanpnwn30d.Tepns2iesstoiernr,shaseddpbxa,pro3i,orcyp;atewhmet;adasto4reortln.Unr,tedtslpes,i5geondaggadbtp.TedtslatrspttoR65Aegaseoffsfrfetoferdrsoritc7anp8()Nomyslataylloeororretoptaya9adbytsp]
+[DELETED: B5N-ASADBYTESPe22EeD.Tsatslteet90dsarisp]
+[DELETED: B5-FLNSADBYTESE(S#sad#NATrgcnsesepmestopeosfrdfudssadnsadcgrgrsfrsLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2lR0$0$0$lE0IeIeIsblrsalseseps()ttdesesst)pefedlosfrudssadrdp)ctanalmgcnrgdlo)stqyrsdgcewhdlr;a)rtsernrsadadm,nec,adpna,teblesa95ptrnreg,rsceanpsfsfgbwtstdfrtoceq,addsteDfHhadHnSstopetlaeunr.TeDtaoaspeorrgfrqrpsadataerst]
+[DELETED: haseoffsfrn.TeDtssten,otrswlrtintendfran,fepmstptanedctof$0inF,$0inF,ad$0inFoteetttayllfsaebdfrS,teflitonmsiSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB549-FN-ASAMENDEDBYTHESENATE
+03/12/2026 1040s
+03/12/2026 1162s
+2026SESSION
+26-2141
+09/05
+549-FN
+SENATEBILL
+ANACT requiring certain syringe service program entities to provide options for disposal
+of used syringes and needles and creating reporting requirements for such
+entities.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Lang, Dist 2;
+Sen. Avard, Dist 12; Sen. Gannon, Dist 23; Sen. Sullivan, Dist 18; Sen. McGough,
+Dist11;Sen.Innis,Dist7;Sen.Birdsell,Dist19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires certain syringe service program entities to provide options for disposal of used
+syringesandneedlesandcreatesreportingrequirementsforsuchentities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB549-FN-ASAMENDEDBYTHESENATE
+03/12/2026 1040s
+03/12/2026 1162s 26-2141
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring certain syringe service program entities to provide options for disposal
+of used syringes and needles and creating reporting requirements for such
+entities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Pharmacists and Pharmacies; Regulation of Pharmacies; Syringe Service
+2 Programs; Authorized Activities and Funding Sources. Amend RSA 318:43-a by inserting after
+3 paragraphIIthefollowingnewparagraph:
+4 II-a.(a) Any entity operating a syringe service program in New Hampshire that involves the
+5 provision of sterile needles and syringes shall provide options for the disposal of used syringes,
+6 needles,andotherrelatedparaphernalia. Suchoptionsshallbefreetothepublic.
+7 (b) Any organization required to provide options for the disposal of used syringes,
+8 needles, and other related paraphernalia shall undertake an annual marketing campaign to inform
+9 participantsoffreedisposaloptions.
+10 (c) At the time of a quarterly report, each entity operating a syringe service program in
+11 New Hampshire shall report to the department whether they are required to provide options for
+12 disposalasoutlinedinthisparagraphand,ifso,shalldemonstratetheircompliance.
+13 (d) At the time of a quarterly report, each entity operating a syringe service program in
+14 New Hampshire shall report to the department calculated return rates. In addition to calculated
+15 return rates, each program shall provide a description of methods used in syringe counting or
+16 estimation; separation of returns from direct participant exchange versus secondary/community
+17 sources; and a narrative of factors affecting performance and improvement efforts. Strengthening
+18 syringe services programs (SSPs) shall seek to achieve and maintain a return rate of 95 percent or
+19 higher in each calendar quarter. The department shall assess performance over rolling 4-quarter
+20 periods. Areturnratemayexceed 100percent. IfanSSPreports areturnratebelow 95percent for
+21 2 consecutive quarters, it must submit a corrective action plan within 30 days. The plan shall
+22 include strategies to increase return rate, such as enhanced drop box access, peer outreach,
+23 incentives, or community partnerships; a timeline with measurable targets; and a statement of
+24 resource or technical needs. Upon request, the department shall provide support, including
+25 guidance on data gathering and best practices. The department shall adopt rules pursuant to RSA
+26 541-A establishing a schedule of fines for failure to file required reports or implement corrective
+27 actionplans.
+28 (e) No municipality shall adopt any local ordinance or other rule to prohibit any activity
+29 authorizedbythisparagraph.
+
+SB549-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 2 Effective Date. This act shall take effect 90 days after its passage.
+
+LBA
+26-2141
+04/06/2026
+SB549-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENTS#2026-1040sand#2026-1162s)
+ANACT requiring certain syringe service program entities to provide options for disposal
+of used syringes and needles and creating reporting requirements for such
+entities.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $115,000 $120,000 $126,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+Thisbillrequiresallsyringeserviceprograms(SSP)thatdistributesterilesyringesto:
+(1)providefreedisposaloptionsforusedsyringesandrelatedparaphernalia;
+(2)conductanannualmarketingcampaignregardingdisposaloptions;
+(3)submitquarterlyreportsdocumentingcompliancewithdisposalrequirements;and
+(4) report syringe return rates and associated methodology, narrative context, and performance
+factors.
+Inaddition,thebill establishesa95percentreturnrategoal,requirescorrectiveactionplansfor
+programs falling below this threshold for two consecutive quarters, and directs the Department
+of Health and Human Services to provide technical assistance upon request. The Department
+must alsoassess performanceover rollingfour quarter periods and adopt administrativerules to
+
+establish a schedule of fines for non-compliance. The Department states these new, ongoing
+oversight responsibilities will result in the need for a new, full-time program specialist position,
+atanestimatedcostof$115,000inFY27,$120,000inFY28,and$126,000inFY29.
+To the extent that any local funds are budgeted for SSPs, the fiscal impact on municipalities is
+indeterminable.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B5N-ASADBYTES61616SEBNATrgcnsesepmestopeosfrdfudssadnsadcgrgrsfrs:S.M,Dt1;S.P,Dt1;S.W,Dt8;S.L,Dt2.A,Dt1;S.G,Dt2;S.S,Dt1;S.Mt1;S.I,Dt7;S.B,Dt1:HhadHnSDAsblrscnsesepmestopeosfrdlofusadnsadcsrgrsfrshe-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES6161s2EOFNWHnteYrofOrLdToTdTNATrgcnsesepmestopeosfrdfudssadnsadcgrgrsfrseitEdbyteSeadHeofRsinGlCtc1NwP;PsadP;RnofP;SeSP;AdAsadFgS.AdRA3abyigaphIItefgnwpI)AyeyogasesepminNwHettistpnofsensadssslpeosfrtedlofudsn,adorrdp.Shosslbefetotep()Ayonrdtopeosfrtedlofudsn,adorrdpaslueanalmgcntoipsoffedlo0()Atteteofaqyr,eheyogasesepmi1NwHeslrttotedtwrtyaerdtopeosf2dlasodintspha,ifs,sldetrc3()Atteteofaqyr,eheyogasesepmi4NwHeslrttotedtcdrnr.Inantoc5rnr,ehpmslpeadnofmsudinsecgo6e;snofrsfmdtpteevss7s;adaneoffsagpeadite.S8sessps()slsktoaeadmnarnreof95pto9hrinehcrq.Tedtslaspeorrg40p.Arnremyed10p.IfanSPrsarnrebw95ptf12ceq,itmtstaceanpnwn30d.Tepns2iesstoiernr,shaseddpbxa,pro3i,orcyp;atewhmet;adasto4reortln.Unr,tedtslpes,i5geondaggadbtp.TedtslatrspttoR65Aegaseoffsfrfetoferdrsoritc7anp8()Nomyslataylloeororretoptaya9adbytsp]
+[DELETED: B5N-ASADBYTESPe22EeD.Tsatslteet90dsarisp]
+[DELETED: B5-FLNSADBYTESE(S#sad#NATrgcnsesepmestopeosfrdfudssadnsadcgrgrsfrsLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2lR0$0$0$lE0IeIeIsblrsalseseps()ttdesesst)pefedlosfrudssadrdp)ctanalmgcnrgdlo)stqyrsdgcewhdlr;a)rtsernrsadadm,nec,adpna,teblesa95ptrnreg,rsceanpsfsfgbwtstdfrtoceq,addsteDfHhadHnSstopetlaeunr.TeDtaoaspeorrgfrqrpsadataerst]
+[DELETED: haseoffsfrn.TeDtssten,otrswlrtintendfran,fepmstptanedctof$0inF,$0inF,ad$0inFoteetttayllfsaebdfrS,teflitonmsiSCtofHhadHnS]

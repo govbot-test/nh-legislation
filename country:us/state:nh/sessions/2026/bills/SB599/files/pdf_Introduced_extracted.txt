@@ -1,0 +1,167 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB599-FN-ASINTRODUCED
+2026SESSION
+26-2270
+12/06
+599-FN
+ANACT relativetotherenewableenergyfund.
+SPONSORS: Sen. Pearl, Dist 17; Sen. Lang, Dist 2; Sen. Innis, Dist 7; Sen. Watters, Dist 4;
+Rep.Mooney,Hills.12;Rep.Erf,Hills.28
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that remaining moneys from certain electricity provider payments made to the
+renewable energy fund shall first be used by the department of energy for administrative costs up to
+$1,000,000, with the remainder to be used to support thermal and electrical renewable energy
+initiatives. The bill also prohibits any remaining moneys from being used to support individual
+residentialsolarinitiatives.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB599-FN-ASINTRODUCED
+26-2270
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotherenewableenergyfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Renewable Energy Fund; Priority of Use of Funds; Administrative Costs. Amend RSA 362-
+2 F:10,I,asamendedby2025,286:6toreadasfollows:
+3 I. There is hereby established a renewable energy fund. This nonlapsing special fund shall
+4 be continually appropriated to the department of energy to be expended in accordance with this
+5 section; provided that at the start of the period in which there is no adopted state operating budget,
+6 the department of energy shall in a timely manner seek the approval of the fiscal committee of the
+7 generalcourttocontinueusingmoneysfromtherenewableenergyfundtosupportrenewableenergy
+8 rebate and grant programs in order to ensure there are no interruptions to the programs. The state
+9 treasurer shall invest the moneys deposited therein as provided by law. Income received on
+10 investments made by the state treasurer shall also be credited to the fund. All payments to be made
+11 under this section shall be deposited in the fund. Any remaining moneys paid into the fund under
+12 paragraph II of this section, excluding class II moneys, shall first be used by the department of
+13 energy [to support thermal and electrical renewable energy initiatives] for administrative costs,
+14 including the office of energy innovation. After funding of the administrative costs, up to
+15 $1,000,000 annually shall support thermal and electrical renewable energy initiatives,
+16 pursuant to RSA 362-F:10, VIII, and shall not be used to support individual residential
+17 solar initiatives. Any monies remaining shall be transferred to the general fund. Class II
+18 moneys shall primarily be used to support solar energy technologies in New Hampshire. All
+19 initiatives supported out of these funds shall be subject to audit by the department of energy as
+20 deemed necessary. All fund moneys including those from class II may be used to administer this
+21 chapter, but all new employee positions shall be approved by the fiscal committee of the general
+22 court. No new employees shall be hired by the department of energy due to the inclusion of useful
+23 thermalenergyinclassIproduction.
+24 2 Applicability. This act shall apply to funds collected on and after July 1, 2025 until June 30,
+25 2027.
+26 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+LBA
+26-2270
+11/17/25
+SB599-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotherenewableenergyfund.
+FISCALIMPACT:
+The Office of Legislative Budget Assistant states this bill has no fiscal impact on state, county
+and local expenditures or revenue. This bill will have no fiscal impact because thestatebudget
+for FY 2026 and FY 2027 already assumed the same allocation structure. The enacted budget
+projected that, after administrative costs and the $1,000,000 retained annually in the
+Renewable Energy Fund to support thermal and electrical renewable energy initiatives,
+approximately $4,000,000 per year would be deposited into the General Fund. As this
+legislation restores the statutory language to align with what was assumed in the budget and
+corrects an inadvertent change made through policy legislation, there is no additional fiscal
+impact.
+AGENCIESCONTACTED:
+None
+[DELETED: B5N-ASI6SEBNATretotereeyf:S.P,Dt1;S.L,Dt2;S.I,Dt7;S.W,Dt4.M,H.1;R.E,H.2:EyadNlRsblrsttrgmsfmcneyprpsmetoteeyfdslftbeudbytedtofeyfraecsupt,whterrtobeudtosttladelree.Teblaopsayrgmsfmbgudtostilsri-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretotereeyfeitEdbyteSeadHeofRsinGlCtc1ReEyF;PyofUeofF;AeC.AdRA3F,I,asadby2,26tordasfI.Teishyedareeyf.Tsngslfdsbecyadtotedtofeytobeedinaewhts;pdttattestoftepdinwhteisnoadseogbtedtofeyslinatymrsktealofteflceoftglcttoceugmsfmtereeyfdtostreereadgtpsinortoeeteaenoistotep.Testrslittemsddtnaspdbyl.Ierdo0ismebytesetrslaobecdtotef.Alpstobem1urtssnslbeddintef.Ayrgmspdiotefdu2phIIoftss,egcsIIm,slftbeudbytedto3ey[osttladelreeyi]fraec4igteoeofeyi.Arfgofteaec,upt5$0ayslsttladelreeyi6pttoRA3,V,adslntbeudtostilr7sri.Aymsrgslbetdtoteglf.CsI8msslpybeudtostsreytsinNwH.A9issdotoftefsslbesttoatbytedtofeya0ddn.AlfdmsigtefmcsIImybeudtoart1c,btalnweepsslbeadbyteflceofteg2c.Nonwesslbehdbytedtofeydetoteinofu3tleyincsIp42A.TsatslaytofscdonadarJy1,25ulJe35263EeD.Tsatslteetunisp]
+[DELETED: B5-FLNSINATretotereeyfLIeOeofLeBtAtsstsblhsnoflitons,cdllesorr.TsblwlhenoflitbetesebrFY26adFY27ayadteseans.Teedbdt,araecsadte$0rdayinteEyFdtosttladelreeyiy$0pryrwdbeddioteGlF.Astnrstesyletoanwhwtwsadintebtasanitcemethpyl,teisnoalfSC]
+
+
+================================================================================
+
+Raw Text:
+SB599-FN-ASINTRODUCED
+2026SESSION
+26-2270
+12/06
+599-FN
+SENATEBILL
+ANACT relativetotherenewableenergyfund.
+SPONSORS: Sen. Pearl, Dist 17; Sen. Lang, Dist 2; Sen. Innis, Dist 7; Sen. Watters, Dist 4;
+Rep.Mooney,Hills.12;Rep.Erf,Hills.28
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that remaining moneys from certain electricity provider payments made to the
+renewable energy fund shall first be used by the department of energy for administrative costs up to
+$1,000,000, with the remainder to be used to support thermal and electrical renewable energy
+initiatives. The bill also prohibits any remaining moneys from being used to support individual
+residentialsolarinitiatives.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB599-FN-ASINTRODUCED
+26-2270
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotherenewableenergyfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Renewable Energy Fund; Priority of Use of Funds; Administrative Costs. Amend RSA 362-
+2 F:10,I,asamendedby2025,286:6toreadasfollows:
+3 I. There is hereby established a renewable energy fund. This nonlapsing special fund shall
+4 be continually appropriated to the department of energy to be expended in accordance with this
+5 section; provided that at the start of the period in which there is no adopted state operating budget,
+6 the department of energy shall in a timely manner seek the approval of the fiscal committee of the
+7 generalcourttocontinueusingmoneysfromtherenewableenergyfundtosupportrenewableenergy
+8 rebate and grant programs in order to ensure there are no interruptions to the programs. The state
+9 treasurer shall invest the moneys deposited therein as provided by law. Income received on
+10 investments made by the state treasurer shall also be credited to the fund. All payments to be made
+11 under this section shall be deposited in the fund. Any remaining moneys paid into the fund under
+12 paragraph II of this section, excluding class II moneys, shall first be used by the department of
+13 energy [to support thermal and electrical renewable energy initiatives] for administrative costs,
+14 including the office of energy innovation. After funding of the administrative costs, up to
+15 $1,000,000 annually shall support thermal and electrical renewable energy initiatives,
+16 pursuant to RSA 362-F:10, VIII, and shall not be used to support individual residential
+17 solar initiatives. Any monies remaining shall be transferred to the general fund. Class II
+18 moneys shall primarily be used to support solar energy technologies in New Hampshire. All
+19 initiatives supported out of these funds shall be subject to audit by the department of energy as
+20 deemed necessary. All fund moneys including those from class II may be used to administer this
+21 chapter, but all new employee positions shall be approved by the fiscal committee of the general
+22 court. No new employees shall be hired by the department of energy due to the inclusion of useful
+23 thermalenergyinclassIproduction.
+24 2 Applicability. This act shall apply to funds collected on and after July 1, 2025 until June 30,
+25 2027.
+26 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2270
+11/17/25
+SB599-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotherenewableenergyfund.
+FISCALIMPACT:
+The Office of Legislative Budget Assistant states this bill has no fiscal impact on state, county
+and local expenditures or revenue. This bill will have no fiscal impact because thestatebudget
+for FY 2026 and FY 2027 already assumed the same allocation structure. The enacted budget
+projected that, after administrative costs and the $1,000,000 retained annually in the
+Renewable Energy Fund to support thermal and electrical renewable energy initiatives,
+approximately $4,000,000 per year would be deposited into the General Fund. As this
+legislation restores the statutory language to align with what was assumed in the budget and
+corrects an inadvertent change made through policy legislation, there is no additional fiscal
+impact.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B5N-ASI6SEBNATretotereeyf:S.P,Dt1;S.L,Dt2;S.I,Dt7;S.W,Dt4.M,H.1;R.E,H.2:EyadNlRsblrsttrgmsfmcneyprpsmetoteeyfdslftbeudbytedtofeyfraecsupt,whterrtobeudtosttladelree.Teblaopsayrgmsfmbgudtostilsri-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretotereeyfeitEdbyteSeadHeofRsinGlCtc1ReEyF;PyofUeofF;AeC.AdRA3F,I,asadby2,26tordasfI.Teishyedareeyf.Tsngslfdsbecyadtotedtofeytobeedinaewhts;pdttattestoftepdinwhteisnoadseogbtedtofeyslinatymrsktealofteflceoftglcttoceugmsfmtereeyfdtostreereadgtpsinortoeeteaenoistotep.Testrslittemsddtnaspdbyl.Ierdo0ismebytesetrslaobecdtotef.Alpstobem1urtssnslbeddintef.Ayrgmspdiotefdu2phIIoftss,egcsIIm,slftbeudbytedto3ey[osttladelreeyi]fraec4igteoeofeyi.Arfgofteaec,upt5$0ayslsttladelreeyi6pttoRA3,V,adslntbeudtostilr7sri.Aymsrgslbetdtoteglf.CsI8msslpybeudtostsreytsinNwH.A9issdotoftefsslbesttoatbytedtofeya0ddn.AlfdmsigtefmcsIImybeudtoart1c,btalnweepsslbeadbyteflceofteg2c.Nonwesslbehdbytedtofeydetoteinofu3tleyincsIp42A.TsatslaytofscdonadarJy1,25ulJe35263EeD.Tsatslteetunisp]
+[DELETED: B5-FLNSINATretotereeyfLIeOeofLeBtAtsstsblhsnoflitons,cdllesorr.TsblwlhenoflitbetesebrFY26adFY27ayadteseans.Teedbdt,araecsadte$0rdayinteEyFdtosttladelreeyiy$0pryrwdbeddioteGlF.Astnrstesyletoanwhwtwsadintebtasanitcemethpyl,teisnoalfSC]

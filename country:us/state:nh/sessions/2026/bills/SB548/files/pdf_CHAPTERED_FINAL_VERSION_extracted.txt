@@ -1,0 +1,159 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER195
+SB548-FN-FINALVERSION
+03/05/2026 0837s
+23Apr2026...1484h
+2026SESSION
+26-2132
+05/06
+548-FN
+ANACT relativetohealthcarrierprovidercontractstandards.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Avard, Dist 12; Sen. Fenton, Dist 10; Sen. McGough,
+Dist 11; Rep. Miles, Hills. 12; Rep. Burroughs, Carr. 2; Rep. Telerski, Hills. 11; Rep.
+Nagel,Belk.6;Rep.Spier,Hills.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows the insurance commissioner to hold an informational public hearing when a health
+carrier ends a provider contract affecting 1,000 or more patients; requires continued access to the
+provider for a limited period; requires written notice of the contract termination; and authorizes the
+insurancedepartmenttoadoptrulesregardingnoticeofterminationofprovidercontracts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER195
+SB548-FN-FINALVERSION
+03/05/2026 0837s
+23Apr2026...1484h 26-2132
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetohealthcarrierprovidercontractstandards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 195:1 NewSection;ManagedCareLaw;PublicHearingRegardingTerminationofProviderContract;
+2 WhenRequired. AmendRSA420-Jbyinsertingaftersection7-ethefollowingnewsection:
+3 420-J:7-f PublicHearingRegardingTerminationofProviderContract;WhenAuthorized.
+4 I. The commissioner may, in the commissioner's discretion, hold a public hearing within 15
+5 business days after receiving notice that a health carrier intends to terminate a contract with a provider
+6 when such termination will affect 1,000 or more covered persons. Any hearing held pursuant to this
+7 section shall be informational in nature and shall not constitute approval, disapproval, or review of the
+8 contract termination. The purpose of the hearing shall be limited to receiving information and testimony
+9 regarding the potential effect of the contract termination on access to care in the affected community,
+10 includingaccesstoqualityandaffordablephysicalandmentalhealthcareservices.
+11 II. Nothing in this section shall be construed to authorize the commissioner to require
+12 continuation,modification,orrenegotiationofaprovidercontract.
+13 III. For purposes of this section, a health carrier's obligation to notify the commissioner of a
+14 provider contract termination shall be satisfied in accordance with existing notice requirements under this
+15 chapter.
+16 195:2 ManagedCareLaw;ProviderContractStandards. RSA420-J:8,XIisrepealedandreenacted
+17 toreadasfollows:
+18 XI.(a) Every contract entered into after July 1, 2003, between a health carrier and any physician
+19 orfacilityshallincludeaprovisionensuringthatcoveredpersonshavecontinuedaccesstotheproviderin
+20 theeventthecontractisterminatedforanyreasonotherthanunprofessionalconduct.
+21 (b) Suchcontinuedaccessshallbeprovidedforaperiodof60daysfromtheeffectivedateof
+22 contractterminationandshallbefurnishedandreimbursedinaccordancewiththetermsandconditionsof
+23 the covered person's health benefit plan and the prior contract between the health carrier and the
+24 provider.
+25 (c) Within5business daysof thecontract termination, thehealthcarrier shall provide written
+26 notice to affected covered persons explaining their continued access rights and stating whether the
+27 commissionerhaselectedtoholdapublichearingpursuanttoRSA420-J:7-f.
+28 (d) ThecommissionermayadoptrulesunderRSA541-Atofurtherspecifythecontentofand
+29 processforprovidingnoticetoconsumerswhenacontractisterminated.
+30 195:3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+CHAPTER195
+SB548-FN-FINALVERSION
+-Page2-
+Approved:June19,2026
+EffectiveDate:August18,2026
+[DELETED: R1B5N-FLV60.16SEBNATretohhcrprcts:S.R,Dt1;S.A,Dt1;S.F,Dt1;S.Mt1;R.M,H.1;R.B,C.2;R.T,H.1;R,B.6;R.S,H.:HhadHnSDAsblasteiecrtohdanilpchgwnahresaprctag10ormep;rscdastotrfraldp;rswnneoftectt;adastedttoatrsrgneoftnofprc-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B5N-FLV60.1h2EOFNWHNATretohhcrprcts11NwS;MdCeL;PcHgRgTnofPrCWnR.AdRA4Jbyigarsn7etefgnws4fPcHgRgTnofPrC;WnAI.Tecrm,intecsd,hdapchgwn1bsdsarrgnettahhcristoteactwhapwnshtnwlat10ormecdp.Ayhghdpttotsnslbeilinneadslntcea,d,orrwoftctt.Tepeoftehgslbeldtorginadtrgtepletoftecttnonastoceinteadc0igastoqyadaepladmlhhces1I.Ngintssnslbecdtoaetecrtor2c,m,orrnofaprc3I.Frpsoftss,ahhcsontonytecrof4prcttnslbesdinaewhegnersurt5c612MdCeL;PrCtS.RA4,XIisrdadr7tordasf8X)EyctedioarJy1,2,bnahhcradayp9orfyslieapnegttcdpshecdastotepri0teettectistdfrayrnortnulc1()Shcdasslbepdfrapdof60dsfmteeedeo2cttnadslbefdadrdinaewhtetsadcso3tecdpshhbtpnadteprctbntehhcradt4p5()Wn5bsdsoftectt,tehhcrslpew6netoadcdpsegtrcdasrsadsgwrt7crhsedtohdapchgpttoRA48()TecrmyatrsurRA5Atofrsytectofa9psfrpgnetocswnactist013EeD.Tsatslteet60dsarisp]
+[DELETED: R1B5N-FLVPe2:Je1,2eD:At1,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER195
+SB548-FN-FINALVERSION
+03/05/2026 0837s
+23Apr2026...1484h
+2026SESSION
+26-2132
+05/06
+548-FN
+SENATEBILL
+ANACT relativetohealthcarrierprovidercontractstandards.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Avard, Dist 12; Sen. Fenton, Dist 10; Sen. McGough,
+Dist 11; Rep. Miles, Hills. 12; Rep. Burroughs, Carr. 2; Rep. Telerski, Hills. 11; Rep.
+Nagel,Belk.6;Rep.Spier,Hills.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows the insurance commissioner to hold an informational public hearing when a health
+carrier ends a provider contract affecting 1,000 or more patients; requires continued access to the
+provider for a limited period; requires written notice of the contract termination; and authorizes the
+insurancedepartmenttoadoptrulesregardingnoticeofterminationofprovidercontracts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER195
+SB548-FN-FINALVERSION
+03/05/2026 0837s
+23Apr2026...1484h 26-2132
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetohealthcarrierprovidercontractstandards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 195:1 NewSection;ManagedCareLaw;PublicHearingRegardingTerminationofProviderContract;
+2 WhenRequired. AmendRSA420-Jbyinsertingaftersection7-ethefollowingnewsection:
+3 420-J:7-f PublicHearingRegardingTerminationofProviderContract;WhenAuthorized.
+4 I. The commissioner may, in the commissioner's discretion, hold a public hearing within 15
+5 business days after receiving notice that a health carrier intends to terminate a contract with a provider
+6 when such termination will affect 1,000 or more covered persons. Any hearing held pursuant to this
+7 section shall be informational in nature and shall not constitute approval, disapproval, or review of the
+8 contract termination. The purpose of the hearing shall be limited to receiving information and testimony
+9 regarding the potential effect of the contract termination on access to care in the affected community,
+10 includingaccesstoqualityandaffordablephysicalandmentalhealthcareservices.
+11 II. Nothing in this section shall be construed to authorize the commissioner to require
+12 continuation,modification,orrenegotiationofaprovidercontract.
+13 III. For purposes of this section, a health carrier's obligation to notify the commissioner of a
+14 provider contract termination shall be satisfied in accordance with existing notice requirements under this
+15 chapter.
+16 195:2 ManagedCareLaw;ProviderContractStandards. RSA420-J:8,XIisrepealedandreenacted
+17 toreadasfollows:
+18 XI.(a) Every contract entered into after July 1, 2003, between a health carrier and any physician
+19 orfacilityshallincludeaprovisionensuringthatcoveredpersonshavecontinuedaccesstotheproviderin
+20 theeventthecontractisterminatedforanyreasonotherthanunprofessionalconduct.
+21 (b) Suchcontinuedaccessshallbeprovidedforaperiodof60daysfromtheeffectivedateof
+22 contractterminationandshallbefurnishedandreimbursedinaccordancewiththetermsandconditionsof
+23 the covered person's health benefit plan and the prior contract between the health carrier and the
+24 provider.
+25 (c) Within5business daysof thecontract termination, thehealthcarrier shall provide written
+26 notice to affected covered persons explaining their continued access rights and stating whether the
+27 commissionerhaselectedtoholdapublichearingpursuanttoRSA420-J:7-f.
+28 (d) ThecommissionermayadoptrulesunderRSA541-Atofurtherspecifythecontentofand
+29 processforprovidingnoticetoconsumerswhenacontractisterminated.
+30 195:3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+CHAPTER195
+SB548-FN-FINALVERSION
+-Page2-
+Approved:June19,2026
+EffectiveDate:August18,2026
+
+[DELETED: R1B5N-FLV60.16SEBNATretohhcrprcts:S.R,Dt1;S.A,Dt1;S.F,Dt1;S.Mt1;R.M,H.1;R.B,C.2;R.T,H.1;R,B.6;R.S,H.:HhadHnSDAsblasteiecrtohdanilpchgwnahresaprctag10ormep;rscdastotrfraldp;rswnneoftectt;adastedttoatrsrgneoftnofprc-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B5N-FLV60.1h2EOFNWHNATretohhcrprcts11NwS;MdCeL;PcHgRgTnofPrCWnR.AdRA4Jbyigarsn7etefgnws4fPcHgRgTnofPrC;WnAI.Tecrm,intecsd,hdapchgwn1bsdsarrgnettahhcristoteactwhapwnshtnwlat10ormecdp.Ayhghdpttotsnslbeilinneadslntcea,d,orrwoftctt.Tepeoftehgslbeldtorginadtrgtepletoftecttnonastoceinteadc0igastoqyadaepladmlhhces1I.Ngintssnslbecdtoaetecrtor2c,m,orrnofaprc3I.Frpsoftss,ahhcsontonytecrof4prcttnslbesdinaewhegnersurt5c612MdCeL;PrCtS.RA4,XIisrdadr7tordasf8X)EyctedioarJy1,2,bnahhcradayp9orfyslieapnegttcdpshecdastotepri0teettectistdfrayrnortnulc1()Shcdasslbepdfrapdof60dsfmteeedeo2cttnadslbefdadrdinaewhtetsadcso3tecdpshhbtpnadteprctbntehhcradt4p5()Wn5bsdsoftectt,tehhcrslpew6netoadcdpsegtrcdasrsadsgwrt7crhsedtohdapchgpttoRA48()TecrmyatrsurRA5Atofrsytectofa9psfrpgnetocswnactist013EeD.Tsatslteet60dsarisp]
+[DELETED: R1B5N-FLVPe2:Je1,2eD:At1,2]

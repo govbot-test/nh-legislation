@@ -1,0 +1,126 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER199
+SB607-FINALVERSION
+03/26/2026 1165s
+2026SESSION
+26-2171
+07/08
+607
+ANACT relativetoshort-term,limiteddurationhealthinsurancepolicies.
+SPONSORS: Sen. Innis, Dist 7; Sen. McGough, Dist 11; Rep. Labrie, Hills. 2; Rep. Kuttab, Rock.
+17;Rep.Miles,Hills.12
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows insurers to offer short-term, limited duration health insurance policies of less than 12
+months and not more than 36 months. This bill also requires insurers to provide written notice to
+consumersthatsuchplansarenotrequiredtocomplywiththeACA,mayexcludepre-existingconditions,
+andmayincludetermsthatdifferfromcomprehensivehealthplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER199
+SB607-FINALVERSION
+03/26/2026 1165s 26-2171
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoshort-term,limiteddurationhealthinsurancepolicies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 199:1 Insurance; Accident and Health Insurance; Form of Policy. Amend RSA 415:5, III to read as
+2 follows:
+3 III.(a) [Nonrenewable, individual] Short-term,limiteddurationhealth insurance policies which
+4 provide medical, hospital, or major medical expense benefits for a specified term may be delivered or
+5 issued for delivery to any person in this state [for purposes of providing short-term, interim coverage only
+6 and no such policy shall provide coverage for a specified term in excess of 6 months, nor shall any such
+7 policy be issued in this state to a person who was previously covered under short-term medical policies
+8 providing in total more than 540 days of coverage within the preceding 24-month period] pursuanttoa
+9 contractthathasanexpirationdatespecifiedinthecontractthatislessthan12monthsaftertheoriginal
+10 effectivedateofthecontractand,takingintoaccountrenewalsorextensions,hasadurationofnolonger
+11 than36monthsintotal.
+12 (b) InadditiontoanydisclosurerequiredbythecommissionerunderRSA415-A:2,forthe
+13 saleofplansundersubparagraph(a),aninsurershallprovideaclearandconspicuousnoticetothe
+14 consumer,duringtheapplicationprocessandinthecontract,thatcontainsthefollowinglanguage:
+15 “Short-termlimiteddurationhealthplansarenotrequiredtocomplywithregulationsunderthefederal
+16 PatientProtectionandAffordableCareAct,arenotconsideredMinimumEssentialCoverage,andmay
+17 containlimitationsonorexcludecoverageforpre-existingconditions. Theplanalsomaycontainbenefit
+18 maximums,out-of-pocketcosts,andlimitationsonrenewabilitythatdifferfromcomprehensivehealth
+19 plans.Consumersshouldreviewthepolicycarefullytounderstandthetermsandcomparepotentialcosts
+20 andcoverageswithplansavailableforpurchaseonHealthcare.govordirectlyfromahealthcareinsurer.”
+199:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:June19,2026
+EffectiveDate:January01,2027
+[DELETED: R1B67-FLV616SEBNATretos,lddnhhiep:S.I,Dt7;S.M,Dt1;R.L,H.2;R.K,R;R.M,H.1:HhadHnSDAsblasistoors,lddnhhiepsoflstn1sadntmetn36m.TsblaorsistopewnnetsttshpsaentrdtocywhteA,myeepgcdmyietsttdrfmcehhp-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B67-FLV61s2EOFNWHNATretos,lddnhhiep11I;AtadHhI;FmofP.AdRA4,IItordafI)[,i]Snhhiepswpem,h,ormrmleebsfrasdtmmybeddoidfrdytoaypnintsse[rpsofpgs,imceoadnoshpyslpecefrasdtminesof6m,nrslayspybeidintssetoapnwowspycdursmmlppgintlmetn50dsofcewntepg2hp]pc0e1t2()I3s4c5“6P7c.T8m9p.C0a2EeD.TsatslteetJy1,2:Je1,2eD:Jy0,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER199
+SB607-FINALVERSION
+03/26/2026 1165s
+2026SESSION
+26-2171
+07/08
+607
+SENATEBILL
+ANACT relativetoshort-term,limiteddurationhealthinsurancepolicies.
+SPONSORS: Sen. Innis, Dist 7; Sen. McGough, Dist 11; Rep. Labrie, Hills. 2; Rep. Kuttab, Rock.
+17;Rep.Miles,Hills.12
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill allows insurers to offer short-term, limited duration health insurance policies of less than 12
+months and not more than 36 months. This bill also requires insurers to provide written notice to
+consumersthatsuchplansarenotrequiredtocomplywiththeACA,mayexcludepre-existingconditions,
+andmayincludetermsthatdifferfromcomprehensivehealthplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER199
+SB607-FINALVERSION
+03/26/2026 1165s 26-2171
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoshort-term,limiteddurationhealthinsurancepolicies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 199:1 Insurance; Accident and Health Insurance; Form of Policy. Amend RSA 415:5, III to read as
+2 follows:
+3 III.(a) [Nonrenewable, individual] Short-term,limiteddurationhealth insurance policies which
+4 provide medical, hospital, or major medical expense benefits for a specified term may be delivered or
+5 issued for delivery to any person in this state [for purposes of providing short-term, interim coverage only
+6 and no such policy shall provide coverage for a specified term in excess of 6 months, nor shall any such
+7 policy be issued in this state to a person who was previously covered under short-term medical policies
+8 providing in total more than 540 days of coverage within the preceding 24-month period] pursuanttoa
+9 contractthathasanexpirationdatespecifiedinthecontractthatislessthan12monthsaftertheoriginal
+10 effectivedateofthecontractand,takingintoaccountrenewalsorextensions,hasadurationofnolonger
+11 than36monthsintotal.
+12 (b) InadditiontoanydisclosurerequiredbythecommissionerunderRSA415-A:2,forthe
+13 saleofplansundersubparagraph(a),aninsurershallprovideaclearandconspicuousnoticetothe
+14 consumer,duringtheapplicationprocessandinthecontract,thatcontainsthefollowinglanguage:
+15 “Short-termlimiteddurationhealthplansarenotrequiredtocomplywithregulationsunderthefederal
+16 PatientProtectionandAffordableCareAct,arenotconsideredMinimumEssentialCoverage,andmay
+17 containlimitationsonorexcludecoverageforpre-existingconditions. Theplanalsomaycontainbenefit
+18 maximums,out-of-pocketcosts,andlimitationsonrenewabilitythatdifferfromcomprehensivehealth
+19 plans.Consumersshouldreviewthepolicycarefullytounderstandthetermsandcomparepotentialcosts
+20 andcoverageswithplansavailableforpurchaseonHealthcare.govordirectlyfromahealthcareinsurer.”
+199:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:June19,2026
+EffectiveDate:January01,2027
+
+[DELETED: R1B67-FLV616SEBNATretos,lddnhhiep:S.I,Dt7;S.M,Dt1;R.L,H.2;R.K,R;R.M,H.1:HhadHnSDAsblasistoors,lddnhhiepsoflstn1sadntmetn36m.TsblaorsistopewnnetsttshpsaentrdtocywhteA,myeepgcdmyietsttdrfmcehhp-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B67-FLV61s2EOFNWHNATretos,lddnhhiep11I;AtadHhI;FmofP.AdRA4,IItordafI)[,i]Snhhiepswpem,h,ormrmleebsfrasdtmmybeddoidfrdytoaypnintsse[rpsofpgs,imceoadnoshpyslpecefrasdtminesof6m,nrslayspybeidintssetoapnwowspycdursmmlppgintlmetn50dsofcewntepg2hp]pc0e1t2()I3s4c5“6P7c.T8m9p.C0a2EeD.TsatslteetJy1,2:Je1,2eD:Jy0,2]

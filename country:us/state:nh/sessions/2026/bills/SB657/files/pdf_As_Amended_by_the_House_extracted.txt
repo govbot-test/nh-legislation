@@ -1,0 +1,267 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB657-FN-ASAMENDEDBYTHEHOUSE
+03/26/2026 1060s
+23Apr2026...1491h
+2026SESSION
+26-3270
+07/09
+657-FN
+ANACT relative to the use of information technology and artificial intelligence systems by
+stateagencies.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Prentiss, Dist 5; Sen.
+Long, Dist 20; Sen. Watters, Dist 4; Rep. Simpson, Rock. 33; Rep. Telerski, Hills.
+11
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Changes the advice the commissioner of the department of information technology receives
+fromtheinformationtechnologycouncil.
+II. Allowsthecommissionertoestablishanartificialintelligence-relatedadvisementcommittee.
+III. Requires the commissioner to submit an annual report detailing state agency use of
+artificialintelligencesystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB657-FN-ASAMENDEDBYTHEHOUSE
+03/26/2026 1060s
+23Apr2026...1491h 26-3270
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the use of information technology and artificial intelligence systems by
+stateagencies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Information Technology; Information Technology Council. RSA 21-R:6, I is
+2 repealedandreenactedtoreadasfollows:
+3 I. There is established an information technology council to advise the commissioner on the
+4 following:
+5 (a) Statewidestrategictechnologyplans.
+6 (b) Outsourcing relationships, including those involving the purchase, lease, or rent of
+7 technologyequipmentandvendorcontractterms.
+8 (c) Computersystemsconsolidation.
+9 (d) Implementationofcentralizedservices.
+10 (e) Changesininformationtechnologyresources.
+11 (f) Statewideinformationtechnologypoliciesandstandards.
+12 (g) Budgetingforinformationtechnology.
+13 (h) The security of data shared with the federal government, methods to improve state
+14 data security practices, and suggested legislation, policies, and procedures to limit data sharing
+15 whenitsconfidentialitycannotbeassured.
+16 (i) The development, procurement, deployment, and use of artificial intelligence systems
+17 bystateagencies,including:
+18 (1) Compliance with RSA 5-D, the department's code of ethics for artificial
+19 intelligence systems, and safeguards for the right of privacy guaranteed by part I, article 2-b of the
+20 NewHampshireconstitution;
+21 (2) Opportunities to improve government efficiency, transparency, and
+22 accountabilitythroughartificialintelligence;and
+23 (3) The effects of artificial intelligence on the state workforce, including training
+24 needsandchangestoemploymentpatterns.
+25 2 Department of Information Technology; Technical Committees. RSA 21-R:7 is repealed and
+26 reenactedtoreadasfollows:
+27 21-R:7 TechnicalCommittees.
+28 I. The commissioner may establish technical committees to advise him or her on technical
+29 issuesrelatingto,butnotlimitedto:
+SB657-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (a) Hardware,software,andtelecommunicationsstandards.
+2 (b) Informationtechnologyplanningprocesses.
+3 (c) Developmentofstatewidepoliciesandprocedures.
+4 (d) EmergingInternetandintranettechnologies.
+5 (e) E-governmentstrategyanddeployment.
+6 (f) Wideareanetworkefficiencies.
+7 (g) Cybersecurity.
+8 (h) Cloudtechnologiesorstrategies.
+9 (i) Artificial intelligence technologies, including generative artificial intelligence,
+10 automateddecisionsystems,andmachinelearning.
+11 II. Personnel from all 3 branches of state government with expertise and knowledge in the
+12 applicablesubjectareasshallberepresentedoneachcommittee.
+13 3 New Section; Department of Information Technology; Artificial Intelligence Inventory and
+14 AnnualReport. AmendRSA21-Rbyinsertingaftersection9-athefollowingnewsection:
+15 21-R:9-b ArtificialIntelligenceInventoryandAnnualReport.
+16 I. The commissioner shall maintain a current inventory of all artificial intelligence systems,
+17 as defined in RSA 5-D:1, deployed by executive branch agencies. The inventory shall include, for
+18 each system, the name and vendor, the agencies using the system, a brief description of its purpose
+19 and function, whether the system is used in making decisions affecting the rights or benefits of
+20 individuals, and the date of deployment. The inventory shall be posted on the department's website
+21 andupdatednotlessthanannually.
+22 II. On or before October 1 of each year, the commissioner, in consultation with the
+23 information technology council, shall submit a report to the president of the senate, the speaker of
+24 the house of representatives, the senate clerk, the house clerk, the governor, and the state library.
+25 The report shall satisfy the annual reporting requirement of RSA 5-D:5, III. The report shall
+26 include:
+27 (a) A summary of the inventory maintained under paragraph I, including any changes
+28 fromtheprioryear;
+29 (b) AnassessmentofagencycompliancewithRSA5-D;
+30 (c) A summary of efficiency gains, cost savings, or service improvements attributable to
+31 artificialintelligencedeployment;
+32 (d) Any incidents involving the unauthorized use or disclosure of personal information
+33 byanartificialintelligencesystem;
+34 (e) Theeffectsofartificialintelligenceonworkforcecompositionandtrainingneeds;and
+35 (f) Recommendationsforlegislation,policychanges,oradditionalsafeguards.
+SB657-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 III. For the first report submitted under this section, the commissioner may limit the
+2 inventory and efficiency data to information reasonably available and shall establish baseline
+3 metricsagainstwhichsubsequentreportsshallmeasureprogress.
+4 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-3270
+04/24/2026
+SB657-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1491h)
+ANACT relative to the use of information technology and artificial intelligence systems by
+stateagencies.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None
+[DELETED: B6N-ASADBYTEH61.16SEBNATretoteueofintyadaliessbea:S.PsK,Dt2;S.R,Dt1;S.P,Dt5;S,Dt2;S.W,Dt4;R.S,R.3;R.T,H:JDAsb.Csteaetecroftedtofintyrmteintyc.Astecrtoehanalidatc.Rstecrtostanalrtdgseayueolies-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTEH61.1h2EOFNWHnteYrofOrLdToTdTNATretoteueofintyadaliessbeaeitEdbyteSeadHeofRsinGlCtc1DtofInT;InTyC.RA2,IirdadrdtordasfI.Teisedanintycltoaetecrontf()Sesctyp()Ogr,igteigtep,l,orrtotyetadvrctt()Crssc()Inofcds0()Csinintyr1()Seintypsads2()Bgfrint3()Tesyofdasdwhteflg,mstoies4dasyp,adsdl,p,adpstoltdas5wniscyctbea6()Ted,p,d,adueofalies7bysea,i8()CewhRA5,tedsceofesfra9ies,adssfrtertofpygdbyptI,ae2boft0NwHec1()Ostoiegte,t,a2aythali;a3()Teesofalieontesew,igt4nsadcstoetp52DtofInT;TlC.RA27isrda6rdtordasf727TlC8I.Tecrmyehtlcstoaehmorhront9isrgt,btntldt]
+[DELETED: B6N-ASADBYTEHPe2()H,s,adtss()Intypgp()Dtofsepsadp()EgItaditt()Etsyadd()Weaanke()C()Cdtsors()Aliet,iggeali0addns,admel1I.Plfmal3bsofsegtwheeadkeint2aestasslberdonehc33NwS;DtofInT;AlIeIya4AlR.AdRA2Rbyigarsn9atefgnws52bAlIeIyadAlR6I.Tecrslmnactiyofalalies7asddinRA5,ddbyeebha.Teiysli,f8ehs,teneadv,teasugtes,abfdnofisp9adf,wrtesmisudinmgdsagtersorbso0i,adtedeofd.Teiyslbepdontedsw1adudntlstna2I.OnorbeOr1ofehy,tec,incnwht3intyc,slstarttoteptoftes,tesro4teheofr,tesec,tehec,teg,adtesel5TertslsytealrgrtofRA5,I.Terts6i7()AsyofteiymdurphI,igayc8fmtepry9()AnatofaycewhRA50()Asyofeyg,cts,orseisaet1alied2()Ayisigteudueordeofpli3byanalies4()Teesofalieonwecnadtgn;a5()Rsfrl,pyc,orals]
+[DELETED: B6N-ASADBYTEHPe3I.Frteftrtsdurtss,tecrmylttiyadeydatoinryaeadslehbmsatwhstrsslmep4EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTEHE(T#NATretoteueofintyadaliessbeaLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSC]
+
+
+================================================================================
+
+Raw Text:
+SB657-FN-ASAMENDEDBYTHEHOUSE
+03/26/2026 1060s
+23Apr2026...1491h
+2026SESSION
+26-3270
+07/09
+657-FN
+SENATEBILL
+ANACT relative to the use of information technology and artificial intelligence systems by
+stateagencies.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Prentiss, Dist 5; Sen.
+Long, Dist 20; Sen. Watters, Dist 4; Rep. Simpson, Rock. 33; Rep. Telerski, Hills.
+11
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Changes the advice the commissioner of the department of information technology receives
+fromtheinformationtechnologycouncil.
+II. Allowsthecommissionertoestablishanartificialintelligence-relatedadvisementcommittee.
+III. Requires the commissioner to submit an annual report detailing state agency use of
+artificialintelligencesystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB657-FN-ASAMENDEDBYTHEHOUSE
+03/26/2026 1060s
+23Apr2026...1491h 26-3270
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the use of information technology and artificial intelligence systems by
+stateagencies.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Information Technology; Information Technology Council. RSA 21-R:6, I is
+2 repealedandreenactedtoreadasfollows:
+3 I. There is established an information technology council to advise the commissioner on the
+4 following:
+5 (a) Statewidestrategictechnologyplans.
+6 (b) Outsourcing relationships, including those involving the purchase, lease, or rent of
+7 technologyequipmentandvendorcontractterms.
+8 (c) Computersystemsconsolidation.
+9 (d) Implementationofcentralizedservices.
+10 (e) Changesininformationtechnologyresources.
+11 (f) Statewideinformationtechnologypoliciesandstandards.
+12 (g) Budgetingforinformationtechnology.
+13 (h) The security of data shared with the federal government, methods to improve state
+14 data security practices, and suggested legislation, policies, and procedures to limit data sharing
+15 whenitsconfidentialitycannotbeassured.
+16 (i) The development, procurement, deployment, and use of artificial intelligence systems
+17 bystateagencies,including:
+18 (1) Compliance with RSA 5-D, the department's code of ethics for artificial
+19 intelligence systems, and safeguards for the right of privacy guaranteed by part I, article 2-b of the
+20 NewHampshireconstitution;
+21 (2) Opportunities to improve government efficiency, transparency, and
+22 accountabilitythroughartificialintelligence;and
+23 (3) The effects of artificial intelligence on the state workforce, including training
+24 needsandchangestoemploymentpatterns.
+25 2 Department of Information Technology; Technical Committees. RSA 21-R:7 is repealed and
+26 reenactedtoreadasfollows:
+27 21-R:7 TechnicalCommittees.
+28 I. The commissioner may establish technical committees to advise him or her on technical
+29 issuesrelatingto,butnotlimitedto:
+
+SB657-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 (a) Hardware,software,andtelecommunicationsstandards.
+2 (b) Informationtechnologyplanningprocesses.
+3 (c) Developmentofstatewidepoliciesandprocedures.
+4 (d) EmergingInternetandintranettechnologies.
+5 (e) E-governmentstrategyanddeployment.
+6 (f) Wideareanetworkefficiencies.
+7 (g) Cybersecurity.
+8 (h) Cloudtechnologiesorstrategies.
+9 (i) Artificial intelligence technologies, including generative artificial intelligence,
+10 automateddecisionsystems,andmachinelearning.
+11 II. Personnel from all 3 branches of state government with expertise and knowledge in the
+12 applicablesubjectareasshallberepresentedoneachcommittee.
+13 3 New Section; Department of Information Technology; Artificial Intelligence Inventory and
+14 AnnualReport. AmendRSA21-Rbyinsertingaftersection9-athefollowingnewsection:
+15 21-R:9-b ArtificialIntelligenceInventoryandAnnualReport.
+16 I. The commissioner shall maintain a current inventory of all artificial intelligence systems,
+17 as defined in RSA 5-D:1, deployed by executive branch agencies. The inventory shall include, for
+18 each system, the name and vendor, the agencies using the system, a brief description of its purpose
+19 and function, whether the system is used in making decisions affecting the rights or benefits of
+20 individuals, and the date of deployment. The inventory shall be posted on the department's website
+21 andupdatednotlessthanannually.
+22 II. On or before October 1 of each year, the commissioner, in consultation with the
+23 information technology council, shall submit a report to the president of the senate, the speaker of
+24 the house of representatives, the senate clerk, the house clerk, the governor, and the state library.
+25 The report shall satisfy the annual reporting requirement of RSA 5-D:5, III. The report shall
+26 include:
+27 (a) A summary of the inventory maintained under paragraph I, including any changes
+28 fromtheprioryear;
+29 (b) AnassessmentofagencycompliancewithRSA5-D;
+30 (c) A summary of efficiency gains, cost savings, or service improvements attributable to
+31 artificialintelligencedeployment;
+32 (d) Any incidents involving the unauthorized use or disclosure of personal information
+33 byanartificialintelligencesystem;
+34 (e) Theeffectsofartificialintelligenceonworkforcecompositionandtrainingneeds;and
+35 (f) Recommendationsforlegislation,policychanges,oradditionalsafeguards.
+
+SB657-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 III. For the first report submitted under this section, the commissioner may limit the
+2 inventory and efficiency data to information reasonably available and shall establish baseline
+3 metricsagainstwhichsubsequentreportsshallmeasureprogress.
+4 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3270
+04/24/2026
+SB657-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1491h)
+ANACT relative to the use of information technology and artificial intelligence systems by
+stateagencies.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B6N-ASADBYTEH61.16SEBNATretoteueofintyadaliessbea:S.PsK,Dt2;S.R,Dt1;S.P,Dt5;S,Dt2;S.W,Dt4;R.S,R.3;R.T,H:JDAsb.Csteaetecroftedtofintyrmteintyc.Astecrtoehanalidatc.Rstecrtostanalrtdgseayueolies-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTEH61.1h2EOFNWHnteYrofOrLdToTdTNATretoteueofintyadaliessbeaeitEdbyteSeadHeofRsinGlCtc1DtofInT;InTyC.RA2,IirdadrdtordasfI.Teisedanintycltoaetecrontf()Sesctyp()Ogr,igteigtep,l,orrtotyetadvrctt()Crssc()Inofcds0()Csinintyr1()Seintypsads2()Bgfrint3()Tesyofdasdwhteflg,mstoies4dasyp,adsdl,p,adpstoltdas5wniscyctbea6()Ted,p,d,adueofalies7bysea,i8()CewhRA5,tedsceofesfra9ies,adssfrtertofpygdbyptI,ae2boft0NwHec1()Ostoiegte,t,a2aythali;a3()Teesofalieontesew,igt4nsadcstoetp52DtofInT;TlC.RA27isrda6rdtordasf727TlC8I.Tecrmyehtlcstoaehmorhront9isrgt,btntldt]
+[DELETED: B6N-ASADBYTEHPe2()H,s,adtss()Intypgp()Dtofsepsadp()EgItaditt()Etsyadd()Weaanke()C()Cdtsors()Aliet,iggeali0addns,admel1I.Plfmal3bsofsegtwheeadkeint2aestasslberdonehc33NwS;DtofInT;AlIeIya4AlR.AdRA2Rbyigarsn9atefgnws52bAlIeIyadAlR6I.Tecrslmnactiyofalalies7asddinRA5,ddbyeebha.Teiysli,f8ehs,teneadv,teasugtes,abfdnofisp9adf,wrtesmisudinmgdsagtersorbso0i,adtedeofd.Teiyslbepdontedsw1adudntlstna2I.OnorbeOr1ofehy,tec,incnwht3intyc,slstarttoteptoftes,tesro4teheofr,tesec,tehec,teg,adtesel5TertslsytealrgrtofRA5,I.Terts6i7()AsyofteiymdurphI,igayc8fmtepry9()AnatofaycewhRA50()Asyofeyg,cts,orseisaet1alied2()Ayisigteudueordeofpli3byanalies4()Teesofalieonwecnadtgn;a5()Rsfrl,pyc,orals]
+[DELETED: B6N-ASADBYTEHPe3I.Frteftrtsdurtss,tecrmylttiyadeydatoinryaeadslehbmsatwhstrsslmep4EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTEHE(T#NATretoteueofintyadaliessbeaLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSC]

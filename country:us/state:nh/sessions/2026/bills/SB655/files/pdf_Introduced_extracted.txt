@@ -1,0 +1,130 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB655 -ASINTRODUCED
+2026SESSION
+26-3263
+04/05
+655
+ANACT relative to employee leasing companies and workers' compensation coverage
+options.
+SPONSORS: Sen. Innis, Dist 7; Sen. Rochefort, Dist 1; Sen. Murphy, Dist 16; Sen. Pearl, Dist
+17;Sen.Ward,Dist8;Sen.McGough,Dist11;Rep.Labrie,Hills.2;Rep.Peternel,
+Carr.6
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill permits client companies or leasing companies to secure workers' compensation
+coverage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB655-ASINTRODUCED
+26-3263
+04/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to employee leasing companies and workers' compensation coverage
+options.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Employee Leasing Companies; License Application and Fees. Amend the introductory
+2 paragraphofRSA277-B:5,IVtoreadasfollows:
+3 IV. Every application for an original, renewal, or restricted license[,] shall be accompanied
+4 by evidence satisfactory to the commissioner that the leased employees are covered by workers'
+5 compensation insurance issued by a carrier admitted to write such coverage in this state for leased
+6 employees for whom the employee leasing company has the contractual obligation to
+7 maintain workers compensation coverage. No unlicensed leasing company shall be provided
+8 workers' compensation coverage. An employee leasing company, if it has the contractual
+9 obligation to maintain workers' compensation coverage for leased employees, may meet its
+10 obligation to provide such insurance for leased employees through no more than 2 policies. When 2
+11 policies are issued, one shall be issued in the voluntary market, and the other shall be issued in the
+12 residualmarket.
+13 2 New Paragraph; Employee Leasing Deemed Co-Employment. Amend RSA 277-B:9 by
+14 insertingafterparagraphIIthefollowingnewparagraph:
+15 II-a. Either the employee leasing company or the client company shall purchase and
+16 maintainworkers'compensationinsuranceforthoseemployeesinanemployeeleasingarrangement.
+17 3 Employee Leasing Companies; Exclusivity and Vicarious Liability. Amend RSA 277-B:10 to
+18 readasfollows:
+19 277-B:10 Exclusivity and Vicarious Liability. An employee leasing company and its client
+20 companyshall both be entitled to the exclusivity of remedy provisions of RSA 281-A:8regardless of
+21 which entity purchases the workers' compensation insurance, and the employee leasing
+22 company shall not be vicariously liable for the actions or omissions of the client company and the
+23 client company shall not be vicariously liable for the actions or omissions of the employee leasing
+24 company. Nothing in this section shall prohibit any direct contractual liability between the
+25 employee leasing company and the client company, nor shall the same limit any liability or
+26 responsibilityimposedbythischapter.
+27 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B65-ASI6SEBNATretoeelgcsadw'cnc:S.I,Dt7;S.R,Dt1;S.M,Dt1;S.P,D;S.W,Dt8;S.M,Dt1;R.L,H.2;R.P.:Csblpsctcsorlgcstosew'c-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B65-ASIEOFNWHnteYrofOrLdToTdTNATretoeelgcsadw'cnceitEdbyteSeadHeofRsinGlCtc1EeLgC;LeAnadF.AdteiphofRA2,IVtordasfI.Eyanfrano,r,orrdl]slbeabyeesytotecrttteldesaecdbywcnieidbyacradtoweshceintssefrlesfrwmteeelgcyhsteclontmnwscnc.Noudlgcyslbepw'cnc.Aneelgc,ifithstecontomnw'cncefrlde,mymti0ontopeshiefrldesthnometn2p.Wn1psaei,oeslbeidintevym,adteorslbeidint2rlm32NwP;EeLgDdC.AdRA29b4igarphIItefgnwp5I.Erteeelgcyortectcyslpea6mnw'cniefrteesinaneelga73EeLgC;EyadVsL.AdRA20t8rdasf920EyadVsL.Aneelgcyadisc0cyslbhbeedtoteeyofrypsofRA28rso1wheypstew'cni,adteeel2cyslntbevylefrteasorosoftectcyadt3ctcyslntbevylefrteasorosofteeel4c.Ngintssnslptaydtcllybnt5eelgcyadtectc,nrslteseltaylyo6ryidbytsc74EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB655 -ASINTRODUCED
+2026SESSION
+26-3263
+04/05
+655
+SENATEBILL
+ANACT relative to employee leasing companies and workers' compensation coverage
+options.
+SPONSORS: Sen. Innis, Dist 7; Sen. Rochefort, Dist 1; Sen. Murphy, Dist 16; Sen. Pearl, Dist
+17;Sen.Ward,Dist8;Sen.McGough,Dist11;Rep.Labrie,Hills.2;Rep.Peternel,
+Carr.6
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill permits client companies or leasing companies to secure workers' compensation
+coverage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB655-ASINTRODUCED
+26-3263
+04/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to employee leasing companies and workers' compensation coverage
+options.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Employee Leasing Companies; License Application and Fees. Amend the introductory
+2 paragraphofRSA277-B:5,IVtoreadasfollows:
+3 IV. Every application for an original, renewal, or restricted license[,] shall be accompanied
+4 by evidence satisfactory to the commissioner that the leased employees are covered by workers'
+5 compensation insurance issued by a carrier admitted to write such coverage in this state for leased
+6 employees for whom the employee leasing company has the contractual obligation to
+7 maintain workers compensation coverage. No unlicensed leasing company shall be provided
+8 workers' compensation coverage. An employee leasing company, if it has the contractual
+9 obligation to maintain workers' compensation coverage for leased employees, may meet its
+10 obligation to provide such insurance for leased employees through no more than 2 policies. When 2
+11 policies are issued, one shall be issued in the voluntary market, and the other shall be issued in the
+12 residualmarket.
+13 2 New Paragraph; Employee Leasing Deemed Co-Employment. Amend RSA 277-B:9 by
+14 insertingafterparagraphIIthefollowingnewparagraph:
+15 II-a. Either the employee leasing company or the client company shall purchase and
+16 maintainworkers'compensationinsuranceforthoseemployeesinanemployeeleasingarrangement.
+17 3 Employee Leasing Companies; Exclusivity and Vicarious Liability. Amend RSA 277-B:10 to
+18 readasfollows:
+19 277-B:10 Exclusivity and Vicarious Liability. An employee leasing company and its client
+20 companyshall both be entitled to the exclusivity of remedy provisions of RSA 281-A:8regardless of
+21 which entity purchases the workers' compensation insurance, and the employee leasing
+22 company shall not be vicariously liable for the actions or omissions of the client company and the
+23 client company shall not be vicariously liable for the actions or omissions of the employee leasing
+24 company. Nothing in this section shall prohibit any direct contractual liability between the
+25 employee leasing company and the client company, nor shall the same limit any liability or
+26 responsibilityimposedbythischapter.
+27 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B65-ASI6SEBNATretoeelgcsadw'cnc:S.I,Dt7;S.R,Dt1;S.M,Dt1;S.P,D;S.W,Dt8;S.M,Dt1;R.L,H.2;R.P.:Csblpsctcsorlgcstosew'c-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B65-ASIEOFNWHnteYrofOrLdToTdTNATretoeelgcsadw'cnceitEdbyteSeadHeofRsinGlCtc1EeLgC;LeAnadF.AdteiphofRA2,IVtordasfI.Eyanfrano,r,orrdl]slbeabyeesytotecrttteldesaecdbywcnieidbyacradtoweshceintssefrlesfrwmteeelgcyhsteclontmnwscnc.Noudlgcyslbepw'cnc.Aneelgc,ifithstecontomnw'cncefrlde,mymti0ontopeshiefrldesthnometn2p.Wn1psaei,oeslbeidintevym,adteorslbeidint2rlm32NwP;EeLgDdC.AdRA29b4igarphIItefgnwp5I.Erteeelgcyortectcyslpea6mnw'cniefrteesinaneelga73EeLgC;EyadVsL.AdRA20t8rdasf920EyadVsL.Aneelgcyadisc0cyslbhbeedtoteeyofrypsofRA28rso1wheypstew'cni,adteeel2cyslntbevylefrteasorosoftectcyadt3ctcyslntbevylefrteasorosofteeel4c.Ngintssnslptaydtcllybnt5eelgcyadtectc,nrslteseltaylyo6ryidbytsc74EeD.Tsatslteet60dsarisp]

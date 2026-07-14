@@ -1,0 +1,120 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER57
+SB412-FINALVERSION
+2026SESSION
+26-2265
+09/05
+412
+ANACT relative to the conditional release of delinquent minors and children in need of
+services.
+SPONSORS: Sen.Sullivan,Dist18;Rep.Rice,Hills.38;Rep.Notter,Hills.12;Rep.Hill,Merr.2
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill permits the court to retain jurisdiction to hear violations of conditional release filed during the
+releaseincasesinvolvingdelinquentminorsorchildreninneedofservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER57
+SB412-FINALVERSION
+26-2265
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the conditional release of delinquent minors and children in need of
+services.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 57:1 Delinquent Children; Definition of Conditional Release. Amend RSA 169-B:2, VIII(d) to read as
+2 follows:
+3 (d) Return to the court for violation of conditions of the release and change of disposition at
+4 any time during the term of conditional release. Thecourtmayretainjurisdictiontohearviolationsofthe
+5 conditionsofreleasesolongastheviolationisfiledwithintheperiodofconditionalrelease.
+6 57:2 New Paragraph; Delinquent Children; Jurisdiction. Amend RSA 169-B:4 by inserting after
+7 paragraphVthefollowingnewparagraph:
+8 V-a. The court may retain jurisdiction to hear violations of conditions of release pursuant to RSA
+9 169-B:2,VIII(d).
+10 57:3 Children in Need of Services; Definition of Conditional Release. Amend RSA 169-D:2, III(d) to
+11 readasfollows:
+12 (d) Return to the court for violation of the conditions of the release and change of the
+13 dispositionatanytimeduringthetermoftheconditionalrelease. Thecourtmayretainjurisdictiontohear
+14 violationsoftheconditionsofreleasesolongastheviolationisfiledwithintheperiodofconditional
+15 release.
+16 57:4 New Paragraph; Children in Need of Services; Jurisdiction. Amend RSA 169-D:3 by inserting
+17 afterparagraphIIthefollowingnewparagraph:
+18 II-a. The court may retain jurisdiction to hear violations of conditions of release pursuant to RSA
+19 169-D:2,III(d).
+57:5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:May08,2026
+EffectiveDate:January01,2027
+[DELETED: R5B42-FLV6SEBNATretoteclreofdtmsadcninndo:S.S,Dt1;R.R,H.3;R.N,H.1;R.H,M.:CnadFyLsblpstecttornjntohrvsofclrefddgteincsigdtmsorcninndofs-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R5B42-FLVEOFNWHNATretoteclreofdtmsadcninndo51DtC;DnofClR.AdRA1,V)tordaf()Rntotectfrvnofcsoftereadceofdnaaytedgtetmofclr.Tc52NwP;DtC;J.AdRA14byigaphVtefgnwpV.TectmyrnjntohrvsofcsofrepttoR1,V053CninNdofS;DnofClR.AdRA1,I)t1rdasf2()Rntotectfrvnoftecsoftereadceoft3dnataytedgtetmofteclr.T4v5r654NwP;CninNdofS;J.AdRA13byi7arphIItefgnwp8I.TectmyrnjntohrvsofcsofrepttoR91,I5EeD.TsatslteetJy1,2:My0,2eD:Jy0,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER57
+SB412-FINALVERSION
+2026SESSION
+26-2265
+09/05
+412
+SENATEBILL
+ANACT relative to the conditional release of delinquent minors and children in need of
+services.
+SPONSORS: Sen.Sullivan,Dist18;Rep.Rice,Hills.38;Rep.Notter,Hills.12;Rep.Hill,Merr.2
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill permits the court to retain jurisdiction to hear violations of conditional release filed during the
+releaseincasesinvolvingdelinquentminorsorchildreninneedofservices.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER57
+SB412-FINALVERSION
+26-2265
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the conditional release of delinquent minors and children in need of
+services.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 57:1 Delinquent Children; Definition of Conditional Release. Amend RSA 169-B:2, VIII(d) to read as
+2 follows:
+3 (d) Return to the court for violation of conditions of the release and change of disposition at
+4 any time during the term of conditional release. Thecourtmayretainjurisdictiontohearviolationsofthe
+5 conditionsofreleasesolongastheviolationisfiledwithintheperiodofconditionalrelease.
+6 57:2 New Paragraph; Delinquent Children; Jurisdiction. Amend RSA 169-B:4 by inserting after
+7 paragraphVthefollowingnewparagraph:
+8 V-a. The court may retain jurisdiction to hear violations of conditions of release pursuant to RSA
+9 169-B:2,VIII(d).
+10 57:3 Children in Need of Services; Definition of Conditional Release. Amend RSA 169-D:2, III(d) to
+11 readasfollows:
+12 (d) Return to the court for violation of the conditions of the release and change of the
+13 dispositionatanytimeduringthetermoftheconditionalrelease. Thecourtmayretainjurisdictiontohear
+14 violationsoftheconditionsofreleasesolongastheviolationisfiledwithintheperiodofconditional
+15 release.
+16 57:4 New Paragraph; Children in Need of Services; Jurisdiction. Amend RSA 169-D:3 by inserting
+17 afterparagraphIIthefollowingnewparagraph:
+18 II-a. The court may retain jurisdiction to hear violations of conditions of release pursuant to RSA
+19 169-D:2,III(d).
+57:5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:May08,2026
+EffectiveDate:January01,2027
+
+[DELETED: R5B42-FLV6SEBNATretoteclreofdtmsadcninndo:S.S,Dt1;R.R,H.3;R.N,H.1;R.H,M.:CnadFyLsblpstecttornjntohrvsofclrefddgteincsigdtmsorcninndofs-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R5B42-FLVEOFNWHNATretoteclreofdtmsadcninndo51DtC;DnofClR.AdRA1,V)tordaf()Rntotectfrvnofcsoftereadceofdnaaytedgtetmofclr.Tc52NwP;DtC;J.AdRA14byigaphVtefgnwpV.TectmyrnjntohrvsofcsofrepttoR1,V053CninNdofS;DnofClR.AdRA1,I)t1rdasf2()Rntotectfrvnoftecsoftereadceoft3dnataytedgtetmofteclr.T4v5r654NwP;CninNdofS;J.AdRA13byi7arphIItefgnwp8I.TectmyrnjntohrvsofcsofrepttoR91,I5EeD.TsatslteetJy1,2:My0,2eD:Jy0,2]

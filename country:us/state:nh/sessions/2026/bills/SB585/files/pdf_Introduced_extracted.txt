@@ -1,0 +1,165 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB585-FN-ASINTRODUCED
+2026SESSION
+26-2067
+09/08
+585-FN
+ANACT relativetoauditsforcommunicationsdistricts.
+SPONSORS: Sen. McConkey, Dist 3; Sen. Pearl, Dist 17; Sen. McGough, Dist 11; Sen. Murphy,
+Dist 16; Sen. Innis, Dist 7; Sen. Birdsell, Dist 19; Sen. Carson, Dist 14; Rep. J.
+MacDonald,Carr.6
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides an exception to the requirement that communications districts hire an outside
+accountanttoconductanaudit.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB585-FN-ASINTRODUCED
+26-2067
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoauditsforcommunicationsdistricts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CommunicationsDistricts;Audits. AmendRSA53-G:10toreadasfollows:
+2 53-G:10 Audits. – The governing board shall hire a certified public accountant or a public
+3 accountant licensed by the state under RSA 309-B:5 to conduct a financial audit, in accordance with
+4 generally accepted governmental auditing standards as adopted by the United States General
+5 Accounting Office and applicable state statutes, to be completed within 6 months after the close of
+6 each fiscal year. Upon completion of an audit, the governing board shall review and vote on
+7 acceptance of the audit and send a copy of the audited financial statements, the auditor's opinion on
+8 those statements, a report on internal control, a report on compliance, and any other auditor reports
+9 to the governing body of each of the member municipalities and to the department of revenue
+10 administration. The department of revenue administration shall waive the requirement of
+11 an independent audit for any fiscal year upon petition by the governing board
+12 demonstrating that either the district's annual revenue during the previous year was less
+13 than $50,000; or that the district's annual revenue was less than $2 million during the
+14 prior fiscal year and the district agreement provides that the district is not a tax authority
+15 and prohibits the district from raising revenue from any member municipality except
+16 through voluntary contribution by such member or pursuant to contractual agreement
+17 with such member. At least every 2 years, the governing board shall vote on whether to contract
+18 for a performance audit of the district in accordance with the generally accepted governmental
+19 auditing standards. Upon completion of a performance audit, the committee shall review and vote
+20 onacceptanceoftheauditandsendacopyoftheresultingmaterialstothegoverningbodyofeachof
+21 themembermunicipalitiesandtothedepartmentofrevenueadministration.
+22 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2067
+Revised12/4/25
+SB585-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoauditsforcommunicationsdistricts.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 PossibleIndeterminableDecrease
+METHODOLOGY:
+This bill requires the Department of Revenue Administration (DRA) to waive the independent
+audit requirement for any communication district whose governing board petitions DRA to do so
+and demonstrates that either the previous year’s revenue was less than $50,000 or the previous
+year’s revenue was less than$2 millionand it is not a taxingauthorityand cannot raise revenue
+fromanymembermunicipalityexceptvoluntarilyorbycontractualagreement.
+The Department of Revenue Administration (DRA) states that there would be no additional
+administrative costs that could not be absorbed in its current operating budget. There is a
+possibledecreaseinlocalexpendituresduetosavingsbynothinghavingtodotheauditsthatget
+waived.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandNewHampshireMunicipalAssociation
+[DELETED: B5N-ASI6SEBNATretoasfrcsd:S.M,Dt3;S.P,Dt1;S.M,Dt1;S.Mt1;S.I,Dt7;S.B,Dt1;S.C,Dt1;R.J,C.:EnLwadMlAsblpsanentotertttcsdsheanottoctana-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoasfrcsdeitEdbyteSeadHeofRsinGlCtc1CsD;A.AdRA50tordasf50A.–TeggbdslheacdpcatorapatldbyteseurRA35toctafla,inaewgyadglagssasadbyteUdSsGAgOeadaeses,tobecdwn6msarteceoehfly.Uncnofana,teggbdslrwadveoaeofteatadsdacyofteadfls,teasonotes,artonilc,artonc,adayorarrtoteggbyofehoftemrmsadtotedtofr0a.Tedtofreanslweterto1anitatfrayflyrunpnbyteggb2dgttertedsalredgtepsyrwsl3tn$;ortttedsalrewslstn$2mndgt4prflyradtedtatpstttedtisntatxa5adpstedtfmrgrefmaymrmye6thvycnbyshmrorpttocla7whshm.Atltey2y,teggbdslveonwrtoc8frapeatoftedtinaewhtegyadg9ags.Uncnofapea,teceslrwadv0onaeofteatadsdacyoftergmstoteggbyofeho1temrmsadtotedtofrea22EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATretoasfrcsdLIdPlSnIY26FY27FY28FY2lR0$0$0$lE0PeIeDsblrsteDtofReAn()toweteitrtfraycndtweggbdpsDAtodosddsttertepsysrewslstn$0ortepsrewslstn$2mnaditisntatgayadctrermaymrmyetvyorbyclaeDtofReAn()sstttewdbenoaecsttcdntbeadinisctogb.TeisedeinllesdetossbynghgtodoteasttgSCtofReAnadNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB585-FN-ASINTRODUCED
+2026SESSION
+26-2067
+09/08
+585-FN
+SENATEBILL
+ANACT relativetoauditsforcommunicationsdistricts.
+SPONSORS: Sen. McConkey, Dist 3; Sen. Pearl, Dist 17; Sen. McGough, Dist 11; Sen. Murphy,
+Dist 16; Sen. Innis, Dist 7; Sen. Birdsell, Dist 19; Sen. Carson, Dist 14; Rep. J.
+MacDonald,Carr.6
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill provides an exception to the requirement that communications districts hire an outside
+accountanttoconductanaudit.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB585-FN-ASINTRODUCED
+26-2067
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoauditsforcommunicationsdistricts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 CommunicationsDistricts;Audits. AmendRSA53-G:10toreadasfollows:
+2 53-G:10 Audits. – The governing board shall hire a certified public accountant or a public
+3 accountant licensed by the state under RSA 309-B:5 to conduct a financial audit, in accordance with
+4 generally accepted governmental auditing standards as adopted by the United States General
+5 Accounting Office and applicable state statutes, to be completed within 6 months after the close of
+6 each fiscal year. Upon completion of an audit, the governing board shall review and vote on
+7 acceptance of the audit and send a copy of the audited financial statements, the auditor's opinion on
+8 those statements, a report on internal control, a report on compliance, and any other auditor reports
+9 to the governing body of each of the member municipalities and to the department of revenue
+10 administration. The department of revenue administration shall waive the requirement of
+11 an independent audit for any fiscal year upon petition by the governing board
+12 demonstrating that either the district's annual revenue during the previous year was less
+13 than $50,000; or that the district's annual revenue was less than $2 million during the
+14 prior fiscal year and the district agreement provides that the district is not a tax authority
+15 and prohibits the district from raising revenue from any member municipality except
+16 through voluntary contribution by such member or pursuant to contractual agreement
+17 with such member. At least every 2 years, the governing board shall vote on whether to contract
+18 for a performance audit of the district in accordance with the generally accepted governmental
+19 auditing standards. Upon completion of a performance audit, the committee shall review and vote
+20 onacceptanceoftheauditandsendacopyoftheresultingmaterialstothegoverningbodyofeachof
+21 themembermunicipalitiesandtothedepartmentofrevenueadministration.
+22 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2067
+Revised12/4/25
+SB585-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoauditsforcommunicationsdistricts.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 PossibleIndeterminableDecrease
+METHODOLOGY:
+This bill requires the Department of Revenue Administration (DRA) to waive the independent
+audit requirement for any communication district whose governing board petitions DRA to do so
+and demonstrates that either the previous year’s revenue was less than $50,000 or the previous
+year’s revenue was less than$2 millionand it is not a taxingauthorityand cannot raise revenue
+fromanymembermunicipalityexceptvoluntarilyorbycontractualagreement.
+The Department of Revenue Administration (DRA) states that there would be no additional
+administrative costs that could not be absorbed in its current operating budget. There is a
+possibledecreaseinlocalexpendituresduetosavingsbynothinghavingtodotheauditsthatget
+waived.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministrationandNewHampshireMunicipalAssociation
+
+[DELETED: B5N-ASI6SEBNATretoasfrcsd:S.M,Dt3;S.P,Dt1;S.M,Dt1;S.Mt1;S.I,Dt7;S.B,Dt1;S.C,Dt1;R.J,C.:EnLwadMlAsblpsanentotertttcsdsheanottoctana-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoasfrcsdeitEdbyteSeadHeofRsinGlCtc1CsD;A.AdRA50tordasf50A.–TeggbdslheacdpcatorapatldbyteseurRA35toctafla,inaewgyadglagssasadbyteUdSsGAgOeadaeses,tobecdwn6msarteceoehfly.Uncnofana,teggbdslrwadveoaeofteatadsdacyofteadfls,teasonotes,artonilc,artonc,adayorarrtoteggbyofehoftemrmsadtotedtofr0a.Tedtofreanslweterto1anitatfrayflyrunpnbyteggb2dgttertedsalredgtepsyrwsl3tn$;ortttedsalrewslstn$2mndgt4prflyradtedtatpstttedtisntatxa5adpstedtfmrgrefmaymrmye6thvycnbyshmrorpttocla7whshm.Atltey2y,teggbdslveonwrtoc8frapeatoftedtinaewhtegyadg9ags.Uncnofapea,teceslrwadv0onaeofteatadsdacyoftergmstoteggbyofeho1temrmsadtotedtofrea22EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATretoasfrcsdLIdPlSnIY26FY27FY28FY2lR0$0$0$lE0PeIeDsblrsteDtofReAn()toweteitrtfraycndtweggbdpsDAtodosddsttertepsysrewslstn$0ortepsrewslstn$2mnaditisntatgayadctrermaymrmyetvyorbyclaeDtofReAn()sstttewdbenoaecsttcdntbeadinisctogb.TeisedeinllesdetossbynghgtodoteasttgSCtofReAnadNwHeMlA]

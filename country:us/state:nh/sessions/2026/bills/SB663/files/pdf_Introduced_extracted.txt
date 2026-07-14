@@ -1,0 +1,244 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB663-FN-A-ASINTRODUCED
+2026SESSION
+26-3271
+07/05
+663-FN-A
+ANACT creating a Medicaid methodology working group within the department of health
+and human services and making an appropriation to the department of health
+and human services for eligible nursing facilities based on Medicaid
+reimbursementrates.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. McGough, Dist 11; Sen. Lang, Dist 2; Sen. Watters,
+Dist 4; Sen. Long, Dist 20; Sen. Perkins Kwoka, Dist 21; Sen. Prentiss, Dist 5;
+Sen. Fenton, Dist 10; Sen. Altschiller, Dist 24; Sen. Reardon, Dist 15; Sen.
+Ricciardi, Dist 9; Sen. Rochefort, Dist 1; Rep. Wallner, Merr. 19; Rep. Telerski,
+Hills.11;Rep.Stringham,Graf.3;Rep.Nagel,Belk.6;Rep.M.Pearson,Rock.34
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a Medicaid methodology working group within the department of health and
+human services and makes an appropriation to the department of health and human services for
+eligiblenursingfacilitiesbasedonMedicaidreimbursementrates.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB663-FN-A-ASINTRODUCED
+26-3271
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating a Medicaid methodology working group within the department of health
+and human services and making an appropriation to the department of health
+and human services for eligible nursing facilities based on Medicaid
+reimbursementrates.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Health and Human Services; Medicaid Methodology Working Group
+2 Established.
+3 I. Thedepartmentofhealthandhumanservicesshallconveneaworkinggroupforthestudy
+4 ofnursinghomerateMedicaidmethodologyconsistingofthefollowing:
+5 (a) A member of the house of representatives, appointed by the speaker of the house of
+6 representatives;
+7 (b) Amemberofthesenate,appointedbythepresidentofthesenate;
+8 (c) Thecommissionerofthedepartmentofhealthandhumanservices,ordesignee;
+9 (d) A member of the New Hampshire Association of Counties, appointed by that
+10 organization;
+11 (e) A member of the New Hampshire Health Care Association, appointed by that
+12 organization;
+13 (f) A member of the New Hampshire Hospital Association, appointed by that
+14 organization;and
+15 (g) A certified public accountant specializing in nursing home cost reporting, appointed
+16 bythegovernor.
+17 II. The working group shall be convened by the commissioner of department of health and
+18 human services, or their designee, and shall be subject to RSA 91-A. The working group shall make
+19 recommendations concerning the nursing home reimbursement methodology, with a focus on the
+20 followingconsiderations:
+21 (a) Accesstonursinghomecareandtheexistenceofwaitinglists;
+22 (b) Barrierstohospitaldischargetonursinghomes;
+23 (c) Whether the acuity or direct care needs of nursing home residents are properly
+24 capturedbyreimbursement;
+25 (d) Capitalreimbursementinlightofagingnursinghomeinfrastructure;
+26 (e) Therelationshipbetweenworkforceneedsofnursinghomesandreimbursement;
+27 (f) Theoverallsolvencyofthenursinghomesector;and
+28 (g) The fairest means of addressing changes of ownership within reimbursement in a
+29 mannerthatprotectsMedicaidprogramintegrity.
+SB663-FN-A-ASINTRODUCED
+-Page2-
+1 III. No later than December 31, 2026, the commissioner of the department of health and
+2 human services, or their designee, shall submit to the speaker of the house of representatives, the
+3 president of the senate, the house clerk, the senate clerk, the governor, the state library, and the
+4 county-state finance commission any proposed changes to state law or regulations the department,
+5 inconsultationwiththeworkinggroup,believesisnecessaryifthedepartmentintendstomodifythe
+6 nursinghomeMedicaidratemethodology.
+7 2 Department of Health and Human Services; Appropriation. The sum of $5,000,000 for the
+8 fiscal year ending June 30, 2026 is hereby appropriated to the department of health and human
+9 services for the purpose of awarding a one-time general fund payment to licensed nursing facilities
+10 serving individuals covered by Medicaid that received, on January 1, 2026, a new daily
+11 reimbursementratebelow95percent ofwhattheyhad receivedonJuly1, 2025,ascalculatedbythe
+12 departmentofhealthandhumanservices. Thedepartmentofhealthandhumanservicesshallhave
+13 sole discretion over distribution of the funds. The governor is authorized to draw a warrant for said
+14 sumoutofanymoneyinthetreasurynototherwiseappropriated.
+15 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+LBA
+26-3271
+1/21/26
+SB663-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT creating a Medicaid methodology working group within the department of health
+and human services and makes an appropriation to the department of health and
+human services for eligible nursing facilities based on Medicaid reimbursement
+rates.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $5million $0 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $5million $0 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a Medicaid methodology working group within the Department of Health
+and Human Services. In addition, the bill appropriates $5 million in FY26 for the purpose of
+making a one-time payment to nursing facilities with Medicaid clients if, on January 1 2026,
+those facilities received a new daily reimbursement rate below 95 percent of what they had
+received as of July 1, 2025. The bill provides the Department with sole discretion over
+distributionofthefunds.
+AGENCIESCONTACTED:
+None
+[DELETED: B6A-ASI6SEBNATcgaMdmywggpwntedtofhdhnssadmganantotedtofhdhnssfreengfsbdonMtr:S.R,Dt1;S.M,Dt1;S.L,Dt2;S.Wt4;S.L,Dt2;S.PsK,Dt2;S.P,Dt5.F,Dt1;S.A,Dt2;S.R,Dt1;S,Dt9;S.R,Dt1;R.W,M.1;R.T.1;R.S,G.3;R.N,B.6;R.M.P,R.3:FsblcsaMdmywggpwntedtofhhanssadmsanantotedtofhhadhnssfengfsbdonMdrtr-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6A-ASIEOFNWHnteYrofOrLdToTdTNATcgaMdmywggpwntedtofhdhnssadmganantotedtofhdhnssfreengfsbdonMtreitEdbyteSeadHeofRsinGlCtc1DtofHhadHnS;MdMyWgGEI.TedtofhhadhnssslceawggpfrtesofnghereMdmycgoftef()Amrofteheofr,adbytesrofteheor()Amroftes,adbyteptoftes()Tecroftedtofhhadhns,ord()AmrofteNwHeAnofC,adbyt0o1()AmrofteNwHeHhCeA,adbyt2o3()AmrofteNwHeHlA,adbyt4o;a5()Acdpcatsginnghectr,a6byteg7I.Tewggpslbecdbytecrofdtofhha8hns,ortrd,adslbesttoRA9.Tewggpslm9rscgtenghertm,whafsont0fgc1()Astongheceadteeeofwgl2()Bstohldetongh3()Wrteayordtcensofnghersaep4cdbyr5()Clrtinltofagnghei6()Terpbnwensofnghsadr7()Teolsyoftenghes;a8()Teftmsofagcsofopwnrtin9mrttpsMdpmi]
+[DELETED: B6A-ASIPe2I.NolrtnDr3,2,tecroftedtofhhahns,ortrd,slsttotesrofteheofr,tptoftes,tehec,tesec,teg,tesel,adtcefecnaypdcstoselworrstedincnwhtewgg,bsisnyiftedtistomytngheMdrem2DtofHhadHnS;A.Tesmof$0frtflyregJe3,26ishyadtotedtofhhadhssfrtepeofagaoeglfdpttoldngf0sgiscdbyMdttr,onJy1,2,anwd1rtrebw95ptofwttyhdrdonJy1,2,ascdbyt2dtofhhadhns.Tedtofhhadhnssslh3sednordnoftef.Tegrisadtodwawtfrs4smotofaymyintetyntoea53EeD.Tsatslteetunisp]
+[DELETED: B6-FLNSINATcgaMdmywggpwntedtofhdhnssadmsanantotedtofhhanssfreengfsbdonMdrLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF5mn$0$0$gSlF5mn$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesaMdmywggpwnteDtofHdHnS.Ina,teblas$5mninF6frtepeogaoepttongfswhMdcsi,onJy12efsrdanwdyrtrebw95ptofwttyhdasofJy1,2.TeblpsteDtwhsednonoftefSC]
+
+
+================================================================================
+
+Raw Text:
+SB663-FN-A-ASINTRODUCED
+2026SESSION
+26-3271
+07/05
+663-FN-A
+SENATEBILL
+ANACT creating a Medicaid methodology working group within the department of health
+and human services and making an appropriation to the department of health
+and human services for eligible nursing facilities based on Medicaid
+reimbursementrates.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. McGough, Dist 11; Sen. Lang, Dist 2; Sen. Watters,
+Dist 4; Sen. Long, Dist 20; Sen. Perkins Kwoka, Dist 21; Sen. Prentiss, Dist 5;
+Sen. Fenton, Dist 10; Sen. Altschiller, Dist 24; Sen. Reardon, Dist 15; Sen.
+Ricciardi, Dist 9; Sen. Rochefort, Dist 1; Rep. Wallner, Merr. 19; Rep. Telerski,
+Hills.11;Rep.Stringham,Graf.3;Rep.Nagel,Belk.6;Rep.M.Pearson,Rock.34
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates a Medicaid methodology working group within the department of health and
+human services and makes an appropriation to the department of health and human services for
+eligiblenursingfacilitiesbasedonMedicaidreimbursementrates.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB663-FN-A-ASINTRODUCED
+26-3271
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating a Medicaid methodology working group within the department of health
+and human services and making an appropriation to the department of health
+and human services for eligible nursing facilities based on Medicaid
+reimbursementrates.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Health and Human Services; Medicaid Methodology Working Group
+2 Established.
+3 I. Thedepartmentofhealthandhumanservicesshallconveneaworkinggroupforthestudy
+4 ofnursinghomerateMedicaidmethodologyconsistingofthefollowing:
+5 (a) A member of the house of representatives, appointed by the speaker of the house of
+6 representatives;
+7 (b) Amemberofthesenate,appointedbythepresidentofthesenate;
+8 (c) Thecommissionerofthedepartmentofhealthandhumanservices,ordesignee;
+9 (d) A member of the New Hampshire Association of Counties, appointed by that
+10 organization;
+11 (e) A member of the New Hampshire Health Care Association, appointed by that
+12 organization;
+13 (f) A member of the New Hampshire Hospital Association, appointed by that
+14 organization;and
+15 (g) A certified public accountant specializing in nursing home cost reporting, appointed
+16 bythegovernor.
+17 II. The working group shall be convened by the commissioner of department of health and
+18 human services, or their designee, and shall be subject to RSA 91-A. The working group shall make
+19 recommendations concerning the nursing home reimbursement methodology, with a focus on the
+20 followingconsiderations:
+21 (a) Accesstonursinghomecareandtheexistenceofwaitinglists;
+22 (b) Barrierstohospitaldischargetonursinghomes;
+23 (c) Whether the acuity or direct care needs of nursing home residents are properly
+24 capturedbyreimbursement;
+25 (d) Capitalreimbursementinlightofagingnursinghomeinfrastructure;
+26 (e) Therelationshipbetweenworkforceneedsofnursinghomesandreimbursement;
+27 (f) Theoverallsolvencyofthenursinghomesector;and
+28 (g) The fairest means of addressing changes of ownership within reimbursement in a
+29 mannerthatprotectsMedicaidprogramintegrity.
+
+SB663-FN-A-ASINTRODUCED
+-Page2-
+1 III. No later than December 31, 2026, the commissioner of the department of health and
+2 human services, or their designee, shall submit to the speaker of the house of representatives, the
+3 president of the senate, the house clerk, the senate clerk, the governor, the state library, and the
+4 county-state finance commission any proposed changes to state law or regulations the department,
+5 inconsultationwiththeworkinggroup,believesisnecessaryifthedepartmentintendstomodifythe
+6 nursinghomeMedicaidratemethodology.
+7 2 Department of Health and Human Services; Appropriation. The sum of $5,000,000 for the
+8 fiscal year ending June 30, 2026 is hereby appropriated to the department of health and human
+9 services for the purpose of awarding a one-time general fund payment to licensed nursing facilities
+10 serving individuals covered by Medicaid that received, on January 1, 2026, a new daily
+11 reimbursementratebelow95percent ofwhattheyhad receivedonJuly1, 2025,ascalculatedbythe
+12 departmentofhealthandhumanservices. Thedepartmentofhealthandhumanservicesshallhave
+13 sole discretion over distribution of the funds. The governor is authorized to draw a warrant for said
+14 sumoutofanymoneyinthetreasurynototherwiseappropriated.
+15 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-3271
+1/21/26
+SB663-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT creating a Medicaid methodology working group within the department of health
+and human services and makes an appropriation to the department of health and
+human services for eligible nursing facilities based on Medicaid reimbursement
+rates.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $5million $0 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $5million $0 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a Medicaid methodology working group within the Department of Health
+and Human Services. In addition, the bill appropriates $5 million in FY26 for the purpose of
+making a one-time payment to nursing facilities with Medicaid clients if, on January 1 2026,
+those facilities received a new daily reimbursement rate below 95 percent of what they had
+received as of July 1, 2025. The bill provides the Department with sole discretion over
+distributionofthefunds.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B6A-ASI6SEBNATcgaMdmywggpwntedtofhdhnssadmganantotedtofhdhnssfreengfsbdonMtr:S.R,Dt1;S.M,Dt1;S.L,Dt2;S.Wt4;S.L,Dt2;S.PsK,Dt2;S.P,Dt5.F,Dt1;S.A,Dt2;S.R,Dt1;S,Dt9;S.R,Dt1;R.W,M.1;R.T.1;R.S,G.3;R.N,B.6;R.M.P,R.3:FsblcsaMdmywggpwntedtofhhanssadmsanantotedtofhhadhnssfengfsbdonMdrtr-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6A-ASIEOFNWHnteYrofOrLdToTdTNATcgaMdmywggpwntedtofhdhnssadmganantotedtofhdhnssfreengfsbdonMtreitEdbyteSeadHeofRsinGlCtc1DtofHhadHnS;MdMyWgGEI.TedtofhhadhnssslceawggpfrtesofnghereMdmycgoftef()Amrofteheofr,adbytesrofteheor()Amroftes,adbyteptoftes()Tecroftedtofhhadhns,ord()AmrofteNwHeAnofC,adbyt0o1()AmrofteNwHeHhCeA,adbyt2o3()AmrofteNwHeHlA,adbyt4o;a5()Acdpcatsginnghectr,a6byteg7I.Tewggpslbecdbytecrofdtofhha8hns,ortrd,adslbesttoRA9.Tewggpslm9rscgtenghertm,whafsont0fgc1()Astongheceadteeeofwgl2()Bstohldetongh3()Wrteayordtcensofnghersaep4cdbyr5()Clrtinltofagnghei6()Terpbnwensofnghsadr7()Teolsyoftenghes;a8()Teftmsofagcsofopwnrtin9mrttpsMdpmi]
+[DELETED: B6A-ASIPe2I.NolrtnDr3,2,tecroftedtofhhahns,ortrd,slsttotesrofteheofr,tptoftes,tehec,tesec,teg,tesel,adtcefecnaypdcstoselworrstedincnwhtewgg,bsisnyiftedtistomytngheMdrem2DtofHhadHnS;A.Tesmof$0frtflyregJe3,26ishyadtotedtofhhadhssfrtepeofagaoeglfdpttoldngf0sgiscdbyMdttr,onJy1,2,anwd1rtrebw95ptofwttyhdrdonJy1,2,ascdbyt2dtofhhadhns.Tedtofhhadhnssslh3sednordnoftef.Tegrisadtodwawtfrs4smotofaymyintetyntoea53EeD.Tsatslteetunisp]
+[DELETED: B6-FLNSINATcgaMdmywggpwntedtofhdhnssadmsanantotedtofhhanssfreengfsbdonMdrLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF5mn$0$0$gSlF5mn$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesaMdmywggpwnteDtofHdHnS.Ina,teblas$5mninF6frtepeogaoepttongfswhMdcsi,onJy12efsrdanwdyrtrebw95ptofwttyhdasofJy1,2.TeblpsteDtwhsednonoftefSC]

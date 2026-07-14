@@ -1,0 +1,291 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB441-FN-ASINTRODUCED
+2026SESSION
+26-2022
+05/08
+441-FN
+ANACT requiringamunicipalitythatintendstotransportapersonneedingsubstance use
+disorder treatment and other support services to have a memorandum of
+understandingwiththereceivingmunicipalitypriortotransport.
+SPONSORS: Sen. Sullivan, Dist 18; Sen. Murphy, Dist 16; Sen. Avard, Dist 12; Rep. McLean,
+Hills. 15; Rep. Paquette, Hills. 25; Rep. Warden, Hills. 39; Rep. Kesselring, Hills.
+18;Rep.Rice,Hills.38
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a municipality that intends to transport a homeless individual to another
+municipality for shelter and substance use disorder treatment to enter into a memorandum of
+understanding (MOU) with the receiving municipality prior to transport. The bill also requires the
+department of health and human services to adopt rules regarding application and enforcement of
+suchMOUs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB441-FN-ASINTRODUCED
+26-2022
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringamunicipalitythatintendstotransportapersonneedingsubstance use
+disorder treatment and other support services to have a memorandum of
+understandingwiththereceivingmunicipalitypriortotransport.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Aid to Assisted Persons; MOU Between Municipalities Required Prior to
+2 Transportfor Substance Use Disorder Treatment. AmendRSA165byinsertingafter section2-c the
+3 followingnewsection:
+4 165:2-d MOU Between Municipalities Required Prior to Transport for Substance Use Disorder
+5 Treatment.
+6 I. A municipality, or any representative of a municipality, that intends to transport or
+7 arrange for the transport of a homeless individual or other person showing symptoms of addiction or
+8 incapacitation from substance use to another municipality for the purpose of receiving housing,
+9 shelter, addiction treatment, or related services shall first have in place a memorandum of
+10 understanding(MOU)withthereceivingmunicipality.
+11 II. The MOU shall specify the types of services to be provided by the receiving municipality,
+12 any financial contributions to be made by the sending municipality, which may include payment for
+13 some or all treatment or service costs, and any other conditions mutually agreed upon by the
+14 municipalities, including limits on the number of individuals to be transferred, coordination
+15 protocols,andreportingrequirements.
+16 III. This section shall not apply to emergency medical transfers, transfers by law
+17 enforcementwhencomplyingwithacourtorder,orvoluntaryrelocationbyanindividualwithoutthe
+18 assistance,arrangement,orsponsorshipofamunicipalityortheirrepresentative.
+19 IV. Each municipality may develop criteria for treatment or recovery organizations that
+20 operate under the opioid abatement trust fund, established in RSA 126-A:86, or syringe service
+21 programs, established under RSA 318-B:43, on what messaging and harm reduction materials may
+22 bedistributed,aswellasthetimeandlocationoftheirdistribution.
+23 V. Organizations working under RSA 126-A:86 or RSA 318-B:43 within a municipality may
+24 be required to offer a pathway to recovery and include literature against the use of drugs and
+25 promotingrespiteandrecoveryprograms.
+26 VI. A municipality may disallow any organization under RSA 126-A:86 or RSA 318-B:43
+27 fromoperatingwithinitsjurisdiction.
+SB441-FN-ASINTRODUCED
+-Page2-
+1 VII. Amunicipalityfoundinviolationofthissectionshallbesubjecttoa$5000fine,payable
+2 to the department of health and human services, for the purpose of reimbursing the receiving
+3 municipality.
+4 2 OpioidAbatementTrustFund;Rulemaking. AmendRSA126-A:84,Vtoreadasfollows:
+5 V. The department of health and human services shall adopt rules under RSA 541-A
+6 necessarytoimplementthissubdivision. Suchrulesshallincludefundingqualifications,application
+7 procedures, time-lines for receiving, reviewing and acting upon application requests, and reporting
+8 requirements. The department also shall adopt rules under RSA 541-A regarding
+9 transportationofindividualsunderRSA165:2-dforsubstanceusedisordertreatment. The
+10 rulesshallincludeprovisionsfortheenforcementofmemorandaofunderstandingbetween
+11 municipalitiesregardingfinancialliabilityforsuchservices.
+12 3 Syringe Service Programs Authorized; Rulemaking. Amend RSA 318-B:43, I(b) to read as
+13 follows:
+14 (b) The commissioner of the department of health and human services shall adopt rules,
+15 pursuant to RSA 541-A, further defining the entities in subparagraph (a) and the requirements of
+16 RSA165:2-d,relativetotheoperationofasyringeserviceprogramwithinamunicipality.
+17 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2022
+11/18/25
+SB441-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringamunicipalitythatintendstotransportapersonneedingsubstance use
+disorder treatment and other support services to have a memorandum of
+understandingwiththereceivingmunicipalitypriortotransport.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Increase Increase Increase
+RevenueFund(s) Finerevenueimposeduponmunicipalities
+Expenditures* $0 $315,000 $367,000 $385,000
+FundingSource(s) GeneralFunds,FineRevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+ThisbillrequiresanyNewHampshiremunicipalityintendingtotransportahomelessindividual
+or someone showing signs of substance use disorder to another municipality to first establish a
+memorandum of understanding (MOU) with the receiving municipality. The bill requires the
+Department of Health and Human Services to adopt rules relative to the transfer of individuals
+between municipalities, including rules for the enforcement of memoranda of understanding.
+The Department assumes that this enforcement function will require the following full-time
+staff:
+· One full-time compliance officer, at a total cost (including salary and benefits) of
+$131,000inFY27,$148,000inFY28,and$155,000inFY29;
+· Onefull-timeadministrativeassistantatacostof$88,000inFY27,$99,000inFY28,and
+$104,000inFY29;and
+· One developer/programmer for ongoing IT operation and maintenance at a cost of
+$120,000inFY28and$126,000inFY29.
+Inaddition,theDepartmentassumesthatone contractedITsupportspecialistwillbeneeded, at
+a one-time cost of approximately $96,000, presumably in FY27. The total costs anticipated by
+the Department are therefore as follows: $315,000 in FY27, $367,000 in FY28, and $385,000 in
+FY29. It is assumed that these expenses would be funded with a combination of general funds
+and fine revenue generated from municipalities the Department has found noncompliant. The
+amountoffinerevenueisindeterminable,butthebillimposesa$5,000fineforeachoffense.
+The New Hampshire Municipal Association states that it lacks data on intermunicipal
+transportationofindividuals,andsoitisunabletodeterminethefiscalimpactofthebill.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServicesandNewHampshireMunicipalAssociation
+[DELETED: B4N-ASI6SEBNATrgamyttistottapnngseurttadorstsstoheammogwhtergmyprtot:S.S,Dt1;S.M,Dt1;S.A,Dt1;R.M.1;R.P,H.2;R.W,H.3;R.K,H;R.R,H.3:HhadHnSsblrsamyttistottahsiltoayfrsradseuedrtttoerioammog()whtergmyprtot.TeblaorsttofhhadhnsstoatrsrganadetohM-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATrgamyttistottapnngseurttadorstsstoheammogwhtergmyprtoteitEdbyteSeadHeofRsinGlCtc1NwS;AdtoAdP;MUBnMsRdPrtTtfrSeUeDrT.AdRA15byigarsn2ctfgnws1dMUBnMsRdPrtoTtfrSeUeDTI.Am,orayreofam,ttistottoaefrtettofahsilororpnsgssofanoinfmseuetoarmyfrtepeofrghs,ant,orrdssslftheinpeammo0ug()whtergm1I.TeMUslsytetsofsstobepdbytergm2ayflcstobemebytesgm,whmyieptf3seoralttorsec,adayorcsmyadunbyt4m,iglsontenrofistobet,c5p,adrgr6I.Tssnslntaytoeymlt,tsbyl7etwncgwhacto,orvyrnbyanilwtt8a,a,orspofamyortrr9I.Ehmymydpcafrttorryost0oeurteodatttf,edinRA1,orses1p,edurRA3,onwtmgadhmrnmsm2bed,aswlasteteadlnoftrd3V.OswgurRA16orRA33wnamym4berdtoorapytoryadieleatteueofdsa5pgreadryp6V.AmymydwayonurRA16orRA37fmogwnisj]
+[DELETED: B4N-ASIPe2V.Amyfdinvnoftssnslbesttoa$0f,ptotedtofhhadhns,frtepeofrgterm2OdAtTtF;R.AdRA1,VtordasfV.TedtofhhadhnssslatrsurRA5nytoittss.Shrssliefgq,ap,tsfrr,rgadagunanr,adrr.TedtaoslatrsurRA5ArtnofisurRA1dfrseuedrt.T0rssliepsfrteetofmaofugb1msrgfllyfrshs23SeSePsA;R.AdRA3,I)torda3f4()Tecroftedtofhhadhnssslatr5pttoRA5,frdgteesinsh()adterso6RA1,retoteonofasesepmwnam74EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATrgamyttistottapnngseurttadorstsstoheammogwhtergmyprtotLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY2eIeIeIeIeFereidunm0$0$0$gSlF,FeR0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lEeIeIeIeIsblrsayNwHemyigtottahsirsesgssofseuedrtoarmytoftehmofug()whtergm.TeblrsttofHhadHnSstoatrsretotetrofinm,igrsfrteetofmaofueDtastttsetfnwlretefgfefeceo,atatlct(gsyadb)o0inF,$0inF,ad$0inF]
+[DELETED: efeaeatatactof$0inF,$0inF,a0inF;aedrfrogITonadmeatacto0inF8ad$0inFna,teDtasttoecdITststwlben,aoectofay$,pyinF.TetlcsadbeDtaeteasf:$0inF,$0inF,ad$0i.ItisadttteeswdbefdwhacnofglfdferegdfmmsteDthsfdn.Ttoffereisi,btteblisa$0fefrehoeNwHeMlAnssttitlsdaoninofi,adsoitisuetodeteflitoftebSCtofHhadHnSsadNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB441-FN-ASINTRODUCED
+2026SESSION
+26-2022
+05/08
+441-FN
+SENATEBILL
+ANACT requiringamunicipalitythatintendstotransportapersonneedingsubstance use
+disorder treatment and other support services to have a memorandum of
+understandingwiththereceivingmunicipalitypriortotransport.
+SPONSORS: Sen. Sullivan, Dist 18; Sen. Murphy, Dist 16; Sen. Avard, Dist 12; Rep. McLean,
+Hills. 15; Rep. Paquette, Hills. 25; Rep. Warden, Hills. 39; Rep. Kesselring, Hills.
+18;Rep.Rice,Hills.38
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a municipality that intends to transport a homeless individual to another
+municipality for shelter and substance use disorder treatment to enter into a memorandum of
+understanding (MOU) with the receiving municipality prior to transport. The bill also requires the
+department of health and human services to adopt rules regarding application and enforcement of
+suchMOUs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB441-FN-ASINTRODUCED
+26-2022
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringamunicipalitythatintendstotransportapersonneedingsubstance use
+disorder treatment and other support services to have a memorandum of
+understandingwiththereceivingmunicipalitypriortotransport.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Aid to Assisted Persons; MOU Between Municipalities Required Prior to
+2 Transportfor Substance Use Disorder Treatment. AmendRSA165byinsertingafter section2-c the
+3 followingnewsection:
+4 165:2-d MOU Between Municipalities Required Prior to Transport for Substance Use Disorder
+5 Treatment.
+6 I. A municipality, or any representative of a municipality, that intends to transport or
+7 arrange for the transport of a homeless individual or other person showing symptoms of addiction or
+8 incapacitation from substance use to another municipality for the purpose of receiving housing,
+9 shelter, addiction treatment, or related services shall first have in place a memorandum of
+10 understanding(MOU)withthereceivingmunicipality.
+11 II. The MOU shall specify the types of services to be provided by the receiving municipality,
+12 any financial contributions to be made by the sending municipality, which may include payment for
+13 some or all treatment or service costs, and any other conditions mutually agreed upon by the
+14 municipalities, including limits on the number of individuals to be transferred, coordination
+15 protocols,andreportingrequirements.
+16 III. This section shall not apply to emergency medical transfers, transfers by law
+17 enforcementwhencomplyingwithacourtorder,orvoluntaryrelocationbyanindividualwithoutthe
+18 assistance,arrangement,orsponsorshipofamunicipalityortheirrepresentative.
+19 IV. Each municipality may develop criteria for treatment or recovery organizations that
+20 operate under the opioid abatement trust fund, established in RSA 126-A:86, or syringe service
+21 programs, established under RSA 318-B:43, on what messaging and harm reduction materials may
+22 bedistributed,aswellasthetimeandlocationoftheirdistribution.
+23 V. Organizations working under RSA 126-A:86 or RSA 318-B:43 within a municipality may
+24 be required to offer a pathway to recovery and include literature against the use of drugs and
+25 promotingrespiteandrecoveryprograms.
+26 VI. A municipality may disallow any organization under RSA 126-A:86 or RSA 318-B:43
+27 fromoperatingwithinitsjurisdiction.
+
+SB441-FN-ASINTRODUCED
+-Page2-
+1 VII. Amunicipalityfoundinviolationofthissectionshallbesubjecttoa$5000fine,payable
+2 to the department of health and human services, for the purpose of reimbursing the receiving
+3 municipality.
+4 2 OpioidAbatementTrustFund;Rulemaking. AmendRSA126-A:84,Vtoreadasfollows:
+5 V. The department of health and human services shall adopt rules under RSA 541-A
+6 necessarytoimplementthissubdivision. Suchrulesshallincludefundingqualifications,application
+7 procedures, time-lines for receiving, reviewing and acting upon application requests, and reporting
+8 requirements. The department also shall adopt rules under RSA 541-A regarding
+9 transportationofindividualsunderRSA165:2-dforsubstanceusedisordertreatment. The
+10 rulesshallincludeprovisionsfortheenforcementofmemorandaofunderstandingbetween
+11 municipalitiesregardingfinancialliabilityforsuchservices.
+12 3 Syringe Service Programs Authorized; Rulemaking. Amend RSA 318-B:43, I(b) to read as
+13 follows:
+14 (b) The commissioner of the department of health and human services shall adopt rules,
+15 pursuant to RSA 541-A, further defining the entities in subparagraph (a) and the requirements of
+16 RSA165:2-d,relativetotheoperationofasyringeserviceprogramwithinamunicipality.
+17 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2022
+11/18/25
+SB441-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringamunicipalitythatintendstotransportapersonneedingsubstance use
+disorder treatment and other support services to have a memorandum of
+understandingwiththereceivingmunicipalitypriortotransport.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0
+Increase Increase Increase
+RevenueFund(s) Finerevenueimposeduponmunicipalities
+Expenditures* $0 $315,000 $367,000 $385,000
+FundingSource(s) GeneralFunds,FineRevenue
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+ThisbillrequiresanyNewHampshiremunicipalityintendingtotransportahomelessindividual
+or someone showing signs of substance use disorder to another municipality to first establish a
+memorandum of understanding (MOU) with the receiving municipality. The bill requires the
+Department of Health and Human Services to adopt rules relative to the transfer of individuals
+between municipalities, including rules for the enforcement of memoranda of understanding.
+The Department assumes that this enforcement function will require the following full-time
+staff:
+· One full-time compliance officer, at a total cost (including salary and benefits) of
+$131,000inFY27,$148,000inFY28,and$155,000inFY29;
+
+· Onefull-timeadministrativeassistantatacostof$88,000inFY27,$99,000inFY28,and
+$104,000inFY29;and
+· One developer/programmer for ongoing IT operation and maintenance at a cost of
+$120,000inFY28and$126,000inFY29.
+Inaddition,theDepartmentassumesthatone contractedITsupportspecialistwillbeneeded, at
+a one-time cost of approximately $96,000, presumably in FY27. The total costs anticipated by
+the Department are therefore as follows: $315,000 in FY27, $367,000 in FY28, and $385,000 in
+FY29. It is assumed that these expenses would be funded with a combination of general funds
+and fine revenue generated from municipalities the Department has found noncompliant. The
+amountoffinerevenueisindeterminable,butthebillimposesa$5,000fineforeachoffense.
+The New Hampshire Municipal Association states that it lacks data on intermunicipal
+transportationofindividuals,andsoitisunabletodeterminethefiscalimpactofthebill.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServicesandNewHampshireMunicipalAssociation
+
+[DELETED: B4N-ASI6SEBNATrgamyttistottapnngseurttadorstsstoheammogwhtergmyprtot:S.S,Dt1;S.M,Dt1;S.A,Dt1;R.M.1;R.P,H.2;R.W,H.3;R.K,H;R.R,H.3:HhadHnSsblrsamyttistottahsiltoayfrsradseuedrtttoerioammog()whtergmyprtot.TeblaorsttofhhadhnsstoatrsrganadetohM-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATrgamyttistottapnngseurttadorstsstoheammogwhtergmyprtoteitEdbyteSeadHeofRsinGlCtc1NwS;AdtoAdP;MUBnMsRdPrtTtfrSeUeDrT.AdRA15byigarsn2ctfgnws1dMUBnMsRdPrtoTtfrSeUeDTI.Am,orayreofam,ttistottoaefrtettofahsilororpnsgssofanoinfmseuetoarmyfrtepeofrghs,ant,orrdssslftheinpeammo0ug()whtergm1I.TeMUslsytetsofsstobepdbytergm2ayflcstobemebytesgm,whmyieptf3seoralttorsec,adayorcsmyadunbyt4m,iglsontenrofistobet,c5p,adrgr6I.Tssnslntaytoeymlt,tsbyl7etwncgwhacto,orvyrnbyanilwtt8a,a,orspofamyortrr9I.Ehmymydpcafrttorryost0oeurteodatttf,edinRA1,orses1p,edurRA3,onwtmgadhmrnmsm2bed,aswlasteteadlnoftrd3V.OswgurRA16orRA33wnamym4berdtoorapytoryadieleatteueofdsa5pgreadryp6V.AmymydwayonurRA16orRA37fmogwnisj]
+[DELETED: B4N-ASIPe2V.Amyfdinvnoftssnslbesttoa$0f,ptotedtofhhadhns,frtepeofrgterm2OdAtTtF;R.AdRA1,VtordasfV.TedtofhhadhnssslatrsurRA5nytoittss.Shrssliefgq,ap,tsfrr,rgadagunanr,adrr.TedtaoslatrsurRA5ArtnofisurRA1dfrseuedrt.T0rssliepsfrteetofmaofugb1msrgfllyfrshs23SeSePsA;R.AdRA3,I)torda3f4()Tecroftedtofhhadhnssslatr5pttoRA5,frdgteesinsh()adterso6RA1,retoteonofasesepmwnam74EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATrgamyttistottapnngseurttadorstsstoheammogwhtergmyprtotLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY2eIeIeIeIeFereidunm0$0$0$gSlF,FeR0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lEeIeIeIeIsblrsayNwHemyigtottahsirsesgssofseuedrtoarmytoftehmofug()whtergm.TeblrsttofHhadHnSstoatrsretotetrofinm,igrsfrteetofmaofueDtastttsetfnwlretefgfefeceo,atatlct(gsyadb)o0inF,$0inF,ad$0inF]
+[DELETED: efeaeatatactof$0inF,$0inF,a0inF;aedrfrogITonadmeatacto0inF8ad$0inFna,teDtasttoecdITststwlben,aoectofay$,pyinF.TetlcsadbeDtaeteasf:$0inF,$0inF,ad$0i.ItisadttteeswdbefdwhacnofglfdferegdfmmsteDthsfdn.Ttoffereisi,btteblisa$0fefrehoeNwHeMlAnssttitlsdaoninofi,adsoitisuetodeteflitoftebSCtofHhadHnSsadNwHeMlA]

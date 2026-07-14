@@ -1,0 +1,212 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB622-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0094s
+2026SESSION
+26-2194
+09/08
+622-FN
+ANACT relativetotheoffenseofidentityfraud.
+SPONSORS: Sen. Innis, Dist 7; Sen. Lang, Dist 2; Sen. Pearl, Dist 17; Sen. Ricciardi, Dist 9;
+Sen.Rosenwald,Dist13;Rep.Potucek,Rock.13
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds a definition of entity and explicitly includes entities in the prohibited conduct for
+theoffenseofidentityfraud.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB622-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0094s 26-2194
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofidentityfraud.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 IdentityFraud;Definitions. AmendRSA638:25toreadasfollows:
+2 638:25 Definitions.
+3 Inthissubdivision:
+4 I. "Entity" means any corporation, limited liability company, trust, partnership,
+5 incorporated or unincorporated association or organization, and any other legal entity or
+6 combination of entities, including any state, county, or municipal government and any
+7 subdivision,branch,department,oragencythereof.
+8 II. "Personalidentifyinginformation"meansanyname,number,orinformationthatmaybe
+9 used, alone or in conjunction with any other information, to assume the identity of an individual or
+10 entity, including any name, address, telephone number, driver's license number, social security
+11 number, employer or place of employment, employee identification number, mother's maiden name,
+12 demand deposit account number, savings account number, credit card number, debit card number,
+13 personal identification number, account number, [or] computer password identification, or logo or
+14 othermarkusedtoidentifyanentity.
+15 [II.] III. "Pose" means to falsely represent oneself, directly or indirectly, as another person
+16 orpersons,orentityorentities.
+17 [III.] IV. "Victim" means any person or entity whose personal identifying information has
+18 been unlawfully obtained or recorded or any person or entity that provided money, credit, goods,
+19 services, or anything of value and has suffered financial loss as a direct result of the commission or
+20 attemptedcommissionofaviolationofthissubdivision.
+21 2 IdentityFraud. AmendRSA638:26,Itoreadasfollows:
+22 I. Apersonisguiltyofidentityfraudwhentheperson:
+23 (a) Poses as another person or entity with the purpose to defraud in order to obtain
+24 money,credit,goods,services,oranythingelseofvalue;
+25 (b) Obtains, [or] records, or uses personal identifying information about another person
+26 or entity withouttheexpressauthorizationof suchpersonor entity, withtheintent toposeas such
+27 personorentity;
+28 (c) Obtains, [or] records, or uses personal identifying information about a person or
+29 entity without the express authorization of such person or entity in order to assist another to pose
+30 assuchpersonorentity;or
+SB622-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 (d) Poses as another person or entity, without the express authorization of such person
+2 or entity, with the purpose of obtaining confidential information about such person or entity, or
+3 anotherpersonorentity,thatisnotavailabletothegeneralpublic.
+4 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2194
+1/30/26
+SB622-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0094s)
+ANACT relativetotheoffenseofidentityfraud.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B6N-ASADBYTES606SEBNATretoteoeofiyf:S.I,Dt7;S.L,Dt2;S.P,Dt1;S.R,Dt9.R,Dt1;R.P,R.1:Jsblasadnofeyadeyisesintepdctfeoeofiyf-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretoteoeofiyfeitEdbyteSeadHeofRsinGlCtc1IyF;D.AdRA65tordasf65DIntssI.""msayc,ldlyc,t,pidorudanoro,adayorlleyocnofe,igays,c,ormlgtadas,b,d,oraytI."ligi"msayn,n,orinttmybu,aeorincnwhayori,toaeteiyofanilo0e,igayn,a,ten,dslen,sls1n,erorpeofe,eeinn,msmnn2dddtatn,ssatn,ctcdn,dtcdn3plinn,atn,[]crpdi,orloo4ormkudtoiyane5[]I.""mstofyrto,dyori,asarp6orp,oreyore7[]I.""msaypnoreywepliginh8bnuyodorrdoraypnoreyttpdm,c,g9s,oragofveadhssdfllsasadtrtoftecno0adcnofavnoftss12IyF.AdRA6,Itordasf2I.Apnisgyofiyfdwntep3()Psasarpnoreywhtepetoddinortoo4m,c,g,s,orageeofv5()O,[]r,oruspliginatarp6oreywtteesanofshpnore,whteittopeass7pnore8()O,[]r,oruspliginatapno9eywtteesanofshpnoreyinortoatartop0asshpnore;o]
+[DELETED: B6N-ASADBYTESPe2()Psasarpnore,wtteesanofshpore,whtepeofogclinatshpnore,oarpnore,ttisntaetoteglp3EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#2NATretoteoeofiyfLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB622-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0094s
+2026SESSION
+26-2194
+09/08
+622-FN
+SENATEBILL
+ANACT relativetotheoffenseofidentityfraud.
+SPONSORS: Sen. Innis, Dist 7; Sen. Lang, Dist 2; Sen. Pearl, Dist 17; Sen. Ricciardi, Dist 9;
+Sen.Rosenwald,Dist13;Rep.Potucek,Rock.13
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds a definition of entity and explicitly includes entities in the prohibited conduct for
+theoffenseofidentityfraud.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB622-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0094s 26-2194
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheoffenseofidentityfraud.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 IdentityFraud;Definitions. AmendRSA638:25toreadasfollows:
+2 638:25 Definitions.
+3 Inthissubdivision:
+4 I. "Entity" means any corporation, limited liability company, trust, partnership,
+5 incorporated or unincorporated association or organization, and any other legal entity or
+6 combination of entities, including any state, county, or municipal government and any
+7 subdivision,branch,department,oragencythereof.
+8 II. "Personalidentifyinginformation"meansanyname,number,orinformationthatmaybe
+9 used, alone or in conjunction with any other information, to assume the identity of an individual or
+10 entity, including any name, address, telephone number, driver's license number, social security
+11 number, employer or place of employment, employee identification number, mother's maiden name,
+12 demand deposit account number, savings account number, credit card number, debit card number,
+13 personal identification number, account number, [or] computer password identification, or logo or
+14 othermarkusedtoidentifyanentity.
+15 [II.] III. "Pose" means to falsely represent oneself, directly or indirectly, as another person
+16 orpersons,orentityorentities.
+17 [III.] IV. "Victim" means any person or entity whose personal identifying information has
+18 been unlawfully obtained or recorded or any person or entity that provided money, credit, goods,
+19 services, or anything of value and has suffered financial loss as a direct result of the commission or
+20 attemptedcommissionofaviolationofthissubdivision.
+21 2 IdentityFraud. AmendRSA638:26,Itoreadasfollows:
+22 I. Apersonisguiltyofidentityfraudwhentheperson:
+23 (a) Poses as another person or entity with the purpose to defraud in order to obtain
+24 money,credit,goods,services,oranythingelseofvalue;
+25 (b) Obtains, [or] records, or uses personal identifying information about another person
+26 or entity withouttheexpressauthorizationof suchpersonor entity, withtheintent toposeas such
+27 personorentity;
+28 (c) Obtains, [or] records, or uses personal identifying information about a person or
+29 entity without the express authorization of such person or entity in order to assist another to pose
+30 assuchpersonorentity;or
+
+SB622-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 (d) Poses as another person or entity, without the express authorization of such person
+2 or entity, with the purpose of obtaining confidential information about such person or entity, or
+3 anotherpersonorentity,thatisnotavailabletothegeneralpublic.
+4 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2194
+1/30/26
+SB622-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0094s)
+ANACT relativetotheoffenseofidentityfraud.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B6N-ASADBYTES606SEBNATretoteoeofiyf:S.I,Dt7;S.L,Dt2;S.P,Dt1;S.R,Dt9.R,Dt1;R.P,R.1:Jsblasadnofeyadeyisesintepdctfeoeofiyf-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretoteoeofiyfeitEdbyteSeadHeofRsinGlCtc1IyF;D.AdRA65tordasf65DIntssI.""msayc,ldlyc,t,pidorudanoro,adayorlleyocnofe,igays,c,ormlgtadas,b,d,oraytI."ligi"msayn,n,orinttmybu,aeorincnwhayori,toaeteiyofanilo0e,igayn,a,ten,dslen,sls1n,erorpeofe,eeinn,msmnn2dddtatn,ssatn,ctcdn,dtcdn3plinn,atn,[]crpdi,orloo4ormkudtoiyane5[]I.""mstofyrto,dyori,asarp6orp,oreyore7[]I.""msaypnoreywepliginh8bnuyodorrdoraypnoreyttpdm,c,g9s,oragofveadhssdfllsasadtrtoftecno0adcnofavnoftss12IyF.AdRA6,Itordasf2I.Apnisgyofiyfdwntep3()Psasarpnoreywhtepetoddinortoo4m,c,g,s,orageeofv5()O,[]r,oruspliginatarp6oreywtteesanofshpnore,whteittopeass7pnore8()O,[]r,oruspliginatapno9eywtteesanofshpnoreyinortoatartop0asshpnore;o]
+[DELETED: B6N-ASADBYTESPe2()Psasarpnore,wtteesanofshpore,whtepeofogclinatshpnore,oarpnore,ttisntaetoteglp3EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#2NATretoteoeofiyfLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

@@ -1,0 +1,262 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER104
+SB494-FN-FINALVERSION
+02/05/2026 0371s
+2026SESSION
+26-2059
+09/08
+494-FN
+ANACT relative to the state fire code, fire incident reporting and investigations, and the duties
+ofthestatefiremarshal.
+SPONSORS: Sen.Pearl,Dist17;Sen.Gannon,Dist23;Sen.McGough,Dist11;Rep.Layon,Rock.
+13;Rep.Slottje,Hills.13;Rep.Thibault,Merr.25;Rep.Schmidt,Straf.14
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Updates the version of the fire code and ratifies all amendments reviewed and approved by the
+boardoffirecontrolasofDecember31,2025.
+II. Modifiestheproceduresforthereportingandinvestigationoffires.
+III. Addsadditionaldutiestothestatefiremarshal.
+IV. Requirestheofficeofprofessionallicensureandcertificationtosharewiththefiremarshalcertain
+information for current licensees and past licensees of the mechanical safety and licensing board and
+electricians'boardtoaidcertaininspectorsappointedbythefiremarshalordepartmentofsafety.
+Thisbillisarequestofthestatefiremarshal'soffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER104
+SB494-FN-FINALVERSION
+02/05/2026 0371s 26-2059
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the state fire code, fire incident reporting and investigations, and the duties
+ofthestatefiremarshal.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 104:1 StateBoardofFireControl;Definitions. AmendRSA153:1,VI-atoreadasfollows:
+2 VI-a. "New Hampshire fire code" or "state fire code" means the adoption by reference of the Life
+3 SafetyCode,NFPA101,[2021]2024edition,andtheUniformFireCodeNFPA1,[2021]2024edition,as
+4 published by the National Fire Protection Association and as amended by the state board of fire control
+5 andratifiedbythegeneralcourtpursuanttoRSA153:5. Theprovisionsofanyothernationalcode,model
+6 code, or standard referred to within a code listed in this definition shall be included in the state fire code
+7 unlessamendedinaccordancewithRSA153:5.
+8 104:2 State Board of Fire Control; Report of Fire Department Incident Responses. RSA 153:11 is
+9 repealedandreenactedtoreadasfollows:
+10 153:11 ReportofFireDepartmentIncidentResponses.
+11 Every fire department incident response occurring in this state shall be reported to the state fire
+12 marshal within 10 days after the occurrence of the same by the appropriate fire chief or designee. The
+13 state fire marshal shall provide the necessary instructional data for the fire chiefs for incident reporting.
+14 NotwithstandingRSA21-G:9,II(b),thestatefiremarshalmayadoptrulespursuanttoRSA541-Awiththe
+15 approval of the commissioner of the department of safety relative to fire department incident response
+16 reporting.
+17 104:3 StateBoardofFireControl;Investigations. AmendRSA153:18toreadasfollows:
+18 153:18 Investigations. The state fire marshal may, in addition to the reports made by any fire chief,
+19 whenever the state fire marshal deems it expedient or advisable, investigate or cause to be investigated,
+20 the cause, circumstances, and origin of any fire or building collapse occurring in the state, by which
+21 propertyisendangered,damaged,ordestroyed,oranyincidentinvolvingthereleaseofcarbonmonoxide
+22 otherthanfromamotorvehicle,andmayespeciallyexamineanddecidewhetherthesamewastheresult
+23 ofcarelessness, design, ordeliberateact. Thestatefiremarshal shall havethepower vestedinajustice
+24 ofthepeacetocompel theattendanceof witnesses totestifyuponaninquiry. Anyfire, buildingcollapse,
+25 or release of carbon monoxide [other than from a motor vehicle] occurring where death results shall be
+26 reported immediately to the office of the state fire marshal by the fire chief, and the office of the state fire
+27 marshal shall investigate the fire, building collapse, or release of carbon monoxide within 48 hours after
+28 receiving said report. Whenthecause,origin,andcircumstancesofanyfireoccurringinanycity,town,
+29 villagedistrict,orprecinctinthisstateindicatethatsuchfirewastheresultofdesignorofsuspicious
+30 origin,thefirechiefordesigneeshallimmediatelynotifythestatefiremarshal.Thestatefiremarshalshall
+31 havetheauthoritytosubmithisorherfindingsoffactsinthecasetothestatepolice,countyattorney,or
+32 otherlocalauthoritieswhomayassisthimorherintheprosecutionofthematter.
+CHAPTER104
+SB494-FN-FINALVERSION
+-Page2-
+1 104:4 New Paragraphs; State Board of Fire Control; Duties of the State Fire Marshal. Amend RSA
+2 153:4-abyinsertingafterparagraphVthefollowingnewparagraphs:
+3 VI. The state fire marshal may charge an inspection fee for electrical and mechanical safety
+4 inspections at the request of property owners, local code enforcement authorities, or contractors
+5 performing or responsible for the work. An inspection fee shall not be charged for consultation or
+6 assistance to a local code enforcement authority. The inspection fee schedule shall be the fees outlined
+7 inSaf-C8100.
+8 VII. Thestatefiremarshalmayassistwithandconductalocalfirecodeinspectionattherequest
+9 of a property owner or contractor, which has followed existing local permitting requirements, after three
+10 businessdaysofunavailabilitybythelocalfirechiefordesignee. Nothinginthissectionshallrequirethe
+11 state fire marshal to accept the inspection request. The state fire marshal may assess an inspection fee
+12 tothepropertyownerorcontractorrequestingtheinspectioninaccordancewiththefeescheduleoutlined
+13 inSaf-C8100.
+14 104:5 New Paragraph; State Board of Fire Control; Mechanical Licensing; Inspectors. Amend RSA
+15 153:34byinsertingafterparagraphIVthefollowingnewparagraph:
+16 V. In furtherance of assisting the appointed inspectors in their duties under this section, the
+17 executivedirectoroftheofficeofprofessionallicensureandcertification,oritsdesignees,shallsharewith
+18 the state fire marshal, or its designees, a data export for current licensees and past licensees of the
+19 mechanicalsafetyandlicensingboardfromtheofficialrecordoftheofficeandtheboard. Thedataexport
+20 shall be sent at such intervals and only include such information as the state fire marshal and executive
+21 directoragreeisnecessaryfortheinspectorstoperformtheirdailyresponsibilities. Suchinformationshall
+22 not include personal information as that term is defined in RSA 359-I, except it may include contact
+23 information for current and past licensees of the board. For any shared information that the office is
+24 required to hold confidential and exempt from the disclosure requirements of RSA 91-A, the state fire
+25 marshalshallalsoberequiredtoholdconfidentialandexemptfromtherequirementsofRSA91-A.
+26 104:6 NewParagraph;Electricians;Inspectors. AmendRSA319-C:5byinsertingafterparagraphIV
+27 thefollowingnewparagraph:
+28 IV-a. In furtherance of assisting the appointed inspectors with their duties under this section, the
+29 executivedirectoroftheofficeofprofessionallicensureandcertification,oritsdesignees,shallsharewith
+30 the state fire marshal, or its designees, a data export for current licensees and past licensees of the
+31 electricians' board from the official record of the office and the board. The data export shall be sent at
+32 such intervals and only include such information as the state fire marshal and executive director agree is
+33 necessary for the inspectors to perform their daily responsibilities. Such information shall not include
+34 personal information as that term is defined in RSA 359-I, except it may include contact information for
+35 current and past licensees of the board. For any shared information that the office is required to hold
+36 confidential and exempt from the disclosure requirements of RSA 91-A, the state fire marshal shall also
+37 berequiredtoholdconfidentialandexemptfromtherequirementsofRSA91-A.
+CHAPTER104
+SB494-FN-FINALVERSION
+-Page3-
+1 104:7 State Fire Code; Ratification of Amendments; State Board of Fire Control. Pursuant to RSA
+2 153:5, I, the general court hereby ratifies all amendments reviewed and approved by the board of fire
+3 controlasofDecember31,2025.
+4 104:8 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May28,2026
+EffectiveDate:July27,2026
+[DELETED: R1B4N-FLV606SEBNATretotesefec,feitrgadi,adtedftesefem:S.P,Dt1;S.G,Dt2;S.M,Dt1;R.L,R;R.S,H.1;R.T,M.2;R.S,S.1:EeDsadADAsb.UstevnoftefeceadrsalasrdadadbytdoffeclasofDr3,2.Mstepsfrtergadinoff.Asaldstotesefem.Rsteoeofplleadcntosewhtefemlcnfrctlsadptlsoftemlsyadlgbda'bdtoadcnisadbytefemlordtofssblisartoftesefemso-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B4N-FLV60s2EOFNWHNATretotesefec,feitrgadi,adtedftesefem11SeBdofFeC;D.AdRA1,VatordasfV."wHefec"or"efec"msteanbyreofteLSyC,NA1,[]2,adteUmFeCeNA1,[]2,apdbyteNlFePnAnadasadbytesebdoffecadrdbyteglctpttoRA1.Tepsofayornlc,mc,orsdrdtownaceldintsdnslbeidintesefecusadinaewhRA112SeBdofFeC;RtofFeDtItR.RA11irdadrdtordasf011RtofFeDtItR1Eyfedtitreogintsseslberdtotesef2mlwn10dsarteoeoftesebyteaefecford.T3sefemlslpetenyildafrtefecsfritr4NgRA2,I,tesefemlmyatrspttoRA5Awht5aloftecroftedtofsyretofedtitr6r713SeBdofFeC;I.AdRA18tordasf818I.Tesefemlm,inantotersmebyayfec9wrtesefemldsitetora,ieorcetobei0tec,c,adonofayfeorbgceogintes,byw1pyise,d,ord,orayitigtereofcnm2ortnfmamrv,admyeyeeaddewrtesewster3ofc,d,ordea.Tesefemlslheteprvdinaj4oftepetoclteaeofwstotyunani.Ayf,bgc5orreofcnme[rtnfmamrv]ogwedhrsslb6rdiytoteoeoftesefemlbytefec,adteoeoftesef7mlslietef,bgc,orreofcnmewn48hsa8rgsdr.W9v0o1h2o]
+[DELETED: R1B4N-FLVPe214NwP;SeBdofFeC;DsofteSeFeM.AdR1abyigarphVtefgnwpV.Tesefemlmyceaninfefreladmlsisattertofpyo,llceeta,orcpgorrefrtew.Aninfeslntbecdfrcnoaetoallceeta.TeinfeseslbetefsoinSC8V.Tesefemlmyatwhadctallfeceinatterofapyororc,whhsfdegllpgr,art0bsdsofuybytellfecford.Ngintssnslret1sefemltoatteinr.Tesefemlmyasaninf2totepyororcrrgteininaewhtefeseo3inSC8415NwP;SeBdofFeC;MlL;I.AdR514byigarphIVtefgnwp6V.Infeofagteadisintrdsurtss,t7eedrofteoeofplleadc,orisd,slsew8tesefem,orisd,adaetfrctlsadptlsoft9mlsyadlgbdfmteolrdofteoeadteb.Tedae0slbestatshisadoyieshinastesefemlade1draeisnyfrteistopmtrdyr.Shins2ntieplinastttmisddinRA3,etitmyiec3infrctadptlsofteb.Fraysdinttteoei4rdtohdcladetfmtedersofRA9,tesef5mlslaoberdtohdcladetfmtersofRA9616NwP;E;I.AdRA35byigarphI7tefgnwp8I.Infeofagteadiswhtrdsurtss,t9eedrofteoeofplleadc,orisd,slsew0tesefem,orisd,adaetfrctlsadptlsoft1e'bdfmteolrdofteoeadteb.Tedaetslbesta2shisadoyieshinastesefemladeedraei3nyfrteistopmtrdyr.Shinslnti4plinastttmisddinRA3,etitmyiectinf5ctadptlsofteb.Fraysdinttteoeisrdtoh6cladetfmtedersofRA9,tesefemlsla7berdtohdcladetfmtersofRA9]
+[DELETED: R1B4N-FLVPe317SeFeC;RnofA;SeBdofFeC.PttoR1,I,teglcthyrsalasrdadadbytebdoffclasofDr3,218EeD.Tsatslteet60dsarisp:My2,2eD:Jy2,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER104
+SB494-FN-FINALVERSION
+02/05/2026 0371s
+2026SESSION
+26-2059
+09/08
+494-FN
+SENATEBILL
+ANACT relative to the state fire code, fire incident reporting and investigations, and the duties
+ofthestatefiremarshal.
+SPONSORS: Sen.Pearl,Dist17;Sen.Gannon,Dist23;Sen.McGough,Dist11;Rep.Layon,Rock.
+13;Rep.Slottje,Hills.13;Rep.Thibault,Merr.25;Rep.Schmidt,Straf.14
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Updates the version of the fire code and ratifies all amendments reviewed and approved by the
+boardoffirecontrolasofDecember31,2025.
+II. Modifiestheproceduresforthereportingandinvestigationoffires.
+III. Addsadditionaldutiestothestatefiremarshal.
+IV. Requirestheofficeofprofessionallicensureandcertificationtosharewiththefiremarshalcertain
+information for current licensees and past licensees of the mechanical safety and licensing board and
+electricians'boardtoaidcertaininspectorsappointedbythefiremarshalordepartmentofsafety.
+Thisbillisarequestofthestatefiremarshal'soffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER104
+SB494-FN-FINALVERSION
+02/05/2026 0371s 26-2059
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the state fire code, fire incident reporting and investigations, and the duties
+ofthestatefiremarshal.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 104:1 StateBoardofFireControl;Definitions. AmendRSA153:1,VI-atoreadasfollows:
+2 VI-a. "New Hampshire fire code" or "state fire code" means the adoption by reference of the Life
+3 SafetyCode,NFPA101,[2021]2024edition,andtheUniformFireCodeNFPA1,[2021]2024edition,as
+4 published by the National Fire Protection Association and as amended by the state board of fire control
+5 andratifiedbythegeneralcourtpursuanttoRSA153:5. Theprovisionsofanyothernationalcode,model
+6 code, or standard referred to within a code listed in this definition shall be included in the state fire code
+7 unlessamendedinaccordancewithRSA153:5.
+8 104:2 State Board of Fire Control; Report of Fire Department Incident Responses. RSA 153:11 is
+9 repealedandreenactedtoreadasfollows:
+10 153:11 ReportofFireDepartmentIncidentResponses.
+11 Every fire department incident response occurring in this state shall be reported to the state fire
+12 marshal within 10 days after the occurrence of the same by the appropriate fire chief or designee. The
+13 state fire marshal shall provide the necessary instructional data for the fire chiefs for incident reporting.
+14 NotwithstandingRSA21-G:9,II(b),thestatefiremarshalmayadoptrulespursuanttoRSA541-Awiththe
+15 approval of the commissioner of the department of safety relative to fire department incident response
+16 reporting.
+17 104:3 StateBoardofFireControl;Investigations. AmendRSA153:18toreadasfollows:
+18 153:18 Investigations. The state fire marshal may, in addition to the reports made by any fire chief,
+19 whenever the state fire marshal deems it expedient or advisable, investigate or cause to be investigated,
+20 the cause, circumstances, and origin of any fire or building collapse occurring in the state, by which
+21 propertyisendangered,damaged,ordestroyed,oranyincidentinvolvingthereleaseofcarbonmonoxide
+22 otherthanfromamotorvehicle,andmayespeciallyexamineanddecidewhetherthesamewastheresult
+23 ofcarelessness, design, ordeliberateact. Thestatefiremarshal shall havethepower vestedinajustice
+24 ofthepeacetocompel theattendanceof witnesses totestifyuponaninquiry. Anyfire, buildingcollapse,
+25 or release of carbon monoxide [other than from a motor vehicle] occurring where death results shall be
+26 reported immediately to the office of the state fire marshal by the fire chief, and the office of the state fire
+27 marshal shall investigate the fire, building collapse, or release of carbon monoxide within 48 hours after
+28 receiving said report. Whenthecause,origin,andcircumstancesofanyfireoccurringinanycity,town,
+29 villagedistrict,orprecinctinthisstateindicatethatsuchfirewastheresultofdesignorofsuspicious
+30 origin,thefirechiefordesigneeshallimmediatelynotifythestatefiremarshal.Thestatefiremarshalshall
+31 havetheauthoritytosubmithisorherfindingsoffactsinthecasetothestatepolice,countyattorney,or
+32 otherlocalauthoritieswhomayassisthimorherintheprosecutionofthematter.
+
+CHAPTER104
+SB494-FN-FINALVERSION
+-Page2-
+1 104:4 New Paragraphs; State Board of Fire Control; Duties of the State Fire Marshal. Amend RSA
+2 153:4-abyinsertingafterparagraphVthefollowingnewparagraphs:
+3 VI. The state fire marshal may charge an inspection fee for electrical and mechanical safety
+4 inspections at the request of property owners, local code enforcement authorities, or contractors
+5 performing or responsible for the work. An inspection fee shall not be charged for consultation or
+6 assistance to a local code enforcement authority. The inspection fee schedule shall be the fees outlined
+7 inSaf-C8100.
+8 VII. Thestatefiremarshalmayassistwithandconductalocalfirecodeinspectionattherequest
+9 of a property owner or contractor, which has followed existing local permitting requirements, after three
+10 businessdaysofunavailabilitybythelocalfirechiefordesignee. Nothinginthissectionshallrequirethe
+11 state fire marshal to accept the inspection request. The state fire marshal may assess an inspection fee
+12 tothepropertyownerorcontractorrequestingtheinspectioninaccordancewiththefeescheduleoutlined
+13 inSaf-C8100.
+14 104:5 New Paragraph; State Board of Fire Control; Mechanical Licensing; Inspectors. Amend RSA
+15 153:34byinsertingafterparagraphIVthefollowingnewparagraph:
+16 V. In furtherance of assisting the appointed inspectors in their duties under this section, the
+17 executivedirectoroftheofficeofprofessionallicensureandcertification,oritsdesignees,shallsharewith
+18 the state fire marshal, or its designees, a data export for current licensees and past licensees of the
+19 mechanicalsafetyandlicensingboardfromtheofficialrecordoftheofficeandtheboard. Thedataexport
+20 shall be sent at such intervals and only include such information as the state fire marshal and executive
+21 directoragreeisnecessaryfortheinspectorstoperformtheirdailyresponsibilities. Suchinformationshall
+22 not include personal information as that term is defined in RSA 359-I, except it may include contact
+23 information for current and past licensees of the board. For any shared information that the office is
+24 required to hold confidential and exempt from the disclosure requirements of RSA 91-A, the state fire
+25 marshalshallalsoberequiredtoholdconfidentialandexemptfromtherequirementsofRSA91-A.
+26 104:6 NewParagraph;Electricians;Inspectors. AmendRSA319-C:5byinsertingafterparagraphIV
+27 thefollowingnewparagraph:
+28 IV-a. In furtherance of assisting the appointed inspectors with their duties under this section, the
+29 executivedirectoroftheofficeofprofessionallicensureandcertification,oritsdesignees,shallsharewith
+30 the state fire marshal, or its designees, a data export for current licensees and past licensees of the
+31 electricians' board from the official record of the office and the board. The data export shall be sent at
+32 such intervals and only include such information as the state fire marshal and executive director agree is
+33 necessary for the inspectors to perform their daily responsibilities. Such information shall not include
+34 personal information as that term is defined in RSA 359-I, except it may include contact information for
+35 current and past licensees of the board. For any shared information that the office is required to hold
+36 confidential and exempt from the disclosure requirements of RSA 91-A, the state fire marshal shall also
+37 berequiredtoholdconfidentialandexemptfromtherequirementsofRSA91-A.
+
+CHAPTER104
+SB494-FN-FINALVERSION
+-Page3-
+1 104:7 State Fire Code; Ratification of Amendments; State Board of Fire Control. Pursuant to RSA
+2 153:5, I, the general court hereby ratifies all amendments reviewed and approved by the board of fire
+3 controlasofDecember31,2025.
+4 104:8 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:May28,2026
+EffectiveDate:July27,2026
+
+[DELETED: R1B4N-FLV606SEBNATretotesefec,feitrgadi,adtedftesefem:S.P,Dt1;S.G,Dt2;S.M,Dt1;R.L,R;R.S,H.1;R.T,M.2;R.S,S.1:EeDsadADAsb.UstevnoftefeceadrsalasrdadadbytdoffeclasofDr3,2.Mstepsfrtergadinoff.Asaldstotesefem.Rsteoeofplleadcntosewhtefemlcnfrctlsadptlsoftemlsyadlgbda'bdtoadcnisadbytefemlordtofssblisartoftesefemso-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B4N-FLV60s2EOFNWHNATretotesefec,feitrgadi,adtedftesefem11SeBdofFeC;D.AdRA1,VatordasfV."wHefec"or"efec"msteanbyreofteLSyC,NA1,[]2,adteUmFeCeNA1,[]2,apdbyteNlFePnAnadasadbytesebdoffecadrdbyteglctpttoRA1.Tepsofayornlc,mc,orsdrdtownaceldintsdnslbeidintesefecusadinaewhRA112SeBdofFeC;RtofFeDtItR.RA11irdadrdtordasf011RtofFeDtItR1Eyfedtitreogintsseslberdtotesef2mlwn10dsarteoeoftesebyteaefecford.T3sefemlslpetenyildafrtefecsfritr4NgRA2,I,tesefemlmyatrspttoRA5Awht5aloftecroftedtofsyretofedtitr6r713SeBdofFeC;I.AdRA18tordasf818I.Tesefemlm,inantotersmebyayfec9wrtesefemldsitetora,ieorcetobei0tec,c,adonofayfeorbgceogintes,byw1pyise,d,ord,orayitigtereofcnm2ortnfmamrv,admyeyeeaddewrtesewster3ofc,d,ordea.Tesefemlslheteprvdinaj4oftepetoclteaeofwstotyunani.Ayf,bgc5orreofcnme[rtnfmamrv]ogwedhrsslb6rdiytoteoeoftesefemlbytefec,adteoeoftesef7mlslietef,bgc,orreofcnmewn48hsa8rgsdr.W9v0o1h2o]
+[DELETED: R1B4N-FLVPe214NwP;SeBdofFeC;DsofteSeFeM.AdR1abyigarphVtefgnwpV.Tesefemlmyceaninfefreladmlsisattertofpyo,llceeta,orcpgorrefrtew.Aninfeslntbecdfrcnoaetoallceeta.TeinfeseslbetefsoinSC8V.Tesefemlmyatwhadctallfeceinatterofapyororc,whhsfdegllpgr,art0bsdsofuybytellfecford.Ngintssnslret1sefemltoatteinr.Tesefemlmyasaninf2totepyororcrrgteininaewhtefeseo3inSC8415NwP;SeBdofFeC;MlL;I.AdR514byigarphIVtefgnwp6V.Infeofagteadisintrdsurtss,t7eedrofteoeofplleadc,orisd,slsew8tesefem,orisd,adaetfrctlsadptlsoft9mlsyadlgbdfmteolrdofteoeadteb.Tedae0slbestatshisadoyieshinastesefemlade1draeisnyfrteistopmtrdyr.Shins2ntieplinastttmisddinRA3,etitmyiec3infrctadptlsofteb.Fraysdinttteoei4rdtohdcladetfmtedersofRA9,tesef5mlslaoberdtohdcladetfmtersofRA9616NwP;E;I.AdRA35byigarphI7tefgnwp8I.Infeofagteadiswhtrdsurtss,t9eedrofteoeofplleadc,orisd,slsew0tesefem,orisd,adaetfrctlsadptlsoft1e'bdfmteolrdofteoeadteb.Tedaetslbesta2shisadoyieshinastesefemladeedraei3nyfrteistopmtrdyr.Shinslnti4plinastttmisddinRA3,etitmyiectinf5ctadptlsofteb.Fraysdinttteoeisrdtoh6cladetfmtedersofRA9,tesefemlsla7berdtohdcladetfmtersofRA9]
+[DELETED: R1B4N-FLVPe317SeFeC;RnofA;SeBdofFeC.PttoR1,I,teglcthyrsalasrdadadbytebdoffclasofDr3,218EeD.Tsatslteet60dsarisp:My2,2eD:Jy2,2]

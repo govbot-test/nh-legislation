@@ -1,0 +1,351 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB519-FN-ASAMENDEDBYTHESENATE
+03/12/2026 1084s
+2026SESSION
+26-2075
+09/08
+519-FN
+ANACT relativetotheuseofunmannedaerialsystems.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes acivil cause of actionand acriminal penaltyfor theuse of unmanned aerial
+systems for certain purposes that violate a reasonable expectation of privacy, subject to certain
+exceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB519-FN-ASAMENDEDBYTHESENATE
+03/13/2026 1084s 26-2075
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofunmannedaerialsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Causes of Action Related to the Use of Small Unmanned Aircraft Systems.
+2 AmendRSAbyinsertingafterchapter507-Ithefollowingnewchapter:
+3 CHAPTER507-J
+4 CAUSESOFACTIONRELATEDTOTHEUSEOFSMALLUNMANNEDAIRCRAFTSYSTEMS
+5 507-J:1 Definitions. Asusedinthischapter:
+6 I. "Aircraft"means"aircraft"asitisdefinedinRSA422:3,VI.
+7 II. "Imaging device" means any technology capable of recording or transmitting images,
+8 sound,ordata.
+9 III. "Operate"means"operateaircraft"asthattermisdefinedinRSA422:3,XXII.
+10 IV. "Small unmanned aircraft" means "small unmanned aircraft" as it is defined in RSA
+11 422:3,XXVII-a.
+12 V. "Small unmanned aircraft system" means "small unmanned aircraft system" as it is
+13 definedinRSA422:3,XXVII-b.
+14 VI.(a) “Surveillance”means:
+15 (1) With respect to an owner, tenant, occupant, invitee, or licensee of privately
+16 owned real property, the intentional observation of such persons with sufficient visual clarity to be
+17 abletoobtaininformationabouttheiridentity,habits,conduct,movements,orwhereabouts;and
+18 (2) Withrespecttoprivatelyownedrealproperty,theintentionalobservationofsuch
+19 property’s physical improvements with sufficient visual clarity to be able to determine unique
+20 identifyingfeaturesoritsoccupancybyoneormorepersons.
+21 (b) "Surveillance" does not include the capture of photographs, electronic images, and
+22 associated data by a drone operator that is operating for legitimate business purposes unrelated to
+23 surveillanceinamannerconsistentwithapplicableFAArules,licenses,orexemptions.
+24 507-J:2 ProhibitiononUsetoViolatePrivacy.
+25 Neither the state, or any political subdivision thereof, nor any person, shall operate a small
+26 unmanned aircraft system that includes an imaging device to conduct surveillance over private
+27 property without written consent from the property owner, in any situation where a reasonable
+28 expectation of privacy exists. For purposes of this section, a reasonable expectation of privacy shall
+29 be presumed to exist in any location where a person cannot be observed from a public ground-level
+30 position.
+31 507-J:3 Exceptions. RSA507-J:2shallnotapplyto:
+SB519-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. Lawenforcementofficers:
+2 (a) Operatingpursuanttoavalidwarrant;
+3 (b) Acting pursuant to exigent circumstances involving imminent danger to life or the
+4 riskofdestructionofevidence;
+5 (c) Countering a high risk of a terrorist attack by a specific individual or organization if
+6 the United States Secretary of Homeland Security determines that credible intelligence indicates
+7 thatthereissucharisk;
+8 (d) Searchingforspecificallyidentifiedmissingpersons;
+9 (e) Searchingforspecificallyidentifiedstolenvehicles;and
+10 (f) Investigatingmotorvehicleaccidents.
+11 (g) Performingotherlawenforcementduties.
+12 II. InspectionsbyafiredepartmentinaccordancewiththeirresponsibilitiesoutlinedinRSA
+13 154:2,III.
+14 III. Inspections of critical infrastructure as defined in RSA 319-D:1, II, or non-utility-owned
+15 electricity generators, by or on behalf of an owner or operator of a critical infrastructure facility for
+16 thesolepurposeofmonitoring,inspecting,ormaintainingthefacility.
+17 IV. Propertyappraisalfortaxes,providedthat:
+18 (a) Each property owner shall be notified that the surveillance prohibited by RSA 507-
+19 J:2 may occur and that the property owner may opt out of that surveillance without cost or other
+20 consequence;
+21 (b) Anyimagesofidentifiablepersonsshallbeblurredassoonaspracticable;and
+22 (c) All surveillance images shall be permanently destroyed when they are no longer
+23 neededforthepurposeforwhichtheywereobtained.
+24 V. Environmental emergency assessments authorized by the department of environmental
+25 services,providedthat:
+26 (a) Anyimagesofidentifiablepersonsshallbeblurredassoonaspracticable;and
+27 (b) All surveillance images shall be permanently destroyed when they are no longer
+28 neededforthepurposeforwhichtheywereobtained.
+29 VI. Anemployeeorcontractorofaninsurancecompanywhousesasmallunmannedaircraft
+30 system solely for the purposes of underwriting, claims investigation, claims adjustment, assessment
+31 ofpropertydamageorinvestigationofinsurancefraud.
+32 VII. Railroad owners and easement holders, for the purpose of monitoring, inspecting, or
+33 maintainingtherailroad.
+34 507-J:4Remedies.
+35 I. A person alleging a violation of RSA 507-J:2 may bring an action for compensatory and
+36 punitivedamagesandinjunctiverelief.
+37 II. Anycivilremedyshallbeinadditiontoanyotherremedyavailableatlaw.
+SB519-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 III. The court mayaward reasonable attorney's fees toapersonwho successfullyestablishes
+2 aviolationofRSA507-J:2.
+3 507-J:5 Severability.
+4 If any provision of this chapter or the application thereof to any person or circumstances is held
+5 invalid, such invalidity shall not affect other provisions or applications of the chapter which can be
+6 given effect without the invalid provision or application, and to this end the provisions of this
+7 chapteraredeclaredtobeseverable.
+8 2 New Subparagraphs; Unlawful Operation or Use of a Small Unmanned Aircraft System.
+9 AmendRSA644:23,Ibyinsertingaftersubparagraph(d)thefollowingnewsubparagraphs:
+10 (e) "Imaging device" means any technology capable of recording or transmitting images,
+11 sound,ordata.
+12 (f)(1) “Surveillance”means:
+13 (A) With respect to an owner, tenant, occupant, invitee, or licensee of privately
+14 owned real property, the intentional observation of such persons with sufficient visual clarity to be
+15 abletoobtaininformationabouttheiridentity,habits,conduct,movements,orwhereabouts;and
+16 (B) With respect to privately owned real property, the intentional observation of
+17 such property’s physical improvements with sufficient visual clarity to be able to determine unique
+18 identifyingfeaturesoritsoccupancybyoneormorepersons.
+19 (2) "Surveillance" does not include the capture of photographs, electronic images,
+20 and associated data by a drone operator that is operating for legitimate business purposes unrelated
+21 tosurveillanceinamannerconsistentwithapplicableFAArules,licenses,orexemptions.
+22 3 New Paragraph; Unlawful Operation or Use of Small Unmanned Aircraft System. Amend
+23 RSA644:23byinsertingafterparagraphIVthefollowingnewparagraphs:
+24 IV-a. A person is guilty of a class B felony if such person knowingly operates a small
+25 unmanned aircraft system that includes an imaging device to conduct surveillance over private
+26 property without written consent from the property owner, in any situation where a reasonable
+27 expectation of privacy exists, in violation of RSA 507-J:2, and without being subject to an exception
+28 listedinRSA507-J:3.
+29 IV-b. A person is guilty of a class B felony if such person knowingly distributes or publishes
+30 surveillanceobtainedinviolationofparagraphIV-a.
+31 IV-c. ParagraphsIV-aandIV-bshallnotapplytoanyentityexemptunderparagraphIII.
+32 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2075
+03/16/2026
+SB519-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1084s)
+ANACT relativetotheuseofunmannedaerialsystems.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B5N-ASADBYTES616SEBNATretoteueofudals:S.R,Dt1:JDAsblesaclceofanadaclpyfrteueofudasfrcnpsttveareenofp,sttoc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretoteueofudalseitEdbyteSeadHeofRsinGlCtc1NwC;CsofAnRdtoteUeofSlUdAtSAdRAbyigarcr5ItefgnwcCR5CSOFANRDTOTEUEOFSLUDATS51D.AsudintscI.""ms""asitisddinRA4,VI."gd"msaytyceofrgortgis,ordI.""ms"ea"astttmisddinRA4,X0I."luda"ms"luda"asitisddinR14,X2V."ludats"ms"ludats"asiti3ddinRA4,X4V)“”m5()Whrttoano,t,o,i,orleofp6odrlp,teilonofshpswhstvlcytob7aetooninattri,h,c,m,orw;a8()Whrttopyodrlp,teilonofs9pspliswhstvlcytobeaetodeu0igfsorisoybyoeormep1()""dsntieteceofp,eci,a2addabyadeorttisogfrlebspsudt3seinamrctwhaeFAr,l,ore452PnonUetoVeP5Nrtes,orayplsnt,nrayp,sloeas6udatsmttisanigdetoctseorp7pywtwnctfmtepyo,inaysnwear8enofpye.Frpsoftss,areenofpys9bepdtoetinaylnweapnctbeodfmapcg0p153E.RA52slntayt]
+[DELETED: B5N-ASADBYTESPe2I.Lweto()Ogpttoavdw()Agpttoetcsigitdrtoleortrkofdnofe()CgahhrkofattakbyasciloroniteUdSsSyofHdSydsttceieittteisshar()Sgfrsyidmgp()Sgfrsyidsnv;a0()Igmrvea1()Pgorlwetd2I.IsbyafedtinaewhtrrsodinR31,I4I.IsofclieasddinRA3,I,orn5eyg,byoronbfofanorororofacliefyf6tesepeofm,i,ormgtef7I.Pyalfrt,pdt8()EhpyorslbendtttesepdbyRA59J2myoradtttepyormyototofttsewtctoro0c1()Ayisofiepsslbebdassnasp;a2()Alseisslbepyddwntyaenol3ndfrtepefrwhtyweo4V.Eleyasadbytedtofe5s,pdt6()Ayisofiepsslbebdassnasp;a7()Alseisslbepyddwntyaenol8ndfrtepefrwhtyweo9V.Aneeorcrofaniecywousasluda0smsyfrtepsofu,csi,csa,a1ofpydeorinofief2V.Rdosadeth,frtepeofm,i,o3mgter454R5I.ApnagavnofRA52mybgananfrcya6pedsadier7I.Ayclryslbeinantoayorryaeatl]
+[DELETED: B5N-ASADBYTESPe3I.TectmyadreasfstoapnwosyeavnofRA555SIfaypnoftscrorteantftoaypnorcsishi,shiyslntatorpsorasoftecrwhcnbgnetwtteidpnora,adtotsedtepsoftcraeddtobes2NwS;UlOnorUeofaSlUdAtSAdRA6,Ibyigarsh()tefgnws0()"gd"msaytyceofrgortgi1s,ord2()“”m3()Whrttoano,t,o,i,orleofp4odrlp,teilonofshpswhstvlcytob5aetooninattri,h,c,m,orw;a6()Whrttopyodrlp,teilono7shpspliswhstvlcytobeaetodeu8igfsorisoybyoeormep9()""dsntieteceofp,eci0adaddabyadeorttisogfrlebspsu1toseinamrctwhaeFAr,l,ore23NwP;UlOnorUeofSlUdAtS.A3RA63byigarphIVtefgnwp4I.ApnisgyofacsBfyifshpnkyosas5udatsmttisanigdetoctseorp6pywtwnctfmtepyo,inaysnwear7enofpye,invnofRA5,adwtbgsttoane8ldinRA59I.ApnisgyofacsBfyifshpnkydsorp0seodinvnofphI1I.PsIaadIbslntaytoayeyeturphI24EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSADBYTESE(T#NATretoteueofudalsLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB519-FN-ASAMENDEDBYTHESENATE
+03/12/2026 1084s
+2026SESSION
+26-2075
+09/08
+519-FN
+SENATEBILL
+ANACT relativetotheuseofunmannedaerialsystems.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes acivil cause of actionand acriminal penaltyfor theuse of unmanned aerial
+systems for certain purposes that violate a reasonable expectation of privacy, subject to certain
+exceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB519-FN-ASAMENDEDBYTHESENATE
+03/13/2026 1084s 26-2075
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofunmannedaerialsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Causes of Action Related to the Use of Small Unmanned Aircraft Systems.
+2 AmendRSAbyinsertingafterchapter507-Ithefollowingnewchapter:
+3 CHAPTER507-J
+4 CAUSESOFACTIONRELATEDTOTHEUSEOFSMALLUNMANNEDAIRCRAFTSYSTEMS
+5 507-J:1 Definitions. Asusedinthischapter:
+6 I. "Aircraft"means"aircraft"asitisdefinedinRSA422:3,VI.
+7 II. "Imaging device" means any technology capable of recording or transmitting images,
+8 sound,ordata.
+9 III. "Operate"means"operateaircraft"asthattermisdefinedinRSA422:3,XXII.
+10 IV. "Small unmanned aircraft" means "small unmanned aircraft" as it is defined in RSA
+11 422:3,XXVII-a.
+12 V. "Small unmanned aircraft system" means "small unmanned aircraft system" as it is
+13 definedinRSA422:3,XXVII-b.
+14 VI.(a) “Surveillance”means:
+15 (1) With respect to an owner, tenant, occupant, invitee, or licensee of privately
+16 owned real property, the intentional observation of such persons with sufficient visual clarity to be
+17 abletoobtaininformationabouttheiridentity,habits,conduct,movements,orwhereabouts;and
+18 (2) Withrespecttoprivatelyownedrealproperty,theintentionalobservationofsuch
+19 property’s physical improvements with sufficient visual clarity to be able to determine unique
+20 identifyingfeaturesoritsoccupancybyoneormorepersons.
+21 (b) "Surveillance" does not include the capture of photographs, electronic images, and
+22 associated data by a drone operator that is operating for legitimate business purposes unrelated to
+23 surveillanceinamannerconsistentwithapplicableFAArules,licenses,orexemptions.
+24 507-J:2 ProhibitiononUsetoViolatePrivacy.
+25 Neither the state, or any political subdivision thereof, nor any person, shall operate a small
+26 unmanned aircraft system that includes an imaging device to conduct surveillance over private
+27 property without written consent from the property owner, in any situation where a reasonable
+28 expectation of privacy exists. For purposes of this section, a reasonable expectation of privacy shall
+29 be presumed to exist in any location where a person cannot be observed from a public ground-level
+30 position.
+31 507-J:3 Exceptions. RSA507-J:2shallnotapplyto:
+
+SB519-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. Lawenforcementofficers:
+2 (a) Operatingpursuanttoavalidwarrant;
+3 (b) Acting pursuant to exigent circumstances involving imminent danger to life or the
+4 riskofdestructionofevidence;
+5 (c) Countering a high risk of a terrorist attack by a specific individual or organization if
+6 the United States Secretary of Homeland Security determines that credible intelligence indicates
+7 thatthereissucharisk;
+8 (d) Searchingforspecificallyidentifiedmissingpersons;
+9 (e) Searchingforspecificallyidentifiedstolenvehicles;and
+10 (f) Investigatingmotorvehicleaccidents.
+11 (g) Performingotherlawenforcementduties.
+12 II. InspectionsbyafiredepartmentinaccordancewiththeirresponsibilitiesoutlinedinRSA
+13 154:2,III.
+14 III. Inspections of critical infrastructure as defined in RSA 319-D:1, II, or non-utility-owned
+15 electricity generators, by or on behalf of an owner or operator of a critical infrastructure facility for
+16 thesolepurposeofmonitoring,inspecting,ormaintainingthefacility.
+17 IV. Propertyappraisalfortaxes,providedthat:
+18 (a) Each property owner shall be notified that the surveillance prohibited by RSA 507-
+19 J:2 may occur and that the property owner may opt out of that surveillance without cost or other
+20 consequence;
+21 (b) Anyimagesofidentifiablepersonsshallbeblurredassoonaspracticable;and
+22 (c) All surveillance images shall be permanently destroyed when they are no longer
+23 neededforthepurposeforwhichtheywereobtained.
+24 V. Environmental emergency assessments authorized by the department of environmental
+25 services,providedthat:
+26 (a) Anyimagesofidentifiablepersonsshallbeblurredassoonaspracticable;and
+27 (b) All surveillance images shall be permanently destroyed when they are no longer
+28 neededforthepurposeforwhichtheywereobtained.
+29 VI. Anemployeeorcontractorofaninsurancecompanywhousesasmallunmannedaircraft
+30 system solely for the purposes of underwriting, claims investigation, claims adjustment, assessment
+31 ofpropertydamageorinvestigationofinsurancefraud.
+32 VII. Railroad owners and easement holders, for the purpose of monitoring, inspecting, or
+33 maintainingtherailroad.
+34 507-J:4Remedies.
+35 I. A person alleging a violation of RSA 507-J:2 may bring an action for compensatory and
+36 punitivedamagesandinjunctiverelief.
+37 II. Anycivilremedyshallbeinadditiontoanyotherremedyavailableatlaw.
+
+SB519-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 III. The court mayaward reasonable attorney's fees toapersonwho successfullyestablishes
+2 aviolationofRSA507-J:2.
+3 507-J:5 Severability.
+4 If any provision of this chapter or the application thereof to any person or circumstances is held
+5 invalid, such invalidity shall not affect other provisions or applications of the chapter which can be
+6 given effect without the invalid provision or application, and to this end the provisions of this
+7 chapteraredeclaredtobeseverable.
+8 2 New Subparagraphs; Unlawful Operation or Use of a Small Unmanned Aircraft System.
+9 AmendRSA644:23,Ibyinsertingaftersubparagraph(d)thefollowingnewsubparagraphs:
+10 (e) "Imaging device" means any technology capable of recording or transmitting images,
+11 sound,ordata.
+12 (f)(1) “Surveillance”means:
+13 (A) With respect to an owner, tenant, occupant, invitee, or licensee of privately
+14 owned real property, the intentional observation of such persons with sufficient visual clarity to be
+15 abletoobtaininformationabouttheiridentity,habits,conduct,movements,orwhereabouts;and
+16 (B) With respect to privately owned real property, the intentional observation of
+17 such property’s physical improvements with sufficient visual clarity to be able to determine unique
+18 identifyingfeaturesoritsoccupancybyoneormorepersons.
+19 (2) "Surveillance" does not include the capture of photographs, electronic images,
+20 and associated data by a drone operator that is operating for legitimate business purposes unrelated
+21 tosurveillanceinamannerconsistentwithapplicableFAArules,licenses,orexemptions.
+22 3 New Paragraph; Unlawful Operation or Use of Small Unmanned Aircraft System. Amend
+23 RSA644:23byinsertingafterparagraphIVthefollowingnewparagraphs:
+24 IV-a. A person is guilty of a class B felony if such person knowingly operates a small
+25 unmanned aircraft system that includes an imaging device to conduct surveillance over private
+26 property without written consent from the property owner, in any situation where a reasonable
+27 expectation of privacy exists, in violation of RSA 507-J:2, and without being subject to an exception
+28 listedinRSA507-J:3.
+29 IV-b. A person is guilty of a class B felony if such person knowingly distributes or publishes
+30 surveillanceobtainedinviolationofparagraphIV-a.
+31 IV-c. ParagraphsIV-aandIV-bshallnotapplytoanyentityexemptunderparagraphIII.
+32 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2075
+03/16/2026
+SB519-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1084s)
+ANACT relativetotheuseofunmannedaerialsystems.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B5N-ASADBYTES616SEBNATretoteueofudals:S.R,Dt1:JDAsblesaclceofanadaclpyfrteueofudasfrcnpsttveareenofp,sttoc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretoteueofudalseitEdbyteSeadHeofRsinGlCtc1NwC;CsofAnRdtoteUeofSlUdAtSAdRAbyigarcr5ItefgnwcCR5CSOFANRDTOTEUEOFSLUDATS51D.AsudintscI.""ms""asitisddinRA4,VI."gd"msaytyceofrgortgis,ordI.""ms"ea"astttmisddinRA4,X0I."luda"ms"luda"asitisddinR14,X2V."ludats"ms"ludats"asiti3ddinRA4,X4V)“”m5()Whrttoano,t,o,i,orleofp6odrlp,teilonofshpswhstvlcytob7aetooninattri,h,c,m,orw;a8()Whrttopyodrlp,teilonofs9pspliswhstvlcytobeaetodeu0igfsorisoybyoeormep1()""dsntieteceofp,eci,a2addabyadeorttisogfrlebspsudt3seinamrctwhaeFAr,l,ore452PnonUetoVeP5Nrtes,orayplsnt,nrayp,sloeas6udatsmttisanigdetoctseorp7pywtwnctfmtepyo,inaysnwear8enofpye.Frpsoftss,areenofpys9bepdtoetinaylnweapnctbeodfmapcg0p153E.RA52slntayt]
+[DELETED: B5N-ASADBYTESPe2I.Lweto()Ogpttoavdw()Agpttoetcsigitdrtoleortrkofdnofe()CgahhrkofattakbyasciloroniteUdSsSyofHdSydsttceieittteisshar()Sgfrsyidmgp()Sgfrsyidsnv;a0()Igmrvea1()Pgorlwetd2I.IsbyafedtinaewhtrrsodinR31,I4I.IsofclieasddinRA3,I,orn5eyg,byoronbfofanorororofacliefyf6tesepeofm,i,ormgtef7I.Pyalfrt,pdt8()EhpyorslbendtttesepdbyRA59J2myoradtttepyormyototofttsewtctoro0c1()Ayisofiepsslbebdassnasp;a2()Alseisslbepyddwntyaenol3ndfrtepefrwhtyweo4V.Eleyasadbytedtofe5s,pdt6()Ayisofiepsslbebdassnasp;a7()Alseisslbepyddwntyaenol8ndfrtepefrwhtyweo9V.Aneeorcrofaniecywousasluda0smsyfrtepsofu,csi,csa,a1ofpydeorinofief2V.Rdosadeth,frtepeofm,i,o3mgter454R5I.ApnagavnofRA52mybgananfrcya6pedsadier7I.Ayclryslbeinantoayorryaeatl]
+[DELETED: B5N-ASADBYTESPe3I.TectmyadreasfstoapnwosyeavnofRA555SIfaypnoftscrorteantftoaypnorcsishi,shiyslntatorpsorasoftecrwhcnbgnetwtteidpnora,adtotsedtepsoftcraeddtobes2NwS;UlOnorUeofaSlUdAtSAdRA6,Ibyigarsh()tefgnws0()"gd"msaytyceofrgortgi1s,ord2()“”m3()Whrttoano,t,o,i,orleofp4odrlp,teilonofshpswhstvlcytob5aetooninattri,h,c,m,orw;a6()Whrttopyodrlp,teilono7shpspliswhstvlcytobeaetodeu8igfsorisoybyoeormep9()""dsntieteceofp,eci0adaddabyadeorttisogfrlebspsu1toseinamrctwhaeFAr,l,ore23NwP;UlOnorUeofSlUdAtS.A3RA63byigarphIVtefgnwp4I.ApnisgyofacsBfyifshpnkyosas5udatsmttisanigdetoctseorp6pywtwnctfmtepyo,inaysnwear7enofpye,invnofRA5,adwtbgsttoane8ldinRA59I.ApnisgyofacsBfyifshpnkydsorp0seodinvnofphI1I.PsIaadIbslntaytoayeyeturphI24EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSADBYTESE(T#NATretoteueofudalsLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

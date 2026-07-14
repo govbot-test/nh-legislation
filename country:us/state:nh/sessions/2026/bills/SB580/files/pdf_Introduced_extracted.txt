@@ -1,0 +1,520 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SB580-FN-ASINTRODUCED
+2026SESSION
+26-2273
+12/09
+580-FN
+ANACT establishingaschoolcooperativepurchasingprogram.
+SPONSORS: Sen. Sullivan, Dist 18; Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Rep. Layon,
+Rock.13
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesaschoolcooperativepurchasingprogramtoallowmultipleschooldistrictsor
+school administrative units (SAUs) the ability to enter into joint agreements for the procurement of
+specific goods and services in schools. The bill also authorizes the state board of education to place
+schoolsandSAUsintoareceivershipinlimitedcircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB580-FN-ASINTRODUCED
+26-2273
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingaschoolcooperativepurchasingprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; School Cooperative Purchasing Program. Amend RSA 21-I by inserting after
+2 section17-dthefollowingnewsection:
+3 21-I:17-e SchoolCooperativePurchasingProgram.
+4 I. The director of procurement and support services, in consultation with the department of
+5 education, shall establish and administer a cooperative purchasing program for the benefit of school
+6 districts, school administrative units (SAUs), and chartered public schools. Under this program, the
+7 division shall periodically solicit competitive bids or proposals for goods and services that represent
+8 major expenses for K–12 education, including but not limited to student transportation services,
+9 school food service management or food supplies, curriculum materials and textbooks, heating fuel,
+10 and other high-cost items commonly purchased by school districts. The solicitations may be
+11 structured to allow for regional or statewide contracts, multiple recipients, or other formats as
+12 deemedinthebestinterestofthestateandparticipatingschools.
+13 II. For each solicitation under this program, the director shall endeavor to secure favorable
+14 pricingandtermsbyleveragingtheanticipatedcombinedpurchasingvolumeofmultipleschoolsand
+15 districts. Any contract awarded as a result shall include provisions enabling any school district,
+16 SAU, or chartered public school inNew Hampshiretopurchase goods or services under thecontract.
+17 Such purchases by local education agencies shall be on the same or substantially similar terms and
+18 pricing extended to state agencies or as otherwise set forth in the contract, in accordance with the
+19 usage provisions of the contract. Participation by a school district, SAU, or charter school in any
+20 state-awarded contract under this section shall be voluntary. Nothing in this section shall compel a
+21 school or district to utilize the state contract. The decision to opt into a given state procurement
+22 contract shall rest with the governing school board of the district or the board of trustees of the
+23 charteredpublicschool,asapplicable.
+24 III. Apurchasemadebyaschooldistrict,SAU,orcharteredpublicschoolthroughacontract
+25 established under this section shall be deemed to satisfy any requirement for competitive bidding or
+26 solicitation of quotations that might otherwise apply to that purchase under law or local policy, in
+27 order to streamline procurement for participating schools by utilizing contracts that have already
+28 beencompetitivelybidbythestate. Eachparticipatingschoolordistrictshallremainresponsiblefor
+29 ensuring payment and compliance with any reporting or contractual obligations for its own
+30 purchases. The department of administrative services shall assume no liability for the performance
+31 ofanylocalentityusingthecontract,beyondadministeringthecontractitself.
+SB580-FN-ASINTRODUCED
+-Page2-
+1 IV. The commissioner of administrative services is authorized to adopt rules, pursuant to
+2 RSA541-A,asnecessarytoimplementtheprovisionsofthissection,includingproceduresforschools
+3 tojoinorleavecontracts,andguidelinesforcontractvendorsextendingpricingtonon-stateentities.
+4 2 New Section; Cooperative School Purchasing Agreements. Amend RSA 194 by inserting after
+5 section3:ethefollowingnewsection:
+6 194:3-f CooperativeSchoolPurchasingAgreements.
+7 I. In order to combine purchasing power and achieve cost savings or administrative
+8 efficiencies in the acquisition of products or services used by the participating schools, two or more
+9 school districts may enter into an agreement to jointly procure specific goods or services for their
+10 schools. Such cooperative purchasing agreements may also include one or more school
+11 administrative units (SAUs) acting on behalf of their component districts. Chartered public schools
+12 as defined in RSA 194-B:1 may likewise participate in cooperative purchasing agreements with one
+13 ormoreschooldistrictsorSAUs.
+14 II. A cooperative purchasing agreement under this section shall be in writing and shall be
+15 approved by the school board of each participating school district and the board of trustees of any
+16 participating chartered public school. The agreement may provide for joint solicitation of bids or
+17 proposals, the award and management of shared contracts, and any necessary arrangements for one
+18 district or a joint committee to act as the lead purchasing agent for the group. The agreement shall
+19 specifyatminimumthefollowing:
+20 (a) Thedurationoftheagreement;
+21 (b) The identity of a lead agency or fiscal agent, if any, and the organizational structure
+22 foradministeringthejointpurchases;
+23 (c) Thecategoriesofgoodsorservicestobeprocuredjointly;
+24 (d) The method by which participating entities will approve and fund their respective
+25 purchases;and
+26 (e) Theprocessforadistrictorschooltowithdrawfromtheagreement.
+27 III. A cooperative purchasing agreement under this section shall also be structured
+28 pursuant to the requirements of RSA 53-A:3, II to the extent applicable. Any separate legal or
+29 administrative entity or joint committee created to manage purchasing efforts shall have
+30 representation from each participating district or school, and its authority shall be limited to the
+31 purposesdefinedintheagreement.
+32 IV. All competitive bidding or quotation processes conducted pursuant to a cooperative
+33 purchasing agreement shall adhere to the same standards required of an individual school district
+34 under statelaw. Byenteringajoint procurement, aschool district does not relinquishany oversight
+35 of the expenditure of its funds; rather, the districts are exercising their power jointly for greater
+36 efficiency. An agreement under this section may, but is not required to, be submitted for review to
+37 the New Hampshire attorney general under RSA 53-A:3, V, as an inter-municipal agreement. If not
+SB580-FN-ASINTRODUCED
+-Page3-
+1 formallyreviewedunderRSA53-A,theparticipatingentitiesshallensuretheagreementremainson
+2 file with each district and available for public inspection, and that all transactions are accounted for
+3 ineachdistrict’srecordsinaccordancewithdepartmentofeducationfinancialreportingguidelines.
+4 V. In order to preserve local control, nothing in this section shall be construed to mandate
+5 participationbyanyschooldistrict,SAU,orcharterschoolinacooperativepurchasingarrangement.
+6 Participation is at the sole discretion of each local school board or charter school board. Likewise, a
+7 participating district or school may separately procure any goods or services on its own if it chooses,
+8 regardlessoftheexistenceofajointcontract,tomeeteducationalneedsorpolicypreferences.
+9 VI. This section shall be interpreted to facilitate cooperative efforts consistent with RSA 53-
+10 A and other applicable laws. It does not supersede the authority of school districts under RSA 194:3
+11 or other statutes, but rather provides an additional option for how those powers may be exercised
+12 jointly. All other laws concerning public purchases, conflicts of interest, and the prudent use of
+13 taxpayerfundscontinuetoapplytoanypurchasingdoneunderacooperativeagreement.
+14 3 Rulemaking;DutiesofSchoolBoards. AmendRSA21-N:9,II(b)toreadasfollows:
+15 (b) Thedutiesofschoolboards,including,butnotlimitedto:
+16 (1) Policies relative to the recruitment, employment, evaluation and
+17 dismissalofteachersandotheremployees;
+18 (2) Policiesrelativetothepurchaseofequipment,supplies,orservices;
+19 (3) Therequirementtoprovidetransportationofstudents;
+20 (4) Thepreparationofanannualbudget;
+21 (5) Policies relative to training all school members on fiduciary
+22 responsibility;
+23 (6) The holding of meetings for transaction of business at least once in 2
+24 monthsandrequiringtheattendanceofthesuperintendentordesignee;
+25 (7) The implementation of educational programs in consultation with the
+26 superintendent that support the development of long-term plans and identification of
+27 attainableshort-termobjectives;
+28 (8) The exercising of all powers and performance of all duties vested in and
+29 imposedupontheschoolboardbylaworrulesofthestateboard;
+30 (9) The adoption of rules to ensure that there shall be no unlawful
+31 discrimination on the basis of sex, race, age, creed, color, marital status, national origin,
+32 or disability in educational programs or activities consistent with local standards which
+33 maybestricterinspecificareasthanthebroaderstatewidestandards;
+34 (10) The establishment of a policy on sexual harassment, written in age
+35 appropriate language and published and available in written form to all those who must
+36 complywhichincludes,ataminimum:
+SB580-FN-ASINTRODUCED
+-Page4-
+1 (A) A statement that sexual harassment is against the law and against
+2 schooldistrictpolicy;
+3 (B) A definition of sexual harassment with examples of actions that
+4 mightconstitutesexualharassment;
+5 (C) The names and roles of all persons involved in implementing the
+6 procedures;
+7 (D) A description of the process so all parties know what to expect,
+8 includingtimeframesanddeadlinesforinvestigationandresolutionofcomplaints;
+9 (E) A prohibition against retaliation toward anyone involved in a
+10 complaint;
+11 (F) Adescriptionofpossiblepenaltiesincludingtermination;
+12 (G) A requirement that a written factual report be produced regardless
+13 oftheoutcomeoftheinvestigation;
+14 (H) Atleastonelevelofappealoftheinvestigatorsrecommendation;and
+15 (I) A clear statement that someone can bypass the internal process and
+16 proceed directly to the New Hampshire commission on human rights, with address and
+17 phonenumber,orofficeofcivilrights,withaddressandphonenumber;
+18 (11) The annual evaluation of the superintendent based on written criteria
+19 establishedbytheschoolboard/schooladministrativeunitboard;and
+20 (12) The adoption of a teacher performance evaluation system, with the
+21 involvement of teachers and principals, for use in the school district, pursuant to RSA
+22 189:1-a,III.
+23 4 New Section; State Board of Education; Receivership of Schools and School Administrative
+24 Units. AmendRSA186byinsertingaftersection8thefollowingnewsection:
+25 186:8-a ReceivershipofSchoolsandSchoolAdministrativeUnits.
+26 I. The state board of education may place into a receivership any school or school
+27 administrativeunit(SAU)forthepurposesofinterveninginthedevelopmentormonitoringof:
+28 (a) Schoolimprovementplans;
+29 (b) Changesinstaffing;
+30 (c) Theclosureofaschool;
+31 (d) Implementationoffinancialincentivesorinterventions;
+32 (e) Reformingtheday-to-dayoperationsoftheschoolorSAU;or
+33 (f) Changesrelatedtotheentitythatgovernsoroperatestheschool.
+34 II. Upon a school or SAU being placed into a receivership pursuant to paragraph I, the
+35 administrative body of said school or SAU shall develop a turnaround plan for the school or SAU in
+36 cooperationwiththestateboardofeducation.
+SB580-FN-ASINTRODUCED
+-Page5-
+1 III. The chairperson of the state board of education shall designate a receiver to be
+2 principally involved in the implementation of the turnaround plan described in paragraph II. A
+3 receiver shall not have a financial interest in or any affiliation with the school or SAU that is the
+4 subjectofthereceivership.
+5 5 New Paragraph; State Board of Education; Rulemaking Authority; Receivership of Schools
+6 andSAUs. AmendRSA186:8byinsertingafterparagraphIXthefollowingnewparagraph:
+7 X. The placement of schools and SAUs into a receivership and the development of
+8 turnaroundplansasstatedinRSA186:8-a.
+9 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2273
+Revised12/30/25
+SB580-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingaschoolcooperativepurchasingprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+The Office of Legislative Budget Assistant is unable to provide a complete fiscal note for this bill
+as it is awaiting information from the Department of Education. The Department was initially
+contacted on 11/14/25 for a fiscal note worksheet, with follow-up contact made on 12/22/25.
+Whencompleted,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+METHODOLOGY:
+This bill directs the Director of Procurement and Support Services, in consultation with the
+Department of Education to establish the School Cooperative Purchasing Program, which
+enables school districts, school administrative units (SAUs), and chartered public schools to
+collaborate in the procurement of goods and services such as student transportation services,
+school food service management or food supplies, curriculum materials and textbooks, heating
+fuel, and other high-cost items commonly purchased in order to achieve cost savings and
+administrative efficiency. Additionally, the bill authorizes the State Board of Education to place
+a school or SAU into receivership in cases of significant operational or performance issues,
+including financial mismanagement or persistent under performance. Under receivership, the
+state would assist in developing a turnaround plan and appoint a receiver to oversee its
+implementation. Participation in the cooperative purchasing program remains voluntary, and
+localschoolboardsretainfullauthorityovertheirprocurementdecisions.
+The Department of Administrative Services (DAS) indicates that this bill could lead to an
+indeterminable increase in state expenditures, as it may strain existing staff resources within
+the Division of Procurement and Support Services. The extent of the impact cannot be
+determined at this time, since it is unknown which schools would choose to enter into
+agreementsorhowfrequentlysuchneedswouldarise.
+Additionally, DAS states that the bill overlooks current actions of the Division of Procurement
+and Support Services which already has applicable contracts established and managed by DAS
+containingaccessforeligibleparticipants. Theprovisionallowsthefollowingparticipants:
+Eligible Participants: Political subdivisions (counties, cities, towns, school districts, special
+district or precinct, or any other governmental organization), or any nonprofit agency under the
+provisions of section 501c of the federal internal revenue code, are eligible to participate under
+this contract whenever said sub-division or nonprofit agency so desires. These entities are
+autonomous and may participate at their sole discretion. In doing so, they are entitled to the
+prices established under the contract. However, they are solely responsible for their association
+with the successful Vendor. The State of New Hampshire assumes no liability between the
+successfulVendorandanyoftheseentities.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServicesandDepartmentofEducation
+[DELETED: B5N-ASI6SEBNATegaslcepgp:S.S,Dt1;S.M,Dt1;S.P,Dt1;R.L.1:Esblesaslcepgpmtoawmesldsolaeus()teaytoeriojtasfrteptocgsadssins.TeblaoastesebdofentopsadSsioarpinldc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATegaslcepgpeitEdbyteSeadHeofRsinGlCtc1NwS;SlCePgP.AdRA2Ibyigasn1dtefgnws2eSlCePgPI.Tedrofptadsts,incnwhtedtoe,slehadaracepgpmfrtebtofsd,slaeus(,adcdpcs.Urtsp,tdnslpystcebsorpsfrgsadssttrmresfrK2e,igbtntldtosttnsslfdsemtorfds,cmmsadt,hgf0adorhtiscypdbysld.Tessmyb1sdtoawfrrlorsec,mer,ororfsa2ddintebtitofteseadpgs3I.Frehsnurtsp,tedrslertosef4pgadtsbylgteadcdpgveofmessa5d.Ayctadasartsliepsegaysld6S,orcdpcslinNwHetopegsorssurtec7Shpsbyllenasslbeonteseorsysrtsa8pgedtoseasorasoestfhintec,inaewht9uepsoftec.Pnbyasld,S,orcrslina0sdcturtssnslbev.Ngintssnslcl1slordttouetesec.Tedntootioagnsep2ctslrtwhteggslbdoftedtortebdoftsoft3cdpcs,asa4I.Apemebyasld,S,orcdpcslthac5edurtssnslbeddtosyayrtfrcebgo6snofqsttmtoeaytottpeurlworllp,i7ortoseptfrpgssbyugcstthea8bncybdbytes.Ehpgslordtslrnref9egptadcewhayrgorclosfriso0p.Tedtofaessslaenolyfrtep1ofaylleyugtec,bdagtecti]
+[DELETED: B5N-ASIPe2I.Tecrofaessisadtoatr,pttRA5,asnytoittepsoftss,igpsfrstojnorlec,adgsfrctvsegpgtonee2NwS;CeSlPgA.AdRA14byigasn3etefgnws1fCeSlPgAI.Inortocepgpradaectssoraesinteanofpsorssudbytepgs,toormsldsmyerioanattojypescgsorssfrt0s.Shcepgasmyaoieoeormes1aeus()agonbfoftrctd.Cdpcs2asddinRA11mylepeincepgaswho3ormesldsorS4I.Acepgaturtssnslbeinwgadslb5adbyteslbdofehpgsldtadtebdoftsofa6pgcdpcs.Teatmypefrjtsnofbso7p,teadadmtofsdc,adaynyasfro8dtorajtcetoatasteldpgatfrteg.Teats9syatmmtef0()Tednoftea1()Teiyofaldayorfla,ifa,adteols2fragtejtp3()Tecsofgsorsstobepdj4()Temdbywhpgeswlaeadfdtrr5p;a6()Tepsfradtorsltowwfmtea7I.Acepgaturtssnslaobes8pttotersofRA5,IItoteeta.Aysello9aeeyorjtcecdtomepgesslh0rnfmehpgdtors,adisayslbeldtot1psddintea2I.Alcebgorqnpscdpttoac3pgatslaetotesessrdofanilsld4ursel.Byegajtp,asldtdsntrhayo5ofteeeofisf;r,tedsaeegtrprjyfrg6e.Anaturtssnm,btisntrdt,besdfrrwt7teNwHeayglurRA5,V,asanila.Ifn]
+[DELETED: B5N-ASIPe3fyrdurRA5,tepgessleeteatrsofewhehdtadaefrpci,adttaltsaeadfinehdsrsinaewhdtofenflrggV.Inortopellc,ngintssnslbecdtompnbyaysld,S,orcrslinacepgaPnisattesednofehllslbdorcrslb.L,pgdtorslmysypeaygsorssonisonifitcrsofteeeofajtc,tomtelnsorpypV.TssnslbeidtofeceesctwhRA50Aadorael.ItdsntseteayofsldsurRA11orors,btrrpsanalonfrhwtepsmybee2j.Alorlscgpcp,csofi,adteptueo3trfscetoaytoaypgdeuracea43R;DsofSlB.AdRA2,I)tordasf5()Tedsofslb,i,btntldt6()Psretoter,e,ena7dloftsadore8()Psretotepeofe,s,ors9()Terttopetnofs0()Tepnofanalb1()Psretotgalslmsonf2r3()Tehgofmsfrtnofbsatltoein4msadrgteaeoftestord5()Teinofelpsincnwht6stttsttedtoflmpsadino7aesmo8()Teegofalpsadpeofaldsvdina9idunteslbdbylworrsofteseb0()Teanofrstoeettteslbenou1dnontebsofs,r,a,c,c,mls,nlo2ordyinelpsorasctwhllssw3mybesrinscastntebrses4()Teetofapyonslh,wnina5aeleadpdadaeinwnfmtoaltewom6cywhi,atam]
+[DELETED: B5N-ASIPe4()Astttslhtisattelwadasldtp()Adnofslhtwhesofastmtceslh()Tensadrsofalpsidinigtp()Adnoftepssoalpskwwttoeigtefsaddsfrinadrnofc()Apnatrntdaeidin0c1()Adnofpepsigt2()Artttawnflrtbepdr3ofteoeoftei4()Atltoellofalofteisr;a5()Acrstttsecnbsteilpsa6pddytoteNwHecnonhnr,whasa7pen,oroeofclr,whasadpen8()Tealenoftestbdonwnc9edbyteslblaeutb;a0()Teanofatrpeens,wht1itoftsadp,frueintesld,pttoR21,I34NwS;SeBdofE;RpofSsadSlA4U.AdRA16byigarsn8tefgnws51aRpofSsadSlAeU6I.Tesebdofenmypeioarpayslors7aeut()frtepsofigintedtormgo8()Slitp9()Csins0()Teceofas1()Inofflisori2()RgtedyosofteslorS;o3()Csrdtoteeyttgsorostes4I.UnaslorSUbgpdioarppttophI,t5aebyofsdslorSUsldpatdpnfrteslorSUi6cnwhtesebdofe]
+[DELETED: B5N-ASIPe5I.TecnoftesebdofensldearrtobpyidinteinoftetdpnddinphI.rrslntheaflitinorayanwhteslorSUttiststofter5NwP;SeBdofE;RgA;RpofSadS.AdRA18byigarphIXtefgnwpX.TeptofssadSsioarpadtedtotdpsassdinRA16EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATegaslcepgpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IlR0$0$0$lE0IeOeofLeBtAtisuetopeaceflnefrtsbsitisaginfmteDtofE.TeDtwsidon15fraflnew,whfpctmeon1nc,teflnewlbefdtoteHeCsOsbldsteDrofPtadStS,incnwhttofEntoehteSlCePgP,wssld,slaeus(,adcdpcssteinteptofgsadssshassttnslfdsemtorfds,cmmsadt,h,adorhtiscypdinortoaectssaee.A,teblasteSeBdofEntop]
+[DELETED: slorSUiorpincsofstolorpeigflmtorpturp.Urr,tewdatindgatdpnadatarrtooei.Pnintecepgpmrsv,alslbsrnflayortrptdeDtofAeSs()istttsblcdldtoaeieinsee,asitmysnegsfrsweDnofPtadStS.Teetofteitctbdattst,seitisunwhsswdcetoerisorhwfyshnswda,DSssttteblosctasofteDnofPdStSswhayhsaecsedadmdbyDgasfreep.TepnastefgpeP:Plss(,c,t,sld,storp,orayorglo,orayntayurtsofsn5cofteflilrec,aeeetopeusctwrsdsnorntaysod.Teesasadmypeattrsed.Indgs,tyaeedtotsedurtec.H,tyaesyrefrtrahteslV.TeSeofNwHeasnolybntlVradayofteeSCtofAeSsadDtofE]
+
+
+================================================================================
+
+Raw Text:
+SB580-FN-ASINTRODUCED
+2026SESSION
+26-2273
+12/09
+580-FN
+SENATEBILL
+ANACT establishingaschoolcooperativepurchasingprogram.
+SPONSORS: Sen. Sullivan, Dist 18; Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Rep. Layon,
+Rock.13
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesaschoolcooperativepurchasingprogramtoallowmultipleschooldistrictsor
+school administrative units (SAUs) the ability to enter into joint agreements for the procurement of
+specific goods and services in schools. The bill also authorizes the state board of education to place
+schoolsandSAUsintoareceivershipinlimitedcircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB580-FN-ASINTRODUCED
+26-2273
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingaschoolcooperativepurchasingprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; School Cooperative Purchasing Program. Amend RSA 21-I by inserting after
+2 section17-dthefollowingnewsection:
+3 21-I:17-e SchoolCooperativePurchasingProgram.
+4 I. The director of procurement and support services, in consultation with the department of
+5 education, shall establish and administer a cooperative purchasing program for the benefit of school
+6 districts, school administrative units (SAUs), and chartered public schools. Under this program, the
+7 division shall periodically solicit competitive bids or proposals for goods and services that represent
+8 major expenses for K–12 education, including but not limited to student transportation services,
+9 school food service management or food supplies, curriculum materials and textbooks, heating fuel,
+10 and other high-cost items commonly purchased by school districts. The solicitations may be
+11 structured to allow for regional or statewide contracts, multiple recipients, or other formats as
+12 deemedinthebestinterestofthestateandparticipatingschools.
+13 II. For each solicitation under this program, the director shall endeavor to secure favorable
+14 pricingandtermsbyleveragingtheanticipatedcombinedpurchasingvolumeofmultipleschoolsand
+15 districts. Any contract awarded as a result shall include provisions enabling any school district,
+16 SAU, or chartered public school inNew Hampshiretopurchase goods or services under thecontract.
+17 Such purchases by local education agencies shall be on the same or substantially similar terms and
+18 pricing extended to state agencies or as otherwise set forth in the contract, in accordance with the
+19 usage provisions of the contract. Participation by a school district, SAU, or charter school in any
+20 state-awarded contract under this section shall be voluntary. Nothing in this section shall compel a
+21 school or district to utilize the state contract. The decision to opt into a given state procurement
+22 contract shall rest with the governing school board of the district or the board of trustees of the
+23 charteredpublicschool,asapplicable.
+24 III. Apurchasemadebyaschooldistrict,SAU,orcharteredpublicschoolthroughacontract
+25 established under this section shall be deemed to satisfy any requirement for competitive bidding or
+26 solicitation of quotations that might otherwise apply to that purchase under law or local policy, in
+27 order to streamline procurement for participating schools by utilizing contracts that have already
+28 beencompetitivelybidbythestate. Eachparticipatingschoolordistrictshallremainresponsiblefor
+29 ensuring payment and compliance with any reporting or contractual obligations for its own
+30 purchases. The department of administrative services shall assume no liability for the performance
+31 ofanylocalentityusingthecontract,beyondadministeringthecontractitself.
+
+SB580-FN-ASINTRODUCED
+-Page2-
+1 IV. The commissioner of administrative services is authorized to adopt rules, pursuant to
+2 RSA541-A,asnecessarytoimplementtheprovisionsofthissection,includingproceduresforschools
+3 tojoinorleavecontracts,andguidelinesforcontractvendorsextendingpricingtonon-stateentities.
+4 2 New Section; Cooperative School Purchasing Agreements. Amend RSA 194 by inserting after
+5 section3:ethefollowingnewsection:
+6 194:3-f CooperativeSchoolPurchasingAgreements.
+7 I. In order to combine purchasing power and achieve cost savings or administrative
+8 efficiencies in the acquisition of products or services used by the participating schools, two or more
+9 school districts may enter into an agreement to jointly procure specific goods or services for their
+10 schools. Such cooperative purchasing agreements may also include one or more school
+11 administrative units (SAUs) acting on behalf of their component districts. Chartered public schools
+12 as defined in RSA 194-B:1 may likewise participate in cooperative purchasing agreements with one
+13 ormoreschooldistrictsorSAUs.
+14 II. A cooperative purchasing agreement under this section shall be in writing and shall be
+15 approved by the school board of each participating school district and the board of trustees of any
+16 participating chartered public school. The agreement may provide for joint solicitation of bids or
+17 proposals, the award and management of shared contracts, and any necessary arrangements for one
+18 district or a joint committee to act as the lead purchasing agent for the group. The agreement shall
+19 specifyatminimumthefollowing:
+20 (a) Thedurationoftheagreement;
+21 (b) The identity of a lead agency or fiscal agent, if any, and the organizational structure
+22 foradministeringthejointpurchases;
+23 (c) Thecategoriesofgoodsorservicestobeprocuredjointly;
+24 (d) The method by which participating entities will approve and fund their respective
+25 purchases;and
+26 (e) Theprocessforadistrictorschooltowithdrawfromtheagreement.
+27 III. A cooperative purchasing agreement under this section shall also be structured
+28 pursuant to the requirements of RSA 53-A:3, II to the extent applicable. Any separate legal or
+29 administrative entity or joint committee created to manage purchasing efforts shall have
+30 representation from each participating district or school, and its authority shall be limited to the
+31 purposesdefinedintheagreement.
+32 IV. All competitive bidding or quotation processes conducted pursuant to a cooperative
+33 purchasing agreement shall adhere to the same standards required of an individual school district
+34 under statelaw. Byenteringajoint procurement, aschool district does not relinquishany oversight
+35 of the expenditure of its funds; rather, the districts are exercising their power jointly for greater
+36 efficiency. An agreement under this section may, but is not required to, be submitted for review to
+37 the New Hampshire attorney general under RSA 53-A:3, V, as an inter-municipal agreement. If not
+
+SB580-FN-ASINTRODUCED
+-Page3-
+1 formallyreviewedunderRSA53-A,theparticipatingentitiesshallensuretheagreementremainson
+2 file with each district and available for public inspection, and that all transactions are accounted for
+3 ineachdistrict’srecordsinaccordancewithdepartmentofeducationfinancialreportingguidelines.
+4 V. In order to preserve local control, nothing in this section shall be construed to mandate
+5 participationbyanyschooldistrict,SAU,orcharterschoolinacooperativepurchasingarrangement.
+6 Participation is at the sole discretion of each local school board or charter school board. Likewise, a
+7 participating district or school may separately procure any goods or services on its own if it chooses,
+8 regardlessoftheexistenceofajointcontract,tomeeteducationalneedsorpolicypreferences.
+9 VI. This section shall be interpreted to facilitate cooperative efforts consistent with RSA 53-
+10 A and other applicable laws. It does not supersede the authority of school districts under RSA 194:3
+11 or other statutes, but rather provides an additional option for how those powers may be exercised
+12 jointly. All other laws concerning public purchases, conflicts of interest, and the prudent use of
+13 taxpayerfundscontinuetoapplytoanypurchasingdoneunderacooperativeagreement.
+14 3 Rulemaking;DutiesofSchoolBoards. AmendRSA21-N:9,II(b)toreadasfollows:
+15 (b) Thedutiesofschoolboards,including,butnotlimitedto:
+16 (1) Policies relative to the recruitment, employment, evaluation and
+17 dismissalofteachersandotheremployees;
+18 (2) Policiesrelativetothepurchaseofequipment,supplies,orservices;
+19 (3) Therequirementtoprovidetransportationofstudents;
+20 (4) Thepreparationofanannualbudget;
+21 (5) Policies relative to training all school members on fiduciary
+22 responsibility;
+23 (6) The holding of meetings for transaction of business at least once in 2
+24 monthsandrequiringtheattendanceofthesuperintendentordesignee;
+25 (7) The implementation of educational programs in consultation with the
+26 superintendent that support the development of long-term plans and identification of
+27 attainableshort-termobjectives;
+28 (8) The exercising of all powers and performance of all duties vested in and
+29 imposedupontheschoolboardbylaworrulesofthestateboard;
+30 (9) The adoption of rules to ensure that there shall be no unlawful
+31 discrimination on the basis of sex, race, age, creed, color, marital status, national origin,
+32 or disability in educational programs or activities consistent with local standards which
+33 maybestricterinspecificareasthanthebroaderstatewidestandards;
+34 (10) The establishment of a policy on sexual harassment, written in age
+35 appropriate language and published and available in written form to all those who must
+36 complywhichincludes,ataminimum:
+
+SB580-FN-ASINTRODUCED
+-Page4-
+1 (A) A statement that sexual harassment is against the law and against
+2 schooldistrictpolicy;
+3 (B) A definition of sexual harassment with examples of actions that
+4 mightconstitutesexualharassment;
+5 (C) The names and roles of all persons involved in implementing the
+6 procedures;
+7 (D) A description of the process so all parties know what to expect,
+8 includingtimeframesanddeadlinesforinvestigationandresolutionofcomplaints;
+9 (E) A prohibition against retaliation toward anyone involved in a
+10 complaint;
+11 (F) Adescriptionofpossiblepenaltiesincludingtermination;
+12 (G) A requirement that a written factual report be produced regardless
+13 oftheoutcomeoftheinvestigation;
+14 (H) Atleastonelevelofappealoftheinvestigatorsrecommendation;and
+15 (I) A clear statement that someone can bypass the internal process and
+16 proceed directly to the New Hampshire commission on human rights, with address and
+17 phonenumber,orofficeofcivilrights,withaddressandphonenumber;
+18 (11) The annual evaluation of the superintendent based on written criteria
+19 establishedbytheschoolboard/schooladministrativeunitboard;and
+20 (12) The adoption of a teacher performance evaluation system, with the
+21 involvement of teachers and principals, for use in the school district, pursuant to RSA
+22 189:1-a,III.
+23 4 New Section; State Board of Education; Receivership of Schools and School Administrative
+24 Units. AmendRSA186byinsertingaftersection8thefollowingnewsection:
+25 186:8-a ReceivershipofSchoolsandSchoolAdministrativeUnits.
+26 I. The state board of education may place into a receivership any school or school
+27 administrativeunit(SAU)forthepurposesofinterveninginthedevelopmentormonitoringof:
+28 (a) Schoolimprovementplans;
+29 (b) Changesinstaffing;
+30 (c) Theclosureofaschool;
+31 (d) Implementationoffinancialincentivesorinterventions;
+32 (e) Reformingtheday-to-dayoperationsoftheschoolorSAU;or
+33 (f) Changesrelatedtotheentitythatgovernsoroperatestheschool.
+34 II. Upon a school or SAU being placed into a receivership pursuant to paragraph I, the
+35 administrative body of said school or SAU shall develop a turnaround plan for the school or SAU in
+36 cooperationwiththestateboardofeducation.
+
+SB580-FN-ASINTRODUCED
+-Page5-
+1 III. The chairperson of the state board of education shall designate a receiver to be
+2 principally involved in the implementation of the turnaround plan described in paragraph II. A
+3 receiver shall not have a financial interest in or any affiliation with the school or SAU that is the
+4 subjectofthereceivership.
+5 5 New Paragraph; State Board of Education; Rulemaking Authority; Receivership of Schools
+6 andSAUs. AmendRSA186:8byinsertingafterparagraphIXthefollowingnewparagraph:
+7 X. The placement of schools and SAUs into a receivership and the development of
+8 turnaroundplansasstatedinRSA186:8-a.
+9 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2273
+Revised12/30/25
+SB580-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingaschoolcooperativepurchasingprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+The Office of Legislative Budget Assistant is unable to provide a complete fiscal note for this bill
+as it is awaiting information from the Department of Education. The Department was initially
+contacted on 11/14/25 for a fiscal note worksheet, with follow-up contact made on 12/22/25.
+Whencompleted,thefiscalnotewillbeforwardedtotheHouseClerk'sOffice.
+METHODOLOGY:
+This bill directs the Director of Procurement and Support Services, in consultation with the
+Department of Education to establish the School Cooperative Purchasing Program, which
+enables school districts, school administrative units (SAUs), and chartered public schools to
+collaborate in the procurement of goods and services such as student transportation services,
+school food service management or food supplies, curriculum materials and textbooks, heating
+fuel, and other high-cost items commonly purchased in order to achieve cost savings and
+administrative efficiency. Additionally, the bill authorizes the State Board of Education to place
+
+a school or SAU into receivership in cases of significant operational or performance issues,
+including financial mismanagement or persistent under performance. Under receivership, the
+state would assist in developing a turnaround plan and appoint a receiver to oversee its
+implementation. Participation in the cooperative purchasing program remains voluntary, and
+localschoolboardsretainfullauthorityovertheirprocurementdecisions.
+The Department of Administrative Services (DAS) indicates that this bill could lead to an
+indeterminable increase in state expenditures, as it may strain existing staff resources within
+the Division of Procurement and Support Services. The extent of the impact cannot be
+determined at this time, since it is unknown which schools would choose to enter into
+agreementsorhowfrequentlysuchneedswouldarise.
+Additionally, DAS states that the bill overlooks current actions of the Division of Procurement
+and Support Services which already has applicable contracts established and managed by DAS
+containingaccessforeligibleparticipants. Theprovisionallowsthefollowingparticipants:
+Eligible Participants: Political subdivisions (counties, cities, towns, school districts, special
+district or precinct, or any other governmental organization), or any nonprofit agency under the
+provisions of section 501c of the federal internal revenue code, are eligible to participate under
+this contract whenever said sub-division or nonprofit agency so desires. These entities are
+autonomous and may participate at their sole discretion. In doing so, they are entitled to the
+prices established under the contract. However, they are solely responsible for their association
+with the successful Vendor. The State of New Hampshire assumes no liability between the
+successfulVendorandanyoftheseentities.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServicesandDepartmentofEducation
+
+[DELETED: B5N-ASI6SEBNATegaslcepgp:S.S,Dt1;S.M,Dt1;S.P,Dt1;R.L.1:Esblesaslcepgpmtoawmesldsolaeus()teaytoeriojtasfrteptocgsadssins.TeblaoastesebdofentopsadSsioarpinldc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATegaslcepgpeitEdbyteSeadHeofRsinGlCtc1NwS;SlCePgP.AdRA2Ibyigasn1dtefgnws2eSlCePgPI.Tedrofptadsts,incnwhtedtoe,slehadaracepgpmfrtebtofsd,slaeus(,adcdpcs.Urtsp,tdnslpystcebsorpsfrgsadssttrmresfrK2e,igbtntldtosttnsslfdsemtorfds,cmmsadt,hgf0adorhtiscypdbysld.Tessmyb1sdtoawfrrlorsec,mer,ororfsa2ddintebtitofteseadpgs3I.Frehsnurtsp,tedrslertosef4pgadtsbylgteadcdpgveofmessa5d.Ayctadasartsliepsegaysld6S,orcdpcslinNwHetopegsorssurtec7Shpsbyllenasslbeonteseorsysrtsa8pgedtoseasorasoestfhintec,inaewht9uepsoftec.Pnbyasld,S,orcrslina0sdcturtssnslbev.Ngintssnslcl1slordttouetesec.Tedntootioagnsep2ctslrtwhteggslbdoftedtortebdoftsoft3cdpcs,asa4I.Apemebyasld,S,orcdpcslthac5edurtssnslbeddtosyayrtfrcebgo6snofqsttmtoeaytottpeurlworllp,i7ortoseptfrpgssbyugcstthea8bncybdbytes.Ehpgslordtslrnref9egptadcewhayrgorclosfriso0p.Tedtofaessslaenolyfrtep1ofaylleyugtec,bdagtecti]
+[DELETED: B5N-ASIPe2I.Tecrofaessisadtoatr,pttRA5,asnytoittepsoftss,igpsfrstojnorlec,adgsfrctvsegpgtonee2NwS;CeSlPgA.AdRA14byigasn3etefgnws1fCeSlPgAI.Inortocepgpradaectssoraesinteanofpsorssudbytepgs,toormsldsmyerioanattojypescgsorssfrt0s.Shcepgasmyaoieoeormes1aeus()agonbfoftrctd.Cdpcs2asddinRA11mylepeincepgaswho3ormesldsorS4I.Acepgaturtssnslbeinwgadslb5adbyteslbdofehpgsldtadtebdoftsofa6pgcdpcs.Teatmypefrjtsnofbso7p,teadadmtofsdc,adaynyasfro8dtorajtcetoatasteldpgatfrteg.Teats9syatmmtef0()Tednoftea1()Teiyofaldayorfla,ifa,adteols2fragtejtp3()Tecsofgsorsstobepdj4()Temdbywhpgeswlaeadfdtrr5p;a6()Tepsfradtorsltowwfmtea7I.Acepgaturtssnslaobes8pttotersofRA5,IItoteeta.Aysello9aeeyorjtcecdtomepgesslh0rnfmehpgdtors,adisayslbeldtot1psddintea2I.Alcebgorqnpscdpttoac3pgatslaetotesessrdofanilsld4ursel.Byegajtp,asldtdsntrhayo5ofteeeofisf;r,tedsaeegtrprjyfrg6e.Anaturtssnm,btisntrdt,besdfrrwt7teNwHeayglurRA5,V,asanila.Ifn]
+[DELETED: B5N-ASIPe3fyrdurRA5,tepgessleeteatrsofewhehdtadaefrpci,adttaltsaeadfinehdsrsinaewhdtofenflrggV.Inortopellc,ngintssnslbecdtompnbyaysld,S,orcrslinacepgaPnisattesednofehllslbdorcrslb.L,pgdtorslmysypeaygsorssonisonifitcrsofteeeofajtc,tomtelnsorpypV.TssnslbeidtofeceesctwhRA50Aadorael.ItdsntseteayofsldsurRA11orors,btrrpsanalonfrhwtepsmybee2j.Alorlscgpcp,csofi,adteptueo3trfscetoaytoaypgdeuracea43R;DsofSlB.AdRA2,I)tordasf5()Tedsofslb,i,btntldt6()Psretoter,e,ena7dloftsadore8()Psretotepeofe,s,ors9()Terttopetnofs0()Tepnofanalb1()Psretotgalslmsonf2r3()Tehgofmsfrtnofbsatltoein4msadrgteaeoftestord5()Teinofelpsincnwht6stttsttedtoflmpsadino7aesmo8()Teegofalpsadpeofaldsvdina9idunteslbdbylworrsofteseb0()Teanofrstoeettteslbenou1dnontebsofs,r,a,c,c,mls,nlo2ordyinelpsorasctwhllssw3mybesrinscastntebrses4()Teetofapyonslh,wnina5aeleadpdadaeinwnfmtoaltewom6cywhi,atam]
+[DELETED: B5N-ASIPe4()Astttslhtisattelwadasldtp()Adnofslhtwhesofastmtceslh()Tensadrsofalpsidinigtp()Adnoftepssoalpskwwttoeigtefsaddsfrinadrnofc()Apnatrntdaeidin0c1()Adnofpepsigt2()Artttawnflrtbepdr3ofteoeoftei4()Atltoellofalofteisr;a5()Acrstttsecnbsteilpsa6pddytoteNwHecnonhnr,whasa7pen,oroeofclr,whasadpen8()Tealenoftestbdonwnc9edbyteslblaeutb;a0()Teanofatrpeens,wht1itoftsadp,frueintesld,pttoR21,I34NwS;SeBdofE;RpofSsadSlA4U.AdRA16byigarsn8tefgnws51aRpofSsadSlAeU6I.Tesebdofenmypeioarpayslors7aeut()frtepsofigintedtormgo8()Slitp9()Csins0()Teceofas1()Inofflisori2()RgtedyosofteslorS;o3()Csrdtoteeyttgsorostes4I.UnaslorSUbgpdioarppttophI,t5aebyofsdslorSUsldpatdpnfrteslorSUi6cnwhtesebdofe]
+[DELETED: B5N-ASIPe5I.TecnoftesebdofensldearrtobpyidinteinoftetdpnddinphI.rrslntheaflitinorayanwhteslorSUttiststofter5NwP;SeBdofE;RgA;RpofSadS.AdRA18byigarphIXtefgnwpX.TeptofssadSsioarpadtedtotdpsassdinRA16EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATegaslcepgpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IlR0$0$0$lE0IeOeofLeBtAtisuetopeaceflnefrtsbsitisaginfmteDtofE.TeDtwsidon15fraflnew,whfpctmeon1nc,teflnewlbefdtoteHeCsOsbldsteDrofPtadStS,incnwhttofEntoehteSlCePgP,wssld,slaeus(,adcdpcssteinteptofgsadssshassttnslfdsemtorfds,cmmsadt,h,adorhtiscypdinortoaectssaee.A,teblasteSeBdofEntop]
+[DELETED: slorSUiorpincsofstolorpeigflmtorpturp.Urr,tewdatindgatdpnadatarrtooei.Pnintecepgpmrsv,alslbsrnflayortrptdeDtofAeSs()istttsblcdldtoaeieinsee,asitmysnegsfrsweDnofPtadStS.Teetofteitctbdattst,seitisunwhsswdcetoerisorhwfyshnswda,DSssttteblosctasofteDnofPdStSswhayhsaecsedadmdbyDgasfreep.TepnastefgpeP:Plss(,c,t,sld,storp,orayorglo,orayntayurtsofsn5cofteflilrec,aeeetopeusctwrsdsnorntaysod.Teesasadmypeattrsed.Indgs,tyaeedtotsedurtec.H,tyaesyrefrtrahteslV.TeSeofNwHeasnolybntlVradayofteeSCtofAeSsadDtofE]

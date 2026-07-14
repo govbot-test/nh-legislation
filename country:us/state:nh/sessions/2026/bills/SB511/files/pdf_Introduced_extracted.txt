@@ -1,0 +1,224 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB511-FN-ASINTRODUCED
+2026SESSION
+26-2107
+06/09
+511-FN
+ANACT relativetostateparkfeesforstateresidents.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Innis, Dist 7; Sen. Pearl, Dist 17; Sen. Sullivan, Dist
+18;Sen.Gannon,Dist23;Sen.McGough,Dist11;Sen.Prentiss,Dist5
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Requires the commissioner of the department of natural and cultural resources to set state
+park entry fees for New Hampshire residents at no more than 50 percent of the fees charged to
+nonresidents.
+II. Allowsseparatefeeschedulesforspecificuseswithinstateparks.
+III. Permitsdiscountedorwaivedratesforveteransandschoolorstudentgroups.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB511-FN-ASINTRODUCED
+26-2107
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetostateparkfeesforstateresidents.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 State Park System; Fees for Park System; Residency. Amend RSA 216-A:3-g, I to read as
+2 follows:
+3 I. Fees for the use of park areas shall be designed to recover a reasonable portion of budget
+4 expenses consistent with the purposes of RSA 216-A:1 and 216-A:3. Provided, however, that fees
+5 charged to New Hampshire residents to enter state parks collected via a website or by a
+6 personstationedwithinthepark shall beno more than50 percentofthe entry feescharged
+7 to nonresidents. The commissioner of the departmentof natural andcultural resources, or
+8 his or her designee, may elect to set separate fee schedules for residents and nonresidents
+9 for specific uses within any state park, including camping, facility rental, parking, or boat
+10 rental, provided that where separate fee schedules are created for any given service or
+11 product, residents shall be charged no more than 90 percent of the fee charged to
+12 nonresidents. Residency may be indicated by state-issuedidentification,utility or tax bills,
+13 vehicle registrations, student identification, or vehicle license plates. The commissioner,
+14 or his or her designee, may also provide discounted or waived rates for veterans, as well as
+15 for school or student groups, in recognition of their service or educational purpose. The
+16 generalcourtdoesnotintendthatallparkfacilitiesbeself-supporting.
+17 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+LBA
+26-2107
+10/29/25
+SB511-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetostateparkfeesforstateresidents.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Indeterminable (decreaseof (decreaseof
+Revenue $0
+Under$100,000 $1.5mtoincrease $1.5mto
+of$2m) increaseof$2m
+RevenueFund(s) StateParkFund
+Indeterminable Indeterminable Indeterminable
+Increaseof Increase Increase
+Expenditures* $0
+($100,000to ($10,000to ($10,000to
+$500,000) $100,000) $100,000)
+FundingSource(s) StateParkFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Natural and Cultural Resources to establish state park
+entry fees for New Hampshire residents at no more than 50 percent of the fees charged to non-
+residents. The bill also allows the Department to create separate fee schedules for specific uses
+within state parks, such as camping, facility rental, parking, and boat rentals, and permits
+discountedorwaivedratesforveteransandschoolorstudentgroups.
+The Department of Natural and Cultural Resources states this bill would result in an
+indeterminableimpactonStateParkFundrevenuesandexpenditures.
+Based on FY 2023 visitation data, the Department estimates that approximately half of all state
+park visitors are residents and half are non-residents. If the Department reduced the day-use
+fee for residents by 50 percent, revenue would decrease by approximately $1.1 million.
+Conversely, increasing non-resident day-use fees by 100 percent could generate approximately
+$2.2millioninadditionalrevenue. However,theDepartmentanticipatesthatfeechangesofthis
+extentwoulddetervisitationby5to20percent,reducingtheexpectedrevenuegain.
+The Department also anticipates implementation costs of more than $100,000 to modify
+reservation and point-of-sale systems to verify residency and apply differential pricing.
+Additionalcostsmayoccurduetolongerentrylines,visitordisputesoverresidencystatus,anda
+multi-yearperiodoffeeexperimentationneededtostabilizepricingunderthenewmodel.
+Altogether, the Department estimates an indeterminable change in State Park Fund revenue
+rangingfromadecreaseofapproximately$1.5milliontoanincreaseof$2millionperfiscalyear,
+starting in FY 2028 with an indeterminable increase in State Park Fund expenditures ranging
+fromapproximately$100,000to$500,000annually.
+It is assumed because the effective date of this bill is April 1, 2027, only a small impact will be
+feltinrevenuesforfeechangeasitwouldonlyimpactaboutonemonthoffeerevenue. However,
+in order to have the system ready for the fee change the primary expenditure increase will occur
+in FY 2027 and it is assumed the increase in FY 2028 and FY 2029 will be incorporated into the
+Department'soperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofNaturalandCulturalResources
+[DELETED: B5N-ASI6SEBNATretosepkfsfrser:S.M,Dt1;S.I,Dt7;S.P,Dt1;S.S,D;S.G,Dt2;S.M,Dt1;S.P,Dt:WsadMsb.RstecroftedtofnladclrstostskeyfsfrNwHersatnometn50ptoftefscdt.Assefessfrscuswnsep.Psddorwdrsfrvsadslorstg-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretosepkfsfrsereitEdbyteSeadHeofRsinGlCtc1SePkS;FsfrPkS;R.AdRA2,ItordafI.FsfrteueofpkasslbeddtorrarepnofbesctwhtepsofRA21ad2.P,h,ttfcdtoNwHerstoersepscdvaaweorbypnsdwntepkslbenometn50ptofteeyfscton.Tecroftedtofnladclr,ohsorhrd,myettostsefessfrrsadnfrscuswnaysep,igc,fyr,p,orb0r,pdttwesefessaecdfraygnseo1p,rsslbecdnometn90ptoftefecdt2n.Rymybeidbysdi,uyortxb3ver,sti,orvelep.Tec4orhsorhrd,myaopeddorwdrsfrv,aswla5frslorstg,inrnoftrseorelp.T6glctdsntidttalpkfsbes72EeD.TsatslteetAl1,2]
+[DELETED: B5-FLNSINATretosepkfsfrserLI:TsbldsntpefdSeIY26FY27FY28FY2e(eof(eor$0$mtoie$mteIf$)ieof$eFePkFeIeIeofIeI0to(0to(0t)$)$gSePkF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsteDtofNladClRstoehsepyfsfrNwHersatnometn50ptoftefscdton.TeblaoasteDttocesefessfrscunsep,shasc,fyr,p,adbtr,adpdorwdrsfrvsadslorstgeDtofNladClRssstsblwdrtinaeitonSePkFdrsadedonFY23vnd,teDtesttayhfofalskvsaersadhfaen.IfteDtrdtedefrrsby50p,rewddebyay$1m,igntdefsby10ptcdgea2mninalr.H,teDtasttfecsofttwddrvnby5to20p,rgteedreg]
+[DELETED: eDtaoasincsofmetn$0tomnadpesstovyryadaydlplcsmyordetolreyl,vrdsorrys,adrpdoffeenndtosepgurtenwm,teDtesanieceinSePkFdrgfmadeofay$5mntoanieof$2mnprflyginFY28whanieieinSePkFdesrmay$0to$0atisadbeteeedeoftsblisAl1,2,oyaslitwlbtinrsfrfeceasitwdoyitatoemhoffer.HnortohetesmryfrtefecetepyeeiewlonFY27aditisadteieinFY28adFY29wlbeidiotsogbSCtofNladClR]
+
+
+================================================================================
+
+Raw Text:
+SB511-FN-ASINTRODUCED
+2026SESSION
+26-2107
+06/09
+511-FN
+SENATEBILL
+ANACT relativetostateparkfeesforstateresidents.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Innis, Dist 7; Sen. Pearl, Dist 17; Sen. Sullivan, Dist
+18;Sen.Gannon,Dist23;Sen.McGough,Dist11;Sen.Prentiss,Dist5
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Requires the commissioner of the department of natural and cultural resources to set state
+park entry fees for New Hampshire residents at no more than 50 percent of the fees charged to
+nonresidents.
+II. Allowsseparatefeeschedulesforspecificuseswithinstateparks.
+III. Permitsdiscountedorwaivedratesforveteransandschoolorstudentgroups.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB511-FN-ASINTRODUCED
+26-2107
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetostateparkfeesforstateresidents.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 State Park System; Fees for Park System; Residency. Amend RSA 216-A:3-g, I to read as
+2 follows:
+3 I. Fees for the use of park areas shall be designed to recover a reasonable portion of budget
+4 expenses consistent with the purposes of RSA 216-A:1 and 216-A:3. Provided, however, that fees
+5 charged to New Hampshire residents to enter state parks collected via a website or by a
+6 personstationedwithinthepark shall beno more than50 percentofthe entry feescharged
+7 to nonresidents. The commissioner of the departmentof natural andcultural resources, or
+8 his or her designee, may elect to set separate fee schedules for residents and nonresidents
+9 for specific uses within any state park, including camping, facility rental, parking, or boat
+10 rental, provided that where separate fee schedules are created for any given service or
+11 product, residents shall be charged no more than 90 percent of the fee charged to
+12 nonresidents. Residency may be indicated by state-issuedidentification,utility or tax bills,
+13 vehicle registrations, student identification, or vehicle license plates. The commissioner,
+14 or his or her designee, may also provide discounted or waived rates for veterans, as well as
+15 for school or student groups, in recognition of their service or educational purpose. The
+16 generalcourtdoesnotintendthatallparkfacilitiesbeself-supporting.
+17 2 EffectiveDate. ThisactshalltakeeffectApril1,2027.
+
+LBA
+26-2107
+10/29/25
+SB511-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetostateparkfeesforstateresidents.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Indeterminable (decreaseof (decreaseof
+Revenue $0
+Under$100,000 $1.5mtoincrease $1.5mto
+of$2m) increaseof$2m
+RevenueFund(s) StateParkFund
+Indeterminable Indeterminable Indeterminable
+Increaseof Increase Increase
+Expenditures* $0
+($100,000to ($10,000to ($10,000to
+$500,000) $100,000) $100,000)
+FundingSource(s) StateParkFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Natural and Cultural Resources to establish state park
+entry fees for New Hampshire residents at no more than 50 percent of the fees charged to non-
+residents. The bill also allows the Department to create separate fee schedules for specific uses
+within state parks, such as camping, facility rental, parking, and boat rentals, and permits
+discountedorwaivedratesforveteransandschoolorstudentgroups.
+The Department of Natural and Cultural Resources states this bill would result in an
+indeterminableimpactonStateParkFundrevenuesandexpenditures.
+Based on FY 2023 visitation data, the Department estimates that approximately half of all state
+park visitors are residents and half are non-residents. If the Department reduced the day-use
+fee for residents by 50 percent, revenue would decrease by approximately $1.1 million.
+Conversely, increasing non-resident day-use fees by 100 percent could generate approximately
+$2.2millioninadditionalrevenue. However,theDepartmentanticipatesthatfeechangesofthis
+extentwoulddetervisitationby5to20percent,reducingtheexpectedrevenuegain.
+
+The Department also anticipates implementation costs of more than $100,000 to modify
+reservation and point-of-sale systems to verify residency and apply differential pricing.
+Additionalcostsmayoccurduetolongerentrylines,visitordisputesoverresidencystatus,anda
+multi-yearperiodoffeeexperimentationneededtostabilizepricingunderthenewmodel.
+Altogether, the Department estimates an indeterminable change in State Park Fund revenue
+rangingfromadecreaseofapproximately$1.5milliontoanincreaseof$2millionperfiscalyear,
+starting in FY 2028 with an indeterminable increase in State Park Fund expenditures ranging
+fromapproximately$100,000to$500,000annually.
+It is assumed because the effective date of this bill is April 1, 2027, only a small impact will be
+feltinrevenuesforfeechangeasitwouldonlyimpactaboutonemonthoffeerevenue. However,
+in order to have the system ready for the fee change the primary expenditure increase will occur
+in FY 2027 and it is assumed the increase in FY 2028 and FY 2029 will be incorporated into the
+Department'soperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofNaturalandCulturalResources
+
+[DELETED: B5N-ASI6SEBNATretosepkfsfrser:S.M,Dt1;S.I,Dt7;S.P,Dt1;S.S,D;S.G,Dt2;S.M,Dt1;S.P,Dt:WsadMsb.RstecroftedtofnladclrstostskeyfsfrNwHersatnometn50ptoftefscdt.Assefessfrscuswnsep.Psddorwdrsfrvsadslorstg-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretosepkfsfrsereitEdbyteSeadHeofRsinGlCtc1SePkS;FsfrPkS;R.AdRA2,ItordafI.FsfrteueofpkasslbeddtorrarepnofbesctwhtepsofRA21ad2.P,h,ttfcdtoNwHerstoersepscdvaaweorbypnsdwntepkslbenometn50ptofteeyfscton.Tecroftedtofnladclr,ohsorhrd,myettostsefessfrrsadnfrscuswnaysep,igc,fyr,p,orb0r,pdttwesefessaecdfraygnseo1p,rsslbecdnometn90ptoftefecdt2n.Rymybeidbysdi,uyortxb3ver,sti,orvelep.Tec4orhsorhrd,myaopeddorwdrsfrv,aswla5frslorstg,inrnoftrseorelp.T6glctdsntidttalpkfsbes72EeD.TsatslteetAl1,2]
+[DELETED: B5-FLNSINATretosepkfsfrserLI:TsbldsntpefdSeIY26FY27FY28FY2e(eof(eor$0$mtoie$mteIf$)ieof$eFePkFeIeIeofIeI0to(0to(0t)$)$gSePkF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsteDtofNladClRstoehsepyfsfrNwHersatnometn50ptoftefscdton.TeblaoasteDttocesefessfrscunsep,shasc,fyr,p,adbtr,adpdorwdrsfrvsadslorstgeDtofNladClRssstsblwdrtinaeitonSePkFdrsadedonFY23vnd,teDtesttayhfofalskvsaersadhfaen.IfteDtrdtedefrrsby50p,rewddebyay$1m,igntdefsby10ptcdgea2mninalr.H,teDtasttfecsofttwddrvnby5to20p,rgteedreg]
+[DELETED: eDtaoasincsofmetn$0tomnadpesstovyryadaydlplcsmyordetolreyl,vrdsorrys,adrpdoffeenndtosepgurtenwm,teDtesanieceinSePkFdrgfmadeofay$5mntoanieof$2mnprflyginFY28whanieieinSePkFdesrmay$0to$0atisadbeteeedeoftsblisAl1,2,oyaslitwlbtinrsfrfeceasitwdoyitatoemhoffer.HnortohetesmryfrtefecetepyeeiewlonFY27aditisadteieinFY28adFY29wlbeidiotsogbSCtofNladClR]

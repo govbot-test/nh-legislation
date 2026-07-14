@@ -1,0 +1,127 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB590-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0083s
+05/21/2026 1995EBA
+2026SESSION
+26-2167
+06/05
+590-FN
+ANACT relativetoelectricaggregationplans.
+SPONSORS: Sen.Fenton,Dist10;Sen.Lang,Dist2;Sen.Avard,Dist12;Sen.Rosenwald,Dist
+13; Sen. Pearl, Dist 17; Sen. Watters, Dist 4; Rep. Moffett, Merr. 4; Rep. W.
+Thomas,Hills.12
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes municipalities to use revolving funds to support energy services under
+approvedelectricaggregationplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB590-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0083s
+05/21/2026 1995EBA 26-2167
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoelectricaggregationplans.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph;RevolvingFunds. AmendRSA31:95-h, Ibyinsertingafter subparagraph
+2 (g)thefollowingnewsubparagraph:
+3 (h) Facilitating the provision of energy services pursuant to the approved electric
+4 aggregation plan under RSA 53-E, provided that no funds raised from local taxes shall be used for
+5 suchpurposes.
+6 2 Powers and Duties of Towns; Miscellaneous; Revolving Funds. Amend RSA 31:95-h, I(f)-(g) to
+7 readasfollows:
+8 (f) Financing of energy conservation and efficiency and clean energy improvements by
+9 participating property owners in an energy efficiency and clean energy district established pursuant
+10 toRSA53-F;[or]
+11 (g) Facilitatingtransactionsrelativetomunicipalgroupnetmetering[.];or
+12 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2167
+02/03/2026
+SB590-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0083s)
+ANACT relativetoelectricaggregationplans.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation
+[DELETED: B5N-VNADBYBHB60616SEBNATretoecanp:S.F,Dt1;S.L,Dt2;S.A,Dt1;S.R,D;S.P,Dt1;S.W,Dt4;R.M,M.4;R.W,H.1:EyadNlRsblasmstouergfstosteyssudecanp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-VNADBYBHB6061A2EOFNWHnteYrofOrLdToTdTNATretoecanpeitEdbyteSeadHeofRsinGlCtc1NwS;RgF.AdRA3,Ibyigars()tefgnws()FgtepnofeysspttoteadeanpnurRA5,pdttnofsrdfmlltsslbeudfshp2PsadDsofT;M;RgF.AdRA3,I)trdasf()Fgofeycnadeyadcneyisbpgpyosinaneyeyadcneydtedp0toRA5;[1()Fgtsretomlgpntm;o23EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTESE(T#NATretoecanpLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB590-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0083s
+05/21/2026 1995EBA
+2026SESSION
+26-2167
+06/05
+590-FN
+SENATEBILL
+ANACT relativetoelectricaggregationplans.
+SPONSORS: Sen.Fenton,Dist10;Sen.Lang,Dist2;Sen.Avard,Dist12;Sen.Rosenwald,Dist
+13; Sen. Pearl, Dist 17; Sen. Watters, Dist 4; Rep. Moffett, Merr. 4; Rep. W.
+Thomas,Hills.12
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes municipalities to use revolving funds to support energy services under
+approvedelectricaggregationplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB590-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0083s
+05/21/2026 1995EBA 26-2167
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoelectricaggregationplans.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph;RevolvingFunds. AmendRSA31:95-h, Ibyinsertingafter subparagraph
+2 (g)thefollowingnewsubparagraph:
+3 (h) Facilitating the provision of energy services pursuant to the approved electric
+4 aggregation plan under RSA 53-E, provided that no funds raised from local taxes shall be used for
+5 suchpurposes.
+6 2 Powers and Duties of Towns; Miscellaneous; Revolving Funds. Amend RSA 31:95-h, I(f)-(g) to
+7 readasfollows:
+8 (f) Financing of energy conservation and efficiency and clean energy improvements by
+9 participating property owners in an energy efficiency and clean energy district established pursuant
+10 toRSA53-F;[or]
+11 (g) Facilitatingtransactionsrelativetomunicipalgroupnetmetering[.];or
+12 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2167
+02/03/2026
+SB590-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0083s)
+ANACT relativetoelectricaggregationplans.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation
+
+[DELETED: B5N-VNADBYBHB60616SEBNATretoecanp:S.F,Dt1;S.L,Dt2;S.A,Dt1;S.R,D;S.P,Dt1;S.W,Dt4;R.M,M.4;R.W,H.1:EyadNlRsblasmstouergfstosteyssudecanp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-VNADBYBHB6061A2EOFNWHnteYrofOrLdToTdTNATretoecanpeitEdbyteSeadHeofRsinGlCtc1NwS;RgF.AdRA3,Ibyigars()tefgnws()FgtepnofeysspttoteadeanpnurRA5,pdttnofsrdfmlltsslbeudfshp2PsadDsofT;M;RgF.AdRA3,I)trdasf()Fgofeycnadeyadcneyisbpgpyosinaneyeyadcneydtedp0toRA5;[1()Fgtsretomlgpntm;o23EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTESE(T#NATretoecanpLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCwHeMlA]

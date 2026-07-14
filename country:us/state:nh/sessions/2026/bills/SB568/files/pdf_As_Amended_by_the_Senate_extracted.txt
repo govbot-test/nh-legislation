@@ -1,0 +1,110 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB568-ASAMENDEDBYTHESENATE
+02/05/2026 0384s
+2026SESSION
+26-2175
+12/06
+568
+ANACT relative to the department of safety's procedures for the processing of employee
+candidatebackgroundchecks.
+SPONSORS: Sen.Gannon,Dist23;Sen.Pearl,Dist17;Sen.Lang,Dist2;Sen.Carson,Dist14;
+Sen. Abbas, Dist 22; Sen. Birdsell, Dist 19; Sen. McGough, Dist 11; Sen. Murphy,
+Dist 16; Rep. L. Miner, Rock. 7; Rep. Porcelli, Rock. 19; Rep. Rice, Hills. 38; Rep.
+Rhodes,Ches.17;Rep.Kuttab,Rock.17
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillauthorizesdepartmentofsafetyemployeeswhoaredesignatedbythecommissionerand
+authorizedtoreceivecriminalconvictioninformationtoobtainsuchinformationfrom statepolicefor
+theprocessingofemployeecandidatebackgroundchecks.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB568-ASAMENDEDBYTHESENATE
+02/05/2026 0384s 26-2175
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the department of safety's procedures for the processing of employee
+candidatebackgroundchecks.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Safety; Employee Candidate Background Checks; Reporting Modified. Amend
+2 RSA21-P:15-c,IIItoreadasfollows:
+3 III. To obtain a state records check only, the department shall submit a state criminal
+4 history records release form to the division of state police. To obtain both the federal and the state
+5 records check, the department shall submit the criminal history records release form and applicant
+6 fingerprint card to the division of state police, which shall conduct a criminal history records check
+7 through its records and through the Federal Bureau of Investigation. Upon completion of the
+8 background investigation, the division of state police shall report any criminal conviction
+9 information to the commissioner or to a department of safety employee as designated by the
+10 commissioner who is authorized to receive criminal conviction information. The
+11 department may submit fingerprint information electronically, in accordance with procedures
+12 established by the division of state police. The department shall maintain the confidentiality and
+13 securityofallcriminalhistoryrecordsinformationreceivedpursuanttothisparagraph.
+14 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B58-ASADBYTES606SEBNATretotedtofsspsfrtepgofeebdc:S.G,Dt2;S.P,Dt1;S.L,Dt2;S.C,Dt1.A,Dt2;S.B,Dt1;S.M,Dt1;S.Mt1;R.L.M,R.7;R.P,R.1;R.R,H.3;R,C.1;R.K,R.1:EeDsadADAsblasdtofsyeswoaeddbytecradtoreclcnintoonshinfmsepefepgofeecebdc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B58-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotedtofsspsfrtepgofeebdceitEdbyteSeadHeofRsinGlCtc1DtofS;EeCeBdC;RgM.ARA2,IItordasfI.Toonaserscko,tedtslstasechyrsrefmtotednofsep.Toonbhtefladtesrsc,tedtslstteclhyrsrefmadaftcdtotednofsep,whslctaclhyrscthisrsadthteFlBuofI.Uncnoftbdi,tednofsepeslrtayclcintotecrortoadtofsyeeasddbyt0crwoisadtoreclcni.T1dtmystftine,inaewhp2edbytednofsep.Tedtslmntecya3syofalclhyrsinrdpttotsp42EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB568-ASAMENDEDBYTHESENATE
+02/05/2026 0384s
+2026SESSION
+26-2175
+12/06
+568
+SENATEBILL
+ANACT relative to the department of safety's procedures for the processing of employee
+candidatebackgroundchecks.
+SPONSORS: Sen.Gannon,Dist23;Sen.Pearl,Dist17;Sen.Lang,Dist2;Sen.Carson,Dist14;
+Sen. Abbas, Dist 22; Sen. Birdsell, Dist 19; Sen. McGough, Dist 11; Sen. Murphy,
+Dist 16; Rep. L. Miner, Rock. 7; Rep. Porcelli, Rock. 19; Rep. Rice, Hills. 38; Rep.
+Rhodes,Ches.17;Rep.Kuttab,Rock.17
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillauthorizesdepartmentofsafetyemployeeswhoaredesignatedbythecommissionerand
+authorizedtoreceivecriminalconvictioninformationtoobtainsuchinformationfrom statepolicefor
+theprocessingofemployeecandidatebackgroundchecks.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB568-ASAMENDEDBYTHESENATE
+02/05/2026 0384s 26-2175
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the department of safety's procedures for the processing of employee
+candidatebackgroundchecks.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Safety; Employee Candidate Background Checks; Reporting Modified. Amend
+2 RSA21-P:15-c,IIItoreadasfollows:
+3 III. To obtain a state records check only, the department shall submit a state criminal
+4 history records release form to the division of state police. To obtain both the federal and the state
+5 records check, the department shall submit the criminal history records release form and applicant
+6 fingerprint card to the division of state police, which shall conduct a criminal history records check
+7 through its records and through the Federal Bureau of Investigation. Upon completion of the
+8 background investigation, the division of state police shall report any criminal conviction
+9 information to the commissioner or to a department of safety employee as designated by the
+10 commissioner who is authorized to receive criminal conviction information. The
+11 department may submit fingerprint information electronically, in accordance with procedures
+12 established by the division of state police. The department shall maintain the confidentiality and
+13 securityofallcriminalhistoryrecordsinformationreceivedpursuanttothisparagraph.
+14 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B58-ASADBYTES606SEBNATretotedtofsspsfrtepgofeebdc:S.G,Dt2;S.P,Dt1;S.L,Dt2;S.C,Dt1.A,Dt2;S.B,Dt1;S.M,Dt1;S.Mt1;R.L.M,R.7;R.P,R.1;R.R,H.3;R,C.1;R.K,R.1:EeDsadADAsblasdtofsyeswoaeddbytecradtoreclcnintoonshinfmsepefepgofeecebdc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B58-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotedtofsspsfrtepgofeebdceitEdbyteSeadHeofRsinGlCtc1DtofS;EeCeBdC;RgM.ARA2,IItordasfI.Toonaserscko,tedtslstasechyrsrefmtotednofsep.Toonbhtefladtesrsc,tedtslstteclhyrsrefmadaftcdtotednofsep,whslctaclhyrscthisrsadthteFlBuofI.Uncnoftbdi,tednofsepeslrtayclcintotecrortoadtofsyeeasddbyt0crwoisadtoreclcni.T1dtmystftine,inaewhp2edbytednofsep.Tedtslmntecya3syofalclhyrsinrdpttotsp42EeD.Tsatslteet60dsarisp]

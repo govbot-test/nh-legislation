@@ -1,0 +1,139 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB604-FN-A-ASINTRODUCED
+2026SESSION
+26-2258
+07/08
+604-FN-A
+ANACT makinganappropriationtotheuniversitysystemofNewHampshire.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Fenton, Dist 10; Sen. Rosenwald, Dist 13; Sen.
+Watters, Dist 4; Sen. Innis, Dist 7; Sen. Altschiller, Dist 24; Rep. Selig, Straf. 10;
+Rep.Damon,Sull.8
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes an appropriation to the university system and community college systems of
+NewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB604-FN-A-ASINTRODUCED
+26-2258
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT makinganappropriationtotheuniversitysystemofNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Appropriation; University System of New Hampshire. For the fiscal year ending June 30,
+2 2027, the sum of $14,000,000 is appropriated to the university system of New Hampshire for the
+3 purpose of restoring funding to university system that was reduced pursuant to 2025, 140 (HB 1).
+4 The governor is authorized to draw a warrant for said sum out of any money in the treasury not
+5 otherwiseappropriated.
+6 2 Appropriation; Community College System of New Hampshire. For the fiscal year ending
+7 June 30, 2027, the sum of $3,500,000 is appropriated to the community college system of New
+8 Hampshirefor thepurpose of lowering credit-hour tuition rates to continue the previous freeze. The
+9 governor is authorized to draw a warrant for said sum out of any money in the treasury not
+10 otherwiseappropriated.
+11 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2258
+11/18/25
+SB604-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT makinganappropriationtotheuniversitysystemofNewHampshire.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $17,500,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $17,500,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill provides general fund appropriations, in FY 2027, of $14,000,000 to the University
+SystemofNewHampshireand$3,500,000totheCommunityCollegeSystemofNewHampshire.
+AGENCIESCONTACTED:
+None
+[DELETED: B6A-ASI6SEBNATmganantoteuysmofNwH:S.PsK,Dt2;S.F,Dt1;S.R,Dt1;S,Dt4;S.I,Dt7;S.A,Dt2;R.S,S.1.D,S.:FsblmsanantoteuysmadcycessowH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6A-ASIEOFNWHnteYrofOrLdToTdTNATmganantoteuysmofNwHeitEdbyteSeadHeofRsinGlCtc1A;UySmofNwH.FrteflyregJe32,tesmof$0isadtoteuysmofNwHefrtpeofrgfgtouysmttwsrdptto2,10(B1Tegrisadtodwawtfrsdsmotofaymyintetynoea2A;CyCeSmofNwH.FrteflyreJe3,2,tesmof$0isadtotecycesmofNHefrtepeoflgcrtnrstocetepsf.Tgrisadtodwawtfrsdsmotofaymyintetyn0oea13EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATmganantoteuysmofNwHLIdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=Adfgtocrctofbsblpsglfda,inFY2,of$0toteUmofNwHead$0toteCyCeSmofNwHSC]
+
+
+================================================================================
+
+Raw Text:
+SB604-FN-A-ASINTRODUCED
+2026SESSION
+26-2258
+07/08
+604-FN-A
+SENATEBILL
+ANACT makinganappropriationtotheuniversitysystemofNewHampshire.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Fenton, Dist 10; Sen. Rosenwald, Dist 13; Sen.
+Watters, Dist 4; Sen. Innis, Dist 7; Sen. Altschiller, Dist 24; Rep. Selig, Straf. 10;
+Rep.Damon,Sull.8
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes an appropriation to the university system and community college systems of
+NewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB604-FN-A-ASINTRODUCED
+26-2258
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT makinganappropriationtotheuniversitysystemofNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Appropriation; University System of New Hampshire. For the fiscal year ending June 30,
+2 2027, the sum of $14,000,000 is appropriated to the university system of New Hampshire for the
+3 purpose of restoring funding to university system that was reduced pursuant to 2025, 140 (HB 1).
+4 The governor is authorized to draw a warrant for said sum out of any money in the treasury not
+5 otherwiseappropriated.
+6 2 Appropriation; Community College System of New Hampshire. For the fiscal year ending
+7 June 30, 2027, the sum of $3,500,000 is appropriated to the community college system of New
+8 Hampshirefor thepurpose of lowering credit-hour tuition rates to continue the previous freeze. The
+9 governor is authorized to draw a warrant for said sum out of any money in the treasury not
+10 otherwiseappropriated.
+11 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2258
+11/18/25
+SB604-FN-A-FISCALNOTE
+ASINTRODUCED
+ANACT makinganappropriationtotheuniversitysystemofNewHampshire.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $17,500,000 $0 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $17,500,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill provides general fund appropriations, in FY 2027, of $14,000,000 to the University
+SystemofNewHampshireand$3,500,000totheCommunityCollegeSystemofNewHampshire.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B6A-ASI6SEBNATmganantoteuysmofNwH:S.PsK,Dt2;S.F,Dt1;S.R,Dt1;S,Dt4;S.I,Dt7;S.A,Dt2;R.S,S.1.D,S.:FsblmsanantoteuysmadcycessowH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6A-ASIEOFNWHnteYrofOrLdToTdTNATmganantoteuysmofNwHeitEdbyteSeadHeofRsinGlCtc1A;UySmofNwH.FrteflyregJe32,tesmof$0isadtoteuysmofNwHefrtpeofrgfgtouysmttwsrdptto2,10(B1Tegrisadtodwawtfrsdsmotofaymyintetynoea2A;CyCeSmofNwH.FrteflyreJe3,2,tesmof$0isadtotecycesmofNHefrtepeoflgcrtnrstocetepsf.Tgrisadtodwawtfrsdsmotofaymyintetyn0oea13EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATmganantoteuysmofNwHLIdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=Adfgtocrctofbsblpsglfda,inFY2,of$0toteUmofNwHead$0toteCyCeSmofNwHSC]

@@ -1,0 +1,184 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB623-FN-ASINTRODUCED
+2026SESSION
+26-2205
+09/05
+623-FN
+ANACT relative to requirements for law enforcement officers assisting in immigration
+enforcement.
+SPONSORS: Sen.Altschiller,Dist24;Sen.Rosenwald,Dist13;Rep.Meuse,Rock.37
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes requirements for law enforcement officers assisting the United States
+ImmigrationandCustomsEnforcementpursuanttothefederal287(g)program.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB623-FN-ASINTRODUCED
+26-2205
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to requirements for law enforcement officers assisting in immigration
+enforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known as and cited to as the "Granite State No Anonymity in
+2 ImmigrationEnforcementAct".
+3 2 New Section; Participation in Federal Immigration Officers; Requirements for Law
+4 EnforcementOfficers. AmendRSA106-Pbyinsertingaftersection1thefollowingnewsection:
+5 106-P:2 RequirementforLawEnforcementOfficers.
+6 I. Any state or local law enforcement officer who is assisting the United States Immigration
+7 and Customs Enforcement pursuant to the federal 287(g) program as outlined in RSA 106-P:1 shall
+8 berequiredtoadheretoallofthefollowingwhileperformingdutiespursuanttoa287(g)program:
+9 (a) Eachofficershallclearlydisplayeithertheirnameortheirbadgenumber.
+10 (b) Noofficershallwearanyfacialcoveringormask.
+11 (c) Noofficershalldisableordisengagetheirbody-worncamera.
+12 II. State and local law enforcement agencies shall develop disciplinary measures for officers
+13 whodonotcomplywithparagraphI.
+14 III. All complaints alleging violation of this section shall be forwarded to the department of
+15 justice'scivilrightsunitforinvestigation.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2205
+11/18/25
+SB623-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to requirements for law enforcement officers assisting in immigration
+enforcement.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires any state or local law enforcement officers assisting U.S. Immigration and
+Customs Enforcement personnel to display their name or badge number and prohibits those
+officers from wearing masks and disabling their body-worn camera and to develop disciplinary
+procedures for officers that fail to comply. It also requires that all complaints be forwarded to
+theDepartment’sCivil RightsUnit forinvestigation. Thiscould resultinanincreaseindemand
+on the Department of Justice Civil Rights Unit for investigative and attorney resources.
+Although the Department cannot predict how many such complaints this bill may create, the
+Department states that any increase beyond 3 to 5 additional complaints per year is going to
+require an additional investigator and attorney for the Civil Rights Unit. If the number of
+complaints exceeds 40, then the Civil Rights Unit may need even more additional staff. The
+Department did not provide specific cost estimates, but states it could be in the $100,000 to
+$500,000range,peryear.
+The Department of Safety states this bill is consistent with current policy requirements of the
+Division of State Police. Therefore, this bill is not expected to have any impact on the
+Department. It is assumed any impact to comply with this bill for local and county law
+enforcement agencies would be negligible and costs, if any, would be absorbed within normal
+operatingbudgets.
+AGENCIESCONTACTED:
+DepartmentofJusticeandDepartmentofSafety
+[DELETED: B6N-ASI6SEBNATretorsfrlwetosagini:S.A,Dt2;S.R,Dt1;R.M,R.3:JsblesrsfrlwetosagteUdSnadCsEtpttotefl2)p-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretorsfrlwetosaginieitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknasadcdtoaste"eSeNoAyiInEtA2NwS;PninFlInO;RsfrLEtO.AdRA1Pbyigarsn1tefgnws12RtfrLwEtOI.AyseorlllwetorwoisagteUdSsIadCsEtpttotefl2)pmasodinRA11sberdtoaetoaloftefgwepgdspttoa2)p()Ehorslcydyertrneortrben0()Noorslwrayflcgorm1()Noorsldeordetrbnc2I.Seadlllwetassldpdymsfro3wodontcywhphI4I.Alcsagvnoftssnslbefdtotedto5jsclrsutfri63EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATretorsfrlwetosaginiLIdSeIY26FY27FY28FY20$0$0$eF0IgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsayseorlllwetosagU.InasEtpltodytrneorbenradpstsfmwgmsaddgtrbncaadtodpdsfrosttfltoc.ItaorsttalcsbefdteDsClRsUtfri.TscdrtinanieindnteDtofJeClRsUtfrieadayrhteDtctpthwmyshcstsblmyc,ttssttayiebd3to5alcspryrisggteanaliradayfrteClRsU.Iftenroses4,tnteClRsUtmyndenmeals.Ttddntpesccte,btssitcdbeinte$0t0r,pryeDtofSysstsblisctwhctpyrsoftnofSeP.T,tsblisntedtoheayitont.Itisadayittocywhtsblfrlladcyltaswdbeneadc,ifa,wdbeadwnngb]
+[DELETED: SCtofJeadDtofS]
+
+
+================================================================================
+
+Raw Text:
+SB623-FN-ASINTRODUCED
+2026SESSION
+26-2205
+09/05
+623-FN
+SENATEBILL
+ANACT relative to requirements for law enforcement officers assisting in immigration
+enforcement.
+SPONSORS: Sen.Altschiller,Dist24;Sen.Rosenwald,Dist13;Rep.Meuse,Rock.37
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes requirements for law enforcement officers assisting the United States
+ImmigrationandCustomsEnforcementpursuanttothefederal287(g)program.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB623-FN-ASINTRODUCED
+26-2205
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to requirements for law enforcement officers assisting in immigration
+enforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known as and cited to as the "Granite State No Anonymity in
+2 ImmigrationEnforcementAct".
+3 2 New Section; Participation in Federal Immigration Officers; Requirements for Law
+4 EnforcementOfficers. AmendRSA106-Pbyinsertingaftersection1thefollowingnewsection:
+5 106-P:2 RequirementforLawEnforcementOfficers.
+6 I. Any state or local law enforcement officer who is assisting the United States Immigration
+7 and Customs Enforcement pursuant to the federal 287(g) program as outlined in RSA 106-P:1 shall
+8 berequiredtoadheretoallofthefollowingwhileperformingdutiespursuanttoa287(g)program:
+9 (a) Eachofficershallclearlydisplayeithertheirnameortheirbadgenumber.
+10 (b) Noofficershallwearanyfacialcoveringormask.
+11 (c) Noofficershalldisableordisengagetheirbody-worncamera.
+12 II. State and local law enforcement agencies shall develop disciplinary measures for officers
+13 whodonotcomplywithparagraphI.
+14 III. All complaints alleging violation of this section shall be forwarded to the department of
+15 justice'scivilrightsunitforinvestigation.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2205
+11/18/25
+SB623-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to requirements for law enforcement officers assisting in immigration
+enforcement.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires any state or local law enforcement officers assisting U.S. Immigration and
+Customs Enforcement personnel to display their name or badge number and prohibits those
+officers from wearing masks and disabling their body-worn camera and to develop disciplinary
+procedures for officers that fail to comply. It also requires that all complaints be forwarded to
+theDepartment’sCivil RightsUnit forinvestigation. Thiscould resultinanincreaseindemand
+on the Department of Justice Civil Rights Unit for investigative and attorney resources.
+Although the Department cannot predict how many such complaints this bill may create, the
+Department states that any increase beyond 3 to 5 additional complaints per year is going to
+require an additional investigator and attorney for the Civil Rights Unit. If the number of
+complaints exceeds 40, then the Civil Rights Unit may need even more additional staff. The
+Department did not provide specific cost estimates, but states it could be in the $100,000 to
+$500,000range,peryear.
+The Department of Safety states this bill is consistent with current policy requirements of the
+Division of State Police. Therefore, this bill is not expected to have any impact on the
+Department. It is assumed any impact to comply with this bill for local and county law
+enforcement agencies would be negligible and costs, if any, would be absorbed within normal
+operatingbudgets.
+
+AGENCIESCONTACTED:
+DepartmentofJusticeandDepartmentofSafety
+
+[DELETED: B6N-ASI6SEBNATretorsfrlwetosagini:S.A,Dt2;S.R,Dt1;R.M,R.3:JsblesrsfrlwetosagteUdSnadCsEtpttotefl2)p-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretorsfrlwetosaginieitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknasadcdtoaste"eSeNoAyiInEtA2NwS;PninFlInO;RsfrLEtO.AdRA1Pbyigarsn1tefgnws12RtfrLwEtOI.AyseorlllwetorwoisagteUdSsIadCsEtpttotefl2)pmasodinRA11sberdtoaetoaloftefgwepgdspttoa2)p()Ehorslcydyertrneortrben0()Noorslwrayflcgorm1()Noorsldeordetrbnc2I.Seadlllwetassldpdymsfro3wodontcywhphI4I.Alcsagvnoftssnslbefdtotedto5jsclrsutfri63EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATretorsfrlwetosaginiLIdSeIY26FY27FY28FY20$0$0$eF0IgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsayseorlllwetosagU.InasEtpltodytrneorbenradpstsfmwgmsaddgtrbncaadtodpdsfrosttfltoc.ItaorsttalcsbefdteDsClRsUtfri.TscdrtinanieindnteDtofJeClRsUtfrieadayrhteDtctpthwmyshcstsblmyc,ttssttayiebd3to5alcspryrisggteanaliradayfrteClRsU.Iftenroses4,tnteClRsUtmyndenmeals.Ttddntpesccte,btssitcdbeinte$0t0r,pryeDtofSysstsblisctwhctpyrsoftnofSeP.T,tsblisntedtoheayitont.Itisadayittocywhtsblfrlladcyltaswdbeneadc,ifa,wdbeadwnngb]
+[DELETED: SCtofJeadDtofS]

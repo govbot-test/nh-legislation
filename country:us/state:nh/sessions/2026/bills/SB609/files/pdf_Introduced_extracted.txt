@@ -1,0 +1,242 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB609 -ASINTRODUCED
+2026SESSION
+26-2201
+05/08
+609
+ANACT relative to improving screening for and treatment of blood clots, or venous
+thromboembolism, and establishing a statewide venous thromboembolism
+registry.
+SPONSORS: Sen. Carson, Dist 14; Sen. Rochefort, Dist 1; Sen. Ward, Dist 8; Rep. W.
+MacDonald,Rock.16;Rep.Lundgren,Rock.16
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs hospitals, ambulatory surgical centers, and emergency medical care centers to
+develop a screening and treatment plan for venous thromboembolism. The bill also directs the
+department of health and human services to contract with a qualified entity to establish and
+maintainastatewidevenousthromboembolismregistry.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB609-ASINTRODUCED
+26-2201
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to improving screening for and treatment of blood clots, or venous
+thromboembolism, and establishing a statewide venous thromboembolism
+registry.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Screening for and Treatment of Venous Thromboembolism. Amend RSA 151 by
+2 insertingaftersection2-ithefollowingnewsection:
+3 151:2-j VenousThromboembolism;HospitalScreeningandTreatmentPlanRequired.
+4 I. Each hospital licensed under RSA 151:2, I(a) and each ambulatory surgical center and
+5 emergencymedicalcarecenterlicensedunderRSA151:2,I(d)shall:
+6 (a) Develop and implement policies and procedures for the rendering of appropriate
+7 medical attention for persons at risk of forming venous thromboembolisms which reflect evidence-
+8 basedbestpracticesrelatingto,ataminimum:
+9 (1) Assessing patients for risk of venous thromboembolism using a nationally
+10 recognizedriskassessmenttool.
+11 (2) Treatmentoptionsforapatientdiagnosedwithvenousthromboembolism.
+12 (b) Train all nonphysician personnel at least annually on the policies and procedures
+13 developedunderthissection.
+14 II. Forpurposesofthissection:
+15 (a) "Nonphysician personnel" means all personnel of the licensed facility working in
+16 clinicalareasandprovidingpatientcare,exceptthosepersonslicensedashealthcarepractitioners.
+17 (b) "Pulmonary embolism" means a condition in which part of the clot breaks off and
+18 travelstothelungs,possiblycausingdeath.
+19 (c) "Venousthromboembolism"meansdeepveinthrombosis,whichisabloodclotlocated
+20 in a deep vein, usually in the leg or arm. The term can be used to refer to deep vein thrombosis,
+21 pulmonaryembolism,orboth.
+22 2 New Section; Chronic Disease Prevention, Assessment and Control; Statewide Venous
+23 Thromboembolism Registry. Amend RSA 141-B by inserting after section 10 the following new
+24 section:
+25 141-B:11 StatewideVenousThromboembolismRegistry.
+26 I. The department shall contract with a private entity to establish and maintain, at no cost
+27 tothe state, a statewide venous thromboembolism registryto ensure that the performance measures
+28 required to be submitted under this section are maintained and available for use to improve or
+SB609 -ASINTRODUCED
+-Page2-
+1 modify the venous thromboembolism care system, ensure compliance with nationally recognized
+2 guidelines,andmonitorvenousthromboembolismpatientoutcomes.
+3 II. Theprivateentityshall:
+4 (a) Be a not-for-profit corporation qualified as tax-exempt under section 501(c)(3) of the
+5 InternalRevenueCode.
+6 (b) Have existed for at least 15 consecutive years with a mission of advancing the
+7 prevention,earlydiagnosis,andsuccessfultreatmentofbloodclots.
+8 (c) Haveexperienceoperatingamedicalregistrywithatleast25,000participants.
+9 (d) Have experience in providing continuing education on venous thromboembolism to
+10 medicalprofessionals.
+11 (e) Havesponsoredapublichealtheducationcampaignonvenousthromboembolism.
+12 (f) Beaffiliatedwithamedicalandscientificadvisoryboard.
+13 III. Beginning July 1, 2027, each hospital licensed under RSA 151:2, I(a) and each
+14 ambulatory surgical center and emergency medical care center licensed under RSA 151:2, I(d) shall
+15 regularly report to the statewide venous thromboembolism registry information containing
+16 nationally recognized venous thromboembolism measures and data on the incidence and prevalence
+17 ofvenousthromboembolism. Suchdatashallincludethefollowinginformation:
+18 (a) Thenumberofvenousthromboembolismsidentifiedanddiagnosed.
+19 (b) Theageofthepatient.
+20 (c) Thezipcodeofthepatient.
+21 (d) Thesexofthepatient.
+22 (e) Theraceandethnicityofthepatient.
+23 (f) Whether the patient is a resident of a licensed nursing home or assisted living
+24 facility.
+25 (g) Whetherthevenousthromboembolismwasfatal.
+26 (h) Howthediagnosiswasmade,suchasbyusingimagingmodalities.
+27 (i) Thetreatmentthatwasrecommendedforthevenousthromboembolism.
+28 IV. Thedepartmentshallrequirethecontractedprivateentitytouseanationallyrecognized
+29 platform to collect data from each hospital, ambulatory surgical center, and emergency medical care
+30 center on the performance measures required under paragraph III. The contracted private entity
+31 shallprovideregularreportstothedepartmentonthedatacollected.
+32 V. On or before November 1, 2027, the department shall submit to the governor, the
+33 president of the senate, and the speaker of the house of representatives, a detailed report on the
+34 incidence of venous thromboembolism using inpatient and outpatient data for services provided
+35 betweenJuly1,2026,andJune30,2027. Thereportshallprovideanalysesofallofthefollowing:
+36 (a) Age category, initial primary diagnosis and procedure, and secondary diagnoses,
+37 readmission rates for inpatients, admission rates for venous thromboembolism for which the patient
+SB609 -ASINTRODUCED
+-Page3-
+1 had an ambulatory surgery procedure, and emergency department visits for venous
+2 thromboembolismlinkedtoanypreviousadmission.
+3 (b) Whetherthevenousthromboembolismwaspresentuponadmission.
+4 (c) Theprincipalpayor,thesexofthepatient,andthepatient'sdischargestatus.
+5 VI. The contracted privateentityoperatingtheregistrymayonlyuse or publishinformation
+6 fromtheregistryforthepurposesofadvancingmedicalresearchormedicaleducationintheinterest
+7 ofreducingmorbidityormortality.
+8 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B69-ASI6SEBNATretoigsgfradttofbdc,orv,adegasevst:S.C,Dt1;S.R,Dt1;S.W,Dt8;R.W,R.1;R.L,R.1:HhadHnSsbldsh,ayslc,adeymlcecstpasgadttpnfrvst.Teblaodsttofhhadhnsstoctwhaqdeytoehanasevstmr-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B69-ASIEOFNWHnteYrofOrLdToTdTNATretoigsgfradttofbdc,orv,adegasevsteitEdbyteSeadHeofRsinGlCtc1NwS;SgfradTtofVsT.AdRA11bigarsn2itefgnws1jVsT;HlSgadTtPnRI.EhhlldurRA1,I)adehayslcraeymlcecrldurRA1,I)s()Dpaditpsadpsfrtergofamlanfrpsatrkoffgvstswhrtebdbtpsrgt,atam()Agpsfrrkofvstmugan0rdrkatt1()Ttosfraptddwhvst2()Tnalnnplatltayontepsadp3ddurtss4I.Frpsoftss5()"np"msalplofteldfywgi6clasadpgptc,ettepsldashhcep7()"ye"msacninwhptoftectbsofa8tstotel,pycgd9()"st"msdpvnt,whisabdctl0inadpv,uyintelgora.Tetmcnbeudtorrtodpvnt1pye,orb22NwS;CcDeP,AtadC;SeV3TmR.AdRA1Bbyigarsn10tefgn4s511SeVsTmR6I.Tedtslctwhapeeytoehadm,atnoc7totes,asevstmrytoeetttepem8rdtobesdurtssnaemdadaefruetoieo]
+[DELETED: B69-ASIPe2mytevstmces,eecewhnyrg,admrvstmptoI.Tepeeys()Beantcnqdasttursn5)oftIlReC()Heedfratlt15ceyswhamnofagtp,eyd,adslttofbdc()Heeeogamlrywhatlt20p()Heeeinpgcgenonvstmt0mlp1()Hesdapchhencnonvst2()Beadwhamladscayb3I.BgJy1,2,ehhlldurRA1,I)ade4ayslcradeymlcecrldurRA1,I)s5ryrttotesevstmryinc6nyrdvstmmsaddaonteieadp7ofvst.Shdaslietefgi8()Tenrofvstsidadd9()Teaeoftep0()Tezpceoftep1()Tesxoftep2()Tereadeyoftep3()Wrteptisartofaldngheoradl4f5()Wrtevstmwsf6()Hwtedswsm,shasbyugigm7()Tettttwsrdfrtevst8I.Tedtslretecdpeeytoueanyr9pmtoctdafmehh,ayslc,adeymlc0crontepemsrdurphI.Tecdpee1slperrrstotedtontedac2V.OnorbeNr1,2,tedtslsttoteg,t3ptoftes,adtesrofteheofr,addrtont4ieofvstmugitadotdafrssp5bnJy1,2,adJe3,2.Tertslpeasofaloftef6()Aec,ilpydsadp,adsyd7rnrsfri,anrsfrvstmfrwhtep]
+[DELETED: B69-ASIPe3hdanaysyp,adeydtvsfrvtmldtoaypsa()Wrtevstmwsptuna()Teplp,tesxoftep,adtepsdesV.Tecdpeeyogterymyoyueorphifmteryfrtepsofagmlrhormleninteiofrgmyorm3EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB609 -ASINTRODUCED
+2026SESSION
+26-2201
+05/08
+609
+SENATEBILL
+ANACT relative to improving screening for and treatment of blood clots, or venous
+thromboembolism, and establishing a statewide venous thromboembolism
+registry.
+SPONSORS: Sen. Carson, Dist 14; Sen. Rochefort, Dist 1; Sen. Ward, Dist 8; Rep. W.
+MacDonald,Rock.16;Rep.Lundgren,Rock.16
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs hospitals, ambulatory surgical centers, and emergency medical care centers to
+develop a screening and treatment plan for venous thromboembolism. The bill also directs the
+department of health and human services to contract with a qualified entity to establish and
+maintainastatewidevenousthromboembolismregistry.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB609-ASINTRODUCED
+26-2201
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to improving screening for and treatment of blood clots, or venous
+thromboembolism, and establishing a statewide venous thromboembolism
+registry.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Screening for and Treatment of Venous Thromboembolism. Amend RSA 151 by
+2 insertingaftersection2-ithefollowingnewsection:
+3 151:2-j VenousThromboembolism;HospitalScreeningandTreatmentPlanRequired.
+4 I. Each hospital licensed under RSA 151:2, I(a) and each ambulatory surgical center and
+5 emergencymedicalcarecenterlicensedunderRSA151:2,I(d)shall:
+6 (a) Develop and implement policies and procedures for the rendering of appropriate
+7 medical attention for persons at risk of forming venous thromboembolisms which reflect evidence-
+8 basedbestpracticesrelatingto,ataminimum:
+9 (1) Assessing patients for risk of venous thromboembolism using a nationally
+10 recognizedriskassessmenttool.
+11 (2) Treatmentoptionsforapatientdiagnosedwithvenousthromboembolism.
+12 (b) Train all nonphysician personnel at least annually on the policies and procedures
+13 developedunderthissection.
+14 II. Forpurposesofthissection:
+15 (a) "Nonphysician personnel" means all personnel of the licensed facility working in
+16 clinicalareasandprovidingpatientcare,exceptthosepersonslicensedashealthcarepractitioners.
+17 (b) "Pulmonary embolism" means a condition in which part of the clot breaks off and
+18 travelstothelungs,possiblycausingdeath.
+19 (c) "Venousthromboembolism"meansdeepveinthrombosis,whichisabloodclotlocated
+20 in a deep vein, usually in the leg or arm. The term can be used to refer to deep vein thrombosis,
+21 pulmonaryembolism,orboth.
+22 2 New Section; Chronic Disease Prevention, Assessment and Control; Statewide Venous
+23 Thromboembolism Registry. Amend RSA 141-B by inserting after section 10 the following new
+24 section:
+25 141-B:11 StatewideVenousThromboembolismRegistry.
+26 I. The department shall contract with a private entity to establish and maintain, at no cost
+27 tothe state, a statewide venous thromboembolism registryto ensure that the performance measures
+28 required to be submitted under this section are maintained and available for use to improve or
+
+SB609 -ASINTRODUCED
+-Page2-
+1 modify the venous thromboembolism care system, ensure compliance with nationally recognized
+2 guidelines,andmonitorvenousthromboembolismpatientoutcomes.
+3 II. Theprivateentityshall:
+4 (a) Be a not-for-profit corporation qualified as tax-exempt under section 501(c)(3) of the
+5 InternalRevenueCode.
+6 (b) Have existed for at least 15 consecutive years with a mission of advancing the
+7 prevention,earlydiagnosis,andsuccessfultreatmentofbloodclots.
+8 (c) Haveexperienceoperatingamedicalregistrywithatleast25,000participants.
+9 (d) Have experience in providing continuing education on venous thromboembolism to
+10 medicalprofessionals.
+11 (e) Havesponsoredapublichealtheducationcampaignonvenousthromboembolism.
+12 (f) Beaffiliatedwithamedicalandscientificadvisoryboard.
+13 III. Beginning July 1, 2027, each hospital licensed under RSA 151:2, I(a) and each
+14 ambulatory surgical center and emergency medical care center licensed under RSA 151:2, I(d) shall
+15 regularly report to the statewide venous thromboembolism registry information containing
+16 nationally recognized venous thromboembolism measures and data on the incidence and prevalence
+17 ofvenousthromboembolism. Suchdatashallincludethefollowinginformation:
+18 (a) Thenumberofvenousthromboembolismsidentifiedanddiagnosed.
+19 (b) Theageofthepatient.
+20 (c) Thezipcodeofthepatient.
+21 (d) Thesexofthepatient.
+22 (e) Theraceandethnicityofthepatient.
+23 (f) Whether the patient is a resident of a licensed nursing home or assisted living
+24 facility.
+25 (g) Whetherthevenousthromboembolismwasfatal.
+26 (h) Howthediagnosiswasmade,suchasbyusingimagingmodalities.
+27 (i) Thetreatmentthatwasrecommendedforthevenousthromboembolism.
+28 IV. Thedepartmentshallrequirethecontractedprivateentitytouseanationallyrecognized
+29 platform to collect data from each hospital, ambulatory surgical center, and emergency medical care
+30 center on the performance measures required under paragraph III. The contracted private entity
+31 shallprovideregularreportstothedepartmentonthedatacollected.
+32 V. On or before November 1, 2027, the department shall submit to the governor, the
+33 president of the senate, and the speaker of the house of representatives, a detailed report on the
+34 incidence of venous thromboembolism using inpatient and outpatient data for services provided
+35 betweenJuly1,2026,andJune30,2027. Thereportshallprovideanalysesofallofthefollowing:
+36 (a) Age category, initial primary diagnosis and procedure, and secondary diagnoses,
+37 readmission rates for inpatients, admission rates for venous thromboembolism for which the patient
+
+SB609 -ASINTRODUCED
+-Page3-
+1 had an ambulatory surgery procedure, and emergency department visits for venous
+2 thromboembolismlinkedtoanypreviousadmission.
+3 (b) Whetherthevenousthromboembolismwaspresentuponadmission.
+4 (c) Theprincipalpayor,thesexofthepatient,andthepatient'sdischargestatus.
+5 VI. The contracted privateentityoperatingtheregistrymayonlyuse or publishinformation
+6 fromtheregistryforthepurposesofadvancingmedicalresearchormedicaleducationintheinterest
+7 ofreducingmorbidityormortality.
+8 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B69-ASI6SEBNATretoigsgfradttofbdc,orv,adegasevst:S.C,Dt1;S.R,Dt1;S.W,Dt8;R.W,R.1;R.L,R.1:HhadHnSsbldsh,ayslc,adeymlcecstpasgadttpnfrvst.Teblaodsttofhhadhnsstoctwhaqdeytoehanasevstmr-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B69-ASIEOFNWHnteYrofOrLdToTdTNATretoigsgfradttofbdc,orv,adegasevsteitEdbyteSeadHeofRsinGlCtc1NwS;SgfradTtofVsT.AdRA11bigarsn2itefgnws1jVsT;HlSgadTtPnRI.EhhlldurRA1,I)adehayslcraeymlcecrldurRA1,I)s()Dpaditpsadpsfrtergofamlanfrpsatrkoffgvstswhrtebdbtpsrgt,atam()Agpsfrrkofvstmugan0rdrkatt1()Ttosfraptddwhvst2()Tnalnnplatltayontepsadp3ddurtss4I.Frpsoftss5()"np"msalplofteldfywgi6clasadpgptc,ettepsldashhcep7()"ye"msacninwhptoftectbsofa8tstotel,pycgd9()"st"msdpvnt,whisabdctl0inadpv,uyintelgora.Tetmcnbeudtorrtodpvnt1pye,orb22NwS;CcDeP,AtadC;SeV3TmR.AdRA1Bbyigarsn10tefgn4s511SeVsTmR6I.Tedtslctwhapeeytoehadm,atnoc7totes,asevstmrytoeetttepem8rdtobesdurtssnaemdadaefruetoieo]
+[DELETED: B69-ASIPe2mytevstmces,eecewhnyrg,admrvstmptoI.Tepeeys()Beantcnqdasttursn5)oftIlReC()Heedfratlt15ceyswhamnofagtp,eyd,adslttofbdc()Heeeogamlrywhatlt20p()Heeeinpgcgenonvstmt0mlp1()Hesdapchhencnonvst2()Beadwhamladscayb3I.BgJy1,2,ehhlldurRA1,I)ade4ayslcradeymlcecrldurRA1,I)s5ryrttotesevstmryinc6nyrdvstmmsaddaonteieadp7ofvst.Shdaslietefgi8()Tenrofvstsidadd9()Teaeoftep0()Tezpceoftep1()Tesxoftep2()Tereadeyoftep3()Wrteptisartofaldngheoradl4f5()Wrtevstmwsf6()Hwtedswsm,shasbyugigm7()Tettttwsrdfrtevst8I.Tedtslretecdpeeytoueanyr9pmtoctdafmehh,ayslc,adeymlc0crontepemsrdurphI.Tecdpee1slperrrstotedtontedac2V.OnorbeNr1,2,tedtslsttoteg,t3ptoftes,adtesrofteheofr,addrtont4ieofvstmugitadotdafrssp5bnJy1,2,adJe3,2.Tertslpeasofaloftef6()Aec,ilpydsadp,adsyd7rnrsfri,anrsfrvstmfrwhtep]
+[DELETED: B69-ASIPe3hdanaysyp,adeydtvsfrvtmldtoaypsa()Wrtevstmwsptuna()Teplp,tesxoftep,adtepsdesV.Tecdpeeyogterymyoyueorphifmteryfrtepsofagmlrhormleninteiofrgmyorm3EeD.Tsatslteet60dsarisp]

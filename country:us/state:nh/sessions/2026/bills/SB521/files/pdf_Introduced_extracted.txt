@@ -1,0 +1,220 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB521-FN-ASINTRODUCED
+2026SESSION
+26-2077
+12/09
+521-FN
+ANACT relativetounauthorizedcampingonprivateproperty.
+SPONSORS: Sen. Reardon, Dist 15; Sen. McGough, Dist 11; Sen. Lang, Dist 2; Sen. Long, Dist
+20; Sen. Avard, Dist 12; Sen. Ward, Dist 8; Sen. Ricciardi, Dist 9; Sen. Altschiller,
+Dist24
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits camping without permission on another's private property and adds penalties
+forsuchviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB521-FN-ASINTRODUCED
+26-2077
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetounauthorizedcampingonprivateproperty.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. Unauthorized campingonpublic and privatepropertyindenselypopulated municipalities
+3 presentssignificantchallengestopublichealth,sanitation,andsafety,andinterfereswiththerights
+4 ofpropertyowners.
+5 II. Municipalities have an interest in ensuring that land is not used for habitation without
+6 appropriateconsent,oversight,andprovisionforwastedisposalandemergencyaccess.
+7 III. While current law prohibits camping on public rights-of-way and public property
+8 without permission, thereis no parallel prohibitiongoverning unauthorized campingonprivate land
+9 inlargermunicipalities,whichhasresultedinconflictsbetweenlandowners,municipalities,andlaw
+10 enforcement.
+11 IV. Itisthereforethepurposeofthisacttoextendexistingprotectionsagainstunauthorized
+12 campingtoprivatepropertyinmunicipalitiesofmorethan10,000residents,toclarifytheroleoflaw
+13 enforcementinsuchmatters,andtopreservebothpublicorderandprivatepropertyrights.
+14 2 Private Property Camping Restriction. Amend RSA 236:58 and the subdivision heading
+15 precedingRSA236:58toreadasfollows:
+16 CampingAlongHighwaysandonPublicandPrivateProperty
+17 236:58 CampingRestricted.
+18 I. No person shall pitch a tent or place or erect any other camping device or sleep on the
+19 ground within the public right-of-way or on public property unless permission is received from the
+20 governing board of the governmental authority having jurisdiction over such public right-of-way or
+21 property.
+22 II.(a) In any municipality with a population greater than 10,000 as determined by
+23 the most recent federal decennial census, no person shall camp, erect a tent, place or erect
+24 anyothercampingdevice,orsleeponthegrounduponprivatepropertyunless:
+25 (1) Thepersonhaswrittenpermissionfromtheowneroftheproperty;or
+26 (2) The property owner is continuously present on the premises at the time of
+27 suchcampingandconsentstotheactivity.
+28 (b) This paragraph shall not apply to campsites or recreational campgrounds
+29 orcampingparksregulatedpursuanttoRSA216-I.
+SB521-FN-ASINTRODUCED
+-Page2-
+1 III. In enforcement of paragraph II of this section, law enforcement officials shall
+2 not be required to obtain or rely upon a written no trespass order from the property owner
+3 ifthepersoncannotsatisfyeithersubparagraphII(a)(1)or(2).
+4 3 AdditionalPenaltyforCampingonPrivateProperty. AmendRSA236:59toreadasfollows:
+5 236:59 Penalty. Any person who violates RSA 236:58 shall be guilty of a violation if a natural
+6 person,orguiltyof amisdemeanorifanyotherperson;and,inaddition,shallbeliableforthecost of
+7 restoration for any damage caused to a highway easement or right-of-way or to private land
+8 disturbedbysuchunlawfulcamping.
+9 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2077
+10/2/25
+SB521-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetounauthorizedcampingonprivateproperty.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B5N-ASI6SEBNATretoudcgonpep:S.R,Dt1;S.M,Dt1;S.L,Dt2;S.L,D;S.A,Dt1;S.W,Dt8;S.R,Dt9;S.At2:Jsblpscgwtpnonaspepyadasprshv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoudcgonpepeitEdbyteSeadHeofRsinGlCtc1FsadP.TeglctfstI.Udcgonpcadpepyindypdmpsstcstopch,s,ads,adiswhterofpyoI.Msheanitinegttldisntudfrhnwaec,o,adpnfrwedladeyaI.Wectlwpscgonpcryadpcpwtp,teisnoplpnggudcgonpelinlrm,whhsrdincsbnl,m,adl0e1I.Itistetepeoftsattoedegpsatu2cgtopepyinmsofmetn10r,tocytereofl3etinshm,adtopebhpcoradpepyr42PePyCgR.AdRA28adtesnh5pgRA28tordasf6CgAgHsadonPcadPeP728CgR8I.Nopnslphattorpeoretayorcgdeorspont9gdwntepcryoronpcpyuspnisrdfmt0ggbdofteglayhgjnorshpcryo1p2I)Inaymywhapngrtn10asddb3temtrtfldlc,nopnslc,etat,peore4ayorcgd,orspontegdunpepyu5()Tepnhswnpnfmteoroftep;o6()Tepyoriscyptontepsatteteo7shcgadcstotea8()Tsphslntaytocsorrlc9orcgpsrdpttoRA2]
+[DELETED: B5N-ASIPe2I.InetofphIIoftss,lwetossntberdtoonorryunawnnotsorfmtepyoiftepnctsyershI)or(3AlPyfrCgonPeP.AdRA29tordasf29P.AypnwovsRA28slbegyofavnifanp,orgyofamrifayorp;a,ina,slbelefrtectornfraydecdtoahyetorryortopelddbyshulc4EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretoudcgonpepLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB521-FN-ASINTRODUCED
+2026SESSION
+26-2077
+12/09
+521-FN
+SENATEBILL
+ANACT relativetounauthorizedcampingonprivateproperty.
+SPONSORS: Sen. Reardon, Dist 15; Sen. McGough, Dist 11; Sen. Lang, Dist 2; Sen. Long, Dist
+20; Sen. Avard, Dist 12; Sen. Ward, Dist 8; Sen. Ricciardi, Dist 9; Sen. Altschiller,
+Dist24
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill prohibits camping without permission on another's private property and adds penalties
+forsuchviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB521-FN-ASINTRODUCED
+26-2077
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetounauthorizedcampingonprivateproperty.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. Unauthorized campingonpublic and privatepropertyindenselypopulated municipalities
+3 presentssignificantchallengestopublichealth,sanitation,andsafety,andinterfereswiththerights
+4 ofpropertyowners.
+5 II. Municipalities have an interest in ensuring that land is not used for habitation without
+6 appropriateconsent,oversight,andprovisionforwastedisposalandemergencyaccess.
+7 III. While current law prohibits camping on public rights-of-way and public property
+8 without permission, thereis no parallel prohibitiongoverning unauthorized campingonprivate land
+9 inlargermunicipalities,whichhasresultedinconflictsbetweenlandowners,municipalities,andlaw
+10 enforcement.
+11 IV. Itisthereforethepurposeofthisacttoextendexistingprotectionsagainstunauthorized
+12 campingtoprivatepropertyinmunicipalitiesofmorethan10,000residents,toclarifytheroleoflaw
+13 enforcementinsuchmatters,andtopreservebothpublicorderandprivatepropertyrights.
+14 2 Private Property Camping Restriction. Amend RSA 236:58 and the subdivision heading
+15 precedingRSA236:58toreadasfollows:
+16 CampingAlongHighwaysandonPublicandPrivateProperty
+17 236:58 CampingRestricted.
+18 I. No person shall pitch a tent or place or erect any other camping device or sleep on the
+19 ground within the public right-of-way or on public property unless permission is received from the
+20 governing board of the governmental authority having jurisdiction over such public right-of-way or
+21 property.
+22 II.(a) In any municipality with a population greater than 10,000 as determined by
+23 the most recent federal decennial census, no person shall camp, erect a tent, place or erect
+24 anyothercampingdevice,orsleeponthegrounduponprivatepropertyunless:
+25 (1) Thepersonhaswrittenpermissionfromtheowneroftheproperty;or
+26 (2) The property owner is continuously present on the premises at the time of
+27 suchcampingandconsentstotheactivity.
+28 (b) This paragraph shall not apply to campsites or recreational campgrounds
+29 orcampingparksregulatedpursuanttoRSA216-I.
+
+SB521-FN-ASINTRODUCED
+-Page2-
+1 III. In enforcement of paragraph II of this section, law enforcement officials shall
+2 not be required to obtain or rely upon a written no trespass order from the property owner
+3 ifthepersoncannotsatisfyeithersubparagraphII(a)(1)or(2).
+4 3 AdditionalPenaltyforCampingonPrivateProperty. AmendRSA236:59toreadasfollows:
+5 236:59 Penalty. Any person who violates RSA 236:58 shall be guilty of a violation if a natural
+6 person,orguiltyof amisdemeanorifanyotherperson;and,inaddition,shallbeliableforthecost of
+7 restoration for any damage caused to a highway easement or right-of-way or to private land
+8 disturbedbysuchunlawfulcamping.
+9 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2077
+10/2/25
+SB521-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetounauthorizedcampingonprivateproperty.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B5N-ASI6SEBNATretoudcgonpep:S.R,Dt1;S.M,Dt1;S.L,Dt2;S.L,D;S.A,Dt1;S.W,Dt8;S.R,Dt9;S.At2:Jsblpscgwtpnonaspepyadasprshv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoudcgonpepeitEdbyteSeadHeofRsinGlCtc1FsadP.TeglctfstI.Udcgonpcadpepyindypdmpsstcstopch,s,ads,adiswhterofpyoI.Msheanitinegttldisntudfrhnwaec,o,adpnfrwedladeyaI.Wectlwpscgonpcryadpcpwtp,teisnoplpnggudcgonpelinlrm,whhsrdincsbnl,m,adl0e1I.Itistetepeoftsattoedegpsatu2cgtopepyinmsofmetn10r,tocytereofl3etinshm,adtopebhpcoradpepyr42PePyCgR.AdRA28adtesnh5pgRA28tordasf6CgAgHsadonPcadPeP728CgR8I.Nopnslphattorpeoretayorcgdeorspont9gdwntepcryoronpcpyuspnisrdfmt0ggbdofteglayhgjnorshpcryo1p2I)Inaymywhapngrtn10asddb3temtrtfldlc,nopnslc,etat,peore4ayorcgd,orspontegdunpepyu5()Tepnhswnpnfmteoroftep;o6()Tepyoriscyptontepsatteteo7shcgadcstotea8()Tsphslntaytocsorrlc9orcgpsrdpttoRA2]
+[DELETED: B5N-ASIPe2I.InetofphIIoftss,lwetossntberdtoonorryunawnnotsorfmtepyoiftepnctsyershI)or(3AlPyfrCgonPeP.AdRA29tordasf29P.AypnwovsRA28slbegyofavnifanp,orgyofamrifayorp;a,ina,slbelefrtectornfraydecdtoahyetorryortopelddbyshulc4EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretoudcgonpepLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

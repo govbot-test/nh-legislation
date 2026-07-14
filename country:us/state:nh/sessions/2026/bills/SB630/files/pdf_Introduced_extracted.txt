@@ -1,0 +1,147 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB630-FN-ASINTRODUCED
+2026SESSION
+26-2189
+09/06
+630-FN
+ANACT relativetolocalauthorities'powertodeclareareasonableandsafespeedlimit.
+SPONSORS: Sen.Prentiss,Dist5
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill lowers the minimum speed limit that local authorities can declare as a reasonable and
+safespeedlimitincertainareasfrom25milesperhourto20milesperhour.
+Thisbillisarequestofthedepartmentoftransportation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB630-FN-ASINTRODUCED
+26-2189
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolocalauthorities'powertodeclareareasonableandsafespeedlimit.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SpeedLimitations;AlterationofLimits. AmendRSA265:63,I(c)and(d)toreadasfollows:
+2 (c) Decreases the limit outside an urban district but not to less than [25] 20 miles per
+3 hour;or
+4 (d) Decreases the limit within any business or urban residence district but not to less
+5 than[25]20milesperhour.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2189
+10/13/25
+SB630-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetolocalauthorities'powertodeclareareasonableandsafespeedlimit.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B6N-ASI6SEBNATretolla'prtodeareadsesdl:S.P,Dt:Tsbllstemmsdltttllascndeasareaesdltincnasfm25msprhrto20msprhsblisartoftedtoft-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretolla'prtodeareadsesdleitEdbyteSeadHeofRsinGlCtc1SdL;AnofL.AdRA2,I)ad()tordasf()Dsteltoeanundtbtnttolstn[]20msph;o()Dsteltwnaybsorunredtbtnttoltn[]20msprh2EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATretolla'prtodeareadsesdlLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB630-FN-ASINTRODUCED
+2026SESSION
+26-2189
+09/06
+630-FN
+SENATEBILL
+ANACT relativetolocalauthorities'powertodeclareareasonableandsafespeedlimit.
+SPONSORS: Sen.Prentiss,Dist5
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill lowers the minimum speed limit that local authorities can declare as a reasonable and
+safespeedlimitincertainareasfrom25milesperhourto20milesperhour.
+Thisbillisarequestofthedepartmentoftransportation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB630-FN-ASINTRODUCED
+26-2189
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolocalauthorities'powertodeclareareasonableandsafespeedlimit.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SpeedLimitations;AlterationofLimits. AmendRSA265:63,I(c)and(d)toreadasfollows:
+2 (c) Decreases the limit outside an urban district but not to less than [25] 20 miles per
+3 hour;or
+4 (d) Decreases the limit within any business or urban residence district but not to less
+5 than[25]20milesperhour.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2189
+10/13/25
+SB630-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetolocalauthorities'powertodeclareareasonableandsafespeedlimit.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B6N-ASI6SEBNATretolla'prtodeareadsesdl:S.P,Dt:Tsbllstemmsdltttllascndeasareaesdltincnasfm25msprhrto20msprhsblisartoftedtoft-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretolla'prtodeareadsesdleitEdbyteSeadHeofRsinGlCtc1SdL;AnofL.AdRA2,I)ad()tordasf()Dsteltoeanundtbtnttolstn[]20msph;o()Dsteltwnaybsorunredtbtnttoltn[]20msprh2EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATretolla'prtodeareadsesdlLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

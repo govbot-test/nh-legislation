@@ -1,0 +1,220 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB548-FN-ASINTRODUCED
+2026SESSION
+26-2132
+05/06
+548-FN
+ANACT relativetohealthcarrierprovidercontractstandards.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Avard, Dist 12; Sen. Fenton, Dist 10; Sen.
+McGough, Dist 11; Rep. Miles, Hills. 12; Rep. Burroughs, Carr. 2; Rep. Telerski,
+Hills.11;Rep.Nagel,Belk.6;Rep.Spier,Hills.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprovidesthat,whenterminationofacontractbetweenahealthcarrierandproviderwill
+affect1,000ormorecoveredpersons,theinsurancecommissionerwillholdahearingforthepurpose
+ofconsideringhowthecontractterminationwillaffectaccesstocareinthecommunity.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB548-FN-ASINTRODUCED
+26-2132
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetohealthcarrierprovidercontractstandards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Managed Care Law; Public Hearing Regarding Termination of Provider
+2 Contract; When Required. Amend RSA 420-J by inserting after section 7-e the following new
+3 section:
+4 420-J:7-f Public Hearing Regarding Termination of Provider Contract; When Required. The
+5 commissioner shall hold a public hearing within 15 business days of receiving notice that an insurer
+6 intends to terminate a contract with a provider that will affect 1,000 or more covered persons. The
+7 purpose of the hearing shall be to solicit information and testimony from the insurer, provider, and
+8 other affected parties, including members of the public, regarding the contract termination. The
+9 hearing may include testimony regarding how the contract termination will affect the community's
+10 accesstoqualityandaffordablephysicalandmentalhealthcareservices.
+11 2 ManagedCareLaw;ProviderContractStandards. AmendRSA420-J:8,XItoreadasfollows:
+12 XI. Every contract entered into after July 1, 2003 between a health carrier and any
+13 physician or facility shall contain a provision that ensures that covered persons will have continued
+14 access to the provider in the event that the contract is terminated for any reason other than
+15 unprofessional behavior. The continued access toproviders shall be madeavailablefor 60days from
+16 the date of termination of the contract and shall be provided and paid for in accordance with the
+17 terms and conditions of the covered person's health benefit plan and the prior contract between a
+18 health carrier and a health care provider. Within 5 business days of the contract termination, the
+19 health carrier and affected provider shall provide a joint written notice to affected covered
+20 persons explaining their continued access rights and provide notice that a public hearing
+21 concerning the termination will be scheduled by the insurance commissioner pursuant to
+22 RSA400-J:7-f.
+23 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2132
+11/4/25
+SB548-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetohealthcarrierprovidercontractstandards.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0 (Estimatenot (Estimatenot (Estimatenot
+providedbythe providedbythe providedbythe
+Department) Department) Department)
+RevenueFund(s) GeneralFund
+Expenditures* $0 $96,000 $132,000 $139,000
+FundingSource(s) NHInsuranceDept.AdministrationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill requires the Insurance Commissioner to hold a public hearing within 15 business days
+when an insurer terminates a provider contract affecting 1,000 or more covered persons. It also
+requires insurers and providers to jointly notify affected individuals of their continued access
+rightsandthescheduledhearing.
+TheNewHampshireInsuranceDepartment statesthisbill willincrease stateexpenditures from
+theDepartment’sAdministrationFund. TheDepartmentanticipates theneedforone additional
+staff position to organize and manage required hearings and notices. The estimated cost,
+includingsalary,benefits,andrelatedexpenses,is$96,000inFY2027,$132,000inFY2028,and
+$139,000 in FY 2029. It is assumed the position costs for FY 2028 and FY 2029 would be
+includedintheDepartment’sFY2028–FY2029budgetrequest.
+Healthcarrierswouldlikelyexperienceadditionaladministrativecostsassociatedwithhearings,
+whichcouldresultinhigherpremiumsandanindeterminableincreaseinpremiumtaxrevenue.
+To the extent counties and municipalities purchase health insurance, they could see an increase
+intheirhealthinsurancepremiums.
+AGENCIESCONTACTED:
+NewHampshireInsuranceDepartment
+[DELETED: B5N-ASI6SEBNATretohhcrprcts:S.R,Dt1;S.A,Dt1;S.F,Dt1;S,Dt1;R.M,H.1;R.B,C.2;R.T.1;R.N,B.6;R.S,H.:HhadHnSsblpst,wntnofactbnahhcradprwt10ormecdp,teiecrwlhdahgfrtepfcghwtecttnwlatastoceintec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretohhcrprctseitEdbyteSeadHeofRsinGlCtc1NwS;MdCeL;PcHgRgTnofPC;WnR.AdRA4Jbyigarsn7etefgns4fPcHgRgTnofPrC;WnR.Tcrslhdapchgwn15bsdsofrgnettaniistoteactwhaprttwlat10ormecdp.Tpeoftehgslbetostinadtyfmtei,p,aoradp,igmsoftep,rgtectt.Thgmyietyrghwtecttnwlattec0astoqyadaepladmlhhces12MdCeL;PrCtS.AdRA4,XItordasf2X.EyctedioarJy1,23bnahhcrada3pnorfyslcnapnttesttcdpswlhec4astoteprinteettttectistdfrayrnort5ulb.Tecdastopsslbemeaefr60dsf6tedeoftnoftectadslbepdadpdfrinaewht7tsadcsoftecdpshhbtpnadteprctbn8hhcradahhcep.Wn5bsdsoftectt,t9hhcradadprslpeajtwnnetoadc0psegtrcdasrsadpenettapch1cgtetnwlbesdbyteiecrptt2RA433EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATretohhcrprctsLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20(ent(ent(eneIeIeIeIdbytepdbytepdbyt)D)DeFlF0$0$0$gSHIeD.AnF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yEeIeIeIeIlR0$0$0$lEeIeIeIeIsblrsteIeCrtohdapchgwn15bsdnanirtsaprctag10ormecdp.ItasisadpstojynyadisoftrcdasadtesdheNwHeIeDtsstsblwlieseesfeDsAnF.TeDtastendfroeafpntooeadmerdhsadn.Teedcgs,b,adrde,is$0inFY2,$0inFY2,a]
+[DELETED: 0inFY2.ItisadtepncsfrFY28adFY29wdbdinteDsFY2Y29btrhcswdlyeealaecsadwhhhcdrtinhrpsadanieieinpmtxroteetcsadmspehhi,tycdseanintrhhiepSCwHeIeD]
+
+
+================================================================================
+
+Raw Text:
+SB548-FN-ASINTRODUCED
+2026SESSION
+26-2132
+05/06
+548-FN
+SENATEBILL
+ANACT relativetohealthcarrierprovidercontractstandards.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Avard, Dist 12; Sen. Fenton, Dist 10; Sen.
+McGough, Dist 11; Rep. Miles, Hills. 12; Rep. Burroughs, Carr. 2; Rep. Telerski,
+Hills.11;Rep.Nagel,Belk.6;Rep.Spier,Hills.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprovidesthat,whenterminationofacontractbetweenahealthcarrierandproviderwill
+affect1,000ormorecoveredpersons,theinsurancecommissionerwillholdahearingforthepurpose
+ofconsideringhowthecontractterminationwillaffectaccesstocareinthecommunity.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB548-FN-ASINTRODUCED
+26-2132
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetohealthcarrierprovidercontractstandards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Managed Care Law; Public Hearing Regarding Termination of Provider
+2 Contract; When Required. Amend RSA 420-J by inserting after section 7-e the following new
+3 section:
+4 420-J:7-f Public Hearing Regarding Termination of Provider Contract; When Required. The
+5 commissioner shall hold a public hearing within 15 business days of receiving notice that an insurer
+6 intends to terminate a contract with a provider that will affect 1,000 or more covered persons. The
+7 purpose of the hearing shall be to solicit information and testimony from the insurer, provider, and
+8 other affected parties, including members of the public, regarding the contract termination. The
+9 hearing may include testimony regarding how the contract termination will affect the community's
+10 accesstoqualityandaffordablephysicalandmentalhealthcareservices.
+11 2 ManagedCareLaw;ProviderContractStandards. AmendRSA420-J:8,XItoreadasfollows:
+12 XI. Every contract entered into after July 1, 2003 between a health carrier and any
+13 physician or facility shall contain a provision that ensures that covered persons will have continued
+14 access to the provider in the event that the contract is terminated for any reason other than
+15 unprofessional behavior. The continued access toproviders shall be madeavailablefor 60days from
+16 the date of termination of the contract and shall be provided and paid for in accordance with the
+17 terms and conditions of the covered person's health benefit plan and the prior contract between a
+18 health carrier and a health care provider. Within 5 business days of the contract termination, the
+19 health carrier and affected provider shall provide a joint written notice to affected covered
+20 persons explaining their continued access rights and provide notice that a public hearing
+21 concerning the termination will be scheduled by the insurance commissioner pursuant to
+22 RSA400-J:7-f.
+23 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2132
+11/4/25
+SB548-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetohealthcarrierprovidercontractstandards.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0 (Estimatenot (Estimatenot (Estimatenot
+providedbythe providedbythe providedbythe
+Department) Department) Department)
+RevenueFund(s) GeneralFund
+Expenditures* $0 $96,000 $132,000 $139,000
+FundingSource(s) NHInsuranceDept.AdministrationFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill requires the Insurance Commissioner to hold a public hearing within 15 business days
+when an insurer terminates a provider contract affecting 1,000 or more covered persons. It also
+requires insurers and providers to jointly notify affected individuals of their continued access
+rightsandthescheduledhearing.
+TheNewHampshireInsuranceDepartment statesthisbill willincrease stateexpenditures from
+theDepartment’sAdministrationFund. TheDepartmentanticipates theneedforone additional
+staff position to organize and manage required hearings and notices. The estimated cost,
+includingsalary,benefits,andrelatedexpenses,is$96,000inFY2027,$132,000inFY2028,and
+
+$139,000 in FY 2029. It is assumed the position costs for FY 2028 and FY 2029 would be
+includedintheDepartment’sFY2028–FY2029budgetrequest.
+Healthcarrierswouldlikelyexperienceadditionaladministrativecostsassociatedwithhearings,
+whichcouldresultinhigherpremiumsandanindeterminableincreaseinpremiumtaxrevenue.
+To the extent counties and municipalities purchase health insurance, they could see an increase
+intheirhealthinsurancepremiums.
+AGENCIESCONTACTED:
+NewHampshireInsuranceDepartment
+
+[DELETED: B5N-ASI6SEBNATretohhcrprcts:S.R,Dt1;S.A,Dt1;S.F,Dt1;S,Dt1;R.M,H.1;R.B,C.2;R.T.1;R.N,B.6;R.S,H.:HhadHnSsblpst,wntnofactbnahhcradprwt10ormecdp,teiecrwlhdahgfrtepfcghwtecttnwlatastoceintec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretohhcrprctseitEdbyteSeadHeofRsinGlCtc1NwS;MdCeL;PcHgRgTnofPC;WnR.AdRA4Jbyigarsn7etefgns4fPcHgRgTnofPrC;WnR.Tcrslhdapchgwn15bsdsofrgnettaniistoteactwhaprttwlat10ormecdp.Tpeoftehgslbetostinadtyfmtei,p,aoradp,igmsoftep,rgtectt.Thgmyietyrghwtecttnwlattec0astoqyadaepladmlhhces12MdCeL;PrCtS.AdRA4,XItordasf2X.EyctedioarJy1,23bnahhcrada3pnorfyslcnapnttesttcdpswlhec4astoteprinteettttectistdfrayrnort5ulb.Tecdastopsslbemeaefr60dsf6tedeoftnoftectadslbepdadpdfrinaewht7tsadcsoftecdpshhbtpnadteprctbn8hhcradahhcep.Wn5bsdsoftectt,t9hhcradadprslpeajtwnnetoadc0psegtrcdasrsadpenettapch1cgtetnwlbesdbyteiecrptt2RA433EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATretohhcrprctsLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20(ent(ent(eneIeIeIeIdbytepdbytepdbyt)D)DeFlF0$0$0$gSHIeD.AnF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yEeIeIeIeIlR0$0$0$lEeIeIeIeIsblrsteIeCrtohdapchgwn15bsdnanirtsaprctag10ormecdp.ItasisadpstojynyadisoftrcdasadtesdheNwHeIeDtsstsblwlieseesfeDsAnF.TeDtastendfroeafpntooeadmerdhsadn.Teedcgs,b,adrde,is$0inFY2,$0inFY2,a]
+[DELETED: 0inFY2.ItisadtepncsfrFY28adFY29wdbdinteDsFY2Y29btrhcswdlyeealaecsadwhhhcdrtinhrpsadanieieinpmtxroteetcsadmspehhi,tycdseanintrhhiepSCwHeIeD]

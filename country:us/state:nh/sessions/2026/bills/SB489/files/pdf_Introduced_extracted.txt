@@ -1,0 +1,106 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB489 -ASINTRODUCED
+2026SESSION
+26-2054
+08/06
+489
+ANACT requiringtheaddresscolumntobethefirstcolumnonthevoterchecklist.
+SPONSORS: Sen.Avard,Dist12;Rep.Sirois,Hills.32;Rep.Barbour,Hills.35
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequirestheaddresscolumntobethefirstcolumnonthevoterchecklist.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB489-ASINTRODUCED
+26-2054
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringtheaddresscolumntobethefirstcolumnonthevoterchecklist.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PreparingtheChecklist;OrderofColumns. AmendRSA654:25toreadasfollows:
+2 654:25 Preparing Checklist. The secretary of state shall issue and distribute guidelines for the
+3 content, composition, and style of checklists and for the maintenance of data related to checklists by
+4 which the supervisors of the checklist shall compile and correct the checklist. Such guidelines shall
+5 specify the information which will be maintained and updated by the supervisors. The secretary
+6 shall establish standard forms and procedures for the use of the supervisors for the maintenance of
+7 such information. The information to be maintained and updated shall include the full name,
+8 domicile address, mailing address, and party affiliation, if any, of each voter on the checklist and
+9 such other information as the secretary requires. Every checklist used at any election shall at a
+10 minimum contain the full name, domicile address, mailing address, and party affiliation, if any, of
+11 each voter on the checklist. The paper checklists used by ballot clerks on election day need not
+12 include mailing addresses. The name and address of a voter shall not appear on the checklist at the
+13 request of the voter if the voter presents to the supervisors of the checklist a valid protective order
+14 pursuant to RSA 173-B. The name, domicile address, and mailing address, if different, of such a
+15 voter shall be maintained on a separate list of voters, which shall be nonpublic and not subject to
+16 RSA 91-A. If it is necessary to establish such a nonpublic list, the public checklist shall be marked
+17 at the end with a notation of the number of voters whose names are maintained on the nonpublic
+18 list. The initial column on the checklist shall be the address of the voter and shall be
+19 alphabetizedbystreetname.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B49-ASI6SEBNATrgteascntobeteftcnontevrc:S.A,Dt1;R.S,H.3;R.B,H.3:EnLwadMlAsblrsteascntobeteftcnontevrc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B49-ASIEOFNWHnteYrofOrLdToTdTNATrgteascntobeteftcnontevrceitEdbyteSeadHeofRsinGlCtc1PgteC;OrofC.AdRA65tordasf65PgC.Tesyofseslieaddegsfrtc,c,adseofcsadfrtemeofdardtocsbwhtessoftectslceadcttec.Shgsssyteinwhwlbemdadudbytes.Tesslehsdfsadpsfrteueoftessfrtemeoshi.Teintobemdadudslieteflndea,mga,adpya,ifa,ofehvrontectashorinastesyr.Eyctudatayenslat0mmcntefln,dea,mga,adpya,ifa,o1ehvrontec.Teprcsudbybtcsonendyndn2iemga.Teneadasofavrslntarontectatt3rtoftevriftevrpstotessoftectavdpeo4pttoRA1.Ten,dea,admga,ifd,ofsh5vrslbemdonaseltofv,whslbencadntstt6RA9.Ifitisnytoehshancl,tepcctslbem7atteedwhannoftenrofvswensaemdonten8l.Teilcnontectslbeteasoftevradslb9adbystn02EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB489 -ASINTRODUCED
+2026SESSION
+26-2054
+08/06
+489
+SENATEBILL
+ANACT requiringtheaddresscolumntobethefirstcolumnonthevoterchecklist.
+SPONSORS: Sen.Avard,Dist12;Rep.Sirois,Hills.32;Rep.Barbour,Hills.35
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequirestheaddresscolumntobethefirstcolumnonthevoterchecklist.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB489-ASINTRODUCED
+26-2054
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringtheaddresscolumntobethefirstcolumnonthevoterchecklist.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PreparingtheChecklist;OrderofColumns. AmendRSA654:25toreadasfollows:
+2 654:25 Preparing Checklist. The secretary of state shall issue and distribute guidelines for the
+3 content, composition, and style of checklists and for the maintenance of data related to checklists by
+4 which the supervisors of the checklist shall compile and correct the checklist. Such guidelines shall
+5 specify the information which will be maintained and updated by the supervisors. The secretary
+6 shall establish standard forms and procedures for the use of the supervisors for the maintenance of
+7 such information. The information to be maintained and updated shall include the full name,
+8 domicile address, mailing address, and party affiliation, if any, of each voter on the checklist and
+9 such other information as the secretary requires. Every checklist used at any election shall at a
+10 minimum contain the full name, domicile address, mailing address, and party affiliation, if any, of
+11 each voter on the checklist. The paper checklists used by ballot clerks on election day need not
+12 include mailing addresses. The name and address of a voter shall not appear on the checklist at the
+13 request of the voter if the voter presents to the supervisors of the checklist a valid protective order
+14 pursuant to RSA 173-B. The name, domicile address, and mailing address, if different, of such a
+15 voter shall be maintained on a separate list of voters, which shall be nonpublic and not subject to
+16 RSA 91-A. If it is necessary to establish such a nonpublic list, the public checklist shall be marked
+17 at the end with a notation of the number of voters whose names are maintained on the nonpublic
+18 list. The initial column on the checklist shall be the address of the voter and shall be
+19 alphabetizedbystreetname.
+20 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B49-ASI6SEBNATrgteascntobeteftcnontevrc:S.A,Dt1;R.S,H.3;R.B,H.3:EnLwadMlAsblrsteascntobeteftcnontevrc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B49-ASIEOFNWHnteYrofOrLdToTdTNATrgteascntobeteftcnontevrceitEdbyteSeadHeofRsinGlCtc1PgteC;OrofC.AdRA65tordasf65PgC.Tesyofseslieaddegsfrtc,c,adseofcsadfrtemeofdardtocsbwhtessoftectslceadcttec.Shgsssyteinwhwlbemdadudbytes.Tesslehsdfsadpsfrteueoftessfrtemeoshi.Teintobemdadudslieteflndea,mga,adpya,ifa,ofehvrontectashorinastesyr.Eyctudatayenslat0mmcntefln,dea,mga,adpya,ifa,o1ehvrontec.Teprcsudbybtcsonendyndn2iemga.Teneadasofavrslntarontectatt3rtoftevriftevrpstotessoftectavdpeo4pttoRA1.Ten,dea,admga,ifd,ofsh5vrslbemdonaseltofv,whslbencadntstt6RA9.Ifitisnytoehshancl,tepcctslbem7atteedwhannoftenrofvswensaemdonten8l.Teilcnontectslbeteasoftevradslb9adbystn02EeD.Tsatslteet60dsarisp]

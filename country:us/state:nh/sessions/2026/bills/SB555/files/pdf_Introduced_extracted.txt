@@ -1,0 +1,1087 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+SB555-FN-ASINTRODUCED
+2026SESSION
+26-2131
+09/08
+555-FN
+ANACT relativetocriticalriskprotectionorders.
+SPONSORS: Sen. Altschiller, Dist 24; Sen. Watters, Dist 4; Sen. Reardon, Dist 15; Sen.
+Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Fenton, Dist 10; Sen.
+Long,Dist20;Rep.Bay,Straf.21;Rep.Selig,Straf.10
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a procedure for issuing critical risk protection orders to protect against
+personswhoposeanimmediateriskofharmtothemselvesorothers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB555-FN-ASINTRODUCED
+26-2131
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocriticalriskprotectionorders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Title. Thisactmaybeknownasandcitedtoasthe"CriticalRiskPreventionOrderAct."
+2 2 Statement of Purpose. The general court finds that allowing family or household members, or
+3 law enforcement officers, to petition for a court order to temporarily restrict access to firearms by
+4 individuals who are found to pose an immediate risk to themselves or others would advance public
+5 safety. Thisactshallnotapplyincasesofdomesticabuseorstalkingwherethepetitioneriseligible
+6 topetitionforreliefunderRSA173-BorRSA633:3-a.
+7 3 New Chapter; Critical Risk Protection Orders. Amend RSA by inserting after chapter 159-F
+8 thefollowingnewchapter:
+9 CHAPTER159-G
+10 CRITICALRISKPROTECTIONORDERS
+11 159-G:1 Definitions. Inthischapter:
+12 I. “Critical risk protection order” means a temporary, ex parte, or final order issued
+13 pursuant to this chapter to temporarily restrict access to firearms by individuals who are found to
+14 poseanimmediateorsignificantrisktothemselvesorothers.
+15 II. “Familyorhouseholdmember”means:
+16 (a) A spouse, ex-spouse, person cohabiting with another person, and a person who
+17 cohabited with another person in the preceding 24 months but who no longer shares the same
+18 residence.
+19 (b) A parent or other person related by consanguinity or affinity, other than a minor
+20 childwhoresideswiththerespondent.
+21 III. “Firearm”means anyweapon, includingastarter gun,whichwill,is designedto, or may
+22 bereadilyconvertedtoexpelaprojectilebytheactionofanexplosive.
+23 IV. “Intimate partner” means a person who is currently or who, in the preceding 24 months,
+24 has been involved in a romantic relationship with another, whether or not such relationship was
+25 eversexuallyconsummated.
+26 V. “Law enforcement officer” means a sheriff or deputy sheriff of any county, a state police
+27 officer,aconstableorpoliceofficerofanycityortown,oraconservationofficer.
+28 VI. “Petitioner” means a law enforcement officer, family or household member, or intimate
+29 partneroftherespondentwhofilesapetitionforacriticalriskprotectionorderunderthischapter.
+30 VII. “Respondent”meansanindividualwhoisidentifiedastherespondentinapetitionfiled
+31 underthischapter.
+SB555-FN-ASINTRODUCED
+-Page2-
+1 159-G:2 JurisdictionandVenue.
+2 I. The district division of the circuit court shall have jurisdiction over all proceedings under
+3 thischapter.
+4 II. The petitioner may commence proceedings pursuant to RSA 159-G:3 in the county or
+5 districtwhereeitherthepetitionerortherespondentresides.
+6 III. Proceedings under this chapter may be transferred to another court upon the motion of
+7 anypartyorofthecourtastheinterestsofjusticeortheconvenienceofthepartiesmayrequire.
+8 159-G:3 CommencementofProceedings;Petition;Hearing.
+9 I. A petitioner may seek relief under this chapter by filing a petition, in the county or
+10 district where the petitioner or respondent resides, alleging that the respondent poses a significant
+11 riskofcausingbodilyinjurytohimselforherselforothersbyhavingafirearmoranyammunitionin
+12 hisorhercustodyorcontrolorbypurchasing,possessing,orreceivingafirearmoranyammunition.
+13 II. Apetitionforacriticalriskprotectionordershall:
+14 (a) Be accompanied by a written affidavit, signed by the petitioner under oath. The
+15 affidavit shall contain specific factual allegations regarding the factors that give rise to petitioner’s
+16 belief that respondent poses a significant risk of causing bodily injury to himself or herself or others
+17 byhavingafirearm oranyammunitioninhisorher custodyorcontrol orbypurchasing, possessing,
+18 orreceivingafirearmoranyammunition.
+19 (b) Identify the quantities, types, and locations of all firearms and ammunition the
+20 petitionerbelievestobeintherespondent’scurrentownership,possession,custody,orcontrol.
+21 (c) Identify if there is a known existing protection order in effect against the respondent
+22 underRSA173-Boranyotherapplicablestatute.
+23 (d) Identify what steps if any have been taken to voluntarily remove firearms from the
+24 respondent.
+25 III. Any person who files a petition under this chapter containing allegations the petitioner
+26 knows to be false, or who files a petition with intent to harass the respondent, shall be subject to
+27 criminalpenalties,assetforthinRSA159-G:11.
+28 IV. Noticeof thependencyof theactionand of thefactsalleged against therespondent shall
+29 be given to the respondent, either personally or as provided in paragraph V. The petitioner shall be
+30 permitted to supplement or amend the petition only if the respondent is provided an opportunity
+31 prior to the hearing to respond to the supplemental or amended petition. All petitions filed under
+32 this chapter shall include the home and work telephone numbers of the respondent, if known.
+33 Notice of the whereabouts of the petitioner may be kept confidential by order of the court for good
+34 cause shown. Any answer by the respondent shall be filed with the court and a copy shall be
+35 providedtothepetitionerbythecourt.
+36 V. No filing fee or fee for service of process shall be charged for a petition or response under
+37 thissection, andthepetitioneror respondentmayproceedwithout legalcounsel. Alaw enforcement
+SB555-FN-ASINTRODUCED
+-Page3-
+1 officer shall serve process under this section. Any proceeding under this chapter shall not preclude
+2 anyotheravailablecivilorcriminalremedy.
+3 VI. The clerk of the circuit court shall supply forms for petitions and for relief under this
+4 chapter designed to facilitate pro se proceedings. All such petitions shall contain the following
+5 statement: “I swear that the foregoing information is true and correct to the best of my knowledge.
+6 Iunderstandthatmakingafalsestatementonthispetitionwillsubjectmetocriminalpenalties.”
+7 VII. The findings of facts shall be final, but questions of law may be transferred from the
+8 circuitcourttothesuperiorcourt.
+9 VIII.(a) The court shall hold a hearing within 7 days of the filing of a petition under this
+10 sectionorwithin4daysofserviceofprocessupontherespondent,whicheveroccurslater.
+11 (b) The time frame established in this paragraph may be extended for an additional 7
+12 days upon motion by the respondent for good cause shown. A recusal by the judge or any act of God
+13 or closingof the court that interferes withtheoriginallyscheduled hearingshall not because for the
+14 dismissal of the petition. The court shall reschedule any hearing under this section in an
+15 expeditiousmanner.
+16 IX. Inanyproceedingunder this chapter, the court shall not bebound bythetechnical rules
+17 ofevidenceandmayadmitevidencewhichitconsidersrelevant,reliable,andmaterial.
+18 159-G:4 TemporaryRelief.
+19 I. A petitioner may request, and the court may enter, a temporary critical risk protection
+20 order with or without actual notice to respondent. The court shall issue a temporary critical risk
+21 protection order if it finds, by a preponderance of the evidence, that the respondent poses an
+22 immediate and significant risk of causing bodily injury to himself or herself or others by having a
+23 firearmoranyammunitioninhisorhercustodyorcontrolorbypurchasing,possessing,orreceiving
+24 afirearmorammunition.
+25 II. Ifatemporarycriticalriskprotectionorderisrequested,thecourtshallholdatemporary
+26 ex parte risk protection order hearing in person or by telephone on the day the petition is filed or on
+27 thebusinessdayimmediatelyfollowingthedaythepetitionisfiled.
+28 III. The court shall determine, by a preponderance of the evidence, whether there is reason
+29 to believe that the respondent poses an immediate risk of causing bodily injury to himself or herself
+30 or others by having a firearm or any ammunition in his or her custody or control or by purchasing,
+31 possessing, or receiving a firearm or ammunition. The court shall consider any relevant, reliable,
+32 andmaterialevidence.
+33 IV. Temporary orders issued under this section shall prohibit the respondent from
+34 purchasing, possessing, or receiving any firearms and ammunition for the duration of the order and
+35 shall further direct the respondent to relinquish to a law enforcement officer all firearms and
+36 ammunition in the control, ownership, or possession of the respondent or any other person on behalf
+37 oftherespondent,andanylicensetocarryaloadedpistolorrevolverissuedtotherespondent under
+SB555-FN-ASINTRODUCED
+-Page4-
+1 RSA 159:6, for the duration of the protective order. The court shall require proof, which may be in
+2 the form of a verbal attestation under oath or sworn affidavit, that the respondent has surrendered
+3 anyfirearmsorammunitionownedbytherespondentorinhisorhercustody,control,orpossession.
+4 V. The court may issue such temporary orders by telephone or facsimile. Such
+5 telephonically issued orders shall be made by a circuit court judge to a law enforcement officer and
+6 shall be valid in any jurisdiction in the state. Such orders shall be returnable to the circuit court
+7 where the petitioner resides, unless otherwise ordered by the issuing judge. If non-telephonic
+8 temporary orders are made ex parte, the party against whom such relief is issued may file a written
+9 request with the clerk of the court and request an expedited hearing on such orders. Such hearing
+10 shall be held no less than 3 business days and no more than 5 business days after the request is
+11 receivedbytheclerk. SuchhearingmayconstitutethefinalhearingunderRSA159-G:3,VIII.
+12 VI. Atemporarycriticalriskprotectionordershallexpireuponthehearingonafinalcritical
+13 riskprotectionorderunderRSA159-G:3,VIII.
+14 VII. The court may subsequently issue a search warrant authorizing a law enforcement
+15 officer to search for and seize any and all firearms and ammunition in the respondent’s possession,
+16 custodyorcontrol,ifthereisprobablecausetobelieverespondenthasfirearmsorammunitionandif
+17 the court has reason to believe that such firearms or ammunition have not been relinquished by the
+18 respondent.
+19 VIII. The court shall state the particular reasons for denying or granting the petitioner’s
+20 requestforatemporarycriticalriskprotectionorder.
+21 159-G:5 Relief.
+22 I. After notice to respondent and a hearing, and upon a showing by the petitioner that there
+23 is clear and convincing evidence that the respondent poses a significant and ongoing risk of causing
+24 bodily injury to himself or herself or others by having a firearm or any ammunition in his or her
+25 custodyorcontrolorbypurchasing,possessing,orreceivingafirearmorammunition,thecourtshall
+26 issueacriticalriskprotectionorderforaperiodnottoexceed12months.
+27 II. A critical risk protection order issued under this section shall prohibit the respondent
+28 from purchasing, possessing, or receivinganyfirearms and ammunitionfor thedurationof the order
+29 and shall further direct the respondent to relinquish to a law enforcement officer all firearms and
+30 ammunition in the control, ownership, or possession of the respondent, and any license to carry a
+31 loadedpistolorrevolverissuedtotherespondentunderRSA159:6forthedurationoftheorder.
+32 III. In determining whether there is clear and convincing evidence to believe that the
+33 respondentposesanimmediateriskofcausingbodilyinjurytohimselforherselforothersbyhaving
+34 a firearm or any ammunition in his or her custody or control or by purchasing, possessing, or
+35 receiving a firearm or ammunition, the court shall consider any relevant, reliable, and material
+36 evidence.
+SB555-FN-ASINTRODUCED
+-Page5-
+1 IV. A person, including an officer of the court, who offers evidence or recommendations
+2 relating to a petition filed under this chapter either shall present the evidence or recommendations
+3 intothecourtinaswornwrittenaffidavit,withcopiestoeachpartyandhisorherattorney,ifoneis
+4 retained,orshallpresenttheevidenceunderoathatahearingatwhichallpartiesarepresent.
+5 V. During the hearing, the court shall determine if a mental health evaluation or chemical
+6 dependency evaluation is appropriate and may order such evaluation if the court finds there is clear
+7 and convincing evidence that the respondent has a serious mental illness or recurring mental health
+8 condition that is likely to lead to the respondent being a danger to themselves or others. A mental
+9 health evaluation ordered pursuant to this paragraph shall comply with the requirements of RSA
+10 135-C.
+11 VI. The court may subsequently issue a search warrant authorizing a law enforcement
+12 officer to search for and seize all firearms and ammunition in the respondent’s possession, custody,
+13 or control, if there is probable cause to believe respondent has firearms or ammunition and if the
+14 court has probable cause to believe that such firearms or ammunition have not been relinquished by
+15 the respondent. The court shall require proof, which may be in the form of a verbal attestation
+16 under oath or sworn affidavit, that the respondent has surrendered any firearms or ammunition
+17 ownedbytherespondentorinhisorhercustody,control,orpossession.
+18 159-G:6 ContentsofCriticalRiskProtectionOrders.
+19 I. Acriticalriskprotectionorderissuedunderthischaptershallincludeallofthefollowing:
+20 (a) Astatementofthegroundssupportingtheissuanceoftheorder.
+21 (b) Thedatetheorderwasissued.
+22 (c) Thedatetheorderexpires.
+23 (d) Whether a mental health evaluation or chemical dependency evaluation of the
+24 respondentisrequiredand,ifso,whentheresultsofsaidevaluationmustbeprovidedtothecourt.
+25 (e) Theaddressofthecourtinwhichanyresponsivepleadingshouldbefiled.
+26 (f) Adescriptionoftherequirementsforthesurrenderofallfirearmsandammunitionin
+27 thecontrol,ownership,orpossessionoftherespondentunderRSA159-G:8.
+28 (g) Thefollowingstatement:
+29 “To the subject of this critical risk protection order: This order will remain in effect until the date
+30 notedabove. Ifyouhavenotdonesoalready,youshallsurrenderimmediatelytothe(insertnameof
+31 locallawenforcementagency)allfirearmsandammunitionthatyouownorthatareinyourcustody,
+32 control, or possession and any license to carry a loaded pistol or revolver issued to you under RSA
+33 159:6. Youmayseektheadviceofanattorneyastoanymatterconnectedwiththisorder."
+34 II. IfthecourtissuesatemporarycriticalriskprotectionorderunderRSA159-G:4,thecourt
+35 shall inform the respondent, in writing, that he or she is entitled to request an expedited hearing as
+36 provided in RSA 159-G:4, V. The court shall provide the respondent with a form to request such a
+37 hearing.
+SB555-FN-ASINTRODUCED
+-Page6-
+1 III. If the court issues a critical risk protection order under RSA 159-G:5, the court shall
+2 inform the respondent, in writing, that he or she is entitled to request a hearing to vacate the order
+3 in the manner provided in RSA 159-G:10. The court shall provide the respondent with a form to
+4 requestahearingtovacate.
+5 IV. The court shall state the particular reasons for granting or denying the petitioner’s
+6 requestforacriticalriskprotectionorder.
+7 159-G:7 Notification;ReportingofOrders.
+8 I. A copy of any order made under this chapter shall be promptly transmitted to the local
+9 lawenforcementagencyhavingjurisdictiontoenforcesuchorderand,ifsuchpersonhasbeenissued
+10 a license to carry a loaded pistol or revolver under RSA 159:6, notice shall also be promptly made to
+11 theissuingauthorityofthelicense.
+12 II. Critical risk protection orders, including temporary critical risk protection orders, shall
+13 bepromptlyservedontherespondentbythelawenforcement officer. Modifications,extensions, and
+14 any order vacating a critical risk protection order shall be sent to the respondent’s last address of
+15 record. The respondent shall be responsible for informing the court of any changes of address. Law
+16 enforcementagenciesshallestablishprocedureswherebyalawenforcementofficeratthesceneofan
+17 allegedviolationofsuchanordermaybeinformedoftheexistenceandtermsofsuchorder.
+18 III. The clerk of the court shall enter any order issued under this chapter into a statewide
+19 judicial information system on the same day such order is issued. The order shall remain in the
+20 informationsystemaslongastheorderremainsineffect.
+21 IV. The clerk of the court shall forward a copy of any order issued under this section the
+22 same day such order is issued to the department of safety, which in turn shall forward a copy to the
+23 Federal Bureau of Investigation, or its successor agency, for inclusion in the National Instant
+24 CriminalBackgroundCheckdatabase.
+25 V. Any court-ordered changes, extensions, or modifications to the order shall be effective
+26 upon issuance of such changes, extensions, or modifications and shall be mailed or otherwise
+27 provided to the appropriate law enforcement agency, issuing authority, and transmitted to the
+28 departmentofsafetywithin24hoursoftheentryofsuchchanges,extensions,ormodifications.
+29 159-G:8 SurrenderofFirearmsandAmmunition.
+30 I. Upon issuance of any critical risk protection under this chapter, including a temporary ex
+31 parte critical risk protection order, the court shall order the respondent to surrender to the local law
+32 enforcement agency all firearms and ammunition owned by the respondent or in his or her custody,
+33 control, or possession and any license to carry a loaded pistol or revolver issued to the respondent
+34 underRSA159:6.
+35 II. The law enforcement officer serving a critical risk protection order under this section,
+36 including a temporary critical risk protection order, shall request that the respondent immediately
+37 surrender all firearms and ammunition owned by the respondent or in his or her custody, control, or
+SB555-FN-ASINTRODUCED
+-Page7-
+1 possession and any license to carry a loaded pistol or revolver issued to the respondent under RSA
+2 159:6. The law enforcement officer shall take possession of all firearms and ammunition and any
+3 license to carry a loaded pistol or revolver issued to them under RSA 159:6, which are surrendered.
+4 Alternatively, if personal service by a law enforcement officer is not possible or is not required
+5 because the respondent was present at the critical risk protection order hearing, the respondent
+6 shall surrender any firearms and ammunition owned by the respondent or in his or her custody,
+7 control, or possession and any license to carry a loaded pistol or revolver issued to them under RSA
+8 159:6, held by the respondent, in a safe manner to the control of the local law enforcement agency
+9 immediately after being served with the order by service or immediately after the hearing at which
+10 therespondentwaspresent.
+11 III. A law enforcement officer may, pursuant to RSA 159-G:4 and 159-G:5, seek a search
+12 warrant from a court of competent jurisdiction to search for and seize any and all firearms and
+13 ammunitionowned by the respondent or in his or her possession, custody or control if the officer has
+14 probablecausetobelievethatsaidfirearmsorammunitionhavenotbeensurrendered.
+15 IV. At the time of surrender, a law enforcement officer taking possession of any firearm or
+16 ammunition owned by the respondent or in his or her custody, control, or possession, or any license
+17 to carry a loaded pistol or revolver issued to respondent under RSA 159:6, shall issue a receipt
+18 identifying all firearms and the quantity and type of ammunition that have been surrendered, and
+19 any license surrendered and shall provide a copy of the receipt to the respondent. Within 72 hours
+20 after service of the order, the law enforcement officer serving the order shall file the original receipt
+21 withthecourtandshallensurethathisorherlawenforcementagencyretainsacopyofthereceipt.
+22 V. Notwithstanding RSA 595-A, upon the sworn statement or testimony of any person
+23 alleging that the respondent has failed to comply with the surrender required by any order issued
+24 under this chapter, the court shall determine whether probable cause exists to believe that the
+25 respondent has failed to surrender any firearms or ammunition owned by the respondent in his or
+26 hercustody,control,orpossession. Ifthecourtfindsthatprobablecauseexists,thecourtshallissue
+27 a warrant describing the firearms or ammunition owned by the respondent or in his her custody,
+28 control or possession and authorizing a search of the locations where any such firearms or
+29 ammunitionarereasonablybelievedtobefoundandtheseizureofanysuchfirearmsorammunition
+30 discoveredpursuanttosuchsearch.
+31 VI. If a person other than the respondent claims title to any firearms or ammunition
+32 surrendered or seized pursuant to this section and he or she is determined by the law enforcement
+33 agency to be the lawful owner of the firearm or ammunition, the firearm or ammunition shall be
+34 returnedtohimorher,if:
+35 (a) The lawful owner agrees to store the firearm or ammunition in a manner such that
+36 therespondentdoesnothaveaccesstoorcontrolofthefirearmorammunition;and
+SB555-FN-ASINTRODUCED
+-Page8-
+1 (b) The law enforcement agency conducts a background check to determine that the
+2 lawful owner is not prohibited under state or federal law from possessing the firearm or
+3 ammunition.
+4 VII. Upon the issuance of any critical risk protection order, the court shall order a new
+5 hearing date and require the respondent to appear no later than 3 business days after the issuance
+6 of the order. The court shall require proof that the respondent has surrendered any firearms or
+7 ammunitionowned bytherespondent or inhis or her custody, control, or possession. The court may
+8 cancel the hearing upon a satisfactory showing that the respondent is in compliance with the
+9 surrenderorder.
+10 VIII. All law enforcement agencies shall develop policies and procedures regarding the
+11 acceptance, storage, and return of firearms, ammunition, or licenses required to be surrendered
+12 underthissection.
+13 159-G:9 ReturnandDisposalofFirearmsandAmmunition.
+14 I. If a critical risk protection order is vacated or ends without extension, a respondent may
+15 request, by motion to the court, the return of any and all firearms and ammunition that has been
+16 surrendered to or seized by the law enforcement pursuant to this chapter. Upon receipt of such a
+17 motion, the court shall schedule a hearing no later than 15 days after the expiration of the order.
+18 The court shall provide written notice to the petitioner who shall have the right to appear and be
+19 heard, and to the law enforcement agency which has control of the firearms and ammunition. The
+20 scopeofthehearingshallbelimitedto:
+21 (a) Establishing whether the respondent is subject to any state or federal law or court
+22 orderthatprohibitstherespondentfromowningorpossessingafirearmorammunition;and
+23 (b) Under circumstances where the petitioner has requested an extension of the critical
+24 risk protection order, pursuant to section 10 of this chapter, whether the petitioner has established
+25 by clear and convincing evidence that the respondent continues to pose a significant risk of causing
+26 bodily injury to himself or herself or others by having a firearm or any ammunition in his or her
+27 custodyorcontrolorbypurchasing,possessing,orreceivingafirearmorammunition.
+28 II. If the court finds that the respondent is not subject to any state or federal law or court
+29 order prohibiting the ownership or possession of firearms, and, if applicable, the court denies the
+30 petitioner’s request to extend the critical risk protection order, the court shall issue a written order
+31 directing the law enforcement agency to return the requested firearms and ammunition to the
+32 respondent.
+33 III. Law enforcement agencies shall not release firearms and ammunition without a court
+34 order granting such release. The law enforcement agency may charge the respondent a reasonable
+35 fee for the storage of any firearms and ammunition taken surrendered or seized to a critical risk
+36 protectionorder. Thefeeshallnotexceedtheactualcostincurredbythelawenforcementagencyfor
+37 the storage of the firearms and ammunition. The respondent may make alternative arrangements
+SB555-FN-ASINTRODUCED
+-Page9-
+1 with a federally-licensed firearms dealer for the storage of firearms, at the respondent’s own
+2 expense, upon approval of the court. Such firearms shall be turned over to the appropriate law
+3 enforcement agency for transfer to the storage facility. Retrieval of such firearms shall be through
+4 the law enforcement agency responsible for their transfer to the storage facility pursuant to a court
+5 orderasprescribedinthisparagraph.
+6 IV. No law enforcement agency shall be held liable for alleged damage or deterioration due
+7 tostorageortransportationtoanyfirearmsandammunitionandspecifieddeadlyweaponsheldbya
+8 lawenforcementagency,solongasduecareisused.
+9 V. If a critical risk protection order is vacated or ends without extension, the licensing
+10 authority, if it has suspended a license to carry a loaded pistol or revolver issued to respondent
+11 under RSA 159:6 pursuant to this section, shall reinstate such license only after confirming that the
+12 respondentiscurrentlyeligibletohavesuchlicense.
+13 VI. The court shall provide written notice, sent via the United States Postal Service to the
+14 last known address of the petitioner before the return of any firearm and ammunition surrendered
+15 orseizedpursuanttothischapter.
+16 159-G:10 TerminationandExtensionofOrders.
+17 I. The respondent may submit one written request for a hearing to vacate a critical risk
+18 protection order issued under RSA 159-G:5, starting after the date of the issuance of the order, and
+19 mayrequestoneadditionalhearingaftereveryextensionoftheorder,ifany.
+20 (a) Uponreceiptoftherequestforahearingtovacateacriticalriskprotectionorder,the
+21 court shall set a date for a hearing. Notice of the request shall be served on the petitioner as
+22 provided in RSA 159-G:7. The hearing shall occur no sooner than 14 days and no later than 30 days
+23 afterthedateofserviceoftherequestuponthepetitioner.
+24 (b) The respondent shall have the burden of proving by clear and convincing evidence
+25 thattherespondent nolongerposes asignificantrisk ofcausingbodilyinjurytohimself orherself or
+26 others by having a firearm or any ammunition in his or her custody or control or by purchasing,
+27 possessing, or receiving a firearm or ammunition. The court shall consider any relevant, reliable,
+28 andmaterialevidence.
+29 (c) If the court finds after the hearing that the respondent has met his or her burden of
+30 proof,thecourtshallvacatetheorder.
+31 (d) The law enforcement agency holding any firearm or ammunition or license to carry a
+32 loaded pistol or revolver that has been surrendered or seized pursuant to this section shall be
+33 notified of the court order to vacate the critical risk protection order. The court shall also provide
+34 noticeasrequiredbyRSA159-G:7,V.
+35 II. The court shall notify the petitioner of the impending expiration of a critical risk
+36 protectionorder. Noticeshall be received bythe petitioner at least 30days before thedatethe order
+37 issettoexpire.
+SB555-FN-ASINTRODUCED
+-Page10-
+1 III. The petitioner may, by motion, request an extension of a critical risk protection order at
+2 anytimewithin30daysbeforetheendoftheorder.
+3 (a) Uponreceipt ofthemotiontoextend,thecourt shallscheduleahearingtobeheld no
+4 later than 14 days after the date the motion to extend is filed. The respondent shall be personally
+5 servedwithnoticeofthemotiontoextendasprovidedinRSA159-G:7.
+6 (b) In determining whether to extend a critical risk protection order issued under this
+7 section,thecourtshallconsideranyrelevant,reliable,andmaterialevidence.
+8 (c) If thecourtfinds byclearand convincingevidencethat therequirementsfor issuance
+9 of a critical risk protection order as provided in RSA 159-G:5 continue to be met, the court shall
+10 extendtheorder.
+11 (d) The court may extend a critical risk protection order for a period that it deems
+12 appropriate, up to and including but not exceeding 12 months, subject to an order to vacate as
+13 providedinparagraphIortoanotherextensionorderbythecourt.
+14 (e) The court shall also provide notice of the extension of the order as required in RSA
+15 159-G:7,V.
+16 159-G:11 ViolationofCriticalRiskProtectionOrder;Penalties.
+17 I. In addition to other applicable charges and penalties, a person shall be guilty of a class A
+18 misdemeanor if such person knowingly files a petition under this chapter containing false
+19 allegations,orifsuchpersonfilesapetitionwithintenttoharasstherespondent.
+20 II. Inadditiontoother applicablecharges and penalties, apersonshall beguiltyof aclass B
+21 felony if he or she knowingly violates a critical risk protection order issued under this chapter by
+22 having in his or her possession, custody, or control any firearm or ammunition while the order is in
+23 effect.
+24 III. A person who completes and signs an application for purchase of a firearm and who
+25 knows that such purchase is illegal because he or she is subject to a critical risk protection order
+26 shall be guilty of a class A misdemeanor for a first offense and a class B felony for a second or
+27 subsequentoffense.
+28 159-G:12 OrdersEnforceable.
+29 I. Any critical risk protection order issued under this chapter shall be effective throughout
+30 thestate.
+31 II. Any comparable critical risk protection order issued by any other state, tribal, or
+32 territorial court, including an ex parte order, shall be deemed valid if the issuing court had
+33 jurisdictionover theparties and matterunder thelawof thestate,tribe, or territory,and theperson
+34 against whom the order was made was given reasonable notice and opportunity to be heard. There
+35 shallbeapresumptionofvaliditywhereanorderappearsfaciallyvalid.
+36 III. Any valid critical risk protection order, as defined in paragraph II, shall be accorded full
+37 faithandcreditthroughoutthestate.
+SB555-FN-ASINTRODUCED
+-Page11-
+1 159-G:13 StandardForms.
+2 I. The administrative office of the courts shall develop instructions and informational
+3 brochures, standard petition forms, and critical risk protection order forms. The standard petition
+4 and order forms shall be developed after September 20, 2026, for use by January 1, 2027, for all
+5 petitions filed and orders issued under this chapter. The instructions, brochures, forms, and
+6 handbook shall be prepared in consultation with interested persons, judges, and law enforcement
+7 personnel. Materials shall be based on best practices and available electronically online to the
+8 public.
+9 (a) Theinstructionsshallbedesignedtoassistpetitionersincompletingthepetitionand
+10 shallincludeasampleofastandardpetitionandorderforprotectionforms.
+11 (b) The instructions and standard petition shall include a means for the petitioner to
+12 identify, with only lay knowledge, the firearms the respondent may own, possess, receive, or have in
+13 his or her custody or control. The instructions shall provide pictures of types of firearms that the
+14 petitioner may choose from to identify the relevant firearms, or an equivalent means to allow
+15 petitioners to identify firearms without requiring specific or technical knowledge regarding the
+16 firearms.
+17 (c) The informational brochure shall describe the use of and the process for obtaining,
+18 modifying, and terminating a critical risk protection order under this chapter, and provide relevant
+19 forms. The brochure shall provide plain language explanations of these processes for both
+20 petitioners and respondents. The brochure shall also clearly explain the legal requirements and
+21 processesfortherelinquishmentandreturnoffirearmspursuanttoacriticalriskprotectionorder.
+22 (d) The critical risk protection order form shall include, in a conspicuous location, notice
+23 of criminal penalties resulting from violation of the order, and the following statement: "You have
+24 the sole responsibility to avoid or refrain from violating this order's provisions. Only the court can
+25 changetheorderandonlyuponwrittenapplication."
+26 (e) The court staff handbook shall allow for the addition of a community resource list by
+27 thecourtclerk.
+28 II. The clerk of the circuit court may create a community resource list of crisis intervention,
+29 mental health, substance abuse, interpreter, counseling, and other relevant resources serving the
+30 county in which the court is located. The court may make the community resource list available as
+31 partoforinadditiontotheinformationalbrochuresdescribedinparagraphI.
+32 III. The administrative office of the courts shall distribute a master copy of the petition and
+33 order forms, instructions, and informational brochures to all court clerks and shall distribute a
+34 master copy of the petition and order forms to all clerks of the circuit courts. Distribution of all
+35 documents shall, at a minimum, be in an electronic format or formats accessible to all courts and
+36 courtclerksinthestate.
+SB555-FN-ASINTRODUCED
+-Page12-
+1 IV. The administrative office of the courts shall determine the significant non-English-
+2 speakingorlimited-English-speakingpopulationsinthestate. Theadministratorshallthenarrange
+3 for translation of the instructions and informational brochures required by this section to be
+4 developed after September 20, 2026, whichshall contain asampleof the standard petitionand order
+5 for protection forms, into the languages spoken by those significant non-English-speaking
+6 populations and shall distribute a master copy of the translated instructions and informational
+7 brochurestoallclerksofthecircuitcourtbyJanuary1,2027.
+8 V. The administrative office of the courts shall update the instructions, brochures, standard
+9 petition, and critical risk protection order forms, and court staff handbook as necessary, including
+10 whenchangesinthelawmakeanupdatenecessary.
+11 159-G:14 Reporting.
+12 I. No later than January 31 of each year, clerks of the circuit courts shall report to the
+13 administrativeofficeofthecourtsthefollowinginformation:
+14 (a) The total number of petitions for a critical risk protection order, and the total
+15 numberofthosepetitionsthatrequestedtheorderbeissuedexparteduringthepreviousyear.
+16 (b) The total number of temporary critical risk protection orders issued and the total
+17 numberdeniedduringthepreviousyear.
+18 (c) Thetotalnumberofcriticalriskprotectionordersissuedandthetotalnumberdenied
+19 duringthepreviousyear.
+20 (d) The total number of critical risk protection orders vacated upon petition by the
+21 respondentduringthepreviousyear.
+22 (e) Thetotalnumberofcriticalriskprotectionordersextendedduringthepreviousyear.
+23 II. No later than April 1 of each year the administrative office of the courts shall compile
+24 and publish on its website a report which aggregates the information received pursuant to
+25 paragraphIandlistseachcategorybycountyandtypeofcourt.
+26 4 EffectiveDate.
+27 I. RSA159-G:13,asinsertedbysection3ofthisactshalltakeeffectSeptember20,2026.
+28 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+LBA
+26-2131
+10/23/25
+SB555-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocriticalriskprotectionorders.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$500,000to $500,000to $500,000to
+$1,000,000 $1,000,000 $1,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a process allowing law enforcement or certain individuals to petition the
+Circuit Court for an order requiring a person who poses an immediate risk to themselves or
+otherstosurrenderfirearmsandammunition.
+The Judicial Branch states this bill will result in an indeterminable increase in expenditures of
+morethan$500,000andlessthan$1,000,000ingeneralfundsbeginninginFY2027.
+The Branch anticipates the creation of an entirely new and complex case type requiring the
+Circuit Court, District Division, to handle petitions, hearings, and follow-up compliance reviews
+on short timeframes. The process will displace other scheduled court matters and require
+expanded administrative and judicial resources. Because the volume of petitions cannot be
+estimated,thetotalcostisindeterminable.
+However,theJudicialBranchassumesthatatleastoneadditionalfull-timeequivalentemployee
+would be needed to administer the program, create forms, brochures, and handbooks, coordinate
+data collection, and provide ongoing training for judges and staff. In addition, the bill’s
+requirements for the translation of materials, publication of annual reports, and database
+updates would add further costs. The Branch’s existing budget cannot absorb the added
+expenses.
+TheDepartmentofSafetystatesthisbillwillnothaveanimpactontheirbudget.
+AGENCIESCONTACTED:
+JudicialBranchandDepartmentofSafety
+[DELETED: B5N-ASI6SEBNATretoclrkpno:S.A,Dt2;S.W,Dt4;S.R,Dt1;S,Dt1;S.PsK,Dt2;S.F,Dt1;S,Dt2;R.B,S.2;R.S,S.1:Jsblesapefrigclrkpnostoptaswopeanierkofhmtotsoro-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoclrkpnoeitEdbyteSeadHeofRsinGlCtc1T.Tsatmybeknasadcdtoaste"lRkPnOrA2StofP.Teglctfsttagfyorhdm,olweto,topnfractortotyrtastofsbiswoaefdtopeanierktotsoroswdaeps.TsatslntayincsofdcaeorsgweteprisetopnfrrfurRA1BorRA63NwC;ClRkPnO.AdRAbyigarcr1tefgnwcCR10CLRKPNO111D.Intsc2I.“lrkpno”msat,exp,orflori3pttotscrtotyrtastofsbyiswoaefdt4peanieorstrktotsoro5I.“yorhdm”m6()As,e,pncgwharp,adapnw7cdwharpnintepg24msbtwonolrsstes8r9()Aptororpnrdbycyora,ortnam0cdworswhter1I.“”msayw,igasrg,whw,isddt,orm2berycdtoelapebyteanofane3I.“ep”msapnwoiscyorw,intepg24m4hsbnidinarcrpwha,wrorntshrpw5ersyc6V.“weto”msasfordysfofayc,asep7o,aceorpeorofaycyort,oracno8V.“”msalweto,fyorhdm,ori9proftertwofsapnfraclrkpnorurtsc0V.“”msanilwoisidastertinapnf1urtsc]
+[DELETED: B5N-ASIPe212JnadVI.TedtdnoftectctslhejnoralpsutscI.TeprmycepspttoRA13intecyodtweerteprortertrI.Psurtscrmybetdtoarctuntemnoaypyoroftectasteisofjeorteceoftepsmyr13CtofP;P;HI.Aprmyskrfurtscrbyfgap,intecyo0dtweteprorrtr,agtttertpsas1rkofcgbyiytohforhforosbyhgafmorayani2hsorhrcyorclorbyp,p,orrgafmoraya3I.Apnfraclrkpnors4()Beadbyawna,sdbytepruro.T5atslcnscflasrgtefsttgeretop6bfttrtpsastrkofcgbyiytohforhforo7byhgafmorayaninhsorhrcyorclorbyp,p8orrgafmoraya9()Iyteq,t,adlsofalfsadant0prbstobeinterscto,p,c,orc1()Iyifteisaknegpnorinetatter2urRA1Borayoraes3()Iywtssifayhebntntovyrefsfmt4r5I.Aypnwofsapnurtscrcgastep6kstobef,orwofsapnwhittohster,slbestt7clp,asstfhinRA18I.Neoftepyofteanadoftefsadatterts9begntoter,erpyoraspdinphV.Teprslb0pdtostoradtepnoyiftertispdano1prtotehgtordtotesloradp.Alpsfdu2tscrslieteheadwktensofter,ifk3Neoftewsofteprmybektclbyoroftectfrg4ces.Ayarbytertslbefdwhtectadacyslb5pdtoteprbytec6V.Nofgfeorfefrseofpsslbecdfrapnorreu7tss,adteprorrtmypdwtllc.Alwe]
+[DELETED: B5N-ASIPe3orslsepsurtss.AypgurtscrslntpayoraeclorclrV.Teckoftectctslsyfsfrpsadfrrfurtcrddtofeposep.Alshpsslcntefs:“IsrtttefginisteadcttotebtofmykIudttmgafestontspnwlstmetoclpV.Tefsoffsslbef,btqsoflwmybetdfmtctcttotesrcV)Tectslhdahgwn7dsoftefgofapnurt0snorwn4dsofseofpsunter,wrosl1()Tetefeedintsphmybeedfranal2dsunmnbytertfrgdces.ArlbytejeorayatofG3orcgoftectttiswhteoysdhgslntbecefrt4dloftep.Tectslreayhgurtssnina5esm6I.Inaypgurtsc,tectslntbebdbytetlr7ofeeadmyateewhitcsr,r,adm814TyR9I.Aprmyr,adtectmye,atyclrkp0orwhorwtalnetor.Tectslieatyclr1pnorifitf,byapeoftee,tttertpsa2ieadstrkofcgbyiytohforhforosbyhg3fmorayaninhsorhrcyorclorbyp,p,orr4afmora5I.Ifatyclrkpnorisr,tectslhdat6experkpnorhginpnorbyteontedytepnisfdoro7tebsdyiyfgtedytepnisf8I.Tectsld,byapeoftee,wrteisr9tobetttertpsanierkofcgbyiytohforh0orosbyhgafmorayaninhsorhrcyorclorbyp1p,orrgafmora.Tectslcrayr,r2admle3I.Tyosidurtssnslpttertf4p,p,orrgayfsadanfrtednofteora5slfrdtterttorhtoalwetoralfsa6anintec,o,orpnoftertorayorpnonb7ofter,adayletocyaldplorrridtotertu]
+[DELETED: B5N-ASIPe4RA1,frtednoftepeo.Tectslrep,whmybeitefmofavlanurohorsna,ttterthssayfsoranodbytertorinhsorhrc,c,orpV.Tectmyieshtyosbyteorf.Styidosslbemebyactctjetoalwetoraslbevdinayjnintes.Shosslberetotectcweteprr,usoeodbyteigj.Ifntyosaemeexp,tepyatwmshrfisidmyfeawrtwhteckoftectadrtanedhgonsho.Shh0slbehdnolstn3bsdsadnometn5bsdsarterti1rdbytec.ShhgmyceteflhgurRA1,V2V.Atyclrkpnorsleeuntehgonaflc3rkpnorurRA1,V4V.Tectmysyieashwtagalwe5ortoshfradseayadalfsadanintersp6cyorc,ifteispecetoberthsfsoranadi7tecthsrntobettshfsoranhentbnrdbyt8r9V.Tectslseteprrsfrdgorggtep0rtfratyclrkpno115R2I.Arnetortadah,adunasgbyteprttt3iscradcgeetttertpsastadogrkofc4byiytohforhforosbyhgafmorayaninhsorh5cyorclorbyp,p,orrgafmora,tects6ieaclrkpnorfrapdnttoed12m7I.Aclrkpnoridurtssnslptter8fmp,p,orrgayfsadanfrtednofteo9adslfrdtterttorhtoalwetoralfsa0anintec,o,orpnofter,adayletocy1ldplorrridtoterturRA16frtednofteo2I.Indgwrteiscradcgeetobettt3rtpsanierkofcgbyiytohforhforosbyh4afmorayaninhsorhrcyorclorbyp,p,o5rgafmora,tectslcrayr,r,adm6e]
+[DELETED: B5N-ASIPe5I.Ap,iganoroftec,wooseeorrrgtoapnfdurtscrerslptteeeorrintotectinasnwna,whcstoehpyadhsorhra,ifoeir,orslptteeeurohatahgatwhalpsaepV.Dgteh,tectsldeifamlhhenorcdyenisaeadmyorsheniftectfsteiscadcgeettterthsassmlisorrgmlhcnttislytoldtotertbgadrtotsoro.AmhhenodpttotsphslcywhtersofR011V.Tectmysyieashwtagalwe2ortoshfradsealfsadanintersp,c3orc,ifteispecetoberthsfsoranadift4cthspecetobettshfsoranhentbnrdb5ter.Tectslrep,whmybeintefmofavla6urohorsna,ttterthssdayfsora7odbytertorinhsorhrc,c,orp816CsofClRkPnO9I.Aclrkpnoridurtscrsliealoftef0()Astoftegssgteieofteo1()Tedeteorwsi2()Tedeteore3()Wramlhhenorcldyenoft4rtisrda,ifs,wntersofsdenmtbepdtotec5()Teasoftectinwhayrepgsdbef6()Adnoftersfrtesrofalfsadani7tec,o,orpnofterturRA18()Tefgs9“otestoftsclrkpno:Tsorwlrninetulted0nda.Ifyuhentdesoa,yuslsriytote(tneo1lllweta)alfsadanttyuonorttaeinyrc2c,orpnadayletocyaldplorrridtoyuurR31.Yumyskteaeofanayastoaymrcdwhtso4I.IftectisatyclrkpnorurRA1,tec5slimter,inw,ttheorseisedtortanedhga6pdinRA1,V.Tectslpetertwhafmtortsh7h]
+[DELETED: B5N-ASIPe6I.IftectisaclrkpnorurRA1,tectsimter,inw,ttheorseisedtortahgtoveteointemrpdinRA1.TectslpetertwhafmtrtahgtovI.Tectslseteprrsfrggordgteprtfraclrkpno17N;RgofOI.Acyofayormeurtscrslbepytdtotellwetayhgjntoeeshora,ifshpnhsbni0aletocyaldplorrrurRA1,neslaobepymet1teigayoftel2I.Clrkpno,igtyclrkpno,s3bepysdontertbytelweto.M,e,a4ayorvgaclrkpnorslbesttotersltaso5r.Tertslberefrigtectofaycsofa.L6etasslehpswyalwetoratteseofa7advnofshanormybeidofteeeadtsofsho8I.Teckoftectslerayoridurtscrioas9jlinsmontesedyshorisi.Teorslrnint0insmaslgasteorrsine1I.Teckoftectslfdacyofayoridurtssnt2sedyshorisidtotedtofs,whintnslfdacytot3FlBuofI,orissra,frininteNlI4ClBdCkd5V.Aycdc,e,ormstoteorslbee6unieofshc,e,ormsadslbemdoro7pdtoteaelweta,iga,adtdtot8dtofsywn24hsofteeyofshc,e,orm918SrofFsadA0I.Unieofayclrkpnurtsc,igatye1peclrkpno,tectslorterttosrtotelll2etayalfsadanodbytertorinhsorhrc3c,orpnadayletocyaldplorrridtoter4urRA15I.Telwetorsgaclrkpnorurtss6igatyclrkpno,slrtttterti7sralfsadanodbytertorinhsorhrc,c,o]
+[DELETED: B5N-ASIPe7pnadayletocyaldplorrridtoterturR1.TelwetorsltepnofalfsadanadaletocyaldplorrridtotmurRA1,whaesA,ifplsebyalwetorisntpeorisntrbetertwsptatteclrkpnorh,terslsrayfsadanodbytertorinhsorhrcc,orpnadayletocyaldplorrridtotmurR1,hdbyter,inasemrtotecloftelllwetaiyarbgsdwhteorbyseoriyartehgatw0tertwsp1I.Alwetorm,pttoRA14ad1,skas2wtfmactofctjntoshfradseayadalfsa3anodbytertorinhsorhrp,cyorclifteorh4pecetobettsdfsoranhentbns5I.Atteteofs,alwetortgpnofayfmo6anodbytertorinhsorhrc,c,orp,orayl7tocyaldplorrridtorturRA1,sliear8igalfsadteqyadteofantthebns,a9aylesdadslpeacyofterttoter.Wn72h0arseofteo,telwetorsgteorslfeteolr1whtectadsleetthsorhrlwetayrsacyofter2V.NgRA5,untesnstortyofayp3agttterthsfdtocywhtesrrdbyayori4urtsc,tectsldewrpeceestobettt5rthsfdtosrayfsoranodbytertinhso6hrc,c,orp.Iftectfsttpecee,tectsli7awtdgtefsoranodbytertorinhshrc8clorpnadagashoftelsweayshfso9anaerybdtobefdadteseofayshfsora0ddpttoshs1V.Ifapnortntertcstetoayfsora2sdorsdpttotssnadheorseisddbytelwe3aytobetelloroftefmora,tefmoranslb4rdtohmorh,i5()Tellorastosetefmoraninamrsht6tertdsntheastoorcloftefmora;a]
+[DELETED: B5N-ASIPe8()TelwetaycsabdcktodetttllorisntpdurseorfllwfmpgtefmoaV.Unteieofayclrkpno,tectsloranhgdeadreterttoarnolrtn3bsdsarteiofteo.Tectslrepfttterthssdayfsoanodbytertorinhsorhrc,c,orp.Tectmcltehgunasysgtttertisincewhtsro0V.Allwetassldppsadpsrgt1a,s,adrnoff,a,orlsrdtobes2urtss319RnadDlofFsadA4I.Ifaclrkpnorisvdoreswte,artm5r,bymntotec,ternofayadalfsadantthsb6sdtoorsdbytelwetpttotsc.Unrtofsh7m,tectslseahgnolrtn15dsarteenofteo8Tectslpewnnetoteprwoslheterttoaradb9h,adtotelwetaywhhscloftefsada.T0seoftehgslbeldt1()Egwrtertissttoayseorfllworc2orttpstertfmogorpgafmora;a3()Urcsweteprhsrdanenoftec4rkpno,pttosn10oftsc,wrteprhse5bycradcgeetttertcstopeastrkofc6byiytohforhforosbyhgafmorayaninhsorh7cyorclorbyp,p,orrgafmora8I.Iftectfstttertisntsttoayseorfllworc9orpgteoporpnoff,a,ifa,tectdst0psrttoedteclrkpno,tectslieawno1dgtelwetaytornterdfsadantot2r3I.Lwetasslntrefsadanwtac4orggshr.Telwetaymycetertar5fefrteseofayfsadantnsdorsdtoaclr6pno.Tefeslntedtealctidbytelwetayf7teseoftefsada.Tertmymeaea]
+[DELETED: B5N-ASIPe9whafdfsdrfrteseoff,attersoe,unaloftec.Shfsslbetdortoteaeletayfrtrtotesef.RlofshfsslbettelwetayrefrtrtrtotesefypttoacoraspdintspI.Nolwetayslbehdlefraddeordndtoseortntoayfsadanadsddywshdbylweta,solgasdeceisuV.Ifaclrkpnorisvdoreswte,tel0a,ifithssdaletocyaldplorrridtor1urRA16pttotss,slreshleoyarcgttt2rtiscyeetoheshl3V.Tectslpewnn,stvateUdSsPlSetot4ltknasofteprbeternofayfmadans5orsdpttotsc610TnadEnofO7I.Tertmystoewnrtfrahgtoveaclr8pnoridurRA1,sgartedeofteieofteo,a9myrtoealhgareyenofteo,ifa0()Unrtoftertfrahgtoveaclrkpno,t1ctslstadefrah.Neoftertslbesdontepra2pdinRA1.Tehgslornosrtn14dsadnolrtn30d3artedeofseoftertuntep4()Tertslhetebnofpgbycradcge5tttertnolrpsastrkofcgbyiytohforhfo6osbyhgafmorayaninhsorhrcyorclorbyp7p,orrgafmora.Tectslcrayr,r8admle9()Iftectfsartehgttterthsmthsorhrbno0p,tectslveteo1()Telwetayhgayfmoranorletocy2ldplorrrtthsbnsdorsdpttotssnslb3ndoftectortoveteclrkpno.Tectslaop4neasrdbyRA1,V5I.Tectslnyteprofteigenofaclr6pno.Neslberdbytepratlt30dsbetedeteo7issttoe]
+[DELETED: B5N-ASIPe10I.Teprm,bym,rtanenofaclrkpnoraaytewn30dsbeteedofteo()Unrtoftemntoe,tectslseahgtobehdnlrtn14dsartedetemntoedisf.TertslbepsdwhneoftemntoedaspdinRA1()Indgwrtoedaclrkpnoridurts,tectslcrayr,r,admle()IftectfsbycradcgeetttersfriofaclrkpnoraspdinRA15cetobem,tects0edteo1()Tectmyedaclrkpnorfrapdttitd2a,uptoadigbtnteg12m,sttoanortovea3pdinphIortoarenorbytec4()TectslaopeneofteenofteorasrdinR51,V611VnofClRkPnO;P7I.Inantooraecsadp,apnslbegyofacs8mrifshpnkyfsapnurtscrcgf9a,orifshpnfsapnwhittohster0I.Inantooraecsadp,apnslbegyofacs1fyifheorsekyvsaclrkpnoridurtscrb2hginhsorhrp,c,orclayfmoranweteorisi3e4I.Apnwocsadssananfrpeofafmadw5ksttshpeisilbeheorseissttoaclrkpno6slbegyofacsAmrfraftoeadacsBfyfrasdo7sto812OsE9I.Ayclrkpnoridurtscrslbeeet0tes1I.Ayceclrkpnoridbyayors,t,o2tlc,iganexpeo,slbeddvdifteigcth3jnortepsadmrurtelwoftes,t,ort,adtep4atwmteorwsmewsgnreneadoytobeh.T5slbeapnofvyweanorasfyv6I.Ayvdclrkpno,asddinphI,slbeadf7fhadcttttes]
+[DELETED: B5N-ASIPe1113SdFI.Teaeoeoftecssldpisadib,sdpnf,adclrkpnorf.TesdpadorfsslbeddarSr2,2,fruebyJy1,2,frapsfdadosidurtsc.Tei,b,f,ahkslbepdincnwhidp,j,adlwep.Msslbebdonbtpsadaeeyoetotp()Teisslbeddtoatpsincgtepna0slieaseofasdpnadorfrpnf1()Teisadsdpnslieamsfrteprt2i,whoylyk,tefstertmyo,p,r,orhei3hsorhrcyorc.Teisslpepsoftsoffsttt4prmycefmtoiytertf,oranetmstoa5pstoiyfswtrgscortlkergt6f7()Teilbesldeteueofadtepsfro8m,adtgaclrkpnorurtsc,adper9f.Tebeslpepnleesoftepsfrb0psadr.Tebeslaocyentellrsa1psfrtertadrnoffspttoaclrkpno2()Teclrkpnorfmsli,inacsl,n3ofclpsrgfmvnofteo,adtefgs:"uh4teserytoadorrnfmvgtsosp.Oytectc5ceteoradoyunwna6()Tectsfhkslawfrteanofacyreltb7tectc8I.Teckoftectctmyceacyreltofcsi9mlh,sea,i,c,adorrtrssgt0cyinwhtectisl.Tectmymetecyreltaea1ptoforinantoteilbsddinphI2I.Teaeoeoftecssldeamrcyoftepna3orf,i,adilbstoalctcsadslde4mrcyoftepnadorfstoalcsoftectc.Dnofa5dss,atam,beinanecftorfsaetoalcsa6ctcsintes]
+[DELETED: B5N-ASIPe12I.Teaeoeoftecssldetestnsgorlgpsintes.TearsltnafrtnofteisadilbsrdbytssntobddarSr2,2,whslcnaseoftesdpnadofrpnf,iotelssnbytestnpsadsldeamrcyoftetdisadibstoalcsoftectctbyJy1,2V.Teaeoeoftecssluetei,b,sp,adclrkpnorf,adctsfhkasn,i0wncsintelwmeanuen114R2I.NolrtnJy31ofehy,csoftectcsslrttot3aeoeoftecstefgi4()Tetlnrofpsfraclrkpno,adtet5nroftepsttrdteorbeidexpedgtepsy6()Tetlnroftyclrkpnosidadtet7nrdddgtepsy8()Tetlnrofclrkpnosidadtetlnrd9dgtepsy0()Tetlnrofclrkpnosvdunpnbyt1rtdgtepsy2()Tetlnrofclrkpnoseddgtepsy3I.NolrtnAl1ofehyrteaeoeoftecsslc4adphonisweartwhasteinrdptt5phIadlsehcybycyadteofc64EeD7I.RA1,asidbysn3oftsatslteetSr2,28I.TerroftsatslteetJy1,2]
+[DELETED: B5-FLNSINATretoclrkpnoLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eFeIeIeIeI0to$0to$0t0$0$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblesapsaglwetorcnistopnttCtfranorrgapnwopsanierktotsostosrfsadaeJlBhsstsblwlrtinanieieinesoetn$0adlstn$0inglfsbginFY2eBhastecnofaneynwadcxcetergttC,DtD,tohep,h,adfpcernstt.Tepswldeorsdctmsadrdaeadjlr.Beteveofpsctb,tetlctisi,teJlBhasttatltoealfeetedbendtoartep,cef,b,adh,cac,adpeogtgfrjsads.Ina,tebsfrtetnofm,pnofalr,add]
+[DELETED: swdadfrc.TeBsegbtctabteaeDtofSysstsblwlntheanitontrbSClBhadDtofS]
+
+
+================================================================================
+
+Raw Text:
+SB555-FN-ASINTRODUCED
+2026SESSION
+26-2131
+09/08
+555-FN
+SENATEBILL
+ANACT relativetocriticalriskprotectionorders.
+SPONSORS: Sen. Altschiller, Dist 24; Sen. Watters, Dist 4; Sen. Reardon, Dist 15; Sen.
+Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Fenton, Dist 10; Sen.
+Long,Dist20;Rep.Bay,Straf.21;Rep.Selig,Straf.10
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a procedure for issuing critical risk protection orders to protect against
+personswhoposeanimmediateriskofharmtothemselvesorothers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB555-FN-ASINTRODUCED
+26-2131
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetocriticalriskprotectionorders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Title. Thisactmaybeknownasandcitedtoasthe"CriticalRiskPreventionOrderAct."
+2 2 Statement of Purpose. The general court finds that allowing family or household members, or
+3 law enforcement officers, to petition for a court order to temporarily restrict access to firearms by
+4 individuals who are found to pose an immediate risk to themselves or others would advance public
+5 safety. Thisactshallnotapplyincasesofdomesticabuseorstalkingwherethepetitioneriseligible
+6 topetitionforreliefunderRSA173-BorRSA633:3-a.
+7 3 New Chapter; Critical Risk Protection Orders. Amend RSA by inserting after chapter 159-F
+8 thefollowingnewchapter:
+9 CHAPTER159-G
+10 CRITICALRISKPROTECTIONORDERS
+11 159-G:1 Definitions. Inthischapter:
+12 I. “Critical risk protection order” means a temporary, ex parte, or final order issued
+13 pursuant to this chapter to temporarily restrict access to firearms by individuals who are found to
+14 poseanimmediateorsignificantrisktothemselvesorothers.
+15 II. “Familyorhouseholdmember”means:
+16 (a) A spouse, ex-spouse, person cohabiting with another person, and a person who
+17 cohabited with another person in the preceding 24 months but who no longer shares the same
+18 residence.
+19 (b) A parent or other person related by consanguinity or affinity, other than a minor
+20 childwhoresideswiththerespondent.
+21 III. “Firearm”means anyweapon, includingastarter gun,whichwill,is designedto, or may
+22 bereadilyconvertedtoexpelaprojectilebytheactionofanexplosive.
+23 IV. “Intimate partner” means a person who is currently or who, in the preceding 24 months,
+24 has been involved in a romantic relationship with another, whether or not such relationship was
+25 eversexuallyconsummated.
+26 V. “Law enforcement officer” means a sheriff or deputy sheriff of any county, a state police
+27 officer,aconstableorpoliceofficerofanycityortown,oraconservationofficer.
+28 VI. “Petitioner” means a law enforcement officer, family or household member, or intimate
+29 partneroftherespondentwhofilesapetitionforacriticalriskprotectionorderunderthischapter.
+30 VII. “Respondent”meansanindividualwhoisidentifiedastherespondentinapetitionfiled
+31 underthischapter.
+
+SB555-FN-ASINTRODUCED
+-Page2-
+1 159-G:2 JurisdictionandVenue.
+2 I. The district division of the circuit court shall have jurisdiction over all proceedings under
+3 thischapter.
+4 II. The petitioner may commence proceedings pursuant to RSA 159-G:3 in the county or
+5 districtwhereeitherthepetitionerortherespondentresides.
+6 III. Proceedings under this chapter may be transferred to another court upon the motion of
+7 anypartyorofthecourtastheinterestsofjusticeortheconvenienceofthepartiesmayrequire.
+8 159-G:3 CommencementofProceedings;Petition;Hearing.
+9 I. A petitioner may seek relief under this chapter by filing a petition, in the county or
+10 district where the petitioner or respondent resides, alleging that the respondent poses a significant
+11 riskofcausingbodilyinjurytohimselforherselforothersbyhavingafirearmoranyammunitionin
+12 hisorhercustodyorcontrolorbypurchasing,possessing,orreceivingafirearmoranyammunition.
+13 II. Apetitionforacriticalriskprotectionordershall:
+14 (a) Be accompanied by a written affidavit, signed by the petitioner under oath. The
+15 affidavit shall contain specific factual allegations regarding the factors that give rise to petitioner’s
+16 belief that respondent poses a significant risk of causing bodily injury to himself or herself or others
+17 byhavingafirearm oranyammunitioninhisorher custodyorcontrol orbypurchasing, possessing,
+18 orreceivingafirearmoranyammunition.
+19 (b) Identify the quantities, types, and locations of all firearms and ammunition the
+20 petitionerbelievestobeintherespondent’scurrentownership,possession,custody,orcontrol.
+21 (c) Identify if there is a known existing protection order in effect against the respondent
+22 underRSA173-Boranyotherapplicablestatute.
+23 (d) Identify what steps if any have been taken to voluntarily remove firearms from the
+24 respondent.
+25 III. Any person who files a petition under this chapter containing allegations the petitioner
+26 knows to be false, or who files a petition with intent to harass the respondent, shall be subject to
+27 criminalpenalties,assetforthinRSA159-G:11.
+28 IV. Noticeof thependencyof theactionand of thefactsalleged against therespondent shall
+29 be given to the respondent, either personally or as provided in paragraph V. The petitioner shall be
+30 permitted to supplement or amend the petition only if the respondent is provided an opportunity
+31 prior to the hearing to respond to the supplemental or amended petition. All petitions filed under
+32 this chapter shall include the home and work telephone numbers of the respondent, if known.
+33 Notice of the whereabouts of the petitioner may be kept confidential by order of the court for good
+34 cause shown. Any answer by the respondent shall be filed with the court and a copy shall be
+35 providedtothepetitionerbythecourt.
+36 V. No filing fee or fee for service of process shall be charged for a petition or response under
+37 thissection, andthepetitioneror respondentmayproceedwithout legalcounsel. Alaw enforcement
+
+SB555-FN-ASINTRODUCED
+-Page3-
+1 officer shall serve process under this section. Any proceeding under this chapter shall not preclude
+2 anyotheravailablecivilorcriminalremedy.
+3 VI. The clerk of the circuit court shall supply forms for petitions and for relief under this
+4 chapter designed to facilitate pro se proceedings. All such petitions shall contain the following
+5 statement: “I swear that the foregoing information is true and correct to the best of my knowledge.
+6 Iunderstandthatmakingafalsestatementonthispetitionwillsubjectmetocriminalpenalties.”
+7 VII. The findings of facts shall be final, but questions of law may be transferred from the
+8 circuitcourttothesuperiorcourt.
+9 VIII.(a) The court shall hold a hearing within 7 days of the filing of a petition under this
+10 sectionorwithin4daysofserviceofprocessupontherespondent,whicheveroccurslater.
+11 (b) The time frame established in this paragraph may be extended for an additional 7
+12 days upon motion by the respondent for good cause shown. A recusal by the judge or any act of God
+13 or closingof the court that interferes withtheoriginallyscheduled hearingshall not because for the
+14 dismissal of the petition. The court shall reschedule any hearing under this section in an
+15 expeditiousmanner.
+16 IX. Inanyproceedingunder this chapter, the court shall not bebound bythetechnical rules
+17 ofevidenceandmayadmitevidencewhichitconsidersrelevant,reliable,andmaterial.
+18 159-G:4 TemporaryRelief.
+19 I. A petitioner may request, and the court may enter, a temporary critical risk protection
+20 order with or without actual notice to respondent. The court shall issue a temporary critical risk
+21 protection order if it finds, by a preponderance of the evidence, that the respondent poses an
+22 immediate and significant risk of causing bodily injury to himself or herself or others by having a
+23 firearmoranyammunitioninhisorhercustodyorcontrolorbypurchasing,possessing,orreceiving
+24 afirearmorammunition.
+25 II. Ifatemporarycriticalriskprotectionorderisrequested,thecourtshallholdatemporary
+26 ex parte risk protection order hearing in person or by telephone on the day the petition is filed or on
+27 thebusinessdayimmediatelyfollowingthedaythepetitionisfiled.
+28 III. The court shall determine, by a preponderance of the evidence, whether there is reason
+29 to believe that the respondent poses an immediate risk of causing bodily injury to himself or herself
+30 or others by having a firearm or any ammunition in his or her custody or control or by purchasing,
+31 possessing, or receiving a firearm or ammunition. The court shall consider any relevant, reliable,
+32 andmaterialevidence.
+33 IV. Temporary orders issued under this section shall prohibit the respondent from
+34 purchasing, possessing, or receiving any firearms and ammunition for the duration of the order and
+35 shall further direct the respondent to relinquish to a law enforcement officer all firearms and
+36 ammunition in the control, ownership, or possession of the respondent or any other person on behalf
+37 oftherespondent,andanylicensetocarryaloadedpistolorrevolverissuedtotherespondent under
+
+SB555-FN-ASINTRODUCED
+-Page4-
+1 RSA 159:6, for the duration of the protective order. The court shall require proof, which may be in
+2 the form of a verbal attestation under oath or sworn affidavit, that the respondent has surrendered
+3 anyfirearmsorammunitionownedbytherespondentorinhisorhercustody,control,orpossession.
+4 V. The court may issue such temporary orders by telephone or facsimile. Such
+5 telephonically issued orders shall be made by a circuit court judge to a law enforcement officer and
+6 shall be valid in any jurisdiction in the state. Such orders shall be returnable to the circuit court
+7 where the petitioner resides, unless otherwise ordered by the issuing judge. If non-telephonic
+8 temporary orders are made ex parte, the party against whom such relief is issued may file a written
+9 request with the clerk of the court and request an expedited hearing on such orders. Such hearing
+10 shall be held no less than 3 business days and no more than 5 business days after the request is
+11 receivedbytheclerk. SuchhearingmayconstitutethefinalhearingunderRSA159-G:3,VIII.
+12 VI. Atemporarycriticalriskprotectionordershallexpireuponthehearingonafinalcritical
+13 riskprotectionorderunderRSA159-G:3,VIII.
+14 VII. The court may subsequently issue a search warrant authorizing a law enforcement
+15 officer to search for and seize any and all firearms and ammunition in the respondent’s possession,
+16 custodyorcontrol,ifthereisprobablecausetobelieverespondenthasfirearmsorammunitionandif
+17 the court has reason to believe that such firearms or ammunition have not been relinquished by the
+18 respondent.
+19 VIII. The court shall state the particular reasons for denying or granting the petitioner’s
+20 requestforatemporarycriticalriskprotectionorder.
+21 159-G:5 Relief.
+22 I. After notice to respondent and a hearing, and upon a showing by the petitioner that there
+23 is clear and convincing evidence that the respondent poses a significant and ongoing risk of causing
+24 bodily injury to himself or herself or others by having a firearm or any ammunition in his or her
+25 custodyorcontrolorbypurchasing,possessing,orreceivingafirearmorammunition,thecourtshall
+26 issueacriticalriskprotectionorderforaperiodnottoexceed12months.
+27 II. A critical risk protection order issued under this section shall prohibit the respondent
+28 from purchasing, possessing, or receivinganyfirearms and ammunitionfor thedurationof the order
+29 and shall further direct the respondent to relinquish to a law enforcement officer all firearms and
+30 ammunition in the control, ownership, or possession of the respondent, and any license to carry a
+31 loadedpistolorrevolverissuedtotherespondentunderRSA159:6forthedurationoftheorder.
+32 III. In determining whether there is clear and convincing evidence to believe that the
+33 respondentposesanimmediateriskofcausingbodilyinjurytohimselforherselforothersbyhaving
+34 a firearm or any ammunition in his or her custody or control or by purchasing, possessing, or
+35 receiving a firearm or ammunition, the court shall consider any relevant, reliable, and material
+36 evidence.
+
+SB555-FN-ASINTRODUCED
+-Page5-
+1 IV. A person, including an officer of the court, who offers evidence or recommendations
+2 relating to a petition filed under this chapter either shall present the evidence or recommendations
+3 intothecourtinaswornwrittenaffidavit,withcopiestoeachpartyandhisorherattorney,ifoneis
+4 retained,orshallpresenttheevidenceunderoathatahearingatwhichallpartiesarepresent.
+5 V. During the hearing, the court shall determine if a mental health evaluation or chemical
+6 dependency evaluation is appropriate and may order such evaluation if the court finds there is clear
+7 and convincing evidence that the respondent has a serious mental illness or recurring mental health
+8 condition that is likely to lead to the respondent being a danger to themselves or others. A mental
+9 health evaluation ordered pursuant to this paragraph shall comply with the requirements of RSA
+10 135-C.
+11 VI. The court may subsequently issue a search warrant authorizing a law enforcement
+12 officer to search for and seize all firearms and ammunition in the respondent’s possession, custody,
+13 or control, if there is probable cause to believe respondent has firearms or ammunition and if the
+14 court has probable cause to believe that such firearms or ammunition have not been relinquished by
+15 the respondent. The court shall require proof, which may be in the form of a verbal attestation
+16 under oath or sworn affidavit, that the respondent has surrendered any firearms or ammunition
+17 ownedbytherespondentorinhisorhercustody,control,orpossession.
+18 159-G:6 ContentsofCriticalRiskProtectionOrders.
+19 I. Acriticalriskprotectionorderissuedunderthischaptershallincludeallofthefollowing:
+20 (a) Astatementofthegroundssupportingtheissuanceoftheorder.
+21 (b) Thedatetheorderwasissued.
+22 (c) Thedatetheorderexpires.
+23 (d) Whether a mental health evaluation or chemical dependency evaluation of the
+24 respondentisrequiredand,ifso,whentheresultsofsaidevaluationmustbeprovidedtothecourt.
+25 (e) Theaddressofthecourtinwhichanyresponsivepleadingshouldbefiled.
+26 (f) Adescriptionoftherequirementsforthesurrenderofallfirearmsandammunitionin
+27 thecontrol,ownership,orpossessionoftherespondentunderRSA159-G:8.
+28 (g) Thefollowingstatement:
+29 “To the subject of this critical risk protection order: This order will remain in effect until the date
+30 notedabove. Ifyouhavenotdonesoalready,youshallsurrenderimmediatelytothe(insertnameof
+31 locallawenforcementagency)allfirearmsandammunitionthatyouownorthatareinyourcustody,
+32 control, or possession and any license to carry a loaded pistol or revolver issued to you under RSA
+33 159:6. Youmayseektheadviceofanattorneyastoanymatterconnectedwiththisorder."
+34 II. IfthecourtissuesatemporarycriticalriskprotectionorderunderRSA159-G:4,thecourt
+35 shall inform the respondent, in writing, that he or she is entitled to request an expedited hearing as
+36 provided in RSA 159-G:4, V. The court shall provide the respondent with a form to request such a
+37 hearing.
+
+SB555-FN-ASINTRODUCED
+-Page6-
+1 III. If the court issues a critical risk protection order under RSA 159-G:5, the court shall
+2 inform the respondent, in writing, that he or she is entitled to request a hearing to vacate the order
+3 in the manner provided in RSA 159-G:10. The court shall provide the respondent with a form to
+4 requestahearingtovacate.
+5 IV. The court shall state the particular reasons for granting or denying the petitioner’s
+6 requestforacriticalriskprotectionorder.
+7 159-G:7 Notification;ReportingofOrders.
+8 I. A copy of any order made under this chapter shall be promptly transmitted to the local
+9 lawenforcementagencyhavingjurisdictiontoenforcesuchorderand,ifsuchpersonhasbeenissued
+10 a license to carry a loaded pistol or revolver under RSA 159:6, notice shall also be promptly made to
+11 theissuingauthorityofthelicense.
+12 II. Critical risk protection orders, including temporary critical risk protection orders, shall
+13 bepromptlyservedontherespondentbythelawenforcement officer. Modifications,extensions, and
+14 any order vacating a critical risk protection order shall be sent to the respondent’s last address of
+15 record. The respondent shall be responsible for informing the court of any changes of address. Law
+16 enforcementagenciesshallestablishprocedureswherebyalawenforcementofficeratthesceneofan
+17 allegedviolationofsuchanordermaybeinformedoftheexistenceandtermsofsuchorder.
+18 III. The clerk of the court shall enter any order issued under this chapter into a statewide
+19 judicial information system on the same day such order is issued. The order shall remain in the
+20 informationsystemaslongastheorderremainsineffect.
+21 IV. The clerk of the court shall forward a copy of any order issued under this section the
+22 same day such order is issued to the department of safety, which in turn shall forward a copy to the
+23 Federal Bureau of Investigation, or its successor agency, for inclusion in the National Instant
+24 CriminalBackgroundCheckdatabase.
+25 V. Any court-ordered changes, extensions, or modifications to the order shall be effective
+26 upon issuance of such changes, extensions, or modifications and shall be mailed or otherwise
+27 provided to the appropriate law enforcement agency, issuing authority, and transmitted to the
+28 departmentofsafetywithin24hoursoftheentryofsuchchanges,extensions,ormodifications.
+29 159-G:8 SurrenderofFirearmsandAmmunition.
+30 I. Upon issuance of any critical risk protection under this chapter, including a temporary ex
+31 parte critical risk protection order, the court shall order the respondent to surrender to the local law
+32 enforcement agency all firearms and ammunition owned by the respondent or in his or her custody,
+33 control, or possession and any license to carry a loaded pistol or revolver issued to the respondent
+34 underRSA159:6.
+35 II. The law enforcement officer serving a critical risk protection order under this section,
+36 including a temporary critical risk protection order, shall request that the respondent immediately
+37 surrender all firearms and ammunition owned by the respondent or in his or her custody, control, or
+
+SB555-FN-ASINTRODUCED
+-Page7-
+1 possession and any license to carry a loaded pistol or revolver issued to the respondent under RSA
+2 159:6. The law enforcement officer shall take possession of all firearms and ammunition and any
+3 license to carry a loaded pistol or revolver issued to them under RSA 159:6, which are surrendered.
+4 Alternatively, if personal service by a law enforcement officer is not possible or is not required
+5 because the respondent was present at the critical risk protection order hearing, the respondent
+6 shall surrender any firearms and ammunition owned by the respondent or in his or her custody,
+7 control, or possession and any license to carry a loaded pistol or revolver issued to them under RSA
+8 159:6, held by the respondent, in a safe manner to the control of the local law enforcement agency
+9 immediately after being served with the order by service or immediately after the hearing at which
+10 therespondentwaspresent.
+11 III. A law enforcement officer may, pursuant to RSA 159-G:4 and 159-G:5, seek a search
+12 warrant from a court of competent jurisdiction to search for and seize any and all firearms and
+13 ammunitionowned by the respondent or in his or her possession, custody or control if the officer has
+14 probablecausetobelievethatsaidfirearmsorammunitionhavenotbeensurrendered.
+15 IV. At the time of surrender, a law enforcement officer taking possession of any firearm or
+16 ammunition owned by the respondent or in his or her custody, control, or possession, or any license
+17 to carry a loaded pistol or revolver issued to respondent under RSA 159:6, shall issue a receipt
+18 identifying all firearms and the quantity and type of ammunition that have been surrendered, and
+19 any license surrendered and shall provide a copy of the receipt to the respondent. Within 72 hours
+20 after service of the order, the law enforcement officer serving the order shall file the original receipt
+21 withthecourtandshallensurethathisorherlawenforcementagencyretainsacopyofthereceipt.
+22 V. Notwithstanding RSA 595-A, upon the sworn statement or testimony of any person
+23 alleging that the respondent has failed to comply with the surrender required by any order issued
+24 under this chapter, the court shall determine whether probable cause exists to believe that the
+25 respondent has failed to surrender any firearms or ammunition owned by the respondent in his or
+26 hercustody,control,orpossession. Ifthecourtfindsthatprobablecauseexists,thecourtshallissue
+27 a warrant describing the firearms or ammunition owned by the respondent or in his her custody,
+28 control or possession and authorizing a search of the locations where any such firearms or
+29 ammunitionarereasonablybelievedtobefoundandtheseizureofanysuchfirearmsorammunition
+30 discoveredpursuanttosuchsearch.
+31 VI. If a person other than the respondent claims title to any firearms or ammunition
+32 surrendered or seized pursuant to this section and he or she is determined by the law enforcement
+33 agency to be the lawful owner of the firearm or ammunition, the firearm or ammunition shall be
+34 returnedtohimorher,if:
+35 (a) The lawful owner agrees to store the firearm or ammunition in a manner such that
+36 therespondentdoesnothaveaccesstoorcontrolofthefirearmorammunition;and
+
+SB555-FN-ASINTRODUCED
+-Page8-
+1 (b) The law enforcement agency conducts a background check to determine that the
+2 lawful owner is not prohibited under state or federal law from possessing the firearm or
+3 ammunition.
+4 VII. Upon the issuance of any critical risk protection order, the court shall order a new
+5 hearing date and require the respondent to appear no later than 3 business days after the issuance
+6 of the order. The court shall require proof that the respondent has surrendered any firearms or
+7 ammunitionowned bytherespondent or inhis or her custody, control, or possession. The court may
+8 cancel the hearing upon a satisfactory showing that the respondent is in compliance with the
+9 surrenderorder.
+10 VIII. All law enforcement agencies shall develop policies and procedures regarding the
+11 acceptance, storage, and return of firearms, ammunition, or licenses required to be surrendered
+12 underthissection.
+13 159-G:9 ReturnandDisposalofFirearmsandAmmunition.
+14 I. If a critical risk protection order is vacated or ends without extension, a respondent may
+15 request, by motion to the court, the return of any and all firearms and ammunition that has been
+16 surrendered to or seized by the law enforcement pursuant to this chapter. Upon receipt of such a
+17 motion, the court shall schedule a hearing no later than 15 days after the expiration of the order.
+18 The court shall provide written notice to the petitioner who shall have the right to appear and be
+19 heard, and to the law enforcement agency which has control of the firearms and ammunition. The
+20 scopeofthehearingshallbelimitedto:
+21 (a) Establishing whether the respondent is subject to any state or federal law or court
+22 orderthatprohibitstherespondentfromowningorpossessingafirearmorammunition;and
+23 (b) Under circumstances where the petitioner has requested an extension of the critical
+24 risk protection order, pursuant to section 10 of this chapter, whether the petitioner has established
+25 by clear and convincing evidence that the respondent continues to pose a significant risk of causing
+26 bodily injury to himself or herself or others by having a firearm or any ammunition in his or her
+27 custodyorcontrolorbypurchasing,possessing,orreceivingafirearmorammunition.
+28 II. If the court finds that the respondent is not subject to any state or federal law or court
+29 order prohibiting the ownership or possession of firearms, and, if applicable, the court denies the
+30 petitioner’s request to extend the critical risk protection order, the court shall issue a written order
+31 directing the law enforcement agency to return the requested firearms and ammunition to the
+32 respondent.
+33 III. Law enforcement agencies shall not release firearms and ammunition without a court
+34 order granting such release. The law enforcement agency may charge the respondent a reasonable
+35 fee for the storage of any firearms and ammunition taken surrendered or seized to a critical risk
+36 protectionorder. Thefeeshallnotexceedtheactualcostincurredbythelawenforcementagencyfor
+37 the storage of the firearms and ammunition. The respondent may make alternative arrangements
+
+SB555-FN-ASINTRODUCED
+-Page9-
+1 with a federally-licensed firearms dealer for the storage of firearms, at the respondent’s own
+2 expense, upon approval of the court. Such firearms shall be turned over to the appropriate law
+3 enforcement agency for transfer to the storage facility. Retrieval of such firearms shall be through
+4 the law enforcement agency responsible for their transfer to the storage facility pursuant to a court
+5 orderasprescribedinthisparagraph.
+6 IV. No law enforcement agency shall be held liable for alleged damage or deterioration due
+7 tostorageortransportationtoanyfirearmsandammunitionandspecifieddeadlyweaponsheldbya
+8 lawenforcementagency,solongasduecareisused.
+9 V. If a critical risk protection order is vacated or ends without extension, the licensing
+10 authority, if it has suspended a license to carry a loaded pistol or revolver issued to respondent
+11 under RSA 159:6 pursuant to this section, shall reinstate such license only after confirming that the
+12 respondentiscurrentlyeligibletohavesuchlicense.
+13 VI. The court shall provide written notice, sent via the United States Postal Service to the
+14 last known address of the petitioner before the return of any firearm and ammunition surrendered
+15 orseizedpursuanttothischapter.
+16 159-G:10 TerminationandExtensionofOrders.
+17 I. The respondent may submit one written request for a hearing to vacate a critical risk
+18 protection order issued under RSA 159-G:5, starting after the date of the issuance of the order, and
+19 mayrequestoneadditionalhearingaftereveryextensionoftheorder,ifany.
+20 (a) Uponreceiptoftherequestforahearingtovacateacriticalriskprotectionorder,the
+21 court shall set a date for a hearing. Notice of the request shall be served on the petitioner as
+22 provided in RSA 159-G:7. The hearing shall occur no sooner than 14 days and no later than 30 days
+23 afterthedateofserviceoftherequestuponthepetitioner.
+24 (b) The respondent shall have the burden of proving by clear and convincing evidence
+25 thattherespondent nolongerposes asignificantrisk ofcausingbodilyinjurytohimself orherself or
+26 others by having a firearm or any ammunition in his or her custody or control or by purchasing,
+27 possessing, or receiving a firearm or ammunition. The court shall consider any relevant, reliable,
+28 andmaterialevidence.
+29 (c) If the court finds after the hearing that the respondent has met his or her burden of
+30 proof,thecourtshallvacatetheorder.
+31 (d) The law enforcement agency holding any firearm or ammunition or license to carry a
+32 loaded pistol or revolver that has been surrendered or seized pursuant to this section shall be
+33 notified of the court order to vacate the critical risk protection order. The court shall also provide
+34 noticeasrequiredbyRSA159-G:7,V.
+35 II. The court shall notify the petitioner of the impending expiration of a critical risk
+36 protectionorder. Noticeshall be received bythe petitioner at least 30days before thedatethe order
+37 issettoexpire.
+
+SB555-FN-ASINTRODUCED
+-Page10-
+1 III. The petitioner may, by motion, request an extension of a critical risk protection order at
+2 anytimewithin30daysbeforetheendoftheorder.
+3 (a) Uponreceipt ofthemotiontoextend,thecourt shallscheduleahearingtobeheld no
+4 later than 14 days after the date the motion to extend is filed. The respondent shall be personally
+5 servedwithnoticeofthemotiontoextendasprovidedinRSA159-G:7.
+6 (b) In determining whether to extend a critical risk protection order issued under this
+7 section,thecourtshallconsideranyrelevant,reliable,andmaterialevidence.
+8 (c) If thecourtfinds byclearand convincingevidencethat therequirementsfor issuance
+9 of a critical risk protection order as provided in RSA 159-G:5 continue to be met, the court shall
+10 extendtheorder.
+11 (d) The court may extend a critical risk protection order for a period that it deems
+12 appropriate, up to and including but not exceeding 12 months, subject to an order to vacate as
+13 providedinparagraphIortoanotherextensionorderbythecourt.
+14 (e) The court shall also provide notice of the extension of the order as required in RSA
+15 159-G:7,V.
+16 159-G:11 ViolationofCriticalRiskProtectionOrder;Penalties.
+17 I. In addition to other applicable charges and penalties, a person shall be guilty of a class A
+18 misdemeanor if such person knowingly files a petition under this chapter containing false
+19 allegations,orifsuchpersonfilesapetitionwithintenttoharasstherespondent.
+20 II. Inadditiontoother applicablecharges and penalties, apersonshall beguiltyof aclass B
+21 felony if he or she knowingly violates a critical risk protection order issued under this chapter by
+22 having in his or her possession, custody, or control any firearm or ammunition while the order is in
+23 effect.
+24 III. A person who completes and signs an application for purchase of a firearm and who
+25 knows that such purchase is illegal because he or she is subject to a critical risk protection order
+26 shall be guilty of a class A misdemeanor for a first offense and a class B felony for a second or
+27 subsequentoffense.
+28 159-G:12 OrdersEnforceable.
+29 I. Any critical risk protection order issued under this chapter shall be effective throughout
+30 thestate.
+31 II. Any comparable critical risk protection order issued by any other state, tribal, or
+32 territorial court, including an ex parte order, shall be deemed valid if the issuing court had
+33 jurisdictionover theparties and matterunder thelawof thestate,tribe, or territory,and theperson
+34 against whom the order was made was given reasonable notice and opportunity to be heard. There
+35 shallbeapresumptionofvaliditywhereanorderappearsfaciallyvalid.
+36 III. Any valid critical risk protection order, as defined in paragraph II, shall be accorded full
+37 faithandcreditthroughoutthestate.
+
+SB555-FN-ASINTRODUCED
+-Page11-
+1 159-G:13 StandardForms.
+2 I. The administrative office of the courts shall develop instructions and informational
+3 brochures, standard petition forms, and critical risk protection order forms. The standard petition
+4 and order forms shall be developed after September 20, 2026, for use by January 1, 2027, for all
+5 petitions filed and orders issued under this chapter. The instructions, brochures, forms, and
+6 handbook shall be prepared in consultation with interested persons, judges, and law enforcement
+7 personnel. Materials shall be based on best practices and available electronically online to the
+8 public.
+9 (a) Theinstructionsshallbedesignedtoassistpetitionersincompletingthepetitionand
+10 shallincludeasampleofastandardpetitionandorderforprotectionforms.
+11 (b) The instructions and standard petition shall include a means for the petitioner to
+12 identify, with only lay knowledge, the firearms the respondent may own, possess, receive, or have in
+13 his or her custody or control. The instructions shall provide pictures of types of firearms that the
+14 petitioner may choose from to identify the relevant firearms, or an equivalent means to allow
+15 petitioners to identify firearms without requiring specific or technical knowledge regarding the
+16 firearms.
+17 (c) The informational brochure shall describe the use of and the process for obtaining,
+18 modifying, and terminating a critical risk protection order under this chapter, and provide relevant
+19 forms. The brochure shall provide plain language explanations of these processes for both
+20 petitioners and respondents. The brochure shall also clearly explain the legal requirements and
+21 processesfortherelinquishmentandreturnoffirearmspursuanttoacriticalriskprotectionorder.
+22 (d) The critical risk protection order form shall include, in a conspicuous location, notice
+23 of criminal penalties resulting from violation of the order, and the following statement: "You have
+24 the sole responsibility to avoid or refrain from violating this order's provisions. Only the court can
+25 changetheorderandonlyuponwrittenapplication."
+26 (e) The court staff handbook shall allow for the addition of a community resource list by
+27 thecourtclerk.
+28 II. The clerk of the circuit court may create a community resource list of crisis intervention,
+29 mental health, substance abuse, interpreter, counseling, and other relevant resources serving the
+30 county in which the court is located. The court may make the community resource list available as
+31 partoforinadditiontotheinformationalbrochuresdescribedinparagraphI.
+32 III. The administrative office of the courts shall distribute a master copy of the petition and
+33 order forms, instructions, and informational brochures to all court clerks and shall distribute a
+34 master copy of the petition and order forms to all clerks of the circuit courts. Distribution of all
+35 documents shall, at a minimum, be in an electronic format or formats accessible to all courts and
+36 courtclerksinthestate.
+
+SB555-FN-ASINTRODUCED
+-Page12-
+1 IV. The administrative office of the courts shall determine the significant non-English-
+2 speakingorlimited-English-speakingpopulationsinthestate. Theadministratorshallthenarrange
+3 for translation of the instructions and informational brochures required by this section to be
+4 developed after September 20, 2026, whichshall contain asampleof the standard petitionand order
+5 for protection forms, into the languages spoken by those significant non-English-speaking
+6 populations and shall distribute a master copy of the translated instructions and informational
+7 brochurestoallclerksofthecircuitcourtbyJanuary1,2027.
+8 V. The administrative office of the courts shall update the instructions, brochures, standard
+9 petition, and critical risk protection order forms, and court staff handbook as necessary, including
+10 whenchangesinthelawmakeanupdatenecessary.
+11 159-G:14 Reporting.
+12 I. No later than January 31 of each year, clerks of the circuit courts shall report to the
+13 administrativeofficeofthecourtsthefollowinginformation:
+14 (a) The total number of petitions for a critical risk protection order, and the total
+15 numberofthosepetitionsthatrequestedtheorderbeissuedexparteduringthepreviousyear.
+16 (b) The total number of temporary critical risk protection orders issued and the total
+17 numberdeniedduringthepreviousyear.
+18 (c) Thetotalnumberofcriticalriskprotectionordersissuedandthetotalnumberdenied
+19 duringthepreviousyear.
+20 (d) The total number of critical risk protection orders vacated upon petition by the
+21 respondentduringthepreviousyear.
+22 (e) Thetotalnumberofcriticalriskprotectionordersextendedduringthepreviousyear.
+23 II. No later than April 1 of each year the administrative office of the courts shall compile
+24 and publish on its website a report which aggregates the information received pursuant to
+25 paragraphIandlistseachcategorybycountyandtypeofcourt.
+26 4 EffectiveDate.
+27 I. RSA159-G:13,asinsertedbysection3ofthisactshalltakeeffectSeptember20,2026.
+28 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2131
+10/23/25
+SB555-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetocriticalriskprotectionorders.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Expenditures* $0
+$500,000to $500,000to $500,000to
+$1,000,000 $1,000,000 $1,000,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a process allowing law enforcement or certain individuals to petition the
+Circuit Court for an order requiring a person who poses an immediate risk to themselves or
+otherstosurrenderfirearmsandammunition.
+The Judicial Branch states this bill will result in an indeterminable increase in expenditures of
+morethan$500,000andlessthan$1,000,000ingeneralfundsbeginninginFY2027.
+The Branch anticipates the creation of an entirely new and complex case type requiring the
+Circuit Court, District Division, to handle petitions, hearings, and follow-up compliance reviews
+on short timeframes. The process will displace other scheduled court matters and require
+expanded administrative and judicial resources. Because the volume of petitions cannot be
+estimated,thetotalcostisindeterminable.
+However,theJudicialBranchassumesthatatleastoneadditionalfull-timeequivalentemployee
+would be needed to administer the program, create forms, brochures, and handbooks, coordinate
+data collection, and provide ongoing training for judges and staff. In addition, the bill’s
+requirements for the translation of materials, publication of annual reports, and database
+
+updates would add further costs. The Branch’s existing budget cannot absorb the added
+expenses.
+TheDepartmentofSafetystatesthisbillwillnothaveanimpactontheirbudget.
+AGENCIESCONTACTED:
+JudicialBranchandDepartmentofSafety
+
+[DELETED: B5N-ASI6SEBNATretoclrkpno:S.A,Dt2;S.W,Dt4;S.R,Dt1;S,Dt1;S.PsK,Dt2;S.F,Dt1;S,Dt2;R.B,S.2;R.S,S.1:Jsblesapefrigclrkpnostoptaswopeanierkofhmtotsoro-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoclrkpnoeitEdbyteSeadHeofRsinGlCtc1T.Tsatmybeknasadcdtoaste"lRkPnOrA2StofP.Teglctfsttagfyorhdm,olweto,topnfractortotyrtastofsbiswoaefdtopeanierktotsoroswdaeps.TsatslntayincsofdcaeorsgweteprisetopnfrrfurRA1BorRA63NwC;ClRkPnO.AdRAbyigarcr1tefgnwcCR10CLRKPNO111D.Intsc2I.“lrkpno”msat,exp,orflori3pttotscrtotyrtastofsbyiswoaefdt4peanieorstrktotsoro5I.“yorhdm”m6()As,e,pncgwharp,adapnw7cdwharpnintepg24msbtwonolrsstes8r9()Aptororpnrdbycyora,ortnam0cdworswhter1I.“”msayw,igasrg,whw,isddt,orm2berycdtoelapebyteanofane3I.“ep”msapnwoiscyorw,intepg24m4hsbnidinarcrpwha,wrorntshrpw5ersyc6V.“weto”msasfordysfofayc,asep7o,aceorpeorofaycyort,oracno8V.“”msalweto,fyorhdm,ori9proftertwofsapnfraclrkpnorurtsc0V.“”msanilwoisidastertinapnf1urtsc]
+[DELETED: B5N-ASIPe212JnadVI.TedtdnoftectctslhejnoralpsutscI.TeprmycepspttoRA13intecyodtweerteprortertrI.Psurtscrmybetdtoarctuntemnoaypyoroftectasteisofjeorteceoftepsmyr13CtofP;P;HI.Aprmyskrfurtscrbyfgap,intecyo0dtweteprorrtr,agtttertpsas1rkofcgbyiytohforhforosbyhgafmorayani2hsorhrcyorclorbyp,p,orrgafmoraya3I.Apnfraclrkpnors4()Beadbyawna,sdbytepruro.T5atslcnscflasrgtefsttgeretop6bfttrtpsastrkofcgbyiytohforhforo7byhgafmorayaninhsorhrcyorclorbyp,p8orrgafmoraya9()Iyteq,t,adlsofalfsadant0prbstobeinterscto,p,c,orc1()Iyifteisaknegpnorinetatter2urRA1Borayoraes3()Iywtssifayhebntntovyrefsfmt4r5I.Aypnwofsapnurtscrcgastep6kstobef,orwofsapnwhittohster,slbestt7clp,asstfhinRA18I.Neoftepyofteanadoftefsadatterts9begntoter,erpyoraspdinphV.Teprslb0pdtostoradtepnoyiftertispdano1prtotehgtordtotesloradp.Alpsfdu2tscrslieteheadwktensofter,ifk3Neoftewsofteprmybektclbyoroftectfrg4ces.Ayarbytertslbefdwhtectadacyslb5pdtoteprbytec6V.Nofgfeorfefrseofpsslbecdfrapnorreu7tss,adteprorrtmypdwtllc.Alwe]
+[DELETED: B5N-ASIPe3orslsepsurtss.AypgurtscrslntpayoraeclorclrV.Teckoftectctslsyfsfrpsadfrrfurtcrddtofeposep.Alshpsslcntefs:“IsrtttefginisteadcttotebtofmykIudttmgafestontspnwlstmetoclpV.Tefsoffsslbef,btqsoflwmybetdfmtctcttotesrcV)Tectslhdahgwn7dsoftefgofapnurt0snorwn4dsofseofpsunter,wrosl1()Tetefeedintsphmybeedfranal2dsunmnbytertfrgdces.ArlbytejeorayatofG3orcgoftectttiswhteoysdhgslntbecefrt4dloftep.Tectslreayhgurtssnina5esm6I.Inaypgurtsc,tectslntbebdbytetlr7ofeeadmyateewhitcsr,r,adm814TyR9I.Aprmyr,adtectmye,atyclrkp0orwhorwtalnetor.Tectslieatyclr1pnorifitf,byapeoftee,tttertpsa2ieadstrkofcgbyiytohforhforosbyhg3fmorayaninhsorhrcyorclorbyp,p,orr4afmora5I.Ifatyclrkpnorisr,tectslhdat6experkpnorhginpnorbyteontedytepnisfdoro7tebsdyiyfgtedytepnisf8I.Tectsld,byapeoftee,wrteisr9tobetttertpsanierkofcgbyiytohforh0orosbyhgafmorayaninhsorhrcyorclorbyp1p,orrgafmora.Tectslcrayr,r2admle3I.Tyosidurtssnslpttertf4p,p,orrgayfsadanfrtednofteora5slfrdtterttorhtoalwetoralfsa6anintec,o,orpnoftertorayorpnonb7ofter,adayletocyaldplorrridtotertu]
+[DELETED: B5N-ASIPe4RA1,frtednoftepeo.Tectslrep,whmybeitefmofavlanurohorsna,ttterthssayfsoranodbytertorinhsorhrc,c,orpV.Tectmyieshtyosbyteorf.Styidosslbemebyactctjetoalwetoraslbevdinayjnintes.Shosslberetotectcweteprr,usoeodbyteigj.Ifntyosaemeexp,tepyatwmshrfisidmyfeawrtwhteckoftectadrtanedhgonsho.Shh0slbehdnolstn3bsdsadnometn5bsdsarterti1rdbytec.ShhgmyceteflhgurRA1,V2V.Atyclrkpnorsleeuntehgonaflc3rkpnorurRA1,V4V.Tectmysyieashwtagalwe5ortoshfradseayadalfsadanintersp6cyorc,ifteispecetoberthsfsoranadi7tecthsrntobettshfsoranhentbnrdbyt8r9V.Tectslseteprrsfrdgorggtep0rtfratyclrkpno115R2I.Arnetortadah,adunasgbyteprttt3iscradcgeetttertpsastadogrkofc4byiytohforhforosbyhgafmorayaninhsorh5cyorclorbyp,p,orrgafmora,tects6ieaclrkpnorfrapdnttoed12m7I.Aclrkpnoridurtssnslptter8fmp,p,orrgayfsadanfrtednofteo9adslfrdtterttorhtoalwetoralfsa0anintec,o,orpnofter,adayletocy1ldplorrridtoterturRA16frtednofteo2I.Indgwrteiscradcgeetobettt3rtpsanierkofcgbyiytohforhforosbyh4afmorayaninhsorhrcyorclorbyp,p,o5rgafmora,tectslcrayr,r,adm6e]
+[DELETED: B5N-ASIPe5I.Ap,iganoroftec,wooseeorrrgtoapnfdurtscrerslptteeeorrintotectinasnwna,whcstoehpyadhsorhra,ifoeir,orslptteeeurohatahgatwhalpsaepV.Dgteh,tectsldeifamlhhenorcdyenisaeadmyorsheniftectfsteiscadcgeettterthsassmlisorrgmlhcnttislytoldtotertbgadrtotsoro.AmhhenodpttotsphslcywhtersofR011V.Tectmysyieashwtagalwe2ortoshfradsealfsadanintersp,c3orc,ifteispecetoberthsfsoranadift4cthspecetobettshfsoranhentbnrdb5ter.Tectslrep,whmybeintefmofavla6urohorsna,ttterthssdayfsora7odbytertorinhsorhrc,c,orp816CsofClRkPnO9I.Aclrkpnoridurtscrsliealoftef0()Astoftegssgteieofteo1()Tedeteorwsi2()Tedeteore3()Wramlhhenorcldyenoft4rtisrda,ifs,wntersofsdenmtbepdtotec5()Teasoftectinwhayrepgsdbef6()Adnoftersfrtesrofalfsadani7tec,o,orpnofterturRA18()Tefgs9“otestoftsclrkpno:Tsorwlrninetulted0nda.Ifyuhentdesoa,yuslsriytote(tneo1lllweta)alfsadanttyuonorttaeinyrc2c,orpnadayletocyaldplorrridtoyuurR31.Yumyskteaeofanayastoaymrcdwhtso4I.IftectisatyclrkpnorurRA1,tec5slimter,inw,ttheorseisedtortanedhga6pdinRA1,V.Tectslpetertwhafmtortsh7h]
+[DELETED: B5N-ASIPe6I.IftectisaclrkpnorurRA1,tectsimter,inw,ttheorseisedtortahgtoveteointemrpdinRA1.TectslpetertwhafmtrtahgtovI.Tectslseteprrsfrggordgteprtfraclrkpno17N;RgofOI.Acyofayormeurtscrslbepytdtotellwetayhgjntoeeshora,ifshpnhsbni0aletocyaldplorrrurRA1,neslaobepymet1teigayoftel2I.Clrkpno,igtyclrkpno,s3bepysdontertbytelweto.M,e,a4ayorvgaclrkpnorslbesttotersltaso5r.Tertslberefrigtectofaycsofa.L6etasslehpswyalwetoratteseofa7advnofshanormybeidofteeeadtsofsho8I.Teckoftectslerayoridurtscrioas9jlinsmontesedyshorisi.Teorslrnint0insmaslgasteorrsine1I.Teckoftectslfdacyofayoridurtssnt2sedyshorisidtotedtofs,whintnslfdacytot3FlBuofI,orissra,frininteNlI4ClBdCkd5V.Aycdc,e,ormstoteorslbee6unieofshc,e,ormsadslbemdoro7pdtoteaelweta,iga,adtdtot8dtofsywn24hsofteeyofshc,e,orm918SrofFsadA0I.Unieofayclrkpnurtsc,igatye1peclrkpno,tectslorterttosrtotelll2etayalfsadanodbytertorinhsorhrc3c,orpnadayletocyaldplorrridtoter4urRA15I.Telwetorsgaclrkpnorurtss6igatyclrkpno,slrtttterti7sralfsadanodbytertorinhsorhrc,c,o]
+[DELETED: B5N-ASIPe7pnadayletocyaldplorrridtoterturR1.TelwetorsltepnofalfsadanadaletocyaldplorrridtotmurRA1,whaesA,ifplsebyalwetorisntpeorisntrbetertwsptatteclrkpnorh,terslsrayfsadanodbytertorinhsorhrcc,orpnadayletocyaldplorrridtotmurR1,hdbyter,inasemrtotecloftelllwetaiyarbgsdwhteorbyseoriyartehgatw0tertwsp1I.Alwetorm,pttoRA14ad1,skas2wtfmactofctjntoshfradseayadalfsa3anodbytertorinhsorhrp,cyorclifteorh4pecetobettsdfsoranhentbns5I.Atteteofs,alwetortgpnofayfmo6anodbytertorinhsorhrc,c,orp,orayl7tocyaldplorrridtorturRA1,sliear8igalfsadteqyadteofantthebns,a9aylesdadslpeacyofterttoter.Wn72h0arseofteo,telwetorsgteorslfeteolr1whtectadsleetthsorhrlwetayrsacyofter2V.NgRA5,untesnstortyofayp3agttterthsfdtocywhtesrrdbyayori4urtsc,tectsldewrpeceestobettt5rthsfdtosrayfsoranodbytertinhso6hrc,c,orp.Iftectfsttpecee,tectsli7awtdgtefsoranodbytertorinhshrc8clorpnadagashoftelsweayshfso9anaerybdtobefdadteseofayshfsora0ddpttoshs1V.Ifapnortntertcstetoayfsora2sdorsdpttotssnadheorseisddbytelwe3aytobetelloroftefmora,tefmoranslb4rdtohmorh,i5()Tellorastosetefmoraninamrsht6tertdsntheastoorcloftefmora;a]
+[DELETED: B5N-ASIPe8()TelwetaycsabdcktodetttllorisntpdurseorfllwfmpgtefmoaV.Unteieofayclrkpno,tectsloranhgdeadreterttoarnolrtn3bsdsarteiofteo.Tectslrepfttterthssdayfsoanodbytertorinhsorhrc,c,orp.Tectmcltehgunasysgtttertisincewhtsro0V.Allwetassldppsadpsrgt1a,s,adrnoff,a,orlsrdtobes2urtss319RnadDlofFsadA4I.Ifaclrkpnorisvdoreswte,artm5r,bymntotec,ternofayadalfsadantthsb6sdtoorsdbytelwetpttotsc.Unrtofsh7m,tectslseahgnolrtn15dsarteenofteo8Tectslpewnnetoteprwoslheterttoaradb9h,adtotelwetaywhhscloftefsada.T0seoftehgslbeldt1()Egwrtertissttoayseorfllworc2orttpstertfmogorpgafmora;a3()Urcsweteprhsrdanenoftec4rkpno,pttosn10oftsc,wrteprhse5bycradcgeetttertcstopeastrkofc6byiytohforhforosbyhgafmorayaninhsorh7cyorclorbyp,p,orrgafmora8I.Iftectfstttertisntsttoayseorfllworc9orpgteoporpnoff,a,ifa,tectdst0psrttoedteclrkpno,tectslieawno1dgtelwetaytornterdfsadantot2r3I.Lwetasslntrefsadanwtac4orggshr.Telwetaymycetertar5fefrteseofayfsadantnsdorsdtoaclr6pno.Tefeslntedtealctidbytelwetayf7teseoftefsada.Tertmymeaea]
+[DELETED: B5N-ASIPe9whafdfsdrfrteseoff,attersoe,unaloftec.Shfsslbetdortoteaeletayfrtrtotesef.RlofshfsslbettelwetayrefrtrtrtotesefypttoacoraspdintspI.Nolwetayslbehdlefraddeordndtoseortntoayfsadanadsddywshdbylweta,solgasdeceisuV.Ifaclrkpnorisvdoreswte,tel0a,ifithssdaletocyaldplorrridtor1urRA16pttotss,slreshleoyarcgttt2rtiscyeetoheshl3V.Tectslpewnn,stvateUdSsPlSetot4ltknasofteprbeternofayfmadans5orsdpttotsc610TnadEnofO7I.Tertmystoewnrtfrahgtoveaclr8pnoridurRA1,sgartedeofteieofteo,a9myrtoealhgareyenofteo,ifa0()Unrtoftertfrahgtoveaclrkpno,t1ctslstadefrah.Neoftertslbesdontepra2pdinRA1.Tehgslornosrtn14dsadnolrtn30d3artedeofseoftertuntep4()Tertslhetebnofpgbycradcge5tttertnolrpsastrkofcgbyiytohforhfo6osbyhgafmorayaninhsorhrcyorclorbyp7p,orrgafmora.Tectslcrayr,r8admle9()Iftectfsartehgttterthsmthsorhrbno0p,tectslveteo1()Telwetayhgayfmoranorletocy2ldplorrrtthsbnsdorsdpttotssnslb3ndoftectortoveteclrkpno.Tectslaop4neasrdbyRA1,V5I.Tectslnyteprofteigenofaclr6pno.Neslberdbytepratlt30dsbetedeteo7issttoe]
+[DELETED: B5N-ASIPe10I.Teprm,bym,rtanenofaclrkpnoraaytewn30dsbeteedofteo()Unrtoftemntoe,tectslseahgtobehdnlrtn14dsartedetemntoedisf.TertslbepsdwhneoftemntoedaspdinRA1()Indgwrtoedaclrkpnoridurts,tectslcrayr,r,admle()IftectfsbycradcgeetttersfriofaclrkpnoraspdinRA15cetobem,tects0edteo1()Tectmyedaclrkpnorfrapdttitd2a,uptoadigbtnteg12m,sttoanortovea3pdinphIortoarenorbytec4()TectslaopeneofteenofteorasrdinR51,V611VnofClRkPnO;P7I.Inantooraecsadp,apnslbegyofacs8mrifshpnkyfsapnurtscrcgf9a,orifshpnfsapnwhittohster0I.Inantooraecsadp,apnslbegyofacs1fyifheorsekyvsaclrkpnoridurtscrb2hginhsorhrp,c,orclayfmoranweteorisi3e4I.Apnwocsadssananfrpeofafmadw5ksttshpeisilbeheorseissttoaclrkpno6slbegyofacsAmrfraftoeadacsBfyfrasdo7sto812OsE9I.Ayclrkpnoridurtscrslbeeet0tes1I.Ayceclrkpnoridbyayors,t,o2tlc,iganexpeo,slbeddvdifteigcth3jnortepsadmrurtelwoftes,t,ort,adtep4atwmteorwsmewsgnreneadoytobeh.T5slbeapnofvyweanorasfyv6I.Ayvdclrkpno,asddinphI,slbeadf7fhadcttttes]
+[DELETED: B5N-ASIPe1113SdFI.Teaeoeoftecssldpisadib,sdpnf,adclrkpnorf.TesdpadorfsslbeddarSr2,2,fruebyJy1,2,frapsfdadosidurtsc.Tei,b,f,ahkslbepdincnwhidp,j,adlwep.Msslbebdonbtpsadaeeyoetotp()Teisslbeddtoatpsincgtepna0slieaseofasdpnadorfrpnf1()Teisadsdpnslieamsfrteprt2i,whoylyk,tefstertmyo,p,r,orhei3hsorhrcyorc.Teisslpepsoftsoffsttt4prmycefmtoiytertf,oranetmstoa5pstoiyfswtrgscortlkergt6f7()Teilbesldeteueofadtepsfro8m,adtgaclrkpnorurtsc,adper9f.Tebeslpepnleesoftepsfrb0psadr.Tebeslaocyentellrsa1psfrtertadrnoffspttoaclrkpno2()Teclrkpnorfmsli,inacsl,n3ofclpsrgfmvnofteo,adtefgs:"uh4teserytoadorrnfmvgtsosp.Oytectc5ceteoradoyunwna6()Tectsfhkslawfrteanofacyreltb7tectc8I.Teckoftectctmyceacyreltofcsi9mlh,sea,i,c,adorrtrssgt0cyinwhtectisl.Tectmymetecyreltaea1ptoforinantoteilbsddinphI2I.Teaeoeoftecssldeamrcyoftepna3orf,i,adilbstoalctcsadslde4mrcyoftepnadorfstoalcsoftectc.Dnofa5dss,atam,beinanecftorfsaetoalcsa6ctcsintes]
+[DELETED: B5N-ASIPe12I.Teaeoeoftecssldetestnsgorlgpsintes.TearsltnafrtnofteisadilbsrdbytssntobddarSr2,2,whslcnaseoftesdpnadofrpnf,iotelssnbytestnpsadsldeamrcyoftetdisadibstoalcsoftectctbyJy1,2V.Teaeoeoftecssluetei,b,sp,adclrkpnorf,adctsfhkasn,i0wncsintelwmeanuen114R2I.NolrtnJy31ofehy,csoftectcsslrttot3aeoeoftecstefgi4()Tetlnrofpsfraclrkpno,adtet5nroftepsttrdteorbeidexpedgtepsy6()Tetlnroftyclrkpnosidadtet7nrdddgtepsy8()Tetlnrofclrkpnosidadtetlnrd9dgtepsy0()Tetlnrofclrkpnosvdunpnbyt1rtdgtepsy2()Tetlnrofclrkpnoseddgtepsy3I.NolrtnAl1ofehyrteaeoeoftecsslc4adphonisweartwhasteinrdptt5phIadlsehcybycyadteofc64EeD7I.RA1,asidbysn3oftsatslteetSr2,28I.TerroftsatslteetJy1,2]
+[DELETED: B5-FLNSINATretoclrkpnoLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eFeIeIeIeI0to$0to$0t0$0$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblesapsaglwetorcnistopnttCtfranorrgapnwopsanierktotsostosrfsadaeJlBhsstsblwlrtinanieieinesoetn$0adlstn$0inglfsbginFY2eBhastecnofaneynwadcxcetergttC,DtD,tohep,h,adfpcernstt.Tepswldeorsdctmsadrdaeadjlr.Beteveofpsctb,tetlctisi,teJlBhasttatltoealfeetedbendtoartep,cef,b,adh,cac,adpeogtgfrjsads.Ina,tebsfrtetnofm,pnofalr,add]
+[DELETED: swdadfrc.TeBsegbtctabteaeDtofSysstsblwlntheanitontrbSClBhadDtofS]

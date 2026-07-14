@@ -1,0 +1,151 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB596-FN-ASINTRODUCED
+2026SESSION
+26-2198
+09/08
+596-FN
+ANACT prohibitingsmokinginHamptonBeachStatePark.
+SPONSORS: Sen.Altschiller,Dist24;Rep.Muns,Rock.29
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillprohibitssmokinginHamptonBeachstatepark.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB596-FN-ASINTRODUCED
+26-2198
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingsmokinginHamptonBeachStatePark.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Smoking in State Parks. Amend RSA 155 by inserting after section 78 the
+2 followingnewsubdivision:
+3 SmokinginStateParks
+4 155:78-a SmokinginHamptonBeachStatePark.
+5 I. Notwithstanding any other law to the contrary, including any regulation adopted
+6 pursuant to RSA 12-A:2-c, II(a), smoking, as defined by RSA 155:65, XV, shall be prohibited within
+7 HamptonBeachstatepark.
+8 II. The department of natural and cultural resources shall develop and post signage in
+9 HamptonBeachstateparkinformingthepublicofthisprohibition.
+10 III. Any authorized official may enforce this prohibition through directing the offending
+11 individualtocomplywiththeprohibition. Nomonetaryfineshallbelevied.
+12 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2198
+11/4/25
+SB596-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibitingsmokinginHamptonBeachStatePark.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Decrease($0to Decrease($0to Decrease($0to
+$25,000) $50,000) $50,000)
+RevenueFund(s) StateParkFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill prohibits smoking in Hampton Beach State Park, including the RV park, and requires
+the Department of Natural and Cultural Resources (DNCR) to post signage notifying the public
+oftheprohibition.
+The New Hampshire Department of Natural and Cultural Resources states this bill may result
+in a minor decrease in State Park Fund revenue, estimated at up to $50,000 annually, due to
+reduced visitation. Because the bill takes effect January 1, 2027, the Department assumes the
+impact in FY 2027 would be approximately half that amount. Any costs for signage and
+implementationcanbeabsorbedwithintheDepartment’sexistingbudget.
+AGENCIESCONTACTED:
+DepartmentofNaturalandCulturalResources
+[DELETED: B5N-ASI6SEBNATpgsginHnBhSeP:S.A,Dt2;R.M,R.2:EyadNlRsblpssginHnBhsep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATpgsginHnBhSePeitEdbyteSeadHeofRsinGlCtc1NwS;SginSeP.AdRA15byigarsn78tfgnwsSginSeP1aSginHnBhSePI.Ngayorlwtotec,igayrnapttoRA1,I,s,asddbyRA1,X,slbepdwHnBhsepI.TedtofnladclrssldpadptseiHnBhsepkigtepcoftsp0I.Ayadolmyeetspnthdgteo1iltocywhtep.Nomyfeslbel22EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATpgsginHnBhSePLIdSeIY26FY27FY28FY20De(0toDe(0toDe(0teIeI)$)$eFePkF0$0$0$gS0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblpssginHnBhSeP,igteRVp,adreDtofNladClRs()toptsengtepftepeNwHeDtofNladClRssstsblmyrnamrdeinSePkFdr,edatupto$0a,detdv.BetebltsetJy1,2,teDtasttinFY27wdbeayhftta.AycsfrseancnbeadwnteDsegbSCtofNladClR]
+
+
+================================================================================
+
+Raw Text:
+SB596-FN-ASINTRODUCED
+2026SESSION
+26-2198
+09/08
+596-FN
+SENATEBILL
+ANACT prohibitingsmokinginHamptonBeachStatePark.
+SPONSORS: Sen.Altschiller,Dist24;Rep.Muns,Rock.29
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillprohibitssmokinginHamptonBeachstatepark.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB596-FN-ASINTRODUCED
+26-2198
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibitingsmokinginHamptonBeachStatePark.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Smoking in State Parks. Amend RSA 155 by inserting after section 78 the
+2 followingnewsubdivision:
+3 SmokinginStateParks
+4 155:78-a SmokinginHamptonBeachStatePark.
+5 I. Notwithstanding any other law to the contrary, including any regulation adopted
+6 pursuant to RSA 12-A:2-c, II(a), smoking, as defined by RSA 155:65, XV, shall be prohibited within
+7 HamptonBeachstatepark.
+8 II. The department of natural and cultural resources shall develop and post signage in
+9 HamptonBeachstateparkinformingthepublicofthisprohibition.
+10 III. Any authorized official may enforce this prohibition through directing the offending
+11 individualtocomplywiththeprohibition. Nomonetaryfineshallbelevied.
+12 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2198
+11/4/25
+SB596-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibitingsmokinginHamptonBeachStatePark.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Decrease($0to Decrease($0to Decrease($0to
+$25,000) $50,000) $50,000)
+RevenueFund(s) StateParkFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill prohibits smoking in Hampton Beach State Park, including the RV park, and requires
+the Department of Natural and Cultural Resources (DNCR) to post signage notifying the public
+oftheprohibition.
+The New Hampshire Department of Natural and Cultural Resources states this bill may result
+in a minor decrease in State Park Fund revenue, estimated at up to $50,000 annually, due to
+reduced visitation. Because the bill takes effect January 1, 2027, the Department assumes the
+impact in FY 2027 would be approximately half that amount. Any costs for signage and
+implementationcanbeabsorbedwithintheDepartment’sexistingbudget.
+AGENCIESCONTACTED:
+DepartmentofNaturalandCulturalResources
+
+[DELETED: B5N-ASI6SEBNATpgsginHnBhSeP:S.A,Dt2;R.M,R.2:EyadNlRsblpssginHnBhsep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATpgsginHnBhSePeitEdbyteSeadHeofRsinGlCtc1NwS;SginSeP.AdRA15byigarsn78tfgnwsSginSeP1aSginHnBhSePI.Ngayorlwtotec,igayrnapttoRA1,I,s,asddbyRA1,X,slbepdwHnBhsepI.TedtofnladclrssldpadptseiHnBhsepkigtepcoftsp0I.Ayadolmyeetspnthdgteo1iltocywhtep.Nomyfeslbel22EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATpgsginHnBhSePLIdSeIY26FY27FY28FY20De(0toDe(0toDe(0teIeI)$)$eFePkF0$0$0$gS0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblpssginHnBhSeP,igteRVp,adreDtofNladClRs()toptsengtepftepeNwHeDtofNladClRssstsblmyrnamrdeinSePkFdr,edatupto$0a,detdv.BetebltsetJy1,2,teDtasttinFY27wdbeayhftta.AycsfrseancnbeadwnteDsegbSCtofNladClR]

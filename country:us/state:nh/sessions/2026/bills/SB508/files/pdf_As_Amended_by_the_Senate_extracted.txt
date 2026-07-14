@@ -1,0 +1,112 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB508-ASAMENDEDBYTHESENATE
+02/19/2026 0659s
+2026SESSION
+26-2104
+06/09
+508
+ANACT relativetothezoningboardofadjustmentsappealperiod.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Sullivan, Dist 18; Sen. Pearl, Dist 17; Sen. McGough,
+Dist11;Sen.Innis,Dist7;Sen.Ward,Dist8;Sen.Carson,Dist14
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that all grounds for appeal must be stated in the initial notice to the zoning
+boardofadjustmentsandoutlinesrevisionofplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB508-ASAMENDEDBYTHESENATE
+02/19/2026 0659s 26-2104
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothezoningboardofadjustmentsappealperiod.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 AppealstoBoardofAdjustment. AmendRSA676:5,Itoreadasfollows:
+2 I. Appeals to the board of adjustment concerning any matter within the board's powers as
+3 set forth in RSA 674:33 may be taken by the applicant, an abutter as defined by RSA 672:3, or by
+4 any officer, department, board, or bureau of the municipality affected by any decision of the
+5 administrative officer. Such appeal shall be taken within 30 days by filing with the officer from
+6 whom the appeal is taken and with the board a notice of appeal specifying the grounds thereof. All
+7 grounds for appeal must be stated in the initial notice. The officer from whom the appeal is
+8 taken shall forthwith transmit to the board all the papers constituting the record upon which the
+9 actionappealedfromwastaken.
+10 2 New Section; Stamping and Acceptance of Revised Plans. Amend RSA 676 by inserting after
+11 section5thefollowingnewsection:
+12 676:5-a StampingandAcceptanceofRevisedPlans.
+13 I. Each city, town, or municipality shall stamp and accept revised plans submitted by an
+14 applicantwithin10businessdaysofsubmission.
+15 II. Acceptance under paragraph I shall be contingent upon the revised plans reflecting the
+16 specificalterationsrequestedduringtheinitialplanningboardreview.
+17 III. Applicants shall not be required to revise plans more than once, unless the submitted
+18 revisions fail to address the specific comments or conditions identified during the initial review.
+19 Planningboardsshallnotrequiremultipleroundsofrevisionsbeyondthoseoriginallyrequested.
+20 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B58-ASADBYTES606SEBNATretotezgbdofasalp:S.M,Dt1;S.S,Dt1;S.P,Dt1;S.Mt1;S.I,Dt7;S.W,Dt8;S.C,Dt1:Csblrsttalgsfralmtbesdinteilnetotezdofasadosrnofp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B58-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotezgbdofasalpeitEdbyteSeadHeofRsinGlCtc1AstoBdofA.AdRA6,ItordasfI.AstotebdofatcgaymrwntebspsastfhinRA63mybetnbytea,anarasddbyRA6,orbayo,d,b,orbuoftemyadbyaydnoftaeo.Shalslbetnwn30dsbyfgwhteorfwmtealistnadwhtebdaneofalsgtegst.Agsfralmtbesdinteiln.Teorfmwmtealitnslfhtttotebdaltepscgterdunwhtanadfmwst02NwS;SgadAeofRdP.AdRA66byiga1sn5tefgnws26aSgadAeofRdP3I.Ehc,t,ormyslspadatrdpssdbya4atwn10bsdsofs5I.AeurphIslbectunterdpsrgt6scasrddgteilpgbdr7I.Asslntberdtorepsmetno,ustes8rsfltoastesccsorcsiddgteilr9Pgbsslntremersofrsbdteoyr03EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB508-ASAMENDEDBYTHESENATE
+02/19/2026 0659s
+2026SESSION
+26-2104
+06/09
+508
+SENATEBILL
+ANACT relativetothezoningboardofadjustmentsappealperiod.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Sullivan, Dist 18; Sen. Pearl, Dist 17; Sen. McGough,
+Dist11;Sen.Innis,Dist7;Sen.Ward,Dist8;Sen.Carson,Dist14
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that all grounds for appeal must be stated in the initial notice to the zoning
+boardofadjustmentsandoutlinesrevisionofplans.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB508-ASAMENDEDBYTHESENATE
+02/19/2026 0659s 26-2104
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothezoningboardofadjustmentsappealperiod.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 AppealstoBoardofAdjustment. AmendRSA676:5,Itoreadasfollows:
+2 I. Appeals to the board of adjustment concerning any matter within the board's powers as
+3 set forth in RSA 674:33 may be taken by the applicant, an abutter as defined by RSA 672:3, or by
+4 any officer, department, board, or bureau of the municipality affected by any decision of the
+5 administrative officer. Such appeal shall be taken within 30 days by filing with the officer from
+6 whom the appeal is taken and with the board a notice of appeal specifying the grounds thereof. All
+7 grounds for appeal must be stated in the initial notice. The officer from whom the appeal is
+8 taken shall forthwith transmit to the board all the papers constituting the record upon which the
+9 actionappealedfromwastaken.
+10 2 New Section; Stamping and Acceptance of Revised Plans. Amend RSA 676 by inserting after
+11 section5thefollowingnewsection:
+12 676:5-a StampingandAcceptanceofRevisedPlans.
+13 I. Each city, town, or municipality shall stamp and accept revised plans submitted by an
+14 applicantwithin10businessdaysofsubmission.
+15 II. Acceptance under paragraph I shall be contingent upon the revised plans reflecting the
+16 specificalterationsrequestedduringtheinitialplanningboardreview.
+17 III. Applicants shall not be required to revise plans more than once, unless the submitted
+18 revisions fail to address the specific comments or conditions identified during the initial review.
+19 Planningboardsshallnotrequiremultipleroundsofrevisionsbeyondthoseoriginallyrequested.
+20 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B58-ASADBYTES606SEBNATretotezgbdofasalp:S.M,Dt1;S.S,Dt1;S.P,Dt1;S.Mt1;S.I,Dt7;S.W,Dt8;S.C,Dt1:Csblrsttalgsfralmtbesdinteilnetotezdofasadosrnofp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B58-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotezgbdofasalpeitEdbyteSeadHeofRsinGlCtc1AstoBdofA.AdRA6,ItordasfI.AstotebdofatcgaymrwntebspsastfhinRA63mybetnbytea,anarasddbyRA6,orbayo,d,b,orbuoftemyadbyaydnoftaeo.Shalslbetnwn30dsbyfgwhteorfwmtealistnadwhtebdaneofalsgtegst.Agsfralmtbesdinteiln.Teorfmwmtealitnslfhtttotebdaltepscgterdunwhtanadfmwst02NwS;SgadAeofRdP.AdRA66byiga1sn5tefgnws26aSgadAeofRdP3I.Ehc,t,ormyslspadatrdpssdbya4atwn10bsdsofs5I.AeurphIslbectunterdpsrgt6scasrddgteilpgbdr7I.Asslntberdtorepsmetno,ustes8rsfltoastesccsorcsiddgteilr9Pgbsslntremersofrsbdteoyr03EeD.Tsatslteet60dsarisp]

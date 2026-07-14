@@ -1,0 +1,611 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2095
+08/09
+644-FN
+ANACT requiringbackgroundchecksforsolidwasteandhazardouswastefacilityowners.
+SPONSORS: Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Lang, Dist 2; Sen. Watters, Dist 4;
+Sen. Avard, Dist 12; Sen. Gannon, Dist 23; Sen. Perkins Kwoka, Dist 21; Rep. J.
+Aron,Sull.4;Rep.Bixby,Straf.13;Rep.Moffett,Merr.4
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires background checks for solid waste and hazardous waste facility owners
+includingpartnersandmanagers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+26-2095
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringbackgroundchecksforsolidwasteandhazardouswastefacilityowners.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 BackgroundChecks. RSA147-A:4,II-candII-darerepealedandreenactedtoreadasfollows:
+2 II-c.(a) Applicationsforpermitsshallbeuponsuchformsandshallincludesuchinformation
+3 as the department requires by rules adopted under RSA 147-A:3. The application information shall
+4 include, but not be limited to, a performance history of the applicant and of its owners, officers,
+5 directors, partners, members, or managers relative to the operation, financial security, and
+6 ownershipofallfacilitiesownedoroperatedbysuchpersons.
+7 (b)(1) Theapplicantandallpersonsandentitiessetforthinsubparagraph(b)(2)seeking
+8 a permit under this chapter shall be subject to a criminal records check consisting of a New
+9 Hampshire criminal records check and a fingerprint-based criminal record check utilizing national
+10 crime information databases, as set forth in subparagraphs (b)(3) through (b)(6). The department
+11 may make rules under RSA 541-A exempting certain types of permit applications from the
+12 performancehistoryandcriminalrecordscheckrequirementsofthissection.
+13 (2) Inthisparagraph:
+14 (A) “Owner”meanseachownerorpartownerofaprivatelyheldcorporation.
+15 (B) “Officer” means those persons described in a corporation’s bylaws or articles
+16 of incorporation or elected or appointed by the board of directors to manage the daily operations of a
+17 corporation, such as a chief executive officer, chief financial officer, secretary, treasurer, president,
+18 andvicepresident. "Officer"includesthosepersonsdescribedwithinRSA293-A:8.40.
+19 (C) “Director” means a person appointed or elected to sit on a governing board of
+20 a corporation. "Director" includes trustees, managers, and governors and those persons described
+21 withinNewHampshireRSA293-A:8.01-8.11.
+22 (D) “Partner” means one of 2 or more persons carrying on as co-owners of a
+23 business for profit. "Partner" includes, but is not limited to, a limited or general partner of a
+24 partnership, professional association, or foreign partnership or such partners as set forth in title
+25 XXVIII.
+26 (E) “Member” means a person who has been admitted to a limited liability
+27 company as a member in accordance with RSA 304-C or in accordance with the laws of the state or
+28 foreign country or jurisdiction under which the limited liability company is organized. "Member"
+29 includes each member of a limited liability company, foreign limited liability company, or
+30 professionallimitedliabilitycompanyassetforthinRSA304-CandRSA304-D.
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 (F) "Manager” means a person who is named or designated as a manager of a
+2 limited liability company in an operating agreement. "Manager" includes each manager of a limited
+3 liability company, foreign limited liability company, or professional limited liability company as set
+4 forthinRSA304-CandRSA304-D.
+5 (G) "Department"meansthedepartmentofenvironmentalservices.
+6 (3) Except for governmental entities and municipalities, the persons subject to the
+7 criminalrecordscheckspursuanttosubparagraph(b)(1)aboveareasfollows:
+8 (A) Theapplicant;
+9 (B) Iftheapplicantisanindividual(s),eachindividual;
+10 (C) Iftheapplicantisapubliclytradedcorporation,eachofficeranddirector;
+11 (D) If the applicant is a privately held corporation, each owner, officer, and
+12 director;
+13 (E) Iftheapplicantisageneralorlimitedpartnership,eachpartner;
+14 (F) If the applicant is a limited liability company, foreign limited liability
+15 company,orprofessionallimitedliabilitycompany,eachmanagerandmember;
+16 (G) If the permit sought is for the transfer of a permit to a new person or a
+17 change in ownership of the current permit holder at an existing facility, then the transferee
+18 applicantandallpersonsrelatedtothetransfereeapplicantassetforthinsubparagraph(b)(3).
+19 (4) All persons set forth in subparagraph (b)(3) shall submit to the department a
+20 New Hampshire department of safety, division of state police, criminal history records release
+21 authorization form, as provided by the division of state police, which authorizes the division of state
+22 police to conduct a criminal history records check through its state records and through the Federal
+23 Bureauof Investigationand toreleasetothedepartment, for thepurposes of this section, areport of
+24 the criminal history and record information, including confidential criminal history record
+25 information,oftheapplicantandallpersonssetforthinsubparagraph(b)(3). Thereleaseformshall
+26 nametheassistantdirectorofthedepartmentofenvironmentalserviceswastemanagementdivision
+27 and the administrator of the department of environmental services, hazardous waste management
+28 bureau as authorized recipients and shall specify any payment required by the division of state
+29 police.
+30 (5) All persons set forth in subparagraph (b)(3) shall submit to the department,
+31 along with their criminal record release authorization form required in subparagraph (b)(4), a
+32 complete set of fingerprints taken by a qualified law enforcement agency or authorized employee of
+33 the department of safety. If the national crime information database is unavailable for any reason,
+34 the department may accept New Hampshire criminal records or police clearances from every city,
+35 town,orcountywherethepersonhaslivedduringthepast5years.
+36 (6) The department shall submit the criminal records release authorization forms
+37 and fingerprint forms to the department of safety, division of state police, which shall conduct a
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 criminal history records check through its records and through the Federal Bureau of Investigation.
+2 Upon completion of the records check, the division of state police shall release copies of the criminal
+3 history records to the assistant director of the department of environmental services waste
+4 management divisionand theadministrator of the department of environmental services, hazardous
+5 waste management bureau. The department shall maintain the confidentiality of all criminal
+6 historyrecordsinformationreceivedpursuanttothissection.
+7 (7) The department may bill the applicant for any costs or fees associated with the
+8 performance history review and the criminal records check, including, but not limited to, any fee
+9 charged by the department of safety or the Federal Bureau of Investigation for the criminal records
+10 checks set forth in this paragraph. The department shall destroy all criminal history record
+11 informationwithin60days after thedepartment’s decisionontheapplicationor uponthe conclusion
+12 ofanyappealofthedepartment’sdecision,whicheverislater.
+13 II-d. The department may deny a permit application under this section to a person if any of
+14 thefollowingapplies:
+15 (a) The person fails to demonstrate sufficient reliability, expertise, integrity and
+16 competencetooperateahazardouswastefacility.
+17 (b) ThepersonoranypersonsetforthinRSA147-A:4,II-c(b)(3)hasbeenconvictedof,or
+18 pledguiltyornocontestto,afelonyinanystateorfederalcourtduringthe5yearsbeforethedateof
+19 thepermitapplication.
+20 2 PermitApplicants;CriminalRecords. AmendRSA147-A:4,IV-atoreadasfollows:
+21 IV-a. No permit issued by the department under this section shall be transferred by the
+22 permittee to any person without the prior written approval of the department. Applications for the
+23 transfer of permits shall be upon such forms and shall include such information as the department
+24 requires by rules adopted under RSA 147-A:3, IX. The applicant and all related persons as set
+25 forth in RSA 147-A:4, II-c(b) shall comply with the performance history review and
+26 criminal record provisions of RSA 147-A:4, II-c in all respects. [The application information
+27 shall include, but not be limited to, a performance history of the applicant and of its officers and
+28 directors relative to the operation, financial security, and ownership of all facilities owned or
+29 operated by the applicant. Whenever requested by the department, the attorney general shall
+30 conduct a background investigation of the performance history and criminal record of the applicant
+31 and of its officers and directors, partners, and individuals or entities having managerial,
+32 supervisory, or substantial decision-making authority and responsibility for the management of
+33 operations or activities for which a permit is being sought, if any, and make a report to the
+34 department. The criminal background check shall consist of and follow the same procedures set
+35 forth in paragraph II-c. The applicant shall also submit a statement that the proposed facility is
+36 consistent with the provisions of a district plan. The cost of any investigation under this paragraph
+37 shall be borne by the applicant.] The department shall hold a public hearing no later than 30 days
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 prior to making any final decision on an application to transfer a permit issued under this section.
+2 Noticeof such public hearingshall bepublished inanewspaper of local circulation withinthe region
+3 of the public or private hazardous waste facility at least 2 weeks prior to such public hearing. The
+4 applicantshallnotifyabuttersoftherequestfortransferofapermitunderthissection.
+5 3 DisclosureofOwnership. AmendRSA147-A:4-b,IItoreadasfollows:
+6 II. If the applicant is a corporation, the state of incorporation, the address of its principal
+7 place of business, and the names and addresses of its owners, directors, and officers[, and
+8 shareholders]; if the applicant is a partnership, the state of formation, the address of its principal
+9 placeofbusiness,andthenamesandaddressesofitspartners,whethergeneralorlimited;andifthe
+10 applicant is any other kind of association, the state of formation, the address of its principal place of
+11 business,andthenamesandaddressesofitspartners,members,managers,orparticipants.
+12 4 BackgroundChecks. RSA149-M:9,IIIisrepealedandreenactedtoreadasfollows:
+13 III.(a) Applications for permits shall be upon such forms and shall include such information
+14 as the department requires by rules adopted under RSA 149-M:7. The application information shall
+15 include, but not be limited to, a performance history of the applicant and of its owners, officers,
+16 directors, partners, members, or managers relative to the operation, financial security, and
+17 ownership of all facilities owned or operated by such persons. The applicant shall also demonstrate
+18 thattheproposedfacilityprovidesasubstantialpublicbenefitpursuanttoRSA149-M:11.
+19 (b)(1) Theapplicantandallpersonsandentitiessetforthinsubparagraph(b)(2)seeking
+20 a permit, permit modification, or permit transfer under this chapter shall be subject to a criminal
+21 records check consisting of a New Hampshire criminal records check and a fingerprint-based
+22 criminal record check utilizing national crime information databases, as set forth in subparagraphs
+23 (b)(3) through (b)(6). The department may make rules under RSA 541-A exempting certain types of
+24 permit applications from the performance history and criminal records check requirements of this
+25 section.
+26 (2) Inthisparagraph:
+27 (A) “Owner”meanseachownerorpartownerofaprivatelyheldcorporation.
+28 (B) “Officer” means those persons described in a corporation’s bylaws or articles
+29 of incorporation or elected or appointed by the board of directors to manage the daily operations of a
+30 corporation, such as a chief executive officer, chief financial officer, secretary, treasurer, president,
+31 andvicepresident. "Officer"includesthosepersonsdescribedwithinRSA293-A:8.40.
+32 (C) “Director” means a person appointed or elected to sit on a governing board of
+33 a corporation. "Director" includes trustees, managers, and governors and those persons described
+34 withinRSA293-A:8.01throughRSA293-A:8.11.
+35 (D) “Partner” means one of 2 or more persons carrying on as co-owners of a
+36 business for profit. "Partner" includes, but is not limited to, a limited or general partner of a
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 partnership, professional association, or foreign partnership or such partners as set forth in title
+2 XXVIII.
+3 (E) “Member” means a person who has been admitted to a limited liability
+4 company as a member in accordance with RSA 304-C or in accordance with the laws of the state or
+5 foreign country or jurisdiction under which the limited liability company is organized. "Member"
+6 includes each member of a limited liability company, foreign limited liability company, or
+7 professionallimitedliabilitycompanyassetforthinRSA304-CandRSA304-D.
+8 (F) "Manager” means a person who is named or designated as a manager of a
+9 limited liability company in an operating agreement. "Manager" includes each manager of a limited
+10 liability company, foreign limited liability company, or professional limited liability company as set
+11 forthinRSA304-CandRSA304-D.
+12 (G) "Department"meansthedepartmentofenvironmentalservices.
+13 (3) Except for governmental entities and municipalities, the persons subject to the
+14 criminalrecordscheckspursuanttosubparagraph(b)(1)aboveareasfollows:
+15 (A) Theapplicant.
+16 (B) Iftheapplicantisanindividual(s),eachindividual.
+17 (C) Iftheapplicantisapubliclytradedcorporation,eachofficeranddirector.
+18 (D) If the applicant is a privately held corporation, each owner, officer, and
+19 director.
+20 (E) Iftheapplicantisageneralorlimitedpartnership,eachpartner.
+21 (F) If the applicant is a limited liability company, foreign limited liability
+22 company,orprofessionallimitedliabilitycompany,eachmanagerandmember.
+23 (G) If the permit sought is for the transfer of a permit to a new person or a
+24 change in ownership of the current permit holder pursuant to RSA 149-M:9, XII and rules adopted
+25 by the department under RSA 541-A, then the transferee applicant and all persons related to the
+26 transfereeapplicantassetforthinsubparagraph(b)(3).
+27 (4) All persons set forth in subparagraph (b)(3) shall submit to the department a
+28 New Hampshire department of safety, division of state police, criminal history records release
+29 authorization form, as provided by the division of state police, which authorizes the division of state
+30 police to conduct a criminal history records check through its state records and through the Federal
+31 Bureauof Investigationand toreleasetothedepartment, for thepurposes of this section, areport of
+32 the criminal history and record information, including confidential criminal history record
+33 information,oftheapplicantandallpersonssetforthinsubparagraph(b)(3). Thereleaseformshall
+34 nametheassistantdirectorofthedepartmentofenvironmentalserviceswastemanagementdivision
+35 and theadministrator of thedepartment of environmental services, solid wastemanagement bureau
+36 asauthorizedrecipientsandshallspecifyanypaymentrequiredbythedivisionofstatepolice.
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 (5) All persons set forth in subparagraph (b)(3) shall submit to the department,
+2 along with their criminal record release authorization form required in subparagraph (b)(4), a
+3 complete set of fingerprints taken by a qualified law enforcement agency or authorized employee of
+4 the department of safety. If the national crime information database is unavailable for any reason,
+5 the department may accept New Hampshire criminal records or police clearances from every city,
+6 town,orcountywherethepersonhaslivedduringthepast5years.
+7 (6) The department shall submit the criminal records release authorization forms
+8 and fingerprint forms to the department of safety, division of state police, which shall conduct a
+9 criminal history records check through its records and through the Federal Bureau of Investigation.
+10 Upon completion of the records check, the division of state police shall release copies of the criminal
+11 history records to the assistant director of the department of environmental services waste
+12 management division and the administrator of the department of environmental services, solid
+13 waste management bureau. The department shall maintain the confidentiality of all criminal
+14 historyrecordinformationreceivedpursuanttothissection.
+15 (7) The department may bill the applicant for any costs or fees associated with the
+16 performance history review and the criminal records check, including, but not limited to, any fee
+17 charged by the department of safety or the Federal Bureau of Investigation for the criminal records
+18 checks set forth in this paragraph. The department shall destroy all criminal history record
+19 informationwithin60days after thedepartment’s decisionontheapplicationor uponthe conclusion
+20 ofanyappealofthedepartment’sdecision,whicheverislater.
+21 5 DenialofApplication. AmendRSA149-M:9,IX(b)and(c)toreadasfollows:
+22 (b) Thepersonor anypersondefinedinRSA149-M:9,III(b)hasbeenconvictedof,or
+23 pledguiltyornocontestto,afelonyinanystateorfederalcourtduringthe5yearsbeforethedateof
+24 thepermitapplication.
+25 [(c) In the case of a corporation or business entity, if any of its officers, directors,
+26 partners, key employees or persons or business entities holding 10 percent or more of its equity or
+27 debt liability has been convicted of, or pled guilty or no contest to, a felony in any state or federal
+28 courtduringthe5yearsbeforethedateofthepermitapplication.]
+29 6 Applications;TransferofPermits. AmendRSA149-M:9,XII(a)toreadasfollows:
+30 (a) Applications for the transfer of permits shall be filed by the person to whom such
+31 permit is to be transferred upon such forms and shall include such information as the department
+32 requires by rules adopted under RSA 149-M:7. The applicant and all related persons as set
+33 forthinRSA149-M:9,III(b)shall comply withthe performance history review andcriminal
+34 record provisions of RSA 149-M:9, III in all respects. [The application information shall
+35 include, but not be limited to, a performance history of the applicant and of its officers and directors
+36 relative to the operation, financial security, and ownership of all facilities owned or operated by the
+37 applicant. Whenever requested by the department, the attorney general shall conduct a background
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 investigation of the performance history and criminal record of the applicant and of its officers and
+2 directors, partners, and individuals or entities having managerial, supervisory, or substantial
+3 decision-making authority and responsibility for the management of operations or activities for
+4 which a permit is being sought, if any, and make a report to the department. The criminal
+5 background check shall consist of and follow the same procedures set forth in paragraph III.] The
+6 applicantshall alsosubmit astatement that theproposed facilityis consistent withtheprovisions of
+7 adistrictplan. [Thecostofanyinvestigationunderthisparagraphshallbebornebytheapplicant.]
+8 7 DisclosureofOwnership. AmendRSA149-M:10,Itoreadasfollows:
+9 I. Any application for a permit under RSA 149-M:9 shall be signed under oath by a
+10 representativeoftheapplicantandshallcontainthefollowinginformation:
+11 (a) Nameandaddressoftheapplicant.
+12 (b) If the applicant is a corporation, the state of incorporation, the address of its
+13 principal place of business, and the names and addresses of its owners, directors, and officers[, and
+14 shareholders]; if the applicant is a partnership, the state of formation, the address of its principal
+15 placeofbusiness,andthenamesandaddressesofitspartners,whethergeneralorlimited;andifthe
+16 applicant is any other kind of association, the state of formation, the address of its principal place of
+17 business, and the names and addresses of its principals, partners, members, managers, and [or]
+18 participants.
+19 (c) The exact locationwhere theapplicant intends toconduct thebusiness for which it is
+20 seekingthepermit.
+21 (d) Such financial information as the department may require under RSA 149-M:9 or
+22 rulesadoptedbythedepartment.
+23 8 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2095
+11/17/25
+SB644-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringbackgroundchecksforsolidwasteandhazardouswastefacilityowners.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices
+[DELETED: B6N-VNADBYBHB6SEBNATrgbdcsfrsdweadhswefyo:S.P,Dt1;S.W,Dt8;S.L,Dt2;S.W,Dt4.A,Dt1;S.G,Dt2;S.PsK,Dt2;R.J,S.4;R.B,S.1;R.M,M.:EyadNlRsblrsbdcsfrsdweadhswefyogpsadm-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-VNADBYBHBEOFNWHnteYrofOrLdToTdTNATrgbdcsfrsdweadhswefyoeitEdbyteSeadHeofRsinGlCtc1BdC.RA1,IcadIdaerdadrdtordasfI)AsfrpsslbeunshfsadslieshiastedtrsbyrsadurRA1.Teaninsi,btntbeldt,apehyofteatadofiso,od,p,m,ormsretoteo,fls,aopofalfsodorodbyshp()Teatadalpsadesstfhinsh()sapturtscrslbesttoaclrsckcgofaNHeclrsckadafdclrdckugn0ceind,asstfhinss()th(.Ted1mymersurRA5Aegcntsofptasfmt2pehyadclrsckrsoftss3()Intsp4()“”msehororptorofapyhdc5()“”mstepsddinacsbsora6ofinoredoradbytebdofdstometedyosof7c,shasacfeeo,cfflo,s,t,p8advep.""istepsddwnRA29()“”msapnadoredtostonaggbdo0ac.""ist,m,adgsadtepsd1wnNwHeRA22()“”msoeof2ormepscgonascsof3bsfrp.""i,btisntldt,aldorglprof4p,pla,orfnpporshpsasstfhint5X6()“”msapnwohsbnadtoaldl7cyasamrinaewhRA3Corinaewhtelsofteseo8fncyorjnurwhteldlycyiso."9isehmrofaldlyc,fnldlyc,o0plldlycyasstfhinRA3CadRA3]
+[DELETED: B6N-VNADBYBHBPe2()"”msapnwoisndorddasamrofldlycyinanoga.""isehmrofallyc,fnldlyc,orplldlycyassfhinRA3CadRA3()""mstedtofels()Etfrglesadm,tepssttotclrscspttosh()aeaeasf()Tea()Ifteatisani,ehi0()Ifteatisapytdc,ehoradd1()Ifteatisapyhdc,eho,o,a2d3()Ifteatisaglorldp,ehp4()Ifteatisaldlyc,fnldl5c,orplldlyc,ehmradm6()Ifteptstisfrtetrofapttoanwpnor7ceinopoftectpthratanegf,tntet8atadalpsrdtoteteatasstfhinsh(9()Alpsstfhinsh()slsttotedt0NwHedtofs,dnofsep,clhyrsr1anf,aspdbytednofsep,whastednofs2petoctaclhyrsckthissersadthteF3BuofInadtoretoted,frtepsoftss,arto4teclhyadrdi,igclclhyr5i,ofteatadalpsstfhinsh(.Terefms6neteatdroftedtofelsswemtd7adtearoftedtofels,hswem8buasadrsadslsyayptrdbytednofs9p0()Alpsstfhinsh()slsttoted1agwhtrclrdreanfmrdinsh(,2cestoffstnbyaqdlwetayoradeeo3tedtofs.Iftenlceindeisuefrayr4tedtmyatNwHeclrsorpecsfmeyc5t,orcywetepnhslddgtept5y6()Tedtslstteclrsreanf7adftfstotedtofs,dnofsep,whslct]
+[DELETED: B6N-VNADBYBHBPe3clhyrsckthisrsadthteFlBuofIUncnoftersc,tednofsepeslrecsoftechyrstoteatdroftedtofelsswmtdnadtearoftedtofels,hwemtb.Tedtslmntecyofalchyrsinrdpttotss()Tedtmyblteatfraycsorfsadwhtpehyrwadteclrsc,i,btntldt,ayfcdbytedtofsyorteFlBuofInfrteclr0csstfhintsp.Tedtsldyalclhyr1inwn60dsartedsdnonteanoruntec2ofayaloftedsd,wrisl3I.Tedtmydyaptanurtssntoapnifayo4tefga5()Tepnfstodestr,e,iya6cetooeahswef7()TepnoraypnstfhinRA1,I)hsbncdo,o8pdgyornoctt,afyinayseorflctdgte5ysbetedeo9tepta02PtA;ClR.AdRA1,Iatordasf1I.Noptidbytedturtssnslbetdbyt2petoaypnwtteprwnalofted.Asfrt3trofpsslbeunshfsadslieshinasted4rsbyrsadurRA1,I.Teatadalrdpsass5fhinRA1,I)slcywhtepehyrwa6clrdpsofRA1,Icinalr.[eani7sli,btntbeldt,apehyofteatadofisosa8dsretoteo,fls,adopofalfsodo9odbytea.Wrrdbyted,teaygls0ctabdinoftepehyadclrdoftea1adofisosadd,p,adisoreshgm2s,orsldgayadryfrtemto3osorasfrwhaptisbgs,ifa,admearttot4d.Teclbdckslctofadfwtesepss5fhinphI.Teatslaostasttttepdfyi6ctwhtepsofadtp.Tectofayinurtsp7slbebebytea]Tedtslhdapchgnolrtn30d]
+[DELETED: B6N-VNADBYBHBPe4prtomgayfldnonanantotraptidurtssNeofshpchgslbepdinanrofllcnwnteroftepcorpehswefyatlt2wsprtoshpch.Tatslnyasoftertfrtrofapturtss3DeofO.AdRA1,IItordasfI.Ifteatisac,teseofi,teasofisppeofb,adtensadasofiso,d,ado,as;ifteatisap,teseoff,teasofisppeofb,adtensadasofisp,wrglorl;adift0atisayorkdofa,teseoff,teasofisplpeo1b,adtensadasofisp,m,m,orp24BdC.RA1,IIisrdadrdtordasf3I)Asfrpsslbeunshfsadslieshi4astedtrsbyrsadurRA1.Teanins5i,btntbeldt,apehyofteatadofiso,o6d,p,m,ormsretoteo,fls,a7opofalfsodorodbyshp.Teatslaod8tttepdfypsaslpcbtpttoRA19()Teatadalpsadesstfhinsh()s0ap,ptm,orpttrurtscrslbesttoac1rsckcgofaNwHeclrsckadaf2clrdckugnlceind,asstfhins3()th(.TedtmymersurRA5Aegcntso4ptasfmtepehyadclrsckrsoft5s6()Intsp7()“”msehororptorofapyhdc8()“”mstepsddinacsbsora9ofinoredoradbytebdofdstometedyosof0c,shasacfeeo,cfflo,s,t,p1advep.""istepsddwnRA22()“”msapnadoredtostonaggbdo3ac.""ist,m,adgsadtepsd4wnRA21thRA25()“”msoeof2ormepscgonascsof6bsfrp.""i,btisntldt,aldorglprof]
+[DELETED: B6N-VNADBYBHBPe5p,pla,orfnpporshpsasstfhintX()“”msapnwohsbnadtoaldlcyasamrinaewhRA3Corinaewhtelsofteseofncyorjnurwhteldlycyiso."isehmrofaldlyc,fnldlyc,oplldlycyasstfhinRA3CadRA3()"”msapnwoisndorddasamrofldlycyinanoga.""isehmrofal0lyc,fnldlyc,orplldlycyass1fhinRA3CadRA32()""mstedtofels3()Etfrglesadm,tepssttot4clrscspttosh()aeaeasf5()Tea6()Ifteatisani,ehi7()Ifteatisapytdc,ehoradd8()Ifteatisapyhdc,eho,o,a9d0()Ifteatisaglorldp,ehp1()Ifteatisaldlyc,fnldl2c,orplldlyc,ehmradm3()Ifteptstisfrtetrofapttoanwpnor4ceinopoftectpthrpttoRA1,XIadrsa5bytedturRA5,tnteteatadalpsrdtot6teatasstfhinsh(7()Alpsstfhinsh()slsttotedt8NwHedtofs,dnofsep,clhyrsr9anf,aspdbytednofsep,whastednofs0petoctaclhyrsckthissersadthteF1BuofInadtoretoted,frtepsoftss,arto2teclhyadrdi,igclclhyr3i,ofteatadalpsstfhinsh(.Terefms4neteatdroftedtofelsswemtd5adtearoftedtofels,sdwemtb6asadrsadslsyayptrdbytednofsep]
+[DELETED: B6N-VNADBYBHBPe6()Alpsstfhinsh()slsttotedagwhtrclrdreanfmrdinsh(,cestoffstnbyaqdlwetayoradeeotedtofs.IftenlceindeisuefrayrtedtmyatNwHeclrsorpecsfmeyct,orcywetepnhslddgtept5y()Tedtslstteclrsreanfadftfstotedtofs,dnofsep,whslctclhyrsckthisrsadthteFlBuofI0Uncnoftersc,tednofsepeslrecsoftec1hyrstoteatdroftedtofelssw2mtdnadtearoftedtofels,s3wemtb.Tedtslmntecyofalc4hyrdinrdpttotss5()Tedtmyblteatfraycsorfsadwht6pehyrwadteclrsc,i,btntldt,ayf7cdbytedtofsyorteFlBuofInfrteclr8csstfhintsp.Tedtsldyalclhyr9inwn60dsartedsdnonteanoruntec0ofayaloftedsd,wrisl15DlofA.AdRA1,I)ad()tordasf2()TepnoraypnddinRA1,I)hsbncdo,o3pdgyornoctt,afyinayseorflctdgte5ysbetedeo4tepta5[)Inteceofacnorbse,ifayofiso,d6p,kyesorpsorbseshg10ptormeofiseyo7dtlyhsbncdo,orpdgyornoctt,afyinayseorf8ctdgte5ysbetedeoftepta96A;TrofP.AdRA1,X)tordasf0()Asfrtetrofpsslbefdbytepntowms1ptistobetdunshfsadslieshinasted2rsbyrsadurRA1.Teatadalrdpsass3fhinRA1,I)slcywhtepehyrwadc4rdpsofRA1,IIinalr.[eanins5i,btntbeldt,apehyofteatadofisosadd6retoteo,fls,adopofalfsodorodbyt7a.Wrrdbyted,teayglslctab]
+[DELETED: B6N-VNADBYBHBPe7inoftepehyadclrdofteatadofisosad,p,adisoreshgm,s,orsdgayadryfrtemtofosorasfwhaptisbgs,ifa,admearttoted.TecbdckslctofadfwtesepsstfhinphI]Tatslaostasttttepdfyisctwhtepsoadtp.[ectofayinurtsphslbebebytea7DeofO.AdRA1,ItordasfI.AyanfrapturRA19slbesdurohby0reofteatadslcntefgi1()Neadasoftea2()Ifteatisac,teseofi,teasofi3plpeofb,adtensadasofiso,d,ado,a4s;ifteatisap,teseoff,teasofisp5peofb,adtensadasofisp,wrglorl;adift6atisayorkdofa,teseoff,teasofisplpeo7b,adtensadasofisp,p,m,m,ad[8p9()Teetlnweteatistocttebsfrwhiti0sgtep1()ShflinastedtmyreurRA19o2rsadbyted38EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATrgbdcsfrsdweadhswefyoLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SCtofElS]
+
+
+================================================================================
+
+Raw Text:
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2095
+08/09
+644-FN
+SENATEBILL
+ANACT requiringbackgroundchecksforsolidwasteandhazardouswastefacilityowners.
+SPONSORS: Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Lang, Dist 2; Sen. Watters, Dist 4;
+Sen. Avard, Dist 12; Sen. Gannon, Dist 23; Sen. Perkins Kwoka, Dist 21; Rep. J.
+Aron,Sull.4;Rep.Bixby,Straf.13;Rep.Moffett,Merr.4
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires background checks for solid waste and hazardous waste facility owners
+includingpartnersandmanagers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+26-2095
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringbackgroundchecksforsolidwasteandhazardouswastefacilityowners.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 BackgroundChecks. RSA147-A:4,II-candII-darerepealedandreenactedtoreadasfollows:
+2 II-c.(a) Applicationsforpermitsshallbeuponsuchformsandshallincludesuchinformation
+3 as the department requires by rules adopted under RSA 147-A:3. The application information shall
+4 include, but not be limited to, a performance history of the applicant and of its owners, officers,
+5 directors, partners, members, or managers relative to the operation, financial security, and
+6 ownershipofallfacilitiesownedoroperatedbysuchpersons.
+7 (b)(1) Theapplicantandallpersonsandentitiessetforthinsubparagraph(b)(2)seeking
+8 a permit under this chapter shall be subject to a criminal records check consisting of a New
+9 Hampshire criminal records check and a fingerprint-based criminal record check utilizing national
+10 crime information databases, as set forth in subparagraphs (b)(3) through (b)(6). The department
+11 may make rules under RSA 541-A exempting certain types of permit applications from the
+12 performancehistoryandcriminalrecordscheckrequirementsofthissection.
+13 (2) Inthisparagraph:
+14 (A) “Owner”meanseachownerorpartownerofaprivatelyheldcorporation.
+15 (B) “Officer” means those persons described in a corporation’s bylaws or articles
+16 of incorporation or elected or appointed by the board of directors to manage the daily operations of a
+17 corporation, such as a chief executive officer, chief financial officer, secretary, treasurer, president,
+18 andvicepresident. "Officer"includesthosepersonsdescribedwithinRSA293-A:8.40.
+19 (C) “Director” means a person appointed or elected to sit on a governing board of
+20 a corporation. "Director" includes trustees, managers, and governors and those persons described
+21 withinNewHampshireRSA293-A:8.01-8.11.
+22 (D) “Partner” means one of 2 or more persons carrying on as co-owners of a
+23 business for profit. "Partner" includes, but is not limited to, a limited or general partner of a
+24 partnership, professional association, or foreign partnership or such partners as set forth in title
+25 XXVIII.
+26 (E) “Member” means a person who has been admitted to a limited liability
+27 company as a member in accordance with RSA 304-C or in accordance with the laws of the state or
+28 foreign country or jurisdiction under which the limited liability company is organized. "Member"
+29 includes each member of a limited liability company, foreign limited liability company, or
+30 professionallimitedliabilitycompanyassetforthinRSA304-CandRSA304-D.
+
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 (F) "Manager” means a person who is named or designated as a manager of a
+2 limited liability company in an operating agreement. "Manager" includes each manager of a limited
+3 liability company, foreign limited liability company, or professional limited liability company as set
+4 forthinRSA304-CandRSA304-D.
+5 (G) "Department"meansthedepartmentofenvironmentalservices.
+6 (3) Except for governmental entities and municipalities, the persons subject to the
+7 criminalrecordscheckspursuanttosubparagraph(b)(1)aboveareasfollows:
+8 (A) Theapplicant;
+9 (B) Iftheapplicantisanindividual(s),eachindividual;
+10 (C) Iftheapplicantisapubliclytradedcorporation,eachofficeranddirector;
+11 (D) If the applicant is a privately held corporation, each owner, officer, and
+12 director;
+13 (E) Iftheapplicantisageneralorlimitedpartnership,eachpartner;
+14 (F) If the applicant is a limited liability company, foreign limited liability
+15 company,orprofessionallimitedliabilitycompany,eachmanagerandmember;
+16 (G) If the permit sought is for the transfer of a permit to a new person or a
+17 change in ownership of the current permit holder at an existing facility, then the transferee
+18 applicantandallpersonsrelatedtothetransfereeapplicantassetforthinsubparagraph(b)(3).
+19 (4) All persons set forth in subparagraph (b)(3) shall submit to the department a
+20 New Hampshire department of safety, division of state police, criminal history records release
+21 authorization form, as provided by the division of state police, which authorizes the division of state
+22 police to conduct a criminal history records check through its state records and through the Federal
+23 Bureauof Investigationand toreleasetothedepartment, for thepurposes of this section, areport of
+24 the criminal history and record information, including confidential criminal history record
+25 information,oftheapplicantandallpersonssetforthinsubparagraph(b)(3). Thereleaseformshall
+26 nametheassistantdirectorofthedepartmentofenvironmentalserviceswastemanagementdivision
+27 and the administrator of the department of environmental services, hazardous waste management
+28 bureau as authorized recipients and shall specify any payment required by the division of state
+29 police.
+30 (5) All persons set forth in subparagraph (b)(3) shall submit to the department,
+31 along with their criminal record release authorization form required in subparagraph (b)(4), a
+32 complete set of fingerprints taken by a qualified law enforcement agency or authorized employee of
+33 the department of safety. If the national crime information database is unavailable for any reason,
+34 the department may accept New Hampshire criminal records or police clearances from every city,
+35 town,orcountywherethepersonhaslivedduringthepast5years.
+36 (6) The department shall submit the criminal records release authorization forms
+37 and fingerprint forms to the department of safety, division of state police, which shall conduct a
+
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 criminal history records check through its records and through the Federal Bureau of Investigation.
+2 Upon completion of the records check, the division of state police shall release copies of the criminal
+3 history records to the assistant director of the department of environmental services waste
+4 management divisionand theadministrator of the department of environmental services, hazardous
+5 waste management bureau. The department shall maintain the confidentiality of all criminal
+6 historyrecordsinformationreceivedpursuanttothissection.
+7 (7) The department may bill the applicant for any costs or fees associated with the
+8 performance history review and the criminal records check, including, but not limited to, any fee
+9 charged by the department of safety or the Federal Bureau of Investigation for the criminal records
+10 checks set forth in this paragraph. The department shall destroy all criminal history record
+11 informationwithin60days after thedepartment’s decisionontheapplicationor uponthe conclusion
+12 ofanyappealofthedepartment’sdecision,whicheverislater.
+13 II-d. The department may deny a permit application under this section to a person if any of
+14 thefollowingapplies:
+15 (a) The person fails to demonstrate sufficient reliability, expertise, integrity and
+16 competencetooperateahazardouswastefacility.
+17 (b) ThepersonoranypersonsetforthinRSA147-A:4,II-c(b)(3)hasbeenconvictedof,or
+18 pledguiltyornocontestto,afelonyinanystateorfederalcourtduringthe5yearsbeforethedateof
+19 thepermitapplication.
+20 2 PermitApplicants;CriminalRecords. AmendRSA147-A:4,IV-atoreadasfollows:
+21 IV-a. No permit issued by the department under this section shall be transferred by the
+22 permittee to any person without the prior written approval of the department. Applications for the
+23 transfer of permits shall be upon such forms and shall include such information as the department
+24 requires by rules adopted under RSA 147-A:3, IX. The applicant and all related persons as set
+25 forth in RSA 147-A:4, II-c(b) shall comply with the performance history review and
+26 criminal record provisions of RSA 147-A:4, II-c in all respects. [The application information
+27 shall include, but not be limited to, a performance history of the applicant and of its officers and
+28 directors relative to the operation, financial security, and ownership of all facilities owned or
+29 operated by the applicant. Whenever requested by the department, the attorney general shall
+30 conduct a background investigation of the performance history and criminal record of the applicant
+31 and of its officers and directors, partners, and individuals or entities having managerial,
+32 supervisory, or substantial decision-making authority and responsibility for the management of
+33 operations or activities for which a permit is being sought, if any, and make a report to the
+34 department. The criminal background check shall consist of and follow the same procedures set
+35 forth in paragraph II-c. The applicant shall also submit a statement that the proposed facility is
+36 consistent with the provisions of a district plan. The cost of any investigation under this paragraph
+37 shall be borne by the applicant.] The department shall hold a public hearing no later than 30 days
+
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 prior to making any final decision on an application to transfer a permit issued under this section.
+2 Noticeof such public hearingshall bepublished inanewspaper of local circulation withinthe region
+3 of the public or private hazardous waste facility at least 2 weeks prior to such public hearing. The
+4 applicantshallnotifyabuttersoftherequestfortransferofapermitunderthissection.
+5 3 DisclosureofOwnership. AmendRSA147-A:4-b,IItoreadasfollows:
+6 II. If the applicant is a corporation, the state of incorporation, the address of its principal
+7 place of business, and the names and addresses of its owners, directors, and officers[, and
+8 shareholders]; if the applicant is a partnership, the state of formation, the address of its principal
+9 placeofbusiness,andthenamesandaddressesofitspartners,whethergeneralorlimited;andifthe
+10 applicant is any other kind of association, the state of formation, the address of its principal place of
+11 business,andthenamesandaddressesofitspartners,members,managers,orparticipants.
+12 4 BackgroundChecks. RSA149-M:9,IIIisrepealedandreenactedtoreadasfollows:
+13 III.(a) Applications for permits shall be upon such forms and shall include such information
+14 as the department requires by rules adopted under RSA 149-M:7. The application information shall
+15 include, but not be limited to, a performance history of the applicant and of its owners, officers,
+16 directors, partners, members, or managers relative to the operation, financial security, and
+17 ownership of all facilities owned or operated by such persons. The applicant shall also demonstrate
+18 thattheproposedfacilityprovidesasubstantialpublicbenefitpursuanttoRSA149-M:11.
+19 (b)(1) Theapplicantandallpersonsandentitiessetforthinsubparagraph(b)(2)seeking
+20 a permit, permit modification, or permit transfer under this chapter shall be subject to a criminal
+21 records check consisting of a New Hampshire criminal records check and a fingerprint-based
+22 criminal record check utilizing national crime information databases, as set forth in subparagraphs
+23 (b)(3) through (b)(6). The department may make rules under RSA 541-A exempting certain types of
+24 permit applications from the performance history and criminal records check requirements of this
+25 section.
+26 (2) Inthisparagraph:
+27 (A) “Owner”meanseachownerorpartownerofaprivatelyheldcorporation.
+28 (B) “Officer” means those persons described in a corporation’s bylaws or articles
+29 of incorporation or elected or appointed by the board of directors to manage the daily operations of a
+30 corporation, such as a chief executive officer, chief financial officer, secretary, treasurer, president,
+31 andvicepresident. "Officer"includesthosepersonsdescribedwithinRSA293-A:8.40.
+32 (C) “Director” means a person appointed or elected to sit on a governing board of
+33 a corporation. "Director" includes trustees, managers, and governors and those persons described
+34 withinRSA293-A:8.01throughRSA293-A:8.11.
+35 (D) “Partner” means one of 2 or more persons carrying on as co-owners of a
+36 business for profit. "Partner" includes, but is not limited to, a limited or general partner of a
+
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 partnership, professional association, or foreign partnership or such partners as set forth in title
+2 XXVIII.
+3 (E) “Member” means a person who has been admitted to a limited liability
+4 company as a member in accordance with RSA 304-C or in accordance with the laws of the state or
+5 foreign country or jurisdiction under which the limited liability company is organized. "Member"
+6 includes each member of a limited liability company, foreign limited liability company, or
+7 professionallimitedliabilitycompanyassetforthinRSA304-CandRSA304-D.
+8 (F) "Manager” means a person who is named or designated as a manager of a
+9 limited liability company in an operating agreement. "Manager" includes each manager of a limited
+10 liability company, foreign limited liability company, or professional limited liability company as set
+11 forthinRSA304-CandRSA304-D.
+12 (G) "Department"meansthedepartmentofenvironmentalservices.
+13 (3) Except for governmental entities and municipalities, the persons subject to the
+14 criminalrecordscheckspursuanttosubparagraph(b)(1)aboveareasfollows:
+15 (A) Theapplicant.
+16 (B) Iftheapplicantisanindividual(s),eachindividual.
+17 (C) Iftheapplicantisapubliclytradedcorporation,eachofficeranddirector.
+18 (D) If the applicant is a privately held corporation, each owner, officer, and
+19 director.
+20 (E) Iftheapplicantisageneralorlimitedpartnership,eachpartner.
+21 (F) If the applicant is a limited liability company, foreign limited liability
+22 company,orprofessionallimitedliabilitycompany,eachmanagerandmember.
+23 (G) If the permit sought is for the transfer of a permit to a new person or a
+24 change in ownership of the current permit holder pursuant to RSA 149-M:9, XII and rules adopted
+25 by the department under RSA 541-A, then the transferee applicant and all persons related to the
+26 transfereeapplicantassetforthinsubparagraph(b)(3).
+27 (4) All persons set forth in subparagraph (b)(3) shall submit to the department a
+28 New Hampshire department of safety, division of state police, criminal history records release
+29 authorization form, as provided by the division of state police, which authorizes the division of state
+30 police to conduct a criminal history records check through its state records and through the Federal
+31 Bureauof Investigationand toreleasetothedepartment, for thepurposes of this section, areport of
+32 the criminal history and record information, including confidential criminal history record
+33 information,oftheapplicantandallpersonssetforthinsubparagraph(b)(3). Thereleaseformshall
+34 nametheassistantdirectorofthedepartmentofenvironmentalserviceswastemanagementdivision
+35 and theadministrator of thedepartment of environmental services, solid wastemanagement bureau
+36 asauthorizedrecipientsandshallspecifyanypaymentrequiredbythedivisionofstatepolice.
+
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 (5) All persons set forth in subparagraph (b)(3) shall submit to the department,
+2 along with their criminal record release authorization form required in subparagraph (b)(4), a
+3 complete set of fingerprints taken by a qualified law enforcement agency or authorized employee of
+4 the department of safety. If the national crime information database is unavailable for any reason,
+5 the department may accept New Hampshire criminal records or police clearances from every city,
+6 town,orcountywherethepersonhaslivedduringthepast5years.
+7 (6) The department shall submit the criminal records release authorization forms
+8 and fingerprint forms to the department of safety, division of state police, which shall conduct a
+9 criminal history records check through its records and through the Federal Bureau of Investigation.
+10 Upon completion of the records check, the division of state police shall release copies of the criminal
+11 history records to the assistant director of the department of environmental services waste
+12 management division and the administrator of the department of environmental services, solid
+13 waste management bureau. The department shall maintain the confidentiality of all criminal
+14 historyrecordinformationreceivedpursuanttothissection.
+15 (7) The department may bill the applicant for any costs or fees associated with the
+16 performance history review and the criminal records check, including, but not limited to, any fee
+17 charged by the department of safety or the Federal Bureau of Investigation for the criminal records
+18 checks set forth in this paragraph. The department shall destroy all criminal history record
+19 informationwithin60days after thedepartment’s decisionontheapplicationor uponthe conclusion
+20 ofanyappealofthedepartment’sdecision,whicheverislater.
+21 5 DenialofApplication. AmendRSA149-M:9,IX(b)and(c)toreadasfollows:
+22 (b) Thepersonor anypersondefinedinRSA149-M:9,III(b)hasbeenconvictedof,or
+23 pledguiltyornocontestto,afelonyinanystateorfederalcourtduringthe5yearsbeforethedateof
+24 thepermitapplication.
+25 [(c) In the case of a corporation or business entity, if any of its officers, directors,
+26 partners, key employees or persons or business entities holding 10 percent or more of its equity or
+27 debt liability has been convicted of, or pled guilty or no contest to, a felony in any state or federal
+28 courtduringthe5yearsbeforethedateofthepermitapplication.]
+29 6 Applications;TransferofPermits. AmendRSA149-M:9,XII(a)toreadasfollows:
+30 (a) Applications for the transfer of permits shall be filed by the person to whom such
+31 permit is to be transferred upon such forms and shall include such information as the department
+32 requires by rules adopted under RSA 149-M:7. The applicant and all related persons as set
+33 forthinRSA149-M:9,III(b)shall comply withthe performance history review andcriminal
+34 record provisions of RSA 149-M:9, III in all respects. [The application information shall
+35 include, but not be limited to, a performance history of the applicant and of its officers and directors
+36 relative to the operation, financial security, and ownership of all facilities owned or operated by the
+37 applicant. Whenever requested by the department, the attorney general shall conduct a background
+
+SB644-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 investigation of the performance history and criminal record of the applicant and of its officers and
+2 directors, partners, and individuals or entities having managerial, supervisory, or substantial
+3 decision-making authority and responsibility for the management of operations or activities for
+4 which a permit is being sought, if any, and make a report to the department. The criminal
+5 background check shall consist of and follow the same procedures set forth in paragraph III.] The
+6 applicantshall alsosubmit astatement that theproposed facilityis consistent withtheprovisions of
+7 adistrictplan. [Thecostofanyinvestigationunderthisparagraphshallbebornebytheapplicant.]
+8 7 DisclosureofOwnership. AmendRSA149-M:10,Itoreadasfollows:
+9 I. Any application for a permit under RSA 149-M:9 shall be signed under oath by a
+10 representativeoftheapplicantandshallcontainthefollowinginformation:
+11 (a) Nameandaddressoftheapplicant.
+12 (b) If the applicant is a corporation, the state of incorporation, the address of its
+13 principal place of business, and the names and addresses of its owners, directors, and officers[, and
+14 shareholders]; if the applicant is a partnership, the state of formation, the address of its principal
+15 placeofbusiness,andthenamesandaddressesofitspartners,whethergeneralorlimited;andifthe
+16 applicant is any other kind of association, the state of formation, the address of its principal place of
+17 business, and the names and addresses of its principals, partners, members, managers, and [or]
+18 participants.
+19 (c) The exact locationwhere theapplicant intends toconduct thebusiness for which it is
+20 seekingthepermit.
+21 (d) Such financial information as the department may require under RSA 149-M:9 or
+22 rulesadoptedbythedepartment.
+23 8 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2095
+11/17/25
+SB644-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiringbackgroundchecksforsolidwasteandhazardouswastefacilityowners.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices
+
+[DELETED: B6N-VNADBYBHB6SEBNATrgbdcsfrsdweadhswefyo:S.P,Dt1;S.W,Dt8;S.L,Dt2;S.W,Dt4.A,Dt1;S.G,Dt2;S.PsK,Dt2;R.J,S.4;R.B,S.1;R.M,M.:EyadNlRsblrsbdcsfrsdweadhswefyogpsadm-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-VNADBYBHBEOFNWHnteYrofOrLdToTdTNATrgbdcsfrsdweadhswefyoeitEdbyteSeadHeofRsinGlCtc1BdC.RA1,IcadIdaerdadrdtordasfI)AsfrpsslbeunshfsadslieshiastedtrsbyrsadurRA1.Teaninsi,btntbeldt,apehyofteatadofiso,od,p,m,ormsretoteo,fls,aopofalfsodorodbyshp()Teatadalpsadesstfhinsh()sapturtscrslbesttoaclrsckcgofaNHeclrsckadafdclrdckugn0ceind,asstfhinss()th(.Ted1mymersurRA5Aegcntsofptasfmt2pehyadclrsckrsoftss3()Intsp4()“”msehororptorofapyhdc5()“”mstepsddinacsbsora6ofinoredoradbytebdofdstometedyosof7c,shasacfeeo,cfflo,s,t,p8advep.""istepsddwnRA29()“”msapnadoredtostonaggbdo0ac.""ist,m,adgsadtepsd1wnNwHeRA22()“”msoeof2ormepscgonascsof3bsfrp.""i,btisntldt,aldorglprof4p,pla,orfnpporshpsasstfhint5X6()“”msapnwohsbnadtoaldl7cyasamrinaewhRA3Corinaewhtelsofteseo8fncyorjnurwhteldlycyiso."9isehmrofaldlyc,fnldlyc,o0plldlycyasstfhinRA3CadRA3]
+[DELETED: B6N-VNADBYBHBPe2()"”msapnwoisndorddasamrofldlycyinanoga.""isehmrofallyc,fnldlyc,orplldlycyassfhinRA3CadRA3()""mstedtofels()Etfrglesadm,tepssttotclrscspttosh()aeaeasf()Tea()Ifteatisani,ehi0()Ifteatisapytdc,ehoradd1()Ifteatisapyhdc,eho,o,a2d3()Ifteatisaglorldp,ehp4()Ifteatisaldlyc,fnldl5c,orplldlyc,ehmradm6()Ifteptstisfrtetrofapttoanwpnor7ceinopoftectpthratanegf,tntet8atadalpsrdtoteteatasstfhinsh(9()Alpsstfhinsh()slsttotedt0NwHedtofs,dnofsep,clhyrsr1anf,aspdbytednofsep,whastednofs2petoctaclhyrsckthissersadthteF3BuofInadtoretoted,frtepsoftss,arto4teclhyadrdi,igclclhyr5i,ofteatadalpsstfhinsh(.Terefms6neteatdroftedtofelsswemtd7adtearoftedtofels,hswem8buasadrsadslsyayptrdbytednofs9p0()Alpsstfhinsh()slsttoted1agwhtrclrdreanfmrdinsh(,2cestoffstnbyaqdlwetayoradeeo3tedtofs.Iftenlceindeisuefrayr4tedtmyatNwHeclrsorpecsfmeyc5t,orcywetepnhslddgtept5y6()Tedtslstteclrsreanf7adftfstotedtofs,dnofsep,whslct]
+[DELETED: B6N-VNADBYBHBPe3clhyrsckthisrsadthteFlBuofIUncnoftersc,tednofsepeslrecsoftechyrstoteatdroftedtofelsswmtdnadtearoftedtofels,hwemtb.Tedtslmntecyofalchyrsinrdpttotss()Tedtmyblteatfraycsorfsadwhtpehyrwadteclrsc,i,btntldt,ayfcdbytedtofsyorteFlBuofInfrteclr0csstfhintsp.Tedtsldyalclhyr1inwn60dsartedsdnonteanoruntec2ofayaloftedsd,wrisl3I.Tedtmydyaptanurtssntoapnifayo4tefga5()Tepnfstodestr,e,iya6cetooeahswef7()TepnoraypnstfhinRA1,I)hsbncdo,o8pdgyornoctt,afyinayseorflctdgte5ysbetedeo9tepta02PtA;ClR.AdRA1,Iatordasf1I.Noptidbytedturtssnslbetdbyt2petoaypnwtteprwnalofted.Asfrt3trofpsslbeunshfsadslieshinasted4rsbyrsadurRA1,I.Teatadalrdpsass5fhinRA1,I)slcywhtepehyrwa6clrdpsofRA1,Icinalr.[eani7sli,btntbeldt,apehyofteatadofisosa8dsretoteo,fls,adopofalfsodo9odbytea.Wrrdbyted,teaygls0ctabdinoftepehyadclrdoftea1adofisosadd,p,adisoreshgm2s,orsldgayadryfrtemto3osorasfrwhaptisbgs,ifa,admearttot4d.Teclbdckslctofadfwtesepss5fhinphI.Teatslaostasttttepdfyi6ctwhtepsofadtp.Tectofayinurtsp7slbebebytea]Tedtslhdapchgnolrtn30d]
+[DELETED: B6N-VNADBYBHBPe4prtomgayfldnonanantotraptidurtssNeofshpchgslbepdinanrofllcnwnteroftepcorpehswefyatlt2wsprtoshpch.Tatslnyasoftertfrtrofapturtss3DeofO.AdRA1,IItordasfI.Ifteatisac,teseofi,teasofisppeofb,adtensadasofiso,d,ado,as;ifteatisap,teseoff,teasofisppeofb,adtensadasofisp,wrglorl;adift0atisayorkdofa,teseoff,teasofisplpeo1b,adtensadasofisp,m,m,orp24BdC.RA1,IIisrdadrdtordasf3I)Asfrpsslbeunshfsadslieshi4astedtrsbyrsadurRA1.Teanins5i,btntbeldt,apehyofteatadofiso,o6d,p,m,ormsretoteo,fls,a7opofalfsodorodbyshp.Teatslaod8tttepdfypsaslpcbtpttoRA19()Teatadalpsadesstfhinsh()s0ap,ptm,orpttrurtscrslbesttoac1rsckcgofaNwHeclrsckadaf2clrdckugnlceind,asstfhins3()th(.TedtmymersurRA5Aegcntso4ptasfmtepehyadclrsckrsoft5s6()Intsp7()“”msehororptorofapyhdc8()“”mstepsddinacsbsora9ofinoredoradbytebdofdstometedyosof0c,shasacfeeo,cfflo,s,t,p1advep.""istepsddwnRA22()“”msapnadoredtostonaggbdo3ac.""ist,m,adgsadtepsd4wnRA21thRA25()“”msoeof2ormepscgonascsof6bsfrp.""i,btisntldt,aldorglprof]
+[DELETED: B6N-VNADBYBHBPe5p,pla,orfnpporshpsasstfhintX()“”msapnwohsbnadtoaldlcyasamrinaewhRA3Corinaewhtelsofteseofncyorjnurwhteldlycyiso."isehmrofaldlyc,fnldlyc,oplldlycyasstfhinRA3CadRA3()"”msapnwoisndorddasamrofldlycyinanoga.""isehmrofal0lyc,fnldlyc,orplldlycyass1fhinRA3CadRA32()""mstedtofels3()Etfrglesadm,tepssttot4clrscspttosh()aeaeasf5()Tea6()Ifteatisani,ehi7()Ifteatisapytdc,ehoradd8()Ifteatisapyhdc,eho,o,a9d0()Ifteatisaglorldp,ehp1()Ifteatisaldlyc,fnldl2c,orplldlyc,ehmradm3()Ifteptstisfrtetrofapttoanwpnor4ceinopoftectpthrpttoRA1,XIadrsa5bytedturRA5,tnteteatadalpsrdtot6teatasstfhinsh(7()Alpsstfhinsh()slsttotedt8NwHedtofs,dnofsep,clhyrsr9anf,aspdbytednofsep,whastednofs0petoctaclhyrsckthissersadthteF1BuofInadtoretoted,frtepsoftss,arto2teclhyadrdi,igclclhyr3i,ofteatadalpsstfhinsh(.Terefms4neteatdroftedtofelsswemtd5adtearoftedtofels,sdwemtb6asadrsadslsyayptrdbytednofsep]
+[DELETED: B6N-VNADBYBHBPe6()Alpsstfhinsh()slsttotedagwhtrclrdreanfmrdinsh(,cestoffstnbyaqdlwetayoradeeotedtofs.IftenlceindeisuefrayrtedtmyatNwHeclrsorpecsfmeyct,orcywetepnhslddgtept5y()Tedtslstteclrsreanfadftfstotedtofs,dnofsep,whslctclhyrsckthisrsadthteFlBuofI0Uncnoftersc,tednofsepeslrecsoftec1hyrstoteatdroftedtofelssw2mtdnadtearoftedtofels,s3wemtb.Tedtslmntecyofalc4hyrdinrdpttotss5()Tedtmyblteatfraycsorfsadwht6pehyrwadteclrsc,i,btntldt,ayf7cdbytedtofsyorteFlBuofInfrteclr8csstfhintsp.Tedtsldyalclhyr9inwn60dsartedsdnonteanoruntec0ofayaloftedsd,wrisl15DlofA.AdRA1,I)ad()tordasf2()TepnoraypnddinRA1,I)hsbncdo,o3pdgyornoctt,afyinayseorflctdgte5ysbetedeo4tepta5[)Inteceofacnorbse,ifayofiso,d6p,kyesorpsorbseshg10ptormeofiseyo7dtlyhsbncdo,orpdgyornoctt,afyinayseorf8ctdgte5ysbetedeoftepta96A;TrofP.AdRA1,X)tordasf0()Asfrtetrofpsslbefdbytepntowms1ptistobetdunshfsadslieshinasted2rsbyrsadurRA1.Teatadalrdpsass3fhinRA1,I)slcywhtepehyrwadc4rdpsofRA1,IIinalr.[eanins5i,btntbeldt,apehyofteatadofisosadd6retoteo,fls,adopofalfsodorodbyt7a.Wrrdbyted,teayglslctab]
+[DELETED: B6N-VNADBYBHBPe7inoftepehyadclrdofteatadofisosad,p,adisoreshgm,s,orsdgayadryfrtemtofosorasfwhaptisbgs,ifa,admearttoted.TecbdckslctofadfwtesepsstfhinphI]Tatslaostasttttepdfyisctwhtepsoadtp.[ectofayinurtsphslbebebytea7DeofO.AdRA1,ItordasfI.AyanfrapturRA19slbesdurohby0reofteatadslcntefgi1()Neadasoftea2()Ifteatisac,teseofi,teasofi3plpeofb,adtensadasofiso,d,ado,a4s;ifteatisap,teseoff,teasofisp5peofb,adtensadasofisp,wrglorl;adift6atisayorkdofa,teseoff,teasofisplpeo7b,adtensadasofisp,p,m,m,ad[8p9()Teetlnweteatistocttebsfrwhiti0sgtep1()ShflinastedtmyreurRA19o2rsadbyted38EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATrgbdcsfrsdweadhswefyoLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SCtofElS]

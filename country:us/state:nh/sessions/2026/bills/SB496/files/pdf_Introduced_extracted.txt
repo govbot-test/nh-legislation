@@ -1,0 +1,102 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB496 -ASINTRODUCED
+2026SESSION
+26-2061
+07/09
+496
+ANACT relative to supervision and registration requirements for associates of broker-
+dealers.
+SPONSORS: Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Sen. Fenton, Dist 10; Sen. Watters,
+Dist4;Sen.Gannon,Dist23;Sen.Innis,Dist7;Rep.Miles,Hills.12
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts certain private residences designated by broker-dealers as a supervisory
+locationfrombeingclassifiedasabranchoffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB496-ASINTRODUCED
+26-2061
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to supervision and registration requirements for associates of broker-
+dealers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Securities; Uniform Securities Act; Definitions. Amend RSA 421-B:1-102, 5(B) to read as
+2 follows:
+3 (B) Notwithstandingtheexclusions providedinsubsection(5)(A)(ii),anylocation
+4 that is responsible for supervising the activities of agents of the broker dealer at one or more non-
+5 branch locations of the broker-dealer shall be a branch office. Notwithstanding the foregoing, a
+6 private residence designated by a broker-dealer as a residential supervisory location in
+7 compliance with FINRA Rule 3110.19, or successor rule, shall not be deemed a branch
+8 officeforpurposesofthischapter.
+9 2 NewSubparagraph; Securities;UniformSecuritiesAct; Definitions. AmendRSA421-B:1-102,
+10 5byinsertingaftersubparagraph(C)thefollowingnewsubparagraph:
+11 (D) “Residential supervisory location” means a private residence from which an
+12 associated person engages in supervisory functions that a broker-dealer has designated as a
+13 residentialsupervisorylocationincompliancewithFINRARule3110.19,orsuccessorrule.
+14 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+[DELETED: B46-ASI6SEBNATretosnadrnrsfrasofb:S.M,Dt1;S.P,Dt1;S.F,Dt1;S.Wt4;S.G,Dt2;S.I,Dt7;R.M,H.1:Csblescnpersddbybsasasnfmbgcdasabho-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASIEOFNWHnteYrofOrLdToTdTNATretosnadrnrsfrasofbeitEdbyteSeadHeofRsinGlCtc1S;UmSsA;D.AdRA4,5)tordaf()Ngteespdinsn(,aylttisrefrsgteasofasoftebrdratoeormenbhlsoftebrslbeabho.Ngtef,pereddbyabrasarlsylnicewhFARe3,orsrr,slntbeddaboefrpsoftsc2NwS;S;UmSsA;D.AdRA405byigarsh()tefgnws1()“lsyl”msaperefmwha2adpnesinsyfsttabrhsddas3rlsylnincewhFARe3,orsrr43EeD.Tsatslteetunisp]
+
+
+================================================================================
+
+Raw Text:
+SB496 -ASINTRODUCED
+2026SESSION
+26-2061
+07/09
+496
+SENATEBILL
+ANACT relative to supervision and registration requirements for associates of broker-
+dealers.
+SPONSORS: Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Sen. Fenton, Dist 10; Sen. Watters,
+Dist4;Sen.Gannon,Dist23;Sen.Innis,Dist7;Rep.Miles,Hills.12
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts certain private residences designated by broker-dealers as a supervisory
+locationfrombeingclassifiedasabranchoffice.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB496-ASINTRODUCED
+26-2061
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to supervision and registration requirements for associates of broker-
+dealers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Securities; Uniform Securities Act; Definitions. Amend RSA 421-B:1-102, 5(B) to read as
+2 follows:
+3 (B) Notwithstandingtheexclusions providedinsubsection(5)(A)(ii),anylocation
+4 that is responsible for supervising the activities of agents of the broker dealer at one or more non-
+5 branch locations of the broker-dealer shall be a branch office. Notwithstanding the foregoing, a
+6 private residence designated by a broker-dealer as a residential supervisory location in
+7 compliance with FINRA Rule 3110.19, or successor rule, shall not be deemed a branch
+8 officeforpurposesofthischapter.
+9 2 NewSubparagraph; Securities;UniformSecuritiesAct; Definitions. AmendRSA421-B:1-102,
+10 5byinsertingaftersubparagraph(C)thefollowingnewsubparagraph:
+11 (D) “Residential supervisory location” means a private residence from which an
+12 associated person engages in supervisory functions that a broker-dealer has designated as a
+13 residentialsupervisorylocationincompliancewithFINRARule3110.19,orsuccessorrule.
+14 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+[DELETED: B46-ASI6SEBNATretosnadrnrsfrasofb:S.M,Dt1;S.P,Dt1;S.F,Dt1;S.Wt4;S.G,Dt2;S.I,Dt7;R.M,H.1:Csblescnpersddbybsasasnfmbgcdasabho-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASIEOFNWHnteYrofOrLdToTdTNATretosnadrnrsfrasofbeitEdbyteSeadHeofRsinGlCtc1S;UmSsA;D.AdRA4,5)tordaf()Ngteespdinsn(,aylttisrefrsgteasofasoftebrdratoeormenbhlsoftebrslbeabho.Ngtef,pereddbyabrasarlsylnicewhFARe3,orsrr,slntbeddaboefrpsoftsc2NwS;S;UmSsA;D.AdRA405byigarsh()tefgnws1()“lsyl”msaperefmwha2adpnesinsyfsttabrhsddas3rlsylnincewhFARe3,orsrr43EeD.Tsatslteetunisp]

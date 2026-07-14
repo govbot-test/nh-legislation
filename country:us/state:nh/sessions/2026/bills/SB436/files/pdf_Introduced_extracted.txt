@@ -1,0 +1,88 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB436 -ASINTRODUCED
+2026SESSION
+26-2220
+06/09
+436
+ANACT relativetozoningboardofadjustmentmembershipcriteria.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Lang, Dist 2; Sen. Gannon, Dist 23; Sen. Sullivan, Dist
+18;Sen.Watters,Dist4;Sen.Murphy,Dist16;Sen.Birdsell,Dist19
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill replaces the existing recusal provision for zoning board of adjustment members with a
+conflict of interest standard requiring recusal whenever a member’s impartiality might reasonably
+bequestionedandincludingpriorquasi-judicialinvolvementonanotherboard.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB436-ASINTRODUCED
+26-2220
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetozoningboardofadjustmentmembershipcriteria.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Appointment and Terms of Local Land Use Board Members; Zoning Board of Adjustment and
+2 BuildingCodeBoardofAppeals. RSA673:3,Visrepealedandreenactedtoreadasfollows:
+3 V. Any member of a zoning board of adjustment who has a conflict of interest in a matter
+4 before the board shall recuse himself or herself from acting or voting on that matter. A conflict of
+5 interest shall include any circumstance in which the member’s impartiality might reasonably be
+6 questioned, including prior involvement in the matter in a quasi-judicial capacity as a voting
+7 memberofanotherboard.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B46-ASI6SEBNATretozgbdofatmpc:S.A,Dt2;S.L,Dt2;S.G,Dt2;S.S,D;S.W,Dt4;S.M,Dt1;S.B,Dt1:EnLwadMlAsblrsteegrlpnfrzgbdofatmswhtofitsdrgrlwramsiymtreqdadigprqlitonarb-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASIEOFNWHnteYrofOrLdToTdTNATretozgbdofatmpceitEdbyteSeadHeofRsinGlCtc1AtadTsofLlLdUeBdM;ZgBdofAtaBgCeBdofA.RA6,VisrdadrdtordasfV.Aymrofazgbdofatwohsactofitinambetebdslrehforhffmagorvgonttm.Actoitslieayceinwhtemsiymtrybq,igpritintemrinaqlcyasavmrofarb2EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB436 -ASINTRODUCED
+2026SESSION
+26-2220
+06/09
+436
+SENATEBILL
+ANACT relativetozoningboardofadjustmentmembershipcriteria.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Lang, Dist 2; Sen. Gannon, Dist 23; Sen. Sullivan, Dist
+18;Sen.Watters,Dist4;Sen.Murphy,Dist16;Sen.Birdsell,Dist19
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill replaces the existing recusal provision for zoning board of adjustment members with a
+conflict of interest standard requiring recusal whenever a member’s impartiality might reasonably
+bequestionedandincludingpriorquasi-judicialinvolvementonanotherboard.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB436-ASINTRODUCED
+26-2220
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetozoningboardofadjustmentmembershipcriteria.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Appointment and Terms of Local Land Use Board Members; Zoning Board of Adjustment and
+2 BuildingCodeBoardofAppeals. RSA673:3,Visrepealedandreenactedtoreadasfollows:
+3 V. Any member of a zoning board of adjustment who has a conflict of interest in a matter
+4 before the board shall recuse himself or herself from acting or voting on that matter. A conflict of
+5 interest shall include any circumstance in which the member’s impartiality might reasonably be
+6 questioned, including prior involvement in the matter in a quasi-judicial capacity as a voting
+7 memberofanotherboard.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B46-ASI6SEBNATretozgbdofatmpc:S.A,Dt2;S.L,Dt2;S.G,Dt2;S.S,D;S.W,Dt4;S.M,Dt1;S.B,Dt1:EnLwadMlAsblrsteegrlpnfrzgbdofatmswhtofitsdrgrlwramsiymtreqdadigprqlitonarb-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASIEOFNWHnteYrofOrLdToTdTNATretozgbdofatmpceitEdbyteSeadHeofRsinGlCtc1AtadTsofLlLdUeBdM;ZgBdofAtaBgCeBdofA.RA6,VisrdadrdtordasfV.Aymrofazgbdofatwohsactofitinambetebdslrehforhffmagorvgonttm.Actoitslieayceinwhtemsiymtrybq,igpritintemrinaqlcyasavmrofarb2EeD.Tsatslteet60dsarisp]

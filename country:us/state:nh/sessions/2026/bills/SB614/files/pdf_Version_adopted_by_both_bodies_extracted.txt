@@ -1,0 +1,710 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1044s
+14May2026...1626h
+06/04/2026 2150EBA
+2026SESSION
+26-2226
+12/09
+614-FN
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for
+nonprofitandfor-profitprovidersandservicers.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Perkins Kwoka, Dist 21; Sen.
+Altschiller, Dist 24; Rep. Kuttab, Rock. 17; Rep. L. Walsh, Rock. 15; Rep. Post,
+Hills.42
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Establishes a multiple-caregiver self-insured risk coverage arrangement for nonprofit and for-
+profit providers and servicers of child care, day care, foster care placement, and behavioral health
+services.
+II. Establishesreportingrequirementsforsucharrangements.
+III. Authorizes the commissioner of the insurance department to verify such arrangements,
+includingwhetherthearrangementsaretobesuspendedorterminated.
+IV. Authorizes the commissioner of the insurance department to issue penalties and adopt rules
+relativetosucharrangements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1044s
+14May2026...1626h
+06/04/2026 2150EBA 26-2226
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for
+nonprofitandfor-profitprovidersandservicers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Multiple-Caregiver Self-Insured Risk Coverage Arrangements. Amend RSA by
+2 insertingafterchapter405-B,thefollowingnewchapter:
+3 CHAPTER405-C
+4 MULTIPLE-CAREGIVERSELF-INSUREDRISKCOVERAGEARRANGEMENTS
+5 405-C:1 Purpose. This chapter provides authority for 2 or more nonprofit and for-profit
+6 providers and servicers of child care, day care, foster care placement, and behavioral health services
+7 to participate in a joint self-insurance risk coverage arrangement covering liability risks. The joint
+8 self-insurance arrangements authorized under this chapter permit eligible entities to jointly self-
+9 insureliabilityrisks,jointlypurchaseinsuranceandreinsurance,andcontractforriskmanagement,
+10 claims,andadministrativeandlegalservices.
+11 405-C:2 Definitions.
+12 I. “Commissioner”meansthecommissioneroftheNewHampshireinsurancedepartment.
+13 II. "Covered entity" means a nonprofit or for-profit provider or servicer of child care, day
+14 care,fostercareplacement,andbehavioralhealthservices.
+15 III. “Department”meanstheNewHampshireinsurancedepartment.
+16 IV. "Liability risks" mean risk of loss sustained by an entity and the risk of claims arising
+17 from the tortious or negligent conduct or any error or omission of the entity, its officers, employees,
+18 agents,orvolunteersasaresultofaclaimthatmaybemadeagainsttheentity.
+19 V. “Multiple-caregiverself-insuredriskcoveragearrangement”meansaformalarrangement
+20 which is established or maintained by or on behalf of 2 or more eligible entities for the purpose of
+21 jointlycoveringliabilityrisk.
+22 VI. “Nonprofit organization” means any entity that is exempt from taxation under Section
+23 501(c)(3), 501(c)(4), 501(c)(6) or 501(c)(12) of the Internal Revenue Code of 1986, or any subsequent
+24 correspondinginternalrevenuecodeoftheUnitedStates,asamended.
+25 VII. "Self-insurance" means a formal arrangement of advance funding and management of
+26 entity financial exposure to risk of loss that is not entirely transferred through the purchase of an
+27 insurancepolicyorcontract.
+28 405-C:3 DeclarationofStatus;TaxExemption.
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 I. Any arrangement authorized and meeting the standards required under this chapter is
+2 not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+3 administration of any activities of the arrangement shall not constitute doing an insurance business
+4 for purposes of regulation or taxation. Such self-insurance arrangements shall not be subject to the
+5 premium tax under RSA 400-A:32 and shall not be subject to assessment with respect to the
+6 administrationfundunderRSA400-A:39.
+7 II. Any such arrangement operating under this chapter, whether or not a body corporate,
+8 trust, or charter, may sue or be sued, make contracts, hold and dispose of real property, borrow
+9 money,contractdebts,andpledgeassetsinitsname.
+10 III. Jointself-insurancearrangementsshallbegovernedbythischapterandshallbeexempt
+11 fromthistitle,exceptfortheprovisionsof:
+12 (a) RSA400-A:16,relativetoinvestigations;
+13 (b) RSA400-A:17throughRSA400-A:24,relativetohearingsandappeals;
+14 (c) RSA400-A:37,relativetoexaminations;
+15 (d) RSA402-Brelativetoinsuranceclaimsadjusters;
+16 (e) RSA402-Hrelativetothird-partyadministrators;
+17 (f) RSA402-J,relativetoproducerlicensing;and
+18 (g) RSA417:1through417:31relativetounfairtradepracticesandfraudinvestigations.
+19 IV. This section does not apply to or provide exemptions for insurance companies issuing
+20 policies to cover the arrangement, third-party administrators, insurance producers, or other
+21 licenseessubjecttoRSAtitleXXXVIIservicingthejointself-insurancearrangement.
+22 405-C:4 Exemptions. Thischapterdoesnotapplytoanon-profitorfor-profitentitythat:
+23 I. Individuallyself-insuresforpropertyandliabilityrisks;
+24 II. Participates in a risk pooling arrangement, including a risk retention group or a risk
+25 purchasing group, regulated under RSA 405-A, or is a captive insurer authorized in its state of
+26 domicile;or
+27 III. Comprisesonlyunitsoflocalgovernmentorisagroupthatcompriseslocalgovernments
+28 joinedbyaninterlocalagreementauthorizedbyRSA5-B.
+29 405-C:5 AgreementtoForm;AuthorizedActivities.
+30 I. A covered entity may join or form a self-insured risk coverage arrangement together with
+31 one or more other covered entities and may jointly purchase insurance or reinsurance with one or
+32 more other covered entities for liability risks as permitted under this chapter. Covered entities may
+33 contract for or hire personnel to provide risk management, claims, and administrative and legal
+34 servicesinaccordancewiththischapter.
+35 II. The agreement to form a self-insured risk coverage arrangement may include the
+36 organization of a separate legal entity with powers delegated to the entity. Any such separate legal
+37 entityshallbeincompliancewithallapplicableNewHampshirelaws.
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 III. If provided for in the organizational documents, a joint self-insured risk coverage
+2 arrangementmay,inconformancewiththischapter:
+3 (a) Contractorotherwiseprovideforriskmanagementandlosscontrolservices;
+4 (b) Contract or otherwise provide legal counsel for the defense of claims and other legal
+5 services;
+6 (c) Jointly purchase insurance and reinsurance coverage in a form and amount as
+7 providedforintheorganizationaldocuments;
+8 (d) Obligatetheparticipants topledgefundsor revenuestosecuretheobligationsor pay
+9 the expenses of the arrangement, including the establishment of a reserve fund for coverage, and
+10 anyadditionalassessmentifthereservefundorthearrangement'srevenueorassetsareinsufficient
+11 tocovertheliabilities;and
+12 (e) Possess any other powers and perform all other functions reasonably necessary to
+13 carryoutthepurposesofthischapter.
+14 405-C:6 Formation. Before the establishment of a multiple-caregiver self-insured risk coverage
+15 arrangement, the covered entities shall obtain the approval of the commissioner. The entity or
+16 entities proposing the creation of the arrangement shall submit, as part of the application, a plan of
+17 management and operation to the commissioner that provides at a minimum, the following
+18 information:
+19 I. The risk or risks to be covered, including any coverage definitions, terms, conditions, and
+20 limitations;
+21 II. The amount and method of funding the covered risks, including the initial capital and
+22 proposedratesandprojectedpremiums;
+23 III. Theproposedclaimreservingpractices;
+24 IV. The proposed purchase and maintenance of insurance or reinsurance in excess of the
+25 amountsretainedbythejointself-insurancearrangement;
+26 V. The legal form of the program including, but not limited to, any constitution, articles of
+27 incorporation,bylaws,charter,trust,orotheragreementamongtheparticipatingentities;
+28 VI. The agreements with participants in the arrangement defining the responsibilities and
+29 benefitsofeachparticipantandmanagement;
+30 VII. Theproposedaccounting,depositing,andinvestmentpracticesofthearrangement;
+31 VIII. Evidence satisfactory to the commissioner showing that the arrangement will be
+32 operated in accordance with sound actuarial principles. The commissioner shall not approve the
+33 arrangement unless the commissioner determines that the plan is designed to provide sufficient
+34 revenues to pay current and future liabilities, as determined in accordance with sound actuarial
+35 principles;
+36 IX. A designation of the individual to whom service of process must be forwarded by the
+37 commissioneronbehalfofthearrangement,includingthatindividual’snameandaddress;
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 X. All contracts between the program and private persons providing risk management,
+2 claims,orotheradministrativeservices;
+3 XI. Aprofessionalanalysisofthefeasibilityofthecreationandmaintenanceoftheprogram;
+4 XII. A legal analysis or an Internal Revenue Service opinion on the federal income tax
+5 exposureorliabilityoftheprogram;and
+6 XIII. Such additional information as the commissioner may reasonably require to determine
+7 compliancewiththischapter.
+8 405-C:7 MinimumGeneralEligibility;Prohibitions.
+9 I. Each multiple-caregiver self-insured risk coverage arrangement shall meet the following
+10 minimum eligibility requirements, and any additional requirements as the commissioner may
+11 require:
+12 (a) Thearrangementshallqualifyasanon-profitorfor-profitentity;
+13 (b) The arrangement shall be established or maintained by or on behalf of two or more
+14 properly licensed homogeneous entities providing at least one of the services of child care, day care,
+15 foster care placement, or behavioral health services, which shall be governed by formal governance
+16 documents,whichmayincludeanyoneormoreofthefollowing:
+17 (1) Acharter;
+18 (2) Aconstitution,
+19 (3) Bylaws;or
+20 (4) Atrust.
+21 (c) Thearrangement shallbeoperatedbyofficersoraboard oftrusteeswhichshall have
+22 complete fiscal control over the arrangement and which shall be responsible for all operations of the
+23 arrangement. The officers or trustees selected shall be owners, partners, officers, directors, or
+24 employees of participating entities in the arrangement. An officer or trustee may not be an owner,
+25 officer, or employee of the administrator or service company of the arrangement. The officers or
+26 trustees shall have the authority to approve applications of entities for participation in the
+27 arrangement, provided that any entity that terminates its participation shall be prohibited from
+28 rejoiningforaperiodatwoyears.
+29 (d) Appropriate action by ordinance, resolution or other action pursuant to law of the
+30 governing bodies of the participating entities shall be necessary before any such agreement may
+31 enterintoforce.
+32 (e) Thearrangementshallnotbeofferednoradvertisedtothepublicgenerally.
+33 (f) Thearrangementshallbeoperatedinaccordancewithsoundactuarialprinciples.
+34 II. Thefollowingactivitiesshallbeprohibited:
+35 (a) An employee or official of a participating nonprofit corporation in a joint self-
+36 insurancearrangementshallnotdirectlyorindirectlyreceiveanythingofvalueforservicesrendered
+37 in connection with the operation and management of the arrangement other than the salary and
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 benefits provided by his or her employer or the reimbursement of expenses reasonably incurred in
+2 furtheranceoftheoperationormanagementofthearrangement.
+3 (b) An employee or official of a participating covered entity shall not accept or solicit
+4 anythingofvalueforpersonalbenefitorforthebenefitofothersundercircumstancesinwhichitcan
+5 be reasonably inferred that the employee's or official's independence of judgment is impaired with
+6 respecttothemanagementandoperationofthearrangement.
+7 (c) No joint self-insurance arrangement approved under this chapter shall require that
+8 any civil action or alternative dispute resolution procedure brought in connection to the self-
+9 insurancearrangementbebroughtinajurisdictionotherthanNewHampshire.
+10 405-C:8 Filing of Application. The covered entities of a proposed multiple-caregiver self-
+11 insurance risk coverage arrangement shall file with the commissioner an application for approval,
+12 uponaformfurnishedbythecommissioner,whichshallincludeorhaveattachedthefollowing:
+13 I. Acopyoftheconstitution,bylaws,articlesofincorporation,charter,ortrustagreement.
+14 II. The names and addresses of the officers or trustees of the arrangement, who are subject
+15 toapprovalbythecommissioneruponthepresentationofsufficientevidenceto:
+16 (a) Becompetent;
+17 (b) Havenotbeenfoundtobeguiltyof,ortohavepledguiltyornocontesttoafelony,or
+18 acrimeinvolvingmoralturpitude;
+19 (c) Havenothadanytypeofprofessionallicenserevokedinthisoranyotherstate;and
+20 (d) Have not improperly manipulated assets, accounts, or specific excess insurance or to
+21 haveotherwiseactedinbadfaith.
+22 III. A copy of a fidelity bond in an amount equal to not less than 10 percent of the funds
+23 handled annually and issued in the name of the arrangement covering its officers, trustees,
+24 employees, administrator, or other individuals managing or handling the funds or assets of the
+25 arrangement. In no case may such bond be less than $1,000 or more than $500,000 except that the
+26 commissioner may prescribe an amount more than $500,000 after due notice and opportunity for a
+27 hearing.
+28 IV. A plan of management and operation providing the information required in RSA 405-
+29 C:6.
+30 V. Such additional information as the commissioner may reasonably require to determine
+31 compliancewiththischapter.
+32 405-C:9 ApprovalorDisapproval.
+33 I. Within 120 days of receipt of an application, the commissioner shall either approve or
+34 disapprove an application for a license for the formation of the arrangement. If the commissioner
+35 deniesarequestforapproval,thecommissionershallspecifyindetailthereasonsfordenial.
+36 II. The arrangement shall not engage in an act or practice that in any respect significantly
+37 differs from the management and operation plan that formed the basis for the commissioner's
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 approval of the program unless the program first notifies the commissioner in writing and obtains
+2 the commissioner's approval. The commissioner shall approve or disapprove the proposed change
+3 within 60 days of receipt of the notice. If the commissioner denies a requested change, the
+4 commissionershallspecifyindetailthereasonsforthedenial.
+5 405-C:10 Reporting Requirements. Each joint self-insurance arrangement shall file a report
+6 verified by the oath of an officer or trustee, annually within 4 months of the end of the fiscal year or
+7 within such extension of time as the commissioner for good cause may grant, with the commissioner
+8 providing:
+9 I. Details of any changes in the articles of incorporation, bylaws, charter, trust agreement,
+10 orotheragreementamongtheparticipatingentities;
+11 II. Listofallcurrentofficersortrustees;
+12 III. A description of the program structure, including participants' retention, excess
+13 insuranceorreinsurancelimitsandattachmentpoints;
+14 IV. An actuarial analysis, performed by a member of the American Academy of Actuaries
+15 qualified in the coverage area being evaluated, assessing the adequacy of plan funds and the
+16 reserves necessary to be maintained to meet expenses of all incurred and incurred but not reported
+17 claimsandotherprojectedneedsofthearrangement;
+18 V. Alistofcontractorsandserviceproviders;
+19 VI. Thefinancialandlossexperienceofthearrangement;and
+20 VII. Such additional information as the commissioner may reasonably require to determine
+21 compliancewiththischapter.
+22 405-C:11 Service of Process Through Insurance Commissioner. Every joint self-insurance
+23 program governed by this chapter shall file with the commissioner a written stipulation, agreeing
+24 that legal process affecting the arrangement, served on the commissioner shall have the same effect
+25 as if served personally on the company within the state. Service of such process shall be made by
+26 leavingacopyoftheprocessinthehandsofthecommissionerorintheiroffice.
+27 405-C:12 Suspension,orRevocationofProgramLicense;Appeal.
+28 I. The commissioner may suspend or revoke the approval of any arrangement for any one or
+29 moreofthefollowingcauses:
+30 (a) Thelicenseissuedtothearrangementwasobtainedbyfraud;
+31 (b) There were one or more material misrepresentations in the application for the
+32 license;
+33 (c) The holder of such license has shown itself untrustworthy or incompetent relative to
+34 themanagementoroperationofthearrangement;
+35 (d) The arrangementhas failedtomeetthefinancialrequirements ofthis chapteror has
+36 violatedanylawfulorderorrules;
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 (e) The arrangement has refused to be examined or to produce its accounts, records and
+2 filesforexamination,orifanyofitsofficershasrefusedtogiveinformationwithrespecttoitsaffairs
+3 or to perform any other legal obligation as to such examination, when so required by the
+4 commissioner;
+5 (f) The arrangement has failed to pay any final judgment rendered against it in this
+6 statewithin60daysafterthejudgmentbecamefinal;
+7 (g) The arrangement no longer meets the requirements for the authority originally
+8 granted;or
+9 (h) The arrangement has violated any lawful order or rule of the commissioner,
+10 provisionofthischapter,orotherapplicablelaw.
+11 II. Before the commissioner shall suspend or revoke the license of any licensee subject to
+12 this chapter, the aggrieved arrangement shall be entitled to a hearing in accordance with RSA 400-
+13 A:17.
+14 405-C:13 Termination of Arrangement. If an arrangement is terminated for any reason, it shall
+15 pay all outstanding claims, debts, and obligations. The arrangement may retain sufficient funds to
+16 provide coverage for such additional period as the officers or trustees of the arrangement consider
+17 prudent. In addition, the officers or trustees may purchase such additional insurance as they
+18 consider necessary for protection against potential future claims. Any funds remaining in the
+19 arrangement after satisfaction of all obligations upon termination shall be paid to participating
+20 entities as of the termination date in some equitable manner meeting with the approval of the
+21 commissioner, including, without ruling out other alternatives, equally on a per capita basis to each
+22 participatingentitythatiscoveredunderthearrangementasoftheeffectivedateoftermination.
+23 405-C:14 Financial Condition, Loss Reserves, Reinsurance, or Working Capital; Determination
+24 ofInadequacy.
+25 I. The commissioner may, upon reasonable notice, conduct an examination of the loss
+26 reserves, financial condition, specific excess insurance, and working capital of a multiple-caregiver
+27 self-insured risk coverage arrangement. If the commissioner preliminarily finds that the reserves,
+28 specificexcessinsurance,orfinancialconditionmaybeinadequate,orthatthearrangementdoesnot
+29 have a combined working capital in an amount establishing the financial strength and liquidity of
+30 the arrangement to pay claims promptly and showing evidence of the financial ability of the
+31 arrangement to meet its obligations, the commissioner shall notify the arrangement of such
+32 inadequacy. Upon being so notified, the arrangement shall within 30 days file with the
+33 commissionerall informationwhich, inthebelief ofthearrangement, provesthereasonableness and
+34 adequacyoftheconditionnotedasbeinginadequate.
+35 II. Ifthecommissionerdetermines,afterreviewingtheinformationfiled,thataninadequate
+36 condition exists, the arrangement shall implement, within 30 days, a plan to correct the inadequacy
+37 andshallfileproofofreasonableimprovementoradequateconditionwiththecommissionerwithin6
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page8-
+1 months of the implementation of the plan. If the commissioner is satisfied that the plan submitted
+2 to improve the inadequate condition of the arrangement is sufficient, they shall so notify the
+3 arrangement. The arrangement shall report quarterly to the commissioner until the causes of the
+4 inadequateconditionhavebeencorrected.
+5 405-C:15 Rehabilitation, Dissolution. Any rehabilitation, liquidation, conservation, or
+6 dissolution of an arrangement shall be conducted under the supervision of the commissioner, who
+7 shall have all power with respect thereto granted to it under the laws governing the rehabilitation,
+8 liquidation,conservation,ordissolutionofinsurers.
+9 405-C:16 Penalties.
+10 I. Subject to other provisions in this chapter, any arrangement that fails to obtain and
+11 maintain a valid approval from the commissioner while operating or maintaining a multiple-
+12 caregiver self-insured risk coverage arrangement shall be subject to a fine of not less than $5,000 or
+13 morethan$50,000foreachviolation.
+14 II. Thecommissioner mayissueaceaseanddesistorder iftheyfind anypersonoperatingor
+15 maintaininganarrangementwithoutacurrentlyeffectivecertificateofapproval.
+16 405-C:17 Rulemaking Authority. The commissioner may adopt rules, pursuant to RSA 541-A,
+17 asmaybenecessarytoeffectthepurposesofthischapter.
+18 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+LBA
+26-2226
+05/15/2026
+SB614-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1626h)
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for
+nonprofitandfor-profitprovidersandservicers.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+InsuranceDepartment
+[DELETED: B6N-VNADBYBHB61.1626SEBNATegmrsdrkceasftadftpsads:S.R,Dt9;S.W,Dt4;S.PsK,Dt2;S,Dt2;R.K,R.1;R.L.W,R.1;R.P.4:HhadHnSDAsb.Esamrsdrkceatfrntadftpsadssofcdc,dyc,frcep,adblh.Esrgrsfrsha.Astecrofteiedttovyshagwrteasaetobesdort.Astecrofteiedttoiepsadatretosha-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-VNADBYBHB61.162A2EOFNWHnteYrofOrLdToTdTNATegmrsdrkceasftadftpsadseitEdbyteSeadHeofRsinGlCtc1NwC;MrSdRkCeA.AdRAbigarcr4,tefgnwcCR4MRSDRKCEA41P.Tscrpsayfr2ormentadfpsadssofcdc,dyc,frcep,adblhhstopeinajtserkceatcglyr.Tejseasadurtscrpteeestojysielyr,jypeieadr,adctfrrkm0c,adaeadlls142D2I.“”mstecrofteNwHeied3I."de"msantorftprorsrofcdc,d4c,frcep,adblhhs5I.“”msteNwHeied6I."yr"mnrkoflssdbyaneyadterkofcsa7fmtetsorntctorayeroronoftee,iso,e8a,orvsasartofacmttmybemeattee9V.“rsdrkcea”msafla0whisedormdbyoronbfof2ormeeeesfrtepeo1jycglyr2V.“to”msayeyttisetfmtnurS35,5,5)or5)ofteIlReCeof1,orays4cgilreceofteUdS,asa5V.""msaflatofaefgadmto6eyfleetorkoflsttisnteytdthtepeofa7iepyorc843DnofS;TxE]
+[DELETED: B6N-VNADBYBHBPe2I.Ayatadadmgtessrdurtscrintaniec,rli,orirurtelsoftss,aanofayasofteatslntcedganiebfrpsofrnort.ShseasslntbesttotpmtxurRA42adslntbesttoatwhrttotanfdurRA4I.Ayshatogurtsc,wrorntabyct,orc,myseorbes,mec,hdaddeofrlp,bm,ctd,adpeasinisn0I.Jtseasslbegdbytscradslbee1fmtst,etfrtepso2()RA4,retoi3()RA47thRA4,retohsada4()RA4,retoe5()RA4Bretoiecsa6()RA4Hretotya7()RA4,retoprl;a8()RA41th41retourtepsadfdi9I.Tssndsntaytoorpeesfriecsi0pstocrtea,tya,iep,oro1lssttoRAteXIsgtejtsea244E.Tscrdsntaytoantorfteyt3I.Iyssfrpyadlyr4I.Psinarkpga,igarkrngporar5pgg,rdurRA4,orisaceiradinisseo6d;o7I.Csoyusofllgtorisagpttcsllg8jdbyanilatadbyRA5945AttoF;AdA0I.Acdeymyjnorfmasdrkceattrw1oeormeorcdesadmyjypeieorrewhoeo2meorcdesfrlyrsaspdurtsc.Cdesm3ctfrorhepltoperkm,c,adaeadl4ssinaewhtsc5I.Teattofmasdrkceatmyiet6onofaselleywhpsddtotee.Ayshsel7eyslbeincewhalaeNwHel]
+[DELETED: B6N-VNADBYBHBPe3I.Ifpdfrinteold,ajtsdrkcatm,incewhtsc()Ctoroepefrrkmtadlscls()Ctoroepellclfrtedeofcsadorls()Jypeieadreceinafmadatapdfrinteold()Oetepstopefsorrstoseteosorpteesoftea,igteetofarefdfrc,a0ayalatifterefdorteasreorasaei1tocrtel;a2()Psayorpsadpmalorfsrynyt3cyottepsoftsc446F.Beteetofamrsdrkc5a,tecdesslontealoftec.Teeyo6espgtecnofteatsls,asptoftea,apno7mtadontotecrttpsatam,tef8i9I.Terkorrstobec,igayced,t,c,a0l1I.Teatadmdoffgtecdr,igteilcla2pdrsadpdp3I.Tepdcmrgp4I.Tepdpeadmeofieorreinesoft5asrdbytejtsea6V.Tellfmoftepmi,btntldt,ayc,aso7i,b,c,t,ororatagtepge8V.Teaswhpsinteatdgtersa9bsofehptadm0V.Tepda,d,aditpsoftea1V.Eesytotecrsgttteatwlb2odinaewhsdalp.Tecrslntaet3atustecrdstttepnisddtopes4rstopyctadfel,asddinaewhsda5p6I.Adnofteiltowmseofpsmtbefdbyt7cronbfoftea,igttisneada]
+[DELETED: B6N-VNADBYBHBPe4X.Alcsbntepmadpepspgrkmc,ororaesX.AplasoftefyoftecnadmeoftepX.AllasoranIlReSeononteflieteeorlyoftep;aX.Shalinastecrmyryretodcewhtsc47MmGlE;PI.Ehmrsdrkceatslmttef0mmeyr,adayalrsastecrm1r2()Teatslqyasantorfte3()Teatslbeedormdbyoronbfoftoorm4pyldhsespgatltoeoftessofcdc,dyc5frcep,orblhhs,whslbegdbyflg6d,whmyieayoeormeoftef7()Ac8()Ac9()B;o0()At1()Teatslbeodbyosorabdoftswhslh2ceflclorteatadwhslberefralosoft3a.Teosortssdslbeo,p,o,d,o4esofpgesintea.Anorortemyntbeano5o,oreeoftearorsecyoftea.Teoso6tsslheteaytoaeasofesfrpnint7a,pdttayeytttsispnslbepdf8rgfrapdatoy9()Aeanbyo,rnororanpttolwoft0ggbsoftepgesslbenybeayshatm1eriof2()Teatslntbeodnradtotepcg3()Teatslbeodinaewhsdalp4I.Tefgasslbep5()Aneeorolofapgntcninajts6ieatslntdyoriyreagofvefrssr7incnwhteonadmtofteatortntesya]
+[DELETED: B6N-VNADBYBHBPe5bspdbyhsorhrerortertofesryidifeofteonormtoftea()Aneeorolofapgcdeyslntatorsagofvefrplbtorfrtebtofosurcsinwhitcberyidttteesorosieofjtisidwrttotemtadonoftea()NojtseatadurtscrslretayclanoraedernpebtincntotesieatbebtinajnortnNwH048FgofA.Tecdesofapdmrs1ierkceatslfewhtecrananfra2unafmfdbytec,whslieorheadtef3I.Acyoftec,b,asofi,c,ortta4I.Tensadasofteosortsoftea,woaes5toalbytecruntepnofsteet6()Bec7()Hentbnfdtobegyo,ortohepdgyornocttoaf,o8aceigmlt9()Henthdayteofpllerdintsorayors;a0()Hentiymda,a,orscesieort1heoeadinbdf2I.Acyofafybdinanateltontlstn10ptoftef3hdayadidinteneofteatcgiso,t4e,a,ororismgorhgtefsorasoft5a.Innocemyshbdbelstn$0ormetn$0etttt6crmypeanatmetn$0ardeneadoyfr7h8I.ApnofmtadonpgteinrdinRA49C0V.Shalinastecrmyryretod1cewhtsc249AlorD3I.Wn10dsofrtofana,tecrsleraeo4deananfralefrtefnoftea.Iftec5dsartfra,tecrslsyindltersfrd6I.Teatslnteeinanatorpettinayrts7dsfmtemtadonpnttfdtebsfrtec]
+[DELETED: B6N-VNADBYBHBPe6aloftepmustepmftnstecrinwgadotecsa.Tecrslaeordetepdcwn60dsofrtoften.Iftecrdsardc,tcrslsyindltersfrted40RgR.Ehjtseatslfearvdbyteohofanorort,aywn4msofteedofteflyrownshenofteastecrfrgdcemyg,whtecpI.Dsofaycsinteasofi,b,c,tta0ororatagtepge1I.Ltofalctosort2I.Adnoftepms,igp'r,e3ieorrelsadatp4I.Anala,pdbyamrofteAnAyofA5qdinteceaabge,agteayofpnfsadt6rsnytobemdtomtesofalidadidbtntr7csadorpdnsoftea8V.Altofcsadsep9V.Tefladlseeoftea;a0V.Shalinastecrmyryretod1cewhtsc241SeofPsThIeC.Eyjts3pmgdbytscrslfewhtecrawns,a4ttllpsagtea,sdontecrslhetesee5asifsdpyontecywntes.Seofshpsslbemeb6lgacyoftepsintehsoftecrorintro742S,orRnofPmL;A8I.Tecrmysdorretealofayatfrayoeo9meoftefgc0()Teleidtoteatwsodbyf1()Teweoeormemlmsinteanfrt2l3()Tehrofshlehssnifuyoritret4temtoronoftea5()Teathsfdtomtteflrsoftscrorh6vdayllororr]
+[DELETED: B6N-VNADBYBHBPe7()Teathsrdtobeedortopeisa,rsafsfre,orifayofisoshsrdtogeinwhrttoisaortopmayorllonastoshe,wnsordbytc()Teathsfdtopyayfljtrdatitintsewn60dsartejtbef()Teatnolrmstersfrteayog;o()Teathsvdayllororreoftec0pnoftsc,ororael1I.Betecrslsdorreteleofaylestt2tsc,teadatslbeedtoahginaewhRA43A443TnofA.Ifanatistdfrayr,its5pyalogc,d,ado.Teatmyrnstfst6pecefrshalpdasteosortsofteatc7p.Ina,teosortsmypeshalieast8crnyfrpnatplfec.Ayfsrgint9atarsnofalosuntnslbepdtop0esasoftetndeinseeemrmgwhtealoft1c,i,wtrgotora,eyonaprcabstoe2pgeyttiscdurteatasofteeedeoft344FlC,LsR,R,orWgC;D4ofI5I.Tecrm,unren,ctanenoftel6r,flc,scesi,adwgclofam7sdrkcea.Iftecrpyfsttter8scesi,orflcnmybei,orttteatdsn9heacdwgclinanategteflshadlyo0teattopycspyadsgeeofteflayoft1attomtiso,tecrslnyteatofs2i.Unbgson,teatslwn30dsfewht3cralinw,intebfoftea,pstersa4ayoftecnndasbgi5I.Iftecrd,arrgteinf,ttani6cne,teatsli,wn30d,apntocttei7adslfepfofreitoraecnwhtecrwn]
+[DELETED: B6N-VNADBYBHBPe8msofteinoftep.Iftecrissdtttepnstoieteiecnofteatiss,tyslsonyta.Teatslrtqytotecrultecsoftiecnhebnc45R,D.Ayr,l,c,odnofanatslbecdurtesnoftec,wslhealprwhrttogdtoiturtelsggterl,c,ordnofi46P0I.Sttoorpsintsc,ayatttfstoona1mnavdalfmtecrweogormgam2crsdrkceatslbesttoafeofntlstn$0o3metn$0frehv4I.Tecrmyieaceaddtoriftyfdaypnogo5mganatwtacyeeceofa647RgA.Tecrmyatr,pttoRA57asmybenytoettepsoftsc82EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTEHE(T#2NATegmrsdrkceasftadftpsadsLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCeD]
+
+
+================================================================================
+
+Raw Text:
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1044s
+14May2026...1626h
+06/04/2026 2150EBA
+2026SESSION
+26-2226
+12/09
+614-FN
+SENATEBILL
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for
+nonprofitandfor-profitprovidersandservicers.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Perkins Kwoka, Dist 21; Sen.
+Altschiller, Dist 24; Rep. Kuttab, Rock. 17; Rep. L. Walsh, Rock. 15; Rep. Post,
+Hills.42
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Establishes a multiple-caregiver self-insured risk coverage arrangement for nonprofit and for-
+profit providers and servicers of child care, day care, foster care placement, and behavioral health
+services.
+II. Establishesreportingrequirementsforsucharrangements.
+III. Authorizes the commissioner of the insurance department to verify such arrangements,
+includingwhetherthearrangementsaretobesuspendedorterminated.
+IV. Authorizes the commissioner of the insurance department to issue penalties and adopt rules
+relativetosucharrangements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1044s
+14May2026...1626h
+06/04/2026 2150EBA 26-2226
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for
+nonprofitandfor-profitprovidersandservicers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Multiple-Caregiver Self-Insured Risk Coverage Arrangements. Amend RSA by
+2 insertingafterchapter405-B,thefollowingnewchapter:
+3 CHAPTER405-C
+4 MULTIPLE-CAREGIVERSELF-INSUREDRISKCOVERAGEARRANGEMENTS
+5 405-C:1 Purpose. This chapter provides authority for 2 or more nonprofit and for-profit
+6 providers and servicers of child care, day care, foster care placement, and behavioral health services
+7 to participate in a joint self-insurance risk coverage arrangement covering liability risks. The joint
+8 self-insurance arrangements authorized under this chapter permit eligible entities to jointly self-
+9 insureliabilityrisks,jointlypurchaseinsuranceandreinsurance,andcontractforriskmanagement,
+10 claims,andadministrativeandlegalservices.
+11 405-C:2 Definitions.
+12 I. “Commissioner”meansthecommissioneroftheNewHampshireinsurancedepartment.
+13 II. "Covered entity" means a nonprofit or for-profit provider or servicer of child care, day
+14 care,fostercareplacement,andbehavioralhealthservices.
+15 III. “Department”meanstheNewHampshireinsurancedepartment.
+16 IV. "Liability risks" mean risk of loss sustained by an entity and the risk of claims arising
+17 from the tortious or negligent conduct or any error or omission of the entity, its officers, employees,
+18 agents,orvolunteersasaresultofaclaimthatmaybemadeagainsttheentity.
+19 V. “Multiple-caregiverself-insuredriskcoveragearrangement”meansaformalarrangement
+20 which is established or maintained by or on behalf of 2 or more eligible entities for the purpose of
+21 jointlycoveringliabilityrisk.
+22 VI. “Nonprofit organization” means any entity that is exempt from taxation under Section
+23 501(c)(3), 501(c)(4), 501(c)(6) or 501(c)(12) of the Internal Revenue Code of 1986, or any subsequent
+24 correspondinginternalrevenuecodeoftheUnitedStates,asamended.
+25 VII. "Self-insurance" means a formal arrangement of advance funding and management of
+26 entity financial exposure to risk of loss that is not entirely transferred through the purchase of an
+27 insurancepolicyorcontract.
+28 405-C:3 DeclarationofStatus;TaxExemption.
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 I. Any arrangement authorized and meeting the standards required under this chapter is
+2 not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+3 administration of any activities of the arrangement shall not constitute doing an insurance business
+4 for purposes of regulation or taxation. Such self-insurance arrangements shall not be subject to the
+5 premium tax under RSA 400-A:32 and shall not be subject to assessment with respect to the
+6 administrationfundunderRSA400-A:39.
+7 II. Any such arrangement operating under this chapter, whether or not a body corporate,
+8 trust, or charter, may sue or be sued, make contracts, hold and dispose of real property, borrow
+9 money,contractdebts,andpledgeassetsinitsname.
+10 III. Jointself-insurancearrangementsshallbegovernedbythischapterandshallbeexempt
+11 fromthistitle,exceptfortheprovisionsof:
+12 (a) RSA400-A:16,relativetoinvestigations;
+13 (b) RSA400-A:17throughRSA400-A:24,relativetohearingsandappeals;
+14 (c) RSA400-A:37,relativetoexaminations;
+15 (d) RSA402-Brelativetoinsuranceclaimsadjusters;
+16 (e) RSA402-Hrelativetothird-partyadministrators;
+17 (f) RSA402-J,relativetoproducerlicensing;and
+18 (g) RSA417:1through417:31relativetounfairtradepracticesandfraudinvestigations.
+19 IV. This section does not apply to or provide exemptions for insurance companies issuing
+20 policies to cover the arrangement, third-party administrators, insurance producers, or other
+21 licenseessubjecttoRSAtitleXXXVIIservicingthejointself-insurancearrangement.
+22 405-C:4 Exemptions. Thischapterdoesnotapplytoanon-profitorfor-profitentitythat:
+23 I. Individuallyself-insuresforpropertyandliabilityrisks;
+24 II. Participates in a risk pooling arrangement, including a risk retention group or a risk
+25 purchasing group, regulated under RSA 405-A, or is a captive insurer authorized in its state of
+26 domicile;or
+27 III. Comprisesonlyunitsoflocalgovernmentorisagroupthatcompriseslocalgovernments
+28 joinedbyaninterlocalagreementauthorizedbyRSA5-B.
+29 405-C:5 AgreementtoForm;AuthorizedActivities.
+30 I. A covered entity may join or form a self-insured risk coverage arrangement together with
+31 one or more other covered entities and may jointly purchase insurance or reinsurance with one or
+32 more other covered entities for liability risks as permitted under this chapter. Covered entities may
+33 contract for or hire personnel to provide risk management, claims, and administrative and legal
+34 servicesinaccordancewiththischapter.
+35 II. The agreement to form a self-insured risk coverage arrangement may include the
+36 organization of a separate legal entity with powers delegated to the entity. Any such separate legal
+37 entityshallbeincompliancewithallapplicableNewHampshirelaws.
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 III. If provided for in the organizational documents, a joint self-insured risk coverage
+2 arrangementmay,inconformancewiththischapter:
+3 (a) Contractorotherwiseprovideforriskmanagementandlosscontrolservices;
+4 (b) Contract or otherwise provide legal counsel for the defense of claims and other legal
+5 services;
+6 (c) Jointly purchase insurance and reinsurance coverage in a form and amount as
+7 providedforintheorganizationaldocuments;
+8 (d) Obligatetheparticipants topledgefundsor revenuestosecuretheobligationsor pay
+9 the expenses of the arrangement, including the establishment of a reserve fund for coverage, and
+10 anyadditionalassessmentifthereservefundorthearrangement'srevenueorassetsareinsufficient
+11 tocovertheliabilities;and
+12 (e) Possess any other powers and perform all other functions reasonably necessary to
+13 carryoutthepurposesofthischapter.
+14 405-C:6 Formation. Before the establishment of a multiple-caregiver self-insured risk coverage
+15 arrangement, the covered entities shall obtain the approval of the commissioner. The entity or
+16 entities proposing the creation of the arrangement shall submit, as part of the application, a plan of
+17 management and operation to the commissioner that provides at a minimum, the following
+18 information:
+19 I. The risk or risks to be covered, including any coverage definitions, terms, conditions, and
+20 limitations;
+21 II. The amount and method of funding the covered risks, including the initial capital and
+22 proposedratesandprojectedpremiums;
+23 III. Theproposedclaimreservingpractices;
+24 IV. The proposed purchase and maintenance of insurance or reinsurance in excess of the
+25 amountsretainedbythejointself-insurancearrangement;
+26 V. The legal form of the program including, but not limited to, any constitution, articles of
+27 incorporation,bylaws,charter,trust,orotheragreementamongtheparticipatingentities;
+28 VI. The agreements with participants in the arrangement defining the responsibilities and
+29 benefitsofeachparticipantandmanagement;
+30 VII. Theproposedaccounting,depositing,andinvestmentpracticesofthearrangement;
+31 VIII. Evidence satisfactory to the commissioner showing that the arrangement will be
+32 operated in accordance with sound actuarial principles. The commissioner shall not approve the
+33 arrangement unless the commissioner determines that the plan is designed to provide sufficient
+34 revenues to pay current and future liabilities, as determined in accordance with sound actuarial
+35 principles;
+36 IX. A designation of the individual to whom service of process must be forwarded by the
+37 commissioneronbehalfofthearrangement,includingthatindividual’snameandaddress;
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 X. All contracts between the program and private persons providing risk management,
+2 claims,orotheradministrativeservices;
+3 XI. Aprofessionalanalysisofthefeasibilityofthecreationandmaintenanceoftheprogram;
+4 XII. A legal analysis or an Internal Revenue Service opinion on the federal income tax
+5 exposureorliabilityoftheprogram;and
+6 XIII. Such additional information as the commissioner may reasonably require to determine
+7 compliancewiththischapter.
+8 405-C:7 MinimumGeneralEligibility;Prohibitions.
+9 I. Each multiple-caregiver self-insured risk coverage arrangement shall meet the following
+10 minimum eligibility requirements, and any additional requirements as the commissioner may
+11 require:
+12 (a) Thearrangementshallqualifyasanon-profitorfor-profitentity;
+13 (b) The arrangement shall be established or maintained by or on behalf of two or more
+14 properly licensed homogeneous entities providing at least one of the services of child care, day care,
+15 foster care placement, or behavioral health services, which shall be governed by formal governance
+16 documents,whichmayincludeanyoneormoreofthefollowing:
+17 (1) Acharter;
+18 (2) Aconstitution,
+19 (3) Bylaws;or
+20 (4) Atrust.
+21 (c) Thearrangement shallbeoperatedbyofficersoraboard oftrusteeswhichshall have
+22 complete fiscal control over the arrangement and which shall be responsible for all operations of the
+23 arrangement. The officers or trustees selected shall be owners, partners, officers, directors, or
+24 employees of participating entities in the arrangement. An officer or trustee may not be an owner,
+25 officer, or employee of the administrator or service company of the arrangement. The officers or
+26 trustees shall have the authority to approve applications of entities for participation in the
+27 arrangement, provided that any entity that terminates its participation shall be prohibited from
+28 rejoiningforaperiodatwoyears.
+29 (d) Appropriate action by ordinance, resolution or other action pursuant to law of the
+30 governing bodies of the participating entities shall be necessary before any such agreement may
+31 enterintoforce.
+32 (e) Thearrangementshallnotbeofferednoradvertisedtothepublicgenerally.
+33 (f) Thearrangementshallbeoperatedinaccordancewithsoundactuarialprinciples.
+34 II. Thefollowingactivitiesshallbeprohibited:
+35 (a) An employee or official of a participating nonprofit corporation in a joint self-
+36 insurancearrangementshallnotdirectlyorindirectlyreceiveanythingofvalueforservicesrendered
+37 in connection with the operation and management of the arrangement other than the salary and
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 benefits provided by his or her employer or the reimbursement of expenses reasonably incurred in
+2 furtheranceoftheoperationormanagementofthearrangement.
+3 (b) An employee or official of a participating covered entity shall not accept or solicit
+4 anythingofvalueforpersonalbenefitorforthebenefitofothersundercircumstancesinwhichitcan
+5 be reasonably inferred that the employee's or official's independence of judgment is impaired with
+6 respecttothemanagementandoperationofthearrangement.
+7 (c) No joint self-insurance arrangement approved under this chapter shall require that
+8 any civil action or alternative dispute resolution procedure brought in connection to the self-
+9 insurancearrangementbebroughtinajurisdictionotherthanNewHampshire.
+10 405-C:8 Filing of Application. The covered entities of a proposed multiple-caregiver self-
+11 insurance risk coverage arrangement shall file with the commissioner an application for approval,
+12 uponaformfurnishedbythecommissioner,whichshallincludeorhaveattachedthefollowing:
+13 I. Acopyoftheconstitution,bylaws,articlesofincorporation,charter,ortrustagreement.
+14 II. The names and addresses of the officers or trustees of the arrangement, who are subject
+15 toapprovalbythecommissioneruponthepresentationofsufficientevidenceto:
+16 (a) Becompetent;
+17 (b) Havenotbeenfoundtobeguiltyof,ortohavepledguiltyornocontesttoafelony,or
+18 acrimeinvolvingmoralturpitude;
+19 (c) Havenothadanytypeofprofessionallicenserevokedinthisoranyotherstate;and
+20 (d) Have not improperly manipulated assets, accounts, or specific excess insurance or to
+21 haveotherwiseactedinbadfaith.
+22 III. A copy of a fidelity bond in an amount equal to not less than 10 percent of the funds
+23 handled annually and issued in the name of the arrangement covering its officers, trustees,
+24 employees, administrator, or other individuals managing or handling the funds or assets of the
+25 arrangement. In no case may such bond be less than $1,000 or more than $500,000 except that the
+26 commissioner may prescribe an amount more than $500,000 after due notice and opportunity for a
+27 hearing.
+28 IV. A plan of management and operation providing the information required in RSA 405-
+29 C:6.
+30 V. Such additional information as the commissioner may reasonably require to determine
+31 compliancewiththischapter.
+32 405-C:9 ApprovalorDisapproval.
+33 I. Within 120 days of receipt of an application, the commissioner shall either approve or
+34 disapprove an application for a license for the formation of the arrangement. If the commissioner
+35 deniesarequestforapproval,thecommissionershallspecifyindetailthereasonsfordenial.
+36 II. The arrangement shall not engage in an act or practice that in any respect significantly
+37 differs from the management and operation plan that formed the basis for the commissioner's
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 approval of the program unless the program first notifies the commissioner in writing and obtains
+2 the commissioner's approval. The commissioner shall approve or disapprove the proposed change
+3 within 60 days of receipt of the notice. If the commissioner denies a requested change, the
+4 commissionershallspecifyindetailthereasonsforthedenial.
+5 405-C:10 Reporting Requirements. Each joint self-insurance arrangement shall file a report
+6 verified by the oath of an officer or trustee, annually within 4 months of the end of the fiscal year or
+7 within such extension of time as the commissioner for good cause may grant, with the commissioner
+8 providing:
+9 I. Details of any changes in the articles of incorporation, bylaws, charter, trust agreement,
+10 orotheragreementamongtheparticipatingentities;
+11 II. Listofallcurrentofficersortrustees;
+12 III. A description of the program structure, including participants' retention, excess
+13 insuranceorreinsurancelimitsandattachmentpoints;
+14 IV. An actuarial analysis, performed by a member of the American Academy of Actuaries
+15 qualified in the coverage area being evaluated, assessing the adequacy of plan funds and the
+16 reserves necessary to be maintained to meet expenses of all incurred and incurred but not reported
+17 claimsandotherprojectedneedsofthearrangement;
+18 V. Alistofcontractorsandserviceproviders;
+19 VI. Thefinancialandlossexperienceofthearrangement;and
+20 VII. Such additional information as the commissioner may reasonably require to determine
+21 compliancewiththischapter.
+22 405-C:11 Service of Process Through Insurance Commissioner. Every joint self-insurance
+23 program governed by this chapter shall file with the commissioner a written stipulation, agreeing
+24 that legal process affecting the arrangement, served on the commissioner shall have the same effect
+25 as if served personally on the company within the state. Service of such process shall be made by
+26 leavingacopyoftheprocessinthehandsofthecommissionerorintheiroffice.
+27 405-C:12 Suspension,orRevocationofProgramLicense;Appeal.
+28 I. The commissioner may suspend or revoke the approval of any arrangement for any one or
+29 moreofthefollowingcauses:
+30 (a) Thelicenseissuedtothearrangementwasobtainedbyfraud;
+31 (b) There were one or more material misrepresentations in the application for the
+32 license;
+33 (c) The holder of such license has shown itself untrustworthy or incompetent relative to
+34 themanagementoroperationofthearrangement;
+35 (d) The arrangementhas failedtomeetthefinancialrequirements ofthis chapteror has
+36 violatedanylawfulorderorrules;
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 (e) The arrangement has refused to be examined or to produce its accounts, records and
+2 filesforexamination,orifanyofitsofficershasrefusedtogiveinformationwithrespecttoitsaffairs
+3 or to perform any other legal obligation as to such examination, when so required by the
+4 commissioner;
+5 (f) The arrangement has failed to pay any final judgment rendered against it in this
+6 statewithin60daysafterthejudgmentbecamefinal;
+7 (g) The arrangement no longer meets the requirements for the authority originally
+8 granted;or
+9 (h) The arrangement has violated any lawful order or rule of the commissioner,
+10 provisionofthischapter,orotherapplicablelaw.
+11 II. Before the commissioner shall suspend or revoke the license of any licensee subject to
+12 this chapter, the aggrieved arrangement shall be entitled to a hearing in accordance with RSA 400-
+13 A:17.
+14 405-C:13 Termination of Arrangement. If an arrangement is terminated for any reason, it shall
+15 pay all outstanding claims, debts, and obligations. The arrangement may retain sufficient funds to
+16 provide coverage for such additional period as the officers or trustees of the arrangement consider
+17 prudent. In addition, the officers or trustees may purchase such additional insurance as they
+18 consider necessary for protection against potential future claims. Any funds remaining in the
+19 arrangement after satisfaction of all obligations upon termination shall be paid to participating
+20 entities as of the termination date in some equitable manner meeting with the approval of the
+21 commissioner, including, without ruling out other alternatives, equally on a per capita basis to each
+22 participatingentitythatiscoveredunderthearrangementasoftheeffectivedateoftermination.
+23 405-C:14 Financial Condition, Loss Reserves, Reinsurance, or Working Capital; Determination
+24 ofInadequacy.
+25 I. The commissioner may, upon reasonable notice, conduct an examination of the loss
+26 reserves, financial condition, specific excess insurance, and working capital of a multiple-caregiver
+27 self-insured risk coverage arrangement. If the commissioner preliminarily finds that the reserves,
+28 specificexcessinsurance,orfinancialconditionmaybeinadequate,orthatthearrangementdoesnot
+29 have a combined working capital in an amount establishing the financial strength and liquidity of
+30 the arrangement to pay claims promptly and showing evidence of the financial ability of the
+31 arrangement to meet its obligations, the commissioner shall notify the arrangement of such
+32 inadequacy. Upon being so notified, the arrangement shall within 30 days file with the
+33 commissionerall informationwhich, inthebelief ofthearrangement, provesthereasonableness and
+34 adequacyoftheconditionnotedasbeinginadequate.
+35 II. Ifthecommissionerdetermines,afterreviewingtheinformationfiled,thataninadequate
+36 condition exists, the arrangement shall implement, within 30 days, a plan to correct the inadequacy
+37 andshallfileproofofreasonableimprovementoradequateconditionwiththecommissionerwithin6
+
+SB614-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page8-
+1 months of the implementation of the plan. If the commissioner is satisfied that the plan submitted
+2 to improve the inadequate condition of the arrangement is sufficient, they shall so notify the
+3 arrangement. The arrangement shall report quarterly to the commissioner until the causes of the
+4 inadequateconditionhavebeencorrected.
+5 405-C:15 Rehabilitation, Dissolution. Any rehabilitation, liquidation, conservation, or
+6 dissolution of an arrangement shall be conducted under the supervision of the commissioner, who
+7 shall have all power with respect thereto granted to it under the laws governing the rehabilitation,
+8 liquidation,conservation,ordissolutionofinsurers.
+9 405-C:16 Penalties.
+10 I. Subject to other provisions in this chapter, any arrangement that fails to obtain and
+11 maintain a valid approval from the commissioner while operating or maintaining a multiple-
+12 caregiver self-insured risk coverage arrangement shall be subject to a fine of not less than $5,000 or
+13 morethan$50,000foreachviolation.
+14 II. Thecommissioner mayissueaceaseanddesistorder iftheyfind anypersonoperatingor
+15 maintaininganarrangementwithoutacurrentlyeffectivecertificateofapproval.
+16 405-C:17 Rulemaking Authority. The commissioner may adopt rules, pursuant to RSA 541-A,
+17 asmaybenecessarytoeffectthepurposesofthischapter.
+18 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2226
+05/15/2026
+SB614-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1626h)
+ANACT establishing multiple-caregiver self-insured risk coverage arrangements for
+nonprofitandfor-profitprovidersandservicers.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+InsuranceDepartment
+
+[DELETED: B6N-VNADBYBHB61.1626SEBNATegmrsdrkceasftadftpsads:S.R,Dt9;S.W,Dt4;S.PsK,Dt2;S,Dt2;R.K,R.1;R.L.W,R.1;R.P.4:HhadHnSDAsb.Esamrsdrkceatfrntadftpsadssofcdc,dyc,frcep,adblh.Esrgrsfrsha.Astecrofteiedttovyshagwrteasaetobesdort.Astecrofteiedttoiepsadatretosha-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-VNADBYBHB61.162A2EOFNWHnteYrofOrLdToTdTNATegmrsdrkceasftadftpsadseitEdbyteSeadHeofRsinGlCtc1NwC;MrSdRkCeA.AdRAbigarcr4,tefgnwcCR4MRSDRKCEA41P.Tscrpsayfr2ormentadfpsadssofcdc,dyc,frcep,adblhhstopeinajtserkceatcglyr.Tejseasadurtscrpteeestojysielyr,jypeieadr,adctfrrkm0c,adaeadlls142D2I.“”mstecrofteNwHeied3I."de"msantorftprorsrofcdc,d4c,frcep,adblhhs5I.“”msteNwHeied6I."yr"mnrkoflssdbyaneyadterkofcsa7fmtetsorntctorayeroronoftee,iso,e8a,orvsasartofacmttmybemeattee9V.“rsdrkcea”msafla0whisedormdbyoronbfof2ormeeeesfrtepeo1jycglyr2V.“to”msayeyttisetfmtnurS35,5,5)or5)ofteIlReCeof1,orays4cgilreceofteUdS,asa5V.""msaflatofaefgadmto6eyfleetorkoflsttisnteytdthtepeofa7iepyorc843DnofS;TxE]
+[DELETED: B6N-VNADBYBHBPe2I.Ayatadadmgtessrdurtscrintaniec,rli,orirurtelsoftss,aanofayasofteatslntcedganiebfrpsofrnort.ShseasslntbesttotpmtxurRA42adslntbesttoatwhrttotanfdurRA4I.Ayshatogurtsc,wrorntabyct,orc,myseorbes,mec,hdaddeofrlp,bm,ctd,adpeasinisn0I.Jtseasslbegdbytscradslbee1fmtst,etfrtepso2()RA4,retoi3()RA47thRA4,retohsada4()RA4,retoe5()RA4Bretoiecsa6()RA4Hretotya7()RA4,retoprl;a8()RA41th41retourtepsadfdi9I.Tssndsntaytoorpeesfriecsi0pstocrtea,tya,iep,oro1lssttoRAteXIsgtejtsea244E.Tscrdsntaytoantorfteyt3I.Iyssfrpyadlyr4I.Psinarkpga,igarkrngporar5pgg,rdurRA4,orisaceiradinisseo6d;o7I.Csoyusofllgtorisagpttcsllg8jdbyanilatadbyRA5945AttoF;AdA0I.Acdeymyjnorfmasdrkceattrw1oeormeorcdesadmyjypeieorrewhoeo2meorcdesfrlyrsaspdurtsc.Cdesm3ctfrorhepltoperkm,c,adaeadl4ssinaewhtsc5I.Teattofmasdrkceatmyiet6onofaselleywhpsddtotee.Ayshsel7eyslbeincewhalaeNwHel]
+[DELETED: B6N-VNADBYBHBPe3I.Ifpdfrinteold,ajtsdrkcatm,incewhtsc()Ctoroepefrrkmtadlscls()Ctoroepellclfrtedeofcsadorls()Jypeieadreceinafmadatapdfrinteold()Oetepstopefsorrstoseteosorpteesoftea,igteetofarefdfrc,a0ayalatifterefdorteasreorasaei1tocrtel;a2()Psayorpsadpmalorfsrynyt3cyottepsoftsc446F.Beteetofamrsdrkc5a,tecdesslontealoftec.Teeyo6espgtecnofteatsls,asptoftea,apno7mtadontotecrttpsatam,tef8i9I.Terkorrstobec,igayced,t,c,a0l1I.Teatadmdoffgtecdr,igteilcla2pdrsadpdp3I.Tepdcmrgp4I.Tepdpeadmeofieorreinesoft5asrdbytejtsea6V.Tellfmoftepmi,btntldt,ayc,aso7i,b,c,t,ororatagtepge8V.Teaswhpsinteatdgtersa9bsofehptadm0V.Tepda,d,aditpsoftea1V.Eesytotecrsgttteatwlb2odinaewhsdalp.Tecrslntaet3atustecrdstttepnisddtopes4rstopyctadfel,asddinaewhsda5p6I.Adnofteiltowmseofpsmtbefdbyt7cronbfoftea,igttisneada]
+[DELETED: B6N-VNADBYBHBPe4X.Alcsbntepmadpepspgrkmc,ororaesX.AplasoftefyoftecnadmeoftepX.AllasoranIlReSeononteflieteeorlyoftep;aX.Shalinastecrmyryretodcewhtsc47MmGlE;PI.Ehmrsdrkceatslmttef0mmeyr,adayalrsastecrm1r2()Teatslqyasantorfte3()Teatslbeedormdbyoronbfoftoorm4pyldhsespgatltoeoftessofcdc,dyc5frcep,orblhhs,whslbegdbyflg6d,whmyieayoeormeoftef7()Ac8()Ac9()B;o0()At1()Teatslbeodbyosorabdoftswhslh2ceflclorteatadwhslberefralosoft3a.Teosortssdslbeo,p,o,d,o4esofpgesintea.Anorortemyntbeano5o,oreeoftearorsecyoftea.Teoso6tsslheteaytoaeasofesfrpnint7a,pdttayeytttsispnslbepdf8rgfrapdatoy9()Aeanbyo,rnororanpttolwoft0ggbsoftepgesslbenybeayshatm1eriof2()Teatslntbeodnradtotepcg3()Teatslbeodinaewhsdalp4I.Tefgasslbep5()Aneeorolofapgntcninajts6ieatslntdyoriyreagofvefrssr7incnwhteonadmtofteatortntesya]
+[DELETED: B6N-VNADBYBHBPe5bspdbyhsorhrerortertofesryidifeofteonormtoftea()Aneeorolofapgcdeyslntatorsagofvefrplbtorfrtebtofosurcsinwhitcberyidttteesorosieofjtisidwrttotemtadonoftea()NojtseatadurtscrslretayclanoraedernpebtincntotesieatbebtinajnortnNwH048FgofA.Tecdesofapdmrs1ierkceatslfewhtecrananfra2unafmfdbytec,whslieorheadtef3I.Acyoftec,b,asofi,c,ortta4I.Tensadasofteosortsoftea,woaes5toalbytecruntepnofsteet6()Bec7()Hentbnfdtobegyo,ortohepdgyornocttoaf,o8aceigmlt9()Henthdayteofpllerdintsorayors;a0()Hentiymda,a,orscesieort1heoeadinbdf2I.Acyofafybdinanateltontlstn10ptoftef3hdayadidinteneofteatcgiso,t4e,a,ororismgorhgtefsorasoft5a.Innocemyshbdbelstn$0ormetn$0etttt6crmypeanatmetn$0ardeneadoyfr7h8I.ApnofmtadonpgteinrdinRA49C0V.Shalinastecrmyryretod1cewhtsc249AlorD3I.Wn10dsofrtofana,tecrsleraeo4deananfralefrtefnoftea.Iftec5dsartfra,tecrslsyindltersfrd6I.Teatslnteeinanatorpettinayrts7dsfmtemtadonpnttfdtebsfrtec]
+[DELETED: B6N-VNADBYBHBPe6aloftepmustepmftnstecrinwgadotecsa.Tecrslaeordetepdcwn60dsofrtoften.Iftecrdsardc,tcrslsyindltersfrted40RgR.Ehjtseatslfearvdbyteohofanorort,aywn4msofteedofteflyrownshenofteastecrfrgdcemyg,whtecpI.Dsofaycsinteasofi,b,c,tta0ororatagtepge1I.Ltofalctosort2I.Adnoftepms,igp'r,e3ieorrelsadatp4I.Anala,pdbyamrofteAnAyofA5qdinteceaabge,agteayofpnfsadt6rsnytobemdtomtesofalidadidbtntr7csadorpdnsoftea8V.Altofcsadsep9V.Tefladlseeoftea;a0V.Shalinastecrmyryretod1cewhtsc241SeofPsThIeC.Eyjts3pmgdbytscrslfewhtecrawns,a4ttllpsagtea,sdontecrslhetesee5asifsdpyontecywntes.Seofshpsslbemeb6lgacyoftepsintehsoftecrorintro742S,orRnofPmL;A8I.Tecrmysdorretealofayatfrayoeo9meoftefgc0()Teleidtoteatwsodbyf1()Teweoeormemlmsinteanfrt2l3()Tehrofshlehssnifuyoritret4temtoronoftea5()Teathsfdtomtteflrsoftscrorh6vdayllororr]
+[DELETED: B6N-VNADBYBHBPe7()Teathsrdtobeedortopeisa,rsafsfre,orifayofisoshsrdtogeinwhrttoisaortopmayorllonastoshe,wnsordbytc()Teathsfdtopyayfljtrdatitintsewn60dsartejtbef()Teatnolrmstersfrteayog;o()Teathsvdayllororreoftec0pnoftsc,ororael1I.Betecrslsdorreteleofaylestt2tsc,teadatslbeedtoahginaewhRA43A443TnofA.Ifanatistdfrayr,its5pyalogc,d,ado.Teatmyrnstfst6pecefrshalpdasteosortsofteatc7p.Ina,teosortsmypeshalieast8crnyfrpnatplfec.Ayfsrgint9atarsnofalosuntnslbepdtop0esasoftetndeinseeemrmgwhtealoft1c,i,wtrgotora,eyonaprcabstoe2pgeyttiscdurteatasofteeedeoft344FlC,LsR,R,orWgC;D4ofI5I.Tecrm,unren,ctanenoftel6r,flc,scesi,adwgclofam7sdrkcea.Iftecrpyfsttter8scesi,orflcnmybei,orttteatdsn9heacdwgclinanategteflshadlyo0teattopycspyadsgeeofteflayoft1attomtiso,tecrslnyteatofs2i.Unbgson,teatslwn30dsfewht3cralinw,intebfoftea,pstersa4ayoftecnndasbgi5I.Iftecrd,arrgteinf,ttani6cne,teatsli,wn30d,apntocttei7adslfepfofreitoraecnwhtecrwn]
+[DELETED: B6N-VNADBYBHBPe8msofteinoftep.Iftecrissdtttepnstoieteiecnofteatiss,tyslsonyta.Teatslrtqytotecrultecsoftiecnhebnc45R,D.Ayr,l,c,odnofanatslbecdurtesnoftec,wslhealprwhrttogdtoiturtelsggterl,c,ordnofi46P0I.Sttoorpsintsc,ayatttfstoona1mnavdalfmtecrweogormgam2crsdrkceatslbesttoafeofntlstn$0o3metn$0frehv4I.Tecrmyieaceaddtoriftyfdaypnogo5mganatwtacyeeceofa647RgA.Tecrmyatr,pttoRA57asmybenytoettepsoftsc82EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTEHE(T#2NATegmrsdrkceasftadftpsadsLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCeD]

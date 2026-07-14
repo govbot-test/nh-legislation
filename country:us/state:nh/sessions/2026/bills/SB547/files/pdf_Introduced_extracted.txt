@@ -1,0 +1,540 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SB547-FN-ASINTRODUCED
+2026SESSION
+26-2130
+05/09
+547-FN
+ANACT relativetoregulationandtransparencyofpharmacybenefitmanagerpractices.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Rochefort, Dist 1; Sen. McGough, Dist 11; Sen.
+Fenton, Dist 10; Sen. Watters, Dist 4; Sen. Altschiller, Dist 24; Sen. Perkins
+Kwoka, Dist 21; Rep. Miles, Hills. 12; Rep. Nagel, Belk. 6; Rep. Weber, Ches. 5;
+Rep.Burroughs,Carr.2;Rep.M.Pearson,Rock.34
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill amends the definitions of pharmacy benefit manager and rebate and adds additional
+terms governing pharmacy benefit manager business practices. The bill states that pharmacy
+benefitmanagers have afiduciarydutytothehealthcarrier clientand areprohibited from retaining
+anyportionofspreadpricing.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB547-FN-ASINTRODUCED
+26-2130
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoregulationandtransparencyofpharmacybenefitmanagerpractices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Findings. The general court finds better regulation of the pharmaceutical market to be in the
+2 publicinterestforthefollowingreasons:
+3 I. Prescription drug costs are a major driver of health care spending in New Hampshire,
+4 accountingfor23percentoftotalhealthcareexpendituresincommercialinsurance;
+5 II. There is a lack of meaningful competition, with the top 3 largest pharmacy benefit
+6 managers(PBMs)managing80percentofprescriptiondrugclaims;
+7 III. In the aggregate, the big 3 PBMs generate significant income on certain generic drugs
+8 fromspreadpricing,billingplansponsorclientsmorethantheyreimbursepharmaciesfordrugs;
+9 IV. Highly concentrated and vertically integrated PBM-insurer-pharmacy entities have the
+10 ability and incentive to offer preferential treatment to their affiliated businesses, which may
+11 disadvantage unaffiliated and independent New Hampshire pharmacies and increase prescription
+12 drugcosts;
+13 V. While the prescription drug supply chain has competitive elements, the lack of visibility
+14 into pricing structures, negotiations, and distribution channels prevents a full understanding of how
+15 wellthosemarketforcesoperateinNewHampshire;
+16 VI. Increased transparency is an essential prerequisite for ensuring affordability, fiscal
+17 discipline,andinformeddecision-making;
+18 VII. Over half of New Hampshire residents are worried about affording their prescription
+19 medications;
+20 VIII. More than 25 percent of residents skip doses, cut pills in half, or do not fill
+21 prescriptionsatallduetocostconcerns.
+22 2 PharmacyBenefitManagers;Definitions. AmendRSA402-N:1toreadasfollows:
+23 402-N:1 Definitions.
+24 Inthischapter:
+25 I. “Affiliate” of, or “affiliated” with, a specific person or other corporate entity
+26 means a person or other corporate entity that directly, or indirectly through one or more
+27 intermediaries,controls,oriscontrolledby,orisundercommoncontrolwith,thepersonor
+28 othercorporateentityspecified.
+29 I-a. "Aggregate retained rebate ratio" means the sum total dollar amount of all
+30 rebates received from a manufacturer or other entity by a pharmacy benefit manager for
+31 prescription drug utilization by covered persons which is not passed on to the pharmacy
+SB547-FN-ASINTRODUCED
+-Page2-
+1 benefit manager's health carrier clients or affiliates divided by the sum total dollar
+2 amount of all rebates received from a manufacturer or other entity by a pharmacy benefit
+3 manager for prescription drug utilization by covered persons of a pharmacy benefit
+4 manager’shealthcarrierclientsoraffiliates.
+5 I-a. "Claimsprocessingservices"meanstheadministrativeservicesperformedinconnection
+6 withtheprocessingandadjudicatingofclaimsrelatingtopharmacistservicesthatinclude:
+7 (a) Receivingpaymentsforpharmacistservices.
+8 (b) Makingpaymentstopharmacistsorpharmaciesforpharmacistservices.
+9 II. "Commissioner"meansthecommissioneroftheinsurancedepartment.
+10 II-b. "Cost share/cost sharing" means the amount paid by a covered person as
+11 requiredunderthecoveredperson'shealthbenefitplan.
+12 II-c. "Coveredperson"means"coveredperson"asdefinedinRSA420-J:3.
+13 III. "Healthcarrier"means"healthcarrier"asdefinedinRSA420-J:3,XXIII.
+14 IV. "Healthbenefitplan"means"healthbenefitplan"asdefinedinRSA420-J:3,XIX.
+15 IV-a. "Mail order pharmacy" means a pharmacy whose primary business is to
+16 receive prescriptions by mail, telefax or through electronic submissions and to dispense
+17 medication to covered persons through the use of the United States mail or other common
+18 to contract carrier services and that provides any consultation with patients electronically
+19 ratherthanfacetoface.
+20 IV-b. "Network pharmacy" means a retail or other licensed pharmacy provider that
+21 contractswithapharmacybenefitmanager.
+22 V. "Pharmacist"meansanindividuallicensedasapharmacistbythepharmacyboard.
+23 VI. "Pharmacist services" means products, goods, and services, or any combination of
+24 products,goods,andservices,providedasapartofthepracticeofpharmacy.
+25 VII. "Pharmacy"meanstheplacelicensedbythepharmacyboardinwhichdrugs,chemicals,
+26 medicines,prescriptions,andpoisonsarecompounded,dispensed,orsoldatretail.
+27 VIII.[(a) "Pharmacybenefitsmanager"meansaperson,business,orotherentity,includinga
+28 whollyorpartiallyownedorcontrolledsubsidiaryofapharmacybenefitsmanager,that,pursuantto
+29 a contract with a health carrier, manages the prescription drug coverage provided by the health
+30 carrier, including, but not limited to, providing claims processing services for prescription drugs,
+31 performing drug utilization review, processing drug prior authorization requests, adjudication of
+32 grievances or appeals related to prescription drug coverage, contracting with network pharmacies,
+33 andcontrollingthecostofcoveredprescriptiondrugs.
+34 (b)"Pharmacybenefitsmanager"shallnotincludeany:
+35 (1) Healthcarefacilitylicensedinthisstate;
+36 (2) Healthcareprofessionallicensedinthisstate;
+SB547-FN-ASINTRODUCED
+-Page3-
+1 (3) Consultant who only provides advice as to the selection or performance of a
+2 pharmacybenefitsmanager;
+3 (4) ServiceprovidedtotheCentersforMedicareandMedicaidServices;or
+4 (5) Health insurer licensed in this state if the health insurer or its subsidiary is
+5 providingpharmacybenefitsmanagementservicesexclusivelytoitsowninsureds.]
+6 "Pharmacy benefit manager" means a person, business, or other corporate entity that,
+7 pursuant to a contract or under an inter-affiliate agreement with a health carrier, a self-
+8 insurance plan, or other third-party payer, either directly or through an intermediary,
+9 manages the prescription drug coverage provided by the health carrier, self-insurance
+10 plan, or other third-party payer including, but not limited to, the processing and payment
+11 of claimsfor prescriptiondrugs,the performance of drug utilizationreview,the processing
+12 of drug prior authorization requests, the adjudication of appeals or grievances related to
+13 prescription drug coverage contracting with network pharmacies, and controlling the cost
+14 ofcoveredprescriptiondrugs.
+15 IX. "Rebate" means [a discount or price concession attributable to the utilization of a
+16 prescription drug that is paid by the pharmaceutical manufacturer of the drug directly to a
+17 pharmacy benefits manager or health carrier after the pharmacy benefits manager or health carrier
+18 processes a claim from a pharmacy for a prescription drug manufactured by such pharmaceutical
+19 manufacturer. "Rebate" shall not include bona fide service fees, administrative fees, or any other
+20 amount which does not qualify as a rebate under this paragraph.] all discounts or price
+21 concessions paid by a pharmaceutical manufacturer to a pharmacy benefit manager or
+22 health carrier after the pharmacy benefits manager or health carrier processes a claim
+23 from a pharmacy for a prescription drug manufactured by such pharmaceutical
+24 manufacturer,includingdiscountsandother price concessionsthatare basedonactual or
+25 estimated utilization of a prescription drug. Rebates shall include discounts or price
+26 concessions based on the effectiveness of a drug as in a value-based or performance-based
+27 contract.
+28 X. "Retail pharmacy" means a chain pharmacy, a supermarket pharmacy, a mass
+29 merchandiser pharmacy, an independent pharmacy, or a network of independent
+30 pharmacies that is licensed as a pharmacy by the state of New Hampshire and that
+31 dispensesmedicationstothepublic.
+32 XI. "Spread pricing" means any amount charged or claimed by a pharmacy benefit
+33 manager to a health carrier that is in excess of the amount the pharmacy benefit manager
+34 paidtothepharmacythatfilledtheprescription.
+35 3 New Section; Pharmacy Benefit Manager Business Practices. Amend RSA 402-N by inserting
+36 aftersection4-athefollowingnewsection:
+37 4-b PharmacyBenefitManagerBusinessPractices.
+SB547-FN-ASINTRODUCED
+-Page4-
+1 I. Apharmacybenefitmanagerhasafiduciarydutytoahealthcarrierclientoraffiliateand
+2 shalldischargethatdutyinaccordancewiththeprovisionsofstateandfederallaw.
+3 II. Apharmacybenefitmanagershallperformitsdutiestohealthcarrierclientsoraffiliates
+4 withcare,skill,prudence,diligence,andprofessionalism.
+5 III. A pharmacy benefit manager shall notify a health carrier client or affiliate in writing of
+6 any activity, policy, or practice of the pharmacy benefit manager that directly or indirectly presents
+7 anyconflictofinterestwiththedutiesimposedinthissection.
+8 IV. A pharmacy benefit manager shall not require pharmacy or other provider accreditation
+9 standards or certification requirements inconsistent with, more stringent than, or in addition to
+10 requirementsoftheNewHampshireboardofpharmacyorotherstateorfederalentity.
+11 V. Ahealthcarrierorpharmacybenefitmanagerisprohibitedfrompenalizing,requiring,or
+12 providing financial incentives, including variations in premiums, deductibles, copayments, or
+13 coinsurance, to covered persons as incentives to use specific retail, mail order pharmacy, or another
+14 networkpharmacyproviderthatisanaffiliateofthepharmacybenefitmanager.
+15 VI. Nopharmacybenefitmanagermayretainanyportionofspreadpricing.
+16 4 Pharmacy Benefit Manager Reporting. RSA 402-N:6, I is repealed and reenacted to read as
+17 follows:
+18 I. Each pharmacy benefit manager shall submit a quarterly report to the commissioner
+19 containing a list of health benefit plans it administered and the rebates it collected from
+20 pharmaceutical manufacturers that were attributable to patient utilization in the state of New
+21 Hampshire during the prior calendar year. This paragraph shall not apply to Medicaid, the
+22 Medicaid Care Management Program, the Ryan White HIV/AIDS Program administered by the
+23 department of health and human services, or self-funded plans such as the state employee health
+24 benefit plan. The report submitted to the commissioner shall include the following information in a
+25 formatandwithadatadictionarydevelopedandpublishedbythecommissionerthroughbulletin:
+26 (a) The aggregate amount spent on pharmaceuticals prior to rebates for all health
+27 carrier clients or affiliates collectively and for each health carrier client or affiliate individually and
+28 furtheritemizedbypharmacy,therapeuticclass,anddrugorproductname;
+29 (b) The aggregate number of rebates and total value of all rebates that the pharmacy
+30 benefit manager received from all pharmaceutical manufacturers for all health carrier clients or
+31 affiliates collectively and for each health carrier client or affiliate individually and further itemized
+32 bytherapeuticclass,anddrugorproductname;
+33 (c) The aggregate administrative fees that the pharmacy benefit manager received from
+34 all manufacturers for all health carrier clients or affiliates collectively and for each health carrier
+35 clientoraffiliateindividually;
+36 (d) Theaggregateretainedrebatesthatthepharmacybenefitmanagerreceivedfromall
+37 pharmaceuticalmanufacturersanddidnotpassthroughtohealthcarriers;and
+SB547-FN-ASINTRODUCED
+-Page5-
+1 (e) The aggregate retained rebate ratio for all health carrier clients or affiliates
+2 collectively and for each health carrier client or affiliate individually and further itemized by
+3 pharmacy,therapeuticclass,anddrugorproductname.
+4 II. Information reported to the commissioner pursuant to this section shall be confidential
+5 and protected from disclosure under the commissioner's examination authority and shall not be
+6 considered a public record subject to disclosure under RSA 91-A. However, based on this reporting,
+7 the commissioner shall annually publish on the insurance department’s website a pharmacy benefit
+8 manager transparency report containing such summary information as is necessary to promote
+9 transparency, support competitive markets, and inform decision-making by state policymakers.
+10 Reports meeting these standards shall not be considered to violate RSA 350-B, the uniform trade
+11 secrets act, even if they provide summary information at the level of individual pharmacy benefit
+12 managersandallowcomparisonstobemadebetweenpharmacybenefitmanagers.
+13 5 Severability Clause. If any provision of this act of the application of this act to any person or
+14 circumstanceisheldinvalid,theinvalidityshallnotaffectotherprovisionsorapplicationsofthisact
+15 whichcanbegiven effect without the invalid provisionor application, and to this end, the provisions
+16 of the act are declared severable. In addition, in the event of an enactment by the United States
+17 Congress of a law that preempts the operation of any provision of this act, any remaining provisions
+18 ofthisactthatareunaffectedbythecongressionalenactmentshallremainineffect.
+19 6 EffectiveDate. ThisactshalltakeeffectOctober1,2026.
+LBA
+26-2130
+Revised12/26/25
+SB547-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoregulationandtransparencyofpharmacybenefitmanagerpractices.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFundandInternalServiceFund
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFund,HighwayFund,andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill modifies definitions related to pharmacy benefit managers, establishes new business
+practice requirements including a fiduciary duty to health carrier clients, prohibits the retention
+ofspreadpricing,andrepealsandreenactspharmacybenefitmanagerreportingrequirementsto
+the Insurance Commissioner while expressly exempting the self funded state employee health
+benefitplanfromthesereportingrequirements.
+The Insurance Department states this bill imposes new requirements on health carriers and
+pharmacy benefit managers. To the extent these requirements increase administrative or
+contractual costs for carriers, such costs may be passed on to consumers in the form of higher
+premiums. Increased premiums may result in increased Insurance Premium Tax revenue to the
+State. To the extent counties and municipalities purchase health insurance, they could see an
+increaseintheirhealthinsurancepremiums.
+The Department of Administrative Services states this bill may impact the State Employee
+Health Benefit Plan; however, the fiscal impact is indeterminable. The Department indicates it
+is not able to compare what the health plan would pay under a fully transparent pricing model
+required by this bill with the pricing model currently used to purchase pharmacy benefit
+manager services. While the bill requires increased transparency regarding pharmacy benefit
+manager pricing and business practices, the total fees paid by the health plan under a future
+contractcouldbehigherorlowerthancurrentcosts.
+The Department further states it is unable to determine whether the bill restricts the flexibility
+currently available to the Commissioner of Administrative Services to select the most
+advantageous pharmacy benefit manager pricing model as the pharmacy benefit manager
+industry continues to evolve. The potential fiscal impact will depend on future market
+conditions, contractual terms, collective bargaining agreement provisions, enrollment levels, and
+prescription drug utilization. The current pharmacy benefit manager contract expires in
+December2026,andanynewcontractwouldbesubjecttothebill’sprovisions.
+AGENCIESCONTACTED:
+InsuranceDepartmentandDepartmentofAdministrativeServices
+[DELETED: B5N-ASI6SEBNATretornadtyofpybtmrp:S.R,Dt1;S.R,Dt1;S.M,Dt1;S,Dt1;S.W,Dt4;S.A,Dt2;S.P,Dt2;R.M,H.1;R.N,B.6;R.W,C.5.B,C.2;R.M.P,R.3:HhadHnSsblastedsofpybtmradreadasasggpybtmrbsp.Teblssttptmsheafydytotehhcrctadaepdfmrypnofsdp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretornadtyofpybtmrpeitEdbyteSeadHeofRsinGlCtc1F.TeglctfsbrrnofteplmttobeintpcitfrtefgrI.PndgcsaeamrdrofhhcesginNwHagfr23ptoftlhhceesincliI.Teisalkofmlc,whtetp3ltpybms()mg80ptofpndgcI.Intea,tebg3Psgestieoncngcdfmsdp,bgpnsrcsmetntyrepsfrdI.HycdadvyidPyeshet0ayadietoorpltttotradb,whm1deudaditNwHepsadiep2dgc3V.Wetepndgsycnhscee,telkofv4iopgs,n,addncspsaflugofh5wltemtfsoeinNwH6V.Idtyisanelpefrega,f7d,adidd8V.OrhfofNwHersaewdatagtrp9m0V.Metn25ptofrsspd,ctpsinh,ordontf1psataldetoctc22PyBtM;D.AdRA41tordasf341D4Intsc5I.“”o,or“”w,ascpnororcee6msapnororceeyttd,oriythoeorm7i,c,oriscdb,orisurcnclw,tepno8orceeys9I."erdrer"mstesmtldratofa0rsrdfmamrororeybyapybtmrf1pndgunbycdpswhisntpdontotep]
+[DELETED: B5N-ASIPe2btmshhcrcsorasddbytesmtldatofalrsrdfmamrororeybyapybmrfrpndgunbycdpsofapybmshhcrcsoraI."spgs"msteaesspdincwhtepgadagofcsrgtoptsstti()Rgpsfrpts()MgpstopsorpsfrptsI.""mstecrofteied0I."tsts"msteatpdbyacdpna1rdurtecdpshhbtp2I."dp"ms"dp"asddinRA43I."hc"ms"hc"asddinRA4,X4I."hbtp"ms"hbtp"asddinRA4,X5I."lorp"msapywepybsist6repsbym,txorthecssadtod7mntocdpsthteueofteUdSsmlororc8toctcrssadttpsaycnwhpse9rrtnfetof0I."kp"msarlororldpyprt1cswhapybtm2V.""msanilldasaptbytepyb3V."ts"msp,g,ads,oraycno4p,g,ads,pdasaptoftepeofp5V.""mstepeldbytepybdinwhd,c6m,p,adpsaec,d,orsdatr7V)"ybsm"msap,b,orore,ig8wyorpyodorcdsyofapybsm,t,ptt9actwhahhc,mstepndgcepdbyteh0c,i,btntldt,pgcspgssfrpnd1pgdgunr,pgdgpranr,ano2gsorasrdtopndgc,cgwhnkp3adcgtectofcdpnd4(b)"ybsm"slntiea5()Hhcefyldintss6()Hhceplldintss]
+[DELETED: B5N-ASIPe3()Ctwooypsaeastotesnorpeofpybsm()SepdtoteCsfrMeadMdS;o()Hhirldintsseiftehhirorissyipgpybsmtsseytoisoni"ybtm"msap,b,ororceeytpttoactoruranieatwhahhc,asiep,orortyp,erdyorthanimstepndgcepdbytehhc,s0p,orortypri,btntldt,tepgadp1ofcsfrpnd,tepeofdgunr,tep2ofdgpranr,teanofasorgsrdt3pndgcecgwhnkp,adcgtec4ofcdpnd5I.""ms[adtorpecnaetoteunof6pndgttispdbyteplmroftedgdyto7pybsmrorhhcrartepybsmrorhhc8psacmfmapyfrapndgmdbyshp9m.""slntiebafesef,aef,orayo0atwhdsntqyasareurtsp]aldsorp1cspdbyaplmrtoapybtmro2hhcrartepybsmrorhhcrpsac3fmapyfrapndgmdbyshp4m,igdsadorpecsttaebdonalo5edunofapnd.Rssliedsorp6csbdonteesofadgasinavdorp7c8X."lp"msacnp,astp,am9mrp,anitp,orankofi0psttisldasapybyteseofNwHeadt1dsmstotep2X."dp"msayatcdorcdbyapyb3mrtoahhcrttisinesofteattepybtm4pdtotepyttfdtep53NwS;PyBtMrBsP.AdRA4Nbyi6arsn4atefgnws74bPyBtMrBsP]
+[DELETED: B5N-ASIPe4I.ApybtmrhsafydytoahhcrctoraeasldettdyinaewhtepsofseadfllI.Apybtmrslpmisdstohhcrcsorawhc,s,p,d,adpI.Apybtmrslnyahhcrctoraeinwgoaya,p,orpeoftepybtmrttdyoriypayctofitwhtedsidintssI.Apybtmrslntrepyororprassorcnrsitw,mestt,orinant0rsofteNwHebdofpyororseorfle1V.Ahhcrorpybtmrispdfmp,r,o2pgfli,igvsinp,d,c,o3c,tocdpsasistouescr,mlorp,ora4nkpyprttisanaeoftepybtm5V.Nopybtmrmyrnaypnofsdp64PyBtMrR.RA4,Iisrdadrdtorda7f8I.Ehpybtmrslstaqyrttotec9cgaltofhhbtpsitadadtersitcdf0plmsttweaetoptuninteseofN1Hedgteprcry.TsphslntaytoM,t2MdCeMtP,teRnWeHSPmadbyt3dtofhhadhns,orsdpsshasteseeeh4btp.Tertsdtotecrslietefginin5ftadwhadadyddadpdbytecrthb6()Teaeatstonpsprtorsfralh7crcsorascyadfrehhhcrctoraeiya8fridbyp,tcc,addgorptn9()Teaenrofrsadtlveofalrstttep0btmrrdfmalplmsfralhhcrcso1ascyadfrehhhcrctoraeiyadfri2bytcc,addgorptn3()Teaeaefstttepybtmrrdf4almsfralhhcrcsorascyadfrehhhc5ctoraei6()Teaerdrstttepybtmrrdfma7plmsadddntpsthtohhc;a]
+[DELETED: B5N-ASIPe5()Teaerdrerofralhhcrcsoracyadfrehhhcrctoraeiyadfridbp,tcc,addgorptnI.InrdtotecrpttotssnslbecadpdfmdeurtecsenayadslntbcdapcrdsttodeurRA9.H,bdontsrtecrslayphonteiedsweapybmrtyrtcgshsyinasisnytopt,stcem,adimdgbysep0RsmgtessslntbecdtoveRA3,teumt1ssa,eniftypesyinattellofilpyb2msadawcstobemebnpybtm35SyC.Ifaypnoftsatofteanoftsattoaypno4ceishdi,teiyslntatorpsorasoftsa5whcnbegnetwtteidpnora,adtotse,tep6ofteataedds.Ina,inteetofanetbyteUdS7Csofalwttpsteonofaypnoftsa,ayrgp8oftsatttaeudbytecletslrnine96EeD.TsatslteetOr1,2]
+[DELETED: d1B5-FLNSINATretornadtyofpybtmrpLIdSeIY26FY27FY28FY2eIeIeIeItpdby(tpd(tpdb)bya)aeFlFdadIlSeF0IeIeIgSlF,HyF,adVsAyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblmsdsrdtopybtm,esnwbersigafydytohhcrc,psterfsdp,adrsadrspybtmrrgrsteIeCrweeyegtesffdseeehtpnfmtergreIeDtsstsblisnwrsonhhcsaybtm.Toteettersieaeolcsfrc,shcsmybepdontocsintefmofh.IdpsmyrtinidIePmTxretot]
+[DELETED: .Toteetcsadmspehhi,tycdseaeintrhhiepeDtofAeSssstsblmyitteSeEhBtP;h,teflitisi.TeDtisisntaetocewttehhpnwdpyurafyttpgmdbytsblwhtepgmlcyudtopepybrs.Weteblrsidtyrgpybrpgadbsp,tetlfspdbytehhpnuraftcdbehrorlrtnctceDtfrssitisuetodewrteblrstefyaetoteCrofAeSstosttemspybtmrpgmlastepybtmycstoe.Teplflitwlddonfem,clt,cebgatp,etl,andgu.Tectpybtmrctesir2,adaynwctwdbesttotebspSCeDtadDtofAeS]
+
+
+================================================================================
+
+Raw Text:
+SB547-FN-ASINTRODUCED
+2026SESSION
+26-2130
+05/09
+547-FN
+SENATEBILL
+ANACT relativetoregulationandtransparencyofpharmacybenefitmanagerpractices.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Rochefort, Dist 1; Sen. McGough, Dist 11; Sen.
+Fenton, Dist 10; Sen. Watters, Dist 4; Sen. Altschiller, Dist 24; Sen. Perkins
+Kwoka, Dist 21; Rep. Miles, Hills. 12; Rep. Nagel, Belk. 6; Rep. Weber, Ches. 5;
+Rep.Burroughs,Carr.2;Rep.M.Pearson,Rock.34
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill amends the definitions of pharmacy benefit manager and rebate and adds additional
+terms governing pharmacy benefit manager business practices. The bill states that pharmacy
+benefitmanagers have afiduciarydutytothehealthcarrier clientand areprohibited from retaining
+anyportionofspreadpricing.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB547-FN-ASINTRODUCED
+26-2130
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoregulationandtransparencyofpharmacybenefitmanagerpractices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Findings. The general court finds better regulation of the pharmaceutical market to be in the
+2 publicinterestforthefollowingreasons:
+3 I. Prescription drug costs are a major driver of health care spending in New Hampshire,
+4 accountingfor23percentoftotalhealthcareexpendituresincommercialinsurance;
+5 II. There is a lack of meaningful competition, with the top 3 largest pharmacy benefit
+6 managers(PBMs)managing80percentofprescriptiondrugclaims;
+7 III. In the aggregate, the big 3 PBMs generate significant income on certain generic drugs
+8 fromspreadpricing,billingplansponsorclientsmorethantheyreimbursepharmaciesfordrugs;
+9 IV. Highly concentrated and vertically integrated PBM-insurer-pharmacy entities have the
+10 ability and incentive to offer preferential treatment to their affiliated businesses, which may
+11 disadvantage unaffiliated and independent New Hampshire pharmacies and increase prescription
+12 drugcosts;
+13 V. While the prescription drug supply chain has competitive elements, the lack of visibility
+14 into pricing structures, negotiations, and distribution channels prevents a full understanding of how
+15 wellthosemarketforcesoperateinNewHampshire;
+16 VI. Increased transparency is an essential prerequisite for ensuring affordability, fiscal
+17 discipline,andinformeddecision-making;
+18 VII. Over half of New Hampshire residents are worried about affording their prescription
+19 medications;
+20 VIII. More than 25 percent of residents skip doses, cut pills in half, or do not fill
+21 prescriptionsatallduetocostconcerns.
+22 2 PharmacyBenefitManagers;Definitions. AmendRSA402-N:1toreadasfollows:
+23 402-N:1 Definitions.
+24 Inthischapter:
+25 I. “Affiliate” of, or “affiliated” with, a specific person or other corporate entity
+26 means a person or other corporate entity that directly, or indirectly through one or more
+27 intermediaries,controls,oriscontrolledby,orisundercommoncontrolwith,thepersonor
+28 othercorporateentityspecified.
+29 I-a. "Aggregate retained rebate ratio" means the sum total dollar amount of all
+30 rebates received from a manufacturer or other entity by a pharmacy benefit manager for
+31 prescription drug utilization by covered persons which is not passed on to the pharmacy
+
+SB547-FN-ASINTRODUCED
+-Page2-
+1 benefit manager's health carrier clients or affiliates divided by the sum total dollar
+2 amount of all rebates received from a manufacturer or other entity by a pharmacy benefit
+3 manager for prescription drug utilization by covered persons of a pharmacy benefit
+4 manager’shealthcarrierclientsoraffiliates.
+5 I-a. "Claimsprocessingservices"meanstheadministrativeservicesperformedinconnection
+6 withtheprocessingandadjudicatingofclaimsrelatingtopharmacistservicesthatinclude:
+7 (a) Receivingpaymentsforpharmacistservices.
+8 (b) Makingpaymentstopharmacistsorpharmaciesforpharmacistservices.
+9 II. "Commissioner"meansthecommissioneroftheinsurancedepartment.
+10 II-b. "Cost share/cost sharing" means the amount paid by a covered person as
+11 requiredunderthecoveredperson'shealthbenefitplan.
+12 II-c. "Coveredperson"means"coveredperson"asdefinedinRSA420-J:3.
+13 III. "Healthcarrier"means"healthcarrier"asdefinedinRSA420-J:3,XXIII.
+14 IV. "Healthbenefitplan"means"healthbenefitplan"asdefinedinRSA420-J:3,XIX.
+15 IV-a. "Mail order pharmacy" means a pharmacy whose primary business is to
+16 receive prescriptions by mail, telefax or through electronic submissions and to dispense
+17 medication to covered persons through the use of the United States mail or other common
+18 to contract carrier services and that provides any consultation with patients electronically
+19 ratherthanfacetoface.
+20 IV-b. "Network pharmacy" means a retail or other licensed pharmacy provider that
+21 contractswithapharmacybenefitmanager.
+22 V. "Pharmacist"meansanindividuallicensedasapharmacistbythepharmacyboard.
+23 VI. "Pharmacist services" means products, goods, and services, or any combination of
+24 products,goods,andservices,providedasapartofthepracticeofpharmacy.
+25 VII. "Pharmacy"meanstheplacelicensedbythepharmacyboardinwhichdrugs,chemicals,
+26 medicines,prescriptions,andpoisonsarecompounded,dispensed,orsoldatretail.
+27 VIII.[(a) "Pharmacybenefitsmanager"meansaperson,business,orotherentity,includinga
+28 whollyorpartiallyownedorcontrolledsubsidiaryofapharmacybenefitsmanager,that,pursuantto
+29 a contract with a health carrier, manages the prescription drug coverage provided by the health
+30 carrier, including, but not limited to, providing claims processing services for prescription drugs,
+31 performing drug utilization review, processing drug prior authorization requests, adjudication of
+32 grievances or appeals related to prescription drug coverage, contracting with network pharmacies,
+33 andcontrollingthecostofcoveredprescriptiondrugs.
+34 (b)"Pharmacybenefitsmanager"shallnotincludeany:
+35 (1) Healthcarefacilitylicensedinthisstate;
+36 (2) Healthcareprofessionallicensedinthisstate;
+
+SB547-FN-ASINTRODUCED
+-Page3-
+1 (3) Consultant who only provides advice as to the selection or performance of a
+2 pharmacybenefitsmanager;
+3 (4) ServiceprovidedtotheCentersforMedicareandMedicaidServices;or
+4 (5) Health insurer licensed in this state if the health insurer or its subsidiary is
+5 providingpharmacybenefitsmanagementservicesexclusivelytoitsowninsureds.]
+6 "Pharmacy benefit manager" means a person, business, or other corporate entity that,
+7 pursuant to a contract or under an inter-affiliate agreement with a health carrier, a self-
+8 insurance plan, or other third-party payer, either directly or through an intermediary,
+9 manages the prescription drug coverage provided by the health carrier, self-insurance
+10 plan, or other third-party payer including, but not limited to, the processing and payment
+11 of claimsfor prescriptiondrugs,the performance of drug utilizationreview,the processing
+12 of drug prior authorization requests, the adjudication of appeals or grievances related to
+13 prescription drug coverage contracting with network pharmacies, and controlling the cost
+14 ofcoveredprescriptiondrugs.
+15 IX. "Rebate" means [a discount or price concession attributable to the utilization of a
+16 prescription drug that is paid by the pharmaceutical manufacturer of the drug directly to a
+17 pharmacy benefits manager or health carrier after the pharmacy benefits manager or health carrier
+18 processes a claim from a pharmacy for a prescription drug manufactured by such pharmaceutical
+19 manufacturer. "Rebate" shall not include bona fide service fees, administrative fees, or any other
+20 amount which does not qualify as a rebate under this paragraph.] all discounts or price
+21 concessions paid by a pharmaceutical manufacturer to a pharmacy benefit manager or
+22 health carrier after the pharmacy benefits manager or health carrier processes a claim
+23 from a pharmacy for a prescription drug manufactured by such pharmaceutical
+24 manufacturer,includingdiscountsandother price concessionsthatare basedonactual or
+25 estimated utilization of a prescription drug. Rebates shall include discounts or price
+26 concessions based on the effectiveness of a drug as in a value-based or performance-based
+27 contract.
+28 X. "Retail pharmacy" means a chain pharmacy, a supermarket pharmacy, a mass
+29 merchandiser pharmacy, an independent pharmacy, or a network of independent
+30 pharmacies that is licensed as a pharmacy by the state of New Hampshire and that
+31 dispensesmedicationstothepublic.
+32 XI. "Spread pricing" means any amount charged or claimed by a pharmacy benefit
+33 manager to a health carrier that is in excess of the amount the pharmacy benefit manager
+34 paidtothepharmacythatfilledtheprescription.
+35 3 New Section; Pharmacy Benefit Manager Business Practices. Amend RSA 402-N by inserting
+36 aftersection4-athefollowingnewsection:
+37 4-b PharmacyBenefitManagerBusinessPractices.
+
+SB547-FN-ASINTRODUCED
+-Page4-
+1 I. Apharmacybenefitmanagerhasafiduciarydutytoahealthcarrierclientoraffiliateand
+2 shalldischargethatdutyinaccordancewiththeprovisionsofstateandfederallaw.
+3 II. Apharmacybenefitmanagershallperformitsdutiestohealthcarrierclientsoraffiliates
+4 withcare,skill,prudence,diligence,andprofessionalism.
+5 III. A pharmacy benefit manager shall notify a health carrier client or affiliate in writing of
+6 any activity, policy, or practice of the pharmacy benefit manager that directly or indirectly presents
+7 anyconflictofinterestwiththedutiesimposedinthissection.
+8 IV. A pharmacy benefit manager shall not require pharmacy or other provider accreditation
+9 standards or certification requirements inconsistent with, more stringent than, or in addition to
+10 requirementsoftheNewHampshireboardofpharmacyorotherstateorfederalentity.
+11 V. Ahealthcarrierorpharmacybenefitmanagerisprohibitedfrompenalizing,requiring,or
+12 providing financial incentives, including variations in premiums, deductibles, copayments, or
+13 coinsurance, to covered persons as incentives to use specific retail, mail order pharmacy, or another
+14 networkpharmacyproviderthatisanaffiliateofthepharmacybenefitmanager.
+15 VI. Nopharmacybenefitmanagermayretainanyportionofspreadpricing.
+16 4 Pharmacy Benefit Manager Reporting. RSA 402-N:6, I is repealed and reenacted to read as
+17 follows:
+18 I. Each pharmacy benefit manager shall submit a quarterly report to the commissioner
+19 containing a list of health benefit plans it administered and the rebates it collected from
+20 pharmaceutical manufacturers that were attributable to patient utilization in the state of New
+21 Hampshire during the prior calendar year. This paragraph shall not apply to Medicaid, the
+22 Medicaid Care Management Program, the Ryan White HIV/AIDS Program administered by the
+23 department of health and human services, or self-funded plans such as the state employee health
+24 benefit plan. The report submitted to the commissioner shall include the following information in a
+25 formatandwithadatadictionarydevelopedandpublishedbythecommissionerthroughbulletin:
+26 (a) The aggregate amount spent on pharmaceuticals prior to rebates for all health
+27 carrier clients or affiliates collectively and for each health carrier client or affiliate individually and
+28 furtheritemizedbypharmacy,therapeuticclass,anddrugorproductname;
+29 (b) The aggregate number of rebates and total value of all rebates that the pharmacy
+30 benefit manager received from all pharmaceutical manufacturers for all health carrier clients or
+31 affiliates collectively and for each health carrier client or affiliate individually and further itemized
+32 bytherapeuticclass,anddrugorproductname;
+33 (c) The aggregate administrative fees that the pharmacy benefit manager received from
+34 all manufacturers for all health carrier clients or affiliates collectively and for each health carrier
+35 clientoraffiliateindividually;
+36 (d) Theaggregateretainedrebatesthatthepharmacybenefitmanagerreceivedfromall
+37 pharmaceuticalmanufacturersanddidnotpassthroughtohealthcarriers;and
+
+SB547-FN-ASINTRODUCED
+-Page5-
+1 (e) The aggregate retained rebate ratio for all health carrier clients or affiliates
+2 collectively and for each health carrier client or affiliate individually and further itemized by
+3 pharmacy,therapeuticclass,anddrugorproductname.
+4 II. Information reported to the commissioner pursuant to this section shall be confidential
+5 and protected from disclosure under the commissioner's examination authority and shall not be
+6 considered a public record subject to disclosure under RSA 91-A. However, based on this reporting,
+7 the commissioner shall annually publish on the insurance department’s website a pharmacy benefit
+8 manager transparency report containing such summary information as is necessary to promote
+9 transparency, support competitive markets, and inform decision-making by state policymakers.
+10 Reports meeting these standards shall not be considered to violate RSA 350-B, the uniform trade
+11 secrets act, even if they provide summary information at the level of individual pharmacy benefit
+12 managersandallowcomparisonstobemadebetweenpharmacybenefitmanagers.
+13 5 Severability Clause. If any provision of this act of the application of this act to any person or
+14 circumstanceisheldinvalid,theinvalidityshallnotaffectotherprovisionsorapplicationsofthisact
+15 whichcanbegiven effect without the invalid provisionor application, and to this end, the provisions
+16 of the act are declared severable. In addition, in the event of an enactment by the United States
+17 Congress of a law that preempts the operation of any provision of this act, any remaining provisions
+18 ofthisactthatareunaffectedbythecongressionalenactmentshallremainineffect.
+19 6 EffectiveDate. ThisactshalltakeeffectOctober1,2026.
+
+LBA
+26-2130
+Revised12/26/25
+SB547-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoregulationandtransparencyofpharmacybenefitmanagerpractices.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFundandInternalServiceFund
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFund,HighwayFund,andVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill modifies definitions related to pharmacy benefit managers, establishes new business
+practice requirements including a fiduciary duty to health carrier clients, prohibits the retention
+ofspreadpricing,andrepealsandreenactspharmacybenefitmanagerreportingrequirementsto
+the Insurance Commissioner while expressly exempting the self funded state employee health
+benefitplanfromthesereportingrequirements.
+The Insurance Department states this bill imposes new requirements on health carriers and
+pharmacy benefit managers. To the extent these requirements increase administrative or
+contractual costs for carriers, such costs may be passed on to consumers in the form of higher
+premiums. Increased premiums may result in increased Insurance Premium Tax revenue to the
+
+State. To the extent counties and municipalities purchase health insurance, they could see an
+increaseintheirhealthinsurancepremiums.
+The Department of Administrative Services states this bill may impact the State Employee
+Health Benefit Plan; however, the fiscal impact is indeterminable. The Department indicates it
+is not able to compare what the health plan would pay under a fully transparent pricing model
+required by this bill with the pricing model currently used to purchase pharmacy benefit
+manager services. While the bill requires increased transparency regarding pharmacy benefit
+manager pricing and business practices, the total fees paid by the health plan under a future
+contractcouldbehigherorlowerthancurrentcosts.
+The Department further states it is unable to determine whether the bill restricts the flexibility
+currently available to the Commissioner of Administrative Services to select the most
+advantageous pharmacy benefit manager pricing model as the pharmacy benefit manager
+industry continues to evolve. The potential fiscal impact will depend on future market
+conditions, contractual terms, collective bargaining agreement provisions, enrollment levels, and
+prescription drug utilization. The current pharmacy benefit manager contract expires in
+December2026,andanynewcontractwouldbesubjecttothebill’sprovisions.
+AGENCIESCONTACTED:
+InsuranceDepartmentandDepartmentofAdministrativeServices
+
+[DELETED: B5N-ASI6SEBNATretornadtyofpybtmrp:S.R,Dt1;S.R,Dt1;S.M,Dt1;S,Dt1;S.W,Dt4;S.A,Dt2;S.P,Dt2;R.M,H.1;R.N,B.6;R.W,C.5.B,C.2;R.M.P,R.3:HhadHnSsblastedsofpybtmradreadasasggpybtmrbsp.Teblssttptmsheafydytotehhcrctadaepdfmrypnofsdp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretornadtyofpybtmrpeitEdbyteSeadHeofRsinGlCtc1F.TeglctfsbrrnofteplmttobeintpcitfrtefgrI.PndgcsaeamrdrofhhcesginNwHagfr23ptoftlhhceesincliI.Teisalkofmlc,whtetp3ltpybms()mg80ptofpndgcI.Intea,tebg3Psgestieoncngcdfmsdp,bgpnsrcsmetntyrepsfrdI.HycdadvyidPyeshet0ayadietoorpltttotradb,whm1deudaditNwHepsadiep2dgc3V.Wetepndgsycnhscee,telkofv4iopgs,n,addncspsaflugofh5wltemtfsoeinNwH6V.Idtyisanelpefrega,f7d,adidd8V.OrhfofNwHersaewdatagtrp9m0V.Metn25ptofrsspd,ctpsinh,ordontf1psataldetoctc22PyBtM;D.AdRA41tordasf341D4Intsc5I.“”o,or“”w,ascpnororcee6msapnororceeyttd,oriythoeorm7i,c,oriscdb,orisurcnclw,tepno8orceeys9I."erdrer"mstesmtldratofa0rsrdfmamrororeybyapybtmrf1pndgunbycdpswhisntpdontotep]
+[DELETED: B5N-ASIPe2btmshhcrcsorasddbytesmtldatofalrsrdfmamrororeybyapybmrfrpndgunbycdpsofapybmshhcrcsoraI."spgs"msteaesspdincwhtepgadagofcsrgtoptsstti()Rgpsfrpts()MgpstopsorpsfrptsI.""mstecrofteied0I."tsts"msteatpdbyacdpna1rdurtecdpshhbtp2I."dp"ms"dp"asddinRA43I."hc"ms"hc"asddinRA4,X4I."hbtp"ms"hbtp"asddinRA4,X5I."lorp"msapywepybsist6repsbym,txorthecssadtod7mntocdpsthteueofteUdSsmlororc8toctcrssadttpsaycnwhpse9rrtnfetof0I."kp"msarlororldpyprt1cswhapybtm2V.""msanilldasaptbytepyb3V."ts"msp,g,ads,oraycno4p,g,ads,pdasaptoftepeofp5V.""mstepeldbytepybdinwhd,c6m,p,adpsaec,d,orsdatr7V)"ybsm"msap,b,orore,ig8wyorpyodorcdsyofapybsm,t,ptt9actwhahhc,mstepndgcepdbyteh0c,i,btntldt,pgcspgssfrpnd1pgdgunr,pgdgpranr,ano2gsorasrdtopndgc,cgwhnkp3adcgtectofcdpnd4(b)"ybsm"slntiea5()Hhcefyldintss6()Hhceplldintss]
+[DELETED: B5N-ASIPe3()Ctwooypsaeastotesnorpeofpybsm()SepdtoteCsfrMeadMdS;o()Hhirldintsseiftehhirorissyipgpybsmtsseytoisoni"ybtm"msap,b,ororceeytpttoactoruranieatwhahhc,asiep,orortyp,erdyorthanimstepndgcepdbytehhc,s0p,orortypri,btntldt,tepgadp1ofcsfrpnd,tepeofdgunr,tep2ofdgpranr,teanofasorgsrdt3pndgcecgwhnkp,adcgtec4ofcdpnd5I.""ms[adtorpecnaetoteunof6pndgttispdbyteplmroftedgdyto7pybsmrorhhcrartepybsmrorhhc8psacmfmapyfrapndgmdbyshp9m.""slntiebafesef,aef,orayo0atwhdsntqyasareurtsp]aldsorp1cspdbyaplmrtoapybtmro2hhcrartepybsmrorhhcrpsac3fmapyfrapndgmdbyshp4m,igdsadorpecsttaebdonalo5edunofapnd.Rssliedsorp6csbdonteesofadgasinavdorp7c8X."lp"msacnp,astp,am9mrp,anitp,orankofi0psttisldasapybyteseofNwHeadt1dsmstotep2X."dp"msayatcdorcdbyapyb3mrtoahhcrttisinesofteattepybtm4pdtotepyttfdtep53NwS;PyBtMrBsP.AdRA4Nbyi6arsn4atefgnws74bPyBtMrBsP]
+[DELETED: B5N-ASIPe4I.ApybtmrhsafydytoahhcrctoraeasldettdyinaewhtepsofseadfllI.Apybtmrslpmisdstohhcrcsorawhc,s,p,d,adpI.Apybtmrslnyahhcrctoraeinwgoaya,p,orpeoftepybtmrttdyoriypayctofitwhtedsidintssI.Apybtmrslntrepyororprassorcnrsitw,mestt,orinant0rsofteNwHebdofpyororseorfle1V.Ahhcrorpybtmrispdfmp,r,o2pgfli,igvsinp,d,c,o3c,tocdpsasistouescr,mlorp,ora4nkpyprttisanaeoftepybtm5V.Nopybtmrmyrnaypnofsdp64PyBtMrR.RA4,Iisrdadrdtorda7f8I.Ehpybtmrslstaqyrttotec9cgaltofhhbtpsitadadtersitcdf0plmsttweaetoptuninteseofN1Hedgteprcry.TsphslntaytoM,t2MdCeMtP,teRnWeHSPmadbyt3dtofhhadhns,orsdpsshasteseeeh4btp.Tertsdtotecrslietefginin5ftadwhadadyddadpdbytecrthb6()Teaeatstonpsprtorsfralh7crcsorascyadfrehhhcrctoraeiya8fridbyp,tcc,addgorptn9()Teaenrofrsadtlveofalrstttep0btmrrdfmalplmsfralhhcrcso1ascyadfrehhhcrctoraeiyadfri2bytcc,addgorptn3()Teaeaefstttepybtmrrdf4almsfralhhcrcsorascyadfrehhhc5ctoraei6()Teaerdrstttepybtmrrdfma7plmsadddntpsthtohhc;a]
+[DELETED: B5N-ASIPe5()Teaerdrerofralhhcrcsoracyadfrehhhcrctoraeiyadfridbp,tcc,addgorptnI.InrdtotecrpttotssnslbecadpdfmdeurtecsenayadslntbcdapcrdsttodeurRA9.H,bdontsrtecrslayphonteiedsweapybmrtyrtcgshsyinasisnytopt,stcem,adimdgbysep0RsmgtessslntbecdtoveRA3,teumt1ssa,eniftypesyinattellofilpyb2msadawcstobemebnpybtm35SyC.Ifaypnoftsatofteanoftsattoaypno4ceishdi,teiyslntatorpsorasoftsa5whcnbegnetwtteidpnora,adtotse,tep6ofteataedds.Ina,inteetofanetbyteUdS7Csofalwttpsteonofaypnoftsa,ayrgp8oftsatttaeudbytecletslrnine96EeD.TsatslteetOr1,2]
+[DELETED: d1B5-FLNSINATretornadtyofpybtmrpLIdSeIY26FY27FY28FY2eIeIeIeItpdby(tpd(tpdb)bya)aeFlFdadIlSeF0IeIeIgSlF,HyF,adVsAyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblmsdsrdtopybtm,esnwbersigafydytohhcrc,psterfsdp,adrsadrspybtmrrgrsteIeCrweeyegtesffdseeehtpnfmtergreIeDtsstsblisnwrsonhhcsaybtm.Toteettersieaeolcsfrc,shcsmybepdontocsintefmofh.IdpsmyrtinidIePmTxretot]
+[DELETED: .Toteetcsadmspehhi,tycdseaeintrhhiepeDtofAeSssstsblmyitteSeEhBtP;h,teflitisi.TeDtisisntaetocewttehhpnwdpyurafyttpgmdbytsblwhtepgmlcyudtopepybrs.Weteblrsidtyrgpybrpgadbsp,tetlfspdbytehhpnuraftcdbehrorlrtnctceDtfrssitisuetodewrteblrstefyaetoteCrofAeSstosttemspybtmrpgmlastepybtmycstoe.Teplflitwlddonfem,clt,cebgatp,etl,andgu.Tectpybtmrctesir2,adaynwctwdbesttotebspSCeDtadDtofAeS]

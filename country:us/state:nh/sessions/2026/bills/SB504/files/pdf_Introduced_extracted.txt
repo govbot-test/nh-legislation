@@ -1,0 +1,240 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB504 -ASINTRODUCED
+2026SESSION
+26-2100
+09/05
+504
+ANACT relative to the practice of pharmacy and the dispensing of certain medications by
+pharmacists.
+SPONSORS: Sen.Rochefort,Dist1;Sen.Pearl,Dist17;Rep.C.McGuire,Merr.27
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Authorizes the dispensing of up to a 30-day supply of noncontrolled oral anti-cancer
+medication by a licensed health care professional legally authorized to prescribe and administer
+medicationstoapatientunderaprovider'scareorsupervisionsubjecttocertainconditions.
+II. Amendsthedisplayrequirementsofcertainlicensesandpermits.
+III. Authorizeslicensedadvancedpharmacytechnicianstoengageinremoteprocessing.
+IV. Removes the requirement that a pharmacist's name or initials be on a label affixed to any
+controlleddrugorprescriptionissued.
+V. Amendsthedefinitionofthe"practiceofpharmacy."
+VI. Removes certain authority of the board of pharmacy with respect to the regulation of
+collaborativepharmacypracticeagreements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB504-ASINTRODUCED
+26-2100
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the practice of pharmacy and the dispensing of certain medications by
+pharmacists.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Controlled Drug Act; Dealing In or Possessing Prescription Drugs. Amend
+2 RSA318:42byinsertingafterparagraphVII-bthefollowingnewparagraph:
+3 VII-c. The dispensing of up to a 30-day supply of noncontrolled oral anti-cancer medication
+4 byalicensedhealthcareprofessionallegallyauthorizedtoprescribeandadministermedicationstoa
+5 patientunderaprovider'scareorsupervisionsolongasthefollowingcriteriaaremet:
+6 (a) The dispensing clinic maintains on staff a full-time licensed pharmacist who is
+7 availableforconsultationwiththeprescribingproviderandthepatient.
+8 (b) In-office dispensing is conducted in a way consistent with United States
+9 Pharmacopeiastandardsaswellasallrelevantstateandfederallawsorrules.
+10 2 PharmacistsandPharmacies;DisplayofLicenses. AmendRSA318:28toreadasfollows:
+11 318:28 [Display] Availability of Licenses. All licenses as pharmacists shall [at all times be
+12 conspicuously displayed] be readily retrievable in the pharmacy where the licensee is engaged as
+13 such.
+14 3 Pharmacists and Pharmacies; Licensure of Pharmacies. Amend RSA 318:39 to read as
+15 follows:
+16 318:39 Application;Display. Applicationforapermitshallbemadeinsuchmannerandinsuch
+17 form as the board may determine. The permit shall at all times be [exposed in a conspicuous place]
+18 postedinthepharmacyforwhichitisissued.
+19 4 PharmacistsandPharmacies;LicensedPharmacists;RemoteProcessing. AmendRSA318:15-
+20 d,Itoreadasfollows:
+21 I. New Hampshire licensed pharmacists, licensed advanced pharmacy technicians,
+22 certified New Hampshire pharmacy technicians, or registered New Hampshire pharmacy interns
+23 may engage in remote processing, provided that all work requiring pharmacist supervision is
+24 supervisedbyalicensedpharmacistthroughelectronicorotherremotemeans.
+25 5 ControlledDrugAct;Labels. AmendRSA318-B:13,IItoreadasfollows:
+26 II. Whenever a pharmacist dispenses any controlled drug on prescription issued by a
+27 practitioner, he or she shall affix to the container in which such drug is dispensed a label showing
+28 the name, address, and registry number of the pharmacy [and name or the initials of the
+29 pharmacist]; the name of the prescribing practitioner; the prescription identification number; the
+30 nameofthepatient;thedatedispensed;anydirectionsasmaybestatedontheprescription;andthe
+SB504 -ASINTRODUCED
+-Page2-
+1 name and strength and quantity of the drug dispensed. All drugs dispensed to a patient that have
+2 been filled using a centralized prescription processing system shall bear a label containing an
+3 identifiable code that provides a complete audit trail of the dispensing of the drug and
+4 pharmaceuticalcareactivities. Nopersonshallalter,deface,orremoveanylabelsoaffixed.
+5 6 Pharmacists and Pharmacies; Definitions; Practice of Pharmacy. RSA 318:1, XIV is repealed
+6 andreenactedtoreadasfollows:
+7 XIV. "Practice of pharmacy" means the provision of patient care services by a pharmacist
+8 basedontheireducation,training,andexperience,anddeterminedbypracticesetting,includingbut
+9 notlimitedto:
+10 (a) Theinterpretationandevaluationofprescriptionorders;
+11 (b) The compounding, dispensing, labeling, administering, and distribution of drugs and
+12 devices;
+13 (c) Theselection,evaluation,andmonitoringofdruganddrug-relatedtherapies;
+14 (d) Theperformanceofdrugutilizationreviewsandmedicationtherapymanagement;
+15 (e) The participation in collaborative pharmacy practice and collaborative pharmacy
+16 practiceagreementsasdefinedinRSA318:1,XXVI-XXVII,andRSA318:16-a;
+17 (f) The prescribing, ordering, administering, and interpretation of laboratory tests,
+18 controlledandnoncontrolleddrugs,anddeviceswithinthepharmacist'sscopeofpractice;
+19 (g) The education and counseling of patients and health care professionals on the
+20 therapeuticuse,potentialhazards,andoutcomesofdrugsanddevices;
+21 (h) The maintenance of appropriate records and the safe storage and handling of drugs
+22 anddevices;and
+23 (i) Any other professional acts, services, operations, or transactions necessary to the
+24 operationandmanagementofpharmacypractice.
+25 7 PharmacyBoard;RulemakingAuthority. AmendRSA318:5-a,XVIItoreadasfollows:
+26 XVII. The education and training standards and other requirements for pharmacists who,
+27 pursuanttoprescriber-approvedprotocol,[:
+28 (a)] administer prescription medications outside the parameters of a collaborative
+29 pharmacypracticeagreement,includinginfluenzaimmunizations.
+30 [(b) Engageincollaborativepharmacypractices.]
+31 8 Licensed Pharmacists; Standards for Collaborative Pharmacy Practice. Amend RSA 318:16-a,
+32 I(c)toreadasfollows:
+33 (c) Have the knowledge base necessary for proper monitoring, including, but not limited
+34 to, associated disease states, relevant laboratory tests, adverse events, drug and food interactions,
+35 safety, and efficacy. [Depending upon the complexity of the services being provided, the pharmacist
+36 may be required to have additional credentials or training and shall demonstrate the receipt of
+37 approvalbytheboardofpharmacy.]
+SB504 -ASINTRODUCED
+-Page3-
+1 9 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B54-ASI6SEBNATretotepeofpyadtedgofcnmsb:S.R,Dt1;S.P,Dt1;R.C.M,M.2:HhadHnSsb.Astedgofuptoa3ysyofndolanbyaldhhcepllyadtopeadastoapturapsceorsnsttocnc.Astedyrsofcnlsadp.Asldadpytstoeeinrep.Rstertttapsneorisbeonalladtoaddgorpni.Astednofte"eofp.Rscnayoftebdofpywhrttoternoepypea-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B54-ASIEOFNWHnteYrofOrLdToTdTNATretotepeofpyadtedgofcnmsbeitEdbyteSeadHeofRsinGlCtc1NwP;CdDgA;DgInorPgPnD.ARA32byigarphVbtefgnwpV.Tedgofuptoa3ysyofndolarmbyaldhhcepllyadtopeadarmstopturapsceorsnsolgastefgcaaem()Tedgccmsonsfafeldptwoiaefrcnwhtepgpradtep()IedgiscdinawyctwhUdSPassaswlasalrtseadfllsorr02PsadP;DyofL.AdRA38tordasf138[]AyofL.Allsaspssl[taltsb2cyd]beryreintepyweteleiseda3s43PsadP;LeofP.AdRA39torda5f639A;D.Anfraptslbemeinshmradins7fmastebdmyd.Teptslataltsbe[dinacsp8pdintepyfrwhitisi94PsadP;LdP;ReP.AdRA30d,Itordasf1I.NwHeldp,ldadpyt2cdNwHepyt,orrdNwHepyi3myeeinrep,pdttalwkrgptsni4sdbyaldptthecororrem55CdDgA;L.AdRA3,IItordasf6I.Wraptdsaycddgonpnidby7p,heorseslaxtotecrinwhshdgisddalls8ten,a,adrynroftepy[dneorteisoft9p;teneoftepgp;tepninn;t0neoftep;teded;aydsasmybesdontep;adt]
+[DELETED: B54-ASIPe2neadshadqyoftedgd.Aldsddtoapttthbnfdugacdpnpgsmslbrallcgaiecettpsaceattloftedgoftedgaplcea.Nopnsla,d,orreayllsoa6PsadP;D;PeofP.RA3,XVisradrdtordasfX."eofp"mstepnofptcessbyapbdontre,t,ade,adddbypes,igbntldt0()Teinadenofpno1()Tec,d,l,a,addnofdsa2d3()Tes,e,admgofdgadddt4()Tepeofdgunrsadmntym5()Tepnincepypeadcep6peasasddinRA3,XI-X,adRA37()Tep,o,a,adinoflyt8cdadndd,addswntepsseofp9()Teenadcgofpsadhhcepsont0tcu,plh,adosofdsadd1()Temeofaersadteseseadhgofd2add;a3()Ayorpla,s,o,ortsnytot4onadmtofpyp57PyB;RgA.AdRA3,XItordasf6X.Teenadtgssadorrsfrpsw7pttopdp8(]arpnmsoetepsofac9pypea,igiai0[)Eeincepyp18LdP;SsfrCePyP.AdRA32I)tordasf3()Hetekebenyfrprm,i,btntl4t,addes,rtlyt,aee,dgadfdi5s,ade.[guntecyoftessbgp,tep6myberdtohealcsortgadsldeterto7albytebdofp]
+[DELETED: B54-ASIPe39EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB504 -ASINTRODUCED
+2026SESSION
+26-2100
+09/05
+504
+SENATEBILL
+ANACT relative to the practice of pharmacy and the dispensing of certain medications by
+pharmacists.
+SPONSORS: Sen.Rochefort,Dist1;Sen.Pearl,Dist17;Rep.C.McGuire,Merr.27
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Authorizes the dispensing of up to a 30-day supply of noncontrolled oral anti-cancer
+medication by a licensed health care professional legally authorized to prescribe and administer
+medicationstoapatientunderaprovider'scareorsupervisionsubjecttocertainconditions.
+II. Amendsthedisplayrequirementsofcertainlicensesandpermits.
+III. Authorizeslicensedadvancedpharmacytechnicianstoengageinremoteprocessing.
+IV. Removes the requirement that a pharmacist's name or initials be on a label affixed to any
+controlleddrugorprescriptionissued.
+V. Amendsthedefinitionofthe"practiceofpharmacy."
+VI. Removes certain authority of the board of pharmacy with respect to the regulation of
+collaborativepharmacypracticeagreements.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB504-ASINTRODUCED
+26-2100
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the practice of pharmacy and the dispensing of certain medications by
+pharmacists.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Controlled Drug Act; Dealing In or Possessing Prescription Drugs. Amend
+2 RSA318:42byinsertingafterparagraphVII-bthefollowingnewparagraph:
+3 VII-c. The dispensing of up to a 30-day supply of noncontrolled oral anti-cancer medication
+4 byalicensedhealthcareprofessionallegallyauthorizedtoprescribeandadministermedicationstoa
+5 patientunderaprovider'scareorsupervisionsolongasthefollowingcriteriaaremet:
+6 (a) The dispensing clinic maintains on staff a full-time licensed pharmacist who is
+7 availableforconsultationwiththeprescribingproviderandthepatient.
+8 (b) In-office dispensing is conducted in a way consistent with United States
+9 Pharmacopeiastandardsaswellasallrelevantstateandfederallawsorrules.
+10 2 PharmacistsandPharmacies;DisplayofLicenses. AmendRSA318:28toreadasfollows:
+11 318:28 [Display] Availability of Licenses. All licenses as pharmacists shall [at all times be
+12 conspicuously displayed] be readily retrievable in the pharmacy where the licensee is engaged as
+13 such.
+14 3 Pharmacists and Pharmacies; Licensure of Pharmacies. Amend RSA 318:39 to read as
+15 follows:
+16 318:39 Application;Display. Applicationforapermitshallbemadeinsuchmannerandinsuch
+17 form as the board may determine. The permit shall at all times be [exposed in a conspicuous place]
+18 postedinthepharmacyforwhichitisissued.
+19 4 PharmacistsandPharmacies;LicensedPharmacists;RemoteProcessing. AmendRSA318:15-
+20 d,Itoreadasfollows:
+21 I. New Hampshire licensed pharmacists, licensed advanced pharmacy technicians,
+22 certified New Hampshire pharmacy technicians, or registered New Hampshire pharmacy interns
+23 may engage in remote processing, provided that all work requiring pharmacist supervision is
+24 supervisedbyalicensedpharmacistthroughelectronicorotherremotemeans.
+25 5 ControlledDrugAct;Labels. AmendRSA318-B:13,IItoreadasfollows:
+26 II. Whenever a pharmacist dispenses any controlled drug on prescription issued by a
+27 practitioner, he or she shall affix to the container in which such drug is dispensed a label showing
+28 the name, address, and registry number of the pharmacy [and name or the initials of the
+29 pharmacist]; the name of the prescribing practitioner; the prescription identification number; the
+30 nameofthepatient;thedatedispensed;anydirectionsasmaybestatedontheprescription;andthe
+
+SB504 -ASINTRODUCED
+-Page2-
+1 name and strength and quantity of the drug dispensed. All drugs dispensed to a patient that have
+2 been filled using a centralized prescription processing system shall bear a label containing an
+3 identifiable code that provides a complete audit trail of the dispensing of the drug and
+4 pharmaceuticalcareactivities. Nopersonshallalter,deface,orremoveanylabelsoaffixed.
+5 6 Pharmacists and Pharmacies; Definitions; Practice of Pharmacy. RSA 318:1, XIV is repealed
+6 andreenactedtoreadasfollows:
+7 XIV. "Practice of pharmacy" means the provision of patient care services by a pharmacist
+8 basedontheireducation,training,andexperience,anddeterminedbypracticesetting,includingbut
+9 notlimitedto:
+10 (a) Theinterpretationandevaluationofprescriptionorders;
+11 (b) The compounding, dispensing, labeling, administering, and distribution of drugs and
+12 devices;
+13 (c) Theselection,evaluation,andmonitoringofdruganddrug-relatedtherapies;
+14 (d) Theperformanceofdrugutilizationreviewsandmedicationtherapymanagement;
+15 (e) The participation in collaborative pharmacy practice and collaborative pharmacy
+16 practiceagreementsasdefinedinRSA318:1,XXVI-XXVII,andRSA318:16-a;
+17 (f) The prescribing, ordering, administering, and interpretation of laboratory tests,
+18 controlledandnoncontrolleddrugs,anddeviceswithinthepharmacist'sscopeofpractice;
+19 (g) The education and counseling of patients and health care professionals on the
+20 therapeuticuse,potentialhazards,andoutcomesofdrugsanddevices;
+21 (h) The maintenance of appropriate records and the safe storage and handling of drugs
+22 anddevices;and
+23 (i) Any other professional acts, services, operations, or transactions necessary to the
+24 operationandmanagementofpharmacypractice.
+25 7 PharmacyBoard;RulemakingAuthority. AmendRSA318:5-a,XVIItoreadasfollows:
+26 XVII. The education and training standards and other requirements for pharmacists who,
+27 pursuanttoprescriber-approvedprotocol,[:
+28 (a)] administer prescription medications outside the parameters of a collaborative
+29 pharmacypracticeagreement,includinginfluenzaimmunizations.
+30 [(b) Engageincollaborativepharmacypractices.]
+31 8 Licensed Pharmacists; Standards for Collaborative Pharmacy Practice. Amend RSA 318:16-a,
+32 I(c)toreadasfollows:
+33 (c) Have the knowledge base necessary for proper monitoring, including, but not limited
+34 to, associated disease states, relevant laboratory tests, adverse events, drug and food interactions,
+35 safety, and efficacy. [Depending upon the complexity of the services being provided, the pharmacist
+36 may be required to have additional credentials or training and shall demonstrate the receipt of
+37 approvalbytheboardofpharmacy.]
+
+SB504 -ASINTRODUCED
+-Page3-
+1 9 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B54-ASI6SEBNATretotepeofpyadtedgofcnmsb:S.R,Dt1;S.P,Dt1;R.C.M,M.2:HhadHnSsb.Astedgofuptoa3ysyofndolanbyaldhhcepllyadtopeadastoapturapsceorsnsttocnc.Astedyrsofcnlsadp.Asldadpytstoeeinrep.Rstertttapsneorisbeonalladtoaddgorpni.Astednofte"eofp.Rscnayoftebdofpywhrttoternoepypea-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B54-ASIEOFNWHnteYrofOrLdToTdTNATretotepeofpyadtedgofcnmsbeitEdbyteSeadHeofRsinGlCtc1NwP;CdDgA;DgInorPgPnD.ARA32byigarphVbtefgnwpV.Tedgofuptoa3ysyofndolarmbyaldhhcepllyadtopeadarmstopturapsceorsnsolgastefgcaaem()Tedgccmsonsfafeldptwoiaefrcnwhtepgpradtep()IedgiscdinawyctwhUdSPassaswlasalrtseadfllsorr02PsadP;DyofL.AdRA38tordasf138[]AyofL.Allsaspssl[taltsb2cyd]beryreintepyweteleiseda3s43PsadP;LeofP.AdRA39torda5f639A;D.Anfraptslbemeinshmradins7fmastebdmyd.Teptslataltsbe[dinacsp8pdintepyfrwhitisi94PsadP;LdP;ReP.AdRA30d,Itordasf1I.NwHeldp,ldadpyt2cdNwHepyt,orrdNwHepyi3myeeinrep,pdttalwkrgptsni4sdbyaldptthecororrem55CdDgA;L.AdRA3,IItordasf6I.Wraptdsaycddgonpnidby7p,heorseslaxtotecrinwhshdgisddalls8ten,a,adrynroftepy[dneorteisoft9p;teneoftepgp;tepninn;t0neoftep;teded;aydsasmybesdontep;adt]
+[DELETED: B54-ASIPe2neadshadqyoftedgd.Aldsddtoapttthbnfdugacdpnpgsmslbrallcgaiecettpsaceattloftedgoftedgaplcea.Nopnsla,d,orreayllsoa6PsadP;D;PeofP.RA3,XVisradrdtordasfX."eofp"mstepnofptcessbyapbdontre,t,ade,adddbypes,igbntldt0()Teinadenofpno1()Tec,d,l,a,addnofdsa2d3()Tes,e,admgofdgadddt4()Tepeofdgunrsadmntym5()Tepnincepypeadcep6peasasddinRA3,XI-X,adRA37()Tep,o,a,adinoflyt8cdadndd,addswntepsseofp9()Teenadcgofpsadhhcepsont0tcu,plh,adosofdsadd1()Temeofaersadteseseadhgofd2add;a3()Ayorpla,s,o,ortsnytot4onadmtofpyp57PyB;RgA.AdRA3,XItordasf6X.Teenadtgssadorrsfrpsw7pttopdp8(]arpnmsoetepsofac9pypea,igiai0[)Eeincepyp18LdP;SsfrCePyP.AdRA32I)tordasf3()Hetekebenyfrprm,i,btntl4t,addes,rtlyt,aee,dgadfdi5s,ade.[guntecyoftessbgp,tep6myberdtohealcsortgadsldeterto7albytebdofp]
+[DELETED: B54-ASIPe39EeD.Tsatslteet60dsarisp]

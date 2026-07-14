@@ -1,0 +1,167 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB556-FN-ASINTRODUCED
+2026SESSION
+26-2142
+08/09
+556-FN
+ANACT including syringes and similar medical devices in the definition of special waste
+for purposes of solid waste management and making the disposal of such special
+wasteafelony.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Lang, Dist 2; Sen. Pearl, Dist 17; Sen. Innis, Dist 7;
+Sen.Birdsell,Dist19;Sen.Abbas,Dist22
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill includes syringes and similar medical devices in the definition of special waste for
+purposesofsolidwastemanagementandmakesimproperdisposalofsuchafelony.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB556-FN-ASINTRODUCED
+26-2142
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT including syringes and similar medical devices in the definition of special waste
+for purposes of solid waste management and making the disposal of such special
+wasteafelony.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Special Waste; Syringes and Medical Waste Included. Amend RSA 149-M:4, XXV to read as
+2 follows:
+3 XXV. "Special waste" means any matter consisting of medical or infectious wastes
+4 including used and unused syringes and similar medical devices that may or may not be
+5 contaminatedfrombodilyfluids.
+6 2 New Paragraph; Penalties for Improper Disposal of Special Waste. Amend RSA 149-M:15 by
+7 insertingafterparagraphVIIIthefollowingnewparagraph:
+8 IX. Notwithstanding the other provisions of this section, improper disposal of special waste
+9 shallbeaclassBfelonyifanaturalpersonorafelonyifanyotherperson.
+10 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2142
+11/18/25
+SB556-FN-FISCALNOTE
+ASINTRODUCED
+ANACT including syringes and similar medical devices in the definition of special waste
+for purposes of solid waste management and making the disposal of such special
+wasteafelony.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B5N-ASI6SEBNATigssadsrmldsintednofslwrpsofsdwemtadmgtedlofshseaf:S.M,Dt1;S.L,Dt2;S.P,Dt1;S.I,Dt7.B,Dt1;S.A,Dt2:Jsblisssadsrmldsintednofslwefsofsdwemtadmsirdlofshaf-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATigssadsrmldsintednofslwrpsofsdwemtadmgtedlofshseafeitEdbyteSeadHeofRsinGlCtc1SlW;SsadMlWeI.AdRA1,XVtordafX."lw"msaymrcgofmloriswigudadudssadsrmldsttmyormyntbcdfmbyf2NwP;PsfrIrDlofSlW.AdRA15bigarphVItefgnwpI.Ngteorpsoftss,irdlofslwslbeacsBfyifanlpnorafyifayorp03EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATigssadsrmldsintednofslwrpsofsdwemtadmgtedlofshseafLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB556-FN-ASINTRODUCED
+2026SESSION
+26-2142
+08/09
+556-FN
+SENATEBILL
+ANACT including syringes and similar medical devices in the definition of special waste
+for purposes of solid waste management and making the disposal of such special
+wasteafelony.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Lang, Dist 2; Sen. Pearl, Dist 17; Sen. Innis, Dist 7;
+Sen.Birdsell,Dist19;Sen.Abbas,Dist22
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill includes syringes and similar medical devices in the definition of special waste for
+purposesofsolidwastemanagementandmakesimproperdisposalofsuchafelony.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB556-FN-ASINTRODUCED
+26-2142
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT including syringes and similar medical devices in the definition of special waste
+for purposes of solid waste management and making the disposal of such special
+wasteafelony.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Special Waste; Syringes and Medical Waste Included. Amend RSA 149-M:4, XXV to read as
+2 follows:
+3 XXV. "Special waste" means any matter consisting of medical or infectious wastes
+4 including used and unused syringes and similar medical devices that may or may not be
+5 contaminatedfrombodilyfluids.
+6 2 New Paragraph; Penalties for Improper Disposal of Special Waste. Amend RSA 149-M:15 by
+7 insertingafterparagraphVIIIthefollowingnewparagraph:
+8 IX. Notwithstanding the other provisions of this section, improper disposal of special waste
+9 shallbeaclassBfelonyifanaturalpersonorafelonyifanyotherperson.
+10 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2142
+11/18/25
+SB556-FN-FISCALNOTE
+ASINTRODUCED
+ANACT including syringes and similar medical devices in the definition of special waste
+for purposes of solid waste management and making the disposal of such special
+wasteafelony.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B5N-ASI6SEBNATigssadsrmldsintednofslwrpsofsdwemtadmgtedlofshseaf:S.M,Dt1;S.L,Dt2;S.P,Dt1;S.I,Dt7.B,Dt1;S.A,Dt2:Jsblisssadsrmldsintednofslwefsofsdwemtadmsirdlofshaf-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATigssadsrmldsintednofslwrpsofsdwemtadmgtedlofshseafeitEdbyteSeadHeofRsinGlCtc1SlW;SsadMlWeI.AdRA1,XVtordafX."lw"msaymrcgofmloriswigudadudssadsrmldsttmyormyntbcdfmbyf2NwP;PsfrIrDlofSlW.AdRA15bigarphVItefgnwpI.Ngteorpsoftss,irdlofslwslbeacsBfyifanlpnorafyifayorp03EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATigssadsrmldsintednofslwrpsofsdwemtadmgtedlofshseafLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

@@ -1,0 +1,108 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB572 -ASINTRODUCED
+2026SESSION
+26-2073
+09/05
+572
+ANACT relativetoNewHampshirehospitalrealestate.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts the sale of the Anna Philbrook Center for Children from the requirements of a
+statuteregardingtherealestateofNewHampshirehospital.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB572-ASINTRODUCED
+26-2073
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoNewHampshirehospitalrealestate.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Anna Philbrook Center for Children; Sale of Property. Amend 2025, 141:317 to read as
+2 follows:
+3 141:317 Anna Philbrook Center for Children; Sale of Property. The department of health and
+4 human services shall develop a transition plan to vacate the Anna Philbrook Center for Children
+5 that ensures services to current clients residing there are not interrupted. Prior to finalizing the
+6 transition plan, the department of health and human services shall work with the current provider
+7 and consider reasonable alternatives that are consistent with the department’s “mission zero”
+8 initiative. Uponcompletionofthetransitionplan,thecommissionerofthedepartmentofhealthand
+9 human services shall send formal notice to the department of administrative services that the
+10 transition plan is finalized. Notwithstanding RSA 10, RSA 4:39-a, and RSA 4:40, the commissioner
+11 of the department of administrative services, following the completion of the transition plan, shall
+12 offer for sale at fair market value the Anna Philbrook Center for Children property located at 105
+13 Pleasant Street, Concord, New Hampshire. The property shall be offered first to the city of Concord
+14 and then to Merrimack County. If neither the city nor county accept the offer by January 1, 2026,
+15 thecommissioner of the department of administrative services shall issue a request for proposals for
+16 the sale of the Concord property at no less than the fair market value, such sale to be completed no
+17 later than June 30, 2027. The commissioner of the department of administrative services shall
+18 submit quarterly reports on the progress of the sale to the fiscal committee of the general court. All
+19 proceedsfromthesaleshallbedepositedintothegeneralfund.
+20 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+[DELETED: B52-ASI6SEBNATretoNwHehlrle:S.R,Dt1:EeDsadAsblesteseofteAaPkCrfrCnfmtersofergterleeofNwHeh-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B52-ASIEOFNWHnteYrofOrLdToTdTNATretoNwHehlrleeitEdbyteSeadHeofRsinGlCtc1AaPkCrfrC;SeofP.Ad2,17tordaf17AaPkCrfrC;SeofP.TedtofhhahnsssldpatnpntoveteAaPkCrfrCttessstoctcsrgteaenti.Prtofgttnp,tedtofhhadhnssslwkwhtectpadcrreasttaectwhteds“nzi.Uncnoftetnp,tecroftedtofhhahnssslsdflnetotedtofaessttt0tnpnisf.NgRA1,RA4,adRA4,tec1oftedtofaes,fgtecnoftetnp,s2orfrseatfrmtveteAaPkCrfrCnpyldat13PtS,C,NwH.TepyslbeodfttotecyofC4adtntoMkC.IfnrtecynrcyatteorbyJy1,25tecroftedtofaessslieartfrpsf6teseofteCdpyatnolstntefrmtv,shsetobecdn7lrtnJe3,2.Tecroftedtofaesss8stqyrsontepsoftesetoteflceofteglc.A9psfmteseslbeddioteglf02EeD.Tsatslteetunisp]
+
+
+================================================================================
+
+Raw Text:
+SB572 -ASINTRODUCED
+2026SESSION
+26-2073
+09/05
+572
+SENATEBILL
+ANACT relativetoNewHampshirehospitalrealestate.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill exempts the sale of the Anna Philbrook Center for Children from the requirements of a
+statuteregardingtherealestateofNewHampshirehospital.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB572-ASINTRODUCED
+26-2073
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoNewHampshirehospitalrealestate.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Anna Philbrook Center for Children; Sale of Property. Amend 2025, 141:317 to read as
+2 follows:
+3 141:317 Anna Philbrook Center for Children; Sale of Property. The department of health and
+4 human services shall develop a transition plan to vacate the Anna Philbrook Center for Children
+5 that ensures services to current clients residing there are not interrupted. Prior to finalizing the
+6 transition plan, the department of health and human services shall work with the current provider
+7 and consider reasonable alternatives that are consistent with the department’s “mission zero”
+8 initiative. Uponcompletionofthetransitionplan,thecommissionerofthedepartmentofhealthand
+9 human services shall send formal notice to the department of administrative services that the
+10 transition plan is finalized. Notwithstanding RSA 10, RSA 4:39-a, and RSA 4:40, the commissioner
+11 of the department of administrative services, following the completion of the transition plan, shall
+12 offer for sale at fair market value the Anna Philbrook Center for Children property located at 105
+13 Pleasant Street, Concord, New Hampshire. The property shall be offered first to the city of Concord
+14 and then to Merrimack County. If neither the city nor county accept the offer by January 1, 2026,
+15 thecommissioner of the department of administrative services shall issue a request for proposals for
+16 the sale of the Concord property at no less than the fair market value, such sale to be completed no
+17 later than June 30, 2027. The commissioner of the department of administrative services shall
+18 submit quarterly reports on the progress of the sale to the fiscal committee of the general court. All
+19 proceedsfromthesaleshallbedepositedintothegeneralfund.
+20 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+[DELETED: B52-ASI6SEBNATretoNwHehlrle:S.R,Dt1:EeDsadAsblesteseofteAaPkCrfrCnfmtersofergterleeofNwHeh-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B52-ASIEOFNWHnteYrofOrLdToTdTNATretoNwHehlrleeitEdbyteSeadHeofRsinGlCtc1AaPkCrfrC;SeofP.Ad2,17tordaf17AaPkCrfrC;SeofP.TedtofhhahnsssldpatnpntoveteAaPkCrfrCttessstoctcsrgteaenti.Prtofgttnp,tedtofhhadhnssslwkwhtectpadcrreasttaectwhteds“nzi.Uncnoftetnp,tecroftedtofhhahnssslsdflnetotedtofaessttt0tnpnisf.NgRA1,RA4,adRA4,tec1oftedtofaes,fgtecnoftetnp,s2orfrseatfrmtveteAaPkCrfrCnpyldat13PtS,C,NwH.TepyslbeodfttotecyofC4adtntoMkC.IfnrtecynrcyatteorbyJy1,25tecroftedtofaessslieartfrpsf6teseofteCdpyatnolstntefrmtv,shsetobecdn7lrtnJe3,2.Tecroftedtofaesss8stqyrsontepsoftesetoteflceofteglc.A9psfmteseslbeddioteglf02EeD.Tsatslteetunisp]

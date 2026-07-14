@@ -1,0 +1,92 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB437 -ASINTRODUCED
+2026SESSION
+26-2241
+08/07
+437
+ANACT makingalineonthereturnthatenumeratesthenumberofpeoplewhoattempted
+to register to vote but were denied registration due to lack of required
+documentation.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Fenton, Dist 10; Sen. Rosenwald, Dist 13; Sen.
+Watters, Dist 4; Sen. Long, Dist 20; Sen. Lang, Dist 2; Sen. Altschiller, Dist 24;
+Rep.Lane,Merr.16;Rep.Telerski,Hills.11;Rep.Simpson,Rock.33
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes a line on the return that enumerates the number of people who attempted to
+registertovotebutweredeniedregistrationduetolackofrequireddocumentation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB437-ASINTRODUCED
+26-2241
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT makingalineonthereturnthatenumeratesthenumberofpeoplewhoattempted
+to register to vote but were denied registration due to lack of required
+documentation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; General Content of Return. Amend RSA 659:73, III by inserting after
+2 subparagraph(i)thefollowingnewsubparagraph:
+3 (j) Thenumberofpeoplewhoattemptedtoregisterbutweredeniedregistrationduetoa
+4 lack of required documentation, and, if possible, whether the voter was unable to prove age,
+5 citizenship,domicileoridentity.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B47-ASI6SEBNATmgaleonternttestenrofpewoaorrtovebtweddrndetolkofr:S.PsK,Dt2;S.F,Dt1;S.R,Dt1;S,Dt4;S.L,Dt2;S.L,Dt2;S.A,Dt2.L,M.1;R.T,H.1;R.S,R.3:EnLwadMlAsblmsaleonternttestenrofpewoadtrtovebtweddrndetolkofrdd-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B47-ASIEOFNWHnteYrofOrLdToTdTNATmgaleonternttestenrofpewoaorrtovebtweddrndetolkofreitEdbyteSeadHeofRsinGlCtc1NwS;GlCtofR.AdRA6,IIbyigash()tefgnws()Tenrofpewoadtorrbtweddrndetolkofrdd,a,ifp,wrtevrwsuetopeac,deori2EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB437 -ASINTRODUCED
+2026SESSION
+26-2241
+08/07
+437
+SENATEBILL
+ANACT makingalineonthereturnthatenumeratesthenumberofpeoplewhoattempted
+to register to vote but were denied registration due to lack of required
+documentation.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Fenton, Dist 10; Sen. Rosenwald, Dist 13; Sen.
+Watters, Dist 4; Sen. Long, Dist 20; Sen. Lang, Dist 2; Sen. Altschiller, Dist 24;
+Rep.Lane,Merr.16;Rep.Telerski,Hills.11;Rep.Simpson,Rock.33
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill makes a line on the return that enumerates the number of people who attempted to
+registertovotebutweredeniedregistrationduetolackofrequireddocumentation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB437-ASINTRODUCED
+26-2241
+08/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT makingalineonthereturnthatenumeratesthenumberofpeoplewhoattempted
+to register to vote but were denied registration due to lack of required
+documentation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; General Content of Return. Amend RSA 659:73, III by inserting after
+2 subparagraph(i)thefollowingnewsubparagraph:
+3 (j) Thenumberofpeoplewhoattemptedtoregisterbutweredeniedregistrationduetoa
+4 lack of required documentation, and, if possible, whether the voter was unable to prove age,
+5 citizenship,domicileoridentity.
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B47-ASI6SEBNATmgaleonternttestenrofpewoaorrtovebtweddrndetolkofr:S.PsK,Dt2;S.F,Dt1;S.R,Dt1;S,Dt4;S.L,Dt2;S.L,Dt2;S.A,Dt2.L,M.1;R.T,H.1;R.S,R.3:EnLwadMlAsblmsaleonternttestenrofpewoadtrtovebtweddrndetolkofrdd-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B47-ASIEOFNWHnteYrofOrLdToTdTNATmgaleonternttestenrofpewoaorrtovebtweddrndetolkofreitEdbyteSeadHeofRsinGlCtc1NwS;GlCtofR.AdRA6,IIbyigash()tefgnws()Tenrofpewoadtorrbtweddrndetolkofrdd,a,ifp,wrtevrwsuetopeac,deori2EeD.Tsatslteet60dsarisp]

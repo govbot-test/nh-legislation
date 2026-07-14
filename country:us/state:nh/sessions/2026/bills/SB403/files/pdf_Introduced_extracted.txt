@@ -1,0 +1,82 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB403 -ASINTRODUCED
+2026SESSION
+26-2007
+12/09
+403
+ANACT requiringallschoolstostarttheschoolyearafterLaborDay.
+SPONSORS: Sen. Gannon, Dist 23; Sen. McGough, Dist 11; Sen. Lang, Dist 2; Sen. Murphy,
+Dist 16; Sen. Pearl, Dist 17; Rep. Litchfield, Rock. 32; Rep. L. Walsh, Rock. 15;
+Rep.Mandelbaum,Rock.21;Rep.Bridle,Rock.29
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that all schools in New Hampshire begin the school year no earlier than the
+dayafterLaborDay.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB403-ASINTRODUCED
+26-2007
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringallschoolstostarttheschoolyearafterLaborDay.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;StartofSchoolYear. AmendRSA189byinsertingaftersection1-ethefollowing
+2 newsection:
+3 189:1-f Start of School Year. No school board shall permit a school to begin its school year prior
+4 tothedayafterLaborDay,asdefinedinRSA288:1.
+5 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B43-ASI6SEBNATrgalsstostteslyrarLrD:S.G,Dt2;S.M,Dt1;S.L,Dt2;S.Mt1;S.P,Dt1;R.L,R.3;R.L.W,R.1.M,R.2;R.B,R.2:EsblrsttalssinNwHebnteslyrnoertntyarLrD-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B43-ASIEOFNWHnteYrofOrLdToTdTNATrgalsstostteslyrarLrDeitEdbyteSeadHeofRsinGlCtc1NwS;StofSlY.AdRA19byigarsn1etefnws1fStofSlY.NoslbdslptasltobnisslyrptotedyarLrD,asddinRA22EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB403 -ASINTRODUCED
+2026SESSION
+26-2007
+12/09
+403
+SENATEBILL
+ANACT requiringallschoolstostarttheschoolyearafterLaborDay.
+SPONSORS: Sen. Gannon, Dist 23; Sen. McGough, Dist 11; Sen. Lang, Dist 2; Sen. Murphy,
+Dist 16; Sen. Pearl, Dist 17; Rep. Litchfield, Rock. 32; Rep. L. Walsh, Rock. 15;
+Rep.Mandelbaum,Rock.21;Rep.Bridle,Rock.29
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that all schools in New Hampshire begin the school year no earlier than the
+dayafterLaborDay.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB403-ASINTRODUCED
+26-2007
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringallschoolstostarttheschoolyearafterLaborDay.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;StartofSchoolYear. AmendRSA189byinsertingaftersection1-ethefollowing
+2 newsection:
+3 189:1-f Start of School Year. No school board shall permit a school to begin its school year prior
+4 tothedayafterLaborDay,asdefinedinRSA288:1.
+5 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B43-ASI6SEBNATrgalsstostteslyrarLrD:S.G,Dt2;S.M,Dt1;S.L,Dt2;S.Mt1;S.P,Dt1;R.L,R.3;R.L.W,R.1.M,R.2;R.B,R.2:EsblrsttalssinNwHebnteslyrnoertntyarLrD-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B43-ASIEOFNWHnteYrofOrLdToTdTNATrgalsstostteslyrarLrDeitEdbyteSeadHeofRsinGlCtc1NwS;StofSlY.AdRA19byigarsn1etefnws1fStofSlY.NoslbdslptasltobnisslyrptotedyarLrD,asddinRA22EeD.TsatslteetJy1,2]

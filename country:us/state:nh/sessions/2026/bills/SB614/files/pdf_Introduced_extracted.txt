@@ -1,0 +1,315 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB614-FN-ASINTRODUCED
+2026SESSION
+26-2226
+12/09
+614-FN
+ANACT establishing pooled risk management programs for the benefit of child care
+centersandfosterfamilyhomes.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Perkins Kwoka, Dist 21; Sen.
+Altschiller, Dist 24; Rep. Kuttab, Rock. 17; Rep. L. Walsh, Rock. 15; Rep. Post,
+Hills.42
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates pooled risk management programs relative to insurance costs for child care
+centers and foster family homes. The bill also directs the department of the state to ensure
+standardsaremetfortheestablishmentofeachliabilitypool.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB614-FN-ASINTRODUCED
+26-2226
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing pooled risk management programs for the benefit of child care
+centersandfosterfamilyhomes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Child and Foster Care Pooled Risk Management Programs. Amend RSA by
+2 insertingafterchapter5-Dthefollowingnewchapter:
+3 CHAPTER5-E
+4 CHILDANDFOSTERCAREPOOLEDRISKMANAGEMENTPROGRAMS
+5 5-E:1 Purpose. The purpose of this chapter is to provide for the establishment of pooled risk
+6 management programs and to affirm the status of such programs established for the benefit of child
+7 care centers and foster family homes in the state. The legislature finds and determines that
+8 insurance and risk management is essential to the proper functioning of child care centers and the
+9 foster care system; that risk management canbe achieved through purchase of traditional insurance
+10 or by participation in pooled risk management programs established for the benefit of child care
+11 centers and foster family homes; that the resources of child care centers and foster family homes are
+12 presently burdened by the securing of insurance protection through standard carriers; and that
+13 pooled risk management programs which meet the standards established by this chapter should not
+14 besubjecttoinsuranceregulationandtaxationbythestate.
+15 5-E:2 Definitions. Inthischapter:
+16 I. "Department"meansdepartmentofstate.
+17 II. "Child care center" shall have thesamemeaningas "child daycareagency", as defined in
+18 RSA170-E:2,IV.
+19 III. "Fosterfamilyhome"shallhavethesamemeaningasdefinedinRSA170-E:25,II(b).
+20 IV. "Riskmanagement"shallhavethesamemeaningasdefinedinRSA5-B:2,IV.
+21 5-E:3 EstablishmentofPools;Coverage;Membership.
+22 I. A child care center or foster family home liability pool shall be created when 10 or more
+23 child-care facilities or foster family homes or a combination thereof agree in writing to participate in
+24 the pool. Agreements made pursuant to this paragraph may provide for pooling of self-insurance
+25 reserves, risks, claims and losses, and of administrative services and expenses associated with them
+26 amongchildcentercentersorfosterfamilyhomes.
+27 II. A child care center or foster family home liability pool may provide any or all of the
+28 followingcoverages:
+SB614-FN-ASINTRODUCED
+-Page2-
+1 (a) Casualty, including general and professional liability; errors and omissions; workers’
+2 compensation and employer’s liability; medical payments; or unemployment compensation as
+3 authorizedunderfederallaw.
+4 (b) Property, including marine and inland navigation; transportation; boiler and
+5 machinery;fire;theft;ornaturalhazards.
+6 III. A child care center or foster family home is entitled to coverage from the pool if the
+7 center:
+8 (a) Submitsacompleteapplication;
+9 (b) Providesotherinformationrequiredbythepool;
+10 (c) Meetstheunderwritingstandardsestablishedbythepool;and
+11 (d) Paysthepremiumsrequiredforthecoverage.
+12 5-E:4 InformationalFilingRequired;AuthorityofSecretaryofState.
+13 I. Pooled risk management programs established for the benefit of child care centers or
+14 foster family homes shall make an informational filing, as defined in RSA 5-B:2, II, and subject to
+15 theprovisionsofthatstatute.
+16 II. Notwithstanding any other provision of law, the secretary of state shall have the same
+17 authorityovertheNewHampshirechildcarecenterandfosterfamilyhomeliabilitypoolasprovided
+18 forbyRSA5-B:4-a.
+19 5-E:5 StandardsofOrganizationandOperation.
+20 I. Eachpooled risk management program shall meet thefollowingstandards of organization
+21 andoperation. Eachprogramshall:
+22 (a) ExistasalegalentityorganizedunderNewHampshirelaw.
+23 (b) Operate as initially provided by in a plan of operation agreed to by the principals,
+24 subject to the provision that the principals shall each nominate a representative to serve on the
+25 board of directors. Amendments to the plan of operation may be made by the board after
+26 appointment by the principals. Board members shall not receive compensation but may be
+27 reimbursedformileageandotherreasonableexpenses.
+28 (c) Return all earnings and surplus in excess of any amounts required for
+29 administration, claims, reserves, and purchase of excess insurance to the participating child care
+30 facilitiesorfosterfamilyhomes.
+31 (d) Provide for an annual audit of financial transactions by an independent certified
+32 public accountant. The audit shall be filed with the department and distributed to participants of
+33 eachpooledriskmanagementprogram.
+34 (e) Be governed by written bylaws which shall detail the terms of eligibility for
+35 participation by child care facilities or foster family homes, the governance of the program and other
+36 matters necessary to the program's operation. Bylaws and any subsequent amendments shall be
+37 filedwiththedepartment.
+SB614-FN-ASINTRODUCED
+-Page3-
+1 (f) Provide for an annual actuarial evaluation of the pooled risk management program.
+2 The evaluation shall assess the adequacy of contributions required to fund any such program and
+3 the reserves necessary to be maintained to meet expenses of all incurred and incurred but not
+4 reported claims and other projected needs of the plan. The annual actuarial evaluation shall be
+5 performed by a member of the American Academy of Actuaries qualified in the coverage area being
+6 evaluated, shall be filed with the department, and shall be distributed to participants of each pooled
+7 riskmanagementprogram.
+8 (g) Provide notice to all participants of and conduct meetings for the purpose of advising
+9 of potential rate increases, the reasons for projected rate increases, and to solicit comments from
+10 members regarding the return of surplus, at least 10 days prior to rate setting for each calendar
+11 year.
+12 II. If a pooled risk management program fails to provide for an annual audit or an annual
+13 actuarial evaluation, the department shall perform or cause to be performed the required audit or
+14 evaluationandshallbereimbursedthecostbytheprogram.
+15 5-E:6 DeclarationofStatus;TaxExemption;Liability.
+16 I. Any pooled risk management program meeting the standards required under this chapter
+17 is not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+18 administration of any activities of the plan shall not constitute doing an insurance business for
+19 purposesofregulationortaxation.
+20 II. Any such program operating under this chapter, whether or not a body corporate, may
+21 sue or be sued; make contracts; hold and dispose of real property; and borrow money, contract debts,
+22 andpledgeassetsinitsname.
+23 III. Participation by a child care center or foster family home in a pooled risk management
+24 program formed and affirmed under this chapter shall not subject any such child care center or
+25 foster family home to any liability to any third party for the acts or omissions of the pooled risk
+26 management program or any other child care center or foster family home participating in the
+27 program.
+28 5-E:7 Confidentiality of Certain Claims Information. Notwithstanding any provision of law to
+29 thecontrary,anyinformationofanypooledriskmanagementprogramformedoraffirmedunderthis
+30 chapter pertainingtoclaims analysis or claims management shall beprivileged and confidential and
+31 notsubjecttodisclosuretoanythirdparty.
+32 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2226
+Revised12/4/25
+SB614-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing pooled risk management programs for the benefit of child care
+centersandfosterfamilyhomes.
+FISCALIMPACT:
+The Secretary of State’s Office is currently unable to determine the fiscal impact or identify
+specific staffing needs. A fiscal note worksheet will be submitted once clarification is received
+fromthelegislatureduringthehearingprocess.
+AGENCIESCONTACTED:
+DepartmentofState
+[DELETED: B6N-ASI6SEBNATegpdrkmtpsfrtebtofcdcsadfrfyh:S.R,Dt9;S.W,Dt4;S.PsK,Dt2;S,Dt2;R.K,R.1;R.L.W,R.1;R.P.4:HhadHnSsblcspdrkmtpsretoiecsfrcdcsadfrfyh.Teblaodstedtoftesetoesaemtfrteetofehlyp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATegpdrkmtpsfrtebtofcdcsadfrfyheitEdbyteSeadHeofRsinGlCtc1NwC;CdadFrCePdRkMtP.AdRAbigarcr5DtefgnwcCR5CDADFRCEPDRKMTP51P.Tepeoftscristopefrteetofpdrmtpsadtoamtessofshpsedfrtebtofccecsadfrfyhsintes.Telefsaddstieadrkmtiseltoteprfgofcdcecsadtfrces;ttrkmtcnbeadthpeoftli0orbypninpdrkmtpsedfrtebtofcdc1csadfrfyh;tttersofcdcecsadfrfyhsa2pybdbytesgofiepnthsdc;adt3pdrkmtpswhmttessedbytscrsdn4besttoiernadtnbytes552D.Intsc6I.""msdtofs7I."dcec"slhetesemgas"ddycea,asddi8RA1,I9I."rfyh"slhetesemgasddinRA1,I0I."km"slhetesemgasddinRA5,I153EtofP;C;M2I.Acdcecrorfrfyhelyplslbecdwn10orm3cefsorfrfyhsoracntfaeinwgtopei4tep.Asmepttotsphmypefrpgofs5r,r,csadl,adofaessadesadwht6agcdcrcsorfrfyh7I.Acdcecrorfrfyhelyplmypeayoraloft8fgc]
+[DELETED: B6N-ASIPe2()C,iggladpll;esado;wcnadesl;mlp;orutcnaadurfll()P,igmeadidn;t;bram;f;t;ornlhI.Acdcecrorfrfyheisedtocefmtepliftc()Ssacea()Psorinrdbytep0()Msteugssedbytep;a1()Pstepsrdfrtec254IlFgR;AyofSyofS3I.Pdrkmtpsedfrtebtofcdcecso4frfyhsslmeanilf,asddinRA5,I,adstt5tepsoftts6I.Ngayorpnofl,tesyofseslhetes7ayorteNwHecdcecradfrfyhelyplasp8frbyRA5955SsofOnadO0I.Ehpdrkmtpmslmttefgssofo1ado.Ehpms2()EtasalleyodurNwHel3()Oeasiypdbyinapnofonadtobytep4sttotepntttepsslehnearetoseont5bdofd.Astotepnofonmybemebytebda6atbytep.Bdmsslntrecnbtmyb7rdfrmeadorree8()Rnalesadssinesofayasrdf9a,c,r,adpeofesietotepgcdc0fsorfrfyh1()Pefranalatoffltsbyanitc2pca.Teatslbefdwhtedtadddtopso3ehpdrkmtp4()Begdbywnbswhsldltetsofeyf5pnbycdcefsorfrfyh,tegeoftepmado6msnytotepso.Bsadaystasslb7fdwhted]
+[DELETED: B6N-ASIPe3()PefranalalenoftepdrkmtpTeenslasteayofcsrdtofdayshpmatersnytobemdtomtesofalidadidbtnrdcsadorpdnsoftep.TealalenslbpdbyamrofteAnAyofAsqdinteceaabe,slbefdwhted,adslbeddtopsofehprkmtp()Penetoalpsofadctmsfrtepeofaofplrei,tersfrpdrei,adtostcsf0msrgternofs,atlt10dsprtoresgfrehc1y2I.Ifapdrkmtpmfstopefranalatorana3ale,tedtslpmorcetobepdterdato4enadslberdtectbytep556DnofS;TxE;L6I.Aypdrkmtpmmgtessrdurtsc7isntaniec,rli,orirurtelsoftss,a8anofayasoftepnslntcedganiebsf9psofrnort0I.Ayshpmogurtsc,wrorntabyc,m1seorbes;mec;hdaddeofrlp;adbwm,ctd2adpeasinisn3I.Pnbyacdcecrorfrfyheinapdrkm4pmfdadadurtscrslntstayshcdcecro5frfyhetoaylytoaytdpyfrteasorosoftepdr6mtpmorayorcdcecrorfrfyhepgint7p857CyofCnCsI.Ngaypnoflwt9tec,ayinofaypdrkmtpmfdoradurt0crpgtocsasorcsmtslbepdadcla1ntsttodetoaytdp22EeD.Tsatslteet60dsarisp]
+[DELETED: d1B6-FLNSINATegpdrkmtpsfrtebtofcdcsadfrfyhLIeSyofSsOeiscyuetodeteflitoricsgn.AflnewtwlbesdoecnisrmteledgtehgpSCtofS]
+
+
+================================================================================
+
+Raw Text:
+SB614-FN-ASINTRODUCED
+2026SESSION
+26-2226
+12/09
+614-FN
+SENATEBILL
+ANACT establishing pooled risk management programs for the benefit of child care
+centersandfosterfamilyhomes.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Perkins Kwoka, Dist 21; Sen.
+Altschiller, Dist 24; Rep. Kuttab, Rock. 17; Rep. L. Walsh, Rock. 15; Rep. Post,
+Hills.42
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill creates pooled risk management programs relative to insurance costs for child care
+centers and foster family homes. The bill also directs the department of the state to ensure
+standardsaremetfortheestablishmentofeachliabilitypool.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB614-FN-ASINTRODUCED
+26-2226
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing pooled risk management programs for the benefit of child care
+centersandfosterfamilyhomes.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Child and Foster Care Pooled Risk Management Programs. Amend RSA by
+2 insertingafterchapter5-Dthefollowingnewchapter:
+3 CHAPTER5-E
+4 CHILDANDFOSTERCAREPOOLEDRISKMANAGEMENTPROGRAMS
+5 5-E:1 Purpose. The purpose of this chapter is to provide for the establishment of pooled risk
+6 management programs and to affirm the status of such programs established for the benefit of child
+7 care centers and foster family homes in the state. The legislature finds and determines that
+8 insurance and risk management is essential to the proper functioning of child care centers and the
+9 foster care system; that risk management canbe achieved through purchase of traditional insurance
+10 or by participation in pooled risk management programs established for the benefit of child care
+11 centers and foster family homes; that the resources of child care centers and foster family homes are
+12 presently burdened by the securing of insurance protection through standard carriers; and that
+13 pooled risk management programs which meet the standards established by this chapter should not
+14 besubjecttoinsuranceregulationandtaxationbythestate.
+15 5-E:2 Definitions. Inthischapter:
+16 I. "Department"meansdepartmentofstate.
+17 II. "Child care center" shall have thesamemeaningas "child daycareagency", as defined in
+18 RSA170-E:2,IV.
+19 III. "Fosterfamilyhome"shallhavethesamemeaningasdefinedinRSA170-E:25,II(b).
+20 IV. "Riskmanagement"shallhavethesamemeaningasdefinedinRSA5-B:2,IV.
+21 5-E:3 EstablishmentofPools;Coverage;Membership.
+22 I. A child care center or foster family home liability pool shall be created when 10 or more
+23 child-care facilities or foster family homes or a combination thereof agree in writing to participate in
+24 the pool. Agreements made pursuant to this paragraph may provide for pooling of self-insurance
+25 reserves, risks, claims and losses, and of administrative services and expenses associated with them
+26 amongchildcentercentersorfosterfamilyhomes.
+27 II. A child care center or foster family home liability pool may provide any or all of the
+28 followingcoverages:
+
+SB614-FN-ASINTRODUCED
+-Page2-
+1 (a) Casualty, including general and professional liability; errors and omissions; workers’
+2 compensation and employer’s liability; medical payments; or unemployment compensation as
+3 authorizedunderfederallaw.
+4 (b) Property, including marine and inland navigation; transportation; boiler and
+5 machinery;fire;theft;ornaturalhazards.
+6 III. A child care center or foster family home is entitled to coverage from the pool if the
+7 center:
+8 (a) Submitsacompleteapplication;
+9 (b) Providesotherinformationrequiredbythepool;
+10 (c) Meetstheunderwritingstandardsestablishedbythepool;and
+11 (d) Paysthepremiumsrequiredforthecoverage.
+12 5-E:4 InformationalFilingRequired;AuthorityofSecretaryofState.
+13 I. Pooled risk management programs established for the benefit of child care centers or
+14 foster family homes shall make an informational filing, as defined in RSA 5-B:2, II, and subject to
+15 theprovisionsofthatstatute.
+16 II. Notwithstanding any other provision of law, the secretary of state shall have the same
+17 authorityovertheNewHampshirechildcarecenterandfosterfamilyhomeliabilitypoolasprovided
+18 forbyRSA5-B:4-a.
+19 5-E:5 StandardsofOrganizationandOperation.
+20 I. Eachpooled risk management program shall meet thefollowingstandards of organization
+21 andoperation. Eachprogramshall:
+22 (a) ExistasalegalentityorganizedunderNewHampshirelaw.
+23 (b) Operate as initially provided by in a plan of operation agreed to by the principals,
+24 subject to the provision that the principals shall each nominate a representative to serve on the
+25 board of directors. Amendments to the plan of operation may be made by the board after
+26 appointment by the principals. Board members shall not receive compensation but may be
+27 reimbursedformileageandotherreasonableexpenses.
+28 (c) Return all earnings and surplus in excess of any amounts required for
+29 administration, claims, reserves, and purchase of excess insurance to the participating child care
+30 facilitiesorfosterfamilyhomes.
+31 (d) Provide for an annual audit of financial transactions by an independent certified
+32 public accountant. The audit shall be filed with the department and distributed to participants of
+33 eachpooledriskmanagementprogram.
+34 (e) Be governed by written bylaws which shall detail the terms of eligibility for
+35 participation by child care facilities or foster family homes, the governance of the program and other
+36 matters necessary to the program's operation. Bylaws and any subsequent amendments shall be
+37 filedwiththedepartment.
+
+SB614-FN-ASINTRODUCED
+-Page3-
+1 (f) Provide for an annual actuarial evaluation of the pooled risk management program.
+2 The evaluation shall assess the adequacy of contributions required to fund any such program and
+3 the reserves necessary to be maintained to meet expenses of all incurred and incurred but not
+4 reported claims and other projected needs of the plan. The annual actuarial evaluation shall be
+5 performed by a member of the American Academy of Actuaries qualified in the coverage area being
+6 evaluated, shall be filed with the department, and shall be distributed to participants of each pooled
+7 riskmanagementprogram.
+8 (g) Provide notice to all participants of and conduct meetings for the purpose of advising
+9 of potential rate increases, the reasons for projected rate increases, and to solicit comments from
+10 members regarding the return of surplus, at least 10 days prior to rate setting for each calendar
+11 year.
+12 II. If a pooled risk management program fails to provide for an annual audit or an annual
+13 actuarial evaluation, the department shall perform or cause to be performed the required audit or
+14 evaluationandshallbereimbursedthecostbytheprogram.
+15 5-E:6 DeclarationofStatus;TaxExemption;Liability.
+16 I. Any pooled risk management program meeting the standards required under this chapter
+17 is not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+18 administration of any activities of the plan shall not constitute doing an insurance business for
+19 purposesofregulationortaxation.
+20 II. Any such program operating under this chapter, whether or not a body corporate, may
+21 sue or be sued; make contracts; hold and dispose of real property; and borrow money, contract debts,
+22 andpledgeassetsinitsname.
+23 III. Participation by a child care center or foster family home in a pooled risk management
+24 program formed and affirmed under this chapter shall not subject any such child care center or
+25 foster family home to any liability to any third party for the acts or omissions of the pooled risk
+26 management program or any other child care center or foster family home participating in the
+27 program.
+28 5-E:7 Confidentiality of Certain Claims Information. Notwithstanding any provision of law to
+29 thecontrary,anyinformationofanypooledriskmanagementprogramformedoraffirmedunderthis
+30 chapter pertainingtoclaims analysis or claims management shall beprivileged and confidential and
+31 notsubjecttodisclosuretoanythirdparty.
+32 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2226
+Revised12/4/25
+SB614-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishing pooled risk management programs for the benefit of child care
+centersandfosterfamilyhomes.
+FISCALIMPACT:
+The Secretary of State’s Office is currently unable to determine the fiscal impact or identify
+specific staffing needs. A fiscal note worksheet will be submitted once clarification is received
+fromthelegislatureduringthehearingprocess.
+AGENCIESCONTACTED:
+DepartmentofState
+
+[DELETED: B6N-ASI6SEBNATegpdrkmtpsfrtebtofcdcsadfrfyh:S.R,Dt9;S.W,Dt4;S.PsK,Dt2;S,Dt2;R.K,R.1;R.L.W,R.1;R.P.4:HhadHnSsblcspdrkmtpsretoiecsfrcdcsadfrfyh.Teblaodstedtoftesetoesaemtfrteetofehlyp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATegpdrkmtpsfrtebtofcdcsadfrfyheitEdbyteSeadHeofRsinGlCtc1NwC;CdadFrCePdRkMtP.AdRAbigarcr5DtefgnwcCR5CDADFRCEPDRKMTP51P.Tepeoftscristopefrteetofpdrmtpsadtoamtessofshpsedfrtebtofccecsadfrfyhsintes.Telefsaddstieadrkmtiseltoteprfgofcdcecsadtfrces;ttrkmtcnbeadthpeoftli0orbypninpdrkmtpsedfrtebtofcdc1csadfrfyh;tttersofcdcecsadfrfyhsa2pybdbytesgofiepnthsdc;adt3pdrkmtpswhmttessedbytscrsdn4besttoiernadtnbytes552D.Intsc6I.""msdtofs7I."dcec"slhetesemgas"ddycea,asddi8RA1,I9I."rfyh"slhetesemgasddinRA1,I0I."km"slhetesemgasddinRA5,I153EtofP;C;M2I.Acdcecrorfrfyhelyplslbecdwn10orm3cefsorfrfyhsoracntfaeinwgtopei4tep.Asmepttotsphmypefrpgofs5r,r,csadl,adofaessadesadwht6agcdcrcsorfrfyh7I.Acdcecrorfrfyhelyplmypeayoraloft8fgc]
+[DELETED: B6N-ASIPe2()C,iggladpll;esado;wcnadesl;mlp;orutcnaadurfll()P,igmeadidn;t;bram;f;t;ornlhI.Acdcecrorfrfyheisedtocefmtepliftc()Ssacea()Psorinrdbytep0()Msteugssedbytep;a1()Pstepsrdfrtec254IlFgR;AyofSyofS3I.Pdrkmtpsedfrtebtofcdcecso4frfyhsslmeanilf,asddinRA5,I,adstt5tepsoftts6I.Ngayorpnofl,tesyofseslhetes7ayorteNwHecdcecradfrfyhelyplasp8frbyRA5955SsofOnadO0I.Ehpdrkmtpmslmttefgssofo1ado.Ehpms2()EtasalleyodurNwHel3()Oeasiypdbyinapnofonadtobytep4sttotepntttepsslehnearetoseont5bdofd.Astotepnofonmybemebytebda6atbytep.Bdmsslntrecnbtmyb7rdfrmeadorree8()Rnalesadssinesofayasrdf9a,c,r,adpeofesietotepgcdc0fsorfrfyh1()Pefranalatoffltsbyanitc2pca.Teatslbefdwhtedtadddtopso3ehpdrkmtp4()Begdbywnbswhsldltetsofeyf5pnbycdcefsorfrfyh,tegeoftepmado6msnytotepso.Bsadaystasslb7fdwhted]
+[DELETED: B6N-ASIPe3()PefranalalenoftepdrkmtpTeenslasteayofcsrdtofdayshpmatersnytobemdtomtesofalidadidbtnrdcsadorpdnsoftep.TealalenslbpdbyamrofteAnAyofAsqdinteceaabe,slbefdwhted,adslbeddtopsofehprkmtp()Penetoalpsofadctmsfrtepeofaofplrei,tersfrpdrei,adtostcsf0msrgternofs,atlt10dsprtoresgfrehc1y2I.Ifapdrkmtpmfstopefranalatorana3ale,tedtslpmorcetobepdterdato4enadslberdtectbytep556DnofS;TxE;L6I.Aypdrkmtpmmgtessrdurtsc7isntaniec,rli,orirurtelsoftss,a8anofayasoftepnslntcedganiebsf9psofrnort0I.Ayshpmogurtsc,wrorntabyc,m1seorbes;mec;hdaddeofrlp;adbwm,ctd2adpeasinisn3I.Pnbyacdcecrorfrfyheinapdrkm4pmfdadadurtscrslntstayshcdcecro5frfyhetoaylytoaytdpyfrteasorosoftepdr6mtpmorayorcdcecrorfrfyhepgint7p857CyofCnCsI.Ngaypnoflwt9tec,ayinofaypdrkmtpmfdoradurt0crpgtocsasorcsmtslbepdadcla1ntsttodetoaytdp22EeD.Tsatslteet60dsarisp]
+[DELETED: d1B6-FLNSINATegpdrkmtpsfrtebtofcdcsadfrfyhLIeSyofSsOeiscyuetodeteflitoricsgn.AflnewtwlbesdoecnisrmteledgtehgpSCtofS]

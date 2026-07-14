@@ -1,0 +1,176 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB605-FN-ASINTRODUCED
+2026SESSION
+26-2267
+07/08
+605-FN
+ANACT relativetospecialassessmentrequestsfrompooledriskmanagementprograms.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Watters, Dist 4; Sen. Rosenwald, Dist 13; Sen.
+Altschiller,Dist24
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows political subdivisions 36 months from the date of an invoice to comply with
+specialassessmentrequestsfrompooledriskmanagementprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB605-FN-ASINTRODUCED
+26-2267
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetospecialassessmentrequestsfrompooledriskmanagementprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraphs; The State and Its Government; Pooled Risk Management Programs;
+2 Standards of Organization and Operation. Amend RSA 5-B:5, I by inserting after subparagraph (g)
+3 thefollowingnewsubparagraphs:
+4 (h) Nothing in this paragraph shall be construed to mean that special assessments be
+5 requiredbystatute.
+6 (i) If a pooled risk management program's agreement, contractual provisions, or bylaws
+7 indicate the right to levy special assessments, political subdivisions shall be assessed at such
+8 amounts over the course of 36 months from the date of the invoice for a special assessment request
+9 fromapooledriskmanagementprogram,withequalamountsassessedineachperiod.
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2267
+Revised2/4/26
+SB605-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetospecialassessmentrequestsfrompooledriskmanagementprograms.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease$100,000+
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+This bill provides political subdivisions with a payment period when a pooled risk management
+programissuesaninvoiceforaspecialassessmentratherthanimmediatepayment.
+The Department of State indicates that this bill would permit delayed assessment payments,
+jeopardizing the financial stability of a risk pool already facing fiscal challenges. Such delays
+couldleadtothepool’sinsolvency,resultinginunpaidclaimsthatwouldbedeniedandshiftedto
+political subdivisions, or in the case of medical coverage, to active or retired employees.
+Furthermore, insolvency would compel the Secretary of State to incur additional costs for legal,
+actuarial,andaccountingservices,estimatedataminimumof$100,000.
+The New Hampshire Municipal Association states that the fiscal impact of the 36-month
+deadline to comply with special assessment requests from pooled risk management programs is
+indeterminable because there is no definition of "special assessment" and it is unclear if the
+amountduewouldbewhatwasoriginallyassessedorifthatamountwouldincludeinterest.
+TheNewHampshireAssociationofCountiesstatesthiswillhavenoimpactoncounties.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+Department of State, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+[DELETED: B6N-ASI6SEBNATretoslatrsfmpdrkmtp:S.PsK,Dt2;S.W,Dt4;S.R,Dt1;S,Dt2:Fsblasplss36msfmtedeofanietocywlatrsfmpdrkmtp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretoslatrsfmpdrkmtpeitEdbyteSeadHeofRsinGlCtc1NwS;TeSeadIsG;PdRkMtPSsofOnadO.AdRA5,Ibyigarsh(tefgnws()Ngintsphslbecdtomnttslasbrdbys()Ifapdrkmtpsa,clp,orbieterttolysla,plssslbeadatsasorteceof36msfmtedeofteiefraslatrfmapdrkmtp,whelasadinehp02EeD.Tsatslteet60dsarisp]
+[DELETED: d2B6-FLNSINATretoslatrsfmpdrkmtpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIe$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0IeIsblpsplsswhaptpdwnapdrkmmisaniefraslatrrtniepeDtofSeistttsblwdptddatpgteflsyofarkplayfgflc.Shddldtotepsi,rginudcsttwdbeddadsdtls,orinteceofmlc,toaeorrde,iywdclteSyofSetoiralcsfrl,adags,edatammof$eNwHeMlAnssttteflitofte3etocywhslatrsfmpdrkmtpsi]
+[DELETED: ebeteisnodnof"la"aditisurifttdewdbewtwsoyadorifttatwdieieNwHeAnofCssstswlhenoitonctisadttayflitwdorarFY2SCtofS,NwHeAnofC,adNwHeM]
+
+
+================================================================================
+
+Raw Text:
+SB605-FN-ASINTRODUCED
+2026SESSION
+26-2267
+07/08
+605-FN
+SENATEBILL
+ANACT relativetospecialassessmentrequestsfrompooledriskmanagementprograms.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Watters, Dist 4; Sen. Rosenwald, Dist 13; Sen.
+Altschiller,Dist24
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill allows political subdivisions 36 months from the date of an invoice to comply with
+specialassessmentrequestsfrompooledriskmanagementprograms.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB605-FN-ASINTRODUCED
+26-2267
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetospecialassessmentrequestsfrompooledriskmanagementprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraphs; The State and Its Government; Pooled Risk Management Programs;
+2 Standards of Organization and Operation. Amend RSA 5-B:5, I by inserting after subparagraph (g)
+3 thefollowingnewsubparagraphs:
+4 (h) Nothing in this paragraph shall be construed to mean that special assessments be
+5 requiredbystatute.
+6 (i) If a pooled risk management program's agreement, contractual provisions, or bylaws
+7 indicate the right to levy special assessments, political subdivisions shall be assessed at such
+8 amounts over the course of 36 months from the date of the invoice for a special assessment request
+9 fromapooledriskmanagementprogram,withequalamountsassessedineachperiod.
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2267
+Revised2/4/26
+SB605-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetospecialassessmentrequestsfrompooledriskmanagementprograms.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease$100,000+
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+This bill provides political subdivisions with a payment period when a pooled risk management
+programissuesaninvoiceforaspecialassessmentratherthanimmediatepayment.
+The Department of State indicates that this bill would permit delayed assessment payments,
+jeopardizing the financial stability of a risk pool already facing fiscal challenges. Such delays
+couldleadtothepool’sinsolvency,resultinginunpaidclaimsthatwouldbedeniedandshiftedto
+political subdivisions, or in the case of medical coverage, to active or retired employees.
+Furthermore, insolvency would compel the Secretary of State to incur additional costs for legal,
+actuarial,andaccountingservices,estimatedataminimumof$100,000.
+The New Hampshire Municipal Association states that the fiscal impact of the 36-month
+deadline to comply with special assessment requests from pooled risk management programs is
+
+indeterminable because there is no definition of "special assessment" and it is unclear if the
+amountduewouldbewhatwasoriginallyassessedorifthatamountwouldincludeinterest.
+TheNewHampshireAssociationofCountiesstatesthiswillhavenoimpactoncounties.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+Department of State, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+
+[DELETED: B6N-ASI6SEBNATretoslatrsfmpdrkmtp:S.PsK,Dt2;S.W,Dt4;S.R,Dt1;S,Dt2:Fsblasplss36msfmtedeofanietocywlatrsfmpdrkmtp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretoslatrsfmpdrkmtpeitEdbyteSeadHeofRsinGlCtc1NwS;TeSeadIsG;PdRkMtPSsofOnadO.AdRA5,Ibyigarsh(tefgnws()Ngintsphslbecdtomnttslasbrdbys()Ifapdrkmtpsa,clp,orbieterttolysla,plssslbeadatsasorteceof36msfmtedeofteiefraslatrfmapdrkmtp,whelasadinehp02EeD.Tsatslteet60dsarisp]
+[DELETED: d2B6-FLNSINATretoslatrsfmpdrkmtpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIe$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0IeIsblpsplsswhaptpdwnapdrkmmisaniefraslatrrtniepeDtofSeistttsblwdptddatpgteflsyofarkplayfgflc.Shddldtotepsi,rginudcsttwdbeddadsdtls,orinteceofmlc,toaeorrde,iywdclteSyofSetoiralcsfrl,adags,edatammof$eNwHeMlAnssttteflitofte3etocywhslatrsfmpdrkmtpsi]
+[DELETED: ebeteisnodnof"la"aditisurifttdewdbewtwsoyadorifttatwdieieNwHeAnofCssstswlhenoitonctisadttayflitwdorarFY2SCtofS,NwHeAnofC,adNwHeM]

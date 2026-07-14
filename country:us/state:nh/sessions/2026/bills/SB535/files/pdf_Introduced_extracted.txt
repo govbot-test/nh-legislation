@@ -1,0 +1,104 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB535 -ASINTRODUCED
+2026SESSION
+26-2150
+08/06
+535
+ANACT defining residential breeder and imported animal for the purposes of animal
+transfers.
+SPONSORS: Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Lang, Dist 2; Sen. Watters, Dist 4;
+Sen. Innis, Dist 7; Sen. Rosenwald, Dist 13; Sen. Abbas, Dist 22; Sen. Rochefort,
+Dist 1; Rep. J. Aron, Sull. 4; Rep. Bixby, Straf. 13; Rep. Moffett, Merr. 4; Rep.
+Aures,Merr.13;Rep.Wood,Merr.13
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilldefinesresidentialbreederandimportedanimalforthepurposesofanimaltransfers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB535-ASINTRODUCED
+26-2150
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT defining residential breeder and imported animal for the purposes of animal
+transfers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Definitions. Amend RSA 437:1 by inserting after paragraph V the following
+2 newparagraphs:
+3 VI. "Residential breeder" means an individual who owns and breeds dogs or cats within
+4 their primary residence and not in a separate breeding facility. A residential breeder's operations
+5 shall be integrated intotheir home environment and shall transfer no morethan50 dogs and/or cats
+6 with or without a fee or donation, between January 1 and December 31 of any calendar year A
+7 residential breeder shall raise the litters in the household setting by maintaining the animals as
+8 part of the family environment. A residential breeder shall not import animals for transfer with or
+9 withoutafee.
+10 VII. "Importedanimal"meanstheoffspringofanyanimalwhichwasimportedintothestate
+11 while pregnant. Notwithstanding any other provision of this chapter, any animal imported prior to
+12 birth shall be considered to have met the requirements for importation if the pregnant female has
+13 mettherequirementsforimportation.
+14 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B55-ASI6SEBNATdgrlbradidalfrtepsofa:S.P,Dt1;S.A,Dt1;S.L,Dt2;S.W,Dt4.I,Dt7;S.R,Dt1;S.A,Dt2;S.Rt1;R.J.A,S.4;R.B,S.1;R.M,M.4;R,M.1;R.W,M.1:EyadNlRsbldsrlbradidalfrtepsofalt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B55-ASIEOFNWHnteYrofOrLdToTdTNATdgrlbradidalfrtepsofaeitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA41byigarphVtefnwpV."lb"msanilwoosadbsdsorcswtrpyreadntinasebgf.Arlbsoslbeidiotrheetadsltrnometn50dsarcwhorwtafeord,bnJy1adDr31ofaycryrrlbrslretelsintehdsgbymgteasaptoftefye.Arlbrslntitasfrtrwhowtaf0V."da"msteogofayalwhwsidiotes1wep.Ngayorpnoftsc,ayalidprt2bhslbecdtohemttersfrinifteptfeh3mttersfri42EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB535 -ASINTRODUCED
+2026SESSION
+26-2150
+08/06
+535
+SENATEBILL
+ANACT defining residential breeder and imported animal for the purposes of animal
+transfers.
+SPONSORS: Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Lang, Dist 2; Sen. Watters, Dist 4;
+Sen. Innis, Dist 7; Sen. Rosenwald, Dist 13; Sen. Abbas, Dist 22; Sen. Rochefort,
+Dist 1; Rep. J. Aron, Sull. 4; Rep. Bixby, Straf. 13; Rep. Moffett, Merr. 4; Rep.
+Aures,Merr.13;Rep.Wood,Merr.13
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilldefinesresidentialbreederandimportedanimalforthepurposesofanimaltransfers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB535-ASINTRODUCED
+26-2150
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT defining residential breeder and imported animal for the purposes of animal
+transfers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Definitions. Amend RSA 437:1 by inserting after paragraph V the following
+2 newparagraphs:
+3 VI. "Residential breeder" means an individual who owns and breeds dogs or cats within
+4 their primary residence and not in a separate breeding facility. A residential breeder's operations
+5 shall be integrated intotheir home environment and shall transfer no morethan50 dogs and/or cats
+6 with or without a fee or donation, between January 1 and December 31 of any calendar year A
+7 residential breeder shall raise the litters in the household setting by maintaining the animals as
+8 part of the family environment. A residential breeder shall not import animals for transfer with or
+9 withoutafee.
+10 VII. "Importedanimal"meanstheoffspringofanyanimalwhichwasimportedintothestate
+11 while pregnant. Notwithstanding any other provision of this chapter, any animal imported prior to
+12 birth shall be considered to have met the requirements for importation if the pregnant female has
+13 mettherequirementsforimportation.
+14 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B55-ASI6SEBNATdgrlbradidalfrtepsofa:S.P,Dt1;S.A,Dt1;S.L,Dt2;S.W,Dt4.I,Dt7;S.R,Dt1;S.A,Dt2;S.Rt1;R.J.A,S.4;R.B,S.1;R.M,M.4;R,M.1;R.W,M.1:EyadNlRsbldsrlbradidalfrtepsofalt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B55-ASIEOFNWHnteYrofOrLdToTdTNATdgrlbradidalfrtepsofaeitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA41byigarphVtefnwpV."lb"msanilwoosadbsdsorcswtrpyreadntinasebgf.Arlbsoslbeidiotrheetadsltrnometn50dsarcwhorwtafeord,bnJy1adDr31ofaycryrrlbrslretelsintehdsgbymgteasaptoftefye.Arlbrslntitasfrtrwhowtaf0V."da"msteogofayalwhwsidiotes1wep.Ngayorpnoftsc,ayalidprt2bhslbecdtohemttersfrinifteptfeh3mttersfri42EeD.Tsatslteet60dsarisp]

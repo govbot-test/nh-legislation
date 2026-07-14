@@ -1,0 +1,260 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB491-FN-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0379s
+7May2026...1707h
+2026SESSION
+26-2056
+07/08
+491-FN
+ANACT enabling students to utilize education freedom account funds to pay for certain
+career and technical education funding and removing references to "curriculum
+frameworks" as they relate to the substantive educational content of an adequate
+education.
+SPONSORS: Sen. Watters, Dist 4; Sen. Lang, Dist 2; Sen. McGough, Dist 11; Sen. Sullivan,
+Dist 18; Sen. Avard, Dist 12; Sen. Long, Dist 20; Sen. McConkey, Dist 3; Sen.
+Pearl,Dist17
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill enables students to utilize education freedom account funds to pay for certain career
+and technical education funding and removes references to "curriculum frameworks" as they relate
+tothesubstantiveeducationalcontentofanadequateeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB491-FN-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0379s
+7May2026...1707h 26-2056
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling students to utilize education freedom account funds to pay for certain
+career and technical education funding and removing references to "curriculum
+frameworks" as they relate to the substantive educational content of an adequate
+education.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Regional Career and Technical Education (CTE); Costs for Students Attending
+2 CareerandTechnicalEducationPrograms. AmendRSA188-E:6,IVtoreadasfollows:
+3 IV. [In consultation with the house and senate committees responsible for education policy
+4 and financial matters, the state board] The department of education shall, in rules adopted
+5 pursuant to RSA 541-A, develop a formula for determining separately the tuition and
+6 transportation costs for approved career technical education programs and procedures for
+7 disbursementoffunds.
+8 2 New Paragraph; Education; Regional Career and Technical Education (CTE); Payment of
+9 Tuition and Transportation Funds. Amend RSA 188-E:9 by inserting after paragraph IV the
+10 followingnewparagraph:
+11 V. Thedepartmentofeducationshallestablishseparatefundsfortuitionandtransportation
+12 and determine the cost for each on an annual basis in accordance with the provisions of RSA 188:E-
+13 6,IVand188-E:9,II-III.
+14 3 New Paragraph; Education; Education Freedom Accounts; Authority and Responsibilities of
+15 the Scholarship Organization. Amend RSA 194-F:4 by inserting after paragraph XVII the following
+16 newparagraph:
+17 XVIII. The scholarship organization, in cooperation with the department of education, shall
+18 make available to EFA students in grades 9-12 information about enrolling in career and technical
+19 educationclassesandprograms.
+20 4 Adequate Public Education; Substantive Educational Content of an Adequate Education.
+21 AmendRSA193-E:2-a,VandVItoreadasfollows:
+22 V.(a) The general court requires every 10 years the state board of education and the
+23 department of education to institute procedures for maintaining, updating, improving, and refining
+24 the minimum standards for public school approval and the [curriculum frameworks] academic
+25 standards for each area of education identified in paragraph I. Each school district shall be
+26 responsible for maintaining, updating, improving, and refining curriculum. The curriculum shall
+27 present educational goals, broad pedagogical approaches, and strategies for assisting students in the
+28 development of the skills, competencies, and knowledge called for by the minimum standards for
+SB491-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 public school approval and academic standards for each area of education identified in paragraph I.
+2 [The curriculum frameworks shall serve as a guide and reference to what New Hampshire students
+3 should know and be able to do in each area of education identified in paragraph I. Curriculum
+4 frameworks do not establish a statewide curriculum.] It is the responsibility of local teachers,
+5 administrators, and school boards to identify and implement approaches best suited for the students
+6 in their communities to acquire the skills and knowledge included in the curriculum, to determine
+7 the scope, organization, and sequence of course offerings, and to choose the methods of instruction,
+8 theactivities,andthematerialstobeused.
+9 (b) Thestateboardofeducationshalladoptrules,pursuanttoRSA541-A,relativetothe
+10 approvalofalternativeprogramsforgrantingcreditleadingtograduation.
+11 VI. Inthissection:
+12 (a) "Minimum standards for public school approval" mean the applicable criteria that
+13 public schools and public academies shall meet in order to be an approved school, as adopted by the
+14 stateboardofeducationthroughadministrativerules.
+15 (b) "Academic standards" means what a student should know and be able to do in a
+16 course,program,orateachgradelevel.
+17 (c) "Curriculum" means the lessons and academic content taught in school or in a
+18 specificcourseorprogram.
+19 [(d) "Curriculum framework" means an organized plan of study that serves as a guide
+20 and reference to what New Hampshire students should know and be able to do in a learning area
+21 and identifies the academic standards aligned with each learning area pursuant to RSA 193-E:2-a,
+22 I(a).]
+23 [(e)] (d) "Applied learning" means an educational approach whereby students have the
+24 opportunitytodirectlyengageinlearningactivitiesusingknowledgeandskills.
+25 [(f)] (e) "Logic" means a reasoning skill that better enables a student to analyze
+26 problems in learning areas such as mathematics and to develop problem solutions; to better
+27 understand the principle of cause and effect; and to develop critical thinking skills to better identify
+28 factfromunverifiedinformationordata.
+29 [(g)](f) "Rhetoric"means theskillof speakingandwritingas ameans of communication
+30 orpersuasion.
+31 5 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+LBA
+26-2056
+05/18/2026
+SB491-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1707h)
+ANACT enabling students to utilize education freedom account funds to pay for certain
+career and technical education funding and removing references to "curriculum
+frameworks" as they relate to the substantive educational content of an adequate
+education.
+FISCALIMPACT:
+This bill requires the Department of Education to establish formulas and separate funds for
+career and technical education (CTE) tuition and transportation costs, and to determine those
+costs annually. This would be accomplished presumably through administrative rulemaking.
+This bill also requires that Education Freedom Account (EFA) students in grades 9 through 12
+beprovidedinformationaboutenrollinginCTEprograms.
+This bill also removes references to "curriculum frameworks" as they relate to the substantive
+educationalcontentofanadequateeducation.
+Thisbillisnotexpectedtohaveafiscalimpact.
+AGENCIESCONTACTED:
+DepartmentofEducation
+[DELETED: B4N-VNADBYBHB60.16SEBNATegsstoueenfmatfstopyfrcradtlenfgadrgrsto""astyretoteseelctofana:S.W,Dt4;S.L,Dt2;S.M,Dt1;S.St1;S.A,Dt1;S.L,Dt2;S.M,Dt3;S,Dt1:EnFDAsblessstoueenfmatfstopyfrcncdtlenfgadrsrsto"mf"astyroteseelctofanaee-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-VNADBYBHB60.1h2EOFNWHnteYrofOrLdToTdTNATegsstoueenfmatfstopyfrcradtlenfgadrgrsto""astyretoteseelctofanaeitEdbyteSeadHeofRsinGlCtc1E;RlCradTlEn(;CsfrSsACradTlEnP.AdRA1,IVtordasfI.[ncnwhteheadsecsrefrenpadflm,teseb]Tedtofens,inrsapttoRA5,dpafafrdgsytetnatncsfradcrtlenpsadpsfdtoff2NwP;E;RlCradTlEn(;PtoTnadTnF.AdRA19byigarphIVt0fgnwp1V.Tedtofenslehsefsfrtnadt2addetectfrehonanalbsinaewhtepsofRA136,IVad1,I43NwP;E;EnFmA;AyadRso5teSpO.AdRA14byigarphXItef6nwp7X.Tespo,incnwhtedtofe,s8meaetoEAssings92inategincradt9encsadp04AePcE;SeElCtofanAeE1AdRA1,VadVItordasf2V)Teglctrsey10ystesebdofenadt3dtofentoiepsfrm,u,i,adr4temmssfrpcslaladte[mf]a5ssfrehaaofenidinphI.Ehsldtslb6refrm,u,i,adrgc.Tecms7ptelg,bdpla,adssfragssint8dtoftes,c,adkecdfrbytemmssf]
+[DELETED: B4N-VNADBYBHBPe2pcslaladacssfrehaaofenidinphI[ecmfsslseasageadretowtNwHessdkwadbeaetodoinehaaofenidinphI.Cfsdontehasec]Itisteryofllta,adslbstoiyaditasbtsdfrtesintrcstoaetessadkeidintec,todtes,o,adseofceo,adtocetemsofitea,adtemstobeu()Tesebdofenslatr,pttoRA5,retot0alofaepsfrggctlgtog1V.Intss2()"mssfrpcsla"mnteaecat3pcssadpcasslmtinortobeanads,asadbyt4sebdofenthaer5()"cs"mswtastsdkwadbeaetodoin6c,p,oratehgel7()""mstelsadacctttinslorin8scceorp9[)"mf"msanodpnofsyttssasag0adretowtNwHesssdkwadbeaetodoinalga1adisteacssadwhehlgaapttoRA12I3[]()"dl"msanelahwysshet4oytodyeeinlgasugkeads5[]()""msargslttbresasttoa6psinlgasshasmsadtodppms;tob7udtepeofceade;adtodpcltgsstobri8ftfmudinord9[]()""msteslofsgadwgasamsofc0orp15EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSADBYTEHE(T#NATegsstoueenfmatfstopyfrcradtlenfgadrgrsto""astyretoteseelctofanaLIsblrsteDtofEntoehfsadsefsfradtlen()tnadtnc,adtodetsa. swdbeadpythaersblaorsttEnFmAt()ssings9th1epdinateginCEpsblaorsrsto"mf"astyretoteslctofanaeesblisntedtoheafliSCtofE]
+
+
+================================================================================
+
+Raw Text:
+SB491-FN-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0379s
+7May2026...1707h
+2026SESSION
+26-2056
+07/08
+491-FN
+SENATEBILL
+ANACT enabling students to utilize education freedom account funds to pay for certain
+career and technical education funding and removing references to "curriculum
+frameworks" as they relate to the substantive educational content of an adequate
+education.
+SPONSORS: Sen. Watters, Dist 4; Sen. Lang, Dist 2; Sen. McGough, Dist 11; Sen. Sullivan,
+Dist 18; Sen. Avard, Dist 12; Sen. Long, Dist 20; Sen. McConkey, Dist 3; Sen.
+Pearl,Dist17
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill enables students to utilize education freedom account funds to pay for certain career
+and technical education funding and removes references to "curriculum frameworks" as they relate
+tothesubstantiveeducationalcontentofanadequateeducation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB491-FN-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0379s
+7May2026...1707h 26-2056
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling students to utilize education freedom account funds to pay for certain
+career and technical education funding and removing references to "curriculum
+frameworks" as they relate to the substantive educational content of an adequate
+education.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Regional Career and Technical Education (CTE); Costs for Students Attending
+2 CareerandTechnicalEducationPrograms. AmendRSA188-E:6,IVtoreadasfollows:
+3 IV. [In consultation with the house and senate committees responsible for education policy
+4 and financial matters, the state board] The department of education shall, in rules adopted
+5 pursuant to RSA 541-A, develop a formula for determining separately the tuition and
+6 transportation costs for approved career technical education programs and procedures for
+7 disbursementoffunds.
+8 2 New Paragraph; Education; Regional Career and Technical Education (CTE); Payment of
+9 Tuition and Transportation Funds. Amend RSA 188-E:9 by inserting after paragraph IV the
+10 followingnewparagraph:
+11 V. Thedepartmentofeducationshallestablishseparatefundsfortuitionandtransportation
+12 and determine the cost for each on an annual basis in accordance with the provisions of RSA 188:E-
+13 6,IVand188-E:9,II-III.
+14 3 New Paragraph; Education; Education Freedom Accounts; Authority and Responsibilities of
+15 the Scholarship Organization. Amend RSA 194-F:4 by inserting after paragraph XVII the following
+16 newparagraph:
+17 XVIII. The scholarship organization, in cooperation with the department of education, shall
+18 make available to EFA students in grades 9-12 information about enrolling in career and technical
+19 educationclassesandprograms.
+20 4 Adequate Public Education; Substantive Educational Content of an Adequate Education.
+21 AmendRSA193-E:2-a,VandVItoreadasfollows:
+22 V.(a) The general court requires every 10 years the state board of education and the
+23 department of education to institute procedures for maintaining, updating, improving, and refining
+24 the minimum standards for public school approval and the [curriculum frameworks] academic
+25 standards for each area of education identified in paragraph I. Each school district shall be
+26 responsible for maintaining, updating, improving, and refining curriculum. The curriculum shall
+27 present educational goals, broad pedagogical approaches, and strategies for assisting students in the
+28 development of the skills, competencies, and knowledge called for by the minimum standards for
+
+SB491-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 public school approval and academic standards for each area of education identified in paragraph I.
+2 [The curriculum frameworks shall serve as a guide and reference to what New Hampshire students
+3 should know and be able to do in each area of education identified in paragraph I. Curriculum
+4 frameworks do not establish a statewide curriculum.] It is the responsibility of local teachers,
+5 administrators, and school boards to identify and implement approaches best suited for the students
+6 in their communities to acquire the skills and knowledge included in the curriculum, to determine
+7 the scope, organization, and sequence of course offerings, and to choose the methods of instruction,
+8 theactivities,andthematerialstobeused.
+9 (b) Thestateboardofeducationshalladoptrules,pursuanttoRSA541-A,relativetothe
+10 approvalofalternativeprogramsforgrantingcreditleadingtograduation.
+11 VI. Inthissection:
+12 (a) "Minimum standards for public school approval" mean the applicable criteria that
+13 public schools and public academies shall meet in order to be an approved school, as adopted by the
+14 stateboardofeducationthroughadministrativerules.
+15 (b) "Academic standards" means what a student should know and be able to do in a
+16 course,program,orateachgradelevel.
+17 (c) "Curriculum" means the lessons and academic content taught in school or in a
+18 specificcourseorprogram.
+19 [(d) "Curriculum framework" means an organized plan of study that serves as a guide
+20 and reference to what New Hampshire students should know and be able to do in a learning area
+21 and identifies the academic standards aligned with each learning area pursuant to RSA 193-E:2-a,
+22 I(a).]
+23 [(e)] (d) "Applied learning" means an educational approach whereby students have the
+24 opportunitytodirectlyengageinlearningactivitiesusingknowledgeandskills.
+25 [(f)] (e) "Logic" means a reasoning skill that better enables a student to analyze
+26 problems in learning areas such as mathematics and to develop problem solutions; to better
+27 understand the principle of cause and effect; and to develop critical thinking skills to better identify
+28 factfromunverifiedinformationordata.
+29 [(g)](f) "Rhetoric"means theskillof speakingandwritingas ameans of communication
+30 orpersuasion.
+31 5 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2056
+05/18/2026
+SB491-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1707h)
+ANACT enabling students to utilize education freedom account funds to pay for certain
+career and technical education funding and removing references to "curriculum
+frameworks" as they relate to the substantive educational content of an adequate
+education.
+FISCALIMPACT:
+This bill requires the Department of Education to establish formulas and separate funds for
+career and technical education (CTE) tuition and transportation costs, and to determine those
+costs annually. This would be accomplished presumably through administrative rulemaking.
+This bill also requires that Education Freedom Account (EFA) students in grades 9 through 12
+beprovidedinformationaboutenrollinginCTEprograms.
+This bill also removes references to "curriculum frameworks" as they relate to the substantive
+educationalcontentofanadequateeducation.
+Thisbillisnotexpectedtohaveafiscalimpact.
+AGENCIESCONTACTED:
+DepartmentofEducation
+
+[DELETED: B4N-VNADBYBHB60.16SEBNATegsstoueenfmatfstopyfrcradtlenfgadrgrsto""astyretoteseelctofana:S.W,Dt4;S.L,Dt2;S.M,Dt1;S.St1;S.A,Dt1;S.L,Dt2;S.M,Dt3;S,Dt1:EnFDAsblessstoueenfmatfstopyfrcncdtlenfgadrsrsto"mf"astyroteseelctofanaee-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-VNADBYBHB60.1h2EOFNWHnteYrofOrLdToTdTNATegsstoueenfmatfstopyfrcradtlenfgadrgrsto""astyretoteseelctofanaeitEdbyteSeadHeofRsinGlCtc1E;RlCradTlEn(;CsfrSsACradTlEnP.AdRA1,IVtordasfI.[ncnwhteheadsecsrefrenpadflm,teseb]Tedtofens,inrsapttoRA5,dpafafrdgsytetnatncsfradcrtlenpsadpsfdtoff2NwP;E;RlCradTlEn(;PtoTnadTnF.AdRA19byigarphIVt0fgnwp1V.Tedtofenslehsefsfrtnadt2addetectfrehonanalbsinaewhtepsofRA136,IVad1,I43NwP;E;EnFmA;AyadRso5teSpO.AdRA14byigarphXItef6nwp7X.Tespo,incnwhtedtofe,s8meaetoEAssings92inategincradt9encsadp04AePcE;SeElCtofanAeE1AdRA1,VadVItordasf2V)Teglctrsey10ystesebdofenadt3dtofentoiepsfrm,u,i,adr4temmssfrpcslaladte[mf]a5ssfrehaaofenidinphI.Ehsldtslb6refrm,u,i,adrgc.Tecms7ptelg,bdpla,adssfragssint8dtoftes,c,adkecdfrbytemmssf]
+[DELETED: B4N-VNADBYBHBPe2pcslaladacssfrehaaofenidinphI[ecmfsslseasageadretowtNwHessdkwadbeaetodoinehaaofenidinphI.Cfsdontehasec]Itisteryofllta,adslbstoiyaditasbtsdfrtesintrcstoaetessadkeidintec,todtes,o,adseofceo,adtocetemsofitea,adtemstobeu()Tesebdofenslatr,pttoRA5,retot0alofaepsfrggctlgtog1V.Intss2()"mssfrpcsla"mnteaecat3pcssadpcasslmtinortobeanads,asadbyt4sebdofenthaer5()"cs"mswtastsdkwadbeaetodoin6c,p,oratehgel7()""mstelsadacctttinslorin8scceorp9[)"mf"msanodpnofsyttssasag0adretowtNwHesssdkwadbeaetodoinalga1adisteacssadwhehlgaapttoRA12I3[]()"dl"msanelahwysshet4oytodyeeinlgasugkeads5[]()""msargslttbresasttoa6psinlgasshasmsadtodppms;tob7udtepeofceade;adtodpcltgsstobri8ftfmudinord9[]()""msteslofsgadwgasamsofc0orp15EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSADBYTEHE(T#NATegsstoueenfmatfstopyfrcradtlenfgadrgrsto""astyretoteseelctofanaLIsblrsteDtofEntoehfsadsefsfradtlen()tnadtnc,adtodetsa. swdbeadpythaersblaorsttEnFmAt()ssings9th1epdinateginCEpsblaorsrsto"mf"astyretoteslctofanaeesblisntedtoheafliSCtofE]

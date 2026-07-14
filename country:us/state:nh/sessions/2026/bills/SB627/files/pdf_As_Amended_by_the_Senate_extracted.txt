@@ -1,0 +1,815 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+SB627-FN-ASAMENDEDBYTHESENATE
+02/05/2026 0341s
+02/05/2026 0533s
+2026SESSION
+26-2121
+06/09
+627-FN
+ANACT relative to toll rate adjustments and periodic inflation-based toll reviews for the
+New Hampshire turnpike system to support the 2027-2036 ten-year
+transportationplan.
+SPONSORS: Sen.Watters,Dist4;Sen.Fenton,Dist10;Sen.Reardon,Dist15
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Providesfortollrateadjustmentsatspecifiedturnpikeplazastosupportprojectsinthe2027–
+2036tenyeartransportationplan.
+II. Provides for periodic toll adjustments tied to the New Hampshire department of
+transportation's projected inflation index as part of the statewide transportation improvement
+program.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB627-FN-ASAMENDEDBYTHESENATE
+02/05/2026 0341s
+02/19/2026 0533s 26-2121
+06/
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to toll rate adjustments and periodic inflation-based toll reviews for the
+New Hampshire turnpike system to support the 2027-2036 ten-year
+transportationplan.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Tolls. AmendRSA237:9toreadasfollows:
+2 I. The commissioner of transportation, with the approval of the governor and council, shall
+3 establish toll rates and other charges for use of the New Hampshire turnpike system or any part of
+4 the right-of-way and other property acquired in connection therewith. The governor and council
+5 shall approve or reject the commissioner's proposed toll rates and other charges within 90 days of
+6 receiving them. The tolls collected shall be deposited with the state treasurer who shall keep the
+7 same in a separate account to be used exclusively for purposes of the New Hampshire turnpike
+8 system including, without limitation, the operating expenses, construction, reconstruction, and
+9 maintenanceoftheNewHampshireturnpikesystem. Alloperatingexpensesandmaintenancecosts
+10 shall be paid from said account. From the balance remaining after the payment of operating
+11 expenses and maintenance costs, there shall be paid the interest and principal on the bonds issued
+12 to finance the system. No part of such revenues shall, by transfer of funds or otherwise, be diverted
+13 to any other purpose whatsoever. Fourteen days previous to the time any interest or principal is
+14 payable, on any general obligation bonds issued to finance the system, the state treasurer shall
+15 examine the existing balance and, except as otherwise provided in RSA 237:10, if such balance is
+16 insufficient to make the payment, then he or she shall notify the governor who shall immediately
+17 draw his or her warrant on the highway fund to cover any deficit and if the funds in both of the
+18 above accounts are insufficient, the governor shall draw his or her warrant upon the state's general
+19 fund to the amount necessary to meet the payments. Any funds paid out from the state's highway
+20 fund or general fund for the above purposes shall be reimbursed from the collection of tolls as soon
+21 as such funds are available. Any funds that have been or may be expended for any portion of the
+22 system by the department of transportation shall be repaid to said department when, in the opinion
+23 of the governor and council, sufficient funds are available. Any excess income may be used for
+24 further system extensions in accordance with RSA 237:5, II(m). No provision of this chapter shall
+25 constituteacovenantwithbondholderswithrespecttothecharging,collectionordispositionoftolls.
+26 II. Notwithstanding paragraph I of this section, RSA 237:24, and any other
+27 provision of law to the contrary, to support the turnpike projects included in the 2027-2036
+28 ten year transportation plan and to cover associated operating expenses and maintenance
+29 costs for the central New Hampshire turnpike, the eastern New Hampshire turnpike, and
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 the New Hampshire turnpike system, the toll rates for cash transactions and for vehicles
+2 not registered to a funded New Hampshire E-Z pass account shall be increased based on
+3 the toll plaza and vehicle classification as defined in Tra 701.02(j) of the New Hampshire
+4 administrative rules. For purposes of this section, "class" shall mean the vehicle
+5 classification established under Tra 701.02(j), which categorizes vehicles by type, number
+6 ofaxles,anddualtires. Thetollratesshallbeasfollows:
+7 (a) HooksettMain:
+8 (1) Class1: $2.00
+9 (2) Class2: $2.25
+10 (3) Class3: $2.50
+11 (4) Class4: $2.75
+12 (5) Class5: $4.00
+13 (6) Class6: $4.50
+14 (7) Class7: $5.00
+15 (8) Class8: $5.50
+16 (9) Class9: $6.00
+17 (10) Class10: $6.50
+18 (11) Class11: $7.00
+19 (12) Class12:$7.50
+20 (b) HooksettRamp:
+21 (1) Class1: $1.00
+22 (2) Class2: $1.25
+23 (3) Class3: $1.50
+24 (4) Class4: $1.75
+25 (5) Class5: $2.00
+26 (6) Class6: $2.50
+27 (7) Class7: $3.00
+28 (8) Class8: $3.50
+29 (9) Class9: $4.00
+30 (10) Class10: $4.50
+31 (11) Class11: $5.00
+32 (12) Class12: $5.50
+33 (c) BedfordMain:
+34 (1) Class1: $2.00
+35 (2) Class2: $2.25
+36 (3) Class3: $2.50
+37 (4) Class4: $2.75
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 (5) Class5: $4.00
+2 (6) Class6: $4.50
+3 (7) Class7: $5.00
+4 (8) Class8: $5.50
+5 (9) Class9: $6.00
+6 (10) Class10: $6.50
+7 (11) Class11: $7.00
+8 (12) Class12: $7.50
+9 (d) HamptonMain:
+10 (1) Class1: $4.00
+11 (2) Class2: $4.25
+12 (3) Class3: $4.50
+13 (4) Class4: $4.75
+14 (5) Class5: $8.00
+15 (6) Class6: $8.50
+16 (7) Class7: $9.00
+17 (8) Class8: $9.50
+18 (9) Class9: $10.00
+19 (10) Class10: $10.50
+20 (11) Class11: $11.00
+21 (12) Class12: $11.50
+22 (e) HamptonSide:
+23 (1) Class1: $1.50
+24 (2) Class2: $1.75
+25 (3) Class3: $2.00
+26 (4) Class4: $2.25
+27 (5) Class5: $3.00
+28 (6) Class6: $3.50
+29 (7) Class7: $4.00
+30 (8)Class8:$4.50
+31 (9)Class9:$5.00
+32 (10) Class10: $5.50
+33 (11) Class11: $6.00
+34 (12) Class12: $6.50
+35 (f) Dover:
+36 (1) Class1: $1.50
+37 (2) Class2: $1.75
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 (3) Class3: $2.00
+2 (4) Class4: $2.25
+3 (5) Class5: $3.00
+4 (6) Class6: $3.50
+5 (7) Class7: $4.00
+6 (8) Class8: $4.50
+7 (9) Class9: $5.00
+8 (10) Class10: $5.50
+9 (11) Class11: $6.00
+10 (12) Class12: $6.50
+11 (g) Rochester:
+12 (1) Class1: $1.50
+13 (2) Class2: $1.75
+14 (3) Class3: $2.00
+15 (4) Class4: $2.25
+16 (5) Class5: $3.00
+17 (6) Class6: $3.50
+18 (7) Class7: $4.00
+19 (8) Class8: $4.50
+20 (9) Class9: $5.00
+21 (10) Class10: $5.50
+22 (11) Class11: $6.00
+23 (12) Class12: $6.50
+24 III. Notwithstanding paragraph I of this section, RSA 237:24, and any other
+25 provision of law to the contrary, the toll rates for vehicles listed on a funded New
+26 Hampshire E-Z Pass account using the New Hampshire electronic toll collection system
+27 shall remain current as of the effective date of this statute and at a minimum as follows,
+28 based on toll plaza and vehicle classification as defined in Tra 701.02(j) of the New
+29 Hampshireadministrativerules:
+30 (a) HooksettMain:
+31 (1) Class1: $0.70
+32 (2) Class2: $0.88
+33 (3) Class3: $1.05
+34 (4) Class4: $1.23
+35 (5) Class5: $1.80
+36 (6) Class6: $2.25
+37 (7) Class7: $2.70
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 (8) Class8: $3.15
+2 (9) Class9: $3.60
+3 (10) Class10: $4.05
+4 (11) Class11: $4.50
+5 (12) Class12: $4.95
+6 (b) HooksettRamp:
+7 (1) Class1: $0.35
+8 (2) Class2: $0.53
+9 (3) Class3: $0.70
+10 (4) Class4: $0.88
+11 (5) Class5: $0.90
+12 (6) Class6: $1.35
+13 (7) Class7: $1.80
+14 (8) Class8: $2.25
+15 (9) Class9: $2.70
+16 (10) Class10: $3.15
+17 (11) Class11: $3.60
+18 (12) Class12: $4.05
+19 (c) BedfordMain:
+20 (1) Class1: $0.70
+21 (2) Class2: $0.88
+22 (3) Class3: $1.05
+23 (4) Class4: $1.23
+24 (5) Class5: $1.80
+25 (6) Class6: $2.25
+26 (7) Class7: $2.70
+27 (8) Class8: $3.15
+28 (9) Class9: $3.60
+29 (10) Class10: $4.05
+30 (11) Class11: $4.50
+31 (12) Class12: $4.95
+32 (d) HamptonMain:
+33 (1) Class1: $1.40
+34 (2) Class2: $1.58
+35 (3) Class3: $1.75
+36 (4) Class4: $1.93
+37 (5) Class5: $3.60
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page6-
+1 (6) Class6: $4.05
+2 (7) Class7: $4.50
+3 (8) Class8: $4.95
+4 (9) Class9: $5.40
+5 (10) Class10: $5.85
+6 (11) Class11: $6.30
+7 (12) Class12: $6.75
+8 (e) HamptonSide:
+9 (1) Class1: $0.53
+10 (2) Class2: $0.70
+11 (3) Class3: $0.88
+12 (4) Class4: $1.05
+13 (5) Class5: $1.35
+14 (6) Class6: $1.80
+15 (7) Class7: $2.25
+16 (8) Class8: $2.70
+17 (9) Class9: $3.15
+18 (10) Class10: $3.60
+19 (11) Class11: $4.05
+20 (12) Class12: $4.50
+21 (f) Dover:
+22 (1) Class1: $0.53
+23 (2) Class2: $0.70
+24 (3) Class3: $0.88
+25 (4) Class4: $1.05
+26 (5) Class5: $1.35
+27 (6) Class6: $1.80
+28 (7) Class7: $2.25
+29 (8) Class8: $2.70
+30 (9) Class9: $3.15
+31 (10) Class10: $3.60
+32 (11) Class11: $4.05
+33 (12) Class12: $4.50
+34 (g) Rochester:
+35 (1) Class1: $0.53
+36 (2) Class2: $0.70
+37 (3) Class3: $0.88
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page7-
+1 (4) Class4: $1.05
+2 (5) Class5: $1.35
+3 (6) Class6: $1.80
+4 (7) Class7: $2.25
+5 (8) Class8: $2.70
+6 (9) Class9: $3.15
+7 (10) Class10: $3.60
+8 (11) Class11: $4.05
+9 (12) Class12: $4.50
+10 2 New Paragraph; Statewide Transportation Improvement Program; Toll Rate Comparison to
+11 InflationRate. AmendRSA228:99byinsertingafterparagraphIIthefollowingnewparagraph:
+12 II-a. The statewide transportation improvement program shall include a comparison of the
+13 current toll rates against the department of transportation's project inflation rate for consideration
+14 bythegovernor'sadvisorycommissiononintermodaltransportationandthelegislature.
+15 3 Repeal. RSA 237:11, V, relative to the E-Z Pass discount on established tolls on any of the
+16 NewHampshireturnpikesystem,isrepealed.
+17 4 EffectiveDate. Thisactshalltakeeffect90daysafteritspassage.
+LBA
+26-2121
+03/23/2026
+SB627-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1062s)
+ANACT relative to toll rate adjustments and periodic inflation-based toll reviews for the
+New Hampshire turnpike system to support the 2027-2036 ten-year
+transportationplan.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $26,400,000 $53,200,000 $53,800,000
+RevenueFund(s) TurnpikeFund
+Expenditures* $0 $232,960 $0 $0
+FundingSource(s) TurnpikeFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill increases and establishes statutory toll rates by plaza and vehicle class on the New
+Hampshire Turnpike System, including higher rates for cash and non-NH E-ZPass users, and
+minimum rates for funded NH E-ZPass users, to support projects in the state’s 2027-2036 Ten-
+Year Transportation Plan and cover turnpike operating and maintenance costs. The
+Department of Transportationhas provided thefollowingtoll raisescenarios for aclass 1vehicle
+passingthroughtheHooksettPlaza:
+TollRaiseScenariosforHooksettPlazaClass1Vehicle
+Existing
+Example Scenario ProposedToll
+Toll
+NHE-ZPassfundedaccount
+customerwithavehiclebearinga
+1 $0.70 $0.70
+registrationnumberasdefinedby
+RSA259:85
+NHE-ZPassfundedaccount
+customerwithavehiclenotbearing
+2 $0.70 $0.70
+aregistrationnumberasdefinedby
+RSA259:85
+NHE-ZPassunfundedaccount
+customerwithavehiclebearinga
+3 $1.00 $0.70
+registrationnumberasdefinedby
+RSA259:85
+NHE-ZPassunfundedaccount
+customerwithavehiclenotbearing
+4 $1.00 $2.00
+aregistrationnumberasdefinedby
+RSA259:85
+Non-NHE-ZPassfundedaccount
+customerwithavehiclebearingor
+5 $1.00 $2.00
+notbearingaregistrationnumber
+asdefinedbyRSA259:85
+Non-NHE-ZPassunfundedaccount
+customerwithavehiclebearingor
+6 $1.00 $2.00
+notbearingaregistrationnumber
+asdefinedbyRSA259:85
+Cashpayingcustomerwitha
+7 vehiclebearingaregistration $1.00 $2.00
+numberasdefinedbyRSA259:85
+Cashpayingcustomerwitha
+8 vehiclenotbearingaregistration $1.00 $2.00
+numberasdefinedbyRSA259:85
+Unpaidtransactionsutilizingthe
+electronictollcollectionsystem(no
+9 cash)withvehiclebearinga $1.00 $0.70
+registrationnumberasdefinedby
+RSA259:85
+Unpaidtransactionsutilizingthe
+electronictollcollectionsystem(no
+10 cash)withvehiclenotbearinga $1.00 $2.00
+registrationnumberasdefinedby
+RSA259:85
+The estimated increase in toll revenue, determined by Stantec Consultant’s review of the
+Turnpike Traffic and Revenue forecast and the following assumptions, is as follows ($ in
+millions):
+Central BlueStar Spaulding
+FiscalYear Total
+Turnpike Turnpike Turnpike
+2027 $7.0 $17.4 $2.0 $26.4
+2028 $13.9 $35.1 $4.2 $53.2
+2029 $14.1 $35.4 $4.3 $53.8
+2030 $14.3 $35.8 $4.4 $54.5
+2031 $14.5 $36.1 $4.5 $55.1
+2032 $14.7 $36.5 $4.6 $55.8
+2033 $14.9 $36.8 $4.6 $56.3
+2034 $15.5 $37.1 $4.7 $57.3
+2035 $15.8 $37.3 $4.7 $57.8
+2036 $16.2 $37.5 $4.8 $58.5
+- AssumesatollincreaseinFY2027,effectiveJanuary2027.Revenueisestimated
+basedona10-yearannualtrafficincreaseofapproximately1.5%peryear.
+- Assumes5%ofcarslistonaNon-NHE-ZPassaccountand10%oftruckslisted
+onaNon-NHE-ZPassaccountwillswitchtoNHE-ZPass.
+- Assumes10%ofdaytimecashpayersatattendedfacilitieswillutilizethe14
+daystopaytogetNHplateelectronictollsystemtollrate.
+The Department estimates the cost associated with implementing the software changes required
+bythis billtobeapproximately$150,000, incurred inFY 2027. Inaddition, thisbill requires the
+issuance of a free transponder for a period of 210 days to any NH resident who opens or
+currentlymaintainsanNHE-ZPassaccount. Thecurrentcostofa6Ctransponderis$0.61cents
+per tag. The Department has estimated, based off new customer account activity with 10%
+growth, that it will issue approximately 136,000 transponders, for an estimated total cost of
+$82,960($0.61x136,000).
+AGENCIESCONTACTED:
+DepartmentofTransportation
+[DELETED: B6N-ASADBYTES60606SEBNATretotlreasadpcidtlrsfrtwHetesmtostte26tnp:S.W,Dt4;S.F,Dt1;S.R,Dt1:TDAsb.Psfrtlreasatsdtepstostpsinte26tnyrtnp.PsfrpctlastdtoteNwHedtospdinixasptoftesetni-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES6060s2EOFNWHnteYrofOrLdToTdTNATretotlreasadpcidtlrsfrtwHetesmtostte26tnpeitEdbyteSeadHeofRsinGlCtc1T.AdRA29tordasfI.Tecroft,whtealoftegradc,sehtlrsadorcsfrueofteNwHetesmorayptoteryadorpyadincnt.Tegradcslaeorrttecspdtlrsadorcswn90dsorgt.TetscdslbeddwhtesetrwoslkptseinaseattobeudeyfrpsofteNwHetsmi,wtl,teoge,c,r,ameofteNwHetes.Alogesadmec0slbepdfmsda.Fmtebergarteptofo1esadmec,teslbepdteitadplontebsi2tofetes.Noptofshrss,bytroffsoro,bed3toayorpew.Fndspstoteteayitorpli4p,onayglonbsidtofetes,tesetrs5eeteegbea,etasoepdinRA2,ifshbei6ittometep,tnheorseslnytegrwosli7dwhsorhrwtontehyfdtocraydtadiftefsinbhoft8aeasaei,tegrsldwhsorhrwtuntessg9fdtoteatnytomttep.Ayfspdotfmtessh0fdorglfdfrteaepsslberdfmtecnoftsass1asshfsaea.Ayfstthebnormybeedfraypnoft2smbytedtoftnslberdtosddtw,inteo3oftegradc,stfsaea.Ayesiemybeudf4frsmesinaewhRA2,I.Nopnoftscrs5ceactwhbswhrttotec,cnordnoft6I.NgphIoftss,RA2,adayo7pnoflwtotec,tosttetepsidinte28tnyrtnpnadtocradogesadm9csfrteclNwHet,teenNwHet,a]
+[DELETED: B6N-ASADBYTESPe2teNwHetes,tetlrsfrchtsadfrvntrdtoafdNwHeEZpsatslbeidbdotetlpaadvecnasddinTa7)ofteNwHaer.Frpsoftss,""slmntevcnedurTa7,whcsvsbyt,nofa,addlt.Tetlrsslbeasf()HtM()Cs1:$()Cs2:$0()Cs3:$1()Cs4:$2()Cs5:$3()Cs6:$4()Cs7:$5()Cs8:$6()Cs9:$7()Cs1:$8()Cs1:$9()Cs1:$70()HtR1()Cs1:$2()Cs2:$3()Cs3:$4()Cs4:$5()Cs5:$6()Cs6:$7()Cs7:$8()Cs8:$9()Cs9:$0()Cs1:$1()Cs1:$2()Cs1:$3()BdM4()Cs1:$5()Cs2:$6()Cs3:$7()Cs4:$]
+[DELETED: B6N-ASADBYTESPe3()Cs5:$()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$()HnM0()Cs1:$1()Cs2:$2()Cs3:$3()Cs4:$4()Cs5:$5()Cs6:$6()Cs7:$7()Cs8:$8()Cs9:$9()Cs1:$0()Cs1:$1()Cs1:$2()HnS3()Cs1:$4()Cs2:$5()Cs3:$6()Cs4:$7()Cs5:$8()Cs6:$9()Cs7:$0()Cs8:$1()Cs9:$2()Cs1:$3()Cs1:$4()Cs1:$5()D6()Cs1:$7()Cs2:$]
+[DELETED: B6N-ASADBYTESPe4()Cs3:$()Cs4:$()Cs5:$()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$0()Cs1:$1()R2()Cs1:$3()Cs2:$4()Cs3:$5()Cs4:$6()Cs5:$7()Cs6:$8()Cs7:$9()Cs8:$0()Cs9:$1()Cs1:$2()Cs1:$3()Cs1:$4I.NgphIoftss,RA2,adayo5pnoflwtotec,tetlrsfrvsldonafdN6HeEZPsatugteNwHeectlcns7slrnctasofteeedeoftsseadatammasf8bdontlpaadvecnasddinTa7)ofteN9Heaer0()HtM1()Cs1:$2()Cs2:$3()Cs3:$4()Cs4:$5()Cs5:$6()Cs6:$7()Cs7:$]
+[DELETED: B6N-ASADBYTESPe5()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$()HtR()Cs1:$()Cs2:$()Cs3:$0()Cs4:$1()Cs5:$2()Cs6:$3()Cs7:$4()Cs8:$5()Cs9:$6()Cs1:$7()Cs1:$8()Cs1:$9()BdM0()Cs1:$1()Cs2:$2()Cs3:$3()Cs4:$4()Cs5:$5()Cs6:$6()Cs7:$7()Cs8:$8()Cs9:$9()Cs1:$0()Cs1:$1()Cs1:$2()HnM3()Cs1:$4()Cs2:$5()Cs3:$6()Cs4:$7()Cs5:$]
+[DELETED: B6N-ASADBYTESPe6()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$()HnS()Cs1:$0()Cs2:$1()Cs3:$2()Cs4:$3()Cs5:$4()Cs6:$5()Cs7:$6()Cs8:$7()Cs9:$8()Cs1:$9()Cs1:$0()Cs1:$1()D2()Cs1:$3()Cs2:$4()Cs3:$5()Cs4:$6()Cs5:$7()Cs6:$8()Cs7:$9()Cs8:$0()Cs9:$1()Cs1:$2()Cs1:$3()Cs1:$4()R5()Cs1:$6()Cs2:$7()Cs3:$]
+[DELETED: B6N-ASADBYTESPe7()Cs4:$()Cs5:$()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$02NwP;SeTnItP;TlReCnt1InR.AdRA29byigarphIItefgnwp2I.Tesetnitpmslieacnoft3cttlrsattedtoftsptinrefrc4bytegsaycnoniltnadtel53R.RA2,V,retoteEZPsdtonedtsonayoft6NwHetes,isr74EeD.Tsatslteet90dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATretotlreasadpcidtlrsfrtwHetesmtostte26tnpLIdSeIY26FY27FY28FY20$0$0$eFeF0$0$0$gSeF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblisadessytlrsbypaadvecsonteNeTeS,ighrrsfrchadnHEsu,amrsfrfdNHEsu,tostpsintess26TrTnPnadcrteogadmec.TtofTnhspdtefgtlressfracs1vgthteHtPlReSsfrHtPaCs1VeSoPdT$0$HEsfdarwhavebgnnrasddbA2$0$HEsfdarwhaventbrnnrasddbA2$0$HEsudarwhavebgnnrasddbA2]
+[DELETED: $0$HEsudarwhaventbrnnrasddbA2$0$HEsfdarwhavebgotbgarnnsddbyRA2$0$HEsudarwhavebgotbgarnnsddbyRA2vebgarn$0$hpgcrwhrasddbyRA2ventbgarn$0$hpgcrwhrasddbyRA2c)whvebga$0$dtsugtctlcnsm(nnrasddbA20c)whventbga$0$dtsugtctlcnsm(nnrasddbA2eedieintlr,ddbyScCsrwofteTcadReftadtefga,isasfs($ilYrTlBeSrSeTeT7$0$4$0$8$9$1$2$9$1$4$3$0$3$8$4$1$5$1$5$2$7$5$6$3$9$8$6$4$5$1$7$5$8$3$7$6$2$5$8$]
+[DELETED: AsatlieinFY2,eeJy2.Reisedona1raltcieofay1%pryAs5%ofcsltonaNHEsatad1%oftslnaNHEsatwlshtoNHEAs1%ofdechpsatadfswluete1stopytogtNHpeectlsmtlreDtestectadwhigtesecsrytsbltobeay$,idinFY2.Ina,tsblrsteofafetrfrapdof20dstoayNHrtwoosoymsanNHEsa.Tectctofa6Ctris$1crt.TeDthse,bdofnwcrataywh1,ttitwlieay10t,franedtlcto0(1x1SCtofT]
+
+
+================================================================================
+
+Raw Text:
+SB627-FN-ASAMENDEDBYTHESENATE
+02/05/2026 0341s
+02/05/2026 0533s
+2026SESSION
+26-2121
+06/09
+627-FN
+SENATEBILL
+ANACT relative to toll rate adjustments and periodic inflation-based toll reviews for the
+New Hampshire turnpike system to support the 2027-2036 ten-year
+transportationplan.
+SPONSORS: Sen.Watters,Dist4;Sen.Fenton,Dist10;Sen.Reardon,Dist15
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Providesfortollrateadjustmentsatspecifiedturnpikeplazastosupportprojectsinthe2027–
+2036tenyeartransportationplan.
+II. Provides for periodic toll adjustments tied to the New Hampshire department of
+transportation's projected inflation index as part of the statewide transportation improvement
+program.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB627-FN-ASAMENDEDBYTHESENATE
+02/05/2026 0341s
+02/19/2026 0533s 26-2121
+06/
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to toll rate adjustments and periodic inflation-based toll reviews for the
+New Hampshire turnpike system to support the 2027-2036 ten-year
+transportationplan.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Tolls. AmendRSA237:9toreadasfollows:
+2 I. The commissioner of transportation, with the approval of the governor and council, shall
+3 establish toll rates and other charges for use of the New Hampshire turnpike system or any part of
+4 the right-of-way and other property acquired in connection therewith. The governor and council
+5 shall approve or reject the commissioner's proposed toll rates and other charges within 90 days of
+6 receiving them. The tolls collected shall be deposited with the state treasurer who shall keep the
+7 same in a separate account to be used exclusively for purposes of the New Hampshire turnpike
+8 system including, without limitation, the operating expenses, construction, reconstruction, and
+9 maintenanceoftheNewHampshireturnpikesystem. Alloperatingexpensesandmaintenancecosts
+10 shall be paid from said account. From the balance remaining after the payment of operating
+11 expenses and maintenance costs, there shall be paid the interest and principal on the bonds issued
+12 to finance the system. No part of such revenues shall, by transfer of funds or otherwise, be diverted
+13 to any other purpose whatsoever. Fourteen days previous to the time any interest or principal is
+14 payable, on any general obligation bonds issued to finance the system, the state treasurer shall
+15 examine the existing balance and, except as otherwise provided in RSA 237:10, if such balance is
+16 insufficient to make the payment, then he or she shall notify the governor who shall immediately
+17 draw his or her warrant on the highway fund to cover any deficit and if the funds in both of the
+18 above accounts are insufficient, the governor shall draw his or her warrant upon the state's general
+19 fund to the amount necessary to meet the payments. Any funds paid out from the state's highway
+20 fund or general fund for the above purposes shall be reimbursed from the collection of tolls as soon
+21 as such funds are available. Any funds that have been or may be expended for any portion of the
+22 system by the department of transportation shall be repaid to said department when, in the opinion
+23 of the governor and council, sufficient funds are available. Any excess income may be used for
+24 further system extensions in accordance with RSA 237:5, II(m). No provision of this chapter shall
+25 constituteacovenantwithbondholderswithrespecttothecharging,collectionordispositionoftolls.
+26 II. Notwithstanding paragraph I of this section, RSA 237:24, and any other
+27 provision of law to the contrary, to support the turnpike projects included in the 2027-2036
+28 ten year transportation plan and to cover associated operating expenses and maintenance
+29 costs for the central New Hampshire turnpike, the eastern New Hampshire turnpike, and
+
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 the New Hampshire turnpike system, the toll rates for cash transactions and for vehicles
+2 not registered to a funded New Hampshire E-Z pass account shall be increased based on
+3 the toll plaza and vehicle classification as defined in Tra 701.02(j) of the New Hampshire
+4 administrative rules. For purposes of this section, "class" shall mean the vehicle
+5 classification established under Tra 701.02(j), which categorizes vehicles by type, number
+6 ofaxles,anddualtires. Thetollratesshallbeasfollows:
+7 (a) HooksettMain:
+8 (1) Class1: $2.00
+9 (2) Class2: $2.25
+10 (3) Class3: $2.50
+11 (4) Class4: $2.75
+12 (5) Class5: $4.00
+13 (6) Class6: $4.50
+14 (7) Class7: $5.00
+15 (8) Class8: $5.50
+16 (9) Class9: $6.00
+17 (10) Class10: $6.50
+18 (11) Class11: $7.00
+19 (12) Class12:$7.50
+20 (b) HooksettRamp:
+21 (1) Class1: $1.00
+22 (2) Class2: $1.25
+23 (3) Class3: $1.50
+24 (4) Class4: $1.75
+25 (5) Class5: $2.00
+26 (6) Class6: $2.50
+27 (7) Class7: $3.00
+28 (8) Class8: $3.50
+29 (9) Class9: $4.00
+30 (10) Class10: $4.50
+31 (11) Class11: $5.00
+32 (12) Class12: $5.50
+33 (c) BedfordMain:
+34 (1) Class1: $2.00
+35 (2) Class2: $2.25
+36 (3) Class3: $2.50
+37 (4) Class4: $2.75
+
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 (5) Class5: $4.00
+2 (6) Class6: $4.50
+3 (7) Class7: $5.00
+4 (8) Class8: $5.50
+5 (9) Class9: $6.00
+6 (10) Class10: $6.50
+7 (11) Class11: $7.00
+8 (12) Class12: $7.50
+9 (d) HamptonMain:
+10 (1) Class1: $4.00
+11 (2) Class2: $4.25
+12 (3) Class3: $4.50
+13 (4) Class4: $4.75
+14 (5) Class5: $8.00
+15 (6) Class6: $8.50
+16 (7) Class7: $9.00
+17 (8) Class8: $9.50
+18 (9) Class9: $10.00
+19 (10) Class10: $10.50
+20 (11) Class11: $11.00
+21 (12) Class12: $11.50
+22 (e) HamptonSide:
+23 (1) Class1: $1.50
+24 (2) Class2: $1.75
+25 (3) Class3: $2.00
+26 (4) Class4: $2.25
+27 (5) Class5: $3.00
+28 (6) Class6: $3.50
+29 (7) Class7: $4.00
+30 (8)Class8:$4.50
+31 (9)Class9:$5.00
+32 (10) Class10: $5.50
+33 (11) Class11: $6.00
+34 (12) Class12: $6.50
+35 (f) Dover:
+36 (1) Class1: $1.50
+37 (2) Class2: $1.75
+
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 (3) Class3: $2.00
+2 (4) Class4: $2.25
+3 (5) Class5: $3.00
+4 (6) Class6: $3.50
+5 (7) Class7: $4.00
+6 (8) Class8: $4.50
+7 (9) Class9: $5.00
+8 (10) Class10: $5.50
+9 (11) Class11: $6.00
+10 (12) Class12: $6.50
+11 (g) Rochester:
+12 (1) Class1: $1.50
+13 (2) Class2: $1.75
+14 (3) Class3: $2.00
+15 (4) Class4: $2.25
+16 (5) Class5: $3.00
+17 (6) Class6: $3.50
+18 (7) Class7: $4.00
+19 (8) Class8: $4.50
+20 (9) Class9: $5.00
+21 (10) Class10: $5.50
+22 (11) Class11: $6.00
+23 (12) Class12: $6.50
+24 III. Notwithstanding paragraph I of this section, RSA 237:24, and any other
+25 provision of law to the contrary, the toll rates for vehicles listed on a funded New
+26 Hampshire E-Z Pass account using the New Hampshire electronic toll collection system
+27 shall remain current as of the effective date of this statute and at a minimum as follows,
+28 based on toll plaza and vehicle classification as defined in Tra 701.02(j) of the New
+29 Hampshireadministrativerules:
+30 (a) HooksettMain:
+31 (1) Class1: $0.70
+32 (2) Class2: $0.88
+33 (3) Class3: $1.05
+34 (4) Class4: $1.23
+35 (5) Class5: $1.80
+36 (6) Class6: $2.25
+37 (7) Class7: $2.70
+
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 (8) Class8: $3.15
+2 (9) Class9: $3.60
+3 (10) Class10: $4.05
+4 (11) Class11: $4.50
+5 (12) Class12: $4.95
+6 (b) HooksettRamp:
+7 (1) Class1: $0.35
+8 (2) Class2: $0.53
+9 (3) Class3: $0.70
+10 (4) Class4: $0.88
+11 (5) Class5: $0.90
+12 (6) Class6: $1.35
+13 (7) Class7: $1.80
+14 (8) Class8: $2.25
+15 (9) Class9: $2.70
+16 (10) Class10: $3.15
+17 (11) Class11: $3.60
+18 (12) Class12: $4.05
+19 (c) BedfordMain:
+20 (1) Class1: $0.70
+21 (2) Class2: $0.88
+22 (3) Class3: $1.05
+23 (4) Class4: $1.23
+24 (5) Class5: $1.80
+25 (6) Class6: $2.25
+26 (7) Class7: $2.70
+27 (8) Class8: $3.15
+28 (9) Class9: $3.60
+29 (10) Class10: $4.05
+30 (11) Class11: $4.50
+31 (12) Class12: $4.95
+32 (d) HamptonMain:
+33 (1) Class1: $1.40
+34 (2) Class2: $1.58
+35 (3) Class3: $1.75
+36 (4) Class4: $1.93
+37 (5) Class5: $3.60
+
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page6-
+1 (6) Class6: $4.05
+2 (7) Class7: $4.50
+3 (8) Class8: $4.95
+4 (9) Class9: $5.40
+5 (10) Class10: $5.85
+6 (11) Class11: $6.30
+7 (12) Class12: $6.75
+8 (e) HamptonSide:
+9 (1) Class1: $0.53
+10 (2) Class2: $0.70
+11 (3) Class3: $0.88
+12 (4) Class4: $1.05
+13 (5) Class5: $1.35
+14 (6) Class6: $1.80
+15 (7) Class7: $2.25
+16 (8) Class8: $2.70
+17 (9) Class9: $3.15
+18 (10) Class10: $3.60
+19 (11) Class11: $4.05
+20 (12) Class12: $4.50
+21 (f) Dover:
+22 (1) Class1: $0.53
+23 (2) Class2: $0.70
+24 (3) Class3: $0.88
+25 (4) Class4: $1.05
+26 (5) Class5: $1.35
+27 (6) Class6: $1.80
+28 (7) Class7: $2.25
+29 (8) Class8: $2.70
+30 (9) Class9: $3.15
+31 (10) Class10: $3.60
+32 (11) Class11: $4.05
+33 (12) Class12: $4.50
+34 (g) Rochester:
+35 (1) Class1: $0.53
+36 (2) Class2: $0.70
+37 (3) Class3: $0.88
+
+SB627-FN-ASAMENDEDBYTHESENATE
+-Page7-
+1 (4) Class4: $1.05
+2 (5) Class5: $1.35
+3 (6) Class6: $1.80
+4 (7) Class7: $2.25
+5 (8) Class8: $2.70
+6 (9) Class9: $3.15
+7 (10) Class10: $3.60
+8 (11) Class11: $4.05
+9 (12) Class12: $4.50
+10 2 New Paragraph; Statewide Transportation Improvement Program; Toll Rate Comparison to
+11 InflationRate. AmendRSA228:99byinsertingafterparagraphIIthefollowingnewparagraph:
+12 II-a. The statewide transportation improvement program shall include a comparison of the
+13 current toll rates against the department of transportation's project inflation rate for consideration
+14 bythegovernor'sadvisorycommissiononintermodaltransportationandthelegislature.
+15 3 Repeal. RSA 237:11, V, relative to the E-Z Pass discount on established tolls on any of the
+16 NewHampshireturnpikesystem,isrepealed.
+17 4 EffectiveDate. Thisactshalltakeeffect90daysafteritspassage.
+
+LBA
+26-2121
+03/23/2026
+SB627-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1062s)
+ANACT relative to toll rate adjustments and periodic inflation-based toll reviews for the
+New Hampshire turnpike system to support the 2027-2036 ten-year
+transportationplan.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $26,400,000 $53,200,000 $53,800,000
+RevenueFund(s) TurnpikeFund
+Expenditures* $0 $232,960 $0 $0
+FundingSource(s) TurnpikeFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill increases and establishes statutory toll rates by plaza and vehicle class on the New
+Hampshire Turnpike System, including higher rates for cash and non-NH E-ZPass users, and
+minimum rates for funded NH E-ZPass users, to support projects in the state’s 2027-2036 Ten-
+Year Transportation Plan and cover turnpike operating and maintenance costs. The
+Department of Transportationhas provided thefollowingtoll raisescenarios for aclass 1vehicle
+passingthroughtheHooksettPlaza:
+TollRaiseScenariosforHooksettPlazaClass1Vehicle
+Existing
+Example Scenario ProposedToll
+Toll
+NHE-ZPassfundedaccount
+customerwithavehiclebearinga
+1 $0.70 $0.70
+registrationnumberasdefinedby
+RSA259:85
+NHE-ZPassfundedaccount
+customerwithavehiclenotbearing
+2 $0.70 $0.70
+aregistrationnumberasdefinedby
+RSA259:85
+NHE-ZPassunfundedaccount
+customerwithavehiclebearinga
+3 $1.00 $0.70
+registrationnumberasdefinedby
+RSA259:85
+
+NHE-ZPassunfundedaccount
+customerwithavehiclenotbearing
+4 $1.00 $2.00
+aregistrationnumberasdefinedby
+RSA259:85
+Non-NHE-ZPassfundedaccount
+customerwithavehiclebearingor
+5 $1.00 $2.00
+notbearingaregistrationnumber
+asdefinedbyRSA259:85
+Non-NHE-ZPassunfundedaccount
+customerwithavehiclebearingor
+6 $1.00 $2.00
+notbearingaregistrationnumber
+asdefinedbyRSA259:85
+Cashpayingcustomerwitha
+7 vehiclebearingaregistration $1.00 $2.00
+numberasdefinedbyRSA259:85
+Cashpayingcustomerwitha
+8 vehiclenotbearingaregistration $1.00 $2.00
+numberasdefinedbyRSA259:85
+Unpaidtransactionsutilizingthe
+electronictollcollectionsystem(no
+9 cash)withvehiclebearinga $1.00 $0.70
+registrationnumberasdefinedby
+RSA259:85
+Unpaidtransactionsutilizingthe
+electronictollcollectionsystem(no
+10 cash)withvehiclenotbearinga $1.00 $2.00
+registrationnumberasdefinedby
+RSA259:85
+The estimated increase in toll revenue, determined by Stantec Consultant’s review of the
+Turnpike Traffic and Revenue forecast and the following assumptions, is as follows ($ in
+millions):
+Central BlueStar Spaulding
+FiscalYear Total
+Turnpike Turnpike Turnpike
+2027 $7.0 $17.4 $2.0 $26.4
+2028 $13.9 $35.1 $4.2 $53.2
+2029 $14.1 $35.4 $4.3 $53.8
+2030 $14.3 $35.8 $4.4 $54.5
+2031 $14.5 $36.1 $4.5 $55.1
+2032 $14.7 $36.5 $4.6 $55.8
+2033 $14.9 $36.8 $4.6 $56.3
+2034 $15.5 $37.1 $4.7 $57.3
+2035 $15.8 $37.3 $4.7 $57.8
+2036 $16.2 $37.5 $4.8 $58.5
+
+- AssumesatollincreaseinFY2027,effectiveJanuary2027.Revenueisestimated
+basedona10-yearannualtrafficincreaseofapproximately1.5%peryear.
+- Assumes5%ofcarslistonaNon-NHE-ZPassaccountand10%oftruckslisted
+onaNon-NHE-ZPassaccountwillswitchtoNHE-ZPass.
+- Assumes10%ofdaytimecashpayersatattendedfacilitieswillutilizethe14
+daystopaytogetNHplateelectronictollsystemtollrate.
+The Department estimates the cost associated with implementing the software changes required
+bythis billtobeapproximately$150,000, incurred inFY 2027. Inaddition, thisbill requires the
+issuance of a free transponder for a period of 210 days to any NH resident who opens or
+currentlymaintainsanNHE-ZPassaccount. Thecurrentcostofa6Ctransponderis$0.61cents
+per tag. The Department has estimated, based off new customer account activity with 10%
+growth, that it will issue approximately 136,000 transponders, for an estimated total cost of
+$82,960($0.61x136,000).
+AGENCIESCONTACTED:
+DepartmentofTransportation
+
+[DELETED: B6N-ASADBYTES60606SEBNATretotlreasadpcidtlrsfrtwHetesmtostte26tnp:S.W,Dt4;S.F,Dt1;S.R,Dt1:TDAsb.Psfrtlreasatsdtepstostpsinte26tnyrtnp.PsfrpctlastdtoteNwHedtospdinixasptoftesetni-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES6060s2EOFNWHnteYrofOrLdToTdTNATretotlreasadpcidtlrsfrtwHetesmtostte26tnpeitEdbyteSeadHeofRsinGlCtc1T.AdRA29tordasfI.Tecroft,whtealoftegradc,sehtlrsadorcsfrueofteNwHetesmorayptoteryadorpyadincnt.Tegradcslaeorrttecspdtlrsadorcswn90dsorgt.TetscdslbeddwhtesetrwoslkptseinaseattobeudeyfrpsofteNwHetsmi,wtl,teoge,c,r,ameofteNwHetes.Alogesadmec0slbepdfmsda.Fmtebergarteptofo1esadmec,teslbepdteitadplontebsi2tofetes.Noptofshrss,bytroffsoro,bed3toayorpew.Fndspstoteteayitorpli4p,onayglonbsidtofetes,tesetrs5eeteegbea,etasoepdinRA2,ifshbei6ittometep,tnheorseslnytegrwosli7dwhsorhrwtontehyfdtocraydtadiftefsinbhoft8aeasaei,tegrsldwhsorhrwtuntessg9fdtoteatnytomttep.Ayfspdotfmtessh0fdorglfdfrteaepsslberdfmtecnoftsass1asshfsaea.Ayfstthebnormybeedfraypnoft2smbytedtoftnslberdtosddtw,inteo3oftegradc,stfsaea.Ayesiemybeudf4frsmesinaewhRA2,I.Nopnoftscrs5ceactwhbswhrttotec,cnordnoft6I.NgphIoftss,RA2,adayo7pnoflwtotec,tosttetepsidinte28tnyrtnpnadtocradogesadm9csfrteclNwHet,teenNwHet,a]
+[DELETED: B6N-ASADBYTESPe2teNwHetes,tetlrsfrchtsadfrvntrdtoafdNwHeEZpsatslbeidbdotetlpaadvecnasddinTa7)ofteNwHaer.Frpsoftss,""slmntevcnedurTa7,whcsvsbyt,nofa,addlt.Tetlrsslbeasf()HtM()Cs1:$()Cs2:$0()Cs3:$1()Cs4:$2()Cs5:$3()Cs6:$4()Cs7:$5()Cs8:$6()Cs9:$7()Cs1:$8()Cs1:$9()Cs1:$70()HtR1()Cs1:$2()Cs2:$3()Cs3:$4()Cs4:$5()Cs5:$6()Cs6:$7()Cs7:$8()Cs8:$9()Cs9:$0()Cs1:$1()Cs1:$2()Cs1:$3()BdM4()Cs1:$5()Cs2:$6()Cs3:$7()Cs4:$]
+[DELETED: B6N-ASADBYTESPe3()Cs5:$()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$()HnM0()Cs1:$1()Cs2:$2()Cs3:$3()Cs4:$4()Cs5:$5()Cs6:$6()Cs7:$7()Cs8:$8()Cs9:$9()Cs1:$0()Cs1:$1()Cs1:$2()HnS3()Cs1:$4()Cs2:$5()Cs3:$6()Cs4:$7()Cs5:$8()Cs6:$9()Cs7:$0()Cs8:$1()Cs9:$2()Cs1:$3()Cs1:$4()Cs1:$5()D6()Cs1:$7()Cs2:$]
+[DELETED: B6N-ASADBYTESPe4()Cs3:$()Cs4:$()Cs5:$()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$0()Cs1:$1()R2()Cs1:$3()Cs2:$4()Cs3:$5()Cs4:$6()Cs5:$7()Cs6:$8()Cs7:$9()Cs8:$0()Cs9:$1()Cs1:$2()Cs1:$3()Cs1:$4I.NgphIoftss,RA2,adayo5pnoflwtotec,tetlrsfrvsldonafdN6HeEZPsatugteNwHeectlcns7slrnctasofteeedeoftsseadatammasf8bdontlpaadvecnasddinTa7)ofteN9Heaer0()HtM1()Cs1:$2()Cs2:$3()Cs3:$4()Cs4:$5()Cs5:$6()Cs6:$7()Cs7:$]
+[DELETED: B6N-ASADBYTESPe5()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$()HtR()Cs1:$()Cs2:$()Cs3:$0()Cs4:$1()Cs5:$2()Cs6:$3()Cs7:$4()Cs8:$5()Cs9:$6()Cs1:$7()Cs1:$8()Cs1:$9()BdM0()Cs1:$1()Cs2:$2()Cs3:$3()Cs4:$4()Cs5:$5()Cs6:$6()Cs7:$7()Cs8:$8()Cs9:$9()Cs1:$0()Cs1:$1()Cs1:$2()HnM3()Cs1:$4()Cs2:$5()Cs3:$6()Cs4:$7()Cs5:$]
+[DELETED: B6N-ASADBYTESPe6()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$()HnS()Cs1:$0()Cs2:$1()Cs3:$2()Cs4:$3()Cs5:$4()Cs6:$5()Cs7:$6()Cs8:$7()Cs9:$8()Cs1:$9()Cs1:$0()Cs1:$1()D2()Cs1:$3()Cs2:$4()Cs3:$5()Cs4:$6()Cs5:$7()Cs6:$8()Cs7:$9()Cs8:$0()Cs9:$1()Cs1:$2()Cs1:$3()Cs1:$4()R5()Cs1:$6()Cs2:$7()Cs3:$]
+[DELETED: B6N-ASADBYTESPe7()Cs4:$()Cs5:$()Cs6:$()Cs7:$()Cs8:$()Cs9:$()Cs1:$()Cs1:$()Cs1:$02NwP;SeTnItP;TlReCnt1InR.AdRA29byigarphIItefgnwp2I.Tesetnitpmslieacnoft3cttlrsattedtoftsptinrefrc4bytegsaycnoniltnadtel53R.RA2,V,retoteEZPsdtonedtsonayoft6NwHetes,isr74EeD.Tsatslteet90dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATretotlreasadpcidtlrsfrtwHetesmtostte26tnpLIdSeIY26FY27FY28FY20$0$0$eFeF0$0$0$gSeF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblisadessytlrsbypaadvecsonteNeTeS,ighrrsfrchadnHEsu,amrsfrfdNHEsu,tostpsintess26TrTnPnadcrteogadmec.TtofTnhspdtefgtlressfracs1vgthteHtPlReSsfrHtPaCs1VeSoPdT$0$HEsfdarwhavebgnnrasddbA2$0$HEsfdarwhaventbrnnrasddbA2$0$HEsudarwhavebgnnrasddbA2]
+[DELETED: $0$HEsudarwhaventbrnnrasddbA2$0$HEsfdarwhavebgotbgarnnsddbyRA2$0$HEsudarwhavebgotbgarnnsddbyRA2vebgarn$0$hpgcrwhrasddbyRA2ventbgarn$0$hpgcrwhrasddbyRA2c)whvebga$0$dtsugtctlcnsm(nnrasddbA20c)whventbga$0$dtsugtctlcnsm(nnrasddbA2eedieintlr,ddbyScCsrwofteTcadReftadtefga,isasfs($ilYrTlBeSrSeTeT7$0$4$0$8$9$1$2$9$1$4$3$0$3$8$4$1$5$1$5$2$7$5$6$3$9$8$6$4$5$1$7$5$8$3$7$6$2$5$8$]
+[DELETED: AsatlieinFY2,eeJy2.Reisedona1raltcieofay1%pryAs5%ofcsltonaNHEsatad1%oftslnaNHEsatwlshtoNHEAs1%ofdechpsatadfswluete1stopytogtNHpeectlsmtlreDtestectadwhigtesecsrytsbltobeay$,idinFY2.Ina,tsblrsteofafetrfrapdof20dstoayNHrtwoosoymsanNHEsa.Tectctofa6Ctris$1crt.TeDthse,bdofnwcrataywh1,ttitwlieay10t,franedtlcto0(1x1SCtofT]

@@ -1,0 +1,153 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB411-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2183
+09/05
+411
+ANACT relativetotheprocedureconcerningsearchwarrantinventories.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Lang, Dist 2; Sen. McGough, Dist 11; Sen. Murphy,
+Dist 16; Sen. Rosenwald, Dist 13; Sen. Pearl, Dist 17; Rep. Bernardy, Rock. 36;
+Rep.M.Pearson,Rock.34;Rep.D.Mannion,Rock.25;Rep.L.Walsh,Rock.15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the process for creating an inventory concerning the execution of a search
+warrant.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB411-VERSIONADOPTEDBYBOTHBODIES
+26-2183
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheprocedureconcerningsearchwarrantinventories.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SearchWarrants;Receipt;Inventory;andReturn. AmendRSA595-A:5toreadasfollows:
+2 595-A:5 Receipt, Inventory, and Return. – The officer taking property under the warrant shall
+3 give to the person from whom, or from whose premises, the property was taken, a copy of the
+4 warrant and a receipt for the property taken, or shall leave the copy and receipt at the place from
+5 which the property was taken. The return shall be made promptly and shall be accompanied by a
+6 written inventory of any property taken. The inventory shall be made in the presence of [the
+7 applicant for the warrant] a law enforcement officer making the search and the person from
+8 whose possession or premises the property was taken, if they are present, or in the presence of at
+9 least one creditable person other than [the applicant for the warrant] the law enforcement officer
+10 making the search, or the person from whose possession or premises the property was taken, and
+11 shall be verified by the officer. If the warrant is for electronically stored, remote, or off-site
+12 information and is submitted electronically, the inventory may be made without a witness,
+13 provided that the law enforcement officer attests to its accuracy. The justice of a court of
+14 record shall upon request deliver a copy of the inventory to the person from whom or from whose
+15 premises the property was taken and to the applicant for the warrant. The justice of a court of
+16 record shall attach to the warrant a copy of the return, inventory and all other papers in connection
+17 therewith and shall file them with the clerk of the court to which the warrant is returnable. The
+18 returnshallbeinsubstantiallythefollowingform:
+19 Return
+20 Ireceivedtheattachedsearchwarranton..........,20 ,andhaveexecuteditasfollows:
+21 On .......... , 20 , at .......... o'clock ... M, I searched (the person) (the premises) described in the
+22 warrant and I left a copy of the warrant with (name of person searched or owner) at (the place of
+23 search)togetherwithareceiptfortheitemsseized.
+24 Thefollowingisaninventoryofpropertytakenpursuanttothewarrant:
+25 ................................................................................................................................................................
+26 ................................................................................................................................................................
+27 ................................................................................................................................................................
+28 ................................................................................................................................................................
+29 Thisinventorywasmadeinthepresenceof..........and..........
+30 I swear that this inventory is a true and detailed account of all the property taken by me on the
+31 warrant.
+SB411-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 ................................................................
+2 Subscribedandsworntoandreturnedbeforemethis..........dayof..........,20 .
+3 ................................................................
+4 JusticeoftheCourt
+5 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B41-VNADBYBHB6SEBNATretotepecgshwti:S.G,Dt2;S.L,Dt2;S.M,Dt1;S.Mt1;S.R,Dt1;S.P,Dt1;R.B,R.3.M.P,R.3;R.D.M,R.2;R.L.W,R.1:Jsblmstepsfrcganiycgteenofassblisartoftedtofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B41-VNADBYBHBEOFNWHnteYrofOrLdToTdTNATretotepecgshwtieitEdbyteSeadHeofRsinGlCtc1ShW;R;I;adR.AdRA55tordasf55R,I,adR.–Teortgpyurtewtsgetotepnfmw,orfmwep,tepywst,acyoftwtadartfrtepyt,orslletecyadrtattepefwhtepywst.Ternslbemepyadslbeadbywniyofaypyt.Teiyslbemeintepeof[atfrtew]alwetormgteshadtepnfwepnorpstepywst,iftyaep,orintepeofaltoecepnortn[eatfrtew]telweto0mgtes,ortepnfmwepnorpstepywst,a1slbevdbyteo.Iftewtisfreys,r,oro2inadissde,teiymybemewtaw3pdtttelwetorastoisa.Tejeofacto4rdslunrtdracyofteiytotepnfmwmorfmw5pstepywstnadtoteatfrtew.Tejeofacto6rdslahtotewtacyofter,iyadalorpsinc7thadslfetmwhteckoftecttowhtewtisr.T8rnslbeinsytefgf9R0Irdteadshwton.,20,adheeditasf1On..,20,at..ok..M,Isd(ep)(ep)ddint2wtadIltacyoftewtwh(eofpnsdoro)at(epeo3s)trwhartfrteiss4Tefgisaniyofpytnpttotew5.6.7.8.9Tsiywsmeintepeof..ad.0Isrtttsiyisateadddatofaltepytnbymeont1w]
+[DELETED: B41-VNADBYBHBPe2.Sdadsntoadrdbemets..dyof..,20.JeofteC2EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB411-VERSIONADOPTEDBYBOTHBODIES
+2026SESSION
+26-2183
+09/05
+411
+SENATEBILL
+ANACT relativetotheprocedureconcerningsearchwarrantinventories.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Lang, Dist 2; Sen. McGough, Dist 11; Sen. Murphy,
+Dist 16; Sen. Rosenwald, Dist 13; Sen. Pearl, Dist 17; Rep. Bernardy, Rock. 36;
+Rep.M.Pearson,Rock.34;Rep.D.Mannion,Rock.25;Rep.L.Walsh,Rock.15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the process for creating an inventory concerning the execution of a search
+warrant.
+Thisbillisarequestofthedepartmentofsafety.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB411-VERSIONADOPTEDBYBOTHBODIES
+26-2183
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheprocedureconcerningsearchwarrantinventories.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 SearchWarrants;Receipt;Inventory;andReturn. AmendRSA595-A:5toreadasfollows:
+2 595-A:5 Receipt, Inventory, and Return. – The officer taking property under the warrant shall
+3 give to the person from whom, or from whose premises, the property was taken, a copy of the
+4 warrant and a receipt for the property taken, or shall leave the copy and receipt at the place from
+5 which the property was taken. The return shall be made promptly and shall be accompanied by a
+6 written inventory of any property taken. The inventory shall be made in the presence of [the
+7 applicant for the warrant] a law enforcement officer making the search and the person from
+8 whose possession or premises the property was taken, if they are present, or in the presence of at
+9 least one creditable person other than [the applicant for the warrant] the law enforcement officer
+10 making the search, or the person from whose possession or premises the property was taken, and
+11 shall be verified by the officer. If the warrant is for electronically stored, remote, or off-site
+12 information and is submitted electronically, the inventory may be made without a witness,
+13 provided that the law enforcement officer attests to its accuracy. The justice of a court of
+14 record shall upon request deliver a copy of the inventory to the person from whom or from whose
+15 premises the property was taken and to the applicant for the warrant. The justice of a court of
+16 record shall attach to the warrant a copy of the return, inventory and all other papers in connection
+17 therewith and shall file them with the clerk of the court to which the warrant is returnable. The
+18 returnshallbeinsubstantiallythefollowingform:
+19 Return
+20 Ireceivedtheattachedsearchwarranton..........,20 ,andhaveexecuteditasfollows:
+21 On .......... , 20 , at .......... o'clock ... M, I searched (the person) (the premises) described in the
+22 warrant and I left a copy of the warrant with (name of person searched or owner) at (the place of
+23 search)togetherwithareceiptfortheitemsseized.
+24 Thefollowingisaninventoryofpropertytakenpursuanttothewarrant:
+25 ................................................................................................................................................................
+26 ................................................................................................................................................................
+27 ................................................................................................................................................................
+28 ................................................................................................................................................................
+29 Thisinventorywasmadeinthepresenceof..........and..........
+30 I swear that this inventory is a true and detailed account of all the property taken by me on the
+31 warrant.
+
+SB411-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 ................................................................
+2 Subscribedandsworntoandreturnedbeforemethis..........dayof..........,20 .
+3 ................................................................
+4 JusticeoftheCourt
+5 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B41-VNADBYBHB6SEBNATretotepecgshwti:S.G,Dt2;S.L,Dt2;S.M,Dt1;S.Mt1;S.R,Dt1;S.P,Dt1;R.B,R.3.M.P,R.3;R.D.M,R.2;R.L.W,R.1:Jsblmstepsfrcganiycgteenofassblisartoftedtofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B41-VNADBYBHBEOFNWHnteYrofOrLdToTdTNATretotepecgshwtieitEdbyteSeadHeofRsinGlCtc1ShW;R;I;adR.AdRA55tordasf55R,I,adR.–Teortgpyurtewtsgetotepnfmw,orfmwep,tepywst,acyoftwtadartfrtepyt,orslletecyadrtattepefwhtepywst.Ternslbemepyadslbeadbywniyofaypyt.Teiyslbemeintepeof[atfrtew]alwetormgteshadtepnfwepnorpstepywst,iftyaep,orintepeofaltoecepnortn[eatfrtew]telweto0mgtes,ortepnfmwepnorpstepywst,a1slbevdbyteo.Iftewtisfreys,r,oro2inadissde,teiymybemewtaw3pdtttelwetorastoisa.Tejeofacto4rdslunrtdracyofteiytotepnfmwmorfmw5pstepywstnadtoteatfrtew.Tejeofacto6rdslahtotewtacyofter,iyadalorpsinc7thadslfetmwhteckoftecttowhtewtisr.T8rnslbeinsytefgf9R0Irdteadshwton.,20,adheeditasf1On..,20,at..ok..M,Isd(ep)(ep)ddint2wtadIltacyoftewtwh(eofpnsdoro)at(epeo3s)trwhartfrteiss4Tefgisaniyofpytnpttotew5.6.7.8.9Tsiywsmeintepeof..ad.0Isrtttsiyisateadddatofaltepytnbymeont1w]
+[DELETED: B41-VNADBYBHBPe2.Sdadsntoadrdbemets..dyof..,20.JeofteC2EeD.TsatslteetJy1,2]

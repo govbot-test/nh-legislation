@@ -1,0 +1,353 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB447 -ASINTRODUCED
+2026SESSION
+26-2020
+06/08
+447
+ANACT enabling electric utilities to own, operate, and offer advanced nuclear resources,
+and relative to purchased power agreements for electric distribution utilities and
+limitationsoncommunitycustomergenerators.
+SPONSORS: Sen. Avard, Dist 12; Sen. Lang, Dist 2; Sen. McConkey, Dist 3; Sen. Pearl, Dist
+17;Rep.Sabourin,Rock.30;Rep.Notter,Hills.12;Rep.D.Thomas,Rock.16
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Defines "advanced nuclear resource" (ANR) and includes ANR options alongside renewable
+energysourcesforutilityservices.
+II. Setslimitationsandguidelinesforinvestmentsindistributedelectricgeneration.
+III. Clarifiesthecoordinator'sdutiesinnucleardevelopmentandregulatoryactivities.
+IV. Allows the department of energy or the electric distribution utilities, or both, to issue
+requests for proposals (RFPs) for multi-year agreements for energy, in conjunction with or
+independent of any attendant environmental attributes from electric energy sources, and coordinate
+withoneormoreNewEnglandstatesinissuingthisRFP.
+V. Modifies the scope and capacity limits of community solar projects, including expanding the
+annualcapforlow-moderateincomecommunitysolarprojectsfrom6MWto18MW.
+VI. Allows group net metering members to sign agreements with multiple group hosts, as long
+astheircombinedallocatedloaddoesnotexceedtheirtotalload.
+VII. Expands the definition of "political subdivision" to include public housing authorities and
+explainseligibilityforparticipationingroupnetmetering.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB447-ASINTRODUCED
+26-2020
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling electric utilities to own, operate, and offer advanced nuclear resources,
+and relative to purchased power agreements for electric distribution utilities and
+limitationsoncommunitycustomergenerators.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. The cost of electricity supply in New Hampshire is higher than the national average and
+3 continuestocreateaneconomicburdenonthestate’scitizensandbusinesses.
+4 II. The cost of electricity in New England is driven by a number of factors, including the
+5 retirements of baseload generation resources, lack of adequate natural gas capacity in the winter,
+6 andincreasesinthecostofnaturalgasduetointernationalfactors.
+7 III. The retention and development of reliable sources of low-cost electricity supply are
+8 criticaltostabilizingandreducingthecostofelectricityinNewHampshire.
+9 IV. MarketvolatilityisharmingNewHampshire’sresidentsandbusinesses.
+10 V. Toensure that New Hampshireratepayers canbenefit from cost-effectiveenergysources,
+11 the general court finds that it is appropriate to allow the electric distribution utilities to issue
+12 requests for proposals to provide more diverse and long-term options for providing energy service to
+13 customers.
+14 2 Coordination of Studies and Development Activities; Position Established. Amend RSA 162-
+15 B:4,IIItoreadasfollows:
+16 III. The coordinator of nuclear development and regulatory activities shall have the duty to
+17 coordinate and produce the reports required by RSA 162-B:3, as well as coordinate the studies
+18 conducted, and the recommendations and proposals made, in this state with like activities in New
+19 England and other states and with the policies and regulations of the United States Nuclear
+20 Regulatory Commission. These activities may include the management of funding and
+21 oversightof nuclear incentive programs, such as those described by RSA 374-G:4, as well as
+22 outreachprogramstoinformandeducatethepublic,particularlyregardingsafety.
+23 3 NetMetering. AmendRSA362-A:9,IIIandIVtoreadasfollows:
+24 III. Metering shall be done in accordance with normal metering practices. A single net
+25 meter that shows the customer's net energy usage by measuring both the inflow and outflow of
+26 electricity internally shall be the extent of metering that is required at facilities with a total peak
+27 generating capacity of not more than [100] 500 kilowatts. A bidirectional metering system that
+28 recordsthetotalamountofelectricitythatflowsineachdirectionfromthecustomerpremises,either
+29 instantaneously or over intervals of an hour or less, shall be required at facilities with a total peak
+SB447 -ASINTRODUCED
+-Page2-
+1 generatingcapacityofmorethan[100]500kilowatts. Thebidirectionalsystemmayconsistofoneor
+2 more meters, as long as it can be used to appropriately meter and bill in compliance with utility
+3 tariffsandrules. Customer-generatorsshallnotberequiredtopayfortheinstallationofnetmeters,
+4 but shall pay for the installation of, or procure at their own cost if approved by the interconnecting
+5 utility,allbidirectionalmeteringsystemsasoutlinedinutilityinterconnectiontariffsorrules.
+6 IV. (a) For facilities with a total peak generating capacity of not more than [100] 500
+7 kilowatts, when billing a customer-generator under a net energy metering tariff that is not time-
+8 based, the utility shall apply the customer's net energy usage when calculating all charges that are
+9 basedonkilowatthourusage. Customernetenergyusageshallequalthekilowatthourssuppliedto
+10 the customer over the electric distribution system minus the kilowatt hours generated by the
+11 customer-generatorandfedintotheelectricdistributionsystemoverabillingperiod.
+12 (b) For facilities with a total peak generating capacity of more than [100] 500 kilowatts,
+13 the customer-generator shall pay all applicable charges on all kilowatt hours supplied to the
+14 customer over the electric distribution system, less a credit on default service charges equal to the
+15 metered energy generated by the customer-generator and fed into the electric distribution system
+16 overabillingperiod.
+17 4 NetEnergyMetering. AmendRSA362-A:9,XIV(e)toreadasfollows:
+18 XIV. (e) The department of energy, by rule or order, shall develop a process by which
+19 community solar developers can apply for designation as a community solar project for new solar
+20 arrays. Such projects designate their production for the benefit of households on the list required in
+21 subparagraph (d). Such projects will qualify for the low-moderate income solar addition as
+22 established in subparagraph (c) and shall specify the amount of on-bill credit they can offer to low-
+23 moderate income households. Annually, the number of projects designated as low-moderate income
+24 community solar shall not exceed a total nameplate capacity rating of [6] 18 megawatts in the
+25 aggregate. If more than [6] 18 megawatts of projects apply for designation, the department of
+26 energy shall select the projects that offer the largest on-bill credit and that demonstrates project
+27 readiness.
+28 5 Definitions. AmendRSA362-A:1-a,II-ctoreadasfollows:
+29 II-c. "Municipal host" means a customer generator with a total peak generating capacity of
+30 greaterthanonemegawattandlessthan5megawattsusedtooffsettheelectricityrequirementsofa
+31 group consisting exclusively of one or more customers who are political subdivisions, provided that
+32 all customers are located within the same utility franchise service territory. A municipal host may
+33 be owned by either a public or private entity. For this definition, "political subdivision" means the
+34 state of New Hampshire or any city, town, county, school district, chartered public school, village
+35 district, school administrative unit, [or any district or entity created for a special purpose
+36 administered or funded by any of the above-named governmental units] nonprofit educational
+37 institution, or any district or entity created for a special purpose administered or funded
+SB447 -ASINTRODUCED
+-Page3-
+1 by any of the above-mentioned governmental units; such districts or entities include public
+2 housingauthorities.
+3 6 New Paragraph; Electric Utility Restructuring; Definitions. Amend RSA 374-F:2 by inserting
+4 afterparagraphIIthefollowingnewparagraph:
+5 II-a. “Advanced nuclear resource" (ANR) means generation IV nuclear technologies that
+6 include gas-cooled, lead-cooled, sodium-cooled, supercritical water-cooled, and molten salt and very
+7 high temperature reactors, small modular, thermal-only, and encased fuel pellet reactors, including
+8 any micro, mini, or small nuclear reactor having a generating capacity between 0 and 300
+9 megawatts.
+10 7 Definitions. AmendRSA362-F:2,X-atoreadasfollows:
+11 X-a. "Low-moderate income community solar project" means ground-mounted or rooftop
+12 solar arrays, with a total peak generating capacity of up to and including 3 megawatts, that
+13 directly benefit a group of at least 5 residential end-user customers, where at least a majority of the
+14 residential end-user customers are at or below 300 percent of the federal poverty guidelines, or
+15 directly benefit the residents of a public housing authority created pursuant to RSA 203, or a
+16 housing project as described in RSA 78-B:2, XXIII, where the electric bills are either paid directly by
+17 the residents or by the public housing authority or housing project, provided that at least a majority
+18 of the residents receiving the direct benefit are at or below 80 percent of the Area Median Income
+19 (AMI) calculated by the Department of Housing and Urban Development. No more than 15 percent
+20 oftheprojectedloadforsuchprojectshallbeattributabletonon-residentialend-usercustomers.
+21 8 Purchased Power Agreements. Amend the introductory paragraph of RSA 374-F:11, I to read
+22 asfollows:
+23 I. Investor-owned electric distribution utilities may elect to develop and, no later than June
+24 30, [2025] 2040, issue a request for proposals for multi-year agreements for energy, in conjunction
+25 withorindependentofanyattendantenvironmentalattributesfromelectricenergysources.
+26 9 PurchasedPowerAgreements. AmendRSA374-F:11,I(g)toreadasfollows:
+27 (g) All megawatt hours procured through agreements made pursuant to this section
+28 shallcomefromexisting,new,orincrementalelectricenergysources.
+29 10 New Subparagraph; Purchased Power Agreements. Amend RSA 374-F:11, I(h) by inserting
+30 aftersubparagraph(2)thefollowingnewsubparagraphs:
+31 (3) "Existing electric energy sources" means all sources that currently provide
+32 energy to the ISO-NE regional markets, including nuclear power generation facilities located in the
+33 ISO-NEcontrolareathatcommencedcommercialoperationbeforeJanuary1,2011.
+34 (4) Upon the petition of one or more electric distribution utilities, and after notice
+35 and hearing, the public utilities commission may authorize such utility or utilities to enter into
+36 multi-year agreements with existing, new, or incremental electric energy sources up to a total of 3
+SB447 -ASINTRODUCED
+-Page4-
+1 million megawatt hours statewide, on an annual basis, if it finds such agreements to be just and
+2 reasonableandinthepublicinterest.
+3 (5) Further, any single source shall be eligible to procure an amount of energy not to
+4 exceed 1 million megawatt hours statewide, on an annual basis, except for advanced nuclear
+5 resources as defined in RSA 374-F:2, II-a, which may procure an amount not to exceed 2 million
+6 megawatthoursonanannualbasis.
+7 11 Purchased Power Agreements. Amend the introductory paragraph for RSA 374-F:11, II to
+8 readasfollows:
+9 II. Any investor-owned electric distribution utility electing to enter into an agreement
+10 pursuant to this section shall petition the public utilities commission for authorization to enter the
+11 agreementnolaterthanJune30,[2026]2041.
+12 12 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B47-ASI6SEBNATegecustoo,o,adoradnrrdretopdprasfrecdnusasoncycrg:S.A,Dt1;S.L,Dt2;S.M,Dt3;S.P,D;R.S,R.3;R.N,H.1;R.D.T,R.1:EyadNlRsb.Ds"dnrr"()adisARosaeryssfruys.Sslsadgsfrisinddecg.Cstecsdsinnrdtadrya.Astedtofeyorteecdnu,orb,toisfrps()frmrasfre,incnwhotofayatelasfmeceys,adchoeormeNwEdssinigtsR.Msteseadcylsofcysrp,igegtlcpfrleiecysrpsfm6MWto18M.Asgpntmgmstosnaswhmegph,aslstrcdadlddsntedtrtll.Estednof"ls"toiepchgasaseyfrpningpntm-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B47-ASIEOFNWHnteYrofOrLdToTdTNATegecustoo,o,adoradnrrdretopdprasfrecdnusasoncycrgeitEdbyteSeadHeofRsinGlCtc1FsadP.TeglctfstI.TectofeysyinNwHeishrtntenlaeacstoceanecbnontesscsadbI.TectofeyinNwEdisdnbyanroff,igtrsofbdgnr,lkofaenlgscyintewadisintectofnlgsdetoilfI.TernaddtofressoflteysyacltosgadrgtectofeyinNwHI.MtvyishgNwHsrsadb0V.ToeettNwHerscnbtfmceeys1teglctfsttitisaetoawteecdnustoi2rsfrpstopemedeadlmosfrpgeyset3c42CnofSsadDtA;PnE.AdRA15B,IItordasf6I.Tecrofnrdtadryasslhetedyt7ceadpetersrdbyRA1,aswlascetes8c,adtersadpsm,intssewhleasinN9EdadorssadwhtepsadrsofteUdSsN0RyC.Teasmyietemtoffga1otofnriep,shasteddbyRA3,aswla2ohpstoimadeetep,pyrgs33NtM.AdRA3,IIadIVtordasf4I.Mgslbedeinaewhnlmgp.Asen5mrttsstecsnteyuebymgbhteiwadowo6eyiyslbeteetofmgttisrdatfswhatlp7ggcyofntmetn[]50k.Ablmgsmt8rstetlatofeyttfsinehdnfmtecrp,e9iyororisofanhrorl,slberdatfswhatlp]
+[DELETED: B47-ASIPe2ggcyofmetn[]50k.Teblsmmyctofoeomem,aslgasitcnbeudtoaymradblincewhutsadr.Csslntberdtopyfrteinofntmbtslpyfrteino,orpeattronctifadbyteiu,alblmgssasodinuyintsorrI.()Frfswhatlpkggcyofntmetn[]5k,wnbgacruranteymgtfttisnttb,teuyslaytecsnteyuewncgalcsttabdonkthru.Crnteyuesleltekthssdt0tecrorteecdnsmmstekthsgdbyt1cradfdioteecdnsmorabgp2()Frfswhatlpkggcyofmetn[]50k3tecrslpyalaecsonalkthssdtot4crorteecdns,lsactondtsecseltot5mdeygdbytecradfdioteecdns6orabgp74NtEyM.AdRA3,X)tordasf8X.()Tedtofe,byreoro,sldpapsbyw9cysrdscnayfrdnasacysrptfrnws0a.Shpsdetrpnfrtebtofhsonteltrdi1sh(.Shpswlqyfrteleiesrana2edinsh()adslsyteatofolcttycnortol3meieh.A,tenrofpsddaslei4cysrslntedatlnecyrgof[]18msint5a.Ifmetn[]18msofpsayfrd,tedto6eyslsttepsttorteltolctadttdsp7r85D.AdRA3,Ictordasf9I."lh"msacrgrwhatlpkggcyo0grtnoemtadlstn5msudtootteeyrsof1gpcgeyofoeormecswoaepls,pdt2alcsaeldwnteseuyfeset.Amlhtm3beodbyerapcorpee.Frtsd,"ls"mst4seofNwHeorayc,t,c,sld,cdpcs,v5d,slaeu,[raydtoreycdfraslp6adorfdbyayofteadglu]nte7i,oraydtoreycdfraslpeadorf]
+[DELETED: B47-ASIPe3byayofteadglu;shdsoresiephga6NwP;EcUyR;D.AdRA32byiarphIItefgnwpI.“dnrr"()msgnIVnrtstieg,l,s,slw,admnstadvhhter,slm,t,adedflptr,iaym,m,orslnrrrhgaggcybn0ad3m07D.AdRA3,Xatordasf1X."eiecysrp"msgdorr2sra,whatlpkggcyofuptoadig3m,t3dybtagpofatlt5rlerc,weatltamyoft4rlercsaeatorbw30ptofteflpyg,o5dybttersofapchgaycdpttoRA2,or6hgptasddinRA7,X,weteecbsaeerpddyb7tersorbytepchgayorhgp,pdttatltam8oftersrgtedtbtaeatorbw80ptofteAaMnI9()cdbyteDtofHgadUnD.Nometn15p0oftepdldfrshptslbeaetonlerc18PdPrA.AdteiyphofRA3,Itor2asf3I.Idecdnusmyettodpa,nolrtnJ43,[]2,ieartfrpsfrmrasfre,inc5whoritofayatelasfmeceys69PdPrA.AdRA3,I)tordasf7()Almthspdthasmepttotss8slcefme,n,orileceys910NwS;PdPrA.AdRA3,I)byi0arsh()tefgnws1()"geceys"msalssttcyp2eytoteIErlm,ignrprgnfsldint3IEclaattcdclonbeJy1,24()Untepnofoeormeecdnu,adarn5adh,tepcuscnmyaeshuyorustoeri6mraswhegn,orileceyssuptoatlof]
+[DELETED: B47-ASIPe4mnmthss,onanalb,ifitfsshastobejtareadintepci()F,ayseseslbeeetopeanatofeyntted1mnmthss,onanalb,etfradnrsasddinRA3,I,whmypeanatnttoed2mmthsonanalb11PdPrA.AdteiyphfrRA3,IItrdasfI.Ayidecdnuyegtoerioana0pttotssnslpntepcuscnfrantoert1atnolrtnJe3,[]2212EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB447 -ASINTRODUCED
+2026SESSION
+26-2020
+06/08
+447
+SENATEBILL
+ANACT enabling electric utilities to own, operate, and offer advanced nuclear resources,
+and relative to purchased power agreements for electric distribution utilities and
+limitationsoncommunitycustomergenerators.
+SPONSORS: Sen. Avard, Dist 12; Sen. Lang, Dist 2; Sen. McConkey, Dist 3; Sen. Pearl, Dist
+17;Rep.Sabourin,Rock.30;Rep.Notter,Hills.12;Rep.D.Thomas,Rock.16
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Defines "advanced nuclear resource" (ANR) and includes ANR options alongside renewable
+energysourcesforutilityservices.
+II. Setslimitationsandguidelinesforinvestmentsindistributedelectricgeneration.
+III. Clarifiesthecoordinator'sdutiesinnucleardevelopmentandregulatoryactivities.
+IV. Allows the department of energy or the electric distribution utilities, or both, to issue
+requests for proposals (RFPs) for multi-year agreements for energy, in conjunction with or
+independent of any attendant environmental attributes from electric energy sources, and coordinate
+withoneormoreNewEnglandstatesinissuingthisRFP.
+V. Modifies the scope and capacity limits of community solar projects, including expanding the
+annualcapforlow-moderateincomecommunitysolarprojectsfrom6MWto18MW.
+VI. Allows group net metering members to sign agreements with multiple group hosts, as long
+astheircombinedallocatedloaddoesnotexceedtheirtotalload.
+VII. Expands the definition of "political subdivision" to include public housing authorities and
+explainseligibilityforparticipationingroupnetmetering.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB447-ASINTRODUCED
+26-2020
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling electric utilities to own, operate, and offer advanced nuclear resources,
+and relative to purchased power agreements for electric distribution utilities and
+limitationsoncommunitycustomergenerators.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. The cost of electricity supply in New Hampshire is higher than the national average and
+3 continuestocreateaneconomicburdenonthestate’scitizensandbusinesses.
+4 II. The cost of electricity in New England is driven by a number of factors, including the
+5 retirements of baseload generation resources, lack of adequate natural gas capacity in the winter,
+6 andincreasesinthecostofnaturalgasduetointernationalfactors.
+7 III. The retention and development of reliable sources of low-cost electricity supply are
+8 criticaltostabilizingandreducingthecostofelectricityinNewHampshire.
+9 IV. MarketvolatilityisharmingNewHampshire’sresidentsandbusinesses.
+10 V. Toensure that New Hampshireratepayers canbenefit from cost-effectiveenergysources,
+11 the general court finds that it is appropriate to allow the electric distribution utilities to issue
+12 requests for proposals to provide more diverse and long-term options for providing energy service to
+13 customers.
+14 2 Coordination of Studies and Development Activities; Position Established. Amend RSA 162-
+15 B:4,IIItoreadasfollows:
+16 III. The coordinator of nuclear development and regulatory activities shall have the duty to
+17 coordinate and produce the reports required by RSA 162-B:3, as well as coordinate the studies
+18 conducted, and the recommendations and proposals made, in this state with like activities in New
+19 England and other states and with the policies and regulations of the United States Nuclear
+20 Regulatory Commission. These activities may include the management of funding and
+21 oversightof nuclear incentive programs, such as those described by RSA 374-G:4, as well as
+22 outreachprogramstoinformandeducatethepublic,particularlyregardingsafety.
+23 3 NetMetering. AmendRSA362-A:9,IIIandIVtoreadasfollows:
+24 III. Metering shall be done in accordance with normal metering practices. A single net
+25 meter that shows the customer's net energy usage by measuring both the inflow and outflow of
+26 electricity internally shall be the extent of metering that is required at facilities with a total peak
+27 generating capacity of not more than [100] 500 kilowatts. A bidirectional metering system that
+28 recordsthetotalamountofelectricitythatflowsineachdirectionfromthecustomerpremises,either
+29 instantaneously or over intervals of an hour or less, shall be required at facilities with a total peak
+
+SB447 -ASINTRODUCED
+-Page2-
+1 generatingcapacityofmorethan[100]500kilowatts. Thebidirectionalsystemmayconsistofoneor
+2 more meters, as long as it can be used to appropriately meter and bill in compliance with utility
+3 tariffsandrules. Customer-generatorsshallnotberequiredtopayfortheinstallationofnetmeters,
+4 but shall pay for the installation of, or procure at their own cost if approved by the interconnecting
+5 utility,allbidirectionalmeteringsystemsasoutlinedinutilityinterconnectiontariffsorrules.
+6 IV. (a) For facilities with a total peak generating capacity of not more than [100] 500
+7 kilowatts, when billing a customer-generator under a net energy metering tariff that is not time-
+8 based, the utility shall apply the customer's net energy usage when calculating all charges that are
+9 basedonkilowatthourusage. Customernetenergyusageshallequalthekilowatthourssuppliedto
+10 the customer over the electric distribution system minus the kilowatt hours generated by the
+11 customer-generatorandfedintotheelectricdistributionsystemoverabillingperiod.
+12 (b) For facilities with a total peak generating capacity of more than [100] 500 kilowatts,
+13 the customer-generator shall pay all applicable charges on all kilowatt hours supplied to the
+14 customer over the electric distribution system, less a credit on default service charges equal to the
+15 metered energy generated by the customer-generator and fed into the electric distribution system
+16 overabillingperiod.
+17 4 NetEnergyMetering. AmendRSA362-A:9,XIV(e)toreadasfollows:
+18 XIV. (e) The department of energy, by rule or order, shall develop a process by which
+19 community solar developers can apply for designation as a community solar project for new solar
+20 arrays. Such projects designate their production for the benefit of households on the list required in
+21 subparagraph (d). Such projects will qualify for the low-moderate income solar addition as
+22 established in subparagraph (c) and shall specify the amount of on-bill credit they can offer to low-
+23 moderate income households. Annually, the number of projects designated as low-moderate income
+24 community solar shall not exceed a total nameplate capacity rating of [6] 18 megawatts in the
+25 aggregate. If more than [6] 18 megawatts of projects apply for designation, the department of
+26 energy shall select the projects that offer the largest on-bill credit and that demonstrates project
+27 readiness.
+28 5 Definitions. AmendRSA362-A:1-a,II-ctoreadasfollows:
+29 II-c. "Municipal host" means a customer generator with a total peak generating capacity of
+30 greaterthanonemegawattandlessthan5megawattsusedtooffsettheelectricityrequirementsofa
+31 group consisting exclusively of one or more customers who are political subdivisions, provided that
+32 all customers are located within the same utility franchise service territory. A municipal host may
+33 be owned by either a public or private entity. For this definition, "political subdivision" means the
+34 state of New Hampshire or any city, town, county, school district, chartered public school, village
+35 district, school administrative unit, [or any district or entity created for a special purpose
+36 administered or funded by any of the above-named governmental units] nonprofit educational
+37 institution, or any district or entity created for a special purpose administered or funded
+
+SB447 -ASINTRODUCED
+-Page3-
+1 by any of the above-mentioned governmental units; such districts or entities include public
+2 housingauthorities.
+3 6 New Paragraph; Electric Utility Restructuring; Definitions. Amend RSA 374-F:2 by inserting
+4 afterparagraphIIthefollowingnewparagraph:
+5 II-a. “Advanced nuclear resource" (ANR) means generation IV nuclear technologies that
+6 include gas-cooled, lead-cooled, sodium-cooled, supercritical water-cooled, and molten salt and very
+7 high temperature reactors, small modular, thermal-only, and encased fuel pellet reactors, including
+8 any micro, mini, or small nuclear reactor having a generating capacity between 0 and 300
+9 megawatts.
+10 7 Definitions. AmendRSA362-F:2,X-atoreadasfollows:
+11 X-a. "Low-moderate income community solar project" means ground-mounted or rooftop
+12 solar arrays, with a total peak generating capacity of up to and including 3 megawatts, that
+13 directly benefit a group of at least 5 residential end-user customers, where at least a majority of the
+14 residential end-user customers are at or below 300 percent of the federal poverty guidelines, or
+15 directly benefit the residents of a public housing authority created pursuant to RSA 203, or a
+16 housing project as described in RSA 78-B:2, XXIII, where the electric bills are either paid directly by
+17 the residents or by the public housing authority or housing project, provided that at least a majority
+18 of the residents receiving the direct benefit are at or below 80 percent of the Area Median Income
+19 (AMI) calculated by the Department of Housing and Urban Development. No more than 15 percent
+20 oftheprojectedloadforsuchprojectshallbeattributabletonon-residentialend-usercustomers.
+21 8 Purchased Power Agreements. Amend the introductory paragraph of RSA 374-F:11, I to read
+22 asfollows:
+23 I. Investor-owned electric distribution utilities may elect to develop and, no later than June
+24 30, [2025] 2040, issue a request for proposals for multi-year agreements for energy, in conjunction
+25 withorindependentofanyattendantenvironmentalattributesfromelectricenergysources.
+26 9 PurchasedPowerAgreements. AmendRSA374-F:11,I(g)toreadasfollows:
+27 (g) All megawatt hours procured through agreements made pursuant to this section
+28 shallcomefromexisting,new,orincrementalelectricenergysources.
+29 10 New Subparagraph; Purchased Power Agreements. Amend RSA 374-F:11, I(h) by inserting
+30 aftersubparagraph(2)thefollowingnewsubparagraphs:
+31 (3) "Existing electric energy sources" means all sources that currently provide
+32 energy to the ISO-NE regional markets, including nuclear power generation facilities located in the
+33 ISO-NEcontrolareathatcommencedcommercialoperationbeforeJanuary1,2011.
+34 (4) Upon the petition of one or more electric distribution utilities, and after notice
+35 and hearing, the public utilities commission may authorize such utility or utilities to enter into
+36 multi-year agreements with existing, new, or incremental electric energy sources up to a total of 3
+
+SB447 -ASINTRODUCED
+-Page4-
+1 million megawatt hours statewide, on an annual basis, if it finds such agreements to be just and
+2 reasonableandinthepublicinterest.
+3 (5) Further, any single source shall be eligible to procure an amount of energy not to
+4 exceed 1 million megawatt hours statewide, on an annual basis, except for advanced nuclear
+5 resources as defined in RSA 374-F:2, II-a, which may procure an amount not to exceed 2 million
+6 megawatthoursonanannualbasis.
+7 11 Purchased Power Agreements. Amend the introductory paragraph for RSA 374-F:11, II to
+8 readasfollows:
+9 II. Any investor-owned electric distribution utility electing to enter into an agreement
+10 pursuant to this section shall petition the public utilities commission for authorization to enter the
+11 agreementnolaterthanJune30,[2026]2041.
+12 12 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B47-ASI6SEBNATegecustoo,o,adoradnrrdretopdprasfrecdnusasoncycrg:S.A,Dt1;S.L,Dt2;S.M,Dt3;S.P,D;R.S,R.3;R.N,H.1;R.D.T,R.1:EyadNlRsb.Ds"dnrr"()adisARosaeryssfruys.Sslsadgsfrisinddecg.Cstecsdsinnrdtadrya.Astedtofeyorteecdnu,orb,toisfrps()frmrasfre,incnwhotofayatelasfmeceys,adchoeormeNwEdssinigtsR.Msteseadcylsofcysrp,igegtlcpfrleiecysrpsfm6MWto18M.Asgpntmgmstosnaswhmegph,aslstrcdadlddsntedtrtll.Estednof"ls"toiepchgasaseyfrpningpntm-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B47-ASIEOFNWHnteYrofOrLdToTdTNATegecustoo,o,adoradnrrdretopdprasfrecdnusasoncycrgeitEdbyteSeadHeofRsinGlCtc1FsadP.TeglctfstI.TectofeysyinNwHeishrtntenlaeacstoceanecbnontesscsadbI.TectofeyinNwEdisdnbyanroff,igtrsofbdgnr,lkofaenlgscyintewadisintectofnlgsdetoilfI.TernaddtofressoflteysyacltosgadrgtectofeyinNwHI.MtvyishgNwHsrsadb0V.ToeettNwHerscnbtfmceeys1teglctfsttitisaetoawteecdnustoi2rsfrpstopemedeadlmosfrpgeyset3c42CnofSsadDtA;PnE.AdRA15B,IItordasf6I.Tecrofnrdtadryasslhetedyt7ceadpetersrdbyRA1,aswlascetes8c,adtersadpsm,intssewhleasinN9EdadorssadwhtepsadrsofteUdSsN0RyC.Teasmyietemtoffga1otofnriep,shasteddbyRA3,aswla2ohpstoimadeetep,pyrgs33NtM.AdRA3,IIadIVtordasf4I.Mgslbedeinaewhnlmgp.Asen5mrttsstecsnteyuebymgbhteiwadowo6eyiyslbeteetofmgttisrdatfswhatlp7ggcyofntmetn[]50k.Ablmgsmt8rstetlatofeyttfsinehdnfmtecrp,e9iyororisofanhrorl,slberdatfswhatlp]
+[DELETED: B47-ASIPe2ggcyofmetn[]50k.Teblsmmyctofoeomem,aslgasitcnbeudtoaymradblincewhutsadr.Csslntberdtopyfrteinofntmbtslpyfrteino,orpeattronctifadbyteiu,alblmgssasodinuyintsorrI.()Frfswhatlpkggcyofntmetn[]5k,wnbgacruranteymgtfttisnttb,teuyslaytecsnteyuewncgalcsttabdonkthru.Crnteyuesleltekthssdt0tecrorteecdnsmmstekthsgdbyt1cradfdioteecdnsmorabgp2()Frfswhatlpkggcyofmetn[]50k3tecrslpyalaecsonalkthssdtot4crorteecdns,lsactondtsecseltot5mdeygdbytecradfdioteecdns6orabgp74NtEyM.AdRA3,X)tordasf8X.()Tedtofe,byreoro,sldpapsbyw9cysrdscnayfrdnasacysrptfrnws0a.Shpsdetrpnfrtebtofhsonteltrdi1sh(.Shpswlqyfrteleiesrana2edinsh()adslsyteatofolcttycnortol3meieh.A,tenrofpsddaslei4cysrslntedatlnecyrgof[]18msint5a.Ifmetn[]18msofpsayfrd,tedto6eyslsttepsttorteltolctadttdsp7r85D.AdRA3,Ictordasf9I."lh"msacrgrwhatlpkggcyo0grtnoemtadlstn5msudtootteeyrsof1gpcgeyofoeormecswoaepls,pdt2alcsaeldwnteseuyfeset.Amlhtm3beodbyerapcorpee.Frtsd,"ls"mst4seofNwHeorayc,t,c,sld,cdpcs,v5d,slaeu,[raydtoreycdfraslp6adorfdbyayofteadglu]nte7i,oraydtoreycdfraslpeadorf]
+[DELETED: B47-ASIPe3byayofteadglu;shdsoresiephga6NwP;EcUyR;D.AdRA32byiarphIItefgnwpI.“dnrr"()msgnIVnrtstieg,l,s,slw,admnstadvhhter,slm,t,adedflptr,iaym,m,orslnrrrhgaggcybn0ad3m07D.AdRA3,Xatordasf1X."eiecysrp"msgdorr2sra,whatlpkggcyofuptoadig3m,t3dybtagpofatlt5rlerc,weatltamyoft4rlercsaeatorbw30ptofteflpyg,o5dybttersofapchgaycdpttoRA2,or6hgptasddinRA7,X,weteecbsaeerpddyb7tersorbytepchgayorhgp,pdttatltam8oftersrgtedtbtaeatorbw80ptofteAaMnI9()cdbyteDtofHgadUnD.Nometn15p0oftepdldfrshptslbeaetonlerc18PdPrA.AdteiyphofRA3,Itor2asf3I.Idecdnusmyettodpa,nolrtnJ43,[]2,ieartfrpsfrmrasfre,inc5whoritofayatelasfmeceys69PdPrA.AdRA3,I)tordasf7()Almthspdthasmepttotss8slcefme,n,orileceys910NwS;PdPrA.AdRA3,I)byi0arsh()tefgnws1()"geceys"msalssttcyp2eytoteIErlm,ignrprgnfsldint3IEclaattcdclonbeJy1,24()Untepnofoeormeecdnu,adarn5adh,tepcuscnmyaeshuyorustoeri6mraswhegn,orileceyssuptoatlof]
+[DELETED: B47-ASIPe4mnmthss,onanalb,ifitfsshastobejtareadintepci()F,ayseseslbeeetopeanatofeyntted1mnmthss,onanalb,etfradnrsasddinRA3,I,whmypeanatnttoed2mmthsonanalb11PdPrA.AdteiyphfrRA3,IItrdasfI.Ayidecdnuyegtoerioana0pttotssnslpntepcuscnfrantoert1atnolrtnJe3,[]2212EeD.Tsatslteet60dsarisp]

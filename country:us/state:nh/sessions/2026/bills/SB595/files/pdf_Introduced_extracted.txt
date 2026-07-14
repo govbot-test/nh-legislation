@@ -1,0 +1,90 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB595 -ASINTRODUCED
+2026SESSION
+26-2185
+08/09
+595
+ANACT relative to the establishment of a remediation pathway for water systems
+requiredtoundergofrequenttesting.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Avard, Dist 12; Sen. McGough, Dist 11; Sen. Pearl,
+Dist17;Sen.PerkinsKwoka,Dist21
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This enables a community water system that is sanctioned by department of environmental
+services for missing a required water test, or submitting late water test results to return to a
+standardscheduleoftestingundercertainconditions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB595-ASINTRODUCED
+26-2185
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the establishment of a remediation pathway for water systems
+requiredtoundergofrequenttesting.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Drinking Water Rules; Community Water Systems. Amend RSA 485:3 by
+2 insertingafterparagraphXIVthefollowingnewparagraph:
+3 XV. Any community water system that is sanctioned by department of environmental
+4 services for missing a required water test, or submitting late water test results, leading the
+5 department to require increased frequency of testing, shall be returned to the prior testing schedule
+6 uponsubmitting6consecutivewatertestsinatimelyfashion.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B55-ASI6SEBNATretoteetofarnpyfrwrsdtouoftt:S.M,Dt1;S.A,Dt1;S.M,Dt1;S.Pt1;S.PsK,Dt2:EyadNlRsesacywrsmttissdbydtofesfrmgardwrt,orsglewrttrstorntodseoftgurcnc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B55-ASIEOFNWHnteYrofOrLdToTdTNATretoteetofarnpyfrwrsdtouoftteitEdbyteSeadHeofRsinGlCtc1NwP;DgWrR;CyWrS.AdRA43bigarphXVtefgnwpX.Aycywrsmttissdbydtofessfrmgardwrt,orsglewrttr,lgtdttoreidfyoft,slberdtoteprtgsunsg6cewrtsinatyf2EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB595 -ASINTRODUCED
+2026SESSION
+26-2185
+08/09
+595
+SENATEBILL
+ANACT relative to the establishment of a remediation pathway for water systems
+requiredtoundergofrequenttesting.
+SPONSORS: Sen. Murphy, Dist 16; Sen. Avard, Dist 12; Sen. McGough, Dist 11; Sen. Pearl,
+Dist17;Sen.PerkinsKwoka,Dist21
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This enables a community water system that is sanctioned by department of environmental
+services for missing a required water test, or submitting late water test results to return to a
+standardscheduleoftestingundercertainconditions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB595-ASINTRODUCED
+26-2185
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the establishment of a remediation pathway for water systems
+requiredtoundergofrequenttesting.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Drinking Water Rules; Community Water Systems. Amend RSA 485:3 by
+2 insertingafterparagraphXIVthefollowingnewparagraph:
+3 XV. Any community water system that is sanctioned by department of environmental
+4 services for missing a required water test, or submitting late water test results, leading the
+5 department to require increased frequency of testing, shall be returned to the prior testing schedule
+6 uponsubmitting6consecutivewatertestsinatimelyfashion.
+7 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B55-ASI6SEBNATretoteetofarnpyfrwrsdtouoftt:S.M,Dt1;S.A,Dt1;S.M,Dt1;S.Pt1;S.PsK,Dt2:EyadNlRsesacywrsmttissdbydtofesfrmgardwrt,orsglewrttrstorntodseoftgurcnc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B55-ASIEOFNWHnteYrofOrLdToTdTNATretoteetofarnpyfrwrsdtouoftteitEdbyteSeadHeofRsinGlCtc1NwP;DgWrR;CyWrS.AdRA43bigarphXVtefgnwpX.Aycywrsmttissdbydtofessfrmgardwrt,orsglewrttr,lgtdttoreidfyoft,slberdtoteprtgsunsg6cewrtsinatyf2EeD.Tsatslteet60dsarisp]

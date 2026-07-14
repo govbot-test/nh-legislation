@@ -1,0 +1,413 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SB589-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0512s
+2026SESSION
+26-2048
+06/08
+589-FN
+ANACT relative to port electrification, microgrid development, and cybersecurity
+standardsforenergyandwatersystems.
+SPONSORS: Sen. Watters, Dist 4; Sen. Avard, Dist 12; Sen. Rosenwald, Dist 13; Sen. Perkins
+Kwoka, Dist 21; Sen. Pearl, Dist 17; Sen. Altschiller, Dist 24; Rep. Cloutier, Sull.
+6;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillestablishesaportelectrificationtaskforce,directsinvestigationintomicrogriddevelopment
+and cybersecurity standards, and mandates cybersecurity programs for water and wastewater
+systems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB589-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0512s 26-2048
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to port electrification, microgrid development, and cybersecurity
+standardsforenergyandwatersystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose. The purpose of this act is to promote New Hampshire’s energy
+2 resilience and deployment of technologies supporting marine shipping, microgrid development, and
+3 cybersecurityfordistributedenergyresources.
+4 2 New Paragraph; Energy Infrastructure Development and Corridors; Definition of Microgrid
+5 Added. AmendRSA162-R:1byinsertingafterparagraphIIIthefollowingnewparagraph:
+6 III-a. "Microgrid" means a group of interconnected loads and distributed energy resources
+7 actingasasinglecontrollableentitywithrespecttothegrid,withtheabilitytoconnect/disconnectto
+8 operateingrid-connected or island mode, improve reliabilityand resilience to grid disturbances, and
+9 enable local assets to collaborate to save costs, run during interruptions, or support remote
+10 operations. A microgrid may also feature system modeling/simulation, power electronic converters
+11 and control algorithms, controller hardware-in-the-loop testing, power hardware-in-the-loop testing,
+12 programmable AC/DC power supplies for grid/PV/battery emulation, and hybrid microgrid testing
+13 includingdistributionintegrationofwindturbines,PV,dynamometers,loads,andenergystorage.
+14 3 New Sections; Port Electrification Task Force. Amend RSA 162-R by inserting after section 6
+15 thefollowingnewsection:
+16 162-R:7 PortElectrificationReport.
+17 I. Thereisherebyestablishedataskforcetoreportonportelectrification.
+18 II. Thetaskforceshallconsistof:
+19 (a) Thedirectorofthedivisionofportsandharbors,ordesignee,whoshallserveaschair
+20 andconveningauthority,andshalladministerthetaskforce.
+21 (b) Thecommissionerofthedepartmentoftransportation,ordesignee.
+22 (c) Thecommissionerofthedepartmentofenergy,ordesignee.
+23 (d) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+24 III. Thereportshall:
+25 (a) Identify feasible technologies and locations for charging infrastructure, energy
+26 supply, including on-site generation, and energy storage units, to serve hybrid electric, and fuel cell
+27 electric ships, for shipping, fisheries, and other vessels, and portside power supply for conventional-
+28 fueledvessels.
+29 (b) Assess applicable state, federal, and international regulations and regulatory
+30 barriers.
+SB589-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 (c) Identify associated costs, funding sources, and potential models for private
+2 development.
+3 (d) Identifytransmissionandinterconnectionsiting.
+4 IV. The report required by this section shall be completed on or before June 30, 2027.
+5 Copies shall be submitted to the governor, speaker of the house, president of the senate, and the
+6 chairsofthehouseandsenatestandingcommitteesfortransportation,energy,andcommerce.
+7 4 MicrogridInvestigationPhaseII.
+8 I. Within 120 days of the effective date of this section, the department of energy shall
+9 initiate a proceeding to continue to investigate the potential benefits, risks, and key considerations
+10 around developing a framework for electricity microgrids, in the state, continuing the work begun in
+11 Inv2024-001. Insodoing,thedepartmentshallconsultwithelectricdistributionutilities, microgrid
+12 technology companies, distributed generation project developers, high density load businesses, and
+13 anyotherrelevantentities.
+14 II. The department’s investigative proceeding shall examine and make recommendations
+15 concerning:
+16 (a) Thefeasibilityoffinancingoptionsformicrogrids,includingC-PACER.
+17 (b) Identifying political subdivisions and industrial users open to microgrid
+18 development.
+19 (c) Development of an approach to use the “sandbox” methodology to enhance the
+20 regulatoryprocess.
+21 (d) Cybersecuritystandardsformicrogridsandotherdistributedenergyresources.
+22 (e) Theneedforlegislationorregulatoryrelieftoallowforpilotprojects
+23 (f) Evaluationcriteriaforapilotproject.
+24 (g) Anyotherrelevantissueraisedinthedepartment’sinvestigativeproceedings.
+25 III. The department shall report its findings and recommendations to the legislature no
+26 laterthanoneyearafterinitiatingthestudy.
+27 IV. Forthepurposesofthissection,"microgrid"shallhavethesamemeaningasinRSA162-
+28 R:1,III-a.
+29 5 CybersecurityandElectricGridInterconnectionGuidelines.
+30 I. Within 120 days of the effective date of this section, the department of energy shall
+31 initiate a proceeding, in consultation as deemed necessary with the governor’s advisor for utility
+32 critical infrastructure cybersecurity, the managing director of the New England Utility
+33 Cybersecurity Integration Collaborative, distributed energy resources businesses, and
+34 regional/federaltransmissionauthorities,todetermine:
+35 (a) The need for guidelines or standards for cybersecurity standards for distributed
+36 energygenerationandrelateddevices.
+SB589-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 (b) The proper venue for promulgation of those guidelines or standards, including, but
+2 not limited to rulemaking, statutory changes, and including guidelines or standards within existing
+3 proceduresandfilings.
+4 II. The department shall report its findings and recommendations to the legislature no later
+5 than one year after initiating the study. The report shall include recommendations for statutory
+6 changes, rulemaking, or other actions as needed. The department shall submit copies of the report
+7 tothegovernor, senate president, speakerof thehouse, and chairsof senateand house energypolicy
+8 committees.
+9 6 New Section; Cybersecurity Protection Program; Public Water Systems. Amend RSA 485 by
+10 insertingaftersection3-dthefollowingnewsection:
+11 485:3-e CybersecurityProtectionProgram.
+12 I. Public water systems shall implement a cybersecurity protection program that is
+13 commensurate with the size and complexity of the public water system in accordance with rules
+14 adoptedbythedepartment.
+15 II. Public water systems that do not use an Internet-connected control system are exempt
+16 fromtheprovisionsofthissection.
+17 III. In this section “cybersecurity protection program” means steps to prevent an event from
+18 occurringonorconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+19 or availability of computers, information systems, communications systems, networks, physical or
+20 virtual infrastructure controlled by computers or information systems, or the information or
+21 processesresidingthereon.
+22 IV. The commissioner may adopt rules to implement a cybersecurity protection program for
+23 publicwatersystems.
+24 7 New Section; Cybersecurity Protection Program; Wastewater Treatment Facilities. Amend
+25 RSA485-Abyinsertingaftersection485-A:5-ethefollowingnewsection:
+26 485-A:5-f CybersecurityProtectionProgram.
+27 I. Wastewater treatment plants or wastewater facilities shall implement a cybersecurity
+28 protection program that is commensurate with the size and complexity of the wastewater treatment
+29 plantorwastewaterfacilityinaccordancewithrulesadoptedbythedepartment.
+30 II. Wastewater treatment plants or wastewater facilities that do not use an Internet-
+31 connectedcontrolsystemareexemptfromtheprovisionsofthissection.
+32 III. In this section “cybersecurity protection program” means steps to prevent an event from
+33 occurringonorconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+34 or availability of computers, information systems, communications systems, networks, physical or
+35 virtual infrastructure controlled by computers or information systems, or the information or
+36 processesresidingthereon.
+SB589-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 IV. The commissioner shall adopt rules to implement a cybersecurity protection program for
+2 wastewatertreatmentplantsorwastewaterfacilities.
+3 8 Repeal. RSA162-R:7,relativetotheportelectrificationtaskforce,isrepealed.
+4 9 EffectiveDate.
+5 I. Section8ofthisacttakeseffectJuly1,2027.
+6 II. Theremainderofthisacttakeseffectuponitspassage.
+LBA
+26-2048
+03/13/2026
+SB589-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0512s)
+ANACT relative to port electrification, microgrid development, and cybersecurity
+standardsforenergyandwatersystems.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill establishes a port electrification task force, directs the Department of Energy to
+investigate microgrid development and cybersecurity standards for distributed energy resources,
+and requires public water systems and wastewater treatment facilities to implement
+cybersecurity protection programs in accordance with rules adopted by the Department of
+EnvironmentalServices.
+The New Hampshire Municipal Association states the bill may have an indeterminable increase
+in municipal expenditures beginning in FY 2027 and each year thereafter for public water
+systems and publicly owned wastewater treatment facilities that may need to implement
+cybersecurityupgradestocomplywithfuturerulesadoptedbytheDepartmentofEnvironmental
+Services. According to information provided by the Department of Environmental Services,
+there are approximately 2,500 public water systems and approximately 80 publicly owned
+wastewater treatment facilities in New Hampshire. Because information regarding existing
+cybersecurity programs for these systems is not publicly available, the Association cannot
+determine how many facilities may need upgrades. The cost of potential cybersecurity
+improvements is indeterminable, but could conservatively range from $10,000 to $100,000 per
+impactedfacility.
+The Department of Energy states this bill requires the Department to initiate investigative
+proceedings related to microgrid development and cybersecurity standards and to report its
+findings to the Legislature. The Department indicates these activities can be completed with
+existing staff and resources and therefore anticipates no fiscal impact to state revenues or
+expenditures.
+The Department of Environmental Services states this bill requires public water systems and
+wastewater treatment facilities to implement cybersecurity protection programs and authorizes
+the Department to adopt rules to support those programs. The Department indicates the bill
+affirms responsibilities that are consistent with work already being undertaken under existing
+federalandstateregulatoryrequirementsandthereforedoesnotresultinanincrementalcostto
+thestate.
+AGENCIESCONTACTED:
+Department of Energy, Department of Environmental Services, and New Hampshire Municipal
+Association
+[DELETED: B5N-ASADBYTES606SEBNATretopte,mdd,adcsfreyadwrs:S.W,Dt4;S.A,Dt1;S.R,Dt1;S.P,Dt2;S.P,Dt1;S.A,Dt2;R.C,S;R.M,H.3:EyadNlRDAsblesaptentkf,dsiniomdddcys,admscypsfrwradw-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretopte,mdd,adcsfreyadwrseitEdbyteSeadHeofRsinGlCtc1StofP.TepeoftsatistopeNwHsereaddtoftssgmes,mdd,acyfrddeyr2NwP;EyIeDtadC;DnofMA.AdRA11byigarphIItefgnwpI.""msagpofidlsadddeyragasaseceeywhrttoteg,whteaytocttoeingdoridm,ieryadretogdd,aeellastocetosec,rndgi,orstr0o.Amdmyaofesmm,precc1adcla,crhpt,prhpt2peACprssfrgye,adhdmdt3igdninofwdt,P,d,l,adeys43NwS;PtEnTkF.AdRA1Rbyigarsn5tefgnws617PtEnR7I.Teishyedatkfetortonpte8I.Tetkfeslcto9()Tedroftednofpsadh,ord,woslseasc0adcga,adslartetkf1()Tecroftedtoft,ord2()Tecroftedtofe,ord3()Tecroftedtofbsadeca,ord4I.Terts5()Iyfetsadlsfrcgi,e6s,igoeg,adeyseu,tosehde,adflc7ecs,frs,f,adorv,adpeprsyfrc8fdv9()Asaes,f,adilrsadr0b]
+[DELETED: B5N-ASADBYTESPe2()Iyadc,fgs,adplmsfrpd()IytnadinsI.TertrdbytssnslbecdonorbeJe3,2Csslbesdtoteg,srofteh,ptoftes,adtcsofteheadsesgcsfrt,e,adc4MdInPeII.Wn10dsofteeedeoftss,tedtofeysieapgtocetoieteplb,r,adkyc0addgafkfreym,intes,cgtewkbni1Iv2.Insod,tedtslctwhecdnu,m2tyc,ddgnptd,hhdyldb,a3ayorrte4I.Tedsiepgsleeadmer5c6()Tefyoffgosfrm,igC7()Igplssadilusontom8d9()Dtofanahtouete“”mytoeet0ryp1()Cyssfrmsadorddeyr2()Tendfrlnorryrftoawfrptp3()Encafraptp4()Ayorrtierdintedsiep5I.Tedtslrtisfsadrstotelen6lrtnoeyrarigtes7I.Frtepsoftss,""slhetesemgasinRA18R,I95CyadEcGdInG0I.Wn10dsofteeedeoftss,tedtofeys1ieap,incnasddnywhtegsarfru2cliec,temgdrofteNwEdU3CyInC,ddeyrsb,a4rltna,tod5()Tendfrgsorssfrcyssfrd6eygnadrdd]
+[DELETED: B5N-ASADBYTESPe3()Teprvefrpnoftegsors,i,bntldtor,syc,adiggsorsswnepsadfI.Tedtslrtisfsadrstotelenoltnoeyrarigtes.Tertsliersfrsc,r,ororasasn.Tedtslstcsoftertoteg,sep,srofteh,adcsofseadheeypc6NwS;CyPnP;PcWrS.AdRA45b0igarsn3dtefgnws14eCyPnP2I.Pcwrssslitacypnpmtti3cewhteseadcyoftepcwrsminaewhr4adbyted5I.PcwrssttdontueanIdclsmaee6fmtepsoftss7I.Intssn“ypnp”mssstoptanetf8ogonorcdthacrnkttjstec,i9orayofc,ins,css,n,plo0vliecdbycsorins,orteino1psrgt2I.Tecrmyatrstoitacypnpmf3pcwrs47NwS;CyPnP;WrTtF.A5RA4Abyigarsn4etefgnws64fCyPnP7I.Wrttpsorwrfsslitac8pnpmttiscewhteseadcyoftewrt9ptorwrfyinaewhrsadbyted0I.WrttpsorwrfsttdontueanI1cdclsmaeetfmtepsoftss2I.Intssn“ypnp”mssstoptanetf3ogonorcdthacrnkttjstec,i4orayofc,ins,css,n,plo5vliecdbycsorins,orteino6psrgt]
+[DELETED: B5N-ASADBYTESPe4I.Tecrslatrstoitacypnpmfwrttpsorwrf8R.RA1,retoteptentkf,isr9EeDI.Sn8oftsattsetJy1,2I.Terroftsattsetunisp]
+[DELETED: B5-FLNSADBYTESE(T#NATretopte,mdd,adcsfreyadwrsLIdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0IeIeIsblesaptentkf,dsteDtofEytemddtadcyssfrddeyrdrspcwrssadwrttfstoiypnpsinaewhrsadbyteDtolSeNwHeMlAnssteblmyheanieinmlesbginFY27adehyrtrfrpcwsadpyodwrttfsttmyndtoiyustocywhfersadbyteDtofE.AgtoinpdbyteDtofElSeaeay20pcwrssaday80pyorttfsinNwH.Beinrgeypsfrtessisntpya,teAncehwmyfsmyndu.Tectofplcsisi,btcdcyrefm$0to$0pdfeDtofEysstsblrsteDttoieisrdtomddtadcyssadtortistoteL.TeDtisteascnbecdw]
+[DELETED: gsfadrsadteasnoflittosersoeDtofElSssstsblrspcwrssarttfstoitcypnpsadaeDttoatrstosttep.TeDtistebsrsttaectwhwkaybgunureladseryrsadtedsntrtinanilcttesSCtofE,DtofElS,adNwHeM]
+
+
+================================================================================
+
+Raw Text:
+SB589-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0512s
+2026SESSION
+26-2048
+06/08
+589-FN
+SENATEBILL
+ANACT relative to port electrification, microgrid development, and cybersecurity
+standardsforenergyandwatersystems.
+SPONSORS: Sen. Watters, Dist 4; Sen. Avard, Dist 12; Sen. Rosenwald, Dist 13; Sen. Perkins
+Kwoka, Dist 21; Sen. Pearl, Dist 17; Sen. Altschiller, Dist 24; Rep. Cloutier, Sull.
+6;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillestablishesaportelectrificationtaskforce,directsinvestigationintomicrogriddevelopment
+and cybersecurity standards, and mandates cybersecurity programs for water and wastewater
+systems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB589-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0512s 26-2048
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to port electrification, microgrid development, and cybersecurity
+standardsforenergyandwatersystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Statement of Purpose. The purpose of this act is to promote New Hampshire’s energy
+2 resilience and deployment of technologies supporting marine shipping, microgrid development, and
+3 cybersecurityfordistributedenergyresources.
+4 2 New Paragraph; Energy Infrastructure Development and Corridors; Definition of Microgrid
+5 Added. AmendRSA162-R:1byinsertingafterparagraphIIIthefollowingnewparagraph:
+6 III-a. "Microgrid" means a group of interconnected loads and distributed energy resources
+7 actingasasinglecontrollableentitywithrespecttothegrid,withtheabilitytoconnect/disconnectto
+8 operateingrid-connected or island mode, improve reliabilityand resilience to grid disturbances, and
+9 enable local assets to collaborate to save costs, run during interruptions, or support remote
+10 operations. A microgrid may also feature system modeling/simulation, power electronic converters
+11 and control algorithms, controller hardware-in-the-loop testing, power hardware-in-the-loop testing,
+12 programmable AC/DC power supplies for grid/PV/battery emulation, and hybrid microgrid testing
+13 includingdistributionintegrationofwindturbines,PV,dynamometers,loads,andenergystorage.
+14 3 New Sections; Port Electrification Task Force. Amend RSA 162-R by inserting after section 6
+15 thefollowingnewsection:
+16 162-R:7 PortElectrificationReport.
+17 I. Thereisherebyestablishedataskforcetoreportonportelectrification.
+18 II. Thetaskforceshallconsistof:
+19 (a) Thedirectorofthedivisionofportsandharbors,ordesignee,whoshallserveaschair
+20 andconveningauthority,andshalladministerthetaskforce.
+21 (b) Thecommissionerofthedepartmentoftransportation,ordesignee.
+22 (c) Thecommissionerofthedepartmentofenergy,ordesignee.
+23 (d) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+24 III. Thereportshall:
+25 (a) Identify feasible technologies and locations for charging infrastructure, energy
+26 supply, including on-site generation, and energy storage units, to serve hybrid electric, and fuel cell
+27 electric ships, for shipping, fisheries, and other vessels, and portside power supply for conventional-
+28 fueledvessels.
+29 (b) Assess applicable state, federal, and international regulations and regulatory
+30 barriers.
+
+SB589-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 (c) Identify associated costs, funding sources, and potential models for private
+2 development.
+3 (d) Identifytransmissionandinterconnectionsiting.
+4 IV. The report required by this section shall be completed on or before June 30, 2027.
+5 Copies shall be submitted to the governor, speaker of the house, president of the senate, and the
+6 chairsofthehouseandsenatestandingcommitteesfortransportation,energy,andcommerce.
+7 4 MicrogridInvestigationPhaseII.
+8 I. Within 120 days of the effective date of this section, the department of energy shall
+9 initiate a proceeding to continue to investigate the potential benefits, risks, and key considerations
+10 around developing a framework for electricity microgrids, in the state, continuing the work begun in
+11 Inv2024-001. Insodoing,thedepartmentshallconsultwithelectricdistributionutilities, microgrid
+12 technology companies, distributed generation project developers, high density load businesses, and
+13 anyotherrelevantentities.
+14 II. The department’s investigative proceeding shall examine and make recommendations
+15 concerning:
+16 (a) Thefeasibilityoffinancingoptionsformicrogrids,includingC-PACER.
+17 (b) Identifying political subdivisions and industrial users open to microgrid
+18 development.
+19 (c) Development of an approach to use the “sandbox” methodology to enhance the
+20 regulatoryprocess.
+21 (d) Cybersecuritystandardsformicrogridsandotherdistributedenergyresources.
+22 (e) Theneedforlegislationorregulatoryrelieftoallowforpilotprojects
+23 (f) Evaluationcriteriaforapilotproject.
+24 (g) Anyotherrelevantissueraisedinthedepartment’sinvestigativeproceedings.
+25 III. The department shall report its findings and recommendations to the legislature no
+26 laterthanoneyearafterinitiatingthestudy.
+27 IV. Forthepurposesofthissection,"microgrid"shallhavethesamemeaningasinRSA162-
+28 R:1,III-a.
+29 5 CybersecurityandElectricGridInterconnectionGuidelines.
+30 I. Within 120 days of the effective date of this section, the department of energy shall
+31 initiate a proceeding, in consultation as deemed necessary with the governor’s advisor for utility
+32 critical infrastructure cybersecurity, the managing director of the New England Utility
+33 Cybersecurity Integration Collaborative, distributed energy resources businesses, and
+34 regional/federaltransmissionauthorities,todetermine:
+35 (a) The need for guidelines or standards for cybersecurity standards for distributed
+36 energygenerationandrelateddevices.
+
+SB589-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 (b) The proper venue for promulgation of those guidelines or standards, including, but
+2 not limited to rulemaking, statutory changes, and including guidelines or standards within existing
+3 proceduresandfilings.
+4 II. The department shall report its findings and recommendations to the legislature no later
+5 than one year after initiating the study. The report shall include recommendations for statutory
+6 changes, rulemaking, or other actions as needed. The department shall submit copies of the report
+7 tothegovernor, senate president, speakerof thehouse, and chairsof senateand house energypolicy
+8 committees.
+9 6 New Section; Cybersecurity Protection Program; Public Water Systems. Amend RSA 485 by
+10 insertingaftersection3-dthefollowingnewsection:
+11 485:3-e CybersecurityProtectionProgram.
+12 I. Public water systems shall implement a cybersecurity protection program that is
+13 commensurate with the size and complexity of the public water system in accordance with rules
+14 adoptedbythedepartment.
+15 II. Public water systems that do not use an Internet-connected control system are exempt
+16 fromtheprovisionsofthissection.
+17 III. In this section “cybersecurity protection program” means steps to prevent an event from
+18 occurringonorconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+19 or availability of computers, information systems, communications systems, networks, physical or
+20 virtual infrastructure controlled by computers or information systems, or the information or
+21 processesresidingthereon.
+22 IV. The commissioner may adopt rules to implement a cybersecurity protection program for
+23 publicwatersystems.
+24 7 New Section; Cybersecurity Protection Program; Wastewater Treatment Facilities. Amend
+25 RSA485-Abyinsertingaftersection485-A:5-ethefollowingnewsection:
+26 485-A:5-f CybersecurityProtectionProgram.
+27 I. Wastewater treatment plants or wastewater facilities shall implement a cybersecurity
+28 protection program that is commensurate with the size and complexity of the wastewater treatment
+29 plantorwastewaterfacilityinaccordancewithrulesadoptedbythedepartment.
+30 II. Wastewater treatment plants or wastewater facilities that do not use an Internet-
+31 connectedcontrolsystemareexemptfromtheprovisionsofthissection.
+32 III. In this section “cybersecurity protection program” means steps to prevent an event from
+33 occurringonorconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+34 or availability of computers, information systems, communications systems, networks, physical or
+35 virtual infrastructure controlled by computers or information systems, or the information or
+36 processesresidingthereon.
+
+SB589-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 IV. The commissioner shall adopt rules to implement a cybersecurity protection program for
+2 wastewatertreatmentplantsorwastewaterfacilities.
+3 8 Repeal. RSA162-R:7,relativetotheportelectrificationtaskforce,isrepealed.
+4 9 EffectiveDate.
+5 I. Section8ofthisacttakeseffectJuly1,2027.
+6 II. Theremainderofthisacttakeseffectuponitspassage.
+
+LBA
+26-2048
+03/13/2026
+SB589-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0512s)
+ANACT relative to port electrification, microgrid development, and cybersecurity
+standardsforenergyandwatersystems.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill establishes a port electrification task force, directs the Department of Energy to
+investigate microgrid development and cybersecurity standards for distributed energy resources,
+and requires public water systems and wastewater treatment facilities to implement
+cybersecurity protection programs in accordance with rules adopted by the Department of
+EnvironmentalServices.
+The New Hampshire Municipal Association states the bill may have an indeterminable increase
+in municipal expenditures beginning in FY 2027 and each year thereafter for public water
+systems and publicly owned wastewater treatment facilities that may need to implement
+cybersecurityupgradestocomplywithfuturerulesadoptedbytheDepartmentofEnvironmental
+Services. According to information provided by the Department of Environmental Services,
+there are approximately 2,500 public water systems and approximately 80 publicly owned
+wastewater treatment facilities in New Hampshire. Because information regarding existing
+cybersecurity programs for these systems is not publicly available, the Association cannot
+determine how many facilities may need upgrades. The cost of potential cybersecurity
+improvements is indeterminable, but could conservatively range from $10,000 to $100,000 per
+impactedfacility.
+The Department of Energy states this bill requires the Department to initiate investigative
+proceedings related to microgrid development and cybersecurity standards and to report its
+findings to the Legislature. The Department indicates these activities can be completed with
+
+existing staff and resources and therefore anticipates no fiscal impact to state revenues or
+expenditures.
+The Department of Environmental Services states this bill requires public water systems and
+wastewater treatment facilities to implement cybersecurity protection programs and authorizes
+the Department to adopt rules to support those programs. The Department indicates the bill
+affirms responsibilities that are consistent with work already being undertaken under existing
+federalandstateregulatoryrequirementsandthereforedoesnotresultinanincrementalcostto
+thestate.
+AGENCIESCONTACTED:
+Department of Energy, Department of Environmental Services, and New Hampshire Municipal
+Association
+
+[DELETED: B5N-ASADBYTES606SEBNATretopte,mdd,adcsfreyadwrs:S.W,Dt4;S.A,Dt1;S.R,Dt1;S.P,Dt2;S.P,Dt1;S.A,Dt2;R.C,S;R.M,H.3:EyadNlRDAsblesaptentkf,dsiniomdddcys,admscypsfrwradw-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretopte,mdd,adcsfreyadwrseitEdbyteSeadHeofRsinGlCtc1StofP.TepeoftsatistopeNwHsereaddtoftssgmes,mdd,acyfrddeyr2NwP;EyIeDtadC;DnofMA.AdRA11byigarphIItefgnwpI.""msagpofidlsadddeyragasaseceeywhrttoteg,whteaytocttoeingdoridm,ieryadretogdd,aeellastocetosec,rndgi,orstr0o.Amdmyaofesmm,precc1adcla,crhpt,prhpt2peACprssfrgye,adhdmdt3igdninofwdt,P,d,l,adeys43NwS;PtEnTkF.AdRA1Rbyigarsn5tefgnws617PtEnR7I.Teishyedatkfetortonpte8I.Tetkfeslcto9()Tedroftednofpsadh,ord,woslseasc0adcga,adslartetkf1()Tecroftedtoft,ord2()Tecroftedtofe,ord3()Tecroftedtofbsadeca,ord4I.Terts5()Iyfetsadlsfrcgi,e6s,igoeg,adeyseu,tosehde,adflc7ecs,frs,f,adorv,adpeprsyfrc8fdv9()Asaes,f,adilrsadr0b]
+[DELETED: B5N-ASADBYTESPe2()Iyadc,fgs,adplmsfrpd()IytnadinsI.TertrdbytssnslbecdonorbeJe3,2Csslbesdtoteg,srofteh,ptoftes,adtcsofteheadsesgcsfrt,e,adc4MdInPeII.Wn10dsofteeedeoftss,tedtofeysieapgtocetoieteplb,r,adkyc0addgafkfreym,intes,cgtewkbni1Iv2.Insod,tedtslctwhecdnu,m2tyc,ddgnptd,hhdyldb,a3ayorrte4I.Tedsiepgsleeadmer5c6()Tefyoffgosfrm,igC7()Igplssadilusontom8d9()Dtofanahtouete“”mytoeet0ryp1()Cyssfrmsadorddeyr2()Tendfrlnorryrftoawfrptp3()Encafraptp4()Ayorrtierdintedsiep5I.Tedtslrtisfsadrstotelen6lrtnoeyrarigtes7I.Frtepsoftss,""slhetesemgasinRA18R,I95CyadEcGdInG0I.Wn10dsofteeedeoftss,tedtofeys1ieap,incnasddnywhtegsarfru2cliec,temgdrofteNwEdU3CyInC,ddeyrsb,a4rltna,tod5()Tendfrgsorssfrcyssfrd6eygnadrdd]
+[DELETED: B5N-ASADBYTESPe3()Teprvefrpnoftegsors,i,bntldtor,syc,adiggsorsswnepsadfI.Tedtslrtisfsadrstotelenoltnoeyrarigtes.Tertsliersfrsc,r,ororasasn.Tedtslstcsoftertoteg,sep,srofteh,adcsofseadheeypc6NwS;CyPnP;PcWrS.AdRA45b0igarsn3dtefgnws14eCyPnP2I.Pcwrssslitacypnpmtti3cewhteseadcyoftepcwrsminaewhr4adbyted5I.PcwrssttdontueanIdclsmaee6fmtepsoftss7I.Intssn“ypnp”mssstoptanetf8ogonorcdthacrnkttjstec,i9orayofc,ins,css,n,plo0vliecdbycsorins,orteino1psrgt2I.Tecrmyatrstoitacypnpmf3pcwrs47NwS;CyPnP;WrTtF.A5RA4Abyigarsn4etefgnws64fCyPnP7I.Wrttpsorwrfsslitac8pnpmttiscewhteseadcyoftewrt9ptorwrfyinaewhrsadbyted0I.WrttpsorwrfsttdontueanI1cdclsmaeetfmtepsoftss2I.Intssn“ypnp”mssstoptanetf3ogonorcdthacrnkttjstec,i4orayofc,ins,css,n,plo5vliecdbycsorins,orteino6psrgt]
+[DELETED: B5N-ASADBYTESPe4I.Tecrslatrstoitacypnpmfwrttpsorwrf8R.RA1,retoteptentkf,isr9EeDI.Sn8oftsattsetJy1,2I.Terroftsattsetunisp]
+[DELETED: B5-FLNSADBYTESE(T#NATretopte,mdd,adcsfreyadwrsLIdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0IeIeIsblesaptentkf,dsteDtofEytemddtadcyssfrddeyrdrspcwrssadwrttfstoiypnpsinaewhrsadbyteDtolSeNwHeMlAnssteblmyheanieinmlesbginFY27adehyrtrfrpcwsadpyodwrttfsttmyndtoiyustocywhfersadbyteDtofE.AgtoinpdbyteDtofElSeaeay20pcwrssaday80pyorttfsinNwH.Beinrgeypsfrtessisntpya,teAncehwmyfsmyndu.Tectofplcsisi,btcdcyrefm$0to$0pdfeDtofEysstsblrsteDttoieisrdtomddtadcyssadtortistoteL.TeDtisteascnbecdw]
+[DELETED: gsfadrsadteasnoflittosersoeDtofElSssstsblrspcwrssarttfstoitcypnpsadaeDttoatrstosttep.TeDtistebsrsttaectwhwkaybgunureladseryrsadtedsntrtinanilcttesSCtofE,DtofElS,adNwHeM]

@@ -1,0 +1,807 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1046s
+7May2026...1516h
+06/04/2026 2148EBA
+2026SESSION
+26-3258
+05/07
+670-FN-A
+ANACT establishing a developmental services oversight commission; relative to reporting
+requirementsregardingthedeathofachildinresidentialcare;andrelativetothe
+registryoffoundedreportsofabuse,neglect,orexploitationofvulnerableadults.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Rosenwald,
+Dist13;Sen.PerkinsKwoka,Dist21;Sen.Gannon,Dist23;Sen.Carson,Dist 14;
+Sen.McGough,Dist11;Sen.Birdsell,Dist19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes a developmental services oversight commission, revises reporting and
+investigation requirements regarding reports of abuse of vulnerable adults, and revises notification
+andreportingrequirementsregardingabuseofminorsininstitutionalresidentialsettings.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1046s
+7May2026...1516h
+06/04/2026 2148EBA 26-3258
+05/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a developmental services oversight commission; relative to reporting
+requirementsregardingthedeathofachildinresidentialcare;andrelativetothe
+registryoffoundedreportsofabuse,neglect,orexploitationofvulnerableadults.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Developmental Services Oversight Commission. Amend RSA 171-A by
+2 insertingaftersection34thefollowingnewsubdivision:
+3 DevelopmentalServicesOversightCommission
+4 171-A:35 DevelopmentalServicesOversightCommission.
+5 I. There is established thedevelopmental services oversight commissiontocontinuously and
+6 effectively assure the health and welfare of participants receiving home and community based
+7 1915(c) waiver services within the developmental services system. The commission is tasked with
+8 reviewing data submitted by the department of health and human services related to health and
+9 safety to make recommendations to improve outcomes for individuals receiving developmental
+10 services.
+11 II. Legislativemembersofthecommissionshallserveatermcoterminouswiththeirtermin
+12 office.
+13 III. All public members shall serve 3-year terms. Notwithstanding RSA 14:49, II(c), the
+14 membersofthecommissionshallbeasfollows:
+15 (a) Twomembersofthesenate,appointedbypresidentofthesenate.
+16 (b) Two members of the house of representatives, appointed by speaker of the house of
+17 representatives.
+18 (c) Thedirectorofthedivisionoflongtermsupportsandservices,ordesignee.
+19 (d) Thebureauchiefofthebureauofdevelopmentalservices,ordesignee.
+20 (e) Theadministratorofadultprotectiveservices,ordesignee.
+21 (f) An administrator with the department of health and human services, certification
+22 andlicensingbureau.
+23 (g) A representative of the department of health and human services, division of
+24 programqualityandintegrity.
+25 (h) Onememberrepresentingtheareaagencysystem,appointedbythegovernor.
+26 (i) Threemembersrepresentingtheprivateproviders,appointedbythegovernor.
+27 (j) Theexecutivedirectorofthegovernor’scommissionondisability.
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 (k) One representative of the Disability Rights Center (DRC), appointed by that
+2 organization.
+3 (l) Twoparentsofindividualsreceivingservicesfromthedevelopmentalservicessystem,
+4 appointedbythegovernor.
+5 (m) Two individuals receiving services from the developmental services system,
+6 appointedbythegovernor.
+7 IV. The commission shall provide recommendations to strengthen health and safety
+8 outcomesinthedevelopmentalservicessystem.Ataminimum,thecommissionshall:
+9 (a) Identifyareasofbestpracticeandproviderecommendationsrelatedtoimprovements
+10 tothehealthandsafetyofindividualsserved.
+11 (b) Review quarterly satisfaction surveys conducted by service coordinators for
+12 individuals receiving services through the developmental disabilities (DD), in-home supports (IHS),
+13 and acquired brain disorder (ABD) 1915(c) home and community-based services waivers and provide
+14 recommendationsforqualityimprovementtothedepartment.
+15 (c) Review training requirements in policy and administrative rule and make
+16 recommendationsforadditionalormodifiedtraining.
+17 (d) Review available department of health and human services licensing and
+18 certificationdata.
+19 (e) Review the DD, IHS, and ABD 1915 (c) waivers' performance measures as presented
+20 bythedepartmenttothecenterfor medicareandmedicaidservices andproviderecommendations to
+21 thedepartmentregardingimprovingthecarebasedontheperformancemeasures.
+22 (f) Providefeedbackonproposedchangestostateadministrativerulesandlaws.
+23 (g) Solicitinputfromthedevelopmentalservicesqualitycouncil,establishedinRSA171-
+24 A:33.
+25 V. The first meeting of the oversight commission shall be called by the first-named senate
+26 member, who shall serve as the chairperson. Thereafter, the commission shall elect a chairperson
+27 fromamongthemembersevery3years,orwhenavacancyoccursinthatposition. Thefirstmeeting
+28 of the commission shall be held within 45 days of the effective date of this section. Eleven members
+29 ofthecommissionshallconstituteaquorum.
+30 VI. Followingeachmeeting,commissionmembers will identifyitems appropriatefor further
+31 actionanddeterminewhenthoseitemscanbebroughtbacktothecommission.
+32 VII. The department shall provide consultative and administrative support to the
+33 commissionandcomplywithallreasonabledatarequests.
+34 VIII. Beginning November 1, 2026, and annually thereafter, the commission shall provide a
+35 reportofitsfindingsandrecommendationstothepresidentofthesenate,thespeakerofthehouseof
+36 representatives, the oversight committee on health and human services established in RSA 126-
+37 A:13,thegovernor’soffice,andthecommissionerofhealthandhumanservices.
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 IX. ThemeetingsshallbeopentothepublicandsubjecttotheprovisionsofRSA91-A.
+2 2 PositionEstablished;Appropriation.
+3 I. Theclassifiedposition21-1090MISCSOCSVCSPECS-6isestablishedinthedepartment
+4 of health and human services to support the developmental services oversight commission
+5 establishedinsection1ofthisact.
+6 II. The sum of $52,000 for the biennium ending June 30, 2027, which shall not lapse until
+7 June 30, 2027, is hereby appropriated to the department of health and human services for the
+8 purpose of funding the position established in paragraph I. In addition to the appropriation and
+9 notwithstanding RSA 14:30-a, the department may accept and expend matching federal funds
+10 without prior approval of the fiscal committee of the general court. The governor is authorized to
+11 draw a warrant for the general fund portion of said sum out of any money in the treasury not
+12 otherwiseappropriated.
+13 3 New Paragraphs; Elderly and Adult Services; Reports and Investigation of Adult Abuse.
+14 AmendRSA161-F:46byinsertingafterparagraphIIIthefollowingparagraphs:
+15 IV. Any residential service provider caring for vulnerable adults shall notify the
+16 commissioner or designee, the bureau of licensing and certification, the attorney general, and the
+17 state's federal protection and advocacy agency in cases involving serious bodily injury or death. For
+18 purposes of this section, a residential services provider is a provider licensed or certified to provide
+19 servicestovulnerableadultsthatare:
+20 (a) Supportedbythe1915chomeandcommunity-basedMedicaidwaiverprogram;
+21 (b) At a state-owned or state-operated facility, including, but not limited to, New
+22 HampshirehospitalandGlencliffhome;or
+23 (c) AtHampsteadhospitalandresidentialtreatmentfacility.
+24 V. The notification shall be provided within 7 days of the death or serious bodily injury and
+25 shallincludethefollowinginformation:
+26 (a) Theresident'sname,age,andlastknownaddress.
+27 (b) Thedateofdeathorincidentresultinginseriousbodilyinjury.
+28 (c) Thename(s)andcontactinformationfortheresidentialservicesproviderandvendor,
+29 ifapplicable.
+30 (d) The name and contact information of the resident's next of kin and, if under
+31 guardianship,theguardian'snameandcontactinformation.
+32 (e) A description of the injuries sustained, medical care administered, and, if applicable,
+33 thesuspectedcauseofdeath.
+34 VI. The department shall annually notify each area agency as defined in RSA 171-A:2, I-b,
+35 community mental health program as defined in RSA 135-C:2, IV, state-owned or operated facility,
+36 including,butnotlimitedto,NewHampshireHospitalandGlencliffHome,HampsteadHospitaland
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 Residential Treatment Facility, and each certified residential services provider of their
+2 responsibilitiesunderthissectionandprovidecontactinformationfortheagenciestobenotified.
+3 VII. The commissioner may adopt rules under RSA 541-A relative to enforcement of this
+4 section.
+5 4 ElderlyandAdultServices;Registry. AmendRSA161-F:49toreadasfollows:
+6 161-F:49 Registry.
+7 I. There shall be established a state registry at the department for the purpose of
+8 maintaining a record of information on each founded report of abuse, neglect, or exploitation toward
+9 an individual [by a paid or volunteer caregiver, guardian, or agent acting under the authority of a
+10 powerofattorneyoranydurablepowerofattorney]. Theregistryshallbeconfidentialandsubjectto
+11 rules on access established by the commissioner of the department under RSA 541-A. Unfounded
+12 reports shall not be maintained on the registry. The department shall maintain statistical, non-
+13 identifying information on founded reports as the department determines is necessary to track and
+14 addresstrends. Forthepurposesofthissection:
+15 (a) "Individual" means an individual, 18 years of age or older, who is a vulnerable adult,
+16 asdefinedunderRSA161-F:43,VII.
+17 (b) "Investigator" means a person designated or employed by the department, in
+18 accordance with a protocol developed by the department to ensure objectivity, thoroughness,
+19 timeliness, and uniformity in methodology and format in the conduct of investigations and
+20 investigationreports. [Aninvestigator mayinclude aninvestigator employed byanareaagencyor a
+21 communitymentalhealthcenter,ifdesignatedbythedepartment.]
+22 (c) "Perpetrator" means a person who, following a protective investigation completed in
+23 accordance with RSA 161-F:42 through RSA 161-F:57, is found to have abused, neglected, or
+24 exploitedavulnerableadult.
+25 (d) "Volunteer" means a person who provides voluntary services through any agency,
+26 program,orfacility.
+27 II. Within5business days of completionof aninvestigationof abuse, neglect, or exploitation
+28 of an individual [by a paid or volunteer caregiver, guardian, or agent acting under the authority of a
+29 power of attorneyor anydurablepower of attorney], the investigator shall provide asummaryof the
+30 investigation to the commissioner, or designee. Except as provided in paragraph IV, for a founded
+31 report,thecommissioner,ordesignee,shall,within5businessdays,notifytheperpetrator:
+32 (a) Of the founded report against him or her and that such information shall be entered
+33 ontheregistryandtheconsequencesofsuchafinding.
+34 (b) Oftherighttocontestthefindingbyappealingwithin10businessdays.
+35 (c) Oftherighttoreceiveafullandfairadministrativehearing,includingtherighttobe
+36 representedbycounselathisorherownexpense.
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 (d) Of the right to appeal an adverse administrative hearing decision to the probate
+2 courtinaccordancewithparagraphV.
+3 (e) Thatheorshemaypetitiontheprobatecourttoexpungethereportfromtheregistry
+4 pursuanttoRSA161-F:49,X.
+5 III. In response to a written request from an employer identified in paragraph VII, the
+6 commissioner,ordesignee,shallnotifytheemployer:
+7 (a) Relative to a prospective or current employee, consultant, contractor, or volunteer
+8 who is not on the registry of that fact within 5 business days of receipt of a request from the
+9 employer.
+10 (b) Relative to a prospective or current employee, consultant, contractor, or volunteer
+11 whois ontheregistryof that fact within5business days of receipt oftherequest from theemployer,
+12 andthedepartmentshallincludeinthenoticethedatethepersonwasplacedontheregistry.
+13 IV. A founded report of abuse, neglect, or exploitation, and other information the
+14 commissionerdeemsappropriate,shallbeenteredontheregistryupon[:
+15 (a) Expiration of the 10-business-day period for appeal when the perpetrator does not
+16 requestanappeal.
+17 (b)] the department's decision and shall be removed after 7 years unless an
+18 administrative hearing officer [sustaining] or the probate court overturns the finding[, unless an
+19 appealisfiledinaccordancewithparagraphVandanorderofstayisissuedbytheprobatecourt].
+20 V. If the finding is sustained after an administrative hearing, a perpetrator shall have the
+21 righttoappealasfollows:
+22 (a) AperpetratormayfileapetitionintheMerrimackcountyprobatecourttoreviewthe
+23 final order by the commissioner, or designee, within 30 days of the date of the final order.
+24 JurisdictiontohearsuchappealsisvestedintheMerrimackcountyprobatecourt.
+25 (b) At the earliest practical time, the court shall review the record as developed before
+26 the commissioner, or designee, together with any written legal argument presented to the court.
+27 Based on that review, the court may affirm or reverse the decision of the commissioner, or designee,
+28 or order that oral argument be held. As justice may require, the court may remand the case to the
+29 commissioner, or designee, for further findings or rulings. The petition for appeal shall set forth all
+30 the grounds upon which the final order is sought to be overturned. Issues not raised by the
+31 appellant before the commissioner, or designee, shall not be raised before the probate court. The
+32 burden of proof shall be upon the appellant to show that the decision of the commissioner, or
+33 designee, was clearly unreasonable or unlawful, and all findings of the commissioner, or designee,
+34 upon all questions of fact properly before him or her shall be deemed to be prima facie lawful and
+35 reasonable. The order or decision appealed from shall not be vacated except for errors of law, unless
+36 the court is satisfied, by a clear preponderance of the evidence, that the order is unjust or
+37 unreasonable.
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 (c) No new or additional evidence shall be introduced in the probate court. The case
+2 shall be determined upon the record and evidence transferred, except that in any case, if it shall be
+3 necessary in order that no party shall be deprived of any constitutional right, or if the court
+4 determines that justice requires the reception of evidence of facts which have occurred since the
+5 hearing, or which by reason of accident, mistake, or misfortune could not have been offered before
+6 the commissioner, or designee, it shall remand the case to the commissioner, or designee, to receive
+7 andconsidersuchadditionalevidence.
+8 VI. If it is determined by the commissioner, or designee, or after a hearing requested
+9 pursuanttosubparagraphII(c)thatafoundedreportwascausedbyfactorsbeyondthecontrolofthe
+10 perpetrator,thenthefindingshallnotbeenteredontotheregistryasfounded.
+11 VII. All employers of programs which are licensed, certified, or funded by the department to
+12 provide services to individuals shall be required before hiring a prospective employee, consultant,
+13 contractor,orvolunteerwhomayhavecontactwithindividualstosubmithisorhername,forreview
+14 against the registry to determine whether the person is on the registry. The employer shall not hire
+15 the prospective employee, consultant, contractor, or volunteer if he or she is listed on the registry
+16 unless the employer requests and obtains a waiver from the department to hire such person. The
+17 employer, upon receiving notice that a prospective employee, consultant, contractor, or volunteer is
+18 on the registry and in order to determine whether to request a waiver from the department, may
+19 request permission from the prospective employee, consultant, contractor, or volunteer for the
+20 authority to obtain further information about a founded report of abuse, neglect, or exploitation. An
+21 employer [may, with the consent of a] shall be required for any current employee, consultant,
+22 contractor, or volunteer, to annually submit his or her name for review against the registry. All
+23 employers, upon learning that the name of a current employee, consultant, contractor, or volunteer
+24 of their agency is on the registry shall take immediate action to ensure the safety of the individuals
+25 in their care. Such action may include, but is not limited to, termination[, training,] or re-
+26 assignment[, probationary employment, and/or the provision of direct supervision of the employee,
+27 consultant, contractor, or volunteer when working with individuals]. No employee shall be
+28 allowedtocareforavulnerableindividualiftheirnameisontheregistry.
+29 VIII. Anypersonhiringor employingapaid orvolunteercaregiver, consultant,or contractor
+30 directly, or through an authorized representative or fiscal intermediary, to provide personal care
+31 services, as defined in RSA 161-E or RSA 161-I, may, with the consent of the current or prospective
+32 caregiver, consultant, contractor, or volunteer, submit his or her name for review against the
+33 registry and, if he or she is on the registry, and with the further permission of the current or
+34 prospective caregiver, consultant, contractor, or volunteer, obtain information about any founded
+35 report. Any person considering designating another to serve as his or her agent under a power of
+36 attorney or any type of durable power of attorney may, with the consent of the proposed agent,
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 submit the proposed agent's name for review against the registry. The person shall not be required
+2 insuchsituationstoobtainawaiverpriortohiringapersonontheregistry.
+3 VIII-a. It shall be unlawful for any employer other than those specified under this section to
+4 require as a condition of employment that the employee submit his or her name for review against
+5 the registry of founded reports of abuse, neglect, or exploitation and any violation of this provision
+6 shallbepunishableasaviolation.
+7 IX. Founded reports of abuse, neglect, or exploitation shall be retained on the registry for a
+8 period of 7 years subject to the perpetrator's right to petition for the earlier removal of the report
+9 fromtheregistryasprovidedinthissection.
+10 X. Any perpetrator whose name is listed in the founded reports maintained on the state
+11 registry may petition the probate court to have a founded report expunged from the registry as
+12 follows:
+13 (a) A petition to expunge shall be filed in the probate court where the petitioner resides
+14 orwheretheabuse,neglect,orexploitationoccurred.
+15 (b) A petition to expunge shall be filed on forms provided by the probate courts. The
+16 petition shall include certified copies of the petitioner's criminal record and may include any other
+17 informationthepetitionerdeemsrelevant.
+18 (c) Whenapetitiontoexpungeisfiled,theprobatecourtshallrequirethedepartmentto
+19 report to the court concerning any additional founded abuse, neglect, or exploitation reports relative
+20 to the petitioner and shall require that the petitioner submit the petitioner's name, birth date, and
+21 address to the state police to obtain information about criminal convictions. The court may require
+22 the department to provide any additional information that the court believes may aid it in making a
+23 determinationonthepetition.
+24 (d) Upon the receipt of the department's report, the court may act on the petition
+25 withoutfurtherhearingormayschedulethematterforhearingattherequestofeitherparty. Ifthe
+26 court determines that the petitioner does not pose a present threat to the safety of individuals and
+27 has exhibited best efforts to eliminate the likelihood of reoccurrence of the type of behavior that
+28 resulted in his or her entry onto the registry, the court shall grant the petition and order the
+29 departmenttoremovethefoundedreportfromtheregistry. Otherwise,thepetitionshallbedenied.
+30 XI. The department shall, in the notice it sends out pursuant to RSA 161-F:49, II(a), notify
+31 the perpetrator of his or her right to petition to have his or her founded report expunged from the
+32 registry. No petition to expunge a founded report shall be brought within one year from the date
+33 that the report was initially entered on the registry. If the petition to expunge is denied, no further
+34 petitionshallbebroughtmorefrequentlythanevery3yearsthereafter.
+35 XII. Thecommissionershalladoptrules,pursuanttoRSA541-A,relativeto:
+36 (a) Setting forth the process and criteria for requesting and granting a waiver pursuant
+37 toRSA161-F:49,VII.
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page8-
+1 (b) Safeguarding the confidentiality of and access to the registry except for the functions
+2 necessarytocomplywiththissection. Suchsafeguardsshallincludelimitationsonwhichpersonsin
+3 anemploymentsituationmayrequestandaccessthefoundedreportsontheregistry.
+4 5 New Section; Child Protection Act; Deaths of Children in Institutional Residential Care.
+5 AmendRSA169-Cbyinsertingaftersection37thefollowingnewsection:
+6 169-C:37-a DeathsofChildreninInstitutionalResidentialCare.
+7 I. In cases involving the death of a child placed in any group home or child care institution
+8 asdefinedinRSA170-E:25orcertifiedbythedepartmentforthecareofchildrenunderthischapter,
+9 in any state owned or operated residential treatment program, or the youth development center or
+10 its successor facility, the residential services provider shall notify the attorney general, the state's
+11 federal protection and advocacy agency for individuals with disabilities, and the bureau of licensing
+12 andcertification,childcarelicensingunit.
+13 II. The notification required under this section shall be provided within 7 days of the child's
+14 deathandshallincludethefollowinginformation:
+15 (a) Thechild'snameandage;
+16 (b) Thedateofdeathorincidentresultinginseriousinjury;
+17 (c) The name and contact information for the child's parent or, if parental rights have
+18 beenterminated,thenameandcontactinformationforthechild'snextofkin;
+19 (d) Thename(s)andcontactinformationfortheresidentialservicesprovider;and
+20 (e) Adescriptionofthesuspectedcauseofdeath.
+21 III. The department of health and humanservices shall annually notifyeach of the facilities
+22 described in this section of their reporting responsibilities, including contact information for the
+23 agenciestobenotified.
+24 IV. The commissioner may adopt rules under RSA 541-A relative to the enforcement of this
+25 section.
+26 6 EffectiveDate.
+27 I. Section1ofthisactshalltakeeffectuponitspassage.
+28 II. Section2ofthisactshalltakeeffectJuly1,2026.
+29 III. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+LBA
+26-3258
+04/06/2026
+SB670-FN-A-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1046s)
+ANACT establishing a developmental services oversight commission; relative to reporting
+requirementsregardingthedeathofachildinresidentialcare;andrelativetothe
+registryoffoundedreportsofabuse,neglect,orexploitationofvulnerableadults.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$276,000+ $83,000+
+$80,000+general
+generalfunds; generalfunds;
+Expenditures* $0 funds;$55,000
+$52,000federal $57,000federal
+federalfunds
+funds funds
+FundingSource(s) Generalfunds,federalfunds
+Appropriations* $0 $52,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a developmental services oversight commission tasked with reviewing data
+and making recommendations to strengthen health and safety outcomes in the developmental
+services system. The bill establishes a classified position within the Department of Health and
+Human Services to provide oversight to the commission, and appropriates $52,000 in FY27 for
+thispurpose.
+In addition to establishing an oversight commission, the bill imposes new requirements relative
+to reports and investigation of adult abuse, and makes revisions to the state registry that
+maintains records of abuse allegations. The Department states that these provisions may
+impact costs in a variety of ways. Fatality review reporting and the new seven-day provider
+notification requirement are expected to have moderate administrative impacts, primarily
+related to incident screening, intake, and coordination. Based on an estimated screening time of
+approximately 20–30 minutes per incident and an estimated volume of 100–200 reports per
+month, the additional workload is projected to be approximately 600–1,200 staff hours annually,
+or roughly 0.5–1.0 full-time equivalent positions (FTE), which the Department notes may
+initiallybemanageablewithinexistingresources.
+Other provisions, such as those expanding registry eligibility beyond caregivers, requiring
+annual employer registry checks, and removing the waiting period before registry placement,
+may significantly increase the number of administrative reviews and appeals, resulting in
+corresponding increases in administrative hearings and legal review. The magnitude of this
+increaseisindeterminable.
+The Department assumes that the position established by the bill will cost $104,000 in FY27,
+$109,000 in FY28, and $114,000 in FY29. Of this, approximately half is expected to be funded
+withfederal funds, so the$52,000general fund appropriationinFY27is sufficient tofinance the
+state share in FY27. The Department assumes that the various other changes contained in the
+bill will necessitate IT modifications costing $200,000 in FY26, as well as a part-time paralegal
+position to support the additional registry appeals resulting from expanded eligibility registry.
+This position is projected to cost $24,000 in FY27, $52,000 in FY28, and $26,000 in FY29. Both
+theITcostsandtheparalegalpositionareexpectedtobefullygenerallyfunded.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B6A-VNADBYBHB61.1626SEBNATegadlssotc;retorsrgtedhofacdinrlc;adretotyoffdrsofa,n,orenofvea:S.R,Dt1;S.P,Dt1;S.W,Dt8;S.Rt1;S.PsK,Dt2;S.G,Dt2;S.C,Dt1.M,Dt1;S.B,Dt1:HhadHnSDAsblesadlssotc,rsrganrsrgrsofaeofvea,adrsndrgrsrgaeofmsinilrls-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6A-VNADBYBHB61.162A2EOFNWHnteYrofOrLdToTdTNATegadlssotc;retorsrgtedhofacdinrlc;adretotyoffdrsofa,n,orenofveaeitEdbyteSeadHeofRsinGlCtc1NwS;DlSsOtC.AdRA1Abigarsn34tefgnwsDlSsOtC15DlSsOtCI.Teisedtedlssotcntocyaeyaetehhadweofpsrgheadcyb1)wrsswntedlsss.Tecnistdwrgdasdbytedtofhhadhnssrdtohhasytomerstoieosfrisrgd0s1I.Lemsoftecnslseatmcswhtrtmi2o3I.Alpcmsslse3rt.NgRA1,I,t4msoftecnslbeasf5()Tomsoftes,adbyptoftes6()Tomsofteheofr,adbysrofteheo7r8()Tedroftednoflgtmssads,ord9()Tebucfoftebuofdls,ord0()Tearofatpes,ord1()Anarwhtedtofhhadhns,c2adlgb3()Areoftedtofhhadhns,dno4pmqyadi5()Oemrrgteaaays,adbyteg6()Temsrgtepep,adbyteg7()Teeedroftegscnond]
+[DELETED: B6A-VNADBYBHBPe2()OereofteDyRsCr(,adbyto()Topsofisrgssfmtedlsssadbyteg()ToisrgssfmtedlsssadbytegI.Tecnslperstosnhhadsosintedlsss.Atam,tecns()Iyasofbtpeadpersrdtoi0totehhadsyofiss1()Rwqysnsscdbysecsf2isrgssthtedlds(,iess(3adadbndr()1)headcdsswsadp4rsfrqyittoted5()Rwtgrsinpyadaereadm6rsfralormdt7()Rwaedtofhhadhnsslga8cnd9()RwteD,I,adAD15()w'pemsasp0bytedttotecrfrmeadmdssadperst1tedtrgigtecebdontepem2()Pefkonpdcstoseaersadl3()Stitfmtedlssqyc,edinRA14A5V.Teftmgofteotcnslbecdbytefds6m,woslseastec.T,tecnsletac7fmagtemsey3y,orwnavyosinttp.Teftm8oftecnslbehdwn45dsofteeedeoftss.Enm9oftecnslceaq0V.Fgehm,cnmswliyisaefrf1anaddewnteiscnbebtbktotec2V.Tedtslpeceadaesttot3cnadcywhalredar4V.BgNr1,2,adayt,tecnslpe5rtofisfsadrstoteptoftes,tesrofteheo6r,teotceonhhadhnssedinRA17A,tegso,adtecrofhhadhns]
+[DELETED: B6A-VNADBYBHBPe3I.TemsslbeontotepcadsttotepsofRA92PnE;AI.Tecdpn20MCSCSCS6isedintedofhhadhnsstosttedlssotcedinsn1oftsaI.Tesmof$0frtebmegJe3,2,whslntleuJe3,2,ishyadtotedtofhhadhnssfrtpeoffgtepnedinphI.InantoteanangRA1,tedtmyatadedmgflf0wtpralofteflceofteglc.Tegrisadt1dwawtfrteglfdpnofsdsmotofaymyintetyn2oea33NwP;EyadAtS;RsadInofAtA4AdRA16byigarphIItefgp5I.Ayrlseprcgfrveasslnyt6crord,tebuoflgadc,teayg,adt7ssflpnadayayincsigssbyiyord.F8psoftss,arlssprisaprldorcdtop9sstoveastta0()Sdbyte1cheadcdMdwrp1()Atasdorsdf,i,btntldt,N2HehladGfh;o3()AtHdhladrlttf4V.Tennslbepdwn7dsoftedhorssbyiya5slietefgi6()Tersn,a,adltkna7()Tedeofdhoritrginssbyi8()Ten)adctinfrterlsspradv9ifa0()Teneadctinoftersntofkna,ifu1g,tegsneadcti2()Adnofteiss,mlcea,a,ifa3tesdceofd4V.TedtslaynyehaaayasddinRA1,I5cymlhhpmasddinRA1,I,sdorodf6i,btntldt,NwHeHladGfH,HdHla]
+[DELETED: B6A-VNADBYBHBPe4RlTtF,adehcdrlssproftrsurtssnadpectinfrteastobenV.TecrmyatrsurRA5Aretoetofts4EyadAtS;R.AdRA19tordasf19RI.Teslbeedaseryattedtfrtepeomgardofinonehfdrtofa,n,orentanil[yapdorvrc,g,oratagurteayof0profayoraydeprofa.Teryslbecladstt1rsonasedbytecroftedturRA5.U2rsslntbemdonter.Tedtslmns,n3iginonfdrsastedtdsisnytotka4ast.Frtepsoftss5()""msani,18ysofaeoro,woisavea6asddurRA1,V7()""msapnddoredbyted,i8aewhaplddbytedttoeeo,t9t,aduyinmyadftintectofisa0inr.[nirmyieaniredbyanaaayor1cymlhhc,ifddbyted2()""msapnw,fgapeincdi3aewhRA12thRA1,isfdtohea,n,o4edavea5()""msapnwopsvyssthaya6p,orf7I.Wn5bsdsofcnofaninofa,n,ore8ofanil[yapdorvrc,g,oratagurteayof9profayoraydeprofa,teirslpeasyoft0intotec,ord.EtaspdinphI,fraf1r,tec,ord,s,wn5bsd,nytep2()Oftefdrtathmorhradttshinslbee3onteryadtecsofshaf4()Ofterttocttefgbyagwn10bsd5()Ofterttoreafladfraeh,igterttob6rdbyclathsorhrone]
+[DELETED: B6A-VNADBYBHBPe5()OfterttoalanaeaehgdntotepctinaewhphV()TtheorsemypntepecttoeetertfmterpttoRA1,XI.InretoawnrtfmaneridinphV,tc,ord,slnytee()Retoapeorcte,c,c,orvwoisntonteryofttftwn5bsdsofrtofartfmte0()Retoapeorcte,c,c,orv1woisonteryofttftwn5bsdsofrtoftertfmtee2adtedtslieintenetedetepnwspdonter3I.Afdrtofa,n,ore,adorint4crdsa,slbeedonteryu5()Enofte1ypdfralwnteprdsn6rtana7(]tedsdnadslberdar7ysusa8aehgor[]ortepectostef,usa9alisfdinaewhphVadanorofsyisidbytepec0V.Iftefgissdaranaeh,aprslhet1rttoalasf2()AprmyfeapninteMkcypecttorwt3florbytec,ord,wn30dsoftedeofteflo4JntohrshasisvdinteMkcypec5()Atteetplt,tectslrwterdasddb6tec,ord,trwhaywnllatpdtotec7Bdonttr,tectmyamorretednoftec,ord8ororttolatbeh.Asjemyr,tectmyrdtecetot9c,ord,frfrfsorr.Tepnfralslstfha0tegsunwhteflorissttobeo.Isntrdbyt1atbetec,ord,slntberdbetepec.T2bnofpfslbeunteattoswtttednoftec,o3d,wscyueoru,adalfsoftec,ord4unalqsofftpybehmorhrslbeddtobepafella5r.Teorordnadfmslntbevdetfresofl,u6tectiss,byacrpeoftee,ttteorisuto7u]
+[DELETED: B6A-VNADBYBHBPe6()Nonworaleeslbeidintepec.Tecslbeddunterdadeet,etttinayc,ifitslbnyinorttnopyslbeddofayclr,oriftecdsttjersternofeeoffswhheodseth,orwhbyrnofa,m,ormecdnthebnodbtec,ord,itslrdtecetotec,ord,toradcrshaleV.Ifitisddbytec,ord,orarahgrpttoshI)ttafdrtwscdbyfsbdtecloft0p,tntefgslntbeedooteryasf1V.Alesofpswhael,c,orfdbytedtt2pesstoisslberdbehgapee,c3c,orvrwomyhectwhistosthsorhrn,frr4atterytodewrtepnisonter.Teerslnth5tepee,c,c,orvrifheorseisldonter6usteerrsadosawrfmtedttoheshp.T7e,unrgnettapee,c,c,orvri8onteryadinortodewrtortawrfmted,m9rtpnfmtepee,c,c,orvrfrt0aytoonfrinatafdrtofa,n,ore.A1er[,whtectofa]slberdfraycte,c2c,orv,toaysthsorhrnefrrwatter.A3e,unlgttteneofacte,c,c,orv4oftrayisonteryslteieantoeetesyoftei5intrc.Shanmyi,btisntldt,t,t]orr6a,pye,artepnofdtsnoftee7c,c,orvrwnwgwhi.Noeeslb8adtocefraveiliftrneisonter9V.Aypnhgoregapdorvrc,c,orc0d,orthanadreorfli,topeplc1s,asddinRA1EorRA1,m,whtectoftectorp2c,c,c,orv,sthsorhrnefrrwatt3rya,ifheorseisonter,adwhtefrpnoftecto4pec,c,c,orv,oninatayf5r.Aypncgdgartoseashsorhraturapro6ayorayteofdeprofaym,whtectoftepda]
+[DELETED: B6A-VNADBYBHBPe7sttepdasnefrrwatter.TepnslntberinshsstoonawrprtohgapnonterV.Itslbeulfrayerortntesdurtssntreasacnofetttteeesthsorhrnefrrwateryoffdrsofa,n,orenadayvnoftspslbepeasavI.Fdrsofa,n,orenslberdonteryfrpdof7yssttotepsrttopnfrteerrlofterfmteryaspdintss0X.Ayprweneisldintefdrsmdontes1rymypntepecttoheafdrtedfmterya2f3()Apntoeeslbefdintepectweteprr4orwetea,n,oreno5()Apntoeeslbefdonfspdbytepec.T6pnsliecdcsoftepsclrdadmyieayo7inteprdsr8()Wnapntoeeisf,tepectslretedtt9rttotectcgayalfda,n,orenrsr0totepradslrettteprsttepsn,bhd,a1astotesepetooninatclc.Tectmyr2tedttopeayalintttectbsmyaditinmg3dnontep4()Untertoftedsr,tectmyatontep5wtfrhgormysetemrfrhgattertoferp.Ift6ctdsttteprdsntpeapttttotesyofisa7hsedbtestoeeteldofreofteteofbrt8rdinhsorhreyooter,tectslgttepnadort9dttoretefdrtfmter.O,tepnslbed0X.Tedts,inteneitssotpttoRA1,I,n1teprofhsorhrrttopntohehsorhrfdrtedfmt2r.Nopntoeeafdrtslbebtwnoeyrfmted3tttertwsiyedonter.Iftepntoeeisd,nof4pnslbebtmefytney3yst5X.Tecrslatr,pttoRA5,ret6()Sgfhtepsadcafrrgadggawrp7toRA1,V]
+[DELETED: B6A-VNADBYBHBPe8()Sgtecyofadastoteryetfrtefnytocywhtss.Shssslielsonwhpsianetsnmyrtadastefdrsonter5NwS;CdPnA;DsofCninIlRlCAdRA1Cbyigarsn37tefgnws1aDsofCninIlRlCI.IncsigtedhofacdpdinaygpheorcdceiasddinRA15orcdbytedtfrteceofcnurtscinayseodorodrlttp,orteyhdtcro0issrf,terlssprslnyteayg,tes1flpnadayayfriswhd,adtebuofl2adc,cdcelgu3I.Tennrdurtssnslbepdwn7dsoftec4dhadslietefgi5()Tecsneada6()Tedeofdhoritrginssi7()Teneadctinfrtecspto,ifplrsh8bnt,teneadctinfrtecsntofk9()Ten)adctinfrterlssp;a0()Adnoftesdceofd1I.Tedtofhhadhnssslaynyehoftef2ddintssnoftrrgr,igctinfrt3astoben4I.TecrmyatrsurRA5Aretoteetoft5s66EeD7I.Sn1oftsatslteetunisp8I.Sn2oftsatslteetJy1,29I.Terroftsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATegadlssotc;retorsrgtedhofacdinrlc;adretotyoffdrsofa,n,orenofveaLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0f;$+$lf;glf0fl$0fsf+glfgSlf,flf0$0$0$gSlFe=Ctofbl*n=Adfgtocrctofbsblesadlssotcntdwhrgddmgrstosnhhadsyosintedss.TeblesacdpnwnteDtofHhanSstopeottotec,adas$0inF7fspnantoeganotc,teblisnwrsrorsadinofata,admsrstoteserytsrsofaea.TeDtsstttepsmtcsinavyofw.Fyrwrgadtenwsypnrtaeedtohemeaei,pdtoits,i,adc.Bdonanedsgteoy20mspritadanedveof10rsp,tealwdispdtobeay60sfhsarry00feetps(,whteDtnsmybemewnegr]
+[DELETED: rp,shasteegryeybdc,rlerryc,adrgtewgpdberypysyietenrofaersada,rgigisinaehsadllr.TemeofteisieDtastttepnedbyteblwlct$0inF0inF,ad$0inF.Oft,ayhfisedtobefhflf,sote$0glfdaninF7issttofeteseinF.TeDtastttevsorcscdintlwlneITmscg$0inF,aswlasapepntosttealryasrgfmedeyrspnispdtoct$0inF,$0inF,ad$0inF.BeITcsadteplpnaeedtobefygyfSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1046s
+7May2026...1516h
+06/04/2026 2148EBA
+2026SESSION
+26-3258
+05/07
+670-FN-A
+SENATEBILL
+ANACT establishing a developmental services oversight commission; relative to reporting
+requirementsregardingthedeathofachildinresidentialcare;andrelativetothe
+registryoffoundedreportsofabuse,neglect,orexploitationofvulnerableadults.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Rosenwald,
+Dist13;Sen.PerkinsKwoka,Dist21;Sen.Gannon,Dist23;Sen.Carson,Dist 14;
+Sen.McGough,Dist11;Sen.Birdsell,Dist19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes a developmental services oversight commission, revises reporting and
+investigation requirements regarding reports of abuse of vulnerable adults, and revises notification
+andreportingrequirementsregardingabuseofminorsininstitutionalresidentialsettings.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+03/12/2026 1046s
+7May2026...1516h
+06/04/2026 2148EBA 26-3258
+05/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a developmental services oversight commission; relative to reporting
+requirementsregardingthedeathofachildinresidentialcare;andrelativetothe
+registryoffoundedreportsofabuse,neglect,orexploitationofvulnerableadults.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Developmental Services Oversight Commission. Amend RSA 171-A by
+2 insertingaftersection34thefollowingnewsubdivision:
+3 DevelopmentalServicesOversightCommission
+4 171-A:35 DevelopmentalServicesOversightCommission.
+5 I. There is established thedevelopmental services oversight commissiontocontinuously and
+6 effectively assure the health and welfare of participants receiving home and community based
+7 1915(c) waiver services within the developmental services system. The commission is tasked with
+8 reviewing data submitted by the department of health and human services related to health and
+9 safety to make recommendations to improve outcomes for individuals receiving developmental
+10 services.
+11 II. Legislativemembersofthecommissionshallserveatermcoterminouswiththeirtermin
+12 office.
+13 III. All public members shall serve 3-year terms. Notwithstanding RSA 14:49, II(c), the
+14 membersofthecommissionshallbeasfollows:
+15 (a) Twomembersofthesenate,appointedbypresidentofthesenate.
+16 (b) Two members of the house of representatives, appointed by speaker of the house of
+17 representatives.
+18 (c) Thedirectorofthedivisionoflongtermsupportsandservices,ordesignee.
+19 (d) Thebureauchiefofthebureauofdevelopmentalservices,ordesignee.
+20 (e) Theadministratorofadultprotectiveservices,ordesignee.
+21 (f) An administrator with the department of health and human services, certification
+22 andlicensingbureau.
+23 (g) A representative of the department of health and human services, division of
+24 programqualityandintegrity.
+25 (h) Onememberrepresentingtheareaagencysystem,appointedbythegovernor.
+26 (i) Threemembersrepresentingtheprivateproviders,appointedbythegovernor.
+27 (j) Theexecutivedirectorofthegovernor’scommissionondisability.
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 (k) One representative of the Disability Rights Center (DRC), appointed by that
+2 organization.
+3 (l) Twoparentsofindividualsreceivingservicesfromthedevelopmentalservicessystem,
+4 appointedbythegovernor.
+5 (m) Two individuals receiving services from the developmental services system,
+6 appointedbythegovernor.
+7 IV. The commission shall provide recommendations to strengthen health and safety
+8 outcomesinthedevelopmentalservicessystem.Ataminimum,thecommissionshall:
+9 (a) Identifyareasofbestpracticeandproviderecommendationsrelatedtoimprovements
+10 tothehealthandsafetyofindividualsserved.
+11 (b) Review quarterly satisfaction surveys conducted by service coordinators for
+12 individuals receiving services through the developmental disabilities (DD), in-home supports (IHS),
+13 and acquired brain disorder (ABD) 1915(c) home and community-based services waivers and provide
+14 recommendationsforqualityimprovementtothedepartment.
+15 (c) Review training requirements in policy and administrative rule and make
+16 recommendationsforadditionalormodifiedtraining.
+17 (d) Review available department of health and human services licensing and
+18 certificationdata.
+19 (e) Review the DD, IHS, and ABD 1915 (c) waivers' performance measures as presented
+20 bythedepartmenttothecenterfor medicareandmedicaidservices andproviderecommendations to
+21 thedepartmentregardingimprovingthecarebasedontheperformancemeasures.
+22 (f) Providefeedbackonproposedchangestostateadministrativerulesandlaws.
+23 (g) Solicitinputfromthedevelopmentalservicesqualitycouncil,establishedinRSA171-
+24 A:33.
+25 V. The first meeting of the oversight commission shall be called by the first-named senate
+26 member, who shall serve as the chairperson. Thereafter, the commission shall elect a chairperson
+27 fromamongthemembersevery3years,orwhenavacancyoccursinthatposition. Thefirstmeeting
+28 of the commission shall be held within 45 days of the effective date of this section. Eleven members
+29 ofthecommissionshallconstituteaquorum.
+30 VI. Followingeachmeeting,commissionmembers will identifyitems appropriatefor further
+31 actionanddeterminewhenthoseitemscanbebroughtbacktothecommission.
+32 VII. The department shall provide consultative and administrative support to the
+33 commissionandcomplywithallreasonabledatarequests.
+34 VIII. Beginning November 1, 2026, and annually thereafter, the commission shall provide a
+35 reportofitsfindingsandrecommendationstothepresidentofthesenate,thespeakerofthehouseof
+36 representatives, the oversight committee on health and human services established in RSA 126-
+37 A:13,thegovernor’soffice,andthecommissionerofhealthandhumanservices.
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 IX. ThemeetingsshallbeopentothepublicandsubjecttotheprovisionsofRSA91-A.
+2 2 PositionEstablished;Appropriation.
+3 I. Theclassifiedposition21-1090MISCSOCSVCSPECS-6isestablishedinthedepartment
+4 of health and human services to support the developmental services oversight commission
+5 establishedinsection1ofthisact.
+6 II. The sum of $52,000 for the biennium ending June 30, 2027, which shall not lapse until
+7 June 30, 2027, is hereby appropriated to the department of health and human services for the
+8 purpose of funding the position established in paragraph I. In addition to the appropriation and
+9 notwithstanding RSA 14:30-a, the department may accept and expend matching federal funds
+10 without prior approval of the fiscal committee of the general court. The governor is authorized to
+11 draw a warrant for the general fund portion of said sum out of any money in the treasury not
+12 otherwiseappropriated.
+13 3 New Paragraphs; Elderly and Adult Services; Reports and Investigation of Adult Abuse.
+14 AmendRSA161-F:46byinsertingafterparagraphIIIthefollowingparagraphs:
+15 IV. Any residential service provider caring for vulnerable adults shall notify the
+16 commissioner or designee, the bureau of licensing and certification, the attorney general, and the
+17 state's federal protection and advocacy agency in cases involving serious bodily injury or death. For
+18 purposes of this section, a residential services provider is a provider licensed or certified to provide
+19 servicestovulnerableadultsthatare:
+20 (a) Supportedbythe1915chomeandcommunity-basedMedicaidwaiverprogram;
+21 (b) At a state-owned or state-operated facility, including, but not limited to, New
+22 HampshirehospitalandGlencliffhome;or
+23 (c) AtHampsteadhospitalandresidentialtreatmentfacility.
+24 V. The notification shall be provided within 7 days of the death or serious bodily injury and
+25 shallincludethefollowinginformation:
+26 (a) Theresident'sname,age,andlastknownaddress.
+27 (b) Thedateofdeathorincidentresultinginseriousbodilyinjury.
+28 (c) Thename(s)andcontactinformationfortheresidentialservicesproviderandvendor,
+29 ifapplicable.
+30 (d) The name and contact information of the resident's next of kin and, if under
+31 guardianship,theguardian'snameandcontactinformation.
+32 (e) A description of the injuries sustained, medical care administered, and, if applicable,
+33 thesuspectedcauseofdeath.
+34 VI. The department shall annually notify each area agency as defined in RSA 171-A:2, I-b,
+35 community mental health program as defined in RSA 135-C:2, IV, state-owned or operated facility,
+36 including,butnotlimitedto,NewHampshireHospitalandGlencliffHome,HampsteadHospitaland
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 Residential Treatment Facility, and each certified residential services provider of their
+2 responsibilitiesunderthissectionandprovidecontactinformationfortheagenciestobenotified.
+3 VII. The commissioner may adopt rules under RSA 541-A relative to enforcement of this
+4 section.
+5 4 ElderlyandAdultServices;Registry. AmendRSA161-F:49toreadasfollows:
+6 161-F:49 Registry.
+7 I. There shall be established a state registry at the department for the purpose of
+8 maintaining a record of information on each founded report of abuse, neglect, or exploitation toward
+9 an individual [by a paid or volunteer caregiver, guardian, or agent acting under the authority of a
+10 powerofattorneyoranydurablepowerofattorney]. Theregistryshallbeconfidentialandsubjectto
+11 rules on access established by the commissioner of the department under RSA 541-A. Unfounded
+12 reports shall not be maintained on the registry. The department shall maintain statistical, non-
+13 identifying information on founded reports as the department determines is necessary to track and
+14 addresstrends. Forthepurposesofthissection:
+15 (a) "Individual" means an individual, 18 years of age or older, who is a vulnerable adult,
+16 asdefinedunderRSA161-F:43,VII.
+17 (b) "Investigator" means a person designated or employed by the department, in
+18 accordance with a protocol developed by the department to ensure objectivity, thoroughness,
+19 timeliness, and uniformity in methodology and format in the conduct of investigations and
+20 investigationreports. [Aninvestigator mayinclude aninvestigator employed byanareaagencyor a
+21 communitymentalhealthcenter,ifdesignatedbythedepartment.]
+22 (c) "Perpetrator" means a person who, following a protective investigation completed in
+23 accordance with RSA 161-F:42 through RSA 161-F:57, is found to have abused, neglected, or
+24 exploitedavulnerableadult.
+25 (d) "Volunteer" means a person who provides voluntary services through any agency,
+26 program,orfacility.
+27 II. Within5business days of completionof aninvestigationof abuse, neglect, or exploitation
+28 of an individual [by a paid or volunteer caregiver, guardian, or agent acting under the authority of a
+29 power of attorneyor anydurablepower of attorney], the investigator shall provide asummaryof the
+30 investigation to the commissioner, or designee. Except as provided in paragraph IV, for a founded
+31 report,thecommissioner,ordesignee,shall,within5businessdays,notifytheperpetrator:
+32 (a) Of the founded report against him or her and that such information shall be entered
+33 ontheregistryandtheconsequencesofsuchafinding.
+34 (b) Oftherighttocontestthefindingbyappealingwithin10businessdays.
+35 (c) Oftherighttoreceiveafullandfairadministrativehearing,includingtherighttobe
+36 representedbycounselathisorherownexpense.
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 (d) Of the right to appeal an adverse administrative hearing decision to the probate
+2 courtinaccordancewithparagraphV.
+3 (e) Thatheorshemaypetitiontheprobatecourttoexpungethereportfromtheregistry
+4 pursuanttoRSA161-F:49,X.
+5 III. In response to a written request from an employer identified in paragraph VII, the
+6 commissioner,ordesignee,shallnotifytheemployer:
+7 (a) Relative to a prospective or current employee, consultant, contractor, or volunteer
+8 who is not on the registry of that fact within 5 business days of receipt of a request from the
+9 employer.
+10 (b) Relative to a prospective or current employee, consultant, contractor, or volunteer
+11 whois ontheregistryof that fact within5business days of receipt oftherequest from theemployer,
+12 andthedepartmentshallincludeinthenoticethedatethepersonwasplacedontheregistry.
+13 IV. A founded report of abuse, neglect, or exploitation, and other information the
+14 commissionerdeemsappropriate,shallbeenteredontheregistryupon[:
+15 (a) Expiration of the 10-business-day period for appeal when the perpetrator does not
+16 requestanappeal.
+17 (b)] the department's decision and shall be removed after 7 years unless an
+18 administrative hearing officer [sustaining] or the probate court overturns the finding[, unless an
+19 appealisfiledinaccordancewithparagraphVandanorderofstayisissuedbytheprobatecourt].
+20 V. If the finding is sustained after an administrative hearing, a perpetrator shall have the
+21 righttoappealasfollows:
+22 (a) AperpetratormayfileapetitionintheMerrimackcountyprobatecourttoreviewthe
+23 final order by the commissioner, or designee, within 30 days of the date of the final order.
+24 JurisdictiontohearsuchappealsisvestedintheMerrimackcountyprobatecourt.
+25 (b) At the earliest practical time, the court shall review the record as developed before
+26 the commissioner, or designee, together with any written legal argument presented to the court.
+27 Based on that review, the court may affirm or reverse the decision of the commissioner, or designee,
+28 or order that oral argument be held. As justice may require, the court may remand the case to the
+29 commissioner, or designee, for further findings or rulings. The petition for appeal shall set forth all
+30 the grounds upon which the final order is sought to be overturned. Issues not raised by the
+31 appellant before the commissioner, or designee, shall not be raised before the probate court. The
+32 burden of proof shall be upon the appellant to show that the decision of the commissioner, or
+33 designee, was clearly unreasonable or unlawful, and all findings of the commissioner, or designee,
+34 upon all questions of fact properly before him or her shall be deemed to be prima facie lawful and
+35 reasonable. The order or decision appealed from shall not be vacated except for errors of law, unless
+36 the court is satisfied, by a clear preponderance of the evidence, that the order is unjust or
+37 unreasonable.
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page6-
+1 (c) No new or additional evidence shall be introduced in the probate court. The case
+2 shall be determined upon the record and evidence transferred, except that in any case, if it shall be
+3 necessary in order that no party shall be deprived of any constitutional right, or if the court
+4 determines that justice requires the reception of evidence of facts which have occurred since the
+5 hearing, or which by reason of accident, mistake, or misfortune could not have been offered before
+6 the commissioner, or designee, it shall remand the case to the commissioner, or designee, to receive
+7 andconsidersuchadditionalevidence.
+8 VI. If it is determined by the commissioner, or designee, or after a hearing requested
+9 pursuanttosubparagraphII(c)thatafoundedreportwascausedbyfactorsbeyondthecontrolofthe
+10 perpetrator,thenthefindingshallnotbeenteredontotheregistryasfounded.
+11 VII. All employers of programs which are licensed, certified, or funded by the department to
+12 provide services to individuals shall be required before hiring a prospective employee, consultant,
+13 contractor,orvolunteerwhomayhavecontactwithindividualstosubmithisorhername,forreview
+14 against the registry to determine whether the person is on the registry. The employer shall not hire
+15 the prospective employee, consultant, contractor, or volunteer if he or she is listed on the registry
+16 unless the employer requests and obtains a waiver from the department to hire such person. The
+17 employer, upon receiving notice that a prospective employee, consultant, contractor, or volunteer is
+18 on the registry and in order to determine whether to request a waiver from the department, may
+19 request permission from the prospective employee, consultant, contractor, or volunteer for the
+20 authority to obtain further information about a founded report of abuse, neglect, or exploitation. An
+21 employer [may, with the consent of a] shall be required for any current employee, consultant,
+22 contractor, or volunteer, to annually submit his or her name for review against the registry. All
+23 employers, upon learning that the name of a current employee, consultant, contractor, or volunteer
+24 of their agency is on the registry shall take immediate action to ensure the safety of the individuals
+25 in their care. Such action may include, but is not limited to, termination[, training,] or re-
+26 assignment[, probationary employment, and/or the provision of direct supervision of the employee,
+27 consultant, contractor, or volunteer when working with individuals]. No employee shall be
+28 allowedtocareforavulnerableindividualiftheirnameisontheregistry.
+29 VIII. Anypersonhiringor employingapaid orvolunteercaregiver, consultant,or contractor
+30 directly, or through an authorized representative or fiscal intermediary, to provide personal care
+31 services, as defined in RSA 161-E or RSA 161-I, may, with the consent of the current or prospective
+32 caregiver, consultant, contractor, or volunteer, submit his or her name for review against the
+33 registry and, if he or she is on the registry, and with the further permission of the current or
+34 prospective caregiver, consultant, contractor, or volunteer, obtain information about any founded
+35 report. Any person considering designating another to serve as his or her agent under a power of
+36 attorney or any type of durable power of attorney may, with the consent of the proposed agent,
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page7-
+1 submit the proposed agent's name for review against the registry. The person shall not be required
+2 insuchsituationstoobtainawaiverpriortohiringapersonontheregistry.
+3 VIII-a. It shall be unlawful for any employer other than those specified under this section to
+4 require as a condition of employment that the employee submit his or her name for review against
+5 the registry of founded reports of abuse, neglect, or exploitation and any violation of this provision
+6 shallbepunishableasaviolation.
+7 IX. Founded reports of abuse, neglect, or exploitation shall be retained on the registry for a
+8 period of 7 years subject to the perpetrator's right to petition for the earlier removal of the report
+9 fromtheregistryasprovidedinthissection.
+10 X. Any perpetrator whose name is listed in the founded reports maintained on the state
+11 registry may petition the probate court to have a founded report expunged from the registry as
+12 follows:
+13 (a) A petition to expunge shall be filed in the probate court where the petitioner resides
+14 orwheretheabuse,neglect,orexploitationoccurred.
+15 (b) A petition to expunge shall be filed on forms provided by the probate courts. The
+16 petition shall include certified copies of the petitioner's criminal record and may include any other
+17 informationthepetitionerdeemsrelevant.
+18 (c) Whenapetitiontoexpungeisfiled,theprobatecourtshallrequirethedepartmentto
+19 report to the court concerning any additional founded abuse, neglect, or exploitation reports relative
+20 to the petitioner and shall require that the petitioner submit the petitioner's name, birth date, and
+21 address to the state police to obtain information about criminal convictions. The court may require
+22 the department to provide any additional information that the court believes may aid it in making a
+23 determinationonthepetition.
+24 (d) Upon the receipt of the department's report, the court may act on the petition
+25 withoutfurtherhearingormayschedulethematterforhearingattherequestofeitherparty. Ifthe
+26 court determines that the petitioner does not pose a present threat to the safety of individuals and
+27 has exhibited best efforts to eliminate the likelihood of reoccurrence of the type of behavior that
+28 resulted in his or her entry onto the registry, the court shall grant the petition and order the
+29 departmenttoremovethefoundedreportfromtheregistry. Otherwise,thepetitionshallbedenied.
+30 XI. The department shall, in the notice it sends out pursuant to RSA 161-F:49, II(a), notify
+31 the perpetrator of his or her right to petition to have his or her founded report expunged from the
+32 registry. No petition to expunge a founded report shall be brought within one year from the date
+33 that the report was initially entered on the registry. If the petition to expunge is denied, no further
+34 petitionshallbebroughtmorefrequentlythanevery3yearsthereafter.
+35 XII. Thecommissionershalladoptrules,pursuanttoRSA541-A,relativeto:
+36 (a) Setting forth the process and criteria for requesting and granting a waiver pursuant
+37 toRSA161-F:49,VII.
+
+SB670-FN-A-VERSIONADOPTEDBYBOTHBODIES
+-Page8-
+1 (b) Safeguarding the confidentiality of and access to the registry except for the functions
+2 necessarytocomplywiththissection. Suchsafeguardsshallincludelimitationsonwhichpersonsin
+3 anemploymentsituationmayrequestandaccessthefoundedreportsontheregistry.
+4 5 New Section; Child Protection Act; Deaths of Children in Institutional Residential Care.
+5 AmendRSA169-Cbyinsertingaftersection37thefollowingnewsection:
+6 169-C:37-a DeathsofChildreninInstitutionalResidentialCare.
+7 I. In cases involving the death of a child placed in any group home or child care institution
+8 asdefinedinRSA170-E:25orcertifiedbythedepartmentforthecareofchildrenunderthischapter,
+9 in any state owned or operated residential treatment program, or the youth development center or
+10 its successor facility, the residential services provider shall notify the attorney general, the state's
+11 federal protection and advocacy agency for individuals with disabilities, and the bureau of licensing
+12 andcertification,childcarelicensingunit.
+13 II. The notification required under this section shall be provided within 7 days of the child's
+14 deathandshallincludethefollowinginformation:
+15 (a) Thechild'snameandage;
+16 (b) Thedateofdeathorincidentresultinginseriousinjury;
+17 (c) The name and contact information for the child's parent or, if parental rights have
+18 beenterminated,thenameandcontactinformationforthechild'snextofkin;
+19 (d) Thename(s)andcontactinformationfortheresidentialservicesprovider;and
+20 (e) Adescriptionofthesuspectedcauseofdeath.
+21 III. The department of health and humanservices shall annually notifyeach of the facilities
+22 described in this section of their reporting responsibilities, including contact information for the
+23 agenciestobenotified.
+24 IV. The commissioner may adopt rules under RSA 541-A relative to the enforcement of this
+25 section.
+26 6 EffectiveDate.
+27 I. Section1ofthisactshalltakeeffectuponitspassage.
+28 II. Section2ofthisactshalltakeeffectJuly1,2026.
+29 III. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3258
+04/06/2026
+SB670-FN-A-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1046s)
+ANACT establishing a developmental services oversight commission; relative to reporting
+requirementsregardingthedeathofachildinresidentialcare;andrelativetothe
+registryoffoundedreportsofabuse,neglect,orexploitationofvulnerableadults.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$276,000+ $83,000+
+$80,000+general
+generalfunds; generalfunds;
+Expenditures* $0 funds;$55,000
+$52,000federal $57,000federal
+federalfunds
+funds funds
+FundingSource(s) Generalfunds,federalfunds
+Appropriations* $0 $52,000 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a developmental services oversight commission tasked with reviewing data
+and making recommendations to strengthen health and safety outcomes in the developmental
+services system. The bill establishes a classified position within the Department of Health and
+Human Services to provide oversight to the commission, and appropriates $52,000 in FY27 for
+thispurpose.
+In addition to establishing an oversight commission, the bill imposes new requirements relative
+to reports and investigation of adult abuse, and makes revisions to the state registry that
+maintains records of abuse allegations. The Department states that these provisions may
+impact costs in a variety of ways. Fatality review reporting and the new seven-day provider
+notification requirement are expected to have moderate administrative impacts, primarily
+related to incident screening, intake, and coordination. Based on an estimated screening time of
+approximately 20–30 minutes per incident and an estimated volume of 100–200 reports per
+month, the additional workload is projected to be approximately 600–1,200 staff hours annually,
+or roughly 0.5–1.0 full-time equivalent positions (FTE), which the Department notes may
+initiallybemanageablewithinexistingresources.
+
+Other provisions, such as those expanding registry eligibility beyond caregivers, requiring
+annual employer registry checks, and removing the waiting period before registry placement,
+may significantly increase the number of administrative reviews and appeals, resulting in
+corresponding increases in administrative hearings and legal review. The magnitude of this
+increaseisindeterminable.
+The Department assumes that the position established by the bill will cost $104,000 in FY27,
+$109,000 in FY28, and $114,000 in FY29. Of this, approximately half is expected to be funded
+withfederal funds, so the$52,000general fund appropriationinFY27is sufficient tofinance the
+state share in FY27. The Department assumes that the various other changes contained in the
+bill will necessitate IT modifications costing $200,000 in FY26, as well as a part-time paralegal
+position to support the additional registry appeals resulting from expanded eligibility registry.
+This position is projected to cost $24,000 in FY27, $52,000 in FY28, and $26,000 in FY29. Both
+theITcostsandtheparalegalpositionareexpectedtobefullygenerallyfunded.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B6A-VNADBYBHB61.1626SEBNATegadlssotc;retorsrgtedhofacdinrlc;adretotyoffdrsofa,n,orenofvea:S.R,Dt1;S.P,Dt1;S.W,Dt8;S.Rt1;S.PsK,Dt2;S.G,Dt2;S.C,Dt1.M,Dt1;S.B,Dt1:HhadHnSDAsblesadlssotc,rsrganrsrgrsofaeofvea,adrsndrgrsrgaeofmsinilrls-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6A-VNADBYBHB61.162A2EOFNWHnteYrofOrLdToTdTNATegadlssotc;retorsrgtedhofacdinrlc;adretotyoffdrsofa,n,orenofveaeitEdbyteSeadHeofRsinGlCtc1NwS;DlSsOtC.AdRA1Abigarsn34tefgnwsDlSsOtC15DlSsOtCI.Teisedtedlssotcntocyaeyaetehhadweofpsrgheadcyb1)wrsswntedlsss.Tecnistdwrgdasdbytedtofhhadhnssrdtohhasytomerstoieosfrisrgd0s1I.Lemsoftecnslseatmcswhtrtmi2o3I.Alpcmsslse3rt.NgRA1,I,t4msoftecnslbeasf5()Tomsoftes,adbyptoftes6()Tomsofteheofr,adbysrofteheo7r8()Tedroftednoflgtmssads,ord9()Tebucfoftebuofdls,ord0()Tearofatpes,ord1()Anarwhtedtofhhadhns,c2adlgb3()Areoftedtofhhadhns,dno4pmqyadi5()Oemrrgteaaays,adbyteg6()Temsrgtepep,adbyteg7()Teeedroftegscnond]
+[DELETED: B6A-VNADBYBHBPe2()OereofteDyRsCr(,adbyto()Topsofisrgssfmtedlsssadbyteg()ToisrgssfmtedlsssadbytegI.Tecnslperstosnhhadsosintedlsss.Atam,tecns()Iyasofbtpeadpersrdtoi0totehhadsyofiss1()Rwqysnsscdbysecsf2isrgssthtedlds(,iess(3adadbndr()1)headcdsswsadp4rsfrqyittoted5()Rwtgrsinpyadaereadm6rsfralormdt7()Rwaedtofhhadhnsslga8cnd9()RwteD,I,adAD15()w'pemsasp0bytedttotecrfrmeadmdssadperst1tedtrgigtecebdontepem2()Pefkonpdcstoseaersadl3()Stitfmtedlssqyc,edinRA14A5V.Teftmgofteotcnslbecdbytefds6m,woslseastec.T,tecnsletac7fmagtemsey3y,orwnavyosinttp.Teftm8oftecnslbehdwn45dsofteeedeoftss.Enm9oftecnslceaq0V.Fgehm,cnmswliyisaefrf1anaddewnteiscnbebtbktotec2V.Tedtslpeceadaesttot3cnadcywhalredar4V.BgNr1,2,adayt,tecnslpe5rtofisfsadrstoteptoftes,tesrofteheo6r,teotceonhhadhnssedinRA17A,tegso,adtecrofhhadhns]
+[DELETED: B6A-VNADBYBHBPe3I.TemsslbeontotepcadsttotepsofRA92PnE;AI.Tecdpn20MCSCSCS6isedintedofhhadhnsstosttedlssotcedinsn1oftsaI.Tesmof$0frtebmegJe3,2,whslntleuJe3,2,ishyadtotedtofhhadhnssfrtpeoffgtepnedinphI.InantoteanangRA1,tedtmyatadedmgflf0wtpralofteflceofteglc.Tegrisadt1dwawtfrteglfdpnofsdsmotofaymyintetyn2oea33NwP;EyadAtS;RsadInofAtA4AdRA16byigarphIItefgp5I.Ayrlseprcgfrveasslnyt6crord,tebuoflgadc,teayg,adt7ssflpnadayayincsigssbyiyord.F8psoftss,arlssprisaprldorcdtop9sstoveastta0()Sdbyte1cheadcdMdwrp1()Atasdorsdf,i,btntldt,N2HehladGfh;o3()AtHdhladrlttf4V.Tennslbepdwn7dsoftedhorssbyiya5slietefgi6()Tersn,a,adltkna7()Tedeofdhoritrginssbyi8()Ten)adctinfrterlsspradv9ifa0()Teneadctinoftersntofkna,ifu1g,tegsneadcti2()Adnofteiss,mlcea,a,ifa3tesdceofd4V.TedtslaynyehaaayasddinRA1,I5cymlhhpmasddinRA1,I,sdorodf6i,btntldt,NwHeHladGfH,HdHla]
+[DELETED: B6A-VNADBYBHBPe4RlTtF,adehcdrlssproftrsurtssnadpectinfrteastobenV.TecrmyatrsurRA5Aretoetofts4EyadAtS;R.AdRA19tordasf19RI.Teslbeedaseryattedtfrtepeomgardofinonehfdrtofa,n,orentanil[yapdorvrc,g,oratagurteayof0profayoraydeprofa.Teryslbecladstt1rsonasedbytecroftedturRA5.U2rsslntbemdonter.Tedtslmns,n3iginonfdrsastedtdsisnytotka4ast.Frtepsoftss5()""msani,18ysofaeoro,woisavea6asddurRA1,V7()""msapnddoredbyted,i8aewhaplddbytedttoeeo,t9t,aduyinmyadftintectofisa0inr.[nirmyieaniredbyanaaayor1cymlhhc,ifddbyted2()""msapnw,fgapeincdi3aewhRA12thRA1,isfdtohea,n,o4edavea5()""msapnwopsvyssthaya6p,orf7I.Wn5bsdsofcnofaninofa,n,ore8ofanil[yapdorvrc,g,oratagurteayof9profayoraydeprofa,teirslpeasyoft0intotec,ord.EtaspdinphI,fraf1r,tec,ord,s,wn5bsd,nytep2()Oftefdrtathmorhradttshinslbee3onteryadtecsofshaf4()Ofterttocttefgbyagwn10bsd5()Ofterttoreafladfraeh,igterttob6rdbyclathsorhrone]
+[DELETED: B6A-VNADBYBHBPe5()OfterttoalanaeaehgdntotepctinaewhphV()TtheorsemypntepecttoeetertfmterpttoRA1,XI.InretoawnrtfmaneridinphV,tc,ord,slnytee()Retoapeorcte,c,c,orvwoisntonteryofttftwn5bsdsofrtofartfmte0()Retoapeorcte,c,c,orv1woisonteryofttftwn5bsdsofrtoftertfmtee2adtedtslieintenetedetepnwspdonter3I.Afdrtofa,n,ore,adorint4crdsa,slbeedonteryu5()Enofte1ypdfralwnteprdsn6rtana7(]tedsdnadslberdar7ysusa8aehgor[]ortepectostef,usa9alisfdinaewhphVadanorofsyisidbytepec0V.Iftefgissdaranaeh,aprslhet1rttoalasf2()AprmyfeapninteMkcypecttorwt3florbytec,ord,wn30dsoftedeofteflo4JntohrshasisvdinteMkcypec5()Atteetplt,tectslrwterdasddb6tec,ord,trwhaywnllatpdtotec7Bdonttr,tectmyamorretednoftec,ord8ororttolatbeh.Asjemyr,tectmyrdtecetot9c,ord,frfrfsorr.Tepnfralslstfha0tegsunwhteflorissttobeo.Isntrdbyt1atbetec,ord,slntberdbetepec.T2bnofpfslbeunteattoswtttednoftec,o3d,wscyueoru,adalfsoftec,ord4unalqsofftpybehmorhrslbeddtobepafella5r.Teorordnadfmslntbevdetfresofl,u6tectiss,byacrpeoftee,ttteorisuto7u]
+[DELETED: B6A-VNADBYBHBPe6()Nonworaleeslbeidintepec.Tecslbeddunterdadeet,etttinayc,ifitslbnyinorttnopyslbeddofayclr,oriftecdsttjersternofeeoffswhheodseth,orwhbyrnofa,m,ormecdnthebnodbtec,ord,itslrdtecetotec,ord,toradcrshaleV.Ifitisddbytec,ord,orarahgrpttoshI)ttafdrtwscdbyfsbdtecloft0p,tntefgslntbeedooteryasf1V.Alesofpswhael,c,orfdbytedtt2pesstoisslberdbehgapee,c3c,orvrwomyhectwhistosthsorhrn,frr4atterytodewrtepnisonter.Teerslnth5tepee,c,c,orvrifheorseisldonter6usteerrsadosawrfmtedttoheshp.T7e,unrgnettapee,c,c,orvri8onteryadinortodewrtortawrfmted,m9rtpnfmtepee,c,c,orvrfrt0aytoonfrinatafdrtofa,n,ore.A1er[,whtectofa]slberdfraycte,c2c,orv,toaysthsorhrnefrrwatter.A3e,unlgttteneofacte,c,c,orv4oftrayisonteryslteieantoeetesyoftei5intrc.Shanmyi,btisntldt,t,t]orr6a,pye,artepnofdtsnoftee7c,c,orvrwnwgwhi.Noeeslb8adtocefraveiliftrneisonter9V.Aypnhgoregapdorvrc,c,orc0d,orthanadreorfli,topeplc1s,asddinRA1EorRA1,m,whtectoftectorp2c,c,c,orv,sthsorhrnefrrwatt3rya,ifheorseisonter,adwhtefrpnoftecto4pec,c,c,orv,oninatayf5r.Aypncgdgartoseashsorhraturapro6ayorayteofdeprofaym,whtectoftepda]
+[DELETED: B6A-VNADBYBHBPe7sttepdasnefrrwatter.TepnslntberinshsstoonawrprtohgapnonterV.Itslbeulfrayerortntesdurtssntreasacnofetttteeesthsorhrnefrrwateryoffdrsofa,n,orenadayvnoftspslbepeasavI.Fdrsofa,n,orenslberdonteryfrpdof7yssttotepsrttopnfrteerrlofterfmteryaspdintss0X.Ayprweneisldintefdrsmdontes1rymypntepecttoheafdrtedfmterya2f3()Apntoeeslbefdintepectweteprr4orwetea,n,oreno5()Apntoeeslbefdonfspdbytepec.T6pnsliecdcsoftepsclrdadmyieayo7inteprdsr8()Wnapntoeeisf,tepectslretedtt9rttotectcgayalfda,n,orenrsr0totepradslrettteprsttepsn,bhd,a1astotesepetooninatclc.Tectmyr2tedttopeayalintttectbsmyaditinmg3dnontep4()Untertoftedsr,tectmyatontep5wtfrhgormysetemrfrhgattertoferp.Ift6ctdsttteprdsntpeapttttotesyofisa7hsedbtestoeeteldofreofteteofbrt8rdinhsorhreyooter,tectslgttepnadort9dttoretefdrtfmter.O,tepnslbed0X.Tedts,inteneitssotpttoRA1,I,n1teprofhsorhrrttopntohehsorhrfdrtedfmt2r.Nopntoeeafdrtslbebtwnoeyrfmted3tttertwsiyedonter.Iftepntoeeisd,nof4pnslbebtmefytney3yst5X.Tecrslatr,pttoRA5,ret6()Sgfhtepsadcafrrgadggawrp7toRA1,V]
+[DELETED: B6A-VNADBYBHBPe8()Sgtecyofadastoteryetfrtefnytocywhtss.Shssslielsonwhpsianetsnmyrtadastefdrsonter5NwS;CdPnA;DsofCninIlRlCAdRA1Cbyigarsn37tefgnws1aDsofCninIlRlCI.IncsigtedhofacdpdinaygpheorcdceiasddinRA15orcdbytedtfrteceofcnurtscinayseodorodrlttp,orteyhdtcro0issrf,terlssprslnyteayg,tes1flpnadayayfriswhd,adtebuofl2adc,cdcelgu3I.Tennrdurtssnslbepdwn7dsoftec4dhadslietefgi5()Tecsneada6()Tedeofdhoritrginssi7()Teneadctinfrtecspto,ifplrsh8bnt,teneadctinfrtecsntofk9()Ten)adctinfrterlssp;a0()Adnoftesdceofd1I.Tedtofhhadhnssslaynyehoftef2ddintssnoftrrgr,igctinfrt3astoben4I.TecrmyatrsurRA5Aretoteetoft5s66EeD7I.Sn1oftsatslteetunisp8I.Sn2oftsatslteetJy1,29I.Terroftsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATegadlssotc;retorsrgtedhofacdinrlc;adretotyoffdrsofa,n,orenofveaLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0f;$+$lf;glf0fl$0fsf+glfgSlf,flf0$0$0$gSlFe=Ctofbl*n=Adfgtocrctofbsblesadlssotcntdwhrgddmgrstosnhhadsyosintedss.TeblesacdpnwnteDtofHhanSstopeottotec,adas$0inF7fspnantoeganotc,teblisnwrsrorsadinofata,admsrstoteserytsrsofaea.TeDtsstttepsmtcsinavyofw.Fyrwrgadtenwsypnrtaeedtohemeaei,pdtoits,i,adc.Bdonanedsgteoy20mspritadanedveof10rsp,tealwdispdtobeay60sfhsarry00feetps(,whteDtnsmybemewnegr]
+[DELETED: rp,shasteegryeybdc,rlerryc,adrgtewgpdberypysyietenrofaersada,rgigisinaehsadllr.TemeofteisieDtastttepnedbyteblwlct$0inF0inF,ad$0inF.Oft,ayhfisedtobefhflf,sote$0glfdaninF7issttofeteseinF.TeDtastttevsorcscdintlwlneITmscg$0inF,aswlasapepntosttealryasrgfmedeyrspnispdtoct$0inF,$0inF,ad$0inF.BeITcsadteplpnaeedtobefygyfSCtofHhadHnS]

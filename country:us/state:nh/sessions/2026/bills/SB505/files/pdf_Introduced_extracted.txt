@@ -1,0 +1,182 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB505-FN-ASINTRODUCED
+2026SESSION
+26-2101
+08/05
+505-FN
+ANACT repealingthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Lang, Dist 2; Sen. McConkey, Dist 3; Sen. Pearl, Dist
+17;Rep.A.Davis,Coos2;Rep.Ouellet,Coos3
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillrepealsthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB505-FN-ASINTRODUCED
+26-2101
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. Thefollowingarerepealed:
+2 I. RSA215-A:23,V-b,relativetotemporaryregistrationfeesforOHRVsfornonresidents.
+3 II. RSA 215-A:23, VIII-a, relative to enhancements for enforcement of and compliance with
+4 certainOHRVlaws.
+5 2 EffectiveDate. ThisactshalltakeeffectMay1,2027.
+LBA
+26-2101
+10/21/25
+SB505-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+FishandGame
+Upto$66,880IncreasePerYear
+Revenue $0 $0
+DNCR
+Upto$144,320IncreasePerYear
+RestrictedFishandGameDepartmentandDepartmentofNaturaland
+RevenueFund(s)
+CulturalResourcesRevenue
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective May 1, 2027, repeals the temporary registration for non-resident off-highway
+recreation vehicles (OHRVs). The Fish and Game Department assumes the intent is to charge
+the regular non-resident registration fee for all non-residents, regardless of their intended
+duration of registration. The temporary non-resident registration fee is $34, and the current
+regular non-resident registration fee is $61/70 to $91/$100, for two-wheel trail bike/all other
+OHRV, depending on whether the registrant is a member of an organized NH nonprofit OHRV
+club. Feerevenueisdistributedasfollows:
+TemporaryRegistration FullRegistration
+TotalFee $34 $91/$100or$61/$70
+DNCRGrant-in-Aid $14 $43/$52or$13/$22
+DNCRAdmin $10 $17.10
+Fish&Game $10 $30.90
+It is unknown how many individuals with temporary registrations may choose to purchase full
+registrations after the passage of this bill (~3,200 registrations). To this extent, this bill could
+increase revenue to the Department of Natural and Cultural Resources (DNCR) up to
+approximately $144,320 per year ($121,600 for Grant-in-Aid and $22,720 for admin), and up to
+approximately $66,880 to the Fish and Game Department. It is assumed that any impact would
+begininFY2028.
+Thisbillalsorepealsthediscretionaryuseofupto$25,000offundsappropriatedtotheFishand
+Game Department in each biennium to collaborate with local law enforcement agencies to
+enhance enforcement and compliance with OHRV laws in areas of the state where riding on
+public ways is permitted. This is not expected to result in an impact to the revenue being
+transferred from the registration fees nor affect the Department's ability to perform such
+collaborationefforts.
+AGENCIESCONTACTED:
+FishandGameDepartment
+[DELETED: B5N-ASI6SEBNATrgtefefrtyrnofnsretoO:S.R,Dt1;S.L,Dt2;S.M,Dt3;S.P,D;R.A.D,Cs2;R.O,Cs:WsadMsblrstefefrtyrnofnsretoO-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATrgtefefrtyrnofnsretoOeitEdbyteSeadHeofRsinGlCtc1R.TefgaerI.RA2,V,retotyrnfsfrOsfrnI.RA2,V,retoesfretofadcewcnOVl2EeD.TsatslteetMy1,2]
+[DELETED: B5-FLNSINATrgtefefrtyrnofnsretoOLIdSeIY26FY27FY28FY20$hadGpto$0IePrYpto$0IePrYeFdFhadGeDtadDtofNlalRsR0$0$0$gS0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsb,eeMy1,2,rstetyrnfrntonvs(.TeFhadGeDtasteitistocerrntrnfefraln,rsoftrinofr.Tetyntrnfeis$,adtecrntrnfeis$0to$,frtltlblo,dgonwrtertisamrofanodNHntO.FereisddasfTyRnFlRlFe$4$0or$RGd$4$2or$RAn$0$h&Ge$0$tisunhwmyiswhtyrsmycetopefsartepeoftsbl(0r.Totse,tsblc]
+[DELETED: eretoteDtofNladClRs()upty$0pryr(0frGdad$0fra,adupty$0toteFhadGeD.ItisadttayitwninFY2sblaorstedyueofupto$0offsadtoteFhaeDtinehbmtocewhlllwetasteetadcewhOVlsinasoftesewergocwsisp.TsisntedtortinanittoterebdfmternfsnratteDsaytopmsneSChadGeD]
+
+
+================================================================================
+
+Raw Text:
+SB505-FN-ASINTRODUCED
+2026SESSION
+26-2101
+08/05
+505-FN
+SENATEBILL
+ANACT repealingthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Lang, Dist 2; Sen. McConkey, Dist 3; Sen. Pearl, Dist
+17;Rep.A.Davis,Coos2;Rep.Ouellet,Coos3
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillrepealsthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB505-FN-ASINTRODUCED
+26-2101
+08/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealingthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. Thefollowingarerepealed:
+2 I. RSA215-A:23,V-b,relativetotemporaryregistrationfeesforOHRVsfornonresidents.
+3 II. RSA 215-A:23, VIII-a, relative to enhancements for enforcement of and compliance with
+4 certainOHRVlaws.
+5 2 EffectiveDate. ThisactshalltakeeffectMay1,2027.
+
+LBA
+26-2101
+10/21/25
+SB505-FN-FISCALNOTE
+ASINTRODUCED
+ANACT repealingthefeefortemporaryregistrationofnonresidentsrelativetoOHRVs.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+FishandGame
+Upto$66,880IncreasePerYear
+Revenue $0 $0
+DNCR
+Upto$144,320IncreasePerYear
+RestrictedFishandGameDepartmentandDepartmentofNaturaland
+RevenueFund(s)
+CulturalResourcesRevenue
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill, effective May 1, 2027, repeals the temporary registration for non-resident off-highway
+recreation vehicles (OHRVs). The Fish and Game Department assumes the intent is to charge
+the regular non-resident registration fee for all non-residents, regardless of their intended
+duration of registration. The temporary non-resident registration fee is $34, and the current
+regular non-resident registration fee is $61/70 to $91/$100, for two-wheel trail bike/all other
+OHRV, depending on whether the registrant is a member of an organized NH nonprofit OHRV
+club. Feerevenueisdistributedasfollows:
+TemporaryRegistration FullRegistration
+TotalFee $34 $91/$100or$61/$70
+DNCRGrant-in-Aid $14 $43/$52or$13/$22
+DNCRAdmin $10 $17.10
+Fish&Game $10 $30.90
+It is unknown how many individuals with temporary registrations may choose to purchase full
+registrations after the passage of this bill (~3,200 registrations). To this extent, this bill could
+
+increase revenue to the Department of Natural and Cultural Resources (DNCR) up to
+approximately $144,320 per year ($121,600 for Grant-in-Aid and $22,720 for admin), and up to
+approximately $66,880 to the Fish and Game Department. It is assumed that any impact would
+begininFY2028.
+Thisbillalsorepealsthediscretionaryuseofupto$25,000offundsappropriatedtotheFishand
+Game Department in each biennium to collaborate with local law enforcement agencies to
+enhance enforcement and compliance with OHRV laws in areas of the state where riding on
+public ways is permitted. This is not expected to result in an impact to the revenue being
+transferred from the registration fees nor affect the Department's ability to perform such
+collaborationefforts.
+AGENCIESCONTACTED:
+FishandGameDepartment
+
+[DELETED: B5N-ASI6SEBNATrgtefefrtyrnofnsretoO:S.R,Dt1;S.L,Dt2;S.M,Dt3;S.P,D;R.A.D,Cs2;R.O,Cs:WsadMsblrstefefrtyrnofnsretoO-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATrgtefefrtyrnofnsretoOeitEdbyteSeadHeofRsinGlCtc1R.TefgaerI.RA2,V,retotyrnfsfrOsfrnI.RA2,V,retoesfretofadcewcnOVl2EeD.TsatslteetMy1,2]
+[DELETED: B5-FLNSINATrgtefefrtyrnofnsretoOLIdSeIY26FY27FY28FY20$hadGpto$0IePrYpto$0IePrYeFdFhadGeDtadDtofNlalRsR0$0$0$gS0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsb,eeMy1,2,rstetyrnfrntonvs(.TeFhadGeDtasteitistocerrntrnfefraln,rsoftrinofr.Tetyntrnfeis$,adtecrntrnfeis$0to$,frtltlblo,dgonwrtertisamrofanodNHntO.FereisddasfTyRnFlRlFe$4$0or$RGd$4$2or$RAn$0$h&Ge$0$tisunhwmyiswhtyrsmycetopefsartepeoftsbl(0r.Totse,tsblc]
+[DELETED: eretoteDtofNladClRs()upty$0pryr(0frGdad$0fra,adupty$0toteFhadGeD.ItisadttayitwninFY2sblaorstedyueofupto$0offsadtoteFhaeDtinehbmtocewhlllwetasteetadcewhOVlsinasoftesewergocwsisp.TsisntedtortinanittoterebdfmternfsnratteDsaytopmsneSChadGeD]

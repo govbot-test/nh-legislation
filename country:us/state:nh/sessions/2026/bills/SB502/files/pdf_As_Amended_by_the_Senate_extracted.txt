@@ -1,0 +1,522 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SB502-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0116s
+2026SESSION
+26-2098
+07/08
+502-FN
+ANACT removing references to the department of business and economic affairs and the
+office of planning and development, and makes various changes to how certain
+committeesandcommissionsparticipateoroperate.
+SPONSORS: Sen.Pearl,Dist 17;Sen. Lang,Dist 2;Sen.McGough, Dist11; Rep.Moffett, Merr.
+4;Rep.Wood,Merr.13;Rep.Aures,Merr.13
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill removes references to the department of business and economic affairs and the office of
+planning and development, and makes various changes to how certain committees and commissions
+participateoroperate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregular
+type.
+SB502-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0116s 26-2098
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removing references to the department of business and economic affairs and the
+officeofplanninganddevelopmentrelativetothedepartmentofenergy.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 The State and Its Government; New Hampshire Geographic Information System Committee;
+2 Geographic Information System (GIS) Committee Established. Amend RSA 4-F:1, I(a)(6) to read as
+3 follows:
+4 (6) [Office of planning and development] Department of business and economic
+5 affairs.
+6 2 TheStateandIts Government;Department ofBusiness andEconomic Affairs; Establishment;
+7 Purpose. AmendRSA12-O:2,IandIItoreadasfollows:
+8 I. There shall be a department of business and economic affairs under the executive
+9 direction of a commissioner of business and economic affairs, consisting of but not limited to a
+10 division of economic development, a division of planning and community development, and a
+11 division of travel and tourism. The department's purpose shall be to ensure the efficient coordinated
+12 function of the department, economic development policies of the state of New Hampshire and the
+13 collaborativeparticipationofallrelatedstatedepartments,agencies,andauthorities.
+14 II. The purpose of this chapter is to improve the administration of state government by
+15 providingunifieddirectionofpolicies, programs,and personnelinthefield ofeconomic development,
+16 planning and community development, and travel and tourism development making possible
+17 increased efficiency and economies from integrated administration and operation of these related
+18 functionsofthestategovernment.
+19 3 The State and Its Government; Department of Energy; General Provisions. Amend RSA 12-
+20 P:3,IItoreadasfollows:
+21 II. The department of energy is authorized to work with [the department of business and
+22 economic affairs,] the public utilities commission[,] and the department of administrative services to
+23 coordinate the implementation of the establishment of the department, and to transfer
+24 appropriations and create the proper expenditure lines, if needed, for the establishment of their
+25 respective operations, including but not limited to the relocation of personnel, work stations, books,
+26 papers, personnel record files, and equipment, with the approval of the governor and council and of
+27 thedirectorofpersonnel.
+28 4 Towns, Cities, Village Districts, and Unincorporated Places; Regional Planning Commissions;
+29 Purposes. AmendRSA36:45toreadasfollows:
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 36:45 Purposes.Thepurposeofthissubdivisionshallbetoenablemunicipalitiesandcountiesto
+2 join in the formation of regional planning commissions whose duty it shall be to prepare a
+3 coordinated plan for the development of a region, taking into account present and future needs with
+4 a view toward encouraging the most appropriate use of land, such as for agriculture, forestry,
+5 industry, commerce, and housing; the facilitation of transportation and communication; the proper
+6 and economic location of public utilities and services; the development of adequate recreational
+7 areas; the promotion of good civic design; and the wiseand efficient expenditureof public funds. The
+8 aforesaid plan shall be made in order to promote the health, safety, morals and general welfare of
+9 the region and its inhabitants. To promote these purposes the [office of planning and development]
+10 division of planning and community development shall delineate planning regions for the state
+11 so that each municipality of the state will fall within a delineated region and shall have the
+12 opportunity of forming or joining the regional planning commission for that planning region. In
+13 determining these regions the [office] division shall consider such factors as community of interest
+14 and homogeneity, existing metropolitan and regional planning agencies, patterns of communication
+15 and transportation, geographic features and natural boundaries, extent of urban development,
+16 relevancy of the region for provision of governmental services and functions and its use for
+17 administering state and federal programs, the existence of physical, social and economic problems of
+18 a regional character, and other related characteristics. To accommodate changing conditions, the
+19 [office] division may adjust the boundaries of the planning regions, after consultation with the
+20 respectiveregionalplanningcommissions.
+21 5 Towns, Cities, Village Districts, and Unincorporated Places; Regional Planning Commissions;
+22 FormationofRegionalPlanningCommissions. AmendRSA36:46,I-IItoreadasfollows:
+23 I. If no regional planning commission exists in any specific planning region as delineated by
+24 the [office of planning and development] division of planning and community development,
+25 then2ormoremunicipalitiesinsaidplanningregionandhavingplanningboardsmay,byordinance
+26 or resolution adopted by the respective legislative bodies of said municipalities, form a regional
+27 planningcommission.
+28 II. If a regional planning commission already exists in any specific planning region as
+29 delineated by the [office of planning and development] division of planning and community
+30 development, then any municipality in said planning region and having a planning board may, by
+31 ordinance or resolution adopted by the respective legislative body of said municipality, become a
+32 member of the regional planning commission. A regional planning commission may also include
+33 municipalitieslocatedinanadjacentstate.
+34 6 Towns, Cities, Village Districts, and Unincorporated Places; Regional Planning Commissions;
+35 GeneralPowersandDuties. AmendRSA36:47,IIItoreadasfollows:
+36 III. In preparing a comprehensive plan for the development of the region within its
+37 jurisdiction, each regional planning commission may use the framework for the state's
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 comprehensive development plan in RSA 9-A:1, III as the basis for its plan. Such plan shall be
+2 updatedevery5yearsorsoonerifdesiredbytheregionalplanningcommission.Priortoitsadoption,
+3 the plan shall be distributed to every library, planning board, and board of selectmen/aldermen/city
+4 councilineachofthecommunities withintheregion,andtothe[officeofplanningand development]
+5 division of planning and community development. The regional planning commission shall
+6 address in writing all comments received prior to the publication of a final draft. A public hearing
+7 shall be held by the regional planning commission with 30 days' notice published in all newspapers
+8 of general circulation in the region, and shall state where the document can be viewed, the time and
+9 placeof the public hearing, and shall allow for written comments. For each regional plan, the [office
+10 of planning and development] division of planning and community development shall offer
+11 comments as to its consistency with the state plan. The first regional development plans affected by
+12 this statute shall be adopted within 5 years of the effective date of this paragraph and renewed at
+13 leastevery5yearsthereafter.
+14 7 Public Safety and Welfare; Community Development Block Grant Program; The New
+15 Hampshire Community Development Advisory Committee. Amend RSA 162-L:15, II to read as
+16 follows:
+17 II. Thecommitteeshallconsistof11votingmembersasfollows:
+18 (a) The chairperson of the board of directors of the community development finance
+19 authority,ordesignee,whoshallserveaschairpersonofthecommittee.
+20 [(b) Thedirectorofthedivisionofplanningandcommunitydevelopment,ordesignee.]
+21 [(c)] (b) The executive director of the New Hampshire housing finance authority, or
+22 designee.
+23 [(d)] (c) The director of the division of economic development, department of business
+24 andeconomicaffairs,ordesignee.
+25 [(e)] (d) The executive director of a regional development organization, appointed by the
+26 governor.
+27 [(f)] (e) [Six] Seven public members, at least [3] 4 of whom shall be municipal officials,
+28 whoshallbeappointedbyandserveatthepleasureofthegovernor.
+29 8 Housing and Redevelopment; Housing Finance Authority; General Powers. Amend RSA 204-
+30 C:8,Vtoreadasfollows:
+31 V. Collect and correlate information regarding housing projects and housing laws either
+32 within or without the state, and upon request furnish local housing authorities, cities or towns,
+33 information and advice in connection with any housing project; conduct studies of housing needs in
+34 the state and use information gained thereby in planning how best to carry out the purposes of this
+35 chapter;workwithotherstateandfederalagenciesinsuchstudiesandplanning;developsuchplans
+36 with the United States Department of Housing and Urban Development, the [office of planning and
+37 development] department of business and economic affairs and other state agencies; and when
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 in the opinion of the authority it is feasible to do so, select projects to fund consistent with the
+2 requirementsoftheplan;
+3 9 Public Recreation; Expansion of State Park System; Development Plan. Amend RSA 216-A:3-
+4 c,Vtoreadasfollows:
+5 V. In developing the plan, the department shall solicit local input. The director shall also
+6 consult with the division of historical resources of the department of natural and cultural resources.
+7 The [office of planning and development] division of planning and community development
+8 shall provide the director of parks and recreation with such information on the recreational needs of
+9 the state and other technical assistance as is necessary for the division to properly perform its
+10 responsibilitiesunderthissection.
+11 10 Water Management and Protection; General Provisions; Authority of Commissioner. Amend
+12 RSA481:3,X-atoreadasfollows:
+13 X-a. To provide technical assistance to the [division of economic development of the
+14 department of business and economic affairs when the division] department of business and
+15 economicaffairswhenthedepartmentrequestssuchassistanceinthepromotionordevelopment
+16 ofahydro-energyproject;
+17 11 Water Management and Protection; New Hampshire Rivers Management and Protection
+18 Program;RiverCorridorManagementPlans. AmendRSA483:10,Itoreadasfollows:
+19 I. The rivers coordinator shall provide technical assistance to local river management
+20 advisory committees, regional planning commissions, and municipalities, and shall encourage the
+21 developmentandimplementationoflocalrivercorridormanagementplanspursuanttoRSA483:8-a,
+22 III(c). In developing these plans, the department shall coordinate with the department of natural
+23 and cultural resources, the department of fish and game, the [office of planning and development]
+24 division of planning and community development, the department of agriculture, markets, and
+25 food, the department of transportation, the department of safety, and the division of historical
+26 resources.
+27 12 WaterManagementandProtection;ShorelandWaterQualityProtectionAct;Enforcementby
+28 Commissioner;Duties. AmendRSA483-B:5,Itoreadasfollows:
+29 I. The commissioner, with the advice and assistance of the [office of planning and
+30 development] division of planning and community development, department of natural and
+31 cultural resources and department of agriculture, markets, and food, shall enforce the provisions of
+32 thischapter.
+33 13 Water Management and Protection; Shoreland Water Quality Protection Act; Shoreland
+34 Exemptions. AmendRSA483-B:12,IIItoreadasfollows:
+35 III. With the advice of the [office of planning and development] division of planning and
+36 community development, the commissioner shall approve or deny the request for an exemption
+37 and shall issue written findings in support of his decision. A request for an exemption shall be
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 approved only if the municipality demonstrates, using the evidence required under paragraph II,
+2 thatspecialconditionsofurbanizationexistalongtheportionofshorelandtobeexempted.
+3 14 New Paragraph; New Hampshire Retirement System; Independent Investment Committee.
+4 AmendRSA100-A:14-bbyinsertingafterparagraphIIIthefollowingnewparagraph:
+5 IV. Notwithstanding RSA 91-A or any other provision of law to the contrary, independent
+6 investment committee members shall be permitted to participate in meetings by telephone, video
+7 conference,orotherelectronicmeans,providedthatanyindependentinvestmentcommitteemember
+8 so participating shall be able to be heard by and to hear every other member of the committee
+9 participating in the meeting and, unless the committee is meeting in a nonpublic session as
+10 permitted by RSA 91-A:3, shall be able to be heard by all members of the public attending the
+11 meeting. Voting members of the independent investment committee participating electronically
+12 shall be treated as present at the meeting for all purposes, including the establishment of a quorum.
+13 Any meeting at which one or more committee members are participating electronically shall be
+14 recorded verbatim by magnetic tape or otherwise, and such recording shall be made available for
+15 public inspection to the same extent as minutes of the meeting, provided that the accidental
+16 destruction of a recording or the accidental failure to record any meeting shall not invalidate any
+17 actiontakenatthatmeeting.
+18 15 New Paragraph; New Hampshire Health Care Workplace Safety Commission; Duties.
+19 AmendRSA151-J:2byinsertingafterparagraphIIthefollowingnewparagraph:
+20 III. Notwithstanding RSA 91-A or any other law to the contrary, commission members shall
+21 be permitted to participate in meetings by video or telephone, provided that any member so
+22 participating shall be able to be heard by and to hear every other member of the commission
+23 participatinginthemeeting. Votingmembersparticipatingbyvideoortelephoneshallbetreatedas
+24 presentatthemeetingforallpurposes,includingtheestablishmentofaquorum.
+25 16 New Paragraph; Department of Labor; Labor Commissioner; Penalty Appeal Board. Amend
+26 RSA273:11-bbyinsertingafterparagraphVthefollowingnewparagraph:
+27 VI. The penalty appeal board shall be an administratively attached agency under RSA 21-
+28 G:10, to the department of labor, but shall operate independently from the department. The
+29 commissioner shall hire and appoint an administrator for the board from department of labor staff,
+30 who shall serve at the pleasure of the commissioner. The administrator shall perform all the
+31 administrative duties of the board, including but not limited to, scheduling the docket, record
+32 keeping, providing liaison between the public and board members, conducting board meetings, and
+33 assigningcommitteestoaddressregulatory,legislativeandpolicyissues.
+34 17 Safety and Health of Employees; Generally; Elevator Law. Amend RSA 277:1-a to read as
+35 follows:
+36 277:1-a Elevator Law. The provisions of RSA 157-A and RSA 157-B also apply to all places
+37 coveredbyRSA277:1.
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page6-
+1 18 Repeals. Thefollowingarerepealed:
+2 I. RSA187-A:31,relativetotheinnovationresearchcentergrantprogram.
+3 II. RSA187-A:33-b,relativetofeescollectedbytheinnovationresearchcenter.
+4 19 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2098
+02/04/2026
+SB502-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0116s)
+ANACT removing references to the department of business and economic affairs and the
+office of planning and development, and makes various changes to how certain
+committeesandcommissionsparticipateoroperate.
+FISCALIMPACT:
+This bill removes references to the Department of Business and Economic Affairs and the Office
+of Planning and Development, relative to the Department of Energy, to which will have no fiscal
+impact. This bill also create a Penalty Appeal Board administratively attached to the
+Department of Labor, which the Department of Labor states will have no fiscal impact is this is
+aligning the Department's current process with law. Additionally, this bill repeals the state-
+funded grant program and fees for the NH Innovation Research Center (NHIRC) established at
+the University System of New Hampshire. This will also have no fiscal impact as funding for
+this program was discontinued in 2021, and the NHIRC has been closed to research applications
+sincethattime.
+AGENCIESCONTACTED:
+DepartmentofLaborandUniversitySystemofNewHampshire
+[DELETED: B5N-ASADBYTES606SEBNATrgrstotedtofbsadecasadteofpgadd,admsvscstohwcsadcspeoro:S.P,Dt1;S.L,Dt2;S.M,Dt1;R.M,M;R.W,M.1;R.A,M.1:EeDsadADAsblrsrstotedtofbsadecasadteoeogadd,admsvscstohwcncsadceoro-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinr]
+[DELETED: B5N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATrgrstotedtofbsadecasadteofpgaddtretotedtofeeitEdbyteSeadHeofRsinGlCtc1TeSeadIsG;NwHeGcInSmCGcInSm()CeE.AdRA4,I)tordaf()[eofpgadd]Dtofbsadea2TeSeadIsG;DtofBsadEcA;EP.AdRA1,IadIItordasfI.Teslbeadtofbsadecasurteednofacrofbsadeca,cgofbtntldto0dnofecd,adnofpgadcyd,ad1dnoftladt.Tedspeslbetoeeteetc2fnofted,ecdtpsofteseofNwHeadt3cepnofalrdsed,a,ada4I.Tepeoftscristoieteanofsegtb5pguddnofp,p,adplintefdofecd6pgadcyd,adtladtmdtmgp7ideyadesfmidanadonofter8fsofteseg93TeSeadIsG;DtofE;GlP.AdRA10P,IItordasf1I.Tedtofeyisadtowkwh[edtofbsa2eca]tepcusc]adtedtofaesst3ceteinofteetofted,adtot4asadcetepreel,ifn,frteetoft5reo,igbtntldtoternofp,wks,b6p,plrdf,ade,whtealoftegradclado7tedrofp84T,C,VeD,adUdP;RlPgC9P.AdRA35tordasf]
+[DELETED: B5N-ASADBYTESPe235P.Tepeoftssnslbetoeemsadcstjnintefnofrlpgcswedyitslbetopecdpnfrtedtofar,tgioatptadfenswavwtdegtemtaeueofl,shasfra,fi,c,adh;tefnoftnadc;tepadeclnofpcusads;tedtofaera;tepnofgdccd;adteweadeteeofpcf.Tadpnslbemeinortopeteh,s,msadglweoternadisi.Topetepste[eofpgadd0dnofpgadcydtsldepgrsfrtes1sottehmyoftesewlflwnaddrnadslhet2oyoffgorjgterlpgcnfrttpgr.I3dgterste[]dnslcrshfsascyofi4adh,egmnadrlpga,psofc5adt,gcfsadnlb,etofund6ryofternfrpnofglssadfsadisuef7agseadflp,teeeofp,sladecpso8arlc,adorrdc.Toaecgc,t9[]dnmyattebsoftepgr,arcnwht0rerlpgc15T,C,VeD,adUdP;RlPgC2FnofRlPgC.AdRA3,IItordasf3I.Ifnorlpgcnesinayscpgrnasddb4te[eofpgadd]dnofpgadcyd5tn2ormemsinsdpgrnadhgpgbsm,byo6orrnadbyterelebsofsdm,fmar7pgc8I.Ifarlpgcnayesinayscpgrna9ddbyte[eofpgadd]dnofpgadc0d,tnaymyinsdpgrnadhgapgbdm,b1oeorrnadbyterelebyofsdm,be2mrofterlpgc.Arlpgcnmyaoi3msldinanats46T,C,VeD,adUdP;RlPgC5GlPsadD.AdRA3,IItordasf6I.Inpgacepnfrtedtofternwni7j,ehrlpgcnmyuetefkfrtes]
+[DELETED: B5N-ASADBYTESPe3cedtpninRA9,IIastebsfrisp.Shpnslbudey5ysorsrifddbyterlpgc.Prtoisatepnslbeddtoeyl,pgb,adbdofsclinehoftecswnter,adtote[eofpgadddnofpgadcyd.Terlpgcnsasinwgalcsrdprtotepnofafld.Apchslbehdbyterlpgcnwh30d'nepdinalnofglcninter,adslsewetedtcnbev,teteapeoftepch,adslawfrwnc.Frehrlp,te[0ofpgadd]dnofpgadcydtslo1csastoiscywhtesep.Teftrldtpsadb2tsseslbeadwn5ysofteeedeoftsphadrda3ltey5yst47PcSyadW;CyDtBkGtP;TeN5HeCyDtAyC.AdRA1,IItorda6f7I.Teceslctof11vgmsasf8()Tecnoftebdofdsoftecydtf9a,ord,woslseascnoftec0[)Tedroftednofpgadcyd,ord1[]()TeeedrofteNwHehgfea,o2d3[]()Tedroftednofecd,dtofb4adeca,ord5[]()Teeedrofarldto,adbyt6g7[]()[]Snpcm,atlt[]4ofwmslbemlo8woslbeadbyadseattepeofteg98HgadR;HgFeA;GlP.AdRA20C,Vtordasf1V.Ctadceinrghgpsadhglse2wnorwttes,adunrtfhllhga,csort3inadaeincnwhayhgp;ctssofhgnsi4teseadueingdtyinpghwbttocyottepsoft5c;wkwhorseadflasinshssadp;dpshp6whteUdSsDtofHgadUnD,te[eofpga7d]dtofbsadecasadorsea;adw]
+[DELETED: B5N-ASADBYTESPe4inteonofteayitisfetodos,stpstofdctwhtrsoftep9PcR;EnofSePkS;DtP.AdRA2c,VtordasfV.Indgtep,tedtslstlli.TedrslactwhtednofhlrsoftedtofnladclrTe[eofpgadd]dnofpgadcydslpetedrofpsadrnwhshinonterlnsoteseadortlaeasisnyfrtedntopypmi0rsurtss110WrMtadP;GlP;AyofC.A2RA4,Xatordasf3X.Topetlaetote[nofecdtoft4dtofbsadecaswnted]dtofbsa5ecaswntedtrsshaeintepnord6ofahyp711WrMtadP;NwHeRsMtadP8P;RrCrMtP.AdRA4,Itordasf9I.Terscrslpetlaetollrrm0ayc,rlpgc,adm,adsleet1dtadinofllrrcrmtpspttoRA42I.Indgtep,tedtslcewhtedtofn3adclr,tedtoffhadg,te[eofpgadd4dnofpgadcyd,tedtofa,m,a5f,tedtoft,tedtofs,adtednofh6r712WrMtadP;SdWrQyPnA;Etb8C;D.AdRA4,Itordasf9I.Tec,whteaeadaeofte[eofpga0d]dnofpgadcyd,dtofnla1clrsaddtofa,m,adf,sleetepso2tsc313WrMtadP;SdWrQyPnA;S4E.AdRA4,IItordasf5I.Whteaeofte[eofpgadd]dnofpga6cyd,tecrslaeordytertfrane7adsliewnfsinstofhsd.Artfranenslb]
+[DELETED: B5N-ASADBYTESPe5adoyiftemyd,ugteeerdurphIttslcsofunetagtepnofsdtobee14NwP;NwHeRtS;ItItCAdRA1bbyigarphIItefgnwpI.NgRA9Aorayorpnoflwtotec,iitcemsslbepdtopeinmsbyt,vc,ororecm,pdttayititcemsopgslbeaetobehdbyadtohreyormroftecpgintemga,usteceismginancsna0pdbyRA9,slbeaetobehdbyalmsoftepcagt1m.Vgmsofteititcepge2slbetdasptattemgfralp,igteetofaq3Aymgatwhoeormecemsaepgeyslb4rdvmbymcteoro,adshrgslbemeaef5pcintoteseetasmsoftem,pdtttea6dnofargortealfetordaymgslntiea7antnatttm815NwP;NwHeHhCeWeSyC;D9AdRA12byigarphIItefgnwp0I.NgRA9Aorayorlwtotec,cnmss1bepdtopeinmsbyvoort,pdttaymrs2pgslbeaetobehdbyadtohreyormroftec3pgintem.Vgmspgbyvoorteslbetda4ptattemgfralp,igteetofaq516NwP;DtofL;LrC;PyAlB.A6RA2bbyigarphVtefgnwp7V.TepyalbdslbeanayadayurRA28G,totedtofl,btsloeiyfmted.T9crslheadatanarfrtebdfmdtoflrs0woslseattepeoftec.Tearslpmalt1aedsofteb,igbtntldt,sgted,r2k,pglnbntepcadbdm,cgbdm,a3agcstoasr,leadpyi417SyadHhofE;G;ErL.AdRA2atorda5f62aErL.TepsofRA1AadRA1Baoaytoalp7cdbyRA2]
+[DELETED: B5N-ASADBYTESPe618R.TefgaerI.RA1,retoteinrhcrgtpI.RA1,retofscdbyteinrhc19EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTESE(T#2NATrgrstotedtofbsadecasadteofpgadd,admsvscstohwcsadcspeoroLIsblrsrstoteDtofBsadEcAsadteOfPgadD,retoteDtofE,towhwlhenof.TsblaoceaPyAlBdayadtottofL,whteDtofLrsswlhenoflitistsigteDsctpswhl.A,tsblrstesdgtpmadfsfrteNHInRhCr()edaeUySmofNwH.Tswlaohenoflitasfgfspmwsddin2,adteNChsbncdtorhaetttSCtofLradUySmofNwH]
+
+
+================================================================================
+
+Raw Text:
+SB502-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0116s
+2026SESSION
+26-2098
+07/08
+502-FN
+SENATEBILL
+ANACT removing references to the department of business and economic affairs and the
+office of planning and development, and makes various changes to how certain
+committeesandcommissionsparticipateoroperate.
+SPONSORS: Sen.Pearl,Dist 17;Sen. Lang,Dist 2;Sen.McGough, Dist11; Rep.Moffett, Merr.
+4;Rep.Wood,Merr.13;Rep.Aures,Merr.13
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill removes references to the department of business and economic affairs and the office of
+planning and development, and makes various changes to how certain committees and commissions
+participateoroperate.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregular
+type.
+
+SB502-FN-ASAMENDEDBYTHESENATE
+01/29/2026 0116s 26-2098
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removing references to the department of business and economic affairs and the
+officeofplanninganddevelopmentrelativetothedepartmentofenergy.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 The State and Its Government; New Hampshire Geographic Information System Committee;
+2 Geographic Information System (GIS) Committee Established. Amend RSA 4-F:1, I(a)(6) to read as
+3 follows:
+4 (6) [Office of planning and development] Department of business and economic
+5 affairs.
+6 2 TheStateandIts Government;Department ofBusiness andEconomic Affairs; Establishment;
+7 Purpose. AmendRSA12-O:2,IandIItoreadasfollows:
+8 I. There shall be a department of business and economic affairs under the executive
+9 direction of a commissioner of business and economic affairs, consisting of but not limited to a
+10 division of economic development, a division of planning and community development, and a
+11 division of travel and tourism. The department's purpose shall be to ensure the efficient coordinated
+12 function of the department, economic development policies of the state of New Hampshire and the
+13 collaborativeparticipationofallrelatedstatedepartments,agencies,andauthorities.
+14 II. The purpose of this chapter is to improve the administration of state government by
+15 providingunifieddirectionofpolicies, programs,and personnelinthefield ofeconomic development,
+16 planning and community development, and travel and tourism development making possible
+17 increased efficiency and economies from integrated administration and operation of these related
+18 functionsofthestategovernment.
+19 3 The State and Its Government; Department of Energy; General Provisions. Amend RSA 12-
+20 P:3,IItoreadasfollows:
+21 II. The department of energy is authorized to work with [the department of business and
+22 economic affairs,] the public utilities commission[,] and the department of administrative services to
+23 coordinate the implementation of the establishment of the department, and to transfer
+24 appropriations and create the proper expenditure lines, if needed, for the establishment of their
+25 respective operations, including but not limited to the relocation of personnel, work stations, books,
+26 papers, personnel record files, and equipment, with the approval of the governor and council and of
+27 thedirectorofpersonnel.
+28 4 Towns, Cities, Village Districts, and Unincorporated Places; Regional Planning Commissions;
+29 Purposes. AmendRSA36:45toreadasfollows:
+
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 36:45 Purposes.Thepurposeofthissubdivisionshallbetoenablemunicipalitiesandcountiesto
+2 join in the formation of regional planning commissions whose duty it shall be to prepare a
+3 coordinated plan for the development of a region, taking into account present and future needs with
+4 a view toward encouraging the most appropriate use of land, such as for agriculture, forestry,
+5 industry, commerce, and housing; the facilitation of transportation and communication; the proper
+6 and economic location of public utilities and services; the development of adequate recreational
+7 areas; the promotion of good civic design; and the wiseand efficient expenditureof public funds. The
+8 aforesaid plan shall be made in order to promote the health, safety, morals and general welfare of
+9 the region and its inhabitants. To promote these purposes the [office of planning and development]
+10 division of planning and community development shall delineate planning regions for the state
+11 so that each municipality of the state will fall within a delineated region and shall have the
+12 opportunity of forming or joining the regional planning commission for that planning region. In
+13 determining these regions the [office] division shall consider such factors as community of interest
+14 and homogeneity, existing metropolitan and regional planning agencies, patterns of communication
+15 and transportation, geographic features and natural boundaries, extent of urban development,
+16 relevancy of the region for provision of governmental services and functions and its use for
+17 administering state and federal programs, the existence of physical, social and economic problems of
+18 a regional character, and other related characteristics. To accommodate changing conditions, the
+19 [office] division may adjust the boundaries of the planning regions, after consultation with the
+20 respectiveregionalplanningcommissions.
+21 5 Towns, Cities, Village Districts, and Unincorporated Places; Regional Planning Commissions;
+22 FormationofRegionalPlanningCommissions. AmendRSA36:46,I-IItoreadasfollows:
+23 I. If no regional planning commission exists in any specific planning region as delineated by
+24 the [office of planning and development] division of planning and community development,
+25 then2ormoremunicipalitiesinsaidplanningregionandhavingplanningboardsmay,byordinance
+26 or resolution adopted by the respective legislative bodies of said municipalities, form a regional
+27 planningcommission.
+28 II. If a regional planning commission already exists in any specific planning region as
+29 delineated by the [office of planning and development] division of planning and community
+30 development, then any municipality in said planning region and having a planning board may, by
+31 ordinance or resolution adopted by the respective legislative body of said municipality, become a
+32 member of the regional planning commission. A regional planning commission may also include
+33 municipalitieslocatedinanadjacentstate.
+34 6 Towns, Cities, Village Districts, and Unincorporated Places; Regional Planning Commissions;
+35 GeneralPowersandDuties. AmendRSA36:47,IIItoreadasfollows:
+36 III. In preparing a comprehensive plan for the development of the region within its
+37 jurisdiction, each regional planning commission may use the framework for the state's
+
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 comprehensive development plan in RSA 9-A:1, III as the basis for its plan. Such plan shall be
+2 updatedevery5yearsorsoonerifdesiredbytheregionalplanningcommission.Priortoitsadoption,
+3 the plan shall be distributed to every library, planning board, and board of selectmen/aldermen/city
+4 councilineachofthecommunities withintheregion,andtothe[officeofplanningand development]
+5 division of planning and community development. The regional planning commission shall
+6 address in writing all comments received prior to the publication of a final draft. A public hearing
+7 shall be held by the regional planning commission with 30 days' notice published in all newspapers
+8 of general circulation in the region, and shall state where the document can be viewed, the time and
+9 placeof the public hearing, and shall allow for written comments. For each regional plan, the [office
+10 of planning and development] division of planning and community development shall offer
+11 comments as to its consistency with the state plan. The first regional development plans affected by
+12 this statute shall be adopted within 5 years of the effective date of this paragraph and renewed at
+13 leastevery5yearsthereafter.
+14 7 Public Safety and Welfare; Community Development Block Grant Program; The New
+15 Hampshire Community Development Advisory Committee. Amend RSA 162-L:15, II to read as
+16 follows:
+17 II. Thecommitteeshallconsistof11votingmembersasfollows:
+18 (a) The chairperson of the board of directors of the community development finance
+19 authority,ordesignee,whoshallserveaschairpersonofthecommittee.
+20 [(b) Thedirectorofthedivisionofplanningandcommunitydevelopment,ordesignee.]
+21 [(c)] (b) The executive director of the New Hampshire housing finance authority, or
+22 designee.
+23 [(d)] (c) The director of the division of economic development, department of business
+24 andeconomicaffairs,ordesignee.
+25 [(e)] (d) The executive director of a regional development organization, appointed by the
+26 governor.
+27 [(f)] (e) [Six] Seven public members, at least [3] 4 of whom shall be municipal officials,
+28 whoshallbeappointedbyandserveatthepleasureofthegovernor.
+29 8 Housing and Redevelopment; Housing Finance Authority; General Powers. Amend RSA 204-
+30 C:8,Vtoreadasfollows:
+31 V. Collect and correlate information regarding housing projects and housing laws either
+32 within or without the state, and upon request furnish local housing authorities, cities or towns,
+33 information and advice in connection with any housing project; conduct studies of housing needs in
+34 the state and use information gained thereby in planning how best to carry out the purposes of this
+35 chapter;workwithotherstateandfederalagenciesinsuchstudiesandplanning;developsuchplans
+36 with the United States Department of Housing and Urban Development, the [office of planning and
+37 development] department of business and economic affairs and other state agencies; and when
+
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 in the opinion of the authority it is feasible to do so, select projects to fund consistent with the
+2 requirementsoftheplan;
+3 9 Public Recreation; Expansion of State Park System; Development Plan. Amend RSA 216-A:3-
+4 c,Vtoreadasfollows:
+5 V. In developing the plan, the department shall solicit local input. The director shall also
+6 consult with the division of historical resources of the department of natural and cultural resources.
+7 The [office of planning and development] division of planning and community development
+8 shall provide the director of parks and recreation with such information on the recreational needs of
+9 the state and other technical assistance as is necessary for the division to properly perform its
+10 responsibilitiesunderthissection.
+11 10 Water Management and Protection; General Provisions; Authority of Commissioner. Amend
+12 RSA481:3,X-atoreadasfollows:
+13 X-a. To provide technical assistance to the [division of economic development of the
+14 department of business and economic affairs when the division] department of business and
+15 economicaffairswhenthedepartmentrequestssuchassistanceinthepromotionordevelopment
+16 ofahydro-energyproject;
+17 11 Water Management and Protection; New Hampshire Rivers Management and Protection
+18 Program;RiverCorridorManagementPlans. AmendRSA483:10,Itoreadasfollows:
+19 I. The rivers coordinator shall provide technical assistance to local river management
+20 advisory committees, regional planning commissions, and municipalities, and shall encourage the
+21 developmentandimplementationoflocalrivercorridormanagementplanspursuanttoRSA483:8-a,
+22 III(c). In developing these plans, the department shall coordinate with the department of natural
+23 and cultural resources, the department of fish and game, the [office of planning and development]
+24 division of planning and community development, the department of agriculture, markets, and
+25 food, the department of transportation, the department of safety, and the division of historical
+26 resources.
+27 12 WaterManagementandProtection;ShorelandWaterQualityProtectionAct;Enforcementby
+28 Commissioner;Duties. AmendRSA483-B:5,Itoreadasfollows:
+29 I. The commissioner, with the advice and assistance of the [office of planning and
+30 development] division of planning and community development, department of natural and
+31 cultural resources and department of agriculture, markets, and food, shall enforce the provisions of
+32 thischapter.
+33 13 Water Management and Protection; Shoreland Water Quality Protection Act; Shoreland
+34 Exemptions. AmendRSA483-B:12,IIItoreadasfollows:
+35 III. With the advice of the [office of planning and development] division of planning and
+36 community development, the commissioner shall approve or deny the request for an exemption
+37 and shall issue written findings in support of his decision. A request for an exemption shall be
+
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 approved only if the municipality demonstrates, using the evidence required under paragraph II,
+2 thatspecialconditionsofurbanizationexistalongtheportionofshorelandtobeexempted.
+3 14 New Paragraph; New Hampshire Retirement System; Independent Investment Committee.
+4 AmendRSA100-A:14-bbyinsertingafterparagraphIIIthefollowingnewparagraph:
+5 IV. Notwithstanding RSA 91-A or any other provision of law to the contrary, independent
+6 investment committee members shall be permitted to participate in meetings by telephone, video
+7 conference,orotherelectronicmeans,providedthatanyindependentinvestmentcommitteemember
+8 so participating shall be able to be heard by and to hear every other member of the committee
+9 participating in the meeting and, unless the committee is meeting in a nonpublic session as
+10 permitted by RSA 91-A:3, shall be able to be heard by all members of the public attending the
+11 meeting. Voting members of the independent investment committee participating electronically
+12 shall be treated as present at the meeting for all purposes, including the establishment of a quorum.
+13 Any meeting at which one or more committee members are participating electronically shall be
+14 recorded verbatim by magnetic tape or otherwise, and such recording shall be made available for
+15 public inspection to the same extent as minutes of the meeting, provided that the accidental
+16 destruction of a recording or the accidental failure to record any meeting shall not invalidate any
+17 actiontakenatthatmeeting.
+18 15 New Paragraph; New Hampshire Health Care Workplace Safety Commission; Duties.
+19 AmendRSA151-J:2byinsertingafterparagraphIIthefollowingnewparagraph:
+20 III. Notwithstanding RSA 91-A or any other law to the contrary, commission members shall
+21 be permitted to participate in meetings by video or telephone, provided that any member so
+22 participating shall be able to be heard by and to hear every other member of the commission
+23 participatinginthemeeting. Votingmembersparticipatingbyvideoortelephoneshallbetreatedas
+24 presentatthemeetingforallpurposes,includingtheestablishmentofaquorum.
+25 16 New Paragraph; Department of Labor; Labor Commissioner; Penalty Appeal Board. Amend
+26 RSA273:11-bbyinsertingafterparagraphVthefollowingnewparagraph:
+27 VI. The penalty appeal board shall be an administratively attached agency under RSA 21-
+28 G:10, to the department of labor, but shall operate independently from the department. The
+29 commissioner shall hire and appoint an administrator for the board from department of labor staff,
+30 who shall serve at the pleasure of the commissioner. The administrator shall perform all the
+31 administrative duties of the board, including but not limited to, scheduling the docket, record
+32 keeping, providing liaison between the public and board members, conducting board meetings, and
+33 assigningcommitteestoaddressregulatory,legislativeandpolicyissues.
+34 17 Safety and Health of Employees; Generally; Elevator Law. Amend RSA 277:1-a to read as
+35 follows:
+36 277:1-a Elevator Law. The provisions of RSA 157-A and RSA 157-B also apply to all places
+37 coveredbyRSA277:1.
+
+SB502-FN-ASAMENDEDBYTHESENATE
+-Page6-
+1 18 Repeals. Thefollowingarerepealed:
+2 I. RSA187-A:31,relativetotheinnovationresearchcentergrantprogram.
+3 II. RSA187-A:33-b,relativetofeescollectedbytheinnovationresearchcenter.
+4 19 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2098
+02/04/2026
+SB502-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0116s)
+ANACT removing references to the department of business and economic affairs and the
+office of planning and development, and makes various changes to how certain
+committeesandcommissionsparticipateoroperate.
+FISCALIMPACT:
+This bill removes references to the Department of Business and Economic Affairs and the Office
+of Planning and Development, relative to the Department of Energy, to which will have no fiscal
+impact. This bill also create a Penalty Appeal Board administratively attached to the
+Department of Labor, which the Department of Labor states will have no fiscal impact is this is
+aligning the Department's current process with law. Additionally, this bill repeals the state-
+funded grant program and fees for the NH Innovation Research Center (NHIRC) established at
+the University System of New Hampshire. This will also have no fiscal impact as funding for
+this program was discontinued in 2021, and the NHIRC has been closed to research applications
+sincethattime.
+AGENCIESCONTACTED:
+DepartmentofLaborandUniversitySystemofNewHampshire
+
+[DELETED: B5N-ASADBYTES606SEBNATrgrstotedtofbsadecasadteofpgadd,admsvscstohwcsadcspeoro:S.P,Dt1;S.L,Dt2;S.M,Dt1;R.M,M;R.W,M.1;R.A,M.1:EeDsadADAsblrsrstotedtofbsadecasadteoeogadd,admsvscstohwcncsadceoro-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinr]
+[DELETED: B5N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATrgrstotedtofbsadecasadteofpgaddtretotedtofeeitEdbyteSeadHeofRsinGlCtc1TeSeadIsG;NwHeGcInSmCGcInSm()CeE.AdRA4,I)tordaf()[eofpgadd]Dtofbsadea2TeSeadIsG;DtofBsadEcA;EP.AdRA1,IadIItordasfI.Teslbeadtofbsadecasurteednofacrofbsadeca,cgofbtntldto0dnofecd,adnofpgadcyd,ad1dnoftladt.Tedspeslbetoeeteetc2fnofted,ecdtpsofteseofNwHeadt3cepnofalrdsed,a,ada4I.Tepeoftscristoieteanofsegtb5pguddnofp,p,adplintefdofecd6pgadcyd,adtladtmdtmgp7ideyadesfmidanadonofter8fsofteseg93TeSeadIsG;DtofE;GlP.AdRA10P,IItordasf1I.Tedtofeyisadtowkwh[edtofbsa2eca]tepcusc]adtedtofaesst3ceteinofteetofted,adtot4asadcetepreel,ifn,frteetoft5reo,igbtntldtoternofp,wks,b6p,plrdf,ade,whtealoftegradclado7tedrofp84T,C,VeD,adUdP;RlPgC9P.AdRA35tordasf]
+[DELETED: B5N-ASADBYTESPe235P.Tepeoftssnslbetoeemsadcstjnintefnofrlpgcswedyitslbetopecdpnfrtedtofar,tgioatptadfenswavwtdegtemtaeueofl,shasfra,fi,c,adh;tefnoftnadc;tepadeclnofpcusads;tedtofaera;tepnofgdccd;adteweadeteeofpcf.Tadpnslbemeinortopeteh,s,msadglweoternadisi.Topetepste[eofpgadd0dnofpgadcydtsldepgrsfrtes1sottehmyoftesewlflwnaddrnadslhet2oyoffgorjgterlpgcnfrttpgr.I3dgterste[]dnslcrshfsascyofi4adh,egmnadrlpga,psofc5adt,gcfsadnlb,etofund6ryofternfrpnofglssadfsadisuef7agseadflp,teeeofp,sladecpso8arlc,adorrdc.Toaecgc,t9[]dnmyattebsoftepgr,arcnwht0rerlpgc15T,C,VeD,adUdP;RlPgC2FnofRlPgC.AdRA3,IItordasf3I.Ifnorlpgcnesinayscpgrnasddb4te[eofpgadd]dnofpgadcyd5tn2ormemsinsdpgrnadhgpgbsm,byo6orrnadbyterelebsofsdm,fmar7pgc8I.Ifarlpgcnayesinayscpgrna9ddbyte[eofpgadd]dnofpgadc0d,tnaymyinsdpgrnadhgapgbdm,b1oeorrnadbyterelebyofsdm,be2mrofterlpgc.Arlpgcnmyaoi3msldinanats46T,C,VeD,adUdP;RlPgC5GlPsadD.AdRA3,IItordasf6I.Inpgacepnfrtedtofternwni7j,ehrlpgcnmyuetefkfrtes]
+[DELETED: B5N-ASADBYTESPe3cedtpninRA9,IIastebsfrisp.Shpnslbudey5ysorsrifddbyterlpgc.Prtoisatepnslbeddtoeyl,pgb,adbdofsclinehoftecswnter,adtote[eofpgadddnofpgadcyd.Terlpgcnsasinwgalcsrdprtotepnofafld.Apchslbehdbyterlpgcnwh30d'nepdinalnofglcninter,adslsewetedtcnbev,teteapeoftepch,adslawfrwnc.Frehrlp,te[0ofpgadd]dnofpgadcydtslo1csastoiscywhtesep.Teftrldtpsadb2tsseslbeadwn5ysofteeedeoftsphadrda3ltey5yst47PcSyadW;CyDtBkGtP;TeN5HeCyDtAyC.AdRA1,IItorda6f7I.Teceslctof11vgmsasf8()Tecnoftebdofdsoftecydtf9a,ord,woslseascnoftec0[)Tedroftednofpgadcyd,ord1[]()TeeedrofteNwHehgfea,o2d3[]()Tedroftednofecd,dtofb4adeca,ord5[]()Teeedrofarldto,adbyt6g7[]()[]Snpcm,atlt[]4ofwmslbemlo8woslbeadbyadseattepeofteg98HgadR;HgFeA;GlP.AdRA20C,Vtordasf1V.Ctadceinrghgpsadhglse2wnorwttes,adunrtfhllhga,csort3inadaeincnwhayhgp;ctssofhgnsi4teseadueingdtyinpghwbttocyottepsoft5c;wkwhorseadflasinshssadp;dpshp6whteUdSsDtofHgadUnD,te[eofpga7d]dtofbsadecasadorsea;adw]
+[DELETED: B5N-ASADBYTESPe4inteonofteayitisfetodos,stpstofdctwhtrsoftep9PcR;EnofSePkS;DtP.AdRA2c,VtordasfV.Indgtep,tedtslstlli.TedrslactwhtednofhlrsoftedtofnladclrTe[eofpgadd]dnofpgadcydslpetedrofpsadrnwhshinonterlnsoteseadortlaeasisnyfrtedntopypmi0rsurtss110WrMtadP;GlP;AyofC.A2RA4,Xatordasf3X.Topetlaetote[nofecdtoft4dtofbsadecaswnted]dtofbsa5ecaswntedtrsshaeintepnord6ofahyp711WrMtadP;NwHeRsMtadP8P;RrCrMtP.AdRA4,Itordasf9I.Terscrslpetlaetollrrm0ayc,rlpgc,adm,adsleet1dtadinofllrrcrmtpspttoRA42I.Indgtep,tedtslcewhtedtofn3adclr,tedtoffhadg,te[eofpgadd4dnofpgadcyd,tedtofa,m,a5f,tedtoft,tedtofs,adtednofh6r712WrMtadP;SdWrQyPnA;Etb8C;D.AdRA4,Itordasf9I.Tec,whteaeadaeofte[eofpga0d]dnofpgadcyd,dtofnla1clrsaddtofa,m,adf,sleetepso2tsc313WrMtadP;SdWrQyPnA;S4E.AdRA4,IItordasf5I.Whteaeofte[eofpgadd]dnofpga6cyd,tecrslaeordytertfrane7adsliewnfsinstofhsd.Artfranenslb]
+[DELETED: B5N-ASADBYTESPe5adoyiftemyd,ugteeerdurphIttslcsofunetagtepnofsdtobee14NwP;NwHeRtS;ItItCAdRA1bbyigarphIItefgnwpI.NgRA9Aorayorpnoflwtotec,iitcemsslbepdtopeinmsbyt,vc,ororecm,pdttayititcemsopgslbeaetobehdbyadtohreyormroftecpgintemga,usteceismginancsna0pdbyRA9,slbeaetobehdbyalmsoftepcagt1m.Vgmsofteititcepge2slbetdasptattemgfralp,igteetofaq3Aymgatwhoeormecemsaepgeyslb4rdvmbymcteoro,adshrgslbemeaef5pcintoteseetasmsoftem,pdtttea6dnofargortealfetordaymgslntiea7antnatttm815NwP;NwHeHhCeWeSyC;D9AdRA12byigarphIItefgnwp0I.NgRA9Aorayorlwtotec,cnmss1bepdtopeinmsbyvoort,pdttaymrs2pgslbeaetobehdbyadtohreyormroftec3pgintem.Vgmspgbyvoorteslbetda4ptattemgfralp,igteetofaq516NwP;DtofL;LrC;PyAlB.A6RA2bbyigarphVtefgnwp7V.TepyalbdslbeanayadayurRA28G,totedtofl,btsloeiyfmted.T9crslheadatanarfrtebdfmdtoflrs0woslseattepeoftec.Tearslpmalt1aedsofteb,igbtntldt,sgted,r2k,pglnbntepcadbdm,cgbdm,a3agcstoasr,leadpyi417SyadHhofE;G;ErL.AdRA2atorda5f62aErL.TepsofRA1AadRA1Baoaytoalp7cdbyRA2]
+[DELETED: B5N-ASADBYTESPe618R.TefgaerI.RA1,retoteinrhcrgtpI.RA1,retofscdbyteinrhc19EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTESE(T#2NATrgrstotedtofbsadecasadteofpgadd,admsvscstohwcsadcspeoroLIsblrsrstoteDtofBsadEcAsadteOfPgadD,retoteDtofE,towhwlhenof.TsblaoceaPyAlBdayadtottofL,whteDtofLrsswlhenoflitistsigteDsctpswhl.A,tsblrstesdgtpmadfsfrteNHInRhCr()edaeUySmofNwH.Tswlaohenoflitasfgfspmwsddin2,adteNChsbncdtorhaetttSCtofLradUySmofNwH]

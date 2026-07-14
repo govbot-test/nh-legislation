@@ -1,0 +1,307 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB449-FN-ASINTRODUCED
+2026SESSION
+26-2027
+06/05
+449-FN
+ANACT relativetotheparticipationoflargecustomer-generatorsinnetmetering.
+SPONSORS: Sen. Lang, Dist 2; Sen. Rosenwald, Dist 13; Sen. Watters, Dist 4; Sen. Innis, Dist
+7;Sen.McGough,Dist11;Sen.Avard,Dist12;Sen.Pearl,Dist17;Sen.Rochefort,
+Dist 1; Sen. Gannon, Dist 23; Sen. Ricciardi, Dist 9; Sen. Abbas, Dist 22; Rep.
+Moffett,Merr.4
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires largecustomer-generators participatinginnet metering toconsume at least 33
+percentoftheirowngeneration.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB449-FN-ASINTRODUCED
+26-2027
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheparticipationoflargecustomer-generatorsinnetmetering.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Limited Electrical Energy Producers Act; Definition; Eligible Customer-Generator. Amend
+2 RSA362-A:1-a,II-btoreadasfollows:
+3 II-b. "Eligible customer-generator" or "customer-generator" means an electric utility
+4 customer who owns, operates, or purchases power from an electrical generating facility either
+5 powered by renewable energy or which employs a heat led combined heat and power system, with a
+6 total peak generating capacity of up to and including one megawatt, except as provided for a
+7 municipal host as defined in paragraph II-c[, that is located behind a retail meter on the customer's
+8 premises,] and an industrial host as defined under paragraph II-g, that is located behind a
+9 retail meter on the customer's premises, is interconnected and operates in parallel with the
+10 electric grid, and is used to offset the customer's own electricity requirements. Incremental
+11 generationaddedtoanexistinggenerationfacility,thatdoesnotitselfqualifyfornetmetering,shall
+12 qualify if such incremental generation meets the qualifications of this paragraph and is metered
+13 separatelyfromthe[nonqualifying]non-qualifyingfacility.
+14 2 New Paragraph; Limited Electrical Energy Producers Act Definitions. Amend RSA 362-A:1-a
+15 byinsertingafterparagraphII-fthefollowingnewparagraph:
+16 II-g. "Industrial host" means a customer-generator with a total peak generating capacity of
+17 greater than one megawatt and less than 5 megawatts, used to offset the electricity requirements of
+18 a group consisting exclusively of commercial, industrial, or institutional entities with one or more
+19 accounts,providedthatallaccountsarelocatedwithinthesameutilityfranchiseserviceterritory. If
+20 anindustrialhost’stotalannualnetexportedgenerationexceedsthetotalannualelectricityusageof
+21 the host and members of the group, the industrial host shall be entitled to compensation for that
+22 excess generation according to the process established by the department’s 900 rules for annual
+23 reconciliation. Anindustrialhostmaybeownedbyeitherapublicorprivateentity.
+24 3 New Paragraph; Net Metering. Amend RSA 362-A:9 by inserting after paragraph II the
+25 followingnewparagraph:
+26 II-a. Alternative tariffs for net metering shall be made available to eligible customer-
+27 generators by each electric distribution utility in conformance with Order No. 26,029 dated June 23,
+28 2017, and with net metering rules adopted by the commission. Any project that begins receiving
+29 compensation under Order No. 26,029 alternative tariffs will be eligible to continue receiving that
+30 tariff for either 20 years from the year it first begins receiving compensation or through the initial
+31 tariff term ending on December 31, 2040, whichever is longer. If the commission creates new net
+SB449-FN-ASINTRODUCED
+-Page2-
+1 metering tariffs through an adjudicated proceeding before December 31, 2040, eligible customer-
+2 generators receiving Order No. 26,029 alternative tariffs will have the option of transitioning to new
+3 tariffs created through that proceeding. If an eligible customer-generator elects to transfer to a new
+4 tariff, they may not return to Order No. 26,029 alternative tariffs. Upon the expiration of a
+5 customer-generator’s eligibility under Order No. 26,029 alternative tariffs, the eligible customer-
+6 generatorwillhavetheoptionoftransitioningtothetariffavailableatthattime.
+7 4 New Paragraph; Net Metering; Consumption. Amend RSA 362-A:9 by inserting after
+8 paragraphIVthefollowingnewparagraph:
+9 IV-a.(a) Facilities eligible for the net metering tariff under this section for customer-
+10 generatorslargerthanonemegawattandupto5megawattswithanin-servicedateafterJanuary1,
+11 2027, and not acting as a group net metering host, must consume at least 33 percent of the
+12 generationonanannualbasis.
+13 (b) Consumption requirements under this section shall not apply to low and moderate
+14 income customers as defined in administrative rules of the public utilities commission in PUC
+15 902.21.
+16 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2027
+10/13/25
+SB449-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheparticipationoflargecustomer-generatorsinnetmetering.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0 Increase Increase
+$100,000+ $100,000+
+RevenueFund(s) UtilityAssessments
+Indeterminable Indeterminable
+Expenditures* $0 $0 Increase Increase
+$100,000+ $100,000+
+FundingSource(s) UtilityAssessments
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable
+CountyExpenditures $0 $0
+Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable
+LocalExpenditures $0 $0
+Increase Increase
+METHODOLOGY:
+This bill establishes industrial hosts, a new class of group hosts, which serve commercial,
+industrial, or institutional entities as members; and expands eligibility for net metering.
+Facilities greater than 1 megawatt but less than 5 megawatts with an in-service date after
+January 1, 2027 that are not acting as a group host may net meter, provided the facility
+consumes at least 33% of the generation produced on an annual basis. This consumption
+requirementdoesnotapplytolow-andmoderate-incomecustomersasdefinedinPUC902.21.
+The Department of Energy states the creation of a new class of group hosts would create
+administrative costs for electric distribution utilities to track this group, with all costs being
+passed on through electric rates to all electric ratepayers. The expansion of group net metering
+and net metering also increases utility costs associated with net metering credits paid to
+customer-generators, with all costs again being passed on through electric rates to all electric
+ratepayers. As a result, the Department anticipates an indeterminable increase in State energy
+expenditures.
+The Department expects that the increase in group net metering registrations would require at
+least one additional full-time position in the Department’s Sustainable Energy Division. The
+position,UtilityAnalystIV,wouldcostapproximately$81,000inFY2028(assumedstartdateof
+December 1, 2027), and $131,000 in FY 2029. This bill does not authorize or fund this position
+anditisassumedthispositionwouldbepaidforthroughutilityassessments.
+Based on electricity consumption data from the Department of Administrative Services, the
+State is responsible for roughly 1% of total statewide electricity consumption and would
+therefore incur approximately 1% of any total cost increase resulting from this bill. The total
+increaseinelectricityexpenditures statewideis indeterminable; therefore, theresultingincrease
+toStateexpendituresisalsoindeterminable.
+County and local governments would experience an indeterminable increase in electricity
+expenditures. The Department does not have access to data for the total electricity consumption
+for either the counties or local units of government and therefore cannot make a reasonable
+estimateoftheimpact. Thereisnoanticipatedimpactoncountyorlocalrevenues.
+ItisassumedanyfiscalimpactwouldnotoccuruntilFY2028.
+AGENCIESCONTACTED:
+DepartmentofEnergy
+[As this bill is identical to SB 106 as amended, 2025 Session, we used the same
+informationtheagenciesprovidedatthattimetopreparetheabovefiscalnote]
+[DELETED: B4N-ASI6SEBNATretotepnoflecsinntm:S.L,Dt2;S.R,Dt1;S.W,Dt4;S.I,D;S.M,Dt1;S.A,Dt1;S.P,Dt1;S.Rt1;S.G,Dt2;S.R,Dt9;S.A,Dt2;R,M.:EyadNlRsblrslecspginntmgtoceatlt3toftrong-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotepnoflecsinntmeitEdbyteSeadHeofRsinGlCtc1LdElEyPsA;D;EeC.ARA3,IbtordasfI."ec"or""msanecucrwoo,o,orpsprfmanelggfyepdbyreeyorwhesahtldcdhtadprs,whtlpkggcyofuptoadigoem,etaspdfrmlhtasddinphI,ttisldbdarlmrontecp]adanilhtasddurphI,ttisldbdrlmrontecsp,isidadosinplwht0ecg,adisudtoottecsoneyr.I1gnadtoaneggnf,ttdsntifqyfrntm,s2qyifshilgnmsteqsoftsphadism3syfmte[]ngf42NwP;LdElEyPsAtD.AdRA35byigarphIftefgnwp6I."lh"msacrwhatlpkggcyo7grtnoemtadlstn5m,udtootteeyrso8agpcgeyofc,i,orileswhoeorm9a,pdttalasaeldwnteseuyfeset.I0anilhstlalntedgnestetlaleyueo1tehtadmsofteg,teilhtslbeedtocnfrt2esgnagtotepsedbyteds90rsfra3r.Anilhtmybeodbyerapcorpee43NwP;NtM.AdRA39byigarphIIt5fgnwp6I.Aetsfrntmgslbemeaetoeec7gsbyehecdnuyincewhOrN.29ddJe282,adwhntmgrsadbytec.Ayptttbsr9cnurOrN.29aetswlbeeetocergt0tffrer20ysfmteyritftbsrgcnorthtei1tftmegonDr3,2,wrisl.Iftecncsnwn]
+[DELETED: B4N-ASIPe2mgtsthanadpgbeDr3,2,eecgsrgOrN.29aetswlheteonoftgtontscdthttp.Ifaneecrestotrtoant,tymyntrntoOrN.29aet.UnteenofcseyurOrN.29aet,teeecgrwlheteonoftgtotetfaeatttt4NwP;NtM;C.AdRA39byigaphIVtefgnwpI)Fseefrtentmgtfurtssnfrc0gslrtnoemtadupto5mswhaniedearJy112,adntagasagpntmgh,mtceatlt33ptoft2gnonanalb3()Cnrsurtssnslntaytolwadm4iecsasddinaersoftepcuscninP5965EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATretotepnoflecsinntmLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0IeIeI+$eFyA0$0IeIeI+$gSyA0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$eIeIlR0$0$0$lE0$eIeIsblesilh,anwcsofgph,whsec,orilesasm;adeseyfrntmsgrtn1mtbtlstn5mswhaniedeay1,27ttaentagasagphtmyntm,pdtefsatlt3%oftegnpdonanalb.Tsctdsntaytol-admecsasddinPC9eDtofEysstecnofanwcsofgphswdcecsfrecdnustotktsg,whalcsb]
+[DELETED: donthecrstoalecr.Teenofgpntmdntmgaoisuycsadwhntmgcspdt,whalcsanbgpdonthecrstoale.Asar,teDtasanieieinSeeeDtesttteieingpntmgrswdreatoealfepninteDsSeEyD.T,UyAtI,wdctay$0inFY28(dstdeor1,2,ad$0inFY2.TsbldsntaeorfdtspditisadtspnwdbepdfrthuyadoneycndafmteDtofAeS,teisrefrry1%oftlseeycnadweiray1%ofaytlctiergfmtsb.Teteineyesseisi;t,tergioSeesisaoiyadllgswdeeanieieine.TeDtdsntheastodafrtetleycrertecsorllusofgtadtectmeareoftei.TeisnoaditoncyorllrtisadayflitwdntorulFY2SCtofEstsblisiltoSB16asa,25S,weudtesnteaspdattttetopeteaefln]
+
+
+================================================================================
+
+Raw Text:
+SB449-FN-ASINTRODUCED
+2026SESSION
+26-2027
+06/05
+449-FN
+SENATEBILL
+ANACT relativetotheparticipationoflargecustomer-generatorsinnetmetering.
+SPONSORS: Sen. Lang, Dist 2; Sen. Rosenwald, Dist 13; Sen. Watters, Dist 4; Sen. Innis, Dist
+7;Sen.McGough,Dist11;Sen.Avard,Dist12;Sen.Pearl,Dist17;Sen.Rochefort,
+Dist 1; Sen. Gannon, Dist 23; Sen. Ricciardi, Dist 9; Sen. Abbas, Dist 22; Rep.
+Moffett,Merr.4
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires largecustomer-generators participatinginnet metering toconsume at least 33
+percentoftheirowngeneration.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB449-FN-ASINTRODUCED
+26-2027
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheparticipationoflargecustomer-generatorsinnetmetering.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Limited Electrical Energy Producers Act; Definition; Eligible Customer-Generator. Amend
+2 RSA362-A:1-a,II-btoreadasfollows:
+3 II-b. "Eligible customer-generator" or "customer-generator" means an electric utility
+4 customer who owns, operates, or purchases power from an electrical generating facility either
+5 powered by renewable energy or which employs a heat led combined heat and power system, with a
+6 total peak generating capacity of up to and including one megawatt, except as provided for a
+7 municipal host as defined in paragraph II-c[, that is located behind a retail meter on the customer's
+8 premises,] and an industrial host as defined under paragraph II-g, that is located behind a
+9 retail meter on the customer's premises, is interconnected and operates in parallel with the
+10 electric grid, and is used to offset the customer's own electricity requirements. Incremental
+11 generationaddedtoanexistinggenerationfacility,thatdoesnotitselfqualifyfornetmetering,shall
+12 qualify if such incremental generation meets the qualifications of this paragraph and is metered
+13 separatelyfromthe[nonqualifying]non-qualifyingfacility.
+14 2 New Paragraph; Limited Electrical Energy Producers Act Definitions. Amend RSA 362-A:1-a
+15 byinsertingafterparagraphII-fthefollowingnewparagraph:
+16 II-g. "Industrial host" means a customer-generator with a total peak generating capacity of
+17 greater than one megawatt and less than 5 megawatts, used to offset the electricity requirements of
+18 a group consisting exclusively of commercial, industrial, or institutional entities with one or more
+19 accounts,providedthatallaccountsarelocatedwithinthesameutilityfranchiseserviceterritory. If
+20 anindustrialhost’stotalannualnetexportedgenerationexceedsthetotalannualelectricityusageof
+21 the host and members of the group, the industrial host shall be entitled to compensation for that
+22 excess generation according to the process established by the department’s 900 rules for annual
+23 reconciliation. Anindustrialhostmaybeownedbyeitherapublicorprivateentity.
+24 3 New Paragraph; Net Metering. Amend RSA 362-A:9 by inserting after paragraph II the
+25 followingnewparagraph:
+26 II-a. Alternative tariffs for net metering shall be made available to eligible customer-
+27 generators by each electric distribution utility in conformance with Order No. 26,029 dated June 23,
+28 2017, and with net metering rules adopted by the commission. Any project that begins receiving
+29 compensation under Order No. 26,029 alternative tariffs will be eligible to continue receiving that
+30 tariff for either 20 years from the year it first begins receiving compensation or through the initial
+31 tariff term ending on December 31, 2040, whichever is longer. If the commission creates new net
+
+SB449-FN-ASINTRODUCED
+-Page2-
+1 metering tariffs through an adjudicated proceeding before December 31, 2040, eligible customer-
+2 generators receiving Order No. 26,029 alternative tariffs will have the option of transitioning to new
+3 tariffs created through that proceeding. If an eligible customer-generator elects to transfer to a new
+4 tariff, they may not return to Order No. 26,029 alternative tariffs. Upon the expiration of a
+5 customer-generator’s eligibility under Order No. 26,029 alternative tariffs, the eligible customer-
+6 generatorwillhavetheoptionoftransitioningtothetariffavailableatthattime.
+7 4 New Paragraph; Net Metering; Consumption. Amend RSA 362-A:9 by inserting after
+8 paragraphIVthefollowingnewparagraph:
+9 IV-a.(a) Facilities eligible for the net metering tariff under this section for customer-
+10 generatorslargerthanonemegawattandupto5megawattswithanin-servicedateafterJanuary1,
+11 2027, and not acting as a group net metering host, must consume at least 33 percent of the
+12 generationonanannualbasis.
+13 (b) Consumption requirements under this section shall not apply to low and moderate
+14 income customers as defined in administrative rules of the public utilities commission in PUC
+15 902.21.
+16 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2027
+10/13/25
+SB449-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheparticipationoflargecustomer-generatorsinnetmetering.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0 Increase Increase
+$100,000+ $100,000+
+RevenueFund(s) UtilityAssessments
+Indeterminable Indeterminable
+Expenditures* $0 $0 Increase Increase
+$100,000+ $100,000+
+FundingSource(s) UtilityAssessments
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable
+CountyExpenditures $0 $0
+Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable
+LocalExpenditures $0 $0
+Increase Increase
+METHODOLOGY:
+This bill establishes industrial hosts, a new class of group hosts, which serve commercial,
+industrial, or institutional entities as members; and expands eligibility for net metering.
+Facilities greater than 1 megawatt but less than 5 megawatts with an in-service date after
+January 1, 2027 that are not acting as a group host may net meter, provided the facility
+consumes at least 33% of the generation produced on an annual basis. This consumption
+requirementdoesnotapplytolow-andmoderate-incomecustomersasdefinedinPUC902.21.
+The Department of Energy states the creation of a new class of group hosts would create
+administrative costs for electric distribution utilities to track this group, with all costs being
+
+passed on through electric rates to all electric ratepayers. The expansion of group net metering
+and net metering also increases utility costs associated with net metering credits paid to
+customer-generators, with all costs again being passed on through electric rates to all electric
+ratepayers. As a result, the Department anticipates an indeterminable increase in State energy
+expenditures.
+The Department expects that the increase in group net metering registrations would require at
+least one additional full-time position in the Department’s Sustainable Energy Division. The
+position,UtilityAnalystIV,wouldcostapproximately$81,000inFY2028(assumedstartdateof
+December 1, 2027), and $131,000 in FY 2029. This bill does not authorize or fund this position
+anditisassumedthispositionwouldbepaidforthroughutilityassessments.
+Based on electricity consumption data from the Department of Administrative Services, the
+State is responsible for roughly 1% of total statewide electricity consumption and would
+therefore incur approximately 1% of any total cost increase resulting from this bill. The total
+increaseinelectricityexpenditures statewideis indeterminable; therefore, theresultingincrease
+toStateexpendituresisalsoindeterminable.
+County and local governments would experience an indeterminable increase in electricity
+expenditures. The Department does not have access to data for the total electricity consumption
+for either the counties or local units of government and therefore cannot make a reasonable
+estimateoftheimpact. Thereisnoanticipatedimpactoncountyorlocalrevenues.
+ItisassumedanyfiscalimpactwouldnotoccuruntilFY2028.
+AGENCIESCONTACTED:
+DepartmentofEnergy
+[As this bill is identical to SB 106 as amended, 2025 Session, we used the same
+informationtheagenciesprovidedatthattimetopreparetheabovefiscalnote]
+
+[DELETED: B4N-ASI6SEBNATretotepnoflecsinntm:S.L,Dt2;S.R,Dt1;S.W,Dt4;S.I,D;S.M,Dt1;S.A,Dt1;S.P,Dt1;S.Rt1;S.G,Dt2;S.R,Dt9;S.A,Dt2;R,M.:EyadNlRsblrslecspginntmgtoceatlt3toftrong-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotepnoflecsinntmeitEdbyteSeadHeofRsinGlCtc1LdElEyPsA;D;EeC.ARA3,IbtordasfI."ec"or""msanecucrwoo,o,orpsprfmanelggfyepdbyreeyorwhesahtldcdhtadprs,whtlpkggcyofuptoadigoem,etaspdfrmlhtasddinphI,ttisldbdarlmrontecp]adanilhtasddurphI,ttisldbdrlmrontecsp,isidadosinplwht0ecg,adisudtoottecsoneyr.I1gnadtoaneggnf,ttdsntifqyfrntm,s2qyifshilgnmsteqsoftsphadism3syfmte[]ngf42NwP;LdElEyPsAtD.AdRA35byigarphIftefgnwp6I."lh"msacrwhatlpkggcyo7grtnoemtadlstn5m,udtootteeyrso8agpcgeyofc,i,orileswhoeorm9a,pdttalasaeldwnteseuyfeset.I0anilhstlalntedgnestetlaleyueo1tehtadmsofteg,teilhtslbeedtocnfrt2esgnagtotepsedbyteds90rsfra3r.Anilhtmybeodbyerapcorpee43NwP;NtM.AdRA39byigarphIIt5fgnwp6I.Aetsfrntmgslbemeaetoeec7gsbyehecdnuyincewhOrN.29ddJe282,adwhntmgrsadbytec.Ayptttbsr9cnurOrN.29aetswlbeeetocergt0tffrer20ysfmteyritftbsrgcnorthtei1tftmegonDr3,2,wrisl.Iftecncsnwn]
+[DELETED: B4N-ASIPe2mgtsthanadpgbeDr3,2,eecgsrgOrN.29aetswlheteonoftgtontscdthttp.Ifaneecrestotrtoant,tymyntrntoOrN.29aet.UnteenofcseyurOrN.29aet,teeecgrwlheteonoftgtotetfaeatttt4NwP;NtM;C.AdRA39byigaphIVtefgnwpI)Fseefrtentmgtfurtssnfrc0gslrtnoemtadupto5mswhaniedearJy112,adntagasagpntmgh,mtceatlt33ptoft2gnonanalb3()Cnrsurtssnslntaytolwadm4iecsasddinaersoftepcuscninP5965EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATretotepnoflecsinntmLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0IeIeI+$eFyA0$0IeIeI+$gSyA0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$eIeIlR0$0$0$lE0$eIeIsblesilh,anwcsofgph,whsec,orilesasm;adeseyfrntmsgrtn1mtbtlstn5mswhaniedeay1,27ttaentagasagphtmyntm,pdtefsatlt3%oftegnpdonanalb.Tsctdsntaytol-admecsasddinPC9eDtofEysstecnofanwcsofgphswdcecsfrecdnustotktsg,whalcsb]
+[DELETED: donthecrstoalecr.Teenofgpntmdntmgaoisuycsadwhntmgcspdt,whalcsanbgpdonthecrstoale.Asar,teDtasanieieinSeeeDtesttteieingpntmgrswdreatoealfepninteDsSeEyD.T,UyAtI,wdctay$0inFY28(dstdeor1,2,ad$0inFY2.TsbldsntaeorfdtspditisadtspnwdbepdfrthuyadoneycndafmteDtofAeS,teisrefrry1%oftlseeycnadweiray1%ofaytlctiergfmtsb.Teteineyesseisi;t,tergioSeesisaoiyadllgswdeeanieieine.TeDtdsntheastodafrtetleycrertecsorllusofgtadtectmeareoftei.TeisnoaditoncyorllrtisadayflitwdntorulFY2SCtofEstsblisiltoSB16asa,25S,weudtesnteaspdattttetopeteaefln]

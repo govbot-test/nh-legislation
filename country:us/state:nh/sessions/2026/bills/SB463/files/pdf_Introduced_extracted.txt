@@ -1,0 +1,167 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB463-FN-ASINTRODUCED
+2026SESSION
+26-2246
+12/09
+463-FN
+ANACT relativetopossessionoffirearmsinsafeschoolzones.
+SPONSORS: Sen. Fenton, Dist 10; Sen. Long, Dist 20; Sen. Rosenwald, Dist 13; Sen. Perkins
+Kwoka, Dist 21; Sen. Altschiller, Dist 24; Sen. Prentiss, Dist 5; Rep. Meuse, Rock.
+37
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitscarryingafirearminasafeschoolzone.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB463-FN-ASINTRODUCED
+26-2246
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopossessionoffirearmsinsafeschoolzones.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;PossessionofFirearmsinaSafeSchoolZone. AmendRSA159byinsertingafter
+2 section19-athefollowingnewsection:
+3 159:19-b PossessionofaFirearminaSafeSchoolZone.
+4 I. No person shall knowingly carry a firearm, as defined in RSA 173-B:1, XI, in a safe school
+5 zone, as defined in RSA 193-D:1, II. Any person who violates the provisions of this paragraph shall
+6 beguiltyofaclassAmisdemeanor.
+7 II. Thissectionshallnotapplyto:
+8 (a) Any person picking up or dropping off a student, provided the firearm remains in a
+9 motorvehicle,isnotloaded,andisineitheralockedcontaineroralockedfirearmsrack.
+10 (b) Any person authorized in writing by the school board or duly authorized designee to
+11 possess a firearm. Such authorization shall specify the weapon or weapons that have been
+12 authorized, the purpose and scope of the authorization, and the time period for which the
+13 authorizationapplies.
+14 (c) Any duly appointed law enforcement officer, properly trained school resource officer,
+15 ormemberofthearmedservicesoftheUnitedStatesorNationalGuardwhenonduty.
+16 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+LBA
+26-2246
+10/2/25
+SB463-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetopossessionoffirearmsinsafeschoolzones.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B4N-ASI6SEBNATretopnoffsinseslz:S.F,Dt1;S.L,Dt2;S.R,Dt1;S.P,Dt2;S.A,Dt2;S.P,Dt5;R.M,R:Jsblpscgafminaseslz-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretopnoffsinseslzeitEdbyteSeadHeofRsinGlCtc1NwS;PnofFsinaSeSlZ.AdRA19byigasn1atefgnws1bPnofaFminaSeSlZI.Nopnslkycyaf,asddinRA1,X,inasesz,asddinRA1,I.AypnwovstepsoftsphsbegyofacsAmI.Tssnslntayt()Aypnpgupordgofas,pdtefmrsinmrv,isntl,adisineraldcroraldfsr0()Aypnadinwgbyteslbdordyaddet1psaf.Shanslsytewnorwsttheb2a,tepeadseoftea,adtetepdfrwht3ana4()Aydyadlweto,pytdslreo5ormrofteadssofteUdSsorNlGdwnond62EeD.Tsatslteetunisp]
+[DELETED: B4-FLNSINATretopnoffsinseslzLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB463-FN-ASINTRODUCED
+2026SESSION
+26-2246
+12/09
+463-FN
+SENATEBILL
+ANACT relativetopossessionoffirearmsinsafeschoolzones.
+SPONSORS: Sen. Fenton, Dist 10; Sen. Long, Dist 20; Sen. Rosenwald, Dist 13; Sen. Perkins
+Kwoka, Dist 21; Sen. Altschiller, Dist 24; Sen. Prentiss, Dist 5; Rep. Meuse, Rock.
+37
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillprohibitscarryingafirearminasafeschoolzone.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB463-FN-ASINTRODUCED
+26-2246
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopossessionoffirearmsinsafeschoolzones.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewSection;PossessionofFirearmsinaSafeSchoolZone. AmendRSA159byinsertingafter
+2 section19-athefollowingnewsection:
+3 159:19-b PossessionofaFirearminaSafeSchoolZone.
+4 I. No person shall knowingly carry a firearm, as defined in RSA 173-B:1, XI, in a safe school
+5 zone, as defined in RSA 193-D:1, II. Any person who violates the provisions of this paragraph shall
+6 beguiltyofaclassAmisdemeanor.
+7 II. Thissectionshallnotapplyto:
+8 (a) Any person picking up or dropping off a student, provided the firearm remains in a
+9 motorvehicle,isnotloaded,andisineitheralockedcontaineroralockedfirearmsrack.
+10 (b) Any person authorized in writing by the school board or duly authorized designee to
+11 possess a firearm. Such authorization shall specify the weapon or weapons that have been
+12 authorized, the purpose and scope of the authorization, and the time period for which the
+13 authorizationapplies.
+14 (c) Any duly appointed law enforcement officer, properly trained school resource officer,
+15 ormemberofthearmedservicesoftheUnitedStatesorNationalGuardwhenonduty.
+16 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2246
+10/2/25
+SB463-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetopossessionoffirearmsinsafeschoolzones.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B4N-ASI6SEBNATretopnoffsinseslz:S.F,Dt1;S.L,Dt2;S.R,Dt1;S.P,Dt2;S.A,Dt2;S.P,Dt5;R.M,R:Jsblpscgafminaseslz-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretopnoffsinseslzeitEdbyteSeadHeofRsinGlCtc1NwS;PnofFsinaSeSlZ.AdRA19byigasn1atefgnws1bPnofaFminaSeSlZI.Nopnslkycyaf,asddinRA1,X,inasesz,asddinRA1,I.AypnwovstepsoftsphsbegyofacsAmI.Tssnslntayt()Aypnpgupordgofas,pdtefmrsinmrv,isntl,adisineraldcroraldfsr0()Aypnadinwgbyteslbdordyaddet1psaf.Shanslsytewnorwsttheb2a,tepeadseoftea,adtetepdfrwht3ana4()Aydyadlweto,pytdslreo5ormrofteadssofteUdSsorNlGdwnond62EeD.Tsatslteetunisp]
+[DELETED: B4-FLNSINATretopnoffsinseslzLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

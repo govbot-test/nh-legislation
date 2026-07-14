@@ -1,0 +1,191 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB624-FN-ASINTRODUCED
+2026SESSION
+26-2219
+09/08
+624-FN
+ANACT restrictingaccesstocertainhemp-derivedproducts.
+SPONSORS: Sen. Gannon, Dist 23; Rep. Litchfield, Rock. 32; Rep. M. Pearson, Rock. 34; Rep.
+Bernardy,Rock.36
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill sets penalties for possession of certain hemp-derived products and directs liquor
+licenseestocomplywiththeprohibition.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB624-FN-ASINTRODUCED
+26-2219
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restrictingaccesstocertainhemp-derivedproducts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Hemp;Prohibitions. AmendRSA439-A:4toreadasfollows:
+2 439-A:4 Hemp-DerivedProductsContainingTHCProhibited.
+3 I. Nothing in this chapter shall be construed to authorize the sale of products that are
+4 derived from hemp which contain natural or synthetic tetrahydrocannabinol (THC) greater than 0.3
+5 percentonadryweightbasis,whichappearinanyformulation,includingdelta-8THC,delta-9THC,
+6 oranyotherTHCisomervariant. Suchproductsareprohibited.
+7 II. No person under the age of 21 may purchase, possess, or consume a product
+8 derived from hemp which contain natural or synthetic tetrahydrocannabinol (THC) in any
+9 amount, which appear in any formulation, including delta-8 THC, delta-9 THC, or any
+10 otherTHCisomervariant.
+11 III. Any person who knowingly possesses a product in violation of paragraphs I or
+12 II shall be guilty of a violation for a first offense and a class B misdemeanor for any
+13 subsequentoffense.
+14 IV. AnypersonwhoisconvictedofviolatingparagraphIshallbesubjecttoafineof
+15 $100 for a first offense, and any subsequent violations shall be guilty of a class B
+16 misdemeanor with not less than a $300 fine and not more than a $1,200 fine. The offender
+17 shallforfeitthehemp-derivedproducttothestate.
+18 V. A corporation or unincorporated association shall be subject to a fine not to
+19 exceed $20,000 for a misdemeanor and $1,000 for a violation. A writ of execution may be
+20 issued by the court against the corporation or unincorporated association to compel
+21 paymentofthefine,togetherwithcostsandinterest.
+22 2 PremisesRestrictions;UnlawfulPurpose. AmendRSA179:50toreadasfollows:
+23 179:50 UnlawfulPurpose.
+24 I. No licensee shall use, or allow to be used, his or her premises for any purpose contrary to
+25 law.
+26 II. All licensees shall comply with the provisions of RSA 439-A:4 relative to certain
+27 hemp-derivedproductscontainingTHCprohibited.
+28 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2219
+11/18/25
+SB624-FN-FISCALNOTE
+ASINTRODUCED
+ANACT restrictingaccesstocertainhemp-derivedproducts.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B6N-ASI6SEBNATrgastocnhdp:S.G,Dt2;R.L,R.3;R.M.P,R.3;R,R.3:Jsblsspsfrpnofcnhdpsaddslstocywhtep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATrgastocnhdpeitEdbyteSeadHeofRsinGlCtc1H;P.AdRA44tordasf44HdPsCgTCPI.Ngintscrslbecdtoaeteseofpsttaddfmhpwhcnnlorsctl()grtn0ptonadywtb,wharinayf,igd8T,d9TorayorTCirv.ShpsaepI.Nopnurteaeof21myp,p,orceapddfmhpwhcnnlorsctl()inaa,wharinayf,igd8T,d9T,ora0orTCirv1I.AypnwokypsaptinvnofpsIo2IIslbegyofavnfraftoeadacsBmrfra3sto4I.AypnwoiscdofvgphIslbesttoafeo5$0frafto,adaystvsslbegyofacs6mrwhntlstna$0feadntmetna$0f.Teo7slfttehdpttotes8V.Acnorudanslbesttoafentt9ed$0framrad$0frav.Awtofenmyb0idbytectattecnorudantoc1ptoftef,trwhcsadi22PsR;UlP.AdRA10tordasf310UlP4I.Noleslu,orawtobeu,hsorhrpsfraypecyt5l6I.AllsslcywhtepsofRA44retoc7hdpscgTCp83EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATrgastocnhdpLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB624-FN-ASINTRODUCED
+2026SESSION
+26-2219
+09/08
+624-FN
+SENATEBILL
+ANACT restrictingaccesstocertainhemp-derivedproducts.
+SPONSORS: Sen. Gannon, Dist 23; Rep. Litchfield, Rock. 32; Rep. M. Pearson, Rock. 34; Rep.
+Bernardy,Rock.36
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill sets penalties for possession of certain hemp-derived products and directs liquor
+licenseestocomplywiththeprohibition.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB624-FN-ASINTRODUCED
+26-2219
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT restrictingaccesstocertainhemp-derivedproducts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Hemp;Prohibitions. AmendRSA439-A:4toreadasfollows:
+2 439-A:4 Hemp-DerivedProductsContainingTHCProhibited.
+3 I. Nothing in this chapter shall be construed to authorize the sale of products that are
+4 derived from hemp which contain natural or synthetic tetrahydrocannabinol (THC) greater than 0.3
+5 percentonadryweightbasis,whichappearinanyformulation,includingdelta-8THC,delta-9THC,
+6 oranyotherTHCisomervariant. Suchproductsareprohibited.
+7 II. No person under the age of 21 may purchase, possess, or consume a product
+8 derived from hemp which contain natural or synthetic tetrahydrocannabinol (THC) in any
+9 amount, which appear in any formulation, including delta-8 THC, delta-9 THC, or any
+10 otherTHCisomervariant.
+11 III. Any person who knowingly possesses a product in violation of paragraphs I or
+12 II shall be guilty of a violation for a first offense and a class B misdemeanor for any
+13 subsequentoffense.
+14 IV. AnypersonwhoisconvictedofviolatingparagraphIshallbesubjecttoafineof
+15 $100 for a first offense, and any subsequent violations shall be guilty of a class B
+16 misdemeanor with not less than a $300 fine and not more than a $1,200 fine. The offender
+17 shallforfeitthehemp-derivedproducttothestate.
+18 V. A corporation or unincorporated association shall be subject to a fine not to
+19 exceed $20,000 for a misdemeanor and $1,000 for a violation. A writ of execution may be
+20 issued by the court against the corporation or unincorporated association to compel
+21 paymentofthefine,togetherwithcostsandinterest.
+22 2 PremisesRestrictions;UnlawfulPurpose. AmendRSA179:50toreadasfollows:
+23 179:50 UnlawfulPurpose.
+24 I. No licensee shall use, or allow to be used, his or her premises for any purpose contrary to
+25 law.
+26 II. All licensees shall comply with the provisions of RSA 439-A:4 relative to certain
+27 hemp-derivedproductscontainingTHCprohibited.
+28 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2219
+11/18/25
+SB624-FN-FISCALNOTE
+ASINTRODUCED
+ANACT restrictingaccesstocertainhemp-derivedproducts.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B6N-ASI6SEBNATrgastocnhdp:S.G,Dt2;R.L,R.3;R.M.P,R.3;R,R.3:Jsblsspsfrpnofcnhdpsaddslstocywhtep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATrgastocnhdpeitEdbyteSeadHeofRsinGlCtc1H;P.AdRA44tordasf44HdPsCgTCPI.Ngintscrslbecdtoaeteseofpsttaddfmhpwhcnnlorsctl()grtn0ptonadywtb,wharinayf,igd8T,d9TorayorTCirv.ShpsaepI.Nopnurteaeof21myp,p,orceapddfmhpwhcnnlorsctl()inaa,wharinayf,igd8T,d9T,ora0orTCirv1I.AypnwokypsaptinvnofpsIo2IIslbegyofavnfraftoeadacsBmrfra3sto4I.AypnwoiscdofvgphIslbesttoafeo5$0frafto,adaystvsslbegyofacs6mrwhntlstna$0feadntmetna$0f.Teo7slfttehdpttotes8V.Acnorudanslbesttoafentt9ed$0framrad$0frav.Awtofenmyb0idbytectattecnorudantoc1ptoftef,trwhcsadi22PsR;UlP.AdRA10tordasf310UlP4I.Noleslu,orawtobeu,hsorhrpsfraypecyt5l6I.AllsslcywhtepsofRA44retoc7hdpscgTCp83EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATrgastocnhdpLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

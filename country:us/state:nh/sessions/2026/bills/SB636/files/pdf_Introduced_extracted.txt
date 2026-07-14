@@ -1,0 +1,384 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB636-FN-ASINTRODUCED
+2026SESSION
+26-2262
+07/06
+636-FN
+ANACT establishingtax credits for qualifyingsmall businesses against documented tariff-
+relatedcosts.
+SPONSORS: Sen. Fenton, Dist 10; Sen. Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen.
+Long,Dist20;Sen.Watters,Dist4;Sen.Prentiss,Dist5;Sen.Altschiller,Dist24;
+Rep.Burroughs,Carr.2
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishestaxcreditsforqualifyingsmallbusinessesagainstdocumentedtariff-related
+costs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB636-FN-ASINTRODUCED
+26-2262
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingtax credits for qualifyingsmall businesses against documented tariff-
+relatedcosts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownandcitedas"TheSaveSmallBusinessesAct."
+2 2 NewSection; Tariff ReliefBusiness TaxCredit. Amend RSA77-Abyinsertingafter section5-
+3 cthefollowingnewsection:
+4 77-A:5-d TariffReliefBusinessTaxCredit.
+5 I. Asusedinthissection:
+6 (a)"Department"meansthedepartmentofrevenueadministration.
+7 (b) “Smallbusiness”means:
+8 (1) Amanufacturingbusinesswithfewerthan50employeesinthisstate;or
+9 (2) A non-manufacturing business with average annual gross receipts not exceeding
+10 $500,000.
+11 (c) “Tariff-related costs” means increased costs of goods, inputs, or supplies directly
+12 attributable to federal tariffs imposed under the Harmonized Tariff Schedule of the United States,
+13 as evidenced by invoices, tariff classification codes, or supplier certifications acceptable to the
+14 departmentofrevenueadministration.
+15 II.(a) A qualifying small business shall be allowed a non-refundable credit against the tax
+16 due under this chapter equal to 25 percent of documented tariff-related costs incurred during the
+17 taxableyear.
+18 (b) Thecreditshallnotexceed$7,500perbusinessorganizationinanytaxableyear.
+19 (c) The total amount of credits approved under this section shall not exceed $8,000,000
+20 in any state fiscal year. Credits shall be approved by the department in the order in which fully
+21 complete applications are received. If approved claims exceed the cap, the department shall prorate
+22 creditsamongapprovedapplicants.
+23 III. Businesses seeking the credit shall submit an application with supporting
+24 documentation no later than March 31 following the close of the taxable year in which the tariff-
+25 relatedcostswereincurred.
+26 IV. Anyunused portion of anapproved credit maybecarried forward for up to3 consecutive
+27 taxableyears,butshallremainsubjecttotheoriginalannualcap.
+28 V. CreditsshallbeappliedfirstagainstbusinessprofitstaxliabilityunderRSA77-Aand,to
+29 the extent unused, against business enterprise tax liability under RSA 77-E. Credits shall not be
+30 refundableunderthissection.
+SB636-FN-ASINTRODUCED
+-Page2-
+1 VI. The department may audit any claimed credit and shall have authority to recapture
+2 creditsimproperlyclaimedorsupportedbyinsufficientdocumentation.
+3 VII. Thecommissioner,pursuanttoRSA541-A,shalladoptrulesrelativeto:
+4 (a) Acceptableformsofprooffortariff-relatedcosts;
+5 (b) Applicationproceduresandtiming;
+6 (c) Allocationofcreditsunderthestatewidecap;and
+7 (d) Recaptureprocedures.
+8 VIII. The commissioner shall submit an annual report to the house ways and means
+9 committee and senate ways and means committee detailing the number of credits claimed, the
+10 averagecreditamount,industriesimpacted,andtotalfiscalcost.
+11 3 New Section; Tariff Relief Enterprise Tax Credit. Amend RSA 77-E by inserting after section
+12 14thefollowingnewsection:
+13 77-E:15 TariffReliefEnterpriseTaxCredit.
+14 I. Asusedinthissection:
+15 (a) "Department"meansthedepartmentofrevenueadministration.
+16 (b) “Smallbusiness”means:
+17 (1) Amanufacturingbusinesswithfewerthan50employeesinthisstate;or
+18 (2) A non-manufacturing business with average annual gross receipts not exceeding
+19 $500,000.
+20 (c) “Tariff-related costs” means increased costs of goods, inputs, or supplies directly
+21 attributable to federal tariffs imposed under the Harmonized Tariff Schedule of the United States,
+22 as evidenced by invoices, tariff classification codes, or supplier certifications acceptable to the
+23 departmentofrevenueadministration.
+24 II.(a) A qualifying small business shall be allowed a non-refundable credit against the tax
+25 due under this chapter equal to 25 percent of documented tariff-related costs incurred during the
+26 taxableyear.
+27 (b) Thecreditshallnotexceed$7,500perbusinessorganizationinanytaxableyear.
+28 (c) The total amount of credits approved under this section shall not exceed $8,000,000
+29 in any state fiscal year. Credits shall be approved by the department in the order in which fully
+30 complete applications are received. If approved claims exceed the cap, the department shall prorate
+31 creditsamongapprovedapplicants.
+32 III. Businesses seeking the credit shall submit an application with supporting
+33 documentation no later than March 31 following the close of the taxable year in which the tariff-
+34 relatedcostswereincurred.
+35 IV. Anyunused portion of anapproved credit maybecarried forward for up to3 consecutive
+36 taxableyears,butshallremainsubjecttotheoriginalannualcap.
+SB636-FN-ASINTRODUCED
+-Page3-
+1 V. Credits shall be applied first against business enterprise tax liability under RSA 77-E
+2 and,totheextentunused,againstbusinessprofitstaxliabilityunderRSA77-A. Creditsshallnotbe
+3 refundableunderthissection.
+4 VI. The department may audit any claimed credit and shall have authority to recapture
+5 creditsimproperlyclaimedorsupportedbyinsufficientdocumentation.
+6 VII. Thecommissioner,pursuanttoRSA541-A,shalladoptrulesrelativeto:
+7 (a) Acceptableformsofprooffortariff-relatedcosts;
+8 (b) Applicationproceduresandtiming;
+9 (c) Allocationofcreditsunderthestatewidecap;and
+10 (d) Recaptureprocedures.
+11 VIII. The commissioner shall submit an annual report to the house ways and means
+12 committee and senate ways and means committee detailing the number of credits claimed, the
+13 averagecreditamount,industriesimpacted,andtotalfiscalcost.
+14 4 Applicability. ThisactshallapplytotaxperiodsbeginningonorafterJanuary1,2027.
+15 5 Repeals. Thefollowingarerepealed:
+16 I. RSA77-A:5-d,relativetothetariffreliefbusinesstaxcredit.
+17 II. RSA77-E:15,relativetothetariffreliefenterprisetaxcredit.
+18 6 EffectiveDate.
+19 I. Section5ofthisactshalltakeeffectJune30,2032.
+20 II. TheremainderofthisactshalltakeeffectJuly1,2026.
+LBA
+26-2262
+Revised12/9/25
+SB636-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingtax credits for qualifyingsmall businesses against documented tariff-
+relatedcosts.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the Tariff Relief Enterprise tax credit applicable to the Business Enterprise
+Tax (BET) and the Business Profits Tax (BPT) for small businesses, defined as a manufacturing
+business with fewer than 50 employees in the State or a non-manufacturing business with
+average annual gross receipts not exceeding $500,000. The tax credit would be equal to 25% of
+documented tariff-related costs incurred in a taxable year, not to exceed $7,500 per business
+organization. Any unused credit may be carried forward for up to three (3) consecutive taxable
+years.
+The Department of Revenue Administration states further clarification is needed in order to
+administerthebill,asfollows:
+· the definition of "small business" is not limited to businesses domiciled or having their
+principalplaceofbusinessinNH(theDepartmentassumesthisistheintent,howeverifnot,
+thelanguageofthebillwouldneedtobeamendedtoreflecttheintent).
+· for administration of this bill, it would be helpful to include a definition of "manufacturing
+business".
+· the term "business organization", though defined in the BPT statute (RSA 77-A:1, I), is not
+defined within the BET statute. The bill should clarify if the intent is to have the BPT
+definitionapplytotheBET.
+· the BET statute (RSA 77-E:1, III) defines "business enterprise" and indicates no combined
+reporting is permitted with respect to "business enterprises". The bill should clarify how the
+$7,500limitationsisintendedtoapplytocombinedreportersundertheBPT.
+· thebillasdraftedwouldallowfortheproposedcredittobeclaimedtoboththeBETandBPT
+simultaneously. If the intent is not to have the credit claimed simultaneously, language
+should be added to the bill that the credit be applied to one tax then any unused credit
+shouldbeappliedtothesecondtax.
+· the credit, as drafted, is not cascading meaning that if the credit is first used towards BET,
+the credit would reduce the BET credit available for application to the BPT. If the intent is
+to not reduce the BET credit against the BPT, language should be added to the BET portion
+of the bill clarifying that the credit applied to the BET is still considered taxes paid under
+RSA77-E.
+The Department states this bill will decrease General Fund and Education Trust Fund revenue
+by an indeterminable amount in FY 2028 and each year thereafter. The Department is not able
+to determine the magnitude of the decrease due to the unpredictability of the imposition of
+federal tariffs, their related costs, and the associated business tax liability of the impacted
+businesses.
+The Department states it is able to absorb the costs to implement this bill in its operating
+budget.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration
+[DELETED: B6N-ASI6SEBNATegtxcsfrqgslbsatddtdc:S.F,Dt1;S.R,Dt1;S.PsK,Dt2;S,Dt2;S.W,Dt4;S.P,Dt5;S.A,Dt2.B,C.:WsadMsblestxcsfrqgslbsatddt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATegtxcsfrqgslbsatddtdceitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknadcdas"eSeSlBsA2NwS;TfRfBsTxC.AdRA7Abyigarsn5ctefgnws7dTfRfBsTxCI.Asudintss()""mstedtofrea()“lb”m()Amgbswhfrtn50esintss;o()Angbswhaealgsrsnte0$1()“dc”msidcsofg,i,orssd2aetofltsidurteHdTfSeofteUdS3asedbyi,tfcnc,orsrcsaetot4dtofrea5I)Aqgslbsslbeadanectattet6deurtscrelto25ptofddtdcsiddgt7tey8()Tectslnted$0prbsoninaytey9()Tetlatofcsadurtssnslnted$0inaysefly.Csslbeadbytedtinteorinwhf1ceasaer.Ifadcsedtec,tedtslp2csagada3I.Bssgtectslstananwhs4dnnolrtnMh31fgteceofteteyrinwhtet5rdcswei6I.Ayudpnofanadctmybecdfdfrupto3c7tey,btslrnsttoteolalc8V.CsslbeadftatbspstxlyurRA7Aa,t9teetu,atbseetxlyurRA7.Csslntb0reurtss]
+[DELETED: B6N-ASIPe2V.TedtmyataycdctadslheaytorcsiycdorsdbyitdV.Tec,pttoRA5,slatrsret()Aefsofpffrtdc()Anpsadt()Anofcsurtesec;a()RepV.Tecrslstanalrttotehewsadmceadsewsadmscedgtenrofcsc,t0aecta,isi,adtlflc13NwS;TfRfEeTxC.AdRA7Ebyigars214tefgnws375TfRfEeTxC4I.Asudintss5()""mstedtofrea6()“lb”m7()Amgbswhfrtn50esintss;o8()Angbswhaealgsrsnte9$0()“dc”msidcsofg,i,orssd1aetofltsidurteHdTfSeofteUdS2asedbyi,tfcnc,orsrcsaetot3dtofrea4I)Aqgslbsslbeadanectattet5deurtscrelto25ptofddtdcsiddgt6tey7()Tectslnted$0prbsoninaytey8()Tetlatofcsadurtssnslnted$9inaysefly.Csslbeadbytedtinteorinwhf0ceasaer.Ifadcsedtec,tedtslp1csagada2I.Bssgtectslstananwhs3dnnolrtnMh31fgteceofteteyrinwhtet4rdcswei5I.Ayudpnofanadctmybecdfdfrupto3c6tey,btslrnsttoteolalc]
+[DELETED: B6N-ASIPe3V.CsslbeadftatbseetxlyurRA7a,toteetu,atbspstxlyurRA7.CsslntbreurtssV.TedtmyataycdctadslheaytorcsiycdorsdbyitdV.Tec,pttoRA5,slatrsret()Aefsofpffrtdc()Anpsadt()Anofcsurtesec;a0()Rep1V.Tecrslstanalrttotehewsadm2ceadsewsadmscedgtenrofcsc,t3aecta,isi,adtlflc44A.TsatslaytotxpsbgonorarJy1,255R.Tefgaer6I.RA7,retotetfrfbstxc7I.RA7,retotetfrfeetxc86EeD9I.Sn5oftsatslteetJe3,20I.TerroftsatslteetJy1,2]
+[DELETED: d1B6-FLNSINATegtxcsfrqgslbsatddtdcLIdSeIY26FY27FY28FY20$eIeDeFlFdadEnTtF0$0$0$gS0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblesteTfRfEetxctaetoteBsEx()adteBsPsTx()frslb,ddasamswhfrtn50esinteSeorangbswealgsrsnteg$.Tetxctwdbeelto2%odtdcsidinatey,nttoed$0prb.Ayudctmybecdfdfruptote()ceteDtofReAnssfrcnisndinortrteb,asfednof"lb"isntldtobsddorhgtlpeofbsinNH(eDtastsistei,hrifneleofteblwdndtobeadtortteiranoftsb,itwdbehltoieadnof"etm"so,thddinteBTse(A7,I,isndwnteBTs.TeblsdcyifteitistoheteBnaytoteB]
+[DELETED: eBTse(A7,I)ds"se"adisnocgispdwhrtto"se.Teblsdcyhwt0lsisidtoaytocdrsurteBeblasddwdawfrtepdcttobecdtobhteBTadB.Ifteitisnttohetectcds,ldbeadtotebltttectbeadtooetxtnayudcdbeadtotesdtec,asd,isntcgmgttiftectisftudtsBectwdreteBTctaefrantoteB.IfteitiontreteBTctatteB,lesdbeadtoteBTpfteblcgtttectadtoteBTisslcdtspduA7eDtsstsblwldeGlFdadEnTtFdryanieatinFY28adehyrt.TeDtisntaodetemeoftededetoteuyofteinolt,trrdc,adteadbstxlyofteieDtssitisaetoabtecstoittsblinisoSCtofReA]
+
+
+================================================================================
+
+Raw Text:
+SB636-FN-ASINTRODUCED
+2026SESSION
+26-2262
+07/06
+636-FN
+SENATEBILL
+ANACT establishingtax credits for qualifyingsmall businesses against documented tariff-
+relatedcosts.
+SPONSORS: Sen. Fenton, Dist 10; Sen. Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen.
+Long,Dist20;Sen.Watters,Dist4;Sen.Prentiss,Dist5;Sen.Altschiller,Dist24;
+Rep.Burroughs,Carr.2
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishestaxcreditsforqualifyingsmallbusinessesagainstdocumentedtariff-related
+costs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB636-FN-ASINTRODUCED
+26-2262
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingtax credits for qualifyingsmall businesses against documented tariff-
+relatedcosts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownandcitedas"TheSaveSmallBusinessesAct."
+2 2 NewSection; Tariff ReliefBusiness TaxCredit. Amend RSA77-Abyinsertingafter section5-
+3 cthefollowingnewsection:
+4 77-A:5-d TariffReliefBusinessTaxCredit.
+5 I. Asusedinthissection:
+6 (a)"Department"meansthedepartmentofrevenueadministration.
+7 (b) “Smallbusiness”means:
+8 (1) Amanufacturingbusinesswithfewerthan50employeesinthisstate;or
+9 (2) A non-manufacturing business with average annual gross receipts not exceeding
+10 $500,000.
+11 (c) “Tariff-related costs” means increased costs of goods, inputs, or supplies directly
+12 attributable to federal tariffs imposed under the Harmonized Tariff Schedule of the United States,
+13 as evidenced by invoices, tariff classification codes, or supplier certifications acceptable to the
+14 departmentofrevenueadministration.
+15 II.(a) A qualifying small business shall be allowed a non-refundable credit against the tax
+16 due under this chapter equal to 25 percent of documented tariff-related costs incurred during the
+17 taxableyear.
+18 (b) Thecreditshallnotexceed$7,500perbusinessorganizationinanytaxableyear.
+19 (c) The total amount of credits approved under this section shall not exceed $8,000,000
+20 in any state fiscal year. Credits shall be approved by the department in the order in which fully
+21 complete applications are received. If approved claims exceed the cap, the department shall prorate
+22 creditsamongapprovedapplicants.
+23 III. Businesses seeking the credit shall submit an application with supporting
+24 documentation no later than March 31 following the close of the taxable year in which the tariff-
+25 relatedcostswereincurred.
+26 IV. Anyunused portion of anapproved credit maybecarried forward for up to3 consecutive
+27 taxableyears,butshallremainsubjecttotheoriginalannualcap.
+28 V. CreditsshallbeappliedfirstagainstbusinessprofitstaxliabilityunderRSA77-Aand,to
+29 the extent unused, against business enterprise tax liability under RSA 77-E. Credits shall not be
+30 refundableunderthissection.
+
+SB636-FN-ASINTRODUCED
+-Page2-
+1 VI. The department may audit any claimed credit and shall have authority to recapture
+2 creditsimproperlyclaimedorsupportedbyinsufficientdocumentation.
+3 VII. Thecommissioner,pursuanttoRSA541-A,shalladoptrulesrelativeto:
+4 (a) Acceptableformsofprooffortariff-relatedcosts;
+5 (b) Applicationproceduresandtiming;
+6 (c) Allocationofcreditsunderthestatewidecap;and
+7 (d) Recaptureprocedures.
+8 VIII. The commissioner shall submit an annual report to the house ways and means
+9 committee and senate ways and means committee detailing the number of credits claimed, the
+10 averagecreditamount,industriesimpacted,andtotalfiscalcost.
+11 3 New Section; Tariff Relief Enterprise Tax Credit. Amend RSA 77-E by inserting after section
+12 14thefollowingnewsection:
+13 77-E:15 TariffReliefEnterpriseTaxCredit.
+14 I. Asusedinthissection:
+15 (a) "Department"meansthedepartmentofrevenueadministration.
+16 (b) “Smallbusiness”means:
+17 (1) Amanufacturingbusinesswithfewerthan50employeesinthisstate;or
+18 (2) A non-manufacturing business with average annual gross receipts not exceeding
+19 $500,000.
+20 (c) “Tariff-related costs” means increased costs of goods, inputs, or supplies directly
+21 attributable to federal tariffs imposed under the Harmonized Tariff Schedule of the United States,
+22 as evidenced by invoices, tariff classification codes, or supplier certifications acceptable to the
+23 departmentofrevenueadministration.
+24 II.(a) A qualifying small business shall be allowed a non-refundable credit against the tax
+25 due under this chapter equal to 25 percent of documented tariff-related costs incurred during the
+26 taxableyear.
+27 (b) Thecreditshallnotexceed$7,500perbusinessorganizationinanytaxableyear.
+28 (c) The total amount of credits approved under this section shall not exceed $8,000,000
+29 in any state fiscal year. Credits shall be approved by the department in the order in which fully
+30 complete applications are received. If approved claims exceed the cap, the department shall prorate
+31 creditsamongapprovedapplicants.
+32 III. Businesses seeking the credit shall submit an application with supporting
+33 documentation no later than March 31 following the close of the taxable year in which the tariff-
+34 relatedcostswereincurred.
+35 IV. Anyunused portion of anapproved credit maybecarried forward for up to3 consecutive
+36 taxableyears,butshallremainsubjecttotheoriginalannualcap.
+
+SB636-FN-ASINTRODUCED
+-Page3-
+1 V. Credits shall be applied first against business enterprise tax liability under RSA 77-E
+2 and,totheextentunused,againstbusinessprofitstaxliabilityunderRSA77-A. Creditsshallnotbe
+3 refundableunderthissection.
+4 VI. The department may audit any claimed credit and shall have authority to recapture
+5 creditsimproperlyclaimedorsupportedbyinsufficientdocumentation.
+6 VII. Thecommissioner,pursuanttoRSA541-A,shalladoptrulesrelativeto:
+7 (a) Acceptableformsofprooffortariff-relatedcosts;
+8 (b) Applicationproceduresandtiming;
+9 (c) Allocationofcreditsunderthestatewidecap;and
+10 (d) Recaptureprocedures.
+11 VIII. The commissioner shall submit an annual report to the house ways and means
+12 committee and senate ways and means committee detailing the number of credits claimed, the
+13 averagecreditamount,industriesimpacted,andtotalfiscalcost.
+14 4 Applicability. ThisactshallapplytotaxperiodsbeginningonorafterJanuary1,2027.
+15 5 Repeals. Thefollowingarerepealed:
+16 I. RSA77-A:5-d,relativetothetariffreliefbusinesstaxcredit.
+17 II. RSA77-E:15,relativetothetariffreliefenterprisetaxcredit.
+18 6 EffectiveDate.
+19 I. Section5ofthisactshalltakeeffectJune30,2032.
+20 II. TheremainderofthisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2262
+Revised12/9/25
+SB636-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingtax credits for qualifyingsmall businesses against documented tariff-
+relatedcosts.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the Tariff Relief Enterprise tax credit applicable to the Business Enterprise
+Tax (BET) and the Business Profits Tax (BPT) for small businesses, defined as a manufacturing
+business with fewer than 50 employees in the State or a non-manufacturing business with
+average annual gross receipts not exceeding $500,000. The tax credit would be equal to 25% of
+documented tariff-related costs incurred in a taxable year, not to exceed $7,500 per business
+organization. Any unused credit may be carried forward for up to three (3) consecutive taxable
+years.
+The Department of Revenue Administration states further clarification is needed in order to
+administerthebill,asfollows:
+· the definition of "small business" is not limited to businesses domiciled or having their
+principalplaceofbusinessinNH(theDepartmentassumesthisistheintent,howeverifnot,
+thelanguageofthebillwouldneedtobeamendedtoreflecttheintent).
+· for administration of this bill, it would be helpful to include a definition of "manufacturing
+business".
+· the term "business organization", though defined in the BPT statute (RSA 77-A:1, I), is not
+defined within the BET statute. The bill should clarify if the intent is to have the BPT
+definitionapplytotheBET.
+
+· the BET statute (RSA 77-E:1, III) defines "business enterprise" and indicates no combined
+reporting is permitted with respect to "business enterprises". The bill should clarify how the
+$7,500limitationsisintendedtoapplytocombinedreportersundertheBPT.
+· thebillasdraftedwouldallowfortheproposedcredittobeclaimedtoboththeBETandBPT
+simultaneously. If the intent is not to have the credit claimed simultaneously, language
+should be added to the bill that the credit be applied to one tax then any unused credit
+shouldbeappliedtothesecondtax.
+· the credit, as drafted, is not cascading meaning that if the credit is first used towards BET,
+the credit would reduce the BET credit available for application to the BPT. If the intent is
+to not reduce the BET credit against the BPT, language should be added to the BET portion
+of the bill clarifying that the credit applied to the BET is still considered taxes paid under
+RSA77-E.
+The Department states this bill will decrease General Fund and Education Trust Fund revenue
+by an indeterminable amount in FY 2028 and each year thereafter. The Department is not able
+to determine the magnitude of the decrease due to the unpredictability of the imposition of
+federal tariffs, their related costs, and the associated business tax liability of the impacted
+businesses.
+The Department states it is able to absorb the costs to implement this bill in its operating
+budget.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration
+
+[DELETED: B6N-ASI6SEBNATegtxcsfrqgslbsatddtdc:S.F,Dt1;S.R,Dt1;S.PsK,Dt2;S,Dt2;S.W,Dt4;S.P,Dt5;S.A,Dt2.B,C.:WsadMsblestxcsfrqgslbsatddt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATegtxcsfrqgslbsatddtdceitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknadcdas"eSeSlBsA2NwS;TfRfBsTxC.AdRA7Abyigarsn5ctefgnws7dTfRfBsTxCI.Asudintss()""mstedtofrea()“lb”m()Amgbswhfrtn50esintss;o()Angbswhaealgsrsnte0$1()“dc”msidcsofg,i,orssd2aetofltsidurteHdTfSeofteUdS3asedbyi,tfcnc,orsrcsaetot4dtofrea5I)Aqgslbsslbeadanectattet6deurtscrelto25ptofddtdcsiddgt7tey8()Tectslnted$0prbsoninaytey9()Tetlatofcsadurtssnslnted$0inaysefly.Csslbeadbytedtinteorinwhf1ceasaer.Ifadcsedtec,tedtslp2csagada3I.Bssgtectslstananwhs4dnnolrtnMh31fgteceofteteyrinwhtet5rdcswei6I.Ayudpnofanadctmybecdfdfrupto3c7tey,btslrnsttoteolalc8V.CsslbeadftatbspstxlyurRA7Aa,t9teetu,atbseetxlyurRA7.Csslntb0reurtss]
+[DELETED: B6N-ASIPe2V.TedtmyataycdctadslheaytorcsiycdorsdbyitdV.Tec,pttoRA5,slatrsret()Aefsofpffrtdc()Anpsadt()Anofcsurtesec;a()RepV.Tecrslstanalrttotehewsadmceadsewsadmscedgtenrofcsc,t0aecta,isi,adtlflc13NwS;TfRfEeTxC.AdRA7Ebyigars214tefgnws375TfRfEeTxC4I.Asudintss5()""mstedtofrea6()“lb”m7()Amgbswhfrtn50esintss;o8()Angbswhaealgsrsnte9$0()“dc”msidcsofg,i,orssd1aetofltsidurteHdTfSeofteUdS2asedbyi,tfcnc,orsrcsaetot3dtofrea4I)Aqgslbsslbeadanectattet5deurtscrelto25ptofddtdcsiddgt6tey7()Tectslnted$0prbsoninaytey8()Tetlatofcsadurtssnslnted$9inaysefly.Csslbeadbytedtinteorinwhf0ceasaer.Ifadcsedtec,tedtslp1csagada2I.Bssgtectslstananwhs3dnnolrtnMh31fgteceofteteyrinwhtet4rdcswei5I.Ayudpnofanadctmybecdfdfrupto3c6tey,btslrnsttoteolalc]
+[DELETED: B6N-ASIPe3V.CsslbeadftatbseetxlyurRA7a,toteetu,atbspstxlyurRA7.CsslntbreurtssV.TedtmyataycdctadslheaytorcsiycdorsdbyitdV.Tec,pttoRA5,slatrsret()Aefsofpffrtdc()Anpsadt()Anofcsurtesec;a0()Rep1V.Tecrslstanalrttotehewsadm2ceadsewsadmscedgtenrofcsc,t3aecta,isi,adtlflc44A.TsatslaytotxpsbgonorarJy1,255R.Tefgaer6I.RA7,retotetfrfbstxc7I.RA7,retotetfrfeetxc86EeD9I.Sn5oftsatslteetJe3,20I.TerroftsatslteetJy1,2]
+[DELETED: d1B6-FLNSINATegtxcsfrqgslbsatddtdcLIdSeIY26FY27FY28FY20$eIeDeFlFdadEnTtF0$0$0$gS0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblesteTfRfEetxctaetoteBsEx()adteBsPsTx()frslb,ddasamswhfrtn50esinteSeorangbswealgsrsnteg$.Tetxctwdbeelto2%odtdcsidinatey,nttoed$0prb.Ayudctmybecdfdfruptote()ceteDtofReAnssfrcnisndinortrteb,asfednof"lb"isntldtobsddorhgtlpeofbsinNH(eDtastsistei,hrifneleofteblwdndtobeadtortteiranoftsb,itwdbehltoieadnof"etm"so,thddinteBTse(A7,I,isndwnteBTs.TeblsdcyifteitistoheteBnaytoteB]
+[DELETED: eBTse(A7,I)ds"se"adisnocgispdwhrtto"se.Teblsdcyhwt0lsisidtoaytocdrsurteBeblasddwdawfrtepdcttobecdtobhteBTadB.Ifteitisnttohetectcds,ldbeadtotebltttectbeadtooetxtnayudcdbeadtotesdtec,asd,isntcgmgttiftectisftudtsBectwdreteBTctaefrantoteB.IfteitiontreteBTctatteB,lesdbeadtoteBTpfteblcgtttectadtoteBTisslcdtspduA7eDtsstsblwldeGlFdadEnTtFdryanieatinFY28adehyrt.TeDtisntaodetemeoftededetoteuyofteinolt,trrdc,adteadbstxlyofteieDtssitisaetoabtecstoittsblinisoSCtofReA]

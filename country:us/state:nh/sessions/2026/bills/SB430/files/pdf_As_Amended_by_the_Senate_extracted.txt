@@ -1,0 +1,118 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SB430-ASAMENDEDBYTHESENATE
+02/19/2026 0640s
+2026SESSION
+26-2005
+12/09
+430
+ANACT relative to mandatory disclosure by school district employees to parents and legal
+guardians.
+SPONSORS: Sen. Lang, Dist 2; Sen. Avard, Dist 12; Sen. Birdsell, Dist 19; Sen. McGough, Dist
+11; Sen. Ward, Dist 8; Sen. Innis, Dist 7; Sen. Gray, Dist 6; Sen. Gannon, Dist 23;
+Sen. Abbas, Dist 22; Sen. Sullivan, Dist 18; Sen. Murphy, Dist 16; Sen. Carson,
+Dist 14; Sen. Pearl, Dist 17; Sen. Rochefort, Dist 1; Rep. Berry, Hills. 44; Rep.
+Moffett,Merr.4
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires all school employees to respond honestly and completely to written requests by
+parentsandlegalguardiansregardinginformationrelatingtotheirchildren.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB430-ASAMENDEDBYTHESENATE
+02/19/2026 0640s 26-2005
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to mandatory disclosure by school district employees to parents and legal
+guardians.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. ThisactshallbeknownastheHonestyandTransparencyinEducationAct.
+2 2 New Section; Communications Between Teachers, Parents, and Legal Guardians. Amend
+3 RSA189byinsertingaftersection13-cthefollowingnewsection:
+4 189:13-d CommunicationsBetweenTeachers,Parents,andLegalGuardians.
+5 I. Educators credentialed by the New Hampshire department of education shall have a duty
+6 to respond to written inquiries by parents and legal guardians regarding material information
+7 relating to their child enrolled in that educator’s school. Such response to a written request shall be
+8 sent within 10 business days of its receipt and be answered completely and honestly to the extent
+9 permittedbystateorfederallaw.
+10 II. If, in the good faith determination of the credential holder, such complete and honest
+11 response to a request would put the student at imminent risk of physical harm, abuse, or neglect,
+12 such credential holder shall file a report with the department of health and human services within
+13 48 hours of such determination in accordance with RSA 169-C:30, and may withhold only the
+14 informationthatcreatestherisk.
+15 III. On or before June 30, 2027, the state board of education shall adopt rules, pursuant to
+16 RSA 541-A, amending the code of ethics and the code of conduct for New Hampshire educators
+17 relativetothissection.
+18 IV. Violation of this section shall be considered a violation of the code of conduct for New
+19 Hampshire educators and subject to investigation, in accordance with administrative rules, against
+20 thatcredentialholder.
+21 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+
+================================================================================
+
+Raw Text:
+SB430-ASAMENDEDBYTHESENATE
+02/19/2026 0640s
+2026SESSION
+26-2005
+12/09
+430
+SENATEBILL
+ANACT relative to mandatory disclosure by school district employees to parents and legal
+guardians.
+SPONSORS: Sen. Lang, Dist 2; Sen. Avard, Dist 12; Sen. Birdsell, Dist 19; Sen. McGough, Dist
+11; Sen. Ward, Dist 8; Sen. Innis, Dist 7; Sen. Gray, Dist 6; Sen. Gannon, Dist 23;
+Sen. Abbas, Dist 22; Sen. Sullivan, Dist 18; Sen. Murphy, Dist 16; Sen. Carson,
+Dist 14; Sen. Pearl, Dist 17; Sen. Rochefort, Dist 1; Rep. Berry, Hills. 44; Rep.
+Moffett,Merr.4
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires all school employees to respond honestly and completely to written requests by
+parentsandlegalguardiansregardinginformationrelatingtotheirchildren.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB430-ASAMENDEDBYTHESENATE
+02/19/2026 0640s 26-2005
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to mandatory disclosure by school district employees to parents and legal
+guardians.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. ThisactshallbeknownastheHonestyandTransparencyinEducationAct.
+2 2 New Section; Communications Between Teachers, Parents, and Legal Guardians. Amend
+3 RSA189byinsertingaftersection13-cthefollowingnewsection:
+4 189:13-d CommunicationsBetweenTeachers,Parents,andLegalGuardians.
+5 I. Educators credentialed by the New Hampshire department of education shall have a duty
+6 to respond to written inquiries by parents and legal guardians regarding material information
+7 relating to their child enrolled in that educator’s school. Such response to a written request shall be
+8 sent within 10 business days of its receipt and be answered completely and honestly to the extent
+9 permittedbystateorfederallaw.
+10 II. If, in the good faith determination of the credential holder, such complete and honest
+11 response to a request would put the student at imminent risk of physical harm, abuse, or neglect,
+12 such credential holder shall file a report with the department of health and human services within
+13 48 hours of such determination in accordance with RSA 169-C:30, and may withhold only the
+14 informationthatcreatestherisk.
+15 III. On or before June 30, 2027, the state board of education shall adopt rules, pursuant to
+16 RSA 541-A, amending the code of ethics and the code of conduct for New Hampshire educators
+17 relativetothissection.
+18 IV. Violation of this section shall be considered a violation of the code of conduct for New
+19 Hampshire educators and subject to investigation, in accordance with administrative rules, against
+20 thatcredentialholder.
+21 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.

@@ -1,0 +1,293 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB491-FN-ASINTRODUCED
+2026SESSION
+26-2056
+07/08
+491-FN
+ANACT enabling students to utilize education freedom account funds to pay for certain
+careerandtechnicaleducationfunding.
+SPONSORS: Sen. Watters, Dist 4; Sen. Lang, Dist 2; Sen. McGough, Dist 11; Sen. Sullivan,
+Dist 18; Sen. Avard, Dist 12; Sen. Long, Dist 20; Sen. McConkey, Dist 3; Sen.
+Pearl,Dist17
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables students to utilize education freedom account funds to pay for certain career
+andtechnicaleducationfunding.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB491-FN-ASINTRODUCED
+26-2056
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling students to utilize education freedom account funds to pay for certain
+careerandtechnicaleducationfunding.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Regional Career and Technical Education (CTE); Costs for Students Attending
+2 CareerandTechnicalEducationPrograms. AmendRSA188-E:6,IVtoreadasfollows:
+3 IV. In consultation with the house and senate committees responsible for education policy
+4 andfinancialmatters,the[stateboard]departmentofeducationshall,inrulesadoptedpursuantto
+5 RSA 541-A, develop a formula for determining separately the tuition and transportation costs for
+6 approvedcareertechnicaleducationprogramsandproceduresfordisbursementoffunds.
+7 2 Education; Regional Career and Technical Education(CTE); Tuition. RSA188-E:7is repealed
+8 andreenactedtoreadasfollows:
+9 188-E:7 Tuition.
+10 I. The department of education is hereby authorized to pay, from its regular budget tuition,
+11 costsassociated withtransportationfor part-timedistrictstudents who areeligiblefor enrollment in
+12 career and technical education under the provisions of RSA 188-E:1-a, VI and receiving an EFA
+13 grant. The department shall develop rules under RSA 188-E:6, IV for such payments and for any
+14 adjustment or redirection for career and technical education tuition funding of EFA grants for those
+15 studentsenrolledaspart-timestudentsincareerandtechnicaleducation.
+16 II. Students receiving an EFA grant shall be eligible for enrollment in career and technical
+17 educationundertheprovisionsofRSA188-E:1-a,VI.
+18 3 Education; Regional Career and Technical Education (CTE); Transportation. Amend RSA
+19 188-E:8toreadasfollows:
+20 188-E:8 Transportation. The department of education is authorized to reimburse from its
+21 regular budget the full cost of transportation in an amount based upon a formula using type of
+22 vehicle, mileage, and number of trips made for (a) regional career and technical education students
+23 who attend regional career and technical centers; and for (b) at-risk students who attend alternative
+24 education programs located at a regional career and technical education center or other
+25 comprehensive highschool. The transportation reimbursement formulashall beestablished in rules
+26 adopted by the [state board] department of education pursuant to RSA 541-A. The CTE
+27 transportation reimbursement formula shall not be dependent upon the number of students riding
+28 on a particular bus or other type of vehicle. The sending district shall be responsible for providing
+29 transportationandpayingthetransportationcostsandshallthenbereimbursedfromstatefunds.
+SB491-FN-ASINTRODUCED
+-Page2-
+1 4 New Paragraph; Education; Regional Career and Technical Education (CTE); Payment of
+2 Tuition and Transportation Funds. Amend RSA 188-E:9 by inserting after paragraph IV the
+3 followingnewparagraph:
+4 V. Thedepartmentofeducationshallestablishseparatefundsfortuitionandtransportation
+5 and determine the cost for each on an annual basis in accordance with the provisions of RSA 188:E-
+6 6,IVand188-E:9,II-III.
+7 5 New Paragraph; Education; Education Freedom Accounts; Authority and Responsibilities of
+8 the Scholarship Organization. Amend RSA 194-F:4 by inserting after paragraph XVII the following
+9 newparagraph:
+10 XVIII. The scholarship organization, in cooperation with the department of education, shall
+11 make available to EFA students in grades 9-12 information about enrolling in career and technical
+12 educationclassesandprograms.
+13 6 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+LBA
+26-2056
+Revised1/12/26
+SB491-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enabling students to utilize education freedom account funds to pay for certain
+careerandtechnicaleducationfunding.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) EducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 Indeterminable
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+The Department of Education states this bill guarantees career and technical education (CTE)
+access to Education Freedom Account (EFA) students. Under current law, CTE districts may
+charge tuition to an EFA family, require the student to enroll into their resident district to
+receiveCTEservices,ormayprovideCTEservicesfreeofcharge. ForSchoolYear2024-2025,26
+EFA students received CTE services. The Department does not know if those families were
+charged tuition, the sending district provided tuition payments, or services were provided
+withouttuition.
+StateImpact
+The Department states this bill may result in an increase in participation in the EFA program.
+The following provides information about different scenarios under which a student may access
+theEFAprogram:
+ Students entering the program from home education or non-public systems would result
+in an increased expense for the state equal to the cost of the average EFA grant in the
+respectiveyear.
+ Students entering the program from an in-person chartered public school would have a
+net savings for the state of $5,407 (FY 2027 charter adequacy aid of $10,417 minus the
+averageEFAgrantinthatyear).
+ Students entering the program from a district public school would have a net cost to the
+state if the student left a community with a statewide education property tax (SWEPT)
+grant in excess of the calculated cost of an adequate education. This net cost would be
+equal to the amount of the average EFA grant, which is estimated to be $5,010 per
+studentforFY2027.
+ Students entering the program from a public district school in a non-excess SWEPT
+community would result in a decrease to the adequacy grant for their resident district.
+This decrease is estimated to be $2,040 (FY 2027 non-excess SWEPT community of
+$7,050 minus the average EFA grant in FY 2027) based on the difference between the
+averagetotalgrantperstudent.
+The Department states the CTE Tuition & Transportation grant is a fixed State appropriation
+notchangedbytheproposedbill. Therefore,thisbillwillhavenoimpactonthisaidprogram.
+LocalImpact
+TheDepartmentstates thatsendingdistricts withoutaCTEprogrammayberequiredtopayfor
+the services on behalf of EFA students not currently entitled to CTE services while enrolled in
+the EFA program, resulting in increased local expenditures. Increased costs, if any, are
+indeterminable and would vary by district. In addition, a district may incur an impact to
+revenue, to the extent is has a student leave its district for the EFA program, as illustrated
+above.
+AGENCIESCONTACTED:
+DepartmentofEducation
+[DELETED: B4N-ASI6SEBNATegsstoueenfmatfstopyfrcradtlenf:S.W,Dt4;S.L,Dt2;S.M,Dt1;S.St1;S.A,Dt1;S.L,Dt2;S.M,Dt3;S,Dt1:EnFsblessstoueenfmatfstopyfrcncdtlenf-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATegsstoueenfmatfstopyfrcradtlenfeitEdbyteSeadHeofRsinGlCtc1E;RlCradTlEn(;CsfrSsACradTlEnP.AdRA1,IVtordasfI.Incnwhteheadsecsrefrenpadflm,te[eb]dtofens,inrsadpttRA5,dpafafrdgsytetnadtncsfadcrtlenpsadpsfrdtoff2E;RlCradTlEn(;T.RA17isradrdtordasf17T0I.Tedtofenishyadtop,fmisrrbtt1csadwhtnfrpedtsswoaeeefreti2cradtlenurtepsofRA1,VIadrganE3g.TedtsldprsurRA1,IVfrshpsadfra4atorrnfrcradtlentnfgofEAgsfrt5ssedaspessincradtle6I.SsrganEAgtslbeeefretincradt7enurtepsofRA1,V83E;RlCradTlEn(;T.AdR918tordasf018T.Tedtofenisadtorefmi1rrbtteflctoftninanatbdunafaugteo2v,m,adnroftsmefr()rlcradtlens3woadrlcradtlc;adfr()aksswoada4enpsldatarlcradtlencroro5cehhs.Tetnrtfaslbeedinr6adbyte[eb]dtofenpttoRA5.TeC7tnrtfaslntbedtuntenrofssr8onaprbsororteofv.Tesgdtslberefrp9tnadpgtetncsadsltnberdfmsef]
+[DELETED: B4N-ASIPe24NwP;E;RlCradTlEn(;PtoTnadTnF.AdRA19byigarphIVtfgnwpV.TedtofenslehsefsfrtnadtaddetectfrehonanalbsinaewhtepsofRA16,IVad1,I5NwP;E;EnFmA;AyadRsoteSpO.AdRA14byigarphXItefnwp0X.Tespo,incnwhtedtofe,s1meaetoEAssings92inategincradt2encsadp36EeD.TsatslteetJy1,2]
+[DELETED: d1B4-FLNSINATegsstoueenfmatfstopyfrcradtlenfLIdSeIY26FY27FY28FY20$0$0$eF0IgSnTtF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2lR0$0IlE0IeDtofEnsstsblgscradtlen(stoEnFmAt()s.Urctl,CEdsmetntoanEAf,retesttoeliotrrtdtteCEs,ormypeCEssfeofc.FrSlYr2,2AssrdCEs.TeDtdsntkwiftefswdt,tesgdtpdtnp,orssweptteIeDtsstsblmyrtinanieinpninteEApefgpsinatdtssurwhastmyaeEAp]
+[DELETED: segtepmfmheenorncsswdrnanideefrteseeltotectofteaeEAgtinteysegtepmfmanincdpcslwdhetssfrteseof$7(Y27crayadof$7msteEAgtinttysegtepmfmadtpcslwdheantcttoteiftestltacywhaseenpytx(tinesoftecdctofanaee.TsntctwdbltoteatofteaeEAg,whisedtobe$0ptfrFY2segtepmfmapcdtslinansSywdrtinadetoteaygtfrtrrtdsdeisedtobe$0(Y27nsSTcyo0msteaeEAgtinFY2)bdontedebntetlgtprseDtssteCETn&TngtisafdSeatcdbytepdb.T,tsblwlhenoitontsadplIeDtssttsgdswtaCEpmmyberdtopyfessonbfofEAssntcyedtoCEssweedieEAp,rginidlle.Idc,ifa,aeadwdvybyd.Ina,adtmyiranitt,toteetishsastleisdtfrteEAp,asiSCtofE]
+
+
+================================================================================
+
+Raw Text:
+SB491-FN-ASINTRODUCED
+2026SESSION
+26-2056
+07/08
+491-FN
+SENATEBILL
+ANACT enabling students to utilize education freedom account funds to pay for certain
+careerandtechnicaleducationfunding.
+SPONSORS: Sen. Watters, Dist 4; Sen. Lang, Dist 2; Sen. McGough, Dist 11; Sen. Sullivan,
+Dist 18; Sen. Avard, Dist 12; Sen. Long, Dist 20; Sen. McConkey, Dist 3; Sen.
+Pearl,Dist17
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill enables students to utilize education freedom account funds to pay for certain career
+andtechnicaleducationfunding.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB491-FN-ASINTRODUCED
+26-2056
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT enabling students to utilize education freedom account funds to pay for certain
+careerandtechnicaleducationfunding.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Regional Career and Technical Education (CTE); Costs for Students Attending
+2 CareerandTechnicalEducationPrograms. AmendRSA188-E:6,IVtoreadasfollows:
+3 IV. In consultation with the house and senate committees responsible for education policy
+4 andfinancialmatters,the[stateboard]departmentofeducationshall,inrulesadoptedpursuantto
+5 RSA 541-A, develop a formula for determining separately the tuition and transportation costs for
+6 approvedcareertechnicaleducationprogramsandproceduresfordisbursementoffunds.
+7 2 Education; Regional Career and Technical Education(CTE); Tuition. RSA188-E:7is repealed
+8 andreenactedtoreadasfollows:
+9 188-E:7 Tuition.
+10 I. The department of education is hereby authorized to pay, from its regular budget tuition,
+11 costsassociated withtransportationfor part-timedistrictstudents who areeligiblefor enrollment in
+12 career and technical education under the provisions of RSA 188-E:1-a, VI and receiving an EFA
+13 grant. The department shall develop rules under RSA 188-E:6, IV for such payments and for any
+14 adjustment or redirection for career and technical education tuition funding of EFA grants for those
+15 studentsenrolledaspart-timestudentsincareerandtechnicaleducation.
+16 II. Students receiving an EFA grant shall be eligible for enrollment in career and technical
+17 educationundertheprovisionsofRSA188-E:1-a,VI.
+18 3 Education; Regional Career and Technical Education (CTE); Transportation. Amend RSA
+19 188-E:8toreadasfollows:
+20 188-E:8 Transportation. The department of education is authorized to reimburse from its
+21 regular budget the full cost of transportation in an amount based upon a formula using type of
+22 vehicle, mileage, and number of trips made for (a) regional career and technical education students
+23 who attend regional career and technical centers; and for (b) at-risk students who attend alternative
+24 education programs located at a regional career and technical education center or other
+25 comprehensive highschool. The transportation reimbursement formulashall beestablished in rules
+26 adopted by the [state board] department of education pursuant to RSA 541-A. The CTE
+27 transportation reimbursement formula shall not be dependent upon the number of students riding
+28 on a particular bus or other type of vehicle. The sending district shall be responsible for providing
+29 transportationandpayingthetransportationcostsandshallthenbereimbursedfromstatefunds.
+
+SB491-FN-ASINTRODUCED
+-Page2-
+1 4 New Paragraph; Education; Regional Career and Technical Education (CTE); Payment of
+2 Tuition and Transportation Funds. Amend RSA 188-E:9 by inserting after paragraph IV the
+3 followingnewparagraph:
+4 V. Thedepartmentofeducationshallestablishseparatefundsfortuitionandtransportation
+5 and determine the cost for each on an annual basis in accordance with the provisions of RSA 188:E-
+6 6,IVand188-E:9,II-III.
+7 5 New Paragraph; Education; Education Freedom Accounts; Authority and Responsibilities of
+8 the Scholarship Organization. Amend RSA 194-F:4 by inserting after paragraph XVII the following
+9 newparagraph:
+10 XVIII. The scholarship organization, in cooperation with the department of education, shall
+11 make available to EFA students in grades 9-12 information about enrolling in career and technical
+12 educationclassesandprograms.
+13 6 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2056
+Revised1/12/26
+SB491-FN-FISCALNOTE
+ASINTRODUCED
+ANACT enabling students to utilize education freedom account funds to pay for certain
+careerandtechnicaleducationfunding.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) EducationTrustFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 Indeterminable
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+The Department of Education states this bill guarantees career and technical education (CTE)
+access to Education Freedom Account (EFA) students. Under current law, CTE districts may
+charge tuition to an EFA family, require the student to enroll into their resident district to
+receiveCTEservices,ormayprovideCTEservicesfreeofcharge. ForSchoolYear2024-2025,26
+EFA students received CTE services. The Department does not know if those families were
+charged tuition, the sending district provided tuition payments, or services were provided
+withouttuition.
+StateImpact
+The Department states this bill may result in an increase in participation in the EFA program.
+The following provides information about different scenarios under which a student may access
+theEFAprogram:
+
+ Students entering the program from home education or non-public systems would result
+in an increased expense for the state equal to the cost of the average EFA grant in the
+respectiveyear.
+ Students entering the program from an in-person chartered public school would have a
+net savings for the state of $5,407 (FY 2027 charter adequacy aid of $10,417 minus the
+averageEFAgrantinthatyear).
+ Students entering the program from a district public school would have a net cost to the
+state if the student left a community with a statewide education property tax (SWEPT)
+grant in excess of the calculated cost of an adequate education. This net cost would be
+equal to the amount of the average EFA grant, which is estimated to be $5,010 per
+studentforFY2027.
+ Students entering the program from a public district school in a non-excess SWEPT
+community would result in a decrease to the adequacy grant for their resident district.
+This decrease is estimated to be $2,040 (FY 2027 non-excess SWEPT community of
+$7,050 minus the average EFA grant in FY 2027) based on the difference between the
+averagetotalgrantperstudent.
+The Department states the CTE Tuition & Transportation grant is a fixed State appropriation
+notchangedbytheproposedbill. Therefore,thisbillwillhavenoimpactonthisaidprogram.
+LocalImpact
+TheDepartmentstates thatsendingdistricts withoutaCTEprogrammayberequiredtopayfor
+the services on behalf of EFA students not currently entitled to CTE services while enrolled in
+the EFA program, resulting in increased local expenditures. Increased costs, if any, are
+indeterminable and would vary by district. In addition, a district may incur an impact to
+revenue, to the extent is has a student leave its district for the EFA program, as illustrated
+above.
+AGENCIESCONTACTED:
+DepartmentofEducation
+
+[DELETED: B4N-ASI6SEBNATegsstoueenfmatfstopyfrcradtlenf:S.W,Dt4;S.L,Dt2;S.M,Dt1;S.St1;S.A,Dt1;S.L,Dt2;S.M,Dt3;S,Dt1:EnFsblessstoueenfmatfstopyfrcncdtlenf-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATegsstoueenfmatfstopyfrcradtlenfeitEdbyteSeadHeofRsinGlCtc1E;RlCradTlEn(;CsfrSsACradTlEnP.AdRA1,IVtordasfI.Incnwhteheadsecsrefrenpadflm,te[eb]dtofens,inrsadpttRA5,dpafafrdgsytetnadtncsfadcrtlenpsadpsfrdtoff2E;RlCradTlEn(;T.RA17isradrdtordasf17T0I.Tedtofenishyadtop,fmisrrbtt1csadwhtnfrpedtsswoaeeefreti2cradtlenurtepsofRA1,VIadrganE3g.TedtsldprsurRA1,IVfrshpsadfra4atorrnfrcradtlentnfgofEAgsfrt5ssedaspessincradtle6I.SsrganEAgtslbeeefretincradt7enurtepsofRA1,V83E;RlCradTlEn(;T.AdR918tordasf018T.Tedtofenisadtorefmi1rrbtteflctoftninanatbdunafaugteo2v,m,adnroftsmefr()rlcradtlens3woadrlcradtlc;adfr()aksswoada4enpsldatarlcradtlencroro5cehhs.Tetnrtfaslbeedinr6adbyte[eb]dtofenpttoRA5.TeC7tnrtfaslntbedtuntenrofssr8onaprbsororteofv.Tesgdtslberefrp9tnadpgtetncsadsltnberdfmsef]
+[DELETED: B4N-ASIPe24NwP;E;RlCradTlEn(;PtoTnadTnF.AdRA19byigarphIVtfgnwpV.TedtofenslehsefsfrtnadtaddetectfrehonanalbsinaewhtepsofRA16,IVad1,I5NwP;E;EnFmA;AyadRsoteSpO.AdRA14byigarphXItefnwp0X.Tespo,incnwhtedtofe,s1meaetoEAssings92inategincradt2encsadp36EeD.TsatslteetJy1,2]
+[DELETED: d1B4-FLNSINATegsstoueenfmatfstopyfrcradtlenfLIdSeIY26FY27FY28FY20$0$0$eF0IgSnTtF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2lR0$0IlE0IeDtofEnsstsblgscradtlen(stoEnFmAt()s.Urctl,CEdsmetntoanEAf,retesttoeliotrrtdtteCEs,ormypeCEssfeofc.FrSlYr2,2AssrdCEs.TeDtdsntkwiftefswdt,tesgdtpdtnp,orssweptteIeDtsstsblmyrtinanieinpninteEApefgpsinatdtssurwhastmyaeEAp]
+[DELETED: segtepmfmheenorncsswdrnanideefrteseeltotectofteaeEAgtinteysegtepmfmanincdpcslwdhetssfrteseof$7(Y27crayadof$7msteEAgtinttysegtepmfmadtpcslwdheantcttoteiftestltacywhaseenpytx(tinesoftecdctofanaee.TsntctwdbltoteatofteaeEAg,whisedtobe$0ptfrFY2segtepmfmapcdtslinansSywdrtinadetoteaygtfrtrrtdsdeisedtobe$0(Y27nsSTcyo0msteaeEAgtinFY2)bdontedebntetlgtprseDtssteCETn&TngtisafdSeatcdbytepdb.T,tsblwlhenoitontsadplIeDtssttsgdswtaCEpmmyberdtopyfessonbfofEAssntcyedtoCEssweedieEAp,rginidlle.Idc,ifa,aeadwdvybyd.Ina,adtmyiranitt,toteetishsastleisdtfrteEAp,asiSCtofE]

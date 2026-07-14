@@ -1,0 +1,171 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB465-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0842s
+2026SESSION
+26-2002
+09/05
+465-FN
+ANACT classifyingxylazineasascheduleIIIcontrolleddrug.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Abbas, Dist 22; Sen. Birdsell, Dist 19; Sen. Carson,
+Dist 14; Sen. Rochefort, Dist 1; Sen. McConkey, Dist 3; Rep. L. Walsh, Rock. 15;
+Rep.Vose,Rock.5;Rep.Roy,Rock.31;Rep.Rhodes,Ches.17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillclassifiesxylazineasascheduleIIIcontrolleddrug.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB465-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0842s 26-2002
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT classifyingxylazineasascheduleIIIcontrolleddrug.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Controlled Drug Act; Xylazine. Amend RSA 318-B by inserting after section 1-c
+2 thefollowingnewsection:
+3 318-B:1-d Xylazine.
+4 I. Notwithstanding the provisions of RSA 318-B:1-a, relative to scheduling by rulemaking of
+5 the commissioner of the department of health and human services, xylazine shall be scheduled as a
+6 scheduleIIIcontrolleddrug.
+7 II. Notwithstanding paragraph I, nothing in this section shall prevent any licensed
+8 veterinarian,asdefinedinRSA332-B:1,fromdoinganyofthefollowing:
+9 (a) Dispensing or prescribing for, or administering to, a nonhuman species of a drug
+10 containing xylazine that has been approved by the Secretary of Health and Human Services under
+11 section512oftheFederalFood,Drug,andCosmeticAct,21U.S.C.section360b.
+12 (b) Dispensing or prescribing for, or administering to, a nonhuman species that is
+13 permissible under section 512(a)(4) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. section
+14 360b(a)(4).
+15 (c) Another use that is approved or permissible under the Federal Food, Drug, and
+16 CosmeticAct.
+17 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2002
+04/06/2026
+SB465-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0842s)
+ANACT classifyingxylazineasascheduleIIIcontrolleddrug.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B4N-ASADBYTES606SEBNATcgxeasaseIIcdd:S.G,Dt2;S.A,Dt2;S.B,Dt1;S.Ct1;S.R,Dt1;S.M,Dt3;R.L.W,R.1.V,R.5;R.R,R.3;R.R,C.1:JsblcsxeasaseIIcdd-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATcgxeasaseIIcddeitEdbyteSeadHeofRsinGlCtc1NwS;CdDgA;X.AdRA3Bbyigarsn1tefgnws3dXI.NgtepsofRA3,retosgbyrgotecroftedtofhhadhns,xeslbesdasseIIcddI.NgphI,ngintssnslptaylv,asddinRA3,fmdgayoftef()Dgorpgf,oragt,annssofad0cgxetthsbnadbyteSyofHhadHnSsu1sn52ofteFlF,D,adCcA,21U.sn32()Dgorpgf,oragt,annsstti3peursn5)ofteFlF,D,adCcA,21U.s435()AruettisadorpeurteFlF,D,a6CcA72EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSADBYTESE(T#NATcgxeasaseIIcddLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB465-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0842s
+2026SESSION
+26-2002
+09/05
+465-FN
+SENATEBILL
+ANACT classifyingxylazineasascheduleIIIcontrolleddrug.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Abbas, Dist 22; Sen. Birdsell, Dist 19; Sen. Carson,
+Dist 14; Sen. Rochefort, Dist 1; Sen. McConkey, Dist 3; Rep. L. Walsh, Rock. 15;
+Rep.Vose,Rock.5;Rep.Roy,Rock.31;Rep.Rhodes,Ches.17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+ThisbillclassifiesxylazineasascheduleIIIcontrolleddrug.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB465-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0842s 26-2002
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT classifyingxylazineasascheduleIIIcontrolleddrug.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Controlled Drug Act; Xylazine. Amend RSA 318-B by inserting after section 1-c
+2 thefollowingnewsection:
+3 318-B:1-d Xylazine.
+4 I. Notwithstanding the provisions of RSA 318-B:1-a, relative to scheduling by rulemaking of
+5 the commissioner of the department of health and human services, xylazine shall be scheduled as a
+6 scheduleIIIcontrolleddrug.
+7 II. Notwithstanding paragraph I, nothing in this section shall prevent any licensed
+8 veterinarian,asdefinedinRSA332-B:1,fromdoinganyofthefollowing:
+9 (a) Dispensing or prescribing for, or administering to, a nonhuman species of a drug
+10 containing xylazine that has been approved by the Secretary of Health and Human Services under
+11 section512oftheFederalFood,Drug,andCosmeticAct,21U.S.C.section360b.
+12 (b) Dispensing or prescribing for, or administering to, a nonhuman species that is
+13 permissible under section 512(a)(4) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. section
+14 360b(a)(4).
+15 (c) Another use that is approved or permissible under the Federal Food, Drug, and
+16 CosmeticAct.
+17 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2002
+04/06/2026
+SB465-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0842s)
+ANACT classifyingxylazineasascheduleIIIcontrolleddrug.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B4N-ASADBYTES606SEBNATcgxeasaseIIcdd:S.G,Dt2;S.A,Dt2;S.B,Dt1;S.Ct1;S.R,Dt1;S.M,Dt3;R.L.W,R.1.V,R.5;R.R,R.3;R.R,C.1:JsblcsxeasaseIIcdd-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATcgxeasaseIIcddeitEdbyteSeadHeofRsinGlCtc1NwS;CdDgA;X.AdRA3Bbyigarsn1tefgnws3dXI.NgtepsofRA3,retosgbyrgotecroftedtofhhadhns,xeslbesdasseIIcddI.NgphI,ngintssnslptaylv,asddinRA3,fmdgayoftef()Dgorpgf,oragt,annssofad0cgxetthsbnadbyteSyofHhadHnSsu1sn52ofteFlF,D,adCcA,21U.sn32()Dgorpgf,oragt,annsstti3peursn5)ofteFlF,D,adCcA,21U.s435()AruettisadorpeurteFlF,D,a6CcA72EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSADBYTESE(T#NATcgxeasaseIIcddLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

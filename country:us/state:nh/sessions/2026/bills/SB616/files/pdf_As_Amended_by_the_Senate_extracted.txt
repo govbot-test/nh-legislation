@@ -1,0 +1,246 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB616-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0544s
+2026SESSION
+26-2247
+05/08
+616-FN
+ANACT relativetoreportingrequirementsundertherighttotryact.
+SPONSORS: Sen.Prentiss,Dist5
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesareportingrequirementforprovidersandfacilitiesprovidingservicesunder
+the right to try act. The bill also directs the department of health and human services to provide a
+report to the general court and to adopt rules regarding the collection and reporting of such
+information.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB616-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0544s 26-2247
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoreportingrequirementsundertherighttotryact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Right to Try Act; Reporting Requirement. Amend RSA 126-Z by inserting after
+2 section8thefollowingnewsection:
+3 126-Z:9 ReportingRequirement.
+4 I. Any health care provider providing any type of care under this chapter shall report the
+5 followinginformation,inwriting,tothefacilityinwhichthecareisrendered:
+6 (a) Theillnessthepatientsuffersfrom.
+7 (b) Residence of patient as “in-state” or “out-of-state” when the initial consultation was
+8 made.
+9 (c) Residenceofpatientas“in-state”or“out-of-state”whenthetreatmentsbegan.
+10 (d) Whatauthoritiestheproviderislicensedunder.
+11 (e) Whetherthetreatmentwascoveredbythepatient’sinsurance.
+12 II. A report containing the information and data required by this section shall be
+13 transmitted by any facility with providers providing treatment of any kind under RSA 126-Z to the
+14 department of health and human services. These reports shall not identify the patient or health
+15 care provider by name or include other personally identifiable information. The reports shall be
+16 submitted to the commissioner of the department of health and human services in accordance with
+17 thescheduleestablishedbythecommissionerinrulesunderparagraphIV.
+18 III. The commissioner of the department of health and human services shall make an
+19 annual aggregated report of the data reported to the department by providers under this chapter to
+20 thegeneralcourt. ThisreportshallbedueFebruary1ofeachyear,beginningFebruary1,2028.
+21 IV. The commissioner of healthand humanservices shall adopt rules, pursuant toRSA541-
+22 A,relativeto:
+23 (a) TheforminwhichdatashallbefiledunderparagraphI.
+24 (b) ThecadenceofreportingfromfacilitiesunderparagraphII.
+25 (c) Confidentiality of data collected and disclosed under this section subject to the
+26 provisionsofthissection.
+27 (d) Procedures and written requirements for obtaining, using, and protecting data
+28 providedbythedepartmentofhealthandhumanservicesunderthissection.
+29 V. Any medical facility that willfully fails to comply with the provisions of this section shall
+30 besubjecttoanadministrativefineof$100foreachbusinessdayofnoncompliance.
+31 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+LBA
+26-2247
+3/3/26
+SB616-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0544s)
+ANACT relativetoreportingrequirementsundertherighttotryact.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Increase Increase
+RevenueFund(s) AdministrativeFineRevenue
+$202,000- $130,000-
+Expenditures* $0 $0
+$1,003,000 $149,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill amends RSA 126-Z, the Right to Try Act, by requiring any health care provider
+providing any type of care under RSA 126-Z to report specific information, in writing, to the
+facility in which the care is rendered. Facilities would be responsible for reporting data to the
+Department of Health and Human Services, which would be required to make an annual
+aggregated report to the General Court. The Department would be required to adopt rules
+relative to (1) the form in which the data shall be filed; (2) the cadence of reporting from
+facilities; (3) the confidentiality of data collected and disclosed; and (4) procedures and written
+requirements for obtaining, using, and protecting data provided by the Department. The bill
+allows for the imposition of a $100 per day administrative fine upon any medical facility that
+willfullyfailstocomplywithitsprovisions.
+TheDepartmentnotesthatChapter287,Lawsof2025requiresittoestablishareportingsystem
+to collect reporting related to abortion statistics, and that it could potentially leverage that
+system to satisfy the requirements of this bill as well. If so, the Department estimates a one-
+time cost of $97,000 to create a reporting module for the Right to Try Act, and ongoing annual
+maintenance and personnel costs of $105,000 and $130,000 in the first and second years of
+implementation, respectively. Given the bill's July 1, 2027 effective date and the fact that the
+first report is not due until February 1, 2028, the Office of the Legislative Budget Assistant
+assumesthefirstcostswillbeincurredinFY28.
+The Department states that in the event it is unable to leverage the reporting system required
+by the 2025 law, it would need 8-10 months to develop and establish a surveillance reporting
+system utilizing. The Department would need to establish a Memorandum of Understanding
+(MOU) with the Office Professional Licensure and Certification (OPLC) to connect to OPLC’s
+licensing database for validating the health care facility. The Department estimates the cost at
+$882,000 in the first year, along with personnel costs of $121,000 and $149,000 in the first and
+second years, respectively. Again, giving the time frames contained in the bill, it is assumed for
+thepurposesofthisfiscalnotethatthefirstcostswillbeincurredinFY28.
+Depending on the options available, therefore, the bill's cost could range from $202,000 to
+$1,003,000inFY28,and$130,000to$149,000inFY29. Itisassumedthattheseexpenseswould
+beallgeneralfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B6N-ASADBYTES606SEBNATretorgrsurterttotya:S.P,Dt:HhadHnSsblesargrtfrpsadfspgssuerttotya.Teblaodstedtofhhadhnsstopettoteglctadtoatrsrgtecnadrgofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretorgrsurterttotyaeitEdbyteSeadHeofRsinGlCtc1NwS;RttoTyA;RgR.AdRA1Zbyigasn8tefgnws19RgRI.Ayhhceprpgayteofceurtscrslrttfgi,inw,totefyinwhteceisr()Teisteptssf()Reofptas“”or“”wnteilcnwm()Reofptas“”or“”wntetsb0()Wtasteprisldu1()Wrtettwscdbytepsi2I.Artcgteinaddardbytssnslb3tdbyayfywhpspgttofaykdurRA1Ztot4dtofhhadhns.Tersslntiyteptorh5ceprbyneorieorpyiei.Tersslb6sdtotecroftedtofhhadhnssinaew7teseedbytecrinrsurphI8I.Tecroftedtofhhadhnssslmea9aladrtoftedardtotedtbypsurtscrt0teglc.TsrtslbedeFy1ofehy,bgFy1,21I.Tecrofhhadhnssslatr,pttoRA52A,ret3()TefminwhdaslbefdurphI4()TeceofrgfmfsurphI5()Cyofdacdadddurtssnsttot6psoftss7()Psadwnrsfro,u,adpgd8pdbytedtofhhadhnssurtss9V.Aymlfyttwyfstocywhtepsoftssns0besttoanaefeof$0frehbsdyofn12EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATretorgrsurterttotyaLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$eIeIeFeFeR0$0-$00$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblasRA1,teRttoTyA,byrgayhhcepgayteofceurRA1Ztortsci,inw,totyinwhteceisr.FswdberefrrgdatottofHhadHnS,whwdberdtomeanadrttoteGlC.TeDtwdberdtoatreto()tefminwhtedaslbef;()teceofrgf;()tecyofdacdadd;ad()psadwsfro,u,adpgdapdbyteD.Tebsfrteinofa$0prdyaefeunaymlfytyfstocywhispeDtnsttCr2,Lsof25rsittoehargsoctrgrdtoans,adttitcdpyletmtosytersoftsblasw.Ifs,teDtesaoectof$0toceargmefrteRttoTyA,adogaeadplcsof$0ad$0inteftadsdyso,r.GntebsJy1,27eedeadteftttt]
+[DELETED: trtisntdeulFy1,2,teOeofteLeBtAsteftcswlbeidinFeDtssttinteetitisuetoletergsmryte25l,itwdnd80mstodpadehasermu.TeDtwdndtoehaMmofU)whteOePlLeadCn()tocttoOgdefrvgtehhcef.TeDtestecta0intefty,agwhplcsof$0ad$0inteftady,r.A,ggtetefscdinteb,itisadfepsoftsflnettteftcswlbeidinFgonteosa,t,tebsctcdrefm$0t0inF,ad$0to$0inF.ItisadttteeswealglfSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB616-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0544s
+2026SESSION
+26-2247
+05/08
+616-FN
+SENATEBILL
+ANACT relativetoreportingrequirementsundertherighttotryact.
+SPONSORS: Sen.Prentiss,Dist5
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesareportingrequirementforprovidersandfacilitiesprovidingservicesunder
+the right to try act. The bill also directs the department of health and human services to provide a
+report to the general court and to adopt rules regarding the collection and reporting of such
+information.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB616-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0544s 26-2247
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoreportingrequirementsundertherighttotryact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Right to Try Act; Reporting Requirement. Amend RSA 126-Z by inserting after
+2 section8thefollowingnewsection:
+3 126-Z:9 ReportingRequirement.
+4 I. Any health care provider providing any type of care under this chapter shall report the
+5 followinginformation,inwriting,tothefacilityinwhichthecareisrendered:
+6 (a) Theillnessthepatientsuffersfrom.
+7 (b) Residence of patient as “in-state” or “out-of-state” when the initial consultation was
+8 made.
+9 (c) Residenceofpatientas“in-state”or“out-of-state”whenthetreatmentsbegan.
+10 (d) Whatauthoritiestheproviderislicensedunder.
+11 (e) Whetherthetreatmentwascoveredbythepatient’sinsurance.
+12 II. A report containing the information and data required by this section shall be
+13 transmitted by any facility with providers providing treatment of any kind under RSA 126-Z to the
+14 department of health and human services. These reports shall not identify the patient or health
+15 care provider by name or include other personally identifiable information. The reports shall be
+16 submitted to the commissioner of the department of health and human services in accordance with
+17 thescheduleestablishedbythecommissionerinrulesunderparagraphIV.
+18 III. The commissioner of the department of health and human services shall make an
+19 annual aggregated report of the data reported to the department by providers under this chapter to
+20 thegeneralcourt. ThisreportshallbedueFebruary1ofeachyear,beginningFebruary1,2028.
+21 IV. The commissioner of healthand humanservices shall adopt rules, pursuant toRSA541-
+22 A,relativeto:
+23 (a) TheforminwhichdatashallbefiledunderparagraphI.
+24 (b) ThecadenceofreportingfromfacilitiesunderparagraphII.
+25 (c) Confidentiality of data collected and disclosed under this section subject to the
+26 provisionsofthissection.
+27 (d) Procedures and written requirements for obtaining, using, and protecting data
+28 providedbythedepartmentofhealthandhumanservicesunderthissection.
+29 V. Any medical facility that willfully fails to comply with the provisions of this section shall
+30 besubjecttoanadministrativefineof$100foreachbusinessdayofnoncompliance.
+31 2 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2247
+3/3/26
+SB616-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0544s)
+ANACT relativetoreportingrequirementsundertherighttotryact.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Increase Increase
+RevenueFund(s) AdministrativeFineRevenue
+$202,000- $130,000-
+Expenditures* $0 $0
+$1,003,000 $149,000
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill amends RSA 126-Z, the Right to Try Act, by requiring any health care provider
+providing any type of care under RSA 126-Z to report specific information, in writing, to the
+facility in which the care is rendered. Facilities would be responsible for reporting data to the
+Department of Health and Human Services, which would be required to make an annual
+aggregated report to the General Court. The Department would be required to adopt rules
+relative to (1) the form in which the data shall be filed; (2) the cadence of reporting from
+facilities; (3) the confidentiality of data collected and disclosed; and (4) procedures and written
+requirements for obtaining, using, and protecting data provided by the Department. The bill
+allows for the imposition of a $100 per day administrative fine upon any medical facility that
+willfullyfailstocomplywithitsprovisions.
+TheDepartmentnotesthatChapter287,Lawsof2025requiresittoestablishareportingsystem
+to collect reporting related to abortion statistics, and that it could potentially leverage that
+system to satisfy the requirements of this bill as well. If so, the Department estimates a one-
+time cost of $97,000 to create a reporting module for the Right to Try Act, and ongoing annual
+maintenance and personnel costs of $105,000 and $130,000 in the first and second years of
+implementation, respectively. Given the bill's July 1, 2027 effective date and the fact that the
+
+first report is not due until February 1, 2028, the Office of the Legislative Budget Assistant
+assumesthefirstcostswillbeincurredinFY28.
+The Department states that in the event it is unable to leverage the reporting system required
+by the 2025 law, it would need 8-10 months to develop and establish a surveillance reporting
+system utilizing. The Department would need to establish a Memorandum of Understanding
+(MOU) with the Office Professional Licensure and Certification (OPLC) to connect to OPLC’s
+licensing database for validating the health care facility. The Department estimates the cost at
+$882,000 in the first year, along with personnel costs of $121,000 and $149,000 in the first and
+second years, respectively. Again, giving the time frames contained in the bill, it is assumed for
+thepurposesofthisfiscalnotethatthefirstcostswillbeincurredinFY28.
+Depending on the options available, therefore, the bill's cost could range from $202,000 to
+$1,003,000inFY28,and$130,000to$149,000inFY29. Itisassumedthattheseexpenseswould
+beallgeneralfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B6N-ASADBYTES606SEBNATretorgrsurterttotya:S.P,Dt:HhadHnSsblesargrtfrpsadfspgssuerttotya.Teblaodstedtofhhadhnsstopettoteglctadtoatrsrgtecnadrgofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretorgrsurterttotyaeitEdbyteSeadHeofRsinGlCtc1NwS;RttoTyA;RgR.AdRA1Zbyigasn8tefgnws19RgRI.Ayhhceprpgayteofceurtscrslrttfgi,inw,totefyinwhteceisr()Teisteptssf()Reofptas“”or“”wnteilcnwm()Reofptas“”or“”wntetsb0()Wtasteprisldu1()Wrtettwscdbytepsi2I.Artcgteinaddardbytssnslb3tdbyayfywhpspgttofaykdurRA1Ztot4dtofhhadhns.Tersslntiyteptorh5ceprbyneorieorpyiei.Tersslb6sdtotecroftedtofhhadhnssinaew7teseedbytecrinrsurphI8I.Tecroftedtofhhadhnssslmea9aladrtoftedardtotedtbypsurtscrt0teglc.TsrtslbedeFy1ofehy,bgFy1,21I.Tecrofhhadhnssslatr,pttoRA52A,ret3()TefminwhdaslbefdurphI4()TeceofrgfmfsurphI5()Cyofdacdadddurtssnsttot6psoftss7()Psadwnrsfro,u,adpgd8pdbytedtofhhadhnssurtss9V.Aymlfyttwyfstocywhtepsoftssns0besttoanaefeof$0frehbsdyofn12EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATretorgrsurterttotyaLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$eIeIeFeFeR0$0-$00$gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblasRA1,teRttoTyA,byrgayhhcepgayteofceurRA1Ztortsci,inw,totyinwhteceisr.FswdberefrrgdatottofHhadHnS,whwdberdtomeanadrttoteGlC.TeDtwdberdtoatreto()tefminwhtedaslbef;()teceofrgf;()tecyofdacdadd;ad()psadwsfro,u,adpgdapdbyteD.Tebsfrteinofa$0prdyaefeunaymlfytyfstocywhispeDtnsttCr2,Lsof25rsittoehargsoctrgrdtoans,adttitcdpyletmtosytersoftsblasw.Ifs,teDtesaoectof$0toceargmefrteRttoTyA,adogaeadplcsof$0ad$0inteftadsdyso,r.GntebsJy1,27eedeadteftttt]
+[DELETED: trtisntdeulFy1,2,teOeofteLeBtAsteftcswlbeidinFeDtssttinteetitisuetoletergsmryte25l,itwdnd80mstodpadehasermu.TeDtwdndtoehaMmofU)whteOePlLeadCn()tocttoOgdefrvgtehhcef.TeDtestecta0intefty,agwhplcsof$0ad$0inteftady,r.A,ggtetefscdinteb,itisadfepsoftsflnettteftcswlbeidinFgonteosa,t,tebsctcdrefm$0t0inF,ad$0to$0inF.ItisadttteeswealglfSCtofHhadHnS]

@@ -1,0 +1,344 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB606-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0689s
+2026SESSION
+26-2063
+05/08
+606-FN
+ANACT relativetoinsurancecoverageforbiomarkertesting.
+SPONSORS: Sen.Birdsell,Dist19;Sen.Innis,Dist7
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the New Hampshire Medicaid program to provide coverage for biomarker
+testingundercertaincircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB606-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0689s 26-2063
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoinsurancecoverageforbiomarkertesting.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Managed Care Law; Biomarker Testing. Amend RSA 420-J by inserting
+2 aftersection26thefollowingnewsubdivision:
+3 BiomarkerTesting
+4 420-J:27 Definitions. Inthissubdivision:
+5 I. “Biomarker” means a characteristic that is objectively measured and evaluated as an
+6 indicator of normal biological processes, pathogenic processes, or pharmacologic responses to a
+7 specific therapeutic intervention, including known gene-drug interactions for medications being
+8 considered for use or already being administered. Biomarkers include but are not limited to gene
+9 mutations,characteristicsofgenes,orproteinexpression.
+10 II. “Biomarker testing” means the analysis of a patient’s tissue, blood, or other biospecimen
+11 for the presence of a biomarker. Biomarker testing includes but is not limited to single-analyte
+12 tests, multi-plex panel tests, protein expression, and whole exome, whole genome, and whole
+13 transcriptomesequencing.
+14 III. "Clinical utility" means a biomarker test result that provides information used in the
+15 formulation of a treatment or monitoring strategy that informs a covered person's outcomes and
+16 impacts the treating provider's clinical decisions. The most appropriate test may include both
+17 information that is actionable and some information that cannot be immediately used in the
+18 formulationofaclinicaldecision.
+19 IV. “Consensus statements” mean statements developed by an independent,
+20 multidisciplinary panel of experts utilizing a transparent methodology and reporting structure and
+21 with a conflict of interest policy. These statements are aimed at specific clinical circumstances and
+22 base the statements on the best available evidence for the purpose of optimizing the outcomes of
+23 clinicalcare.
+24 V. “Nationally recognized clinical practice guidelines” mean evidence-based clinical practice
+25 guidelines developed by independent organizations or medical professional societies utilizing a
+26 transparent methodology and reporting structure and with a conflict of interest policy. Clinical
+27 practice guidelines establish standards of care informed by a systematic review of evidence and an
+28 assessment of the benefits and risks of alternative care options and include recommendations
+29 intendedtooptimizepatientcare.
+30 420-J:28 BiomarkerTesting;StateMedicaidPlanCoverageRequirements.
+SB606-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. Biomarker testing shall be covered by the New Hampshire Medicaid program for
+2 beneficiaries when the biomarker test is determined as medically necessary by the New Hampshire
+3 Medicaid program for the purposes of diagnosis, treatment, appropriate management, or ongoing
+4 monitoring of an enrollee’s disease or condition when the test provides clinical utility and is
+5 demonstratedbythefollowingmedicalandscientificevidence,includingbutnotlimitedtoanyofthe
+6 following:
+7 (a) LabeledindicationsforanFDA-approvedor-clearedtest;
+8 (b) IndicatedtestsforanFDA-approveddrug;
+9 (c) WarningsandprecautionsonFDA-approveddruglabels;
+10 (d) Centers for Medicare and Medicaid Services (CMS) National Coverage
+11 DeterminationsorMedicareAdministrativeContractor(MAC)LocalCoverageDeterminations;or
+12 (e) Nationallyrecognizedclinicalpracticeguidelinesandconsensusstatements.
+13 II. If utilization review, including but not limited to prior authorization, is required, the
+14 utilization review entity, or any third party acting on behalf of the New Hampshire Medicaid
+15 program shall approve or deny a prior authorization request and notify the beneficiary, and the
+16 orderinghealthcareprovider.
+17 2 New Section; Medicaid Coverage of Biomarker Testing. Amend RSA 167 by inserting after
+18 section4-fthefollowingnewsection:
+19 167:4-g BiomarkerTesting;MedicaidCoverageRequirements.
+20 I. The state Medicaid plan shall cover biomarker testing, as defined in RSA 420-J:27, II, in
+21 accordancewiththerequirementsofthissectionwhenthebiomarkertestisdeterminedasmedically
+22 necessarybytheNewHampshireMedicaidprogramforthebeneficiary.
+23 II. Biomarker testing shall be covered for the purposes of diagnosis, treatment, appropriate
+24 management,orongoingmonitoringof thebeneficiary’s diseaseor conditionwhenthedepartment of
+25 health and human services determines that the test provides clinical utility, as defined in RSA 420-
+26 J:27, III and is demonstrated by the following medical and scientific evidence and determined as
+27 medically necessary by the New Hampshire Medicaid program, including but not limited to any of
+28 thefollowing:
+29 (a) LabeledindicationsforanFDA-approvedor-clearedtest;
+30 (b) IndicatedtestsforanFDA-approveddrug;
+31 (c) WarningsandprecautionsonFDA-approveddruglabels;
+32 (d) Centers for Medicare and Medicaid Services (CMS) National Coverage
+33 DeterminationsorMedicareAdministrativeContractor(MAC)LocalCoverageDeterminations;or
+34 (e) Nationallyrecognizedclinicalpracticeguidelinesandconsensusstatements.
+35 III. Risk-bearing entities contracted under the state Medicaid plan to deliver services to
+36 beneficiaries shall provide biomarker testing at the same scope, duration and frequency as the
+37 Medicaidprogramotherwiseprovidestoenrollees.
+SB606-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 IV. The state Medicaid plan shall ensure coverage, as outlined in paragraph II, is provided
+2 in a manner that limits disruptions in care including the need for multiple biopsies or biospecimen
+3 samples.
+4 V. If utilization review, including but not limited to prior authorization, is required, the
+5 state Medicaid plan, utilization review entity, or any third party acting on behalf of an organization
+6 or entity subject to this section shall approve or deny a prior authorization request and notify the
+7 enrollee, the enrollee’s health care provider, and any entity requesting authorization of the service
+8 within14daysfornon-urgentrequestsorwithin72hoursforurgentrequests.
+9 VI. The enrollee and participating provider shall have access to a clear, readily accessible,
+10 and convenient process to request an exception to a coverage policy of the state Medicaid plan or by
+11 risk-bearing entities contracted to the program. The process shall be made readily accessible to all
+12 participatingprovidersandenrolleesonline.
+13 VII. The department of health and human services shall submit to the Centers for Medicare
+14 and Medicaid Services any amendment to the state Medicaid plan required to provide coverage for
+15 biomarkertestinginaccordancewiththissection.
+16 VIII. The provisions of this section shall only take effect provided that there is sufficient
+17 fundingincludedintheoperatingbudgetforthebienniumendingJune30,2029.
+18 3 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+LBA
+26-2063
+03/27/2026
+SB606-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0689s)
+ANACT relativetoinsurancecoverageforbiomarkertesting.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$170,000- $170,000-
+$600,000state $600,000state
+Expenditures* $0 $0 funds;$330,000- funds;$330,000-
+$1.3million $1.3million
+federalfunds federalfunds
+FundingSource(s) Generalfunds,federalfunds,otherfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the state Medicaid program to cover biomarker testing when medically
+necessary. Per actuarial estimates based on paid and denied claims, the Department of Health
+andHumanServices estimates thebill will increase total expenditures bybetween$500,000and
+$1.9 million per year. Since the federal share of Medicaid costs ranges from 50 percent for the
+standard Medicaid program to 90 percent for the Granite Advantage Program, the state share of
+costs is anticipated to range from $170,000 to $600,000 per year, with the remainder being
+federallyfunded. AlthoughthestateshareofGraniteAdvantagecostsiscoveredbyvariousnon-
+general fund revenue sources, the bulk of state Medicaid expenditures are paid for with state
+general funds. Therefore, for the purposes of this fiscal note, it is reasonable to assume that the
+bill will result in annual general fund expenditures of approximately $170,000 to $600,000 per
+year.
+It should be noted that section 1 of the bill places Medicaid biomarker coverage within RSA 420-
+J, which is typically reserved for non-Medicaid insurance mandates. Section 2 duplicates much
+of the language of section 1, but locates it within RSA 167:4, which governs eligibility for certain
+types of public assistance. It is unclear whether this duplication was intentional. Regardless,
+the bill takes effect on July 1, 2027, so any budgetary impact would not occur until the FY28/29
+biennium. With respect to section 2 (but not section 1), the bill explictly states that coverage
+shall only take effect in the event that sufficient funding is included in the operating budget for
+theFY28/29biennium.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B6N-ASADBYTES606SEBNATretoiecefrbrt:S.B,Dt1;S.I,Dt:HhadHnSDAsblrsteNwHeMdpmtopecefrbgurcnc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretoiecefrbrteitEdbyteSeadHeofRsinGlCtc1NwS;MdCeL;BrT.AdRA4Jbyiarsn26tefgnwsBrT47D.IntssI.“”msaccttisoymdadedasairofnlblp,pcp,orpcrstosctci,igknggisfrmsbcdfrueoraybga.Bsiebtaentldtogm,csofg,orpne0I.“rt”msteasofapst,b,ororb1frtepeofab.Brtgisbtisntldtos2t,mxplt,pne,adwee,weg,adw3tes4I."lu"msabrttrtttpsinudint5fnofattormgsyttisacdpsosa6istetgpscld.Temtaettmyieb7inttisaeadseinttctbeiyudint8fnofacld9I.“ss”mnssddbyani0myplofesugattmyadrgsea1whactofitp.Tessaeadatscclcsa2betessontebtaeeefrtepeofogteoso3clc4V.“yrdclpeg”mnedclp5gsddbyitosormlplssug6ttmyadrgseadwhactofitp.C7pegsehssofceidbyascrwofeeada8atoftebsadrsofaeceosadier9idtooeptc048BrT;SeMdPnCeR]
+[DELETED: B6N-ASADBYTESPe2I.BrtgslbecdbyteNwHeMdpmfbswntebrttisddasmynybyteNwHMdpmfrtepsofd,t,aem,oromgofanesdeorcnwntettpscluyadiddbytefgmladsce,igbtntldtoayoftf()LdisfranFdor-dt()IdtsfranFdd()WsadpsonFddgl0()CsfrMeadMdSs()NlC1DsorMeAeCr()LlCeD;o2()Nyrdclpegsadcss3I.Ifunr,igbtntldtopra,isr,t4unrwe,oraytdpyagonbfofteNwHeM5pmslaeordyapranrtadnyteb,adt6oghhcep72NwS;MdCeofBrT.AdRA17byiga8sn4ftefgnws91gBrT;MdCeR0I.TeseMdpnslcrbrt,asddinRA4,I,i1aewhtersoftssnwntebrttisddasm2nybyteNwHeMdpmfrteb3I.Brtgslbecdfrtepsofd,t,a4m,orogmgoftebsdeorcnwntedto5hhadhnssdstttettpsclu,asddinRA46J,IIadisddbytefgmladsceeaddda7mynybyteNwHeMdp,igbtntldtoayo8tef9()LdisfranFdor-dt0()IdtsfranFdd1()WsadpsonFddgl2()CsfrMeadMdSs()NlC3DsorMeAeCr()LlCeD;o4()Nyrdclpegsadcss5I.RgescdurteseMdpntodrsst6bsslpebrtgatteses,dnadfyast7Mdpmoepstoe]
+[DELETED: B6N-ASADBYTESPe3I.TeseMdpnsleec,asodinphI,ispinamrttlsdsinceigtendfrmebsorbsV.Ifunr,igbtntldtopra,isr,tseMdp,unrwe,oraytdpyagonbfofanooreysttotssnslaeordyapranrtadnyte,teeshhcep,adayeyrganofteswn14dsfrntrsorwn72hsfrutrV.Teeeadpgprslheastoac,rya0adctpstortanentoacepyofteseMdpnorb1rgescdtotep.Tepsslbemeryaetoa2pgpsadeso3V.TedtofhhadhnssslsttoteCsfrM4adMdSsayattoteseMdpnrdtopecef5brtginaewhtss6V.Tepsoftssnsloyteetpdttteiss7fgidinteogbtfrtebmegJe3,283EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATretoiecefrbrtLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0f;$0-f;$00-$00se$0s3mn$3mlfsflfgSlf,flf,orf0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsteseMdpmtocrbrtgwnm.Pralesbdonpdadddc,teDtofHdHnSsesteblwlietlesbybn$0a9mnpry.SeteflseofMdcsrsfm50ptfrtdMdpmto90ptfrteGeAeP,teseseosisadtorefm$0to$0pry,whterrbyf.AhteseseofGeAecsiscdbyvsnlfdres,tebkofseMdesaepdfrwhslf.T,frtepsoftsfln,itisretoaetttlwlrtinalglfdesofay$0to$0ptsdbendttsn1ofteblpsMdbrcewnRA4,whistyrdfrndiem.Sn2dsmfteleofsn1,btlsitwnRA1,whgseyfrcsofpca.Itisurwrtsdnwsi.RebltsetonJy1,2,soaybyitwdntorulteF]
+[DELETED: .Whrttosn2(tntsn1,tebleyssttcloyteetinteetttstfgisidinteogbtfeF9bSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB606-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0689s
+2026SESSION
+26-2063
+05/08
+606-FN
+SENATEBILL
+ANACT relativetoinsurancecoverageforbiomarkertesting.
+SPONSORS: Sen.Birdsell,Dist19;Sen.Innis,Dist7
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires the New Hampshire Medicaid program to provide coverage for biomarker
+testingundercertaincircumstances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB606-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0689s 26-2063
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoinsurancecoverageforbiomarkertesting.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Managed Care Law; Biomarker Testing. Amend RSA 420-J by inserting
+2 aftersection26thefollowingnewsubdivision:
+3 BiomarkerTesting
+4 420-J:27 Definitions. Inthissubdivision:
+5 I. “Biomarker” means a characteristic that is objectively measured and evaluated as an
+6 indicator of normal biological processes, pathogenic processes, or pharmacologic responses to a
+7 specific therapeutic intervention, including known gene-drug interactions for medications being
+8 considered for use or already being administered. Biomarkers include but are not limited to gene
+9 mutations,characteristicsofgenes,orproteinexpression.
+10 II. “Biomarker testing” means the analysis of a patient’s tissue, blood, or other biospecimen
+11 for the presence of a biomarker. Biomarker testing includes but is not limited to single-analyte
+12 tests, multi-plex panel tests, protein expression, and whole exome, whole genome, and whole
+13 transcriptomesequencing.
+14 III. "Clinical utility" means a biomarker test result that provides information used in the
+15 formulation of a treatment or monitoring strategy that informs a covered person's outcomes and
+16 impacts the treating provider's clinical decisions. The most appropriate test may include both
+17 information that is actionable and some information that cannot be immediately used in the
+18 formulationofaclinicaldecision.
+19 IV. “Consensus statements” mean statements developed by an independent,
+20 multidisciplinary panel of experts utilizing a transparent methodology and reporting structure and
+21 with a conflict of interest policy. These statements are aimed at specific clinical circumstances and
+22 base the statements on the best available evidence for the purpose of optimizing the outcomes of
+23 clinicalcare.
+24 V. “Nationally recognized clinical practice guidelines” mean evidence-based clinical practice
+25 guidelines developed by independent organizations or medical professional societies utilizing a
+26 transparent methodology and reporting structure and with a conflict of interest policy. Clinical
+27 practice guidelines establish standards of care informed by a systematic review of evidence and an
+28 assessment of the benefits and risks of alternative care options and include recommendations
+29 intendedtooptimizepatientcare.
+30 420-J:28 BiomarkerTesting;StateMedicaidPlanCoverageRequirements.
+
+SB606-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. Biomarker testing shall be covered by the New Hampshire Medicaid program for
+2 beneficiaries when the biomarker test is determined as medically necessary by the New Hampshire
+3 Medicaid program for the purposes of diagnosis, treatment, appropriate management, or ongoing
+4 monitoring of an enrollee’s disease or condition when the test provides clinical utility and is
+5 demonstratedbythefollowingmedicalandscientificevidence,includingbutnotlimitedtoanyofthe
+6 following:
+7 (a) LabeledindicationsforanFDA-approvedor-clearedtest;
+8 (b) IndicatedtestsforanFDA-approveddrug;
+9 (c) WarningsandprecautionsonFDA-approveddruglabels;
+10 (d) Centers for Medicare and Medicaid Services (CMS) National Coverage
+11 DeterminationsorMedicareAdministrativeContractor(MAC)LocalCoverageDeterminations;or
+12 (e) Nationallyrecognizedclinicalpracticeguidelinesandconsensusstatements.
+13 II. If utilization review, including but not limited to prior authorization, is required, the
+14 utilization review entity, or any third party acting on behalf of the New Hampshire Medicaid
+15 program shall approve or deny a prior authorization request and notify the beneficiary, and the
+16 orderinghealthcareprovider.
+17 2 New Section; Medicaid Coverage of Biomarker Testing. Amend RSA 167 by inserting after
+18 section4-fthefollowingnewsection:
+19 167:4-g BiomarkerTesting;MedicaidCoverageRequirements.
+20 I. The state Medicaid plan shall cover biomarker testing, as defined in RSA 420-J:27, II, in
+21 accordancewiththerequirementsofthissectionwhenthebiomarkertestisdeterminedasmedically
+22 necessarybytheNewHampshireMedicaidprogramforthebeneficiary.
+23 II. Biomarker testing shall be covered for the purposes of diagnosis, treatment, appropriate
+24 management,orongoingmonitoringof thebeneficiary’s diseaseor conditionwhenthedepartment of
+25 health and human services determines that the test provides clinical utility, as defined in RSA 420-
+26 J:27, III and is demonstrated by the following medical and scientific evidence and determined as
+27 medically necessary by the New Hampshire Medicaid program, including but not limited to any of
+28 thefollowing:
+29 (a) LabeledindicationsforanFDA-approvedor-clearedtest;
+30 (b) IndicatedtestsforanFDA-approveddrug;
+31 (c) WarningsandprecautionsonFDA-approveddruglabels;
+32 (d) Centers for Medicare and Medicaid Services (CMS) National Coverage
+33 DeterminationsorMedicareAdministrativeContractor(MAC)LocalCoverageDeterminations;or
+34 (e) Nationallyrecognizedclinicalpracticeguidelinesandconsensusstatements.
+35 III. Risk-bearing entities contracted under the state Medicaid plan to deliver services to
+36 beneficiaries shall provide biomarker testing at the same scope, duration and frequency as the
+37 Medicaidprogramotherwiseprovidestoenrollees.
+
+SB606-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 IV. The state Medicaid plan shall ensure coverage, as outlined in paragraph II, is provided
+2 in a manner that limits disruptions in care including the need for multiple biopsies or biospecimen
+3 samples.
+4 V. If utilization review, including but not limited to prior authorization, is required, the
+5 state Medicaid plan, utilization review entity, or any third party acting on behalf of an organization
+6 or entity subject to this section shall approve or deny a prior authorization request and notify the
+7 enrollee, the enrollee’s health care provider, and any entity requesting authorization of the service
+8 within14daysfornon-urgentrequestsorwithin72hoursforurgentrequests.
+9 VI. The enrollee and participating provider shall have access to a clear, readily accessible,
+10 and convenient process to request an exception to a coverage policy of the state Medicaid plan or by
+11 risk-bearing entities contracted to the program. The process shall be made readily accessible to all
+12 participatingprovidersandenrolleesonline.
+13 VII. The department of health and human services shall submit to the Centers for Medicare
+14 and Medicaid Services any amendment to the state Medicaid plan required to provide coverage for
+15 biomarkertestinginaccordancewiththissection.
+16 VIII. The provisions of this section shall only take effect provided that there is sufficient
+17 fundingincludedintheoperatingbudgetforthebienniumendingJune30,2029.
+18 3 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-2063
+03/27/2026
+SB606-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0689s)
+ANACT relativetoinsurancecoverageforbiomarkertesting.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$170,000- $170,000-
+$600,000state $600,000state
+Expenditures* $0 $0 funds;$330,000- funds;$330,000-
+$1.3million $1.3million
+federalfunds federalfunds
+FundingSource(s) Generalfunds,federalfunds,otherfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the state Medicaid program to cover biomarker testing when medically
+necessary. Per actuarial estimates based on paid and denied claims, the Department of Health
+andHumanServices estimates thebill will increase total expenditures bybetween$500,000and
+$1.9 million per year. Since the federal share of Medicaid costs ranges from 50 percent for the
+standard Medicaid program to 90 percent for the Granite Advantage Program, the state share of
+costs is anticipated to range from $170,000 to $600,000 per year, with the remainder being
+federallyfunded. AlthoughthestateshareofGraniteAdvantagecostsiscoveredbyvariousnon-
+general fund revenue sources, the bulk of state Medicaid expenditures are paid for with state
+general funds. Therefore, for the purposes of this fiscal note, it is reasonable to assume that the
+bill will result in annual general fund expenditures of approximately $170,000 to $600,000 per
+year.
+It should be noted that section 1 of the bill places Medicaid biomarker coverage within RSA 420-
+J, which is typically reserved for non-Medicaid insurance mandates. Section 2 duplicates much
+of the language of section 1, but locates it within RSA 167:4, which governs eligibility for certain
+types of public assistance. It is unclear whether this duplication was intentional. Regardless,
+the bill takes effect on July 1, 2027, so any budgetary impact would not occur until the FY28/29
+
+biennium. With respect to section 2 (but not section 1), the bill explictly states that coverage
+shall only take effect in the event that sufficient funding is included in the operating budget for
+theFY28/29biennium.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B6N-ASADBYTES606SEBNATretoiecefrbrt:S.B,Dt1;S.I,Dt:HhadHnSDAsblrsteNwHeMdpmtopecefrbgurcnc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretoiecefrbrteitEdbyteSeadHeofRsinGlCtc1NwS;MdCeL;BrT.AdRA4Jbyiarsn26tefgnwsBrT47D.IntssI.“”msaccttisoymdadedasairofnlblp,pcp,orpcrstosctci,igknggisfrmsbcdfrueoraybga.Bsiebtaentldtogm,csofg,orpne0I.“rt”msteasofapst,b,ororb1frtepeofab.Brtgisbtisntldtos2t,mxplt,pne,adwee,weg,adw3tes4I."lu"msabrttrtttpsinudint5fnofattormgsyttisacdpsosa6istetgpscld.Temtaettmyieb7inttisaeadseinttctbeiyudint8fnofacld9I.“ss”mnssddbyani0myplofesugattmyadrgsea1whactofitp.Tessaeadatscclcsa2betessontebtaeeefrtepeofogteoso3clc4V.“yrdclpeg”mnedclp5gsddbyitosormlplssug6ttmyadrgseadwhactofitp.C7pegsehssofceidbyascrwofeeada8atoftebsadrsofaeceosadier9idtooeptc048BrT;SeMdPnCeR]
+[DELETED: B6N-ASADBYTESPe2I.BrtgslbecdbyteNwHeMdpmfbswntebrttisddasmynybyteNwHMdpmfrtepsofd,t,aem,oromgofanesdeorcnwntettpscluyadiddbytefgmladsce,igbtntldtoayoftf()LdisfranFdor-dt()IdtsfranFdd()WsadpsonFddgl0()CsfrMeadMdSs()NlC1DsorMeAeCr()LlCeD;o2()Nyrdclpegsadcss3I.Ifunr,igbtntldtopra,isr,t4unrwe,oraytdpyagonbfofteNwHeM5pmslaeordyapranrtadnyteb,adt6oghhcep72NwS;MdCeofBrT.AdRA17byiga8sn4ftefgnws91gBrT;MdCeR0I.TeseMdpnslcrbrt,asddinRA4,I,i1aewhtersoftssnwntebrttisddasm2nybyteNwHeMdpmfrteb3I.Brtgslbecdfrtepsofd,t,a4m,orogmgoftebsdeorcnwntedto5hhadhnssdstttettpsclu,asddinRA46J,IIadisddbytefgmladsceeaddda7mynybyteNwHeMdp,igbtntldtoayo8tef9()LdisfranFdor-dt0()IdtsfranFdd1()WsadpsonFddgl2()CsfrMeadMdSs()NlC3DsorMeAeCr()LlCeD;o4()Nyrdclpegsadcss5I.RgescdurteseMdpntodrsst6bsslpebrtgatteses,dnadfyast7Mdpmoepstoe]
+[DELETED: B6N-ASADBYTESPe3I.TeseMdpnsleec,asodinphI,ispinamrttlsdsinceigtendfrmebsorbsV.Ifunr,igbtntldtopra,isr,tseMdp,unrwe,oraytdpyagonbfofanooreysttotssnslaeordyapranrtadnyte,teeshhcep,adayeyrganofteswn14dsfrntrsorwn72hsfrutrV.Teeeadpgprslheastoac,rya0adctpstortanentoacepyofteseMdpnorb1rgescdtotep.Tepsslbemeryaetoa2pgpsadeso3V.TedtofhhadhnssslsttoteCsfrM4adMdSsayattoteseMdpnrdtopecef5brtginaewhtss6V.Tepsoftssnsloyteetpdttteiss7fgidinteogbtfrtebmegJe3,283EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATretoiecefrbrtLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0f;$0-f;$00-$00se$0s3mn$3mlfsflfgSlf,flf,orf0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsteseMdpmtocrbrtgwnm.Pralesbdonpdadddc,teDtofHdHnSsesteblwlietlesbybn$0a9mnpry.SeteflseofMdcsrsfm50ptfrtdMdpmto90ptfrteGeAeP,teseseosisadtorefm$0to$0pry,whterrbyf.AhteseseofGeAecsiscdbyvsnlfdres,tebkofseMdesaepdfrwhslf.T,frtepsoftsfln,itisretoaetttlwlrtinalglfdesofay$0to$0ptsdbendttsn1ofteblpsMdbrcewnRA4,whistyrdfrndiem.Sn2dsmfteleofsn1,btlsitwnRA1,whgseyfrcsofpca.Itisurwrtsdnwsi.RebltsetonJy1,2,soaybyitwdntorulteF]
+[DELETED: .Whrttosn2(tntsn1,tebleyssttcloyteetinteetttstfgisidinteogbtfeF9bSCtofHhadHnS]

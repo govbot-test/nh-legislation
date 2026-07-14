@@ -1,0 +1,200 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB427-FN-ASINTRODUCED
+2026SESSION
+26-2009
+08/09
+427-FN
+ANACT relativetothejointcommitteeonemployeeclassification.
+SPONSORS: Sen.Lang,Dist2;Sen.Rosenwald,Dist13;Sen.McGough,Dist11;Rep.Schmidt,
+Straf.14
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises salaries for certain unclassified state employees. This bill is a request of the
+jointcommitteeonemployeeclassification.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB427-FN-ASINTRODUCED
+26-2009
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothejointcommitteeonemployeeclassification.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StateOfficers;PositionsEliminated. AmendRSA94:1-a,I(b)bydeletingthefollowing:
+2 FF Departmentofhealthandhumanservices directoroflegalservicesdivisionforchildren,
+3 youthandfamilies
+4 GG Departmentofcorrections warden, New Hampshire correctional facility for
+5 women
+6 HH Departmentofcorrections warden,NorthernNewHampshirecorrections
+7 facility
+8 HH Departmentofsafety statefiremarshal
+9 HH Departmentofsafety director,divisionoffirestandardsandtraining
+10 andemergencymedicalservices
+11 II Departmentofcorrections warden,NewHampshirestateprison-men
+12 2 CompensationofCertainStateOfficers. AmendRSA94:1-a,I(b)byinsertingthefollowing:
+13 EE Departmentofhealthandhumanservices deputydirector,bureauoffacilities
+14 maintenanceandofficeservices
+15 GG Departmentofhealthandhumanservices directoroflegalservicesdivisionforchildren,
+16 youthandfamilies
+17 GG Insurancedepartment assistantcommissioner
+18 HH Departmentofcorrections warden, New Hampshire correctional facility for
+19 women
+20 II Departmentofcorrections warden,NorthernNewHampshirecorrections
+21 facility
+22 II Departmentofsafety statefiremarshal
+23 II Departmentofsafety director,divisionoffirestandardsandtraining
+24 andemergencymedicalservice
+25 JJ Departmentofcorrections deputywarden,NewHampshirestateprison-
+26 men
+27 KK Departmentofcorrections warden,NewHampshirestateprison-men
+28 3 Salary Adjustment for Recruitment or Retention. Amend RSA 94:3-b, II(b)-(d) to read as
+29 follows:
+30 (b) Associatemedicalexaminer,departmentofjustice,$160,000-[$240,000]$300,000
+31 (c) Deputychiefmedicalexaminer,departmentofjustice,$200,000-[$260,000]$320,000
+SB427-FN-ASINTRODUCED
+-Page2-
+1 (d) Chiefmedicalexaminer,departmentofjustice,$210,000-[$300,000]$350,000
+2 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2009
+11/16/25
+SB427-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothejointcommitteeonemployeeclassification.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFundandVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill revises salaries for certain unclassified state employees. This bill is a request of the
+joint committee on employee classification (JCEC). The bill will amend RSA 94:1-a to update it
+withthepositionclassifications approvedbytheJCEC. Totheextentthepositionclassifications
+approved by the JCEC results in higher salaries, there will be an increase in state expenditures
+in the current and future operating budgets. Any increased expenditures in the current
+biennium will be funded by funds available due to positions eliminated, vacancies within the
+agency or with funds from the salary adjustment fund. Any increased expenditures in future
+bienniawillbeincludedintheagencyoperatingbudgetrequests.
+AGENCIESCONTACTED:
+None
+[DELETED: B4N-ASI6SEBNATretotejtceoneec:S.L,Dt2;S.R,Dt1;S.M,Dt1;R.S.1:EeDsadAsblrsssfrcnudsee.Tsblisartofttceoneec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotejtceoneeceitEdbyteSeadHeofRsinGlCtc1SeO;PsE.AdRA9,I)bydgtefFFDtofhhadhnssdrofllssdnfrcyhadfGGDtofcsw,NwHeclfyfwHHDtofcsw,NnNwHecfHHDtofsysefemHHDtofsyd,dnoffessadt0adeymls1IIDtofcsw,NwHesepn-m22CnofCnSeO.AdRA9,I)byigtef3EEDtofhhadhnssdyd,buoff4meadoes5GGDtofhhadhnssdrofllssdnfrc6yhadf7GGIedtatc8HHDtofcsw,NwHeclfyf9w0IIDtofcsw,NnNwHec1f2IIDtofsysefem3IIDtofsyd,dnoffessadt4adeymls5JJDtofcsdyw,NwHesepn6m7KKDtofcsw,NwHesepn-m83SyAtfrRtorR.AdRA9,I)torda9f0()Aemle,dtofj,$]$1()Dycfmle,dtofj,$]$]
+[DELETED: B4N-ASIPe2()Cfmle,dtofj,$]$4EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretotejtceoneecLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IgSlFdadVsAyF0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblrsssfrcnudsee.Tsblisartofttceoneecn(.TeblwladRA9atoueihtepncsadbyteJ.ToteettepncdbyteJCrsinhrs,tewlbeanieinseentectadfeogb.Ayidesintecmwlbefdbyfsaedetopse,vswntyorwhfsfmtesyatf.AyidesinfawlbeidinteayogbtrSC]
+
+
+================================================================================
+
+Raw Text:
+SB427-FN-ASINTRODUCED
+2026SESSION
+26-2009
+08/09
+427-FN
+SENATEBILL
+ANACT relativetothejointcommitteeonemployeeclassification.
+SPONSORS: Sen.Lang,Dist2;Sen.Rosenwald,Dist13;Sen.McGough,Dist11;Rep.Schmidt,
+Straf.14
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill revises salaries for certain unclassified state employees. This bill is a request of the
+jointcommitteeonemployeeclassification.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB427-FN-ASINTRODUCED
+26-2009
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothejointcommitteeonemployeeclassification.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StateOfficers;PositionsEliminated. AmendRSA94:1-a,I(b)bydeletingthefollowing:
+2 FF Departmentofhealthandhumanservices directoroflegalservicesdivisionforchildren,
+3 youthandfamilies
+4 GG Departmentofcorrections warden, New Hampshire correctional facility for
+5 women
+6 HH Departmentofcorrections warden,NorthernNewHampshirecorrections
+7 facility
+8 HH Departmentofsafety statefiremarshal
+9 HH Departmentofsafety director,divisionoffirestandardsandtraining
+10 andemergencymedicalservices
+11 II Departmentofcorrections warden,NewHampshirestateprison-men
+12 2 CompensationofCertainStateOfficers. AmendRSA94:1-a,I(b)byinsertingthefollowing:
+13 EE Departmentofhealthandhumanservices deputydirector,bureauoffacilities
+14 maintenanceandofficeservices
+15 GG Departmentofhealthandhumanservices directoroflegalservicesdivisionforchildren,
+16 youthandfamilies
+17 GG Insurancedepartment assistantcommissioner
+18 HH Departmentofcorrections warden, New Hampshire correctional facility for
+19 women
+20 II Departmentofcorrections warden,NorthernNewHampshirecorrections
+21 facility
+22 II Departmentofsafety statefiremarshal
+23 II Departmentofsafety director,divisionoffirestandardsandtraining
+24 andemergencymedicalservice
+25 JJ Departmentofcorrections deputywarden,NewHampshirestateprison-
+26 men
+27 KK Departmentofcorrections warden,NewHampshirestateprison-men
+28 3 Salary Adjustment for Recruitment or Retention. Amend RSA 94:3-b, II(b)-(d) to read as
+29 follows:
+30 (b) Associatemedicalexaminer,departmentofjustice,$160,000-[$240,000]$300,000
+31 (c) Deputychiefmedicalexaminer,departmentofjustice,$200,000-[$260,000]$320,000
+
+SB427-FN-ASINTRODUCED
+-Page2-
+1 (d) Chiefmedicalexaminer,departmentofjustice,$210,000-[$300,000]$350,000
+2 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2009
+11/16/25
+SB427-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothejointcommitteeonemployeeclassification.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFundandVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill revises salaries for certain unclassified state employees. This bill is a request of the
+joint committee on employee classification (JCEC). The bill will amend RSA 94:1-a to update it
+withthepositionclassifications approvedbytheJCEC. Totheextentthepositionclassifications
+approved by the JCEC results in higher salaries, there will be an increase in state expenditures
+in the current and future operating budgets. Any increased expenditures in the current
+biennium will be funded by funds available due to positions eliminated, vacancies within the
+agency or with funds from the salary adjustment fund. Any increased expenditures in future
+bienniawillbeincludedintheagencyoperatingbudgetrequests.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B4N-ASI6SEBNATretotejtceoneec:S.L,Dt2;S.R,Dt1;S.M,Dt1;R.S.1:EeDsadAsblrsssfrcnudsee.Tsblisartofttceoneec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotejtceoneeceitEdbyteSeadHeofRsinGlCtc1SeO;PsE.AdRA9,I)bydgtefFFDtofhhadhnssdrofllssdnfrcyhadfGGDtofcsw,NwHeclfyfwHHDtofcsw,NnNwHecfHHDtofsysefemHHDtofsyd,dnoffessadt0adeymls1IIDtofcsw,NwHesepn-m22CnofCnSeO.AdRA9,I)byigtef3EEDtofhhadhnssdyd,buoff4meadoes5GGDtofhhadhnssdrofllssdnfrc6yhadf7GGIedtatc8HHDtofcsw,NwHeclfyf9w0IIDtofcsw,NnNwHec1f2IIDtofsysefem3IIDtofsyd,dnoffessadt4adeymls5JJDtofcsdyw,NwHesepn6m7KKDtofcsw,NwHesepn-m83SyAtfrRtorR.AdRA9,I)torda9f0()Aemle,dtofj,$]$1()Dycfmle,dtofj,$]$]
+[DELETED: B4N-ASIPe2()Cfmle,dtofj,$]$4EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretotejtceoneecLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IgSlFdadVsAyF0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblrsssfrcnudsee.Tsblisartofttceoneecn(.TeblwladRA9atoueihtepncsadbyteJ.ToteettepncdbyteJCrsinhrs,tewlbeanieinseentectadfeogb.Ayidesintecmwlbefdbyfsaedetopse,vswntyorwhfsfmtesyatf.AyidesinfawlbeidinteayogbtrSC]

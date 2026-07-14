@@ -1,0 +1,291 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB612-FN-ASINTRODUCED
+2026SESSION
+26-2207
+05/08
+612-FN
+ANACT relativeto clinical eligibility criteria for nursing facility and home and community
+basedcare.
+SPONSORS: Sen.Avard,Dist12
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies long-term care eligibility by adding mobility to the list of activities of daily
+living. Thebillalsorequiresthedepartmentofhealthandhumanservicestoobtainadetermination
+of an applicant’s need for long term care from the applicant or participant’s primary care physician,
+physician assistant, or advanced practice registered nurse, and to consider information from other
+healthcareproviders.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB612-FN-ASINTRODUCED
+26-2207
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativeto clinical eligibility criteria for nursing facility and home and community
+basedcare.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Long-TermCare;Eligibility. AmendRSA151-E:3toreadasfollows:
+2 151-E:3 Eligibility.
+3 I. A person is [medicaid] Medicaid eligible for nursing facility services or Medicaid home
+4 andcommunity-basedcarewaiverservicesifthepersonis:
+5 (a) Clinically eligible for nursing facility care because the person requires 24-hour care
+6 foroneormoreofthefollowingpurposes:
+7 (1) Medical monitoring and nursing care when the skills of a licensed medical
+8 professionalareneededtoprovidesafeandeffectiveservices;
+9 (2) Restorativenursingorrehabilitativecarewithpatient-specificgoals;
+10 (3) Medication administration by oral, topical, intravenous, intramuscular, or
+11 subcutaneous injection, or intravenous feeding for treatment of recent or unstable conditions
+12 requiringmedicalornursingintervention;or
+13 (4) Assistance with 2 or more activities of daily living [involving] which include
+14 but are not limited to eating, toileting, transferring, mobility, bathing, dressing, and continence.
+15 Forpurposesofthissection“mobility”meanstheneedtobephysicallysteadied,assisted,or
+16 guided in ambulation, or unable to propel a wheelchair alone or appropriately and
+17 requiretheassistanceofanotherperson;and
+18 (b) Financiallyeligibleaseither:
+19 (1) Categorically needy, as calculated pursuant to rules adopted by the department
+20 underRSA541-A;or
+21 (2) Medically needy, as calculated pursuant to rules adopted by the department
+22 underRSA541-A.
+23 II. Skilled professional medical personnel employed by or designated to act on behalf of the
+24 department shall determine clinical eligibility in accordance with the criteria in subparagraph I(a).
+25 The clinical eligibility determination shall be based upon an assessment tool, approved by the
+26 department, performed by skilled professional medical personnel employed by the department, or by
+27 an individual with equivalent training designated by the department. The department shall train
+28 all persons performing the assessment to use the assessment tool. For the purposes of this section,
+29 "skilled professional medical personnel" shall have the same meaning as in 42 C.F.R. section
+30 [432.50(d)(1)(ii)]432.2.
+SB612-FN-ASINTRODUCED
+-Page2-
+1 II-a. SubjecttowrittenapprovalbytheCenterforMedicareandMedicaidServices,financial
+2 eligibility rules in paragraph II shall include eligibility if the person's countable income is at or
+3 below the nursing facility special income standard, as defined in 42 C.F.R. 435.236, for the Medicaid
+4 program or the person incurs allowable medical expenses each month, including the anticipated cost
+5 of waiver services, which when deducted from the individual's income would reduce the individual's
+6 income to an amount that is no higher than the nursing facility special income standard. The
+7 department shall submit a request for such approval within 30 days of the effective date of this
+8 paragraph.
+9 III. [Repealed.]
+10 IV. If the skilled professional medical personnel employed by or designated to act on behalf
+11 of the department are unable to determine that an applicant is eligible following the clinical
+12 assessment tool pursuant to paragraph II, the [skilled professional medical personnel] department
+13 shall obtain a determination for the need for long-term care from the applicant’s primary
+14 care physician, physician assistant, or advanced practice registered nurse. The
+15 department shall request information from and give substantial weight to other clinical
+16 informationprovidedbytheapplicant's[physicianornursepractitioner,including,butnotlimitedto
+17 diagnosis, prognosis, and plan of care recommendations, and consider information from other
+18 licensed practitioners, including occupational or physical therapists, if available. All clinical
+19 information obtained shall also be used in the preparation of the initial support plan] other known
+20 health care providers, including but not limited to specialty care physicians, case
+21 management providers, or occupational or physical therapists, including diagnosis,
+22 prognosis, and plan of care recommendations. All clinical information obtained by the
+23 department shall be reviewed by skilled professional medical personnel employed by or
+24 designatedtoactonbehalfofthedepartmentforaneligibilitydecision.
+25 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2207
+11/17/25
+SB612-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativeto clinical eligibility criteria for nursing facility and home and community
+basedcare.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s)
+$2.5million+ $2.5million+ $2.5million+
+(halfgeneral (halfgeneral (halfgeneral
+Expenditures* $0
+funds,half funds,half funds,half
+federalfunds) federalfunds) federalfunds)
+FundingSource(s) GeneralFund,FederalFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+ThisbillmodifiesRSA151-E:3,relativetolong-termcareeligibility,by:
+(1)Addingmobilitytothelistofactivitiesofdailyliving;and
+(2) Changing how eligibility for long-term care is determined and redetermined by requiring the
+DepartmentofHealthandHumanServicestogetadeterminationofanapplicant’sneedforlong
+termcarefromtheapplicantorparticipant’sprimarycarephysicianornursepractitioner;
+In response to a similar bill from the 2025 session (SB 125), the Department estimated that
+adding mobility as an activity of daily living would cost $2.5 million or more per year, which
+would be paid for with 50 percent federal funds and 50 percent general funds. For the purposes
+of this fiscal note, the Office of the Legislative Budget Assistant assumes the cost of the current
+billwillbethesame.
+With respect to (2), the Department notes that it already seeks medical information from an
+applicant’s primary care provider if they have one. The Department notes that the bill may
+result in situations in which it is unable to issue a denial of clinical eligibility, either because a
+primary care provider has failed to respond or because the individual lacks a primary care
+provider. Failing to issue a denial of clinical eligibility will result in delays to processing
+applications, which may result in the Department failing to meet the federal requirement that
+determinations be made within 45 days of the application. The Department therefore contends
+that this requirement could potentially put federal financial participation for Medicaid in
+jeopardy. Since the Department does not otherwise expect this change to cost money to
+implement, this provision will have no cost as long as there is no federal penalty for failing to
+meeteligibilitydeterminationdeadlines.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B6N-ASI6SEBNATretocleycafrngfyadheadcdc:S.A,Dt1:HhadHnSsblmslmceeybyagmytoteltofasofd.Teblaorstedtofhhadhnsstoonadfanasndfrlgtmcefmteatorpspycepna,oradperdn,adtocrinfmohcep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretocleycafrngfyadheadcdceitEdbyteSeadHeofRsinGlCtc1LmC;E.AdRA13tordasf13EI.Apnis[]MdeefrngfyssorMdhadcdcewrssiftepni()Cyeefrngfycebetepnrs2rcfroeormeoftefgp()Mlmgadngcewntessofaldmplaendtopeseadees()Rengorrecewhpcg0()Mnanbyo,t,i,i,o1ssi,orisfgfrttofrtoruec2rgmlorngi;o3()Aewh2ormeasofdylg[]whi4btaentldtoe,t,t,m,b,d,adc5Frpsoftssn“”mstendtobepys,a,o6gdina,oruetoplawraeoraya7reteaeofarp;a8()Fyeease9()Cyn,ascdpttorsadbyted0urRA5;o1()Myn,ascdpttorsadbyted2urRA53I.Sdplmlpledbyorddtoatonbfoft4dtsldecleyinaewhtecainshI5Tecleydnslbebdunanatt,adbyt6d,pdbysdplmlpledbyted,orb7anilwhettgddbyted.Tedtslt8alpspgteattoueteatt.Frtepsoftss9"dplmlp"slhetesemgasin42C.s0[]4]
+[DELETED: B6N-ASIPe2I.SttownalbyteCrfrMeadMdS,feyrsinphIIslieeyiftepsceieisatobwtengfyslies,asddin42C.4,frteMpmortepnisaemlesehm,igteadcofwrs,whwnddfmteisiewdreteiietoanatttisnohrtntengfyslies.Tdtslstartfrshalwn30dsofteeedeoftpI.[0I.Iftesdplmlpledbyorddtoatonb1oftedtaeuetodettanatiseefgtec2attlpttophI,te[dplmlp]d3slonadnfrtendfrlmcefmteasp4cep,pna,oradperdn.T5dtslrtinfmadgeslwttoorc6inpdbyteas[nornep,i,btntldt7d,p,adpnofcer,adcrinfmo8ldp,igolorplt,ifa.Alc9inodslaobeudintepnofteilstp]ork0hhcep,igbtntldtosycep,c1mtp,orolorplt,igd2p,adpnofcer.Alclinodbyt3dtslberdbysdplmlpledbyo4ddtoatonbfoftedtfraneyd52EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATretocleycafrngfyadheadcdcLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF5m+$5m+$5mfgl(fgl(fg,hff,hff,hlf)flf)flfgSlFFlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblmsRA1,retolmcee,b)Agmytoteltofasofdyl;a)CghweyfrlmceisddadrdbyrgttofHhadHnSstogtadnofanasndfrlmcefmteatorpspycepnornepnretoasrblfmte25sn(B1,teDtedtgmyasanayofdylgwdct$5mnormepry,wdbepdfrwh50ptflfsad50ptglf.Frtepftsfln,teOeofteLeBtAtastectofteclwlbeteshrtto(,teDtnsttitayssmlinfmaspycepriftyheo.TeDtnsttteblmtinssinwhitisuetoieadlofcle,erbeyceprhsfdtordorbeteillsapyc.Fgtoieadlofcleywlrtindstop]
+[DELETED: ,whmyrtinteDtfgtomtteflrttsbemewn45dsoftea.TeDttecttsrtcdpyptflflpnfrMdi.SeteDtdsntoeettscetoctmyt,tspnwlhenoctaslgasteisnoflpyfrfgtteydndSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB612-FN-ASINTRODUCED
+2026SESSION
+26-2207
+05/08
+612-FN
+SENATEBILL
+ANACT relativeto clinical eligibility criteria for nursing facility and home and community
+basedcare.
+SPONSORS: Sen.Avard,Dist12
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies long-term care eligibility by adding mobility to the list of activities of daily
+living. Thebillalsorequiresthedepartmentofhealthandhumanservicestoobtainadetermination
+of an applicant’s need for long term care from the applicant or participant’s primary care physician,
+physician assistant, or advanced practice registered nurse, and to consider information from other
+healthcareproviders.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB612-FN-ASINTRODUCED
+26-2207
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativeto clinical eligibility criteria for nursing facility and home and community
+basedcare.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Long-TermCare;Eligibility. AmendRSA151-E:3toreadasfollows:
+2 151-E:3 Eligibility.
+3 I. A person is [medicaid] Medicaid eligible for nursing facility services or Medicaid home
+4 andcommunity-basedcarewaiverservicesifthepersonis:
+5 (a) Clinically eligible for nursing facility care because the person requires 24-hour care
+6 foroneormoreofthefollowingpurposes:
+7 (1) Medical monitoring and nursing care when the skills of a licensed medical
+8 professionalareneededtoprovidesafeandeffectiveservices;
+9 (2) Restorativenursingorrehabilitativecarewithpatient-specificgoals;
+10 (3) Medication administration by oral, topical, intravenous, intramuscular, or
+11 subcutaneous injection, or intravenous feeding for treatment of recent or unstable conditions
+12 requiringmedicalornursingintervention;or
+13 (4) Assistance with 2 or more activities of daily living [involving] which include
+14 but are not limited to eating, toileting, transferring, mobility, bathing, dressing, and continence.
+15 Forpurposesofthissection“mobility”meanstheneedtobephysicallysteadied,assisted,or
+16 guided in ambulation, or unable to propel a wheelchair alone or appropriately and
+17 requiretheassistanceofanotherperson;and
+18 (b) Financiallyeligibleaseither:
+19 (1) Categorically needy, as calculated pursuant to rules adopted by the department
+20 underRSA541-A;or
+21 (2) Medically needy, as calculated pursuant to rules adopted by the department
+22 underRSA541-A.
+23 II. Skilled professional medical personnel employed by or designated to act on behalf of the
+24 department shall determine clinical eligibility in accordance with the criteria in subparagraph I(a).
+25 The clinical eligibility determination shall be based upon an assessment tool, approved by the
+26 department, performed by skilled professional medical personnel employed by the department, or by
+27 an individual with equivalent training designated by the department. The department shall train
+28 all persons performing the assessment to use the assessment tool. For the purposes of this section,
+29 "skilled professional medical personnel" shall have the same meaning as in 42 C.F.R. section
+30 [432.50(d)(1)(ii)]432.2.
+
+SB612-FN-ASINTRODUCED
+-Page2-
+1 II-a. SubjecttowrittenapprovalbytheCenterforMedicareandMedicaidServices,financial
+2 eligibility rules in paragraph II shall include eligibility if the person's countable income is at or
+3 below the nursing facility special income standard, as defined in 42 C.F.R. 435.236, for the Medicaid
+4 program or the person incurs allowable medical expenses each month, including the anticipated cost
+5 of waiver services, which when deducted from the individual's income would reduce the individual's
+6 income to an amount that is no higher than the nursing facility special income standard. The
+7 department shall submit a request for such approval within 30 days of the effective date of this
+8 paragraph.
+9 III. [Repealed.]
+10 IV. If the skilled professional medical personnel employed by or designated to act on behalf
+11 of the department are unable to determine that an applicant is eligible following the clinical
+12 assessment tool pursuant to paragraph II, the [skilled professional medical personnel] department
+13 shall obtain a determination for the need for long-term care from the applicant’s primary
+14 care physician, physician assistant, or advanced practice registered nurse. The
+15 department shall request information from and give substantial weight to other clinical
+16 informationprovidedbytheapplicant's[physicianornursepractitioner,including,butnotlimitedto
+17 diagnosis, prognosis, and plan of care recommendations, and consider information from other
+18 licensed practitioners, including occupational or physical therapists, if available. All clinical
+19 information obtained shall also be used in the preparation of the initial support plan] other known
+20 health care providers, including but not limited to specialty care physicians, case
+21 management providers, or occupational or physical therapists, including diagnosis,
+22 prognosis, and plan of care recommendations. All clinical information obtained by the
+23 department shall be reviewed by skilled professional medical personnel employed by or
+24 designatedtoactonbehalfofthedepartmentforaneligibilitydecision.
+25 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2207
+11/17/25
+SB612-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativeto clinical eligibility criteria for nursing facility and home and community
+basedcare.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s)
+$2.5million+ $2.5million+ $2.5million+
+(halfgeneral (halfgeneral (halfgeneral
+Expenditures* $0
+funds,half funds,half funds,half
+federalfunds) federalfunds) federalfunds)
+FundingSource(s) GeneralFund,FederalFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+ThisbillmodifiesRSA151-E:3,relativetolong-termcareeligibility,by:
+(1)Addingmobilitytothelistofactivitiesofdailyliving;and
+(2) Changing how eligibility for long-term care is determined and redetermined by requiring the
+DepartmentofHealthandHumanServicestogetadeterminationofanapplicant’sneedforlong
+termcarefromtheapplicantorparticipant’sprimarycarephysicianornursepractitioner;
+In response to a similar bill from the 2025 session (SB 125), the Department estimated that
+adding mobility as an activity of daily living would cost $2.5 million or more per year, which
+would be paid for with 50 percent federal funds and 50 percent general funds. For the purposes
+of this fiscal note, the Office of the Legislative Budget Assistant assumes the cost of the current
+billwillbethesame.
+With respect to (2), the Department notes that it already seeks medical information from an
+applicant’s primary care provider if they have one. The Department notes that the bill may
+result in situations in which it is unable to issue a denial of clinical eligibility, either because a
+primary care provider has failed to respond or because the individual lacks a primary care
+provider. Failing to issue a denial of clinical eligibility will result in delays to processing
+
+applications, which may result in the Department failing to meet the federal requirement that
+determinations be made within 45 days of the application. The Department therefore contends
+that this requirement could potentially put federal financial participation for Medicaid in
+jeopardy. Since the Department does not otherwise expect this change to cost money to
+implement, this provision will have no cost as long as there is no federal penalty for failing to
+meeteligibilitydeterminationdeadlines.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B6N-ASI6SEBNATretocleycafrngfyadheadcdc:S.A,Dt1:HhadHnSsblmslmceeybyagmytoteltofasofd.Teblaorstedtofhhadhnsstoonadfanasndfrlgtmcefmteatorpspycepna,oradperdn,adtocrinfmohcep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretocleycafrngfyadheadcdceitEdbyteSeadHeofRsinGlCtc1LmC;E.AdRA13tordasf13EI.Apnis[]MdeefrngfyssorMdhadcdcewrssiftepni()Cyeefrngfycebetepnrs2rcfroeormeoftefgp()Mlmgadngcewntessofaldmplaendtopeseadees()Rengorrecewhpcg0()Mnanbyo,t,i,i,o1ssi,orisfgfrttofrtoruec2rgmlorngi;o3()Aewh2ormeasofdylg[]whi4btaentldtoe,t,t,m,b,d,adc5Frpsoftssn“”mstendtobepys,a,o6gdina,oruetoplawraeoraya7reteaeofarp;a8()Fyeease9()Cyn,ascdpttorsadbyted0urRA5;o1()Myn,ascdpttorsadbyted2urRA53I.Sdplmlpledbyorddtoatonbfoft4dtsldecleyinaewhtecainshI5Tecleydnslbebdunanatt,adbyt6d,pdbysdplmlpledbyted,orb7anilwhettgddbyted.Tedtslt8alpspgteattoueteatt.Frtepsoftss9"dplmlp"slhetesemgasin42C.s0[]4]
+[DELETED: B6N-ASIPe2I.SttownalbyteCrfrMeadMdS,feyrsinphIIslieeyiftepsceieisatobwtengfyslies,asddin42C.4,frteMpmortepnisaemlesehm,igteadcofwrs,whwnddfmteisiewdreteiietoanatttisnohrtntengfyslies.Tdtslstartfrshalwn30dsofteeedeoftpI.[0I.Iftesdplmlpledbyorddtoatonb1oftedtaeuetodettanatiseefgtec2attlpttophI,te[dplmlp]d3slonadnfrtendfrlmcefmteasp4cep,pna,oradperdn.T5dtslrtinfmadgeslwttoorc6inpdbyteas[nornep,i,btntldt7d,p,adpnofcer,adcrinfmo8ldp,igolorplt,ifa.Alc9inodslaobeudintepnofteilstp]ork0hhcep,igbtntldtosycep,c1mtp,orolorplt,igd2p,adpnofcer.Alclinodbyt3dtslberdbysdplmlpledbyo4ddtoatonbfoftedtfraneyd52EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSINATretocleycafrngfyadheadcdcLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF5m+$5m+$5mfgl(fgl(fg,hff,hff,hlf)flf)flfgSlFFlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblmsRA1,retolmcee,b)Agmytoteltofasofdyl;a)CghweyfrlmceisddadrdbyrgttofHhadHnSstogtadnofanasndfrlmcefmteatorpspycepnornepnretoasrblfmte25sn(B1,teDtedtgmyasanayofdylgwdct$5mnormepry,wdbepdfrwh50ptflfsad50ptglf.Frtepftsfln,teOeofteLeBtAtastectofteclwlbeteshrtto(,teDtnsttitayssmlinfmaspycepriftyheo.TeDtnsttteblmtinssinwhitisuetoieadlofcle,erbeyceprhsfdtordorbeteillsapyc.Fgtoieadlofcleywlrtindstop]
+[DELETED: ,whmyrtinteDtfgtomtteflrttsbemewn45dsoftea.TeDttecttsrtcdpyptflflpnfrMdi.SeteDtdsntoeettscetoctmyt,tspnwlhenoctaslgasteisnoflpyfrfgtteydndSCtofHhadHnS]

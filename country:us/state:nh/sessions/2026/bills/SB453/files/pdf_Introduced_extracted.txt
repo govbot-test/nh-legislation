@@ -1,0 +1,120 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB453 -ASINTRODUCED
+2026SESSION
+26-2006
+09/05
+453
+ANACT authorizing advanced practice registered nurses and physician associates to make
+certaincertifications.
+SPONSORS: Sen.Prentiss,Dist5;Sen.Rosenwald,Dist13;Sen.Watters,Dist4;Sen.Birdsell,
+Dist19;Sen.Avard,Dist12;Sen.Perkins Kwoka,Dist21;Sen.Lang,Dist2; Sen.
+Gannon, Dist 23; Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Sullivan, Dist 18;
+Sen. McGough, Dist 11; Sen. Murphy, Dist 16; Sen. Innis, Dist 7; Sen. Rochefort,
+Dist1;Sen.Fenton,Dist10
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds advanced practice registered nurses and physician associates as medical professionals
+whocan:
+I. Document a lasting medical necessity, which allows for a vehicle equipment waiver for
+personswithdisabilitiestobegrantedfor4yearsinsteadof2years;and
+II. Exempt a child from certain required immunizations if they find that the immunization may
+bedetrimentaltothechild'shealth.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB453-ASINTRODUCED
+26-2006
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing advanced practice registered nurses and physician associates to make
+certaincertifications.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 EquipmentWaiverforDisabled. AmendRSA266:61-a,VIItoreadasfollows:
+2 VII. The waiver granted by the commissioner or his designee shall be for a period not to
+3 exceed 2 years; except in any case where a licensed physician, advanced practice registered
+4 nurse licensed under RSA 326-B, or physician associate licensed under RSA 329-D
+5 documents a lasting medical necessity, in which case the waiver shall be for a period not to exceed 4
+6 years. Theapplicantmayreapplyforthewaiverbeforesuchperiodexpires.
+7 2 Communicable Disease; Immunization Exemption. Amend RSA 141-C:20-c, I to read as
+8 follows:
+9 I. A physician licensed under RSA 329, or a physician exempted under RSA 329:21, III, an
+10 advanced practice registered nurse licensed under RSA 326-B, or a physician associate
+11 licensed under RSA 329-D certifies that immunization against a particular disease may be
+12 detrimental to the child's health. The exemption shall exist only for the length of time, in the
+13 opinion of the physician, advanced practice registered nurse, or physician associate, such
+14 immunization would be detrimental to the child. An exemption from immunization for one disease
+15 shallnotaffectotherrequiredimmunizations.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B43-ASI6SEBNATagadperdnsadpnastomnc:S.P,Dt5;S.R,Dt1;S.W,Dt4;S.Bt1;S.A,Dt1;S.PsK,Dt2;S.L,Dt2;S,Dt2;S.P,Dt1;S.W,Dt8;S.S,Dt1.M,Dt1;S.M,Dt1;S.I,Dt7;S.Rt1;S.F,Dt1:HhadHnSsblasadperdnsadpnasasmlpoc.Dtalgmln,whasfraveetwrfswhdstobegdfr4ysidof2y;a.Etacdfmcnrdisiftyfdttteinmedltotecsh-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B43-ASIEOFNWHnteYrofOrLdToTdTNATagadperdnsadpnastomnceitEdbyteSeadHeofRsinGlCtc1EtWrfrD.AdRA2,VItordasfV.Tewrgdbytecrorhsdeslbefrapdntted2y;etinaycewealdp,adperneldurRA3,orpnaeldurRA3dsalgmln,inwhcetewrslbefrapdnttoedy.Teatmyryfrtewrbeshpde2CeD;InE.AdRA1,ItordafI.ApnldurRA3,orapnedurRA3,I,a0adperdneldurRA3,orapna1ldurRA3Dcsttinataprdemyb2dltotecsh.Teensletoyfrtelhoft,int3onoftep,adperdn,orpna,s4inwdbedltotec.Anenfminfroed5slntatorrdi63EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB453 -ASINTRODUCED
+2026SESSION
+26-2006
+09/05
+453
+SENATEBILL
+ANACT authorizing advanced practice registered nurses and physician associates to make
+certaincertifications.
+SPONSORS: Sen.Prentiss,Dist5;Sen.Rosenwald,Dist13;Sen.Watters,Dist4;Sen.Birdsell,
+Dist19;Sen.Avard,Dist12;Sen.Perkins Kwoka,Dist21;Sen.Lang,Dist2; Sen.
+Gannon, Dist 23; Sen. Pearl, Dist 17; Sen. Ward, Dist 8; Sen. Sullivan, Dist 18;
+Sen. McGough, Dist 11; Sen. Murphy, Dist 16; Sen. Innis, Dist 7; Sen. Rochefort,
+Dist1;Sen.Fenton,Dist10
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds advanced practice registered nurses and physician associates as medical professionals
+whocan:
+I. Document a lasting medical necessity, which allows for a vehicle equipment waiver for
+personswithdisabilitiestobegrantedfor4yearsinsteadof2years;and
+II. Exempt a child from certain required immunizations if they find that the immunization may
+bedetrimentaltothechild'shealth.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB453-ASINTRODUCED
+26-2006
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing advanced practice registered nurses and physician associates to make
+certaincertifications.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 EquipmentWaiverforDisabled. AmendRSA266:61-a,VIItoreadasfollows:
+2 VII. The waiver granted by the commissioner or his designee shall be for a period not to
+3 exceed 2 years; except in any case where a licensed physician, advanced practice registered
+4 nurse licensed under RSA 326-B, or physician associate licensed under RSA 329-D
+5 documents a lasting medical necessity, in which case the waiver shall be for a period not to exceed 4
+6 years. Theapplicantmayreapplyforthewaiverbeforesuchperiodexpires.
+7 2 Communicable Disease; Immunization Exemption. Amend RSA 141-C:20-c, I to read as
+8 follows:
+9 I. A physician licensed under RSA 329, or a physician exempted under RSA 329:21, III, an
+10 advanced practice registered nurse licensed under RSA 326-B, or a physician associate
+11 licensed under RSA 329-D certifies that immunization against a particular disease may be
+12 detrimental to the child's health. The exemption shall exist only for the length of time, in the
+13 opinion of the physician, advanced practice registered nurse, or physician associate, such
+14 immunization would be detrimental to the child. An exemption from immunization for one disease
+15 shallnotaffectotherrequiredimmunizations.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B43-ASI6SEBNATagadperdnsadpnastomnc:S.P,Dt5;S.R,Dt1;S.W,Dt4;S.Bt1;S.A,Dt1;S.PsK,Dt2;S.L,Dt2;S,Dt2;S.P,Dt1;S.W,Dt8;S.S,Dt1.M,Dt1;S.M,Dt1;S.I,Dt7;S.Rt1;S.F,Dt1:HhadHnSsblasadperdnsadpnasasmlpoc.Dtalgmln,whasfraveetwrfswhdstobegdfr4ysidof2y;a.Etacdfmcnrdisiftyfdttteinmedltotecsh-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B43-ASIEOFNWHnteYrofOrLdToTdTNATagadperdnsadpnastomnceitEdbyteSeadHeofRsinGlCtc1EtWrfrD.AdRA2,VItordasfV.Tewrgdbytecrorhsdeslbefrapdntted2y;etinaycewealdp,adperneldurRA3,orpnaeldurRA3dsalgmln,inwhcetewrslbefrapdnttoedy.Teatmyryfrtewrbeshpde2CeD;InE.AdRA1,ItordafI.ApnldurRA3,orapnedurRA3,I,a0adperdneldurRA3,orapna1ldurRA3Dcsttinataprdemyb2dltotecsh.Teensletoyfrtelhoft,int3onoftep,adperdn,orpna,s4inwdbedltotec.Anenfminfroed5slntatorrdi63EeD.Tsatslteet60dsarisp]

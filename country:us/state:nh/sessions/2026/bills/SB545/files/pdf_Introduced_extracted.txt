@@ -1,0 +1,180 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB545-FN-ASINTRODUCED
+2026SESSION
+26-2127
+05/08
+545-FN
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Long, Dist 20; Sen. Fenton, Dist 10; Sen. Watters,
+Dist4;Sen.PerkinsKwoka,Dist21;Sen.Altschiller,Dist24;Rep.Wallner,Merr.
+19; Rep. Weber, Ches. 5; Rep. Telerski, Hills. 11; Rep. Hakken-Phillips, Graf. 12;
+Rep.Nagel,Belk.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the resource limit for the Medicare savings program and, subject to CMS
+approval, makes the low income subsidy for Medicare Part D available to residents to assist with
+prescriptiondrugcosts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB545-FN-ASINTRODUCED
+26-2127
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownas"TheHelpforLowIncomeSeniorsActof2026".
+2 2 New Section; Financial Eligibility for Medicare Savings Program. Amend RSA 167 by
+3 insertingaftersection4-fthefollowingnewsection:
+4 167:4-g MedicareSavingsProgram.
+5 I. The department shall administer the Medicare savings program as described in 42 U.S.C.
+6 section1396a(a)(10)(E)inaccordancewithfederallawandthissection.
+7 II. FinancialeligibilityfortheMedicaresavingsprogramshall:
+8 (a) Includearesourcedisregard,therebyeliminatingtheresourcetest;and
+9 (b) SubjecttoCMSapproval,makethelowincomesubsidyforMedicarePartDavailable
+10 toresidentstoassistwithprescriptiondrugcosts.
+11 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2127
+Revised1/12/26
+SB545-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$2.3million $2.3million $2.3million
+generalfunds; generalfunds; generalfunds;
+Expenditures* $0
+$3.6million $3.6million $3.6million
+federalfunds federalfunds federalfunds
+FundingSource(s) Generalfunds;federalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill removes asset limits for the Medicare Savings Program and, subject to approval by the
+federal Centers for Medicare and Medicaid Services (CMS), makes the low income subsidy for
+Medicare Part D available to residents to assist with prescription drug costs. Per the
+Department of Health and Human Services, there are multiple groups within the Medicare
+Savings Program, each with their own eligibility requirements. In the aggregate, removing the
+asset limits would result in an estimated 2,033 new individuals qualifying for the program,
+based on Department data detailing the number of people previously denied for being over the
+resource limit. Of these, 884arequalified Medicaid beneficiaries, for whom theDepartment will
+be responsible for paying an estimated $3,519 per year, and 1,149 are specified low-income
+beneficiaries, for whom the Department will be responsible for paying $2,436 per year. Total
+costsarethereforeexpectedtobe$5,909,760peryear. Sincethegeneralfund/federalfundsplit
+does not apply to all categories, the Department anticipates that $3,582,150 will be federal
+funds, with the remaining $2,327,610 a general fund expense. As the low-income subsidy for
+Medicare Part D is administered by the federal government, that aspect of the bill is not
+expectedtohaveastateimpact.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B5N-ASI6SEBNATretofleyfrteMessp:S.R,Dt1;S.L,Dt2;S.F,Dt1;S.Wt4;S.PsK,Dt2;S.A,Dt2;R.W,M;R.W,C.5;R.T,H.1;R.H,G.1.N,B.:HhadHnSsblrstereltfrteMesspma,sttoC,mstelwiesyfrMePtDaetorstoatwndgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretofleyfrteMesspeitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknas"eHpfrLwIeSsAtof22NwS;FlEyfrMeSsP.AdRA17bigarsn4ftefgnws1gMeSsPI.TedtslarteMesspmasddin42Usn1)inaewhfllwadtssI.FleyfrteMesspms()Ieared,tyegteret;a()SttoCSa,metelwiesyfrMePtDa0torstoatwhpndgc13EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATretofleyfrteMesspLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF3mn$3mn$3mlf;glf;glf6mn$6mn$6mlfsflfsflfgSlf;flf0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsatlsfrteMeSsPma,sttoalbytlCsfrMeadMdSs(,mstelwiesyfePtDaetorstoatwhpndgc.PrttofHhadHnS,teaemegswnteMsP,ehwhtroneyr.Intea,rgttlswdrtinaned23nwisqgfrtepdonDtdadgtenrofpepyddfrbgortel.Oft,84aeqdMdb,frwmteDtwerefrpganed$9pry,ad19aesdl,frwmteDtwlberefrpg$6pry.Tsaeteedtobe$0pry.Seteglfd/flfdssntaytoalc,teDtastt$0wlbef,whterg$0aglfde.AstelesyfePtDisadbyteflg,ttatofteblisndtoheaseiSC]
+[DELETED: tofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB545-FN-ASINTRODUCED
+2026SESSION
+26-2127
+05/08
+545-FN
+SENATEBILL
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Long, Dist 20; Sen. Fenton, Dist 10; Sen. Watters,
+Dist4;Sen.PerkinsKwoka,Dist21;Sen.Altschiller,Dist24;Rep.Wallner,Merr.
+19; Rep. Weber, Ches. 5; Rep. Telerski, Hills. 11; Rep. Hakken-Phillips, Graf. 12;
+Rep.Nagel,Belk.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the resource limit for the Medicare savings program and, subject to CMS
+approval, makes the low income subsidy for Medicare Part D available to residents to assist with
+prescriptiondrugcosts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB545-FN-ASINTRODUCED
+26-2127
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownas"TheHelpforLowIncomeSeniorsActof2026".
+2 2 New Section; Financial Eligibility for Medicare Savings Program. Amend RSA 167 by
+3 insertingaftersection4-fthefollowingnewsection:
+4 167:4-g MedicareSavingsProgram.
+5 I. The department shall administer the Medicare savings program as described in 42 U.S.C.
+6 section1396a(a)(10)(E)inaccordancewithfederallawandthissection.
+7 II. FinancialeligibilityfortheMedicaresavingsprogramshall:
+8 (a) Includearesourcedisregard,therebyeliminatingtheresourcetest;and
+9 (b) SubjecttoCMSapproval,makethelowincomesubsidyforMedicarePartDavailable
+10 toresidentstoassistwithprescriptiondrugcosts.
+11 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2127
+Revised1/12/26
+SB545-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+$2.3million $2.3million $2.3million
+generalfunds; generalfunds; generalfunds;
+Expenditures* $0
+$3.6million $3.6million $3.6million
+federalfunds federalfunds federalfunds
+FundingSource(s) Generalfunds;federalfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill removes asset limits for the Medicare Savings Program and, subject to approval by the
+federal Centers for Medicare and Medicaid Services (CMS), makes the low income subsidy for
+Medicare Part D available to residents to assist with prescription drug costs. Per the
+Department of Health and Human Services, there are multiple groups within the Medicare
+Savings Program, each with their own eligibility requirements. In the aggregate, removing the
+asset limits would result in an estimated 2,033 new individuals qualifying for the program,
+based on Department data detailing the number of people previously denied for being over the
+resource limit. Of these, 884arequalified Medicaid beneficiaries, for whom theDepartment will
+be responsible for paying an estimated $3,519 per year, and 1,149 are specified low-income
+beneficiaries, for whom the Department will be responsible for paying $2,436 per year. Total
+costsarethereforeexpectedtobe$5,909,760peryear. Sincethegeneralfund/federalfundsplit
+does not apply to all categories, the Department anticipates that $3,582,150 will be federal
+funds, with the remaining $2,327,610 a general fund expense. As the low-income subsidy for
+Medicare Part D is administered by the federal government, that aspect of the bill is not
+expectedtohaveastateimpact.
+AGENCIESCONTACTED:
+
+DepartmentofHealthandHumanServices
+
+[DELETED: B5N-ASI6SEBNATretofleyfrteMessp:S.R,Dt1;S.L,Dt2;S.F,Dt1;S.Wt4;S.PsK,Dt2;S.A,Dt2;R.W,M;R.W,C.5;R.T,H.1;R.H,G.1.N,B.:HhadHnSsblrstereltfrteMesspma,sttoC,mstelwiesyfrMePtDaetorstoatwndgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretofleyfrteMesspeitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknas"eHpfrLwIeSsAtof22NwS;FlEyfrMeSsP.AdRA17bigarsn4ftefgnws1gMeSsPI.TedtslarteMesspmasddin42Usn1)inaewhfllwadtssI.FleyfrteMesspms()Ieared,tyegteret;a()SttoCSa,metelwiesyfrMePtDa0torstoatwhpndgc13EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATretofleyfrteMesspLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF3mn$3mn$3mlf;glf;glf6mn$6mn$6mlfsflfsflfgSlf;flf0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsatlsfrteMeSsPma,sttoalbytlCsfrMeadMdSs(,mstelwiesyfePtDaetorstoatwhpndgc.PrttofHhadHnS,teaemegswnteMsP,ehwhtroneyr.Intea,rgttlswdrtinaned23nwisqgfrtepdonDtdadgtenrofpepyddfrbgortel.Oft,84aeqdMdb,frwmteDtwerefrpganed$9pry,ad19aesdl,frwmteDtwlberefrpg$6pry.Tsaeteedtobe$0pry.Seteglfd/flfdssntaytoalc,teDtastt$0wlbef,whterg$0aglfde.AstelesyfePtDisadbyteflg,ttatofteblisndtoheaseiSC]
+[DELETED: tofHhadHnS]

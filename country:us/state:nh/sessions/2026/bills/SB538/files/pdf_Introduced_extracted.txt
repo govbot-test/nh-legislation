@@ -1,0 +1,235 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB538-FN-ASINTRODUCED
+2026SESSION
+26-2118
+06/07
+538-FN
+ANACT extendingnetmeteringeligibilitytermsformunicipalenergyprojects.
+SPONSORS: Sen. Watters, Dist 4; Sen. Rosenwald, Dist 13; Sen. Fenton, Dist 10; Sen. Avard,
+Dist 12; Sen. Long, Dist 20; Sen. Prentiss, Dist 5; Sen. Altschiller, Dist 24; Sen.
+PerkinsKwoka,Dist21
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes long-term eligibility for certain customer-generators to receive net energy
+metering compensation under alternative tariffs approved by the public utilities commission. This
+billalsooutlinesconditionsfortransitioningtofuturetariffs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB538-FN-ASINTRODUCED
+26-2118
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT extendingnetmeteringeligibilitytermsformunicipalenergyprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. Through the passage of house bill 315 in 2021, the state of New Hampshire intended to
+3 makethebenefitsofgroupnetmeteringavailabletomunicipalitiesacrossthestate.
+4 II. Despite strong interest from municipalities throughout New Hampshire seeking to
+5 construct distributed energy resources for the benefit of their communities, unforseen
+6 interconnection delays have resulted in backlog, with many projects still waiting to come online. As
+7 the commercial operation date of these projects is pushed out, the available net metering term
+8 shrinksduetotheterminationofnetmeteringin2040undercurrentregulation. Withoutlegislative
+9 intervention,manymunicipalnetmeteringprojectswillceasetobeeconomicallyviable.
+10 III. The general court finds that a net metering term of 20 years is necessary for municipal
+11 projects to be financeable. Restoring a 20-year term for municipal net metering projects simply
+12 implements the intent of house bill 315 and ensures that cities and towns receive the benefits
+13 promisedtothemthroughthatlegislation.
+14 2 New Paragraph; Net Metering. Amend RSA 362-A:9 by inserting after paragraph II the
+15 followingnewparagraph:
+16 II-a. Each electric distribution utility shall make available alternative tariffs for net
+17 metering to eligible customer-generators in accordance with Order No. 26,029 dated June 23, 2017,
+18 and the net metering rules adopted by the commission. Any eligible customer-generator used to
+19 offsettheelectricityrequirementsofagroupconsistingexclusivelyofoneormorecustomerswhoare
+20 political subdivisions that first receives compensation under an Order No. 26,029 alternative tariff
+21 shall remain eligible to receive that tariff for the longer of 20 years from the first year in which
+22 compensation is received, or until January 1, 2040. If, during these terms, the commission adopts
+23 newnetmeteringtariffsthroughanadjudicatedproceeding,anyeligiblecustomer-generator usedto
+24 offsettheelectricityrequirementsofagroupconsistingexclusivelyofoneormorecustomerswhoare
+25 politicalsubdivisionsthatelectstoparticipateinanewnetmeteringtariffshallbeeligibletoreceive
+26 thattarifffor20yearsfromthefirstyearinwhichcompensationwasreceivedundereitheranOrder
+27 No. 26,029 alternative tariff or the new net metering tariff. Eligible customer-generators on an
+28 Order No. 26,029 alternative tariff may opt to transition to a new net metering tariff established in
+29 suchaproceeding,providedhowever,onceacustomer-generatortransitionstoanewtariff,theymay
+30 not revert to an Order No. 26,029 alternative tariff. Upon expiration of eligibility under an Order
+SB538-FN-ASINTRODUCED
+-Page2-
+1 No. 26,029 alternative tariff, an eligible customer-generator may transition to the tariff available at
+2 thattime.
+3 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2118
+Revised12/4/25
+SB538-FN-FISCALNOTE
+ASINTRODUCED
+ANACT extendingnetmeteringeligibilitytermsformunicipalenergyprojects.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $121,000 $125,000 $126,000
+FundingSource(s) RenewableEnergyFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s)
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill extends eligibility for certain municipal group net-metering projects to receive
+compensation under the Public Utilities Commission’s alternative net-metering tariffs for the
+longer of 20 years or until January 1, 2040. The bill also allows eligible municipal customer-
+generators to transition to any new net-metering tariff established by the Commission and
+receivethattarifffora20-yearterm.
+The Department of Energy states this bill will result in an increase in state expenditures
+beginning in FY 2027. The bill is expected to increase the number of group net-metering and
+municipal net-metering applications requiring review and processing, which the Department
+indicates cannot be absorbed within existing staffing. The Department anticipates the need for
+one full-time Business Specialist (SOC13-07). The estimated cost for this position is $121,000 in
+FY 2027, $125,000 in FY 2028 and $126,000 in FY 2029. These expenditures would be paid from
+theRenewableEnergyFund(REF).
+If these positions are authorized, it is assumed the funding for these positions would be included
+intheDepartment'sFY2028-FY2029budgetrequest.
+The Public Utilities Commission states they could absorb the new requirements within this bill
+intotheirexistingbudget.
+AGENCIESCONTACTED:
+DepartmentofEnergyandPublicUtilitiesCommission
+[DELETED: B5N-ASI6SEBNATegntmgeytsfrmleyp:S.W,Dt4;S.R,Dt1;S.F,Dt1;S.At1;S.L,Dt2;S.P,Dt5;S.A,Dt2;SsK,Dt2:EyadNlRsbleslmeyfrcncstorentegcnuraetsadbytepcusc.Tlaooscsfrtgtofet-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATegntmgeytsfrmleypeitEdbyteSeadHeofRsinGlCtc1FsadP.TeglctfstI.Thtepeofhebl35in2,teseofNwHeidtmetebsofgpntmgaetomsastesI.DesgitfmmsttNwHesgtctddeyrsfrtebtoftrc,uindsherdinb,whmypsslwgtoceo.Ateclondeoftepsispdo,teaentmgtssdetotetnofntmgin20urctr.Wtli,mymlntmgpswlcetobeeyv0I.Teglctfsttantmgtmof20ysisnyfrm1pstobef.Rga2rtmfrmlntmgpss2isteitofhebl35adesttcsadtsreteb3pdtotmthttl42NwP;NtM.AdRA39byigarphIIt5fgnwp6I.Ehecdnuyslmeaeaetsfrn7mgtoeecsinaewhOrN.29ddJe2,28adtentmgrsadbytec.Ayeecrudt9otteeyrsofagpcgeyofoeormecswoa0plssttftrscnuranOrN.29aet1slrneetoretttffrtelrof20ysfmteftyrinw2cnisr,orulJy1,2.I,dgtet,tecna3nwntmgtsthanadp,ayeecrudt4otteeyrsofagpcgeyofoeormecswoa5plssttestopeinanwntmgtfslbeeetor6tttffr20ysfmteftyrinwhcnwsrdureranO7N.29aetfortenwntmgt.Eecsona8OrN.29aetfmyottotntoanwntmgtfedi9shap,pdh,oeacrtstoanwt,tym0ntrttoanOrN.29aet.UnenofeyuranO]
+[DELETED: B5N-ASIPe2N.29aet,aneecrmytntotetfaeattt3EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATegntmgeytsfrmleypLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSeEyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0$0$0$sbleseyfrcnmlgpngpstornurtePcUsCsaengtsfrtrof20ysorulJy1,2.TeblaoaseemlcstotntoaynwngtfedbyteCnaetttffra2rteDtofEysstsblwlrtinanieinseeginFY2.Teblisedtoietenrofgpngalngasrgrwadp,whteDsctbeadwnegs.TeDtastendfefeBsSt(.Teedctfrtspnis$0i]
+[DELETED: Y2,$0inFY28ad$0inFY2.TeeswdbepdfeReEyFd(ftepsaea,itisadtefgfrtepswdbeinteDsFY28-FY29btrePcUsCnsstycdabtenwrswntsbotregbSCtofEyadPcUsC]
+
+
+================================================================================
+
+Raw Text:
+SB538-FN-ASINTRODUCED
+2026SESSION
+26-2118
+06/07
+538-FN
+SENATEBILL
+ANACT extendingnetmeteringeligibilitytermsformunicipalenergyprojects.
+SPONSORS: Sen. Watters, Dist 4; Sen. Rosenwald, Dist 13; Sen. Fenton, Dist 10; Sen. Avard,
+Dist 12; Sen. Long, Dist 20; Sen. Prentiss, Dist 5; Sen. Altschiller, Dist 24; Sen.
+PerkinsKwoka,Dist21
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes long-term eligibility for certain customer-generators to receive net energy
+metering compensation under alternative tariffs approved by the public utilities commission. This
+billalsooutlinesconditionsfortransitioningtofuturetariffs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB538-FN-ASINTRODUCED
+26-2118
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT extendingnetmeteringeligibilitytermsformunicipalenergyprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 FindingsandPurpose. Thegeneralcourtfindsthat:
+2 I. Through the passage of house bill 315 in 2021, the state of New Hampshire intended to
+3 makethebenefitsofgroupnetmeteringavailabletomunicipalitiesacrossthestate.
+4 II. Despite strong interest from municipalities throughout New Hampshire seeking to
+5 construct distributed energy resources for the benefit of their communities, unforseen
+6 interconnection delays have resulted in backlog, with many projects still waiting to come online. As
+7 the commercial operation date of these projects is pushed out, the available net metering term
+8 shrinksduetotheterminationofnetmeteringin2040undercurrentregulation. Withoutlegislative
+9 intervention,manymunicipalnetmeteringprojectswillceasetobeeconomicallyviable.
+10 III. The general court finds that a net metering term of 20 years is necessary for municipal
+11 projects to be financeable. Restoring a 20-year term for municipal net metering projects simply
+12 implements the intent of house bill 315 and ensures that cities and towns receive the benefits
+13 promisedtothemthroughthatlegislation.
+14 2 New Paragraph; Net Metering. Amend RSA 362-A:9 by inserting after paragraph II the
+15 followingnewparagraph:
+16 II-a. Each electric distribution utility shall make available alternative tariffs for net
+17 metering to eligible customer-generators in accordance with Order No. 26,029 dated June 23, 2017,
+18 and the net metering rules adopted by the commission. Any eligible customer-generator used to
+19 offsettheelectricityrequirementsofagroupconsistingexclusivelyofoneormorecustomerswhoare
+20 political subdivisions that first receives compensation under an Order No. 26,029 alternative tariff
+21 shall remain eligible to receive that tariff for the longer of 20 years from the first year in which
+22 compensation is received, or until January 1, 2040. If, during these terms, the commission adopts
+23 newnetmeteringtariffsthroughanadjudicatedproceeding,anyeligiblecustomer-generator usedto
+24 offsettheelectricityrequirementsofagroupconsistingexclusivelyofoneormorecustomerswhoare
+25 politicalsubdivisionsthatelectstoparticipateinanewnetmeteringtariffshallbeeligibletoreceive
+26 thattarifffor20yearsfromthefirstyearinwhichcompensationwasreceivedundereitheranOrder
+27 No. 26,029 alternative tariff or the new net metering tariff. Eligible customer-generators on an
+28 Order No. 26,029 alternative tariff may opt to transition to a new net metering tariff established in
+29 suchaproceeding,providedhowever,onceacustomer-generatortransitionstoanewtariff,theymay
+30 not revert to an Order No. 26,029 alternative tariff. Upon expiration of eligibility under an Order
+
+SB538-FN-ASINTRODUCED
+-Page2-
+1 No. 26,029 alternative tariff, an eligible customer-generator may transition to the tariff available at
+2 thattime.
+3 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2118
+Revised12/4/25
+SB538-FN-FISCALNOTE
+ASINTRODUCED
+ANACT extendingnetmeteringeligibilitytermsformunicipalenergyprojects.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $121,000 $125,000 $126,000
+FundingSource(s) RenewableEnergyFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s)
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill extends eligibility for certain municipal group net-metering projects to receive
+compensation under the Public Utilities Commission’s alternative net-metering tariffs for the
+longer of 20 years or until January 1, 2040. The bill also allows eligible municipal customer-
+generators to transition to any new net-metering tariff established by the Commission and
+receivethattarifffora20-yearterm.
+The Department of Energy states this bill will result in an increase in state expenditures
+beginning in FY 2027. The bill is expected to increase the number of group net-metering and
+municipal net-metering applications requiring review and processing, which the Department
+indicates cannot be absorbed within existing staffing. The Department anticipates the need for
+one full-time Business Specialist (SOC13-07). The estimated cost for this position is $121,000 in
+
+FY 2027, $125,000 in FY 2028 and $126,000 in FY 2029. These expenditures would be paid from
+theRenewableEnergyFund(REF).
+If these positions are authorized, it is assumed the funding for these positions would be included
+intheDepartment'sFY2028-FY2029budgetrequest.
+The Public Utilities Commission states they could absorb the new requirements within this bill
+intotheirexistingbudget.
+AGENCIESCONTACTED:
+DepartmentofEnergyandPublicUtilitiesCommission
+
+[DELETED: B5N-ASI6SEBNATegntmgeytsfrmleyp:S.W,Dt4;S.R,Dt1;S.F,Dt1;S.At1;S.L,Dt2;S.P,Dt5;S.A,Dt2;SsK,Dt2:EyadNlRsbleslmeyfrcncstorentegcnuraetsadbytepcusc.Tlaooscsfrtgtofet-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATegntmgeytsfrmleypeitEdbyteSeadHeofRsinGlCtc1FsadP.TeglctfstI.Thtepeofhebl35in2,teseofNwHeidtmetebsofgpntmgaetomsastesI.DesgitfmmsttNwHesgtctddeyrsfrtebtoftrc,uindsherdinb,whmypsslwgtoceo.Ateclondeoftepsispdo,teaentmgtssdetotetnofntmgin20urctr.Wtli,mymlntmgpswlcetobeeyv0I.Teglctfsttantmgtmof20ysisnyfrm1pstobef.Rga2rtmfrmlntmgpss2isteitofhebl35adesttcsadtsreteb3pdtotmthttl42NwP;NtM.AdRA39byigarphIIt5fgnwp6I.Ehecdnuyslmeaeaetsfrn7mgtoeecsinaewhOrN.29ddJe2,28adtentmgrsadbytec.Ayeecrudt9otteeyrsofagpcgeyofoeormecswoa0plssttftrscnuranOrN.29aet1slrneetoretttffrtelrof20ysfmteftyrinw2cnisr,orulJy1,2.I,dgtet,tecna3nwntmgtsthanadp,ayeecrudt4otteeyrsofagpcgeyofoeormecswoa5plssttestopeinanwntmgtfslbeeetor6tttffr20ysfmteftyrinwhcnwsrdureranO7N.29aetfortenwntmgt.Eecsona8OrN.29aetfmyottotntoanwntmgtfedi9shap,pdh,oeacrtstoanwt,tym0ntrttoanOrN.29aet.UnenofeyuranO]
+[DELETED: B5N-ASIPe2N.29aet,aneecrmytntotetfaeattt3EeD.Tsatslteet60dsarisp]
+[DELETED: d1B5-FLNSINATegntmgeytsfrmleypLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSeEyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0$0$0$sbleseyfrcnmlgpngpstornurtePcUsCsaengtsfrtrof20ysorulJy1,2.TeblaoaseemlcstotntoaynwngtfedbyteCnaetttffra2rteDtofEysstsblwlrtinanieinseeginFY2.Teblisedtoietenrofgpngalngasrgrwadp,whteDsctbeadwnegs.TeDtastendfefeBsSt(.Teedctfrtspnis$0i]
+[DELETED: Y2,$0inFY28ad$0inFY2.TeeswdbepdfeReEyFd(ftepsaea,itisadtefgfrtepswdbeinteDsFY28-FY29btrePcUsCnsstycdabtenwrswntsbotregbSCtofEyadPcUsC]

@@ -1,0 +1,198 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB643-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0958s
+2026SESSION
+26-2091
+07/05
+643-FN
+ANACT requiringmunicipalities tohold apublic hearingand conductaroll call votewhen
+seekingtooverrideataxorspendingcap.
+SPONSORS: Sen. Avard, Dist 12; Sen. Lang, Dist 2; Sen. Murphy, Dist 16; Sen. Sullivan, Dist
+18;Rep.Barbour,Hills.35;Rep.Sellers,Graf.10
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires municipalities to hold a public hearing and conduct a roll call vote when
+seekingtooverrideataxorspendingcap.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB643-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0958s 26-2091
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringmunicipalities tohold apublic hearingand conductaroll call votewhen
+seekingtooverrideataxorspendingcap.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindings. Thegeneralcourtherebyfindsthat:
+2 I. Thereisacompellingstateinterestinpromotingtransparency,accountability,and citizen
+3 participationwhenmunicipalitiesconsideroverridinglocallyadoptedtaxorspendingcaps.
+4 II. Local tax caps and spending caps, whether adopted under RSA 32, RSA 49-C, or RSA 49-
+5 D,reflectthewillofthevoterstoplacelimitsonthegrowthoflocalgovernment.
+6 III. In cities and towns governed by elected councils, budgetary and override decisions are
+7 madebyagoverningbodyactingasthelegislativeauthority,ratherthandirectlybythevoters.
+8 IV. Taxpayers are entitled to clear and timely information regarding when and how elected
+9 officials vote to override such caps, particularly when such decisions may directly affect property tax
+10 rates.
+11 V. Enhanced procedural safeguards, includingadvancenotice, public hearings, and recorded
+12 rollcallvotes,areappropriatewhenoverridedecisionsaremadebyelectedgoverningbodies.
+13 2 New Section; Towns, Cities, Village Districts, and Unincorporated Places; Municipal Budget
+14 Law;OverrideProcedures. AmendRSA32byinsertingaftersection5-hthefollowingnewsection:
+15 32:5-i OverrideProceduresforLocalTaxandSpendingCaps.
+16 I. NotwithstandingRSA32:2,thissectionshallapplyonlyto:
+17 (a) Cities;and
+18 (b) Towns in which the governing body is an elected town council authorized by charter
+19 orstatutetoadoptthemunicipaloperatingbudget.
+20 II. Thissectionshallnotapplyto:
+21 (a) Townsoperatingunderatraditionaltownmeetingformofgovernment;
+22 (b) Towns operating under the official ballot referendum form of town meeting pursuant
+23 toRSA40:13;or
+24 (c) Villagedistrictsorotherspecialdistricts.
+25 III. Before any vote to override a tax or spending cap by a municipality subject to this
+26 sectionmaybeheld,thegoverningbodyshall:
+27 (a) Hold a public hearing on the proposed override and provide notice of such hearing in
+28 accordance with RSA 32:5, I, and other applicable law, except that such notice shall be provided at
+29 least30daysinadvanceofthehearing;
+SB643-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 (b) Provide at such hearing a public comment period of at least 60 minutes in duration,
+2 duringwhichanyresidentmayaddresstheproposedoverride;and
+3 (c) Record the final vote of the governing body on the proposed override as a roll call
+4 vote,witheachmember’snameandvoteenteredintotheofficialrecord.
+5 IV. The results of the roll call vote, including the name of each member of the governing
+6 body and how such member voted, shall be published on, or included with, the next property tax bill
+7 issuedbythemunicipality. Suchdisclosureshallbepresentedinaclearandprominentmanner.
+8 V. Nothinginthissectionshallbeconstruedto:
+9 (a) Alter the authority of voters at a town meeting or official ballot referendum to
+10 approveorrejectataxorspendingcapoverride;
+11 (b) Impose procedural requirements on deliberative sessions conducted pursuant to RSA
+12 40:13;or
+13 (c) Modifyanycharterprovisiongoverningtheadoptionofmunicipalbudgetsoroverride
+14 votes.
+15 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2091
+03/10/2026
+SB643-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0958s)
+ANACT requiringmunicipalities tohold apublic hearingand conductaroll call votewhen
+seekingtooverrideataxorspendingcap.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation
+[DELETED: B6N-ASADBYTES606SEBNATrgmstohdapchgadctarlclvewgtooeatxorsgc:S.A,Dt1;S.L,Dt2;S.M,Dt1;S.S,D;R.B,H.3;R.S,G.1:EnLwadMlADAsblrsmstohdapchgadctarlclvewgtooeatxorsgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATrgmstohdapchgadctarlclvewgtooeatxorsgceitEdbyteSeadHeofRsinGlCtc1StofF.TeglcthyfstI.Teisacgseitinpgt,a,adcpnwnmscroglyadtxorsgcI.Lltxcsadsgc,wradurRA3,RA4,orRA4D,rttewloftevstopelsonteghofllgI.Incsadtsgdbyedc,byadoedsamebyaggbyagastelea,rrtndybytevI.Tsaeedtocradtyinrgwnadhweosvetooeshc,pywnshdsmydyatpyt0r1V.Edpls,igaen,pch,adr2rlclv,aeaewnoedsaemebyedggb32NwS;T,C,VeD,adUdP;MlB4L;OeP.AdRA32byigarsn5htefgnws53iOePsfrLlTxadSgC6I.NgRA3,tssnslayoyt7()C;a8()Tsinwhteggbyisanedtncladbyc9orsetoattemlogb0I.Tssnslntayt1()Tsoguratltnmgfmofg2()Tsogurteolbtrmfmoftnmgp3toRA4;o4()Vedsororsld5I.Beayvetooeatxorsgcpbyamysttot6snmybeh,teggbys7()Hdapchgontepdoeadpeneofshhgi8aewhRA3,I,adorael,etttshneslbepda9lt30dsinaeofteh]
+[DELETED: B6N-ASADBYTESPe2()Peatshhgapcctpdofatlt60msinddgwhayrtmyastepdo;a()Rdteflveofteggbyontepdoeasarlcv,whehmsneadveedioteolrI.Tersofterlclv,igteneofehmroftegbyadhwshmrv,slbepdo,oridw,tentpytxbidbytem.ShdeslbepdinacradptmV.Ngintssnslbecdt()Arteayofvsatatnmgorolbtrmt0aeorrtatxorsgcpo1()IeplrsondesscdpttoR24;o3()Myaycrpnggteanofmlbsoro4v53EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATrgmstohdapchgadctarlclvewgtooeatxorsgcLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SCwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB643-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0958s
+2026SESSION
+26-2091
+07/05
+643-FN
+SENATEBILL
+ANACT requiringmunicipalities tohold apublic hearingand conductaroll call votewhen
+seekingtooverrideataxorspendingcap.
+SPONSORS: Sen. Avard, Dist 12; Sen. Lang, Dist 2; Sen. Murphy, Dist 16; Sen. Sullivan, Dist
+18;Rep.Barbour,Hills.35;Rep.Sellers,Graf.10
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill requires municipalities to hold a public hearing and conduct a roll call vote when
+seekingtooverrideataxorspendingcap.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB643-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0958s 26-2091
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringmunicipalities tohold apublic hearingand conductaroll call votewhen
+seekingtooverrideataxorspendingcap.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindings. Thegeneralcourtherebyfindsthat:
+2 I. Thereisacompellingstateinterestinpromotingtransparency,accountability,and citizen
+3 participationwhenmunicipalitiesconsideroverridinglocallyadoptedtaxorspendingcaps.
+4 II. Local tax caps and spending caps, whether adopted under RSA 32, RSA 49-C, or RSA 49-
+5 D,reflectthewillofthevoterstoplacelimitsonthegrowthoflocalgovernment.
+6 III. In cities and towns governed by elected councils, budgetary and override decisions are
+7 madebyagoverningbodyactingasthelegislativeauthority,ratherthandirectlybythevoters.
+8 IV. Taxpayers are entitled to clear and timely information regarding when and how elected
+9 officials vote to override such caps, particularly when such decisions may directly affect property tax
+10 rates.
+11 V. Enhanced procedural safeguards, includingadvancenotice, public hearings, and recorded
+12 rollcallvotes,areappropriatewhenoverridedecisionsaremadebyelectedgoverningbodies.
+13 2 New Section; Towns, Cities, Village Districts, and Unincorporated Places; Municipal Budget
+14 Law;OverrideProcedures. AmendRSA32byinsertingaftersection5-hthefollowingnewsection:
+15 32:5-i OverrideProceduresforLocalTaxandSpendingCaps.
+16 I. NotwithstandingRSA32:2,thissectionshallapplyonlyto:
+17 (a) Cities;and
+18 (b) Towns in which the governing body is an elected town council authorized by charter
+19 orstatutetoadoptthemunicipaloperatingbudget.
+20 II. Thissectionshallnotapplyto:
+21 (a) Townsoperatingunderatraditionaltownmeetingformofgovernment;
+22 (b) Towns operating under the official ballot referendum form of town meeting pursuant
+23 toRSA40:13;or
+24 (c) Villagedistrictsorotherspecialdistricts.
+25 III. Before any vote to override a tax or spending cap by a municipality subject to this
+26 sectionmaybeheld,thegoverningbodyshall:
+27 (a) Hold a public hearing on the proposed override and provide notice of such hearing in
+28 accordance with RSA 32:5, I, and other applicable law, except that such notice shall be provided at
+29 least30daysinadvanceofthehearing;
+
+SB643-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 (b) Provide at such hearing a public comment period of at least 60 minutes in duration,
+2 duringwhichanyresidentmayaddresstheproposedoverride;and
+3 (c) Record the final vote of the governing body on the proposed override as a roll call
+4 vote,witheachmember’snameandvoteenteredintotheofficialrecord.
+5 IV. The results of the roll call vote, including the name of each member of the governing
+6 body and how such member voted, shall be published on, or included with, the next property tax bill
+7 issuedbythemunicipality. Suchdisclosureshallbepresentedinaclearandprominentmanner.
+8 V. Nothinginthissectionshallbeconstruedto:
+9 (a) Alter the authority of voters at a town meeting or official ballot referendum to
+10 approveorrejectataxorspendingcapoverride;
+11 (b) Impose procedural requirements on deliberative sessions conducted pursuant to RSA
+12 40:13;or
+13 (c) Modifyanycharterprovisiongoverningtheadoptionofmunicipalbudgetsoroverride
+14 votes.
+15 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2091
+03/10/2026
+SB643-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0958s)
+ANACT requiringmunicipalities tohold apublic hearingand conductaroll call votewhen
+seekingtooverrideataxorspendingcap.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociation
+
+[DELETED: B6N-ASADBYTES606SEBNATrgmstohdapchgadctarlclvewgtooeatxorsgc:S.A,Dt1;S.L,Dt2;S.M,Dt1;S.S,D;R.B,H.3;R.S,G.1:EnLwadMlADAsblrsmstohdapchgadctarlclvewgtooeatxorsgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATrgmstohdapchgadctarlclvewgtooeatxorsgceitEdbyteSeadHeofRsinGlCtc1StofF.TeglcthyfstI.Teisacgseitinpgt,a,adcpnwnmscroglyadtxorsgcI.Lltxcsadsgc,wradurRA3,RA4,orRA4D,rttewloftevstopelsonteghofllgI.Incsadtsgdbyedc,byadoedsamebyaggbyagastelea,rrtndybytevI.Tsaeedtocradtyinrgwnadhweosvetooeshc,pywnshdsmydyatpyt0r1V.Edpls,igaen,pch,adr2rlclv,aeaewnoedsaemebyedggb32NwS;T,C,VeD,adUdP;MlB4L;OeP.AdRA32byigarsn5htefgnws53iOePsfrLlTxadSgC6I.NgRA3,tssnslayoyt7()C;a8()Tsinwhteggbyisanedtncladbyc9orsetoattemlogb0I.Tssnslntayt1()Tsoguratltnmgfmofg2()Tsogurteolbtrmfmoftnmgp3toRA4;o4()Vedsororsld5I.Beayvetooeatxorsgcpbyamysttot6snmybeh,teggbys7()Hdapchgontepdoeadpeneofshhgi8aewhRA3,I,adorael,etttshneslbepda9lt30dsinaeofteh]
+[DELETED: B6N-ASADBYTESPe2()Peatshhgapcctpdofatlt60msinddgwhayrtmyastepdo;a()Rdteflveofteggbyontepdoeasarlcv,whehmsneadveedioteolrI.Tersofterlclv,igteneofehmroftegbyadhwshmrv,slbepdo,oridw,tentpytxbidbytem.ShdeslbepdinacradptmV.Ngintssnslbecdt()Arteayofvsatatnmgorolbtrmt0aeorrtatxorsgcpo1()IeplrsondesscdpttoR24;o3()Myaycrpnggteanofmlbsoro4v53EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATrgmstohdapchgadctarlclvewgtooeatxorsgcLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SCwHeMlA]

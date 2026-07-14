@@ -1,0 +1,326 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER197
+SB589-FN-FINALVERSION
+02/19/2026 0512s
+23Apr2026...1412h
+06/04/2026 2028EBA
+2026SESSION
+26-2048
+06/08
+589-FN
+ANACT relative to port electrification, microgrid development, and cybersecurity standards for
+energyandwatersystems.
+SPONSORS: Sen. Watters, Dist 4; Sen. Avard, Dist 12; Sen. Rosenwald, Dist 13; Sen. Perkins
+Kwoka, Dist 21; Sen. Pearl, Dist 17; Sen. Altschiller, Dist 24; Rep. Cloutier, Sull. 6;
+Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes a port electrification task force, directs investigation into microgrid development
+andcybersecuritystandards,andmandatescybersecurityprogramsforwaterandwastewatersystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER197
+SB589-FN-FINALVERSION
+02/19/2026 0512s
+23Apr2026...1412h
+06/04/2026 2028EBA 26-2048
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to port electrification, microgrid development, and cybersecurity standards for
+energyandwatersystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 197:1 Statement of Purpose. The purpose of this act is to promote New Hampshire’s energy
+2 resilience and deployment of technologies supporting marine shipping, microgrid development, and
+3 cybersecurityfordistributedenergyresources.
+4 197:2 New Paragraph; Energy Infrastructure Development and Corridors; Definition of Microgrid
+5 Added. AmendRSA162-R:1byinsertingafterparagraphIIIthefollowingnewparagraph:
+6 III-a. "Microgrid" means a group of interconnected loads and distributed energy resources acting
+7 as a single controllable entity with respect to the grid, with the ability to connect/disconnect to operate in
+8 grid-connected or island mode, improve reliability and resilience to grid disturbances, and enable local
+9 assets to collaborate to save costs, run during interruptions, or support remote operations. A microgrid
+10 may also feature system modeling/simulation, power electronic converters and control algorithms,
+11 controller hardware-in-the-loop testing, power hardware-in-the-loop testing, programmable AC/DC power
+12 supplies for grid/PV/battery emulation, and hybrid microgrid testing including distribution integration of
+13 windturbines,PV,dynamometers,loads,andenergystorage.
+14 197:3 New Section; Port Electrification Task Force. Amend RSA 162-R by inserting after section 6
+15 thefollowingnewsection:
+16 162-R:7 PortElectrificationReport.
+17 I. Thereisherebyestablishedataskforcetoreportonportelectrification.
+18 II. Thetaskforceshallconsistof:
+19 (a) The director of the division of ports and harbors, or designee, who shall serve as chair
+20 andconveningauthorityandshalladministerthetaskforce.
+21 (b) Thecommissionerofthedepartmentoftransportation,ordesignee.
+22 (c) Thecommissionerofthedepartmentofenergy,ordesignee.
+23 (d) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+24 III. Thereportshall:
+25 (a) Identify feasible technologies and locations for charging infrastructure, energy supply,
+26 includingon-sitegeneration,andenergystorageunits,toservehybridelectric,andfuelcellelectricships,
+27 forshipping,fisheries,andothervessels,andportsidepowersupplyforconventional-fueledvessels.
+28 (b) Assessapplicablestate,federal,andinternationalregulationsandregulatorybarriers.
+29 (c) Identifyassociatedcosts,fundingsources,andpotentialmodelsforprivatedevelopment.
+30 (d) Identifytransmissionandinterconnectionsiting.
+CHAPTER197
+SB589-FN-FINALVERSION
+-Page2-
+1 IV. The report required by this section shall be completed on or before June 30, 2027. Copies
+2 shall be submitted to the governor, speaker of the house, president of the senate, and the chairs of the
+3 houseandsenatestandingcommitteesfortransportation,energy,andcommerce.
+4 197:4 MicrogridInvestigationPhaseII.
+5 I. Within 120 days of the effective date of this section, the department of energy shall initiate a
+6 proceeding to continue to investigate the potential benefits, risks, and key considerations around
+7 developing a framework for electricity microgrids in the state, continuing the work begun in Inv 2024-001.
+8 In so doing, the department shall consult with electric distribution utilities, microgrid technology
+9 companies, distributed generation project developers, high density load businesses, and any other
+10 relevantentities.
+11 II. The department’s investigative proceeding shall examine and make recommendations
+12 concerning:
+13 (a) Thefeasibilityoffinancingoptionsformicrogrids,includingC-PACER.
+14 (b) Identifyingpoliticalsubdivisionsandindustrialusersopentomicrogriddevelopment.
+15 (c) Development of an approach to use the “sandbox” methodology to enhance the
+16 regulatoryprocess.
+17 (d) Cybersecuritystandardsformicrogridsandotherdistributedenergyresources.
+18 (e) Theneedforlegislationorregulatoryrelieftoallowforpilotprojects.
+19 (f) Evaluationcriteriaforapilotproject.
+20 (g) Anyotherrelevantissueraisedinthedepartment’sinvestigativeproceedings.
+21 III. Thedepartment shall report itsfindings andrecommendationstothelegislaturenolater than
+22 oneyearafterinitiatingthestudy.
+23 IV. Forthepurposesofthissection,"microgrid"shallhavethesamemeaningasinRSA162-R:1,
+24 III-a.
+25 197:5 CybersecurityandElectricGridInterconnectionGuidelines.
+26 I. Within 120 days of the effective date of this section, the department of energy shall initiate a
+27 proceeding, in consultation as deemed necessary with the governor’s advisor for utility critical
+28 infrastructure cybersecurity, the managing director of the New England Utility Cybersecurity Integration
+29 Collaborative, distributed energy resources businesses, electric distribution utilities, and regional/federal
+30 transmissionauthorities,todetermine:
+31 (a) The need for guidelines or standards for cybersecurity standards for distributed energy
+32 generationandrelateddevices.
+33 (b) The proper venue for promulgation of those guidelines or standards, including, but not
+34 limitedto,rulemaking,statutorychanges,andincludingguidelinesorstandardswithinexistingprocedures
+35 andfilings.
+36 II. Suchnewguidelinesorstandardsshallnotapplytogenerationandrelateddeviceslicensedor
+37 regulatedbytheFederalEnergyRegulatoryCommission.
+38 III. The department shall report its findings and recommendations to the legislature no later than
+39 one year after initiating the study. The report shall include recommendations for statutory changes,
+CHAPTER197
+SB589-FN-FINALVERSION
+-Page3-
+1 rulemaking,orotheractionsasneeded. Thedepartmentshallsubmitcopiesofthereporttothegovernor,
+2 senatepresident,speakerofthehouse,andchairsofsenateandhouseenergypolicycommittees.
+3 197:6 New Section; Cybersecurity Protection Program; Public Water Systems. Amend RSA 485 by
+4 insertingaftersection3-dthefollowingnewsection:
+5 485:3-e CybersecurityProtectionProgram.
+6 I. Publicwatersystemsshallimplementacybersecurityprotectionprogramthatiscommensurate
+7 with the size and complexity of the public water system in accordance with rules adopted by the
+8 department.
+9 II. Public water systems that do not use an Internet-connected control system are exempt from
+10 theprovisionsofthissection.
+11 III. In this section, “cybersecurity protection program” means steps to prevent an event from
+12 occurringonorbeingconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+13 or availability of computers, information systems, communications systems, networks, physical or virtual
+14 infrastructure controlled by computers or information systems, or the information or processes residing
+15 thereon.
+16 IV. The commissioner may adopt rules to implement a cybersecurity protection program for
+17 publicwatersystems.
+18 197:7 New Section; Cybersecurity Protection Program; Wastewater Treatment Facilities. Amend
+19 RSA485-Abyinsertingaftersection485-A:5-ethefollowingnewsection:
+20 485-A:5-f CybersecurityProtectionProgram.
+21 I. Wastewatertreatmentplantsorwastewaterfacilitiesshallimplementacybersecurityprotection
+22 program that is commensurate with the size and complexity of the wastewater treatment plant or
+23 wastewaterfacilityinaccordancewithrulesadoptedbythedepartment.
+24 II. Wastewater treatment plants or wastewater facilities that do not use an Internet- connected
+25 controlsystemareexemptfromtheprovisionsofthissection.
+26 III. In this section, “cybersecurity protection program” means steps to prevent an event from
+27 occurringonorbeingconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+28 or availability of computers, information systems, communications systems, networks, physical or virtual
+29 infrastructure controlled by computers or information systems, or the information or processes residing
+30 thereon.
+31 IV. The commissioner shall adopt rules to implement a cybersecurity protection program for
+32 wastewatertreatmentplantsorwastewaterfacilities.
+33 197:8 Repeal. RSA162-R:7,relativetotheportelectrificationtaskforce,isrepealed.
+34 197:9 EffectiveDate.
+35 I. Section8ofthisactshalltakeeffectJuly1,2027.
+36 II. Theremainderofthisactshalltakeeffectuponitspassage.
+Approved:June19,2026
+EffectiveDate:
+I.Section8effectiveJuly1,2027
+II.RemaindereffectiveJune19,2026
+[DELETED: R1B5N-FLV60.1626SEBNATretopte,mdd,adcyssfyadwrs:S.W,Dt4;S.A,Dt1;S.R,Dt1;S.P,Dt2;S.P,Dt1;S.A,Dt2;R.C,S.6.M,H.3:EyadNlRDAsblesaptentkf,dsiniomdddcys,admscypsfrwradwrs-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B5N-FLV60.162A2EOFNWHNATretopte,mdd,adcyssfyadwrs11StofP.TepeoftsatistopeNwHsereaddtoftssgmes,mdd,acyfrddeyr12NwP;EyIeDtadC;DnofMA.AdRA11byigarphIItefgnwpI.""msagpofidlsadddeyrsaasaseceeywhrttoteg,whteaytocttooeigdoridm,ieryadretogdd,adeelastocetosec,rndgi,orstreo.Am0myaofesmm,preccsadcla1crhpt,prhpt,peACp2ssfrgye,adhdmdtgigdnino3wdt,P,d,l,adeys413NwS;PtEnTkF.AdRA1Rbyigarsn5tefgnws617PtEnR7I.Teishyedatkfetortonpte8I.Tetkfeslcto9()Tedroftednofpsadh,ord,woslseasc0adcgayadslartetkf1()Tecroftedtoft,ord2()Tecroftedtofe,ord3()Tecroftedtofbsadeca,ord4I.Terts5()Iyfetsadlsfrcgi,eys6igoeg,adeyseu,tosehde,adflclecs7frs,f,adorv,adpeprsyfrcdv8()Asaes,f,adilrsadryb9()Iyadc,fgs,adplmsfrped0()Iytnadins]
+[DELETED: R1B5N-FLVPe2I.TertrdbytssnslbecdonorbeJe3,2.Cslbesdtoteg,srofteh,ptoftes,adtecsoftheadsesgcsfrt,e,adc14MdInPeII.Wn10dsofteeedeoftss,tedtofeysliepgtocetoieteplb,r,adkycsadgafkfreymsintes,cgtewkbninIv2Insod,tedtslctwhecdnu,mdtc,ddgnptd,hhdyldb,adayo0rte1I.Tedsiepgsleeadmer2c3()Tefyoffgosfrm,igC4()Igplssadilusontomdd5()Dtofanahtouete“”mytoeet6ryp7()Cyssfrmsadorddeyr8()Tendfrlnorryrftoawfrptp9()Encafraptp0()Ayorrtierdintedsiep1I.Tedtslrtisfsadrstotelenolrt2oeyrarigtes3I.Frtepsoftss,""slhetesemgasinRA14I515CyadEcGdInG6I.Wn10dsofteeedeoftss,tedtofeyslie7p,incnasddnywhtegsarfruyc8iec,temgdrofteNwEdUyCyI9C,ddeyrsb,ecdnu,adr0tna,tod1()Tendfrgsorssfrcyssfrdde2gnadrdd3()Teprvefrpnoftegsors,i,btn4ldt,r,syc,adiggsorsswnegp5adf6I.Shnwgsorssslntaytognadrddsldo7rdbyteFlEyRyC8I.Tedtslrtisfsadrstotelenolrt9oeyrarigtes.Tertsliersfrsyc]
+[DELETED: R1B5N-FLVPe3r,ororasasn.Tedtslstcsofterttotegsep,srofteh,adcsofseadheeypyc16NwS;CyPnP;PcWrS.AdRA45bigarsn3dtefgnws4eCyPnPI.PcwrssslitacypnpmttiscwhteseadcyoftepcwrsminaewhrsadbytdI.PcwrssttdontueanIdclsmaeetf0tepsoftss1I.Intss,“ypnp”mssstoptanetf2ogonorbgcdthacrnkttjstec,i3orayofc,ins,css,n,plorv4iecdbycsorins,orteinorpsr5t6I.Tecrmyatrstoitacypnpmf7pcwrs817NwS;CyPnP;WrTtF.A9RA4Abyigarsn4etefgnws04fCyPnP1I.Wrttpsorwrfsslitacyp2pmttiscewhteseadcyoftewrttpto3wrfyinaewhrsadbyted4I.WrttpsorwrfsttdontueanI-c5clsmaeetfmtepsoftss6I.Intss,“ypnp”mssstoptanetf7ogonorbgcdthacrnkttjstec,i8orayofc,ins,css,n,plorv9iecdbycsorins,orteinorpsr0t1I.Tecrslatrstoitacypnpmf2wrttpsorwrf318R.RA1,retoteptentkf,isr419EeD5I.Sn8oftsatslteetJy1,26I.Terroftsatslteetunisp:Je1,2eD.Sn8eeJy1,2.RreeJe1,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER197
+SB589-FN-FINALVERSION
+02/19/2026 0512s
+23Apr2026...1412h
+06/04/2026 2028EBA
+2026SESSION
+26-2048
+06/08
+589-FN
+SENATEBILL
+ANACT relative to port electrification, microgrid development, and cybersecurity standards for
+energyandwatersystems.
+SPONSORS: Sen. Watters, Dist 4; Sen. Avard, Dist 12; Sen. Rosenwald, Dist 13; Sen. Perkins
+Kwoka, Dist 21; Sen. Pearl, Dist 17; Sen. Altschiller, Dist 24; Rep. Cloutier, Sull. 6;
+Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes a port electrification task force, directs investigation into microgrid development
+andcybersecuritystandards,andmandatescybersecurityprogramsforwaterandwastewatersystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER197
+SB589-FN-FINALVERSION
+02/19/2026 0512s
+23Apr2026...1412h
+06/04/2026 2028EBA 26-2048
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to port electrification, microgrid development, and cybersecurity standards for
+energyandwatersystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 197:1 Statement of Purpose. The purpose of this act is to promote New Hampshire’s energy
+2 resilience and deployment of technologies supporting marine shipping, microgrid development, and
+3 cybersecurityfordistributedenergyresources.
+4 197:2 New Paragraph; Energy Infrastructure Development and Corridors; Definition of Microgrid
+5 Added. AmendRSA162-R:1byinsertingafterparagraphIIIthefollowingnewparagraph:
+6 III-a. "Microgrid" means a group of interconnected loads and distributed energy resources acting
+7 as a single controllable entity with respect to the grid, with the ability to connect/disconnect to operate in
+8 grid-connected or island mode, improve reliability and resilience to grid disturbances, and enable local
+9 assets to collaborate to save costs, run during interruptions, or support remote operations. A microgrid
+10 may also feature system modeling/simulation, power electronic converters and control algorithms,
+11 controller hardware-in-the-loop testing, power hardware-in-the-loop testing, programmable AC/DC power
+12 supplies for grid/PV/battery emulation, and hybrid microgrid testing including distribution integration of
+13 windturbines,PV,dynamometers,loads,andenergystorage.
+14 197:3 New Section; Port Electrification Task Force. Amend RSA 162-R by inserting after section 6
+15 thefollowingnewsection:
+16 162-R:7 PortElectrificationReport.
+17 I. Thereisherebyestablishedataskforcetoreportonportelectrification.
+18 II. Thetaskforceshallconsistof:
+19 (a) The director of the division of ports and harbors, or designee, who shall serve as chair
+20 andconveningauthorityandshalladministerthetaskforce.
+21 (b) Thecommissionerofthedepartmentoftransportation,ordesignee.
+22 (c) Thecommissionerofthedepartmentofenergy,ordesignee.
+23 (d) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+24 III. Thereportshall:
+25 (a) Identify feasible technologies and locations for charging infrastructure, energy supply,
+26 includingon-sitegeneration,andenergystorageunits,toservehybridelectric,andfuelcellelectricships,
+27 forshipping,fisheries,andothervessels,andportsidepowersupplyforconventional-fueledvessels.
+28 (b) Assessapplicablestate,federal,andinternationalregulationsandregulatorybarriers.
+29 (c) Identifyassociatedcosts,fundingsources,andpotentialmodelsforprivatedevelopment.
+30 (d) Identifytransmissionandinterconnectionsiting.
+
+CHAPTER197
+SB589-FN-FINALVERSION
+-Page2-
+1 IV. The report required by this section shall be completed on or before June 30, 2027. Copies
+2 shall be submitted to the governor, speaker of the house, president of the senate, and the chairs of the
+3 houseandsenatestandingcommitteesfortransportation,energy,andcommerce.
+4 197:4 MicrogridInvestigationPhaseII.
+5 I. Within 120 days of the effective date of this section, the department of energy shall initiate a
+6 proceeding to continue to investigate the potential benefits, risks, and key considerations around
+7 developing a framework for electricity microgrids in the state, continuing the work begun in Inv 2024-001.
+8 In so doing, the department shall consult with electric distribution utilities, microgrid technology
+9 companies, distributed generation project developers, high density load businesses, and any other
+10 relevantentities.
+11 II. The department’s investigative proceeding shall examine and make recommendations
+12 concerning:
+13 (a) Thefeasibilityoffinancingoptionsformicrogrids,includingC-PACER.
+14 (b) Identifyingpoliticalsubdivisionsandindustrialusersopentomicrogriddevelopment.
+15 (c) Development of an approach to use the “sandbox” methodology to enhance the
+16 regulatoryprocess.
+17 (d) Cybersecuritystandardsformicrogridsandotherdistributedenergyresources.
+18 (e) Theneedforlegislationorregulatoryrelieftoallowforpilotprojects.
+19 (f) Evaluationcriteriaforapilotproject.
+20 (g) Anyotherrelevantissueraisedinthedepartment’sinvestigativeproceedings.
+21 III. Thedepartment shall report itsfindings andrecommendationstothelegislaturenolater than
+22 oneyearafterinitiatingthestudy.
+23 IV. Forthepurposesofthissection,"microgrid"shallhavethesamemeaningasinRSA162-R:1,
+24 III-a.
+25 197:5 CybersecurityandElectricGridInterconnectionGuidelines.
+26 I. Within 120 days of the effective date of this section, the department of energy shall initiate a
+27 proceeding, in consultation as deemed necessary with the governor’s advisor for utility critical
+28 infrastructure cybersecurity, the managing director of the New England Utility Cybersecurity Integration
+29 Collaborative, distributed energy resources businesses, electric distribution utilities, and regional/federal
+30 transmissionauthorities,todetermine:
+31 (a) The need for guidelines or standards for cybersecurity standards for distributed energy
+32 generationandrelateddevices.
+33 (b) The proper venue for promulgation of those guidelines or standards, including, but not
+34 limitedto,rulemaking,statutorychanges,andincludingguidelinesorstandardswithinexistingprocedures
+35 andfilings.
+36 II. Suchnewguidelinesorstandardsshallnotapplytogenerationandrelateddeviceslicensedor
+37 regulatedbytheFederalEnergyRegulatoryCommission.
+38 III. The department shall report its findings and recommendations to the legislature no later than
+39 one year after initiating the study. The report shall include recommendations for statutory changes,
+
+CHAPTER197
+SB589-FN-FINALVERSION
+-Page3-
+1 rulemaking,orotheractionsasneeded. Thedepartmentshallsubmitcopiesofthereporttothegovernor,
+2 senatepresident,speakerofthehouse,andchairsofsenateandhouseenergypolicycommittees.
+3 197:6 New Section; Cybersecurity Protection Program; Public Water Systems. Amend RSA 485 by
+4 insertingaftersection3-dthefollowingnewsection:
+5 485:3-e CybersecurityProtectionProgram.
+6 I. Publicwatersystemsshallimplementacybersecurityprotectionprogramthatiscommensurate
+7 with the size and complexity of the public water system in accordance with rules adopted by the
+8 department.
+9 II. Public water systems that do not use an Internet-connected control system are exempt from
+10 theprovisionsofthissection.
+11 III. In this section, “cybersecurity protection program” means steps to prevent an event from
+12 occurringonorbeingconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+13 or availability of computers, information systems, communications systems, networks, physical or virtual
+14 infrastructure controlled by computers or information systems, or the information or processes residing
+15 thereon.
+16 IV. The commissioner may adopt rules to implement a cybersecurity protection program for
+17 publicwatersystems.
+18 197:7 New Section; Cybersecurity Protection Program; Wastewater Treatment Facilities. Amend
+19 RSA485-Abyinsertingaftersection485-A:5-ethefollowingnewsection:
+20 485-A:5-f CybersecurityProtectionProgram.
+21 I. Wastewatertreatmentplantsorwastewaterfacilitiesshallimplementacybersecurityprotection
+22 program that is commensurate with the size and complexity of the wastewater treatment plant or
+23 wastewaterfacilityinaccordancewithrulesadoptedbythedepartment.
+24 II. Wastewater treatment plants or wastewater facilities that do not use an Internet- connected
+25 controlsystemareexemptfromtheprovisionsofthissection.
+26 III. In this section, “cybersecurity protection program” means steps to prevent an event from
+27 occurringonorbeingconductedthroughacomputernetworkthatjeopardizestheconfidentiality,integrity,
+28 or availability of computers, information systems, communications systems, networks, physical or virtual
+29 infrastructure controlled by computers or information systems, or the information or processes residing
+30 thereon.
+31 IV. The commissioner shall adopt rules to implement a cybersecurity protection program for
+32 wastewatertreatmentplantsorwastewaterfacilities.
+33 197:8 Repeal. RSA162-R:7,relativetotheportelectrificationtaskforce,isrepealed.
+34 197:9 EffectiveDate.
+35 I. Section8ofthisactshalltakeeffectJuly1,2027.
+36 II. Theremainderofthisactshalltakeeffectuponitspassage.
+Approved:June19,2026
+EffectiveDate:
+I.Section8effectiveJuly1,2027
+II.RemaindereffectiveJune19,2026
+
+[DELETED: R1B5N-FLV60.1626SEBNATretopte,mdd,adcyssfyadwrs:S.W,Dt4;S.A,Dt1;S.R,Dt1;S.P,Dt2;S.P,Dt1;S.A,Dt2;R.C,S.6.M,H.3:EyadNlRDAsblesaptentkf,dsiniomdddcys,admscypsfrwradwrs-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B5N-FLV60.162A2EOFNWHNATretopte,mdd,adcyssfyadwrs11StofP.TepeoftsatistopeNwHsereaddtoftssgmes,mdd,acyfrddeyr12NwP;EyIeDtadC;DnofMA.AdRA11byigarphIItefgnwpI.""msagpofidlsadddeyrsaasaseceeywhrttoteg,whteaytocttooeigdoridm,ieryadretogdd,adeelastocetosec,rndgi,orstreo.Am0myaofesmm,preccsadcla1crhpt,prhpt,peACp2ssfrgye,adhdmdtgigdnino3wdt,P,d,l,adeys413NwS;PtEnTkF.AdRA1Rbyigarsn5tefgnws617PtEnR7I.Teishyedatkfetortonpte8I.Tetkfeslcto9()Tedroftednofpsadh,ord,woslseasc0adcgayadslartetkf1()Tecroftedtoft,ord2()Tecroftedtofe,ord3()Tecroftedtofbsadeca,ord4I.Terts5()Iyfetsadlsfrcgi,eys6igoeg,adeyseu,tosehde,adflclecs7frs,f,adorv,adpeprsyfrcdv8()Asaes,f,adilrsadryb9()Iyadc,fgs,adplmsfrped0()Iytnadins]
+[DELETED: R1B5N-FLVPe2I.TertrdbytssnslbecdonorbeJe3,2.Cslbesdtoteg,srofteh,ptoftes,adtecsoftheadsesgcsfrt,e,adc14MdInPeII.Wn10dsofteeedeoftss,tedtofeysliepgtocetoieteplb,r,adkycsadgafkfreymsintes,cgtewkbninIv2Insod,tedtslctwhecdnu,mdtc,ddgnptd,hhdyldb,adayo0rte1I.Tedsiepgsleeadmer2c3()Tefyoffgosfrm,igC4()Igplssadilusontomdd5()Dtofanahtouete“”mytoeet6ryp7()Cyssfrmsadorddeyr8()Tendfrlnorryrftoawfrptp9()Encafraptp0()Ayorrtierdintedsiep1I.Tedtslrtisfsadrstotelenolrt2oeyrarigtes3I.Frtepsoftss,""slhetesemgasinRA14I515CyadEcGdInG6I.Wn10dsofteeedeoftss,tedtofeyslie7p,incnasddnywhtegsarfruyc8iec,temgdrofteNwEdUyCyI9C,ddeyrsb,ecdnu,adr0tna,tod1()Tendfrgsorssfrcyssfrdde2gnadrdd3()Teprvefrpnoftegsors,i,btn4ldt,r,syc,adiggsorsswnegp5adf6I.Shnwgsorssslntaytognadrddsldo7rdbyteFlEyRyC8I.Tedtslrtisfsadrstotelenolrt9oeyrarigtes.Tertsliersfrsyc]
+[DELETED: R1B5N-FLVPe3r,ororasasn.Tedtslstcsofterttotegsep,srofteh,adcsofseadheeypyc16NwS;CyPnP;PcWrS.AdRA45bigarsn3dtefgnws4eCyPnPI.PcwrssslitacypnpmttiscwhteseadcyoftepcwrsminaewhrsadbytdI.PcwrssttdontueanIdclsmaeetf0tepsoftss1I.Intss,“ypnp”mssstoptanetf2ogonorbgcdthacrnkttjstec,i3orayofc,ins,css,n,plorv4iecdbycsorins,orteinorpsr5t6I.Tecrmyatrstoitacypnpmf7pcwrs817NwS;CyPnP;WrTtF.A9RA4Abyigarsn4etefgnws04fCyPnP1I.Wrttpsorwrfsslitacyp2pmttiscewhteseadcyoftewrttpto3wrfyinaewhrsadbyted4I.WrttpsorwrfsttdontueanI-c5clsmaeetfmtepsoftss6I.Intss,“ypnp”mssstoptanetf7ogonorbgcdthacrnkttjstec,i8orayofc,ins,css,n,plorv9iecdbycsorins,orteinorpsr0t1I.Tecrslatrstoitacypnpmf2wrttpsorwrf318R.RA1,retoteptentkf,isr419EeD5I.Sn8oftsatslteetJy1,26I.Terroftsatslteetunisp:Je1,2eD.Sn8eeJy1,2.RreeJe1,2]

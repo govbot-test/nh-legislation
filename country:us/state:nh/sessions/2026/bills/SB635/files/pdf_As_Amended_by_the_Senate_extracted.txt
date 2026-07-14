@@ -1,0 +1,348 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB635-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0832s
+2026SESSION
+26-2214
+07/06
+635-FN
+ANACT establishing a health reimbursement arrangement tax credit program and
+making an appropriation for improvements in the department of revenue
+administration'sinformationmanagementsystem.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Avard, Dist 12; Sen. McGough, Dist 11; Sen. Watters,
+Dist 4; Sen. Abbas, Dist 22; Sen. Perkins Kwoka, Dist 21; Rep. Kuttab, Rock. 17;
+Rep. Mary Murphy, Hills. 27; Rep. Ohm, Hills. 10; Rep. Miles, Hills. 12; Rep.
+Labrie,Hills.2
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes a health reimbursement arrangement tax credit program and makes an
+appropriation for improvements in the department of revenue administration's information
+managementsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB635-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0832s 26-2214
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a health reimbursement arrangement tax credit program and
+making an appropriation for improvements in the department of revenue
+administration'sinformationmanagementsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known and cited to as "The Health Reimbursement Tax Credit
+2 ProgramAct."
+3 2 New Chapter; Health Reimbursement Arrangement Tax Credit. Amend RSA by inserting
+4 afterchapter77-Gthefollowingnewchapter:
+5 CHAPTER77-H
+6 HEALTHREIMBURSEMENTARRANGEMENTTAXCREDIT
+7 77-H:1 Definitions. Asusedinthischapter:
+8 I. “Covered employee” means an employee for whom a qualified taxpayer makes a qualified
+9 contribution.
+10 II. “Department”meansthedepartmentofrevenueofadministration.
+11 III. “Qualified account” means an individual coverage health reimbursement arrangement
+12 established pursuant to 45 C.F.R. 146.123 or a qualified small employer health reimbursement
+13 arrangementdescribedinSection9831(d)oftheInternalRevenueCode.
+14 IV. "Qualified contribution” means a reimbursement by a qualified taxpayer to a qualified
+15 accountforuseinaccordancewithapplicablefederallawsandregulations.
+16 V. “Qualified taxpayer” means an employer with fewer than 50 employees that is a
+17 corporation, a limited liability company, a partnership, or another entity that has any state tax
+18 liabilityunderRSA77-AorRSA77-E.
+19 77-H:2 EligibilityCriteria.
+20 A qualified taxpayer may claim a credit against their tax due under RSA 77-A and RSA 77-E, in
+21 the manner described in RSA 77-H:3, for qualified contributions of $300 per covered employee per
+22 yearfornomorethan2years,whichshallbeconsecutive,if:
+23 (a) The qualified taxpayer did not contribute to an employer sponsored group health
+24 insuranceplanforthecoveredemployeeinanyoftheprevious3years;and
+25 (b) The contribution to a qualified account in the benefit year for which the credit is
+26 claimed is not less than $300 more than the amount provided in the last benefit year of an employer
+27 sponsoredgroup healthinsuranceprogram or qualified accountfor thecoveredemployeeprior tothe
+28 firstyearinwhichthecreditwasclaimed.
+29 77-H:3 HealthReimbursementArrangementTaxCredit.
+SB635-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. There shall be allowed a health reimbursement arrangement tax credit applied to a
+2 qualified taxpayer, as set forth in RSA 77-H:2, for qualified contributions made during the taxable
+3 year,asfollows:
+4 (a) To receive the credit provided under this chapter, a qualified taxpayer shall submit
+5 an application on a form to be prescribed by the commissioner and shall be accompanied by
+6 informationorrecordsrequiredbythecommissioner.
+7 (b) Applicationsshallbeprocessedonafirstcome,firstservedbasis,uptotheaggregate
+8 tax credit amount allowed under this section. If multiple applications are received on the same day,
+9 theyshallbeprocessedatrandom.
+10 (c) Once awarded, the credit may be claimed by the qualified taxpayer against tax due
+11 under RSA 77-E at any time in the manner prescribed by the department. Any unused credit may
+12 be applied against RSA 77-A. For the purposes of the credit allowed under 77-A:5, X, the credit
+13 underthissectionshallbeconsideredtaxespaid.
+14 (d) The aggregate amount of tax credits awarded under this chapter may not exceed
+15 $2,500,000inanystatefiscalyear.
+16 (e) The department may not award a tax credit after the total credits awarded under
+17 thissectionequalsthemaximumamountallowableinaparticularstatefiscalyear.
+18 (f) The amount of the credit provided by this chapter that a qualified taxpayer uses
+19 duringaparticulartaxableyearmaynotexceedthestatetaxliabilityofthequalifiedtaxpayer.
+20 (g) Any unused credit awarded under this chapter may be carried forward for not more
+21 than3succeedingtaxableperiods.
+22 (h) A qualified taxpayer shall not be entitled to a carry-back or refund of any unused
+23 credit.
+24 II. The commissioner of the department of revenue administration shall adopt rules,
+25 pursuant to RSA 541-A, relative to implementing the administration of the health reimbursement
+26 arrangementtaxcreditprogramestablishedunderthischapter.
+27 3 New Paragraph; Taxation; Business Profits Tax; Health Reimbursement Arrangement Tax
+28 Credit. AmendRSA77-A:5byinsertingafterparagraphXVIIthefollowingnewparagraph:
+29 XVIII. There shall be allowed a health reimbursement arrangement tax credit, as
+30 established in RSA 77-H, against taxes due under this chapter for any unused portion of credit that
+31 hasnotbeenappliedtothetaxesdueunderRSA77-E.
+32 4 New Section; Taxation; Business Enterprise Tax; Health Reimbursement Arrangement Tax
+33 Credit. AmendRSA77-Ebyinsertingaftersection 3-fthefollowingnewsection:
+34 77-E:3-g Health Reimbursement Arrangement Tax Credit. The health reimbursement
+35 arrangement tax credit established under RSA 77-H shall be allowed against taxes due under this
+36 chapter.
+SB635-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 5 Appropriation; Department of Revenue Administration. There is hereby appropriated to the
+2 department of revenue administration the sum of $40,000 for the fiscal year ending June 30, 2028,
+3 for the purpose of making internal improvements and system upgrades to the department's revenue
+4 informationmanagementsystem. Thegovernorisauthorizedtodrawawarrantforsaidsumsoutof
+5 anymoneyinthetreasurynototherwiseappropriated.
+6 6 Applicability. Sections 1 through 4 of this act shall apply to taxable periods ending on or
+7 afterDecember31,2027.
+8 7 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2214
+3/13/26
+SB635-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0832s)
+ANACT establishing a health reimbursement arrangement tax credit program and
+making an appropriation for improvements in the department of revenue
+administration'sinformationmanagementsystem.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the Individual Coverage Health Reimbursement Arrangement (ICHRA) tax
+credit against the Business Enterprise Tax (BET) and the Business Profits Tax (BPT) for
+qualified taxpayers that adopted a health reimbursement arrangement, as described in Section
+9831(d)oftheInternalRevenueCode,inlieuofatraditionalemployerprovidedhealthinsurance
+plan. Employers may claim credit for up to $300 in contributions per covered employee in the
+first two years of contributing to such plans. The credit is limited to $2.5 million per state fiscal
+yearinaggregateandisintendedtobeawardedona“firstcomefirstserved”basis.
+ThecreditistobeusedfirstagainsttheBETandthenanyunusedcreditmaybeclaimedagainst
+the BPT. The credit is “cascading” meaning any credit used to reduce BET liability would be
+considered “taxes paid” for purposes of the BET credit against the BPT. Unused credits may be
+carriedforwardforuptothreeyearsfollowingtheyearoftheexpenditures.
+The Department is not able to determine the magnitude of the fiscal impact due to the
+unpredictability of the credit being claimed and the associated business tax liability of the
+affected businesses. The Department states the maximum decrease in general fund and
+education trust fund revenue would be $2.5 million in the first year and indeterminable each
+fiscal year thereafter as it is not known how much of the credit will be requested and used or
+whencarryforwardcreditswillbeused.
+The Department will need to develop an application and award process for purposes of
+administering the credit including the need to modify applicable business tax forms and
+instructions. UpdatestotheRevenueInformationManagementSystemwillbeneededtopermit
+the claiming of the credit, managing the credit and managing the credit carry forwards. Based
+on estimates provided by its vendor, it is estimated to cost $40,000 to adequately modify the
+electronic system to implement this credit program and to not cause other work to not be
+completed. This bill appropriates $40,000 of general funds for the fiscal year ending June 30,
+2028(FY2028).
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration
+[DELETED: B6N-ASADBYTES606SEBNATegahhrtattxctpmagananfrisintedtofrsinmts:S.R,Dt9;S.A,Dt1;S.M,Dt1;S.Wt4;S.A,Dt2;S.PsK,Dt2;R.K,R.1.MyM,H.2;R.O,H.1;R.M,H.1;R,H.:WsadMDAsblesahhrtattxctpmadmsanfrisintedtofreasits-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATegahhrtattxctpmagananfrisintedtofrsinmtseitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknadcdtoas"eHhRtTxCPmA2NwC;HhRtAtTxC.AdRAbyiarcr7GtefgnwcCR7HHRTATTXC71D.AsudintscI.“de”msaneefrwmaqdtrmsaqc0I.“”mstedtofreofa1I.“da”msanilcehhrta2edptto45C.13oraqdslerhhr3atddinSn9)ofteIlReC4I."dc”msartbyaqdtrtoaq5atfrueinaewhaefllsadr6V.“dt”msanerwhfrtn50esttis7c,aldlyc,ap,orareytthsayset8lyurRA7AorRA7972EyC0AqdtrmycmactattrtxdeurRA7AadRA7,i1temrddinRA7,frqdcsof$0prcdeep2yrfrnometn2y,whslbec,i3()Teqdtrddntcetoanersdgph4iepnfrtecdeeinayofteps3y;a5()Tecntoaqdatintebtyrfrwhtecti6cdisntlstn$0metnteatpdinteltbtyrofane7sdgphhiepmorqdatfrtecdeeprtot8ftyrinwhtectwsc973HhRtAtTxC]
+[DELETED: B6N-ASADBYTESPe2I.Teslbeadahhrtattxctadtoqdt,asstfhinRA7,frqdcsmedgtety,asf()Toretectpdurtsc,aqdtrslsananonafmtobepdbytecradslbeadbinorrsrdbytec()Asslbepdonaftc,ftsdb,uptoteatxctatadurtss.Ifmeasaerdontesedtyslbepdatr0()Oea,tectmybecdbyteqdtrattxd1urRA7Eatayteintemrpdbyted.Ayudctm2beadatRA7.Frtepsoftectadur7,X,tec3urtssnslbecdtsp4()Teaeatoftxcsadurtscrmynte5$0inaysefly6()Tedtmyntadatxctartetlcsadu7tssnestemmataeinaprsefly8()Teatoftectpdbytscrttaqdtru9dgaprteyrmyntedtesetxlyofteqdt0()Ayudctadurtscrmybecdfdfrntm1tn3sgtep2()Aqdtrslntbeedtoackorrdofayu3c4I.Tecroftedtofreanslatr5pttoRA5,retoigteanoftehhr6attxctpmedurtsc73NwP;T;BsPsT;HhRtAtT8C.AdRA75byigarphXItefgnwp9X.Teslbeadahhrtattxc,a0edinRA7,attsdeurtscrfrayudpnofctt1hsntbnadtotetsdeurRA724NwS;T;BsEeT;HhRtAtT3C.AdRA7Ebyigarsftefgnws47gHhRtAtTxC.Tehhr5attxctedurRA7Hslbeadattsdeurt6c]
+[DELETED: B6N-ASADBYTESPe35A;DtofReA.Teishyadtotdtofreantesmof$0frteflyregJe3,2frtepeofmgilisadsmustotedsrinmts.Tegrisadtodwawtfrsdssotoaymyintetyntoea6A.Ss1th4oftsatslaytotepsegonoarDr3,27EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATegahhrtattxctpmagananfrisintedtofrsinmtsLIdSeIY26FY27FY28FY20$eIeDeFlFdadEnTtF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesteIlCeHhRtAt()ttatteBsEeTx()adteBsPsTx()fdtsttadahhrta,asddinS)ofteIlReC,inluofatlerpdhhi.Esmycmctfrupto$0incsprcdeeintttoysofcgtoshp.Tectisldto$5mnprsefrinaeadisidtobeadona“tcefts”bectistobeudftatteBTadtnayudctmybecdaeB.Tectis“”mgayctudtoreBTlywdbd“sp”frpsofteBTctatteB.UdcsmybdfdfruptoteysfgteyrofteeeDtisntaetodetemeofteflitdetotyoftectbgcdadteadbstxlyoftdb.TeDtsstemmdeinglfdanttfdrewdbe$5mninteftyradiee]
+[DELETED: lyrtrasitisntknhwmhoftectwlberdadudoncyfdcswlbeueDtwlndtodpananadadpsfrpsogtectigtendtomyaebstxfsa.UstoteReInMtSmwlbendtopecgoftec,mgtectadmgtectcyf.Bnespdbyisv,itisedtoct$0toaymytcsmtoittsctpmadtontceorwktontb.Tsblas$0ofglfsfrteflyregJe38(Y2SCtofReA]
+
+
+================================================================================
+
+Raw Text:
+SB635-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0832s
+2026SESSION
+26-2214
+07/06
+635-FN
+SENATEBILL
+ANACT establishing a health reimbursement arrangement tax credit program and
+making an appropriation for improvements in the department of revenue
+administration'sinformationmanagementsystem.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Avard, Dist 12; Sen. McGough, Dist 11; Sen. Watters,
+Dist 4; Sen. Abbas, Dist 22; Sen. Perkins Kwoka, Dist 21; Rep. Kuttab, Rock. 17;
+Rep. Mary Murphy, Hills. 27; Rep. Ohm, Hills. 10; Rep. Miles, Hills. 12; Rep.
+Labrie,Hills.2
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes a health reimbursement arrangement tax credit program and makes an
+appropriation for improvements in the department of revenue administration's information
+managementsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB635-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0832s 26-2214
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishing a health reimbursement arrangement tax credit program and
+making an appropriation for improvements in the department of revenue
+administration'sinformationmanagementsystem.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This act may be known and cited to as "The Health Reimbursement Tax Credit
+2 ProgramAct."
+3 2 New Chapter; Health Reimbursement Arrangement Tax Credit. Amend RSA by inserting
+4 afterchapter77-Gthefollowingnewchapter:
+5 CHAPTER77-H
+6 HEALTHREIMBURSEMENTARRANGEMENTTAXCREDIT
+7 77-H:1 Definitions. Asusedinthischapter:
+8 I. “Covered employee” means an employee for whom a qualified taxpayer makes a qualified
+9 contribution.
+10 II. “Department”meansthedepartmentofrevenueofadministration.
+11 III. “Qualified account” means an individual coverage health reimbursement arrangement
+12 established pursuant to 45 C.F.R. 146.123 or a qualified small employer health reimbursement
+13 arrangementdescribedinSection9831(d)oftheInternalRevenueCode.
+14 IV. "Qualified contribution” means a reimbursement by a qualified taxpayer to a qualified
+15 accountforuseinaccordancewithapplicablefederallawsandregulations.
+16 V. “Qualified taxpayer” means an employer with fewer than 50 employees that is a
+17 corporation, a limited liability company, a partnership, or another entity that has any state tax
+18 liabilityunderRSA77-AorRSA77-E.
+19 77-H:2 EligibilityCriteria.
+20 A qualified taxpayer may claim a credit against their tax due under RSA 77-A and RSA 77-E, in
+21 the manner described in RSA 77-H:3, for qualified contributions of $300 per covered employee per
+22 yearfornomorethan2years,whichshallbeconsecutive,if:
+23 (a) The qualified taxpayer did not contribute to an employer sponsored group health
+24 insuranceplanforthecoveredemployeeinanyoftheprevious3years;and
+25 (b) The contribution to a qualified account in the benefit year for which the credit is
+26 claimed is not less than $300 more than the amount provided in the last benefit year of an employer
+27 sponsoredgroup healthinsuranceprogram or qualified accountfor thecoveredemployeeprior tothe
+28 firstyearinwhichthecreditwasclaimed.
+29 77-H:3 HealthReimbursementArrangementTaxCredit.
+
+SB635-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. There shall be allowed a health reimbursement arrangement tax credit applied to a
+2 qualified taxpayer, as set forth in RSA 77-H:2, for qualified contributions made during the taxable
+3 year,asfollows:
+4 (a) To receive the credit provided under this chapter, a qualified taxpayer shall submit
+5 an application on a form to be prescribed by the commissioner and shall be accompanied by
+6 informationorrecordsrequiredbythecommissioner.
+7 (b) Applicationsshallbeprocessedonafirstcome,firstservedbasis,uptotheaggregate
+8 tax credit amount allowed under this section. If multiple applications are received on the same day,
+9 theyshallbeprocessedatrandom.
+10 (c) Once awarded, the credit may be claimed by the qualified taxpayer against tax due
+11 under RSA 77-E at any time in the manner prescribed by the department. Any unused credit may
+12 be applied against RSA 77-A. For the purposes of the credit allowed under 77-A:5, X, the credit
+13 underthissectionshallbeconsideredtaxespaid.
+14 (d) The aggregate amount of tax credits awarded under this chapter may not exceed
+15 $2,500,000inanystatefiscalyear.
+16 (e) The department may not award a tax credit after the total credits awarded under
+17 thissectionequalsthemaximumamountallowableinaparticularstatefiscalyear.
+18 (f) The amount of the credit provided by this chapter that a qualified taxpayer uses
+19 duringaparticulartaxableyearmaynotexceedthestatetaxliabilityofthequalifiedtaxpayer.
+20 (g) Any unused credit awarded under this chapter may be carried forward for not more
+21 than3succeedingtaxableperiods.
+22 (h) A qualified taxpayer shall not be entitled to a carry-back or refund of any unused
+23 credit.
+24 II. The commissioner of the department of revenue administration shall adopt rules,
+25 pursuant to RSA 541-A, relative to implementing the administration of the health reimbursement
+26 arrangementtaxcreditprogramestablishedunderthischapter.
+27 3 New Paragraph; Taxation; Business Profits Tax; Health Reimbursement Arrangement Tax
+28 Credit. AmendRSA77-A:5byinsertingafterparagraphXVIIthefollowingnewparagraph:
+29 XVIII. There shall be allowed a health reimbursement arrangement tax credit, as
+30 established in RSA 77-H, against taxes due under this chapter for any unused portion of credit that
+31 hasnotbeenappliedtothetaxesdueunderRSA77-E.
+32 4 New Section; Taxation; Business Enterprise Tax; Health Reimbursement Arrangement Tax
+33 Credit. AmendRSA77-Ebyinsertingaftersection 3-fthefollowingnewsection:
+34 77-E:3-g Health Reimbursement Arrangement Tax Credit. The health reimbursement
+35 arrangement tax credit established under RSA 77-H shall be allowed against taxes due under this
+36 chapter.
+
+SB635-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 5 Appropriation; Department of Revenue Administration. There is hereby appropriated to the
+2 department of revenue administration the sum of $40,000 for the fiscal year ending June 30, 2028,
+3 for the purpose of making internal improvements and system upgrades to the department's revenue
+4 informationmanagementsystem. Thegovernorisauthorizedtodrawawarrantforsaidsumsoutof
+5 anymoneyinthetreasurynototherwiseappropriated.
+6 6 Applicability. Sections 1 through 4 of this act shall apply to taxable periods ending on or
+7 afterDecember31,2027.
+8 7 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2214
+3/13/26
+SB635-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0832s)
+ANACT establishing a health reimbursement arrangement tax credit program and
+making an appropriation for improvements in the department of revenue
+administration'sinformationmanagementsystem.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes the Individual Coverage Health Reimbursement Arrangement (ICHRA) tax
+credit against the Business Enterprise Tax (BET) and the Business Profits Tax (BPT) for
+qualified taxpayers that adopted a health reimbursement arrangement, as described in Section
+9831(d)oftheInternalRevenueCode,inlieuofatraditionalemployerprovidedhealthinsurance
+plan. Employers may claim credit for up to $300 in contributions per covered employee in the
+first two years of contributing to such plans. The credit is limited to $2.5 million per state fiscal
+yearinaggregateandisintendedtobeawardedona“firstcomefirstserved”basis.
+ThecreditistobeusedfirstagainsttheBETandthenanyunusedcreditmaybeclaimedagainst
+the BPT. The credit is “cascading” meaning any credit used to reduce BET liability would be
+considered “taxes paid” for purposes of the BET credit against the BPT. Unused credits may be
+carriedforwardforuptothreeyearsfollowingtheyearoftheexpenditures.
+The Department is not able to determine the magnitude of the fiscal impact due to the
+unpredictability of the credit being claimed and the associated business tax liability of the
+affected businesses. The Department states the maximum decrease in general fund and
+education trust fund revenue would be $2.5 million in the first year and indeterminable each
+
+fiscal year thereafter as it is not known how much of the credit will be requested and used or
+whencarryforwardcreditswillbeused.
+The Department will need to develop an application and award process for purposes of
+administering the credit including the need to modify applicable business tax forms and
+instructions. UpdatestotheRevenueInformationManagementSystemwillbeneededtopermit
+the claiming of the credit, managing the credit and managing the credit carry forwards. Based
+on estimates provided by its vendor, it is estimated to cost $40,000 to adequately modify the
+electronic system to implement this credit program and to not cause other work to not be
+completed. This bill appropriates $40,000 of general funds for the fiscal year ending June 30,
+2028(FY2028).
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration
+
+[DELETED: B6N-ASADBYTES606SEBNATegahhrtattxctpmagananfrisintedtofrsinmts:S.R,Dt9;S.A,Dt1;S.M,Dt1;S.Wt4;S.A,Dt2;S.PsK,Dt2;R.K,R.1.MyM,H.2;R.O,H.1;R.M,H.1;R,H.:WsadMDAsblesahhrtattxctpmadmsanfrisintedtofreasits-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATegahhrtattxctpmagananfrisintedtofrsinmtseitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknadcdtoas"eHhRtTxCPmA2NwC;HhRtAtTxC.AdRAbyiarcr7GtefgnwcCR7HHRTATTXC71D.AsudintscI.“de”msaneefrwmaqdtrmsaqc0I.“”mstedtofreofa1I.“da”msanilcehhrta2edptto45C.13oraqdslerhhr3atddinSn9)ofteIlReC4I."dc”msartbyaqdtrtoaq5atfrueinaewhaefllsadr6V.“dt”msanerwhfrtn50esttis7c,aldlyc,ap,orareytthsayset8lyurRA7AorRA7972EyC0AqdtrmycmactattrtxdeurRA7AadRA7,i1temrddinRA7,frqdcsof$0prcdeep2yrfrnometn2y,whslbec,i3()Teqdtrddntcetoanersdgph4iepnfrtecdeeinayofteps3y;a5()Tecntoaqdatintebtyrfrwhtecti6cdisntlstn$0metnteatpdinteltbtyrofane7sdgphhiepmorqdatfrtecdeeprtot8ftyrinwhtectwsc973HhRtAtTxC]
+[DELETED: B6N-ASADBYTESPe2I.Teslbeadahhrtattxctadtoqdt,asstfhinRA7,frqdcsmedgtety,asf()Toretectpdurtsc,aqdtrslsananonafmtobepdbytecradslbeadbinorrsrdbytec()Asslbepdonaftc,ftsdb,uptoteatxctatadurtss.Ifmeasaerdontesedtyslbepdatr0()Oea,tectmybecdbyteqdtrattxd1urRA7Eatayteintemrpdbyted.Ayudctm2beadatRA7.Frtepsoftectadur7,X,tec3urtssnslbecdtsp4()Teaeatoftxcsadurtscrmynte5$0inaysefly6()Tedtmyntadatxctartetlcsadu7tssnestemmataeinaprsefly8()Teatoftectpdbytscrttaqdtru9dgaprteyrmyntedtesetxlyofteqdt0()Ayudctadurtscrmybecdfdfrntm1tn3sgtep2()Aqdtrslntbeedtoackorrdofayu3c4I.Tecroftedtofreanslatr5pttoRA5,retoigteanoftehhr6attxctpmedurtsc73NwP;T;BsPsT;HhRtAtT8C.AdRA75byigarphXItefgnwp9X.Teslbeadahhrtattxc,a0edinRA7,attsdeurtscrfrayudpnofctt1hsntbnadtotetsdeurRA724NwS;T;BsEeT;HhRtAtT3C.AdRA7Ebyigarsftefgnws47gHhRtAtTxC.Tehhr5attxctedurRA7Hslbeadattsdeurt6c]
+[DELETED: B6N-ASADBYTESPe35A;DtofReA.Teishyadtotdtofreantesmof$0frteflyregJe3,2frtepeofmgilisadsmustotedsrinmts.Tegrisadtodwawtfrsdssotoaymyintetyntoea6A.Ss1th4oftsatslaytotepsegonoarDr3,27EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATegahhrtattxctpmagananfrisintedtofrsinmtsLIdSeIY26FY27FY28FY20$eIeDeFlFdadEnTtF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesteIlCeHhRtAt()ttatteBsEeTx()adteBsPsTx()fdtsttadahhrta,asddinS)ofteIlReC,inluofatlerpdhhi.Esmycmctfrupto$0incsprcdeeintttoysofcgtoshp.Tectisldto$5mnprsefrinaeadisidtobeadona“tcefts”bectistobeudftatteBTadtnayudctmybecdaeB.Tectis“”mgayctudtoreBTlywdbd“sp”frpsofteBTctatteB.UdcsmybdfdfruptoteysfgteyrofteeeDtisntaetodetemeofteflitdetotyoftectbgcdadteadbstxlyoftdb.TeDtsstemmdeinglfdanttfdrewdbe$5mninteftyradiee]
+[DELETED: lyrtrasitisntknhwmhoftectwlberdadudoncyfdcswlbeueDtwlndtodpananadadpsfrpsogtectigtendtomyaebstxfsa.UstoteReInMtSmwlbendtopecgoftec,mgtectadmgtectcyf.Bnespdbyisv,itisedtoct$0toaymytcsmtoittsctpmadtontceorwktontb.Tsblas$0ofglfsfrteflyregJe38(Y2SCtofReA]

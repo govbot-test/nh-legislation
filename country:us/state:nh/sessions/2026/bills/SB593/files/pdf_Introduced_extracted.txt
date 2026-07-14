@@ -1,0 +1,242 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB593 -ASINTRODUCED
+2026SESSION
+26-2176
+08/06
+593
+ANACT relativetolandfills.
+SPONSORS: Sen. Avard, Dist 12; Sen. Watters, Dist 4; Sen. McConkey, Dist 3; Sen. Pearl, Dist
+17
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilldefinesandregulateslandfillexpansions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB593-ASINTRODUCED
+26-2176
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolandfills.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PurposeandFindings. Thegeneralcourtherebyfindsanddeclaresthat:
+2 I. There is a compelling state interest in maintaining adequate, reasonably priced disposal
+3 capacityforsolidwastegeneratedinNewHampshire.
+4 II. As a result of changes in federal and state law over the past 50 years and the economics
+5 ofsolidwastemanagement,wastedisposalfacilitiesaresitedregionallyinNewHampshire,butthey
+6 provide disposal capacity for municipalities throughout the state, often irrespective of whether a
+7 municipalityisincloseproximitytothedisposalfacility.
+8 III. The siting of new disposal capacity is often locally controversial and the use of local
+9 land-use regulation to prevent siting of new capacity can result in the frustration of the state's
+10 interest in maintaining adequate capacity. The general court prefers that new landfill capacity be
+11 developedinexpansionsof existingpermittedlandfills insteadof ongreenfieldsites because existing
+12 sites have already been carefully studied before being permitted and have been found suitable for
+13 landfillingbythedepartmentofenvironmentalservices.
+14 IV. The department of environmental services typically has decades of familiarity with
+15 conditions at such sites and the expansion of an existing use is generally consistent with the overall
+16 objectivesofland-usecontrols.
+17 V. Thestate'spreferenceforsuchexpansionswarrantsthat thestate'sregulatoryand policy
+18 interests take precedence over local regulation and restrictions, particularly because the
+19 department'srulesproviderobustprotectionofhumanhealthandtheenvironment.
+20 VI. Because of the overriding state interest, the department already regulates virtually
+21 everyaspect of landfill sitingand development thatwould ordinarilyberegulated under local zoning
+22 andplanningordinances.
+23 VII. This legislation leaves unchanged current law regarding siting of new landfill capacity
+24 onlandthatisnotadjacenttoexistingpermittedlandfillcapacity.
+25 2 New Paragraph; Public Health; Solid Waste Management; Definitions. Amend RSA 149-M:4
+26 byinsertingafterparagraphX-athefollowingnewparagraph:
+27 X-b. "Landfill expansion" means an addition to the permitted capacity of a landfill or the
+28 construction of previously permitted capacity for an existing landfill on a parcel or adjacent parcels,
+29 includingthoseseparatedbyaright-of-way,ownedbythelandfilloperatororitsaffiliates. Alandfill
+30 expansion may either be integrated into an existing landfill or be developed separately from the
+31 existinglandfill.
+SB593 -ASINTRODUCED
+-Page2-
+1 3 New Paragraphs; Preference for Landfill Expansions; Exclusive Permitting Authority; Host
+2 Community Agreement; Groundwater Protection Setback. Amend RSA 149-M:9 by inserting after
+3 paragraphXVthefollowingnewparagraphs:
+4 XVI.(a) To implement the state's preference for landfill expansion over greenfield siting of
+5 new landfill capacity, notwithstanding any other provision in this section, landfill expansions shall
+6 besubjecttoapprovalsolelybythedepartment,andnomunicipalordinance,bylaw,rule,regulation,
+7 agreement, or other restriction shall be effective to prevent the siting of a landfill expansion
+8 approved by the department. Nothing in this subparagraph shall be construed to limit the
+9 jurisdictionthatanyotherstatedepartmentmayhaveoversuchlandfillexpansions.
+10 (b) The owner of any landfill receiving an approval of a landfill expansion under this
+11 paragraph and who has an existing agreement with the host municipality to provide free services
+12 and pay the municipality a fee for each ton of waste received at the landfill shall increase the total
+13 value of such services and fee to a minimum of $2.50 per ton for all waste received in the landfill
+14 expansion.
+15 XVII. The department shall establish a site-specific setback distance for any proposed new
+16 landfill that is not a landfill expansion from any drinking water wells, perennial river, lake, or
+17 coastal water of New Hampshire, as defined in RSA 483-B:4, XVI(b). The setback distance shall be
+18 sufficient to prevent any groundwater that may become contaminated by the landfill or its
+19 infrastructure from reaching any existing drinking water wells, perennial river, lake, or coastal
+20 water of New Hampshire within 5 years. In determining the setback distance, the department shall
+21 consider the nature and distribution of subsurface soils, the seasonal volumes and gradient of
+22 groundwater flow, and the inclusion of on-site and off-site design features that will ensure the
+23 detection and remediation of groundwater that may become contaminated by the landfill or its
+24 infrastructurebeforeitreachesanysuchwells,rivers,lakes,orcoastalwaters.
+25 4 New Paragraph; Permit Applications; Assessment of Benefits and Impacts. Amend RSA 149-
+26 M:12byinsertingafterparagraphIthefollowingnewparagraph:
+27 I-a.(a) Any application for a new landfill that is not a landfill expansion shall, in addition to
+28 anyotherrequirementssetbythedepartmentbyrulesadoptedunderRSA541-A:
+29 (1) Describe in reasonable detail the benefits and impacts of the proposed landfill on
+30 existinglocal,regional,andstatelanduses;
+31 (2) Provideanalysisofthevisualimpactoftheproposedlandfillfromanyresidential
+32 property within one mile of the site of the proposed landfill during construction, operation, and post-
+33 closure through a visual impact assessment prepared in accordance with professional standards by
+34 anexpertinthefield;
+35 (3) Provideinformationinreasonabledetailabouttheprojectedbenefitsandimpacts
+36 of the proposed facility on state and regional business development, local, regional and state
+SB593 -ASINTRODUCED
+-Page3-
+1 economies, property values, aesthetics, tourism, and outdoor recreation. These analyses shall be
+2 conductedinaccordancewithprofessionalstandardsbyanexpertinthesefields;
+3 (4) Provide information in reasonable detail relative to the economic benefits and
+4 impacts of the proposed facility and potential infrastructure improvements associated with the
+5 proposedprojectonaffectedmunicipalities,theregion,andthestate;and
+6 (5) Provide information in reasonable detail about the projected impacts from noise,
+7 odor, or traffic associated with the transportation of waste to the facility over roads between the
+8 closest federal interstate highway and the landfill site to the extent such noise, odor, or traffic is not
+9 regulated by another state or federal agency. These analyses shall be conducted in accordance with
+10 professionalstandardsbyanexpertinthesefields.
+11 (b) In any decision approving a permit for such a new landfill the department shall
+12 includereasonableandpracticableconditionstomitigateanysuchimpacts.
+13 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B53-ASI6SEBNATretol:S.A,Dt1;S.W,Dt4;S.M,Dt3;S.P,D:EyadNlRsbldsadrslle-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B53-ASIEOFNWHnteYrofOrLdToTdTNATretoleitEdbyteSeadHeofRsinGlCtc1PeadF.TeglcthyfsaddstI.Teisacgseitinmga,rypddcyfrsdwegdinNwHI.Asartofcsinfladselwortept50ysadteeofsdwem,wedlfsaesdryinNwH,bttpedlcyfrmstttes,onieofwrmyisincepytotedlfI.Tesgofnwdlcyisonlycladteueofllerntoptsgofnwcycnrtintefnoftes0itinmgaec.Teglctpsttnwllcyb1ddinesofegpdlsidofongdssbee2ssheaybncysdbebgpdadhebnfdsef3lgbytedtofels4I.Tedtofelsstyhsdsoffyw5csatshssadteenofanegueisgyctwhteo6osoflec7V.Tesspefrsheswstttessryadp8istepeorllrnadr,pybet9dsrspertpnofhnhhadtee0V.Beofteogsei,tedtayrsv1eyatofllsgaddtttwdoyberdurllz2adpgo3V.Tslnlsudctlwrgsgofnwllc4onldttisntattoegpdllc52NwP;PcH;SdWeM;D.AdRA16byigarphXatefgnwp7X."le"msanantotepdcyofallort8cnofpypdcyfranegllonaploratp9igtesdbyar,odbytellororisa.Al0enmyerbeidioanegllorbeddsyfmt1egl]
+[DELETED: B53-ASIPe23NwP;PefrLlE;EePgA;HCyA;GrPnS.AdRA19byigaphXVtefgnwpX)Toittesspefrllenorgdsgonwllc,ngayorpnintss,llessbesttoalsybyted,adnomlo,b,r,ra,ororrnslbeeetopttesgofalleadbyted.Ngintsshslbecdtolttjnttayorsedtmyheorshlle0()Teorofayllrganalofallenurt1phadwohsanegatwhtehtmytopefes2adpytemyafefrehtnofwerdattellslietet3veofshssadfetoammof$0prtnfralwerdintel4e5X.Tedtslehascskdefraypdn6llttisntallenfmaydgwrw,plr,l,o7clwrofNwH,asddinRA4,X.Teskdeslb8sttoptaygrttmybecdbytellori9iefmrgayegdgwrw,plr,l,orc0wrofNwHewn5y.Indgteskd,tedts1crteneaddnofses,teslvsadgto2grf,adteinofoeadoednfsttwleet3dnadrnofgrttmybecdbytellori4iebeitrsayshw,r,l,orclw54NwP;PtA;AtofBsadI.AdRA16M2byigarphItefgnwp7I)Ayanfranwllttisntallens,inant8ayorrsstbytedtbyrsadurRA59()Deinredltebsadisoftepdllo0egl,r,adseldu1()Peasoftevlitoftepdllfmayr2pywnoemeofteseoftepdlldgc,o,adp3cethavlitatpdinaewhplssb4anetintef5()Peininredlattepdbsadi6oftepdfyonseadrlbsd,l,rlads]
+[DELETED: B53-ASIPe3e,pyv,a,t,adorr.Teasslbcdinaewhplssbyanetintef()Peininredlretoteecbsaisoftepdfyadplieisadwhtpdptonadm,ter,adtes;a()Peininredlattepdisfmno,ortcadwhtetnofwetotefyorrsbntctfliehyadtellsetoteetshn,o,ortcisnrdbyarseorfla.Teasslbecdinaew0plssbyanetintef1()Inaydnagaptfrshanwlltedts2iereadpecstomeayshi35EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB593 -ASINTRODUCED
+2026SESSION
+26-2176
+08/06
+593
+SENATEBILL
+ANACT relativetolandfills.
+SPONSORS: Sen. Avard, Dist 12; Sen. Watters, Dist 4; Sen. McConkey, Dist 3; Sen. Pearl, Dist
+17
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbilldefinesandregulateslandfillexpansions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB593-ASINTRODUCED
+26-2176
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolandfills.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PurposeandFindings. Thegeneralcourtherebyfindsanddeclaresthat:
+2 I. There is a compelling state interest in maintaining adequate, reasonably priced disposal
+3 capacityforsolidwastegeneratedinNewHampshire.
+4 II. As a result of changes in federal and state law over the past 50 years and the economics
+5 ofsolidwastemanagement,wastedisposalfacilitiesaresitedregionallyinNewHampshire,butthey
+6 provide disposal capacity for municipalities throughout the state, often irrespective of whether a
+7 municipalityisincloseproximitytothedisposalfacility.
+8 III. The siting of new disposal capacity is often locally controversial and the use of local
+9 land-use regulation to prevent siting of new capacity can result in the frustration of the state's
+10 interest in maintaining adequate capacity. The general court prefers that new landfill capacity be
+11 developedinexpansionsof existingpermittedlandfills insteadof ongreenfieldsites because existing
+12 sites have already been carefully studied before being permitted and have been found suitable for
+13 landfillingbythedepartmentofenvironmentalservices.
+14 IV. The department of environmental services typically has decades of familiarity with
+15 conditions at such sites and the expansion of an existing use is generally consistent with the overall
+16 objectivesofland-usecontrols.
+17 V. Thestate'spreferenceforsuchexpansionswarrantsthat thestate'sregulatoryand policy
+18 interests take precedence over local regulation and restrictions, particularly because the
+19 department'srulesproviderobustprotectionofhumanhealthandtheenvironment.
+20 VI. Because of the overriding state interest, the department already regulates virtually
+21 everyaspect of landfill sitingand development thatwould ordinarilyberegulated under local zoning
+22 andplanningordinances.
+23 VII. This legislation leaves unchanged current law regarding siting of new landfill capacity
+24 onlandthatisnotadjacenttoexistingpermittedlandfillcapacity.
+25 2 New Paragraph; Public Health; Solid Waste Management; Definitions. Amend RSA 149-M:4
+26 byinsertingafterparagraphX-athefollowingnewparagraph:
+27 X-b. "Landfill expansion" means an addition to the permitted capacity of a landfill or the
+28 construction of previously permitted capacity for an existing landfill on a parcel or adjacent parcels,
+29 includingthoseseparatedbyaright-of-way,ownedbythelandfilloperatororitsaffiliates. Alandfill
+30 expansion may either be integrated into an existing landfill or be developed separately from the
+31 existinglandfill.
+
+SB593 -ASINTRODUCED
+-Page2-
+1 3 New Paragraphs; Preference for Landfill Expansions; Exclusive Permitting Authority; Host
+2 Community Agreement; Groundwater Protection Setback. Amend RSA 149-M:9 by inserting after
+3 paragraphXVthefollowingnewparagraphs:
+4 XVI.(a) To implement the state's preference for landfill expansion over greenfield siting of
+5 new landfill capacity, notwithstanding any other provision in this section, landfill expansions shall
+6 besubjecttoapprovalsolelybythedepartment,andnomunicipalordinance,bylaw,rule,regulation,
+7 agreement, or other restriction shall be effective to prevent the siting of a landfill expansion
+8 approved by the department. Nothing in this subparagraph shall be construed to limit the
+9 jurisdictionthatanyotherstatedepartmentmayhaveoversuchlandfillexpansions.
+10 (b) The owner of any landfill receiving an approval of a landfill expansion under this
+11 paragraph and who has an existing agreement with the host municipality to provide free services
+12 and pay the municipality a fee for each ton of waste received at the landfill shall increase the total
+13 value of such services and fee to a minimum of $2.50 per ton for all waste received in the landfill
+14 expansion.
+15 XVII. The department shall establish a site-specific setback distance for any proposed new
+16 landfill that is not a landfill expansion from any drinking water wells, perennial river, lake, or
+17 coastal water of New Hampshire, as defined in RSA 483-B:4, XVI(b). The setback distance shall be
+18 sufficient to prevent any groundwater that may become contaminated by the landfill or its
+19 infrastructure from reaching any existing drinking water wells, perennial river, lake, or coastal
+20 water of New Hampshire within 5 years. In determining the setback distance, the department shall
+21 consider the nature and distribution of subsurface soils, the seasonal volumes and gradient of
+22 groundwater flow, and the inclusion of on-site and off-site design features that will ensure the
+23 detection and remediation of groundwater that may become contaminated by the landfill or its
+24 infrastructurebeforeitreachesanysuchwells,rivers,lakes,orcoastalwaters.
+25 4 New Paragraph; Permit Applications; Assessment of Benefits and Impacts. Amend RSA 149-
+26 M:12byinsertingafterparagraphIthefollowingnewparagraph:
+27 I-a.(a) Any application for a new landfill that is not a landfill expansion shall, in addition to
+28 anyotherrequirementssetbythedepartmentbyrulesadoptedunderRSA541-A:
+29 (1) Describe in reasonable detail the benefits and impacts of the proposed landfill on
+30 existinglocal,regional,andstatelanduses;
+31 (2) Provideanalysisofthevisualimpactoftheproposedlandfillfromanyresidential
+32 property within one mile of the site of the proposed landfill during construction, operation, and post-
+33 closure through a visual impact assessment prepared in accordance with professional standards by
+34 anexpertinthefield;
+35 (3) Provideinformationinreasonabledetailabouttheprojectedbenefitsandimpacts
+36 of the proposed facility on state and regional business development, local, regional and state
+
+SB593 -ASINTRODUCED
+-Page3-
+1 economies, property values, aesthetics, tourism, and outdoor recreation. These analyses shall be
+2 conductedinaccordancewithprofessionalstandardsbyanexpertinthesefields;
+3 (4) Provide information in reasonable detail relative to the economic benefits and
+4 impacts of the proposed facility and potential infrastructure improvements associated with the
+5 proposedprojectonaffectedmunicipalities,theregion,andthestate;and
+6 (5) Provide information in reasonable detail about the projected impacts from noise,
+7 odor, or traffic associated with the transportation of waste to the facility over roads between the
+8 closest federal interstate highway and the landfill site to the extent such noise, odor, or traffic is not
+9 regulated by another state or federal agency. These analyses shall be conducted in accordance with
+10 professionalstandardsbyanexpertinthesefields.
+11 (b) In any decision approving a permit for such a new landfill the department shall
+12 includereasonableandpracticableconditionstomitigateanysuchimpacts.
+13 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B53-ASI6SEBNATretol:S.A,Dt1;S.W,Dt4;S.M,Dt3;S.P,D:EyadNlRsbldsadrslle-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B53-ASIEOFNWHnteYrofOrLdToTdTNATretoleitEdbyteSeadHeofRsinGlCtc1PeadF.TeglcthyfsaddstI.Teisacgseitinmga,rypddcyfrsdwegdinNwHI.Asartofcsinfladselwortept50ysadteeofsdwem,wedlfsaesdryinNwH,bttpedlcyfrmstttes,onieofwrmyisincepytotedlfI.Tesgofnwdlcyisonlycladteueofllerntoptsgofnwcycnrtintefnoftes0itinmgaec.Teglctpsttnwllcyb1ddinesofegpdlsidofongdssbee2ssheaybncysdbebgpdadhebnfdsef3lgbytedtofels4I.Tedtofelsstyhsdsoffyw5csatshssadteenofanegueisgyctwhteo6osoflec7V.Tesspefrsheswstttessryadp8istepeorllrnadr,pybet9dsrspertpnofhnhhadtee0V.Beofteogsei,tedtayrsv1eyatofllsgaddtttwdoyberdurllz2adpgo3V.Tslnlsudctlwrgsgofnwllc4onldttisntattoegpdllc52NwP;PcH;SdWeM;D.AdRA16byigarphXatefgnwp7X."le"msanantotepdcyofallort8cnofpypdcyfranegllonaploratp9igtesdbyar,odbytellororisa.Al0enmyerbeidioanegllorbeddsyfmt1egl]
+[DELETED: B53-ASIPe23NwP;PefrLlE;EePgA;HCyA;GrPnS.AdRA19byigaphXVtefgnwpX)Toittesspefrllenorgdsgonwllc,ngayorpnintss,llessbesttoalsybyted,adnomlo,b,r,ra,ororrnslbeeetopttesgofalleadbyted.Ngintsshslbecdtolttjnttayorsedtmyheorshlle0()Teorofayllrganalofallenurt1phadwohsanegatwhtehtmytopefes2adpytemyafefrehtnofwerdattellslietet3veofshssadfetoammof$0prtnfralwerdintel4e5X.Tedtslehascskdefraypdn6llttisntallenfmaydgwrw,plr,l,o7clwrofNwH,asddinRA4,X.Teskdeslb8sttoptaygrttmybecdbytellori9iefmrgayegdgwrw,plr,l,orc0wrofNwHewn5y.Indgteskd,tedts1crteneaddnofses,teslvsadgto2grf,adteinofoeadoednfsttwleet3dnadrnofgrttmybecdbytellori4iebeitrsayshw,r,l,orclw54NwP;PtA;AtofBsadI.AdRA16M2byigarphItefgnwp7I)Ayanfranwllttisntallens,inant8ayorrsstbytedtbyrsadurRA59()Deinredltebsadisoftepdllo0egl,r,adseldu1()Peasoftevlitoftepdllfmayr2pywnoemeofteseoftepdlldgc,o,adp3cethavlitatpdinaewhplssb4anetintef5()Peininredlattepdbsadi6oftepdfyonseadrlbsd,l,rlads]
+[DELETED: B53-ASIPe3e,pyv,a,t,adorr.Teasslbcdinaewhplssbyanetintef()Peininredlretoteecbsaisoftepdfyadplieisadwhtpdptonadm,ter,adtes;a()Peininredlattepdisfmno,ortcadwhtetnofwetotefyorrsbntctfliehyadtellsetoteetshn,o,ortcisnrdbyarseorfla.Teasslbecdinaew0plssbyanetintef1()Inaydnagaptfrshanwlltedts2iereadpecstomeayshi35EeD.Tsatslteet60dsarisp]

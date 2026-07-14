@@ -1,0 +1,239 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB540-FN-ASINTRODUCED
+2026SESSION
+26-2126
+06/05
+540-FN
+ANACT relativetoportablesolargenerationdevices.
+SPONSORS: Sen. Watters, Dist 4; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Rosenwald,
+Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Murphy, Dist 16; Sen. Altschiller, Dist
+24;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Defines “portable solar generation device,” exempts them from interconnection requirements
+andnetmetering,andestablishessafetystandards.
+II. Limitselectricdistributionutilityliability.
+III. Directs the public utilities commission to adopt rules as necessary to implement these
+provisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB540-FN-ASINTRODUCED
+26-2126
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoportablesolargenerationdevices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Definitions. Amend RSA 362-A:1-a by inserting after paragraph X the
+2 followingnewparagraph:
+3 XI. “Portablesolargenerationdevice”meansamovablephotovoltaicgenerationdevicethat:
+4 (a) Hasamaximumpoweroutputnotexceeding1,200watts;
+5 (b) Is designed to be connected to a building’s electrical system through a standard
+6 120-voltreceptacle;
+7 (c) Is intended primarily to offset a portion of the customer’s on-site electric
+8 consumption.
+9 2 New Section;PortableSolar GenerationDevices. AmendRSA362-Abyinsertingafter section
+10 9thefollowingnewsection:
+11 362-A:10 PortableSolarGenerationDevices;Exemptions;Requirements.
+12 I. Aportablesolargenerationdevicethatmeetstherequirementsofthissectionshallbe:
+13 (a) Exempt from interconnection requirements and interconnection agreements
+14 applicable to generators participating in net-metering or otherwise interconnecting to export electric
+15 power;and
+16 (b) NotsubjecttothenetenergymeteringprovisionsofRSA362-A:9.
+17 II. A portable solar generation device shall include integrated functionality that complies
+18 with UL 1741 or IEEE 1547 standards, or equivalent standards, including anti-islanding protection
+19 andrapidshutdownthatpreventenergizingabuilding’selectricalsystemduringapoweroutage.
+20 III. An electric distribution utility shall not require a customer using a compliant portable
+21 solargenerationdeviceto:
+22 (a) Obtainutilityapprovalbeforeinstallingorusingthedevice;
+23 (b) Payanyfeeorchargerelatedtothedevice;or
+24 (c) Install additional utility-specified controls or equipment beyond those integrated into
+25 thedevice.
+26 IV. Each portable solar generation device shall comply with the state building and electrical
+27 codeadoptedunderRSA155-A:2andshallbeinstalledandoperatedinaccordancewiththecodeand
+28 manufacturerinstructions.
+29 3 New Section; Liability. Amend RSA 374 by inserting after section 1-a the following new
+30 section:
+SB540-FN-ASINTRODUCED
+-Page2-
+1 374:1-b Liabilityfor PortableSolarGenerationDevices. Anelectric distributionutilityshall not
+2 be liable for damage or injury arising from a portable solar generation device installed or used by a
+3 customer. Nothing in this section shall be construed to limit any cause of action against the
+4 manufacturer,installer,orownerofaportablesolargenerationdevice.
+5 4 Rulemaking. The public utilities commission may adopt rules under RSA 541-A as necessary
+6 toimplementthisactandmayamendexistingrulesunderRSA362-A:9toclarifythatportablesolar
+7 generationdevicesarenon-exportingandoutsidenet-meteringandinterconnectionframeworks.
+8 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2126
+Revised12/4/25
+SB540-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoportablesolargenerationdevices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $245,000 $257,000 $270,000
+FundingSource(s) UtilityAssessmentunderRSA363-A:1
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill defines “portable solar generation devices” and exempts them from interconnection and
+net-metering requirements. The bill prohibits electric distribution utilities from requiring
+approval, fees, or additional equipment for these devices, establishes safety and code-compliance
+standards, limits utility liability, and authorizes the Public Utilities Commission to adopt rules
+toimplementtheact.
+The Public Utilities Commission (PUC) states this bill will result in an indeterminable increase
+in state expenditures beginning in FY 2027. The PUC indicates additional workload associated
+with rulemaking and implementation may require one full-time Utility Analyst with a cost of
+$127,000 in FY 2027, $133,000 in FY 2028, and $140,000 in FY 2026 and one full-time Attorney
+(Lawyer III) with a cost of $118,000 in FY 2027, $124,000 in FY 2028 and $130,000 in FY 2029.
+This will increase expenditures funded by the utility assessment pursuant to RSA 363-A:1 by
+$245,000 in FY 2027, $257,000 in FY 2028 and $270,000 in FY 2029. The bill does not provide
+fundingorpositionauthorization.
+The Department of Energy states the administrative responsibilities created by this bill fall
+within its existing workload and can be managed with current staff and resources. As a result,
+noadditionaladministrativecostsareanticipated.
+AGENCIESCONTACTED:
+PublicUtilitiesCommissionandDepartmentofEnergy
+[DELETED: B5N-ASI6SEBNATretopesrgnd:S.W,Dt4;S.P,Dt1;S.A,Dt1;S.Rt1;S.PsK,Dt2;S.M,Dt1;S.A,D;R.M,H.3:EyadNlRsb.Ds“esrgnd”estmfminrdntm,adessys.Lsecdnuyl.Dstepcuscntoatrsasnytoitt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretopesrgndeitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA3abyigarphXtfgnwpX.“esrgnd”msamepcgndet()Hsammprotnteg10w()Isddtobecdtoabselsmthas1tr()Isidpytootapnoftecsoeec2NwS;PeSrGnD.AdRA3Abyigars09tefgnws130PeSrGnD;E;R2I.Apesrgndettmstersoftssnslb3()Etfminrsadina4aetogspginngoroeigtoete5p;a6()NtsttotenteymgpsofRA37I.Apesrgndeslieidfyttc8whUL11orIE17s,orets,igagp9adrdsnttptegabselsmdgapro0I.Anecdnuyslntreacrugactp1srgndet2()Onuyalbeigorugted3()Pyayfeorcerdtoted;o4()Ilaludcsoretbdteidi5ted6I.Ehpesrgndeslcywhtesebgade7ceadurRA12adslbeidadodinaewhtecea8mri93NwS;L.AdRA34byigarsn1atefgn0s]
+[DELETED: B5N-ASIPe23bLyfrPeSrGnD.Anecdnuyslnbelefrdeoriyagfmapesrgndeidorudbyc.Ngintssnslbecdtoltayceofanattm,i,ororofapesrgnd4R.TepcuscnmyatrsurRA5AasntoittsatadmyadegrsurRA39tocyttpesgndsaengadoengadinf5EeD.TsatslteetJy1,2]
+[DELETED: d1B5-FLNSINATretopesrgndLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSyAturRA30$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblds“esrgnd”adestmfminagr.Teblpsecdnusfmr,f,oraletfrted,essyadc,lsuyl,adastePcUsCntoatroitteaePcUsCn()sstsblwlrtinanieinseesbginFY2.TePCisalwdahrgadinmyreoefeUyAtwhacto0inFY2,$0inFY2,ad$0inFY26adoefeArI)whactof$0inFY2,$0inFY28ad$0inFY2swlieesfdbyteuyatpttoRA31b0inFY2,$0inFY28ad$0inFY2.TebldsntpgorpnaeDtofEyssteaerscdbytsblfnisegwdadcnbemdwhctsfadr.Asaroalaecsaea]
+[DELETED: SCcUsCnadDtofE]
+
+
+================================================================================
+
+Raw Text:
+SB540-FN-ASINTRODUCED
+2026SESSION
+26-2126
+06/05
+540-FN
+SENATEBILL
+ANACT relativetoportablesolargenerationdevices.
+SPONSORS: Sen. Watters, Dist 4; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Rosenwald,
+Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Murphy, Dist 16; Sen. Altschiller, Dist
+24;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Defines “portable solar generation device,” exempts them from interconnection requirements
+andnetmetering,andestablishessafetystandards.
+II. Limitselectricdistributionutilityliability.
+III. Directs the public utilities commission to adopt rules as necessary to implement these
+provisions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB540-FN-ASINTRODUCED
+26-2126
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoportablesolargenerationdevices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Definitions. Amend RSA 362-A:1-a by inserting after paragraph X the
+2 followingnewparagraph:
+3 XI. “Portablesolargenerationdevice”meansamovablephotovoltaicgenerationdevicethat:
+4 (a) Hasamaximumpoweroutputnotexceeding1,200watts;
+5 (b) Is designed to be connected to a building’s electrical system through a standard
+6 120-voltreceptacle;
+7 (c) Is intended primarily to offset a portion of the customer’s on-site electric
+8 consumption.
+9 2 New Section;PortableSolar GenerationDevices. AmendRSA362-Abyinsertingafter section
+10 9thefollowingnewsection:
+11 362-A:10 PortableSolarGenerationDevices;Exemptions;Requirements.
+12 I. Aportablesolargenerationdevicethatmeetstherequirementsofthissectionshallbe:
+13 (a) Exempt from interconnection requirements and interconnection agreements
+14 applicable to generators participating in net-metering or otherwise interconnecting to export electric
+15 power;and
+16 (b) NotsubjecttothenetenergymeteringprovisionsofRSA362-A:9.
+17 II. A portable solar generation device shall include integrated functionality that complies
+18 with UL 1741 or IEEE 1547 standards, or equivalent standards, including anti-islanding protection
+19 andrapidshutdownthatpreventenergizingabuilding’selectricalsystemduringapoweroutage.
+20 III. An electric distribution utility shall not require a customer using a compliant portable
+21 solargenerationdeviceto:
+22 (a) Obtainutilityapprovalbeforeinstallingorusingthedevice;
+23 (b) Payanyfeeorchargerelatedtothedevice;or
+24 (c) Install additional utility-specified controls or equipment beyond those integrated into
+25 thedevice.
+26 IV. Each portable solar generation device shall comply with the state building and electrical
+27 codeadoptedunderRSA155-A:2andshallbeinstalledandoperatedinaccordancewiththecodeand
+28 manufacturerinstructions.
+29 3 New Section; Liability. Amend RSA 374 by inserting after section 1-a the following new
+30 section:
+
+SB540-FN-ASINTRODUCED
+-Page2-
+1 374:1-b Liabilityfor PortableSolarGenerationDevices. Anelectric distributionutilityshall not
+2 be liable for damage or injury arising from a portable solar generation device installed or used by a
+3 customer. Nothing in this section shall be construed to limit any cause of action against the
+4 manufacturer,installer,orownerofaportablesolargenerationdevice.
+5 4 Rulemaking. The public utilities commission may adopt rules under RSA 541-A as necessary
+6 toimplementthisactandmayamendexistingrulesunderRSA362-A:9toclarifythatportablesolar
+7 generationdevicesarenon-exportingandoutsidenet-meteringandinterconnectionframeworks.
+8 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2126
+Revised12/4/25
+SB540-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoportablesolargenerationdevices.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $245,000 $257,000 $270,000
+FundingSource(s) UtilityAssessmentunderRSA363-A:1
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill defines “portable solar generation devices” and exempts them from interconnection and
+net-metering requirements. The bill prohibits electric distribution utilities from requiring
+approval, fees, or additional equipment for these devices, establishes safety and code-compliance
+standards, limits utility liability, and authorizes the Public Utilities Commission to adopt rules
+toimplementtheact.
+The Public Utilities Commission (PUC) states this bill will result in an indeterminable increase
+in state expenditures beginning in FY 2027. The PUC indicates additional workload associated
+with rulemaking and implementation may require one full-time Utility Analyst with a cost of
+$127,000 in FY 2027, $133,000 in FY 2028, and $140,000 in FY 2026 and one full-time Attorney
+(Lawyer III) with a cost of $118,000 in FY 2027, $124,000 in FY 2028 and $130,000 in FY 2029.
+This will increase expenditures funded by the utility assessment pursuant to RSA 363-A:1 by
+$245,000 in FY 2027, $257,000 in FY 2028 and $270,000 in FY 2029. The bill does not provide
+fundingorpositionauthorization.
+The Department of Energy states the administrative responsibilities created by this bill fall
+within its existing workload and can be managed with current staff and resources. As a result,
+noadditionaladministrativecostsareanticipated.
+
+AGENCIESCONTACTED:
+PublicUtilitiesCommissionandDepartmentofEnergy
+
+[DELETED: B5N-ASI6SEBNATretopesrgnd:S.W,Dt4;S.P,Dt1;S.A,Dt1;S.Rt1;S.PsK,Dt2;S.M,Dt1;S.A,D;R.M,H.3:EyadNlRsb.Ds“esrgnd”estmfminrdntm,adessys.Lsecdnuyl.Dstepcuscntoatrsasnytoitt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretopesrgndeitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA3abyigarphXtfgnwpX.“esrgnd”msamepcgndet()Hsammprotnteg10w()Isddtobecdtoabselsmthas1tr()Isidpytootapnoftecsoeec2NwS;PeSrGnD.AdRA3Abyigars09tefgnws130PeSrGnD;E;R2I.Apesrgndettmstersoftssnslb3()Etfminrsadina4aetogspginngoroeigtoete5p;a6()NtsttotenteymgpsofRA37I.Apesrgndeslieidfyttc8whUL11orIE17s,orets,igagp9adrdsnttptegabselsmdgapro0I.Anecdnuyslntreacrugactp1srgndet2()Onuyalbeigorugted3()Pyayfeorcerdtoted;o4()Ilaludcsoretbdteidi5ted6I.Ehpesrgndeslcywhtesebgade7ceadurRA12adslbeidadodinaewhtecea8mri93NwS;L.AdRA34byigarsn1atefgn0s]
+[DELETED: B5N-ASIPe23bLyfrPeSrGnD.Anecdnuyslnbelefrdeoriyagfmapesrgndeidorudbyc.Ngintssnslbecdtoltayceofanattm,i,ororofapesrgnd4R.TepcuscnmyatrsurRA5AasntoittsatadmyadegrsurRA39tocyttpesgndsaengadoengadinf5EeD.TsatslteetJy1,2]
+[DELETED: d1B5-FLNSINATretopesrgndLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0$0$0$gSyAturRA30$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblds“esrgnd”adestmfminagr.Teblpsecdnusfmr,f,oraletfrted,essyadc,lsuyl,adastePcUsCntoatroitteaePcUsCn()sstsblwlrtinanieinseesbginFY2.TePCisalwdahrgadinmyreoefeUyAtwhacto0inFY2,$0inFY2,ad$0inFY26adoefeArI)whactof$0inFY2,$0inFY28ad$0inFY2swlieesfdbyteuyatpttoRA31b0inFY2,$0inFY28ad$0inFY2.TebldsntpgorpnaeDtofEyssteaerscdbytsblfnisegwdadcnbemdwhctsfadr.Asaroalaecsaea]
+[DELETED: SCcUsCnadDtofE]

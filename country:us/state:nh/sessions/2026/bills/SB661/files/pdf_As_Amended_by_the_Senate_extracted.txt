@@ -1,0 +1,900 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+SB661-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1208s
+2026SESSION
+26-3262
+07/05
+661-FN
+ANACT relativetopooledriskmanagementprograms.
+SPONSORS: Sen.Carson,Dist14;Sen.Gray,Dist6
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Enables the secretary of state to require abatement of insufficient assets or to seek
+receivership,ifnecessary,ofapooledriskmanagementprogram.
+II. Requires assessment of each participating member of the pooled risk management program
+onaproratabasistosatisfytheamountofthedeficiency.
+III. Requires the governing board of the pooled risk management program to use a standard of
+care,diligence,prudence,andskillinthemanagementoftheprogram.
+IV. Provides for the assessment of a pooled risk management program’s participating members,
+ifrequired,afteranactuarialcalculation.
+V. Provides for contingency reserve standards depending on the pooled risk management
+programs line of coverage and requiring a contingency reserve replenishment if a program’s
+contingencyreservesfallbelowtheminimumlevel.
+VI. Requires pooled risk management programs to make certain public disclosures to
+prospectiveandactualmemberpoliticalsubdivisions.
+VII. Makestechnicalcorrectionstothepooledriskmanagementprogramchapter.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB661-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1208s 26-3262
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopooledriskmanagementprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PooledRiskManagementPrograms. RSA5-Bisrepealedandreenactedtoreadasfollows:
+2 CHAPTER5-B
+3 POOLEDRISKMANAGEMENTPROGRAMS
+4 5-B:1 Purpose. The purpose of this chapter is to provide for the establishment of pooled risk
+5 management programs and to affirm the status of such programs established for the benefit of
+6 political subdivisions of the state. The legislature finds and determines that insurance and risk
+7 management are essential to the proper functioning of political subdivisions; that risk management
+8 can be achieved through the purchase of traditional insurance, self-insurance, or participation in
+9 pooled risk management programs established for the benefit of political subdivisions; that pooled
+10 risk management is an essential governmental function by providing focused public sector loss
+11 prevention programs, accrual of interest and dividend earnings that may be returned to the public
+12 benefit,andestablishmentofcostspredicatedsolelyontheactualexperienceofpoliticalsubdivisions
+13 within the state; that the resources of political subdivisions are presently burdened by the securing
+14 of insurance protection through standard carriers; and that pooled risk management programs that
+15 meet the standards established by this chapter should not be subject to insurance regulation and
+16 taxationbythestate.
+17 5-B:2 Definitions. Inthischapter:
+18 I. "Department"meansthedepartmentofstate.
+19 II. "Informational filing" means an annual filing with the department made solely for the
+20 purpose of providing public access to certain information concerning the nature and organization of
+21 pooledriskmanagementprograms. Suchinformationalfilingshallbelimitedtothefollowing:
+22 (a) Thenameandlegaladdressofeachpooledriskmanagementprogram;
+23 (b) Alistofcurrentofficers,theirtitles,andaddresses;
+24 (c) Abriefdescriptionofthecoverageprovided;
+25 (d) TheannualauditrequiredunderRSA5-B:5,I(d);
+26 (e) Thepooledriskmanagementprogrambylaws;and
+27 (f) TheannualactuarialevaluationrequiredunderRSA5-B:5,I(h).
+28 III. "Political subdivision" means any city, town, county, school district, chartered public
+29 school, village district, school administrative unit, or any district or entity created for a special
+30 purposeadministeredorfundedbyanyoftheabove-namedgovernmentalunits.
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 IV. "Risk management" means the defense of claims and indemnification for losses arising
+2 out of the ownership, maintenance, and operation of real or personal property and the acts or
+3 omissions of officials, employees, and agents; the provision of loss prevention services including, but
+4 not limited to, inspections of property and the training of personnel; and the investigation,
+5 evaluation,andsettlementofclaimsbyandagainstpoliticalsubdivisions.
+6 V. “Administration”, as used in RSA 5-B:5, I(f), means reasonable expenses for providing
+7 pooledriskmanagement,includingbutnotlimitedto:
+8 (a) Salaries and benefits, related facilities and operational infrastructure, contract costs
+9 for external experts providing direct support of covered services, and other related business
+10 expenses,includingriskevaluationandwellnessprograms.
+11 (b) Processing, evaluation, and settlement services incurred in the payment of claims
+12 andotherrelatedlosses.
+13 (c) Auditor,actuarial,legal,andaccountingservicesforadministrationofthepooledrisk
+14 program.
+15 (d) Expenses related to oversight services due to non-compliance with the provisions of
+16 thischapter.
+17 The reasonableness of an expense for administration under this chapter may be disputed in an
+18 examination or administrative hearing commenced by the secretary of state pursuant to RSA 5-B:4-
+19 a. In the first instance, the advisory committee shall review questions regarding the reasonableness
+20 of expenses under this chapter and provide the secretary of state with their recommendations. If an
+21 agreement on the reasonability of an expense cannot be achieved, the secretary of state may take
+22 actions pursuant to RSA 5-B:4-a. Any decision on the reasonability of any expense shall be made
+23 availabletoallpooledriskmanagementprograms.
+24 VI. “Reserves” means claims reserves, case reserves and incurred but not reported (IBNR)
+25 reserves,contributiondeficiencyreserves,andcontingencyreserves.
+26 VII. “Contingency reserves” means the amount of surplus to be retained by the pooled risk
+27 management program for the upcoming plan year and the following 2 years as may be reasonably
+28 established and subsequently required to cover expected and unforeseen or extraordinary claim and
+29 administrativelossesandliabilities.
+30 VIII. “Excessinsurance”meansreinsurance.
+31 IX. “Assessments” means a provision that, if the assets of a pooled risk management
+32 program are at any time actuarially determined to be insufficient to discharge its claim and
+33 administrativelossesandliabilitiesandotherlegalobligationsoftheplan,theprogramshall,within
+34 30 days of such a determination, notify the members of the requirement to provide additional
+35 contributionsfromitsexistingmembersfortheamountneededtomakeupthedeficiency.
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 X. "Advisory board" means a committee comprised of the secretary of state designee, the
+2 commissioner of the department of insurance designee, and the chief of the consumer protection and
+3 antitrustbureauoftheofficeoftheattorneygeneraldesignee.
+4 XI. "Member equity stabilization fund" means funds deposited in a bank as defined in RSA
+5 383-A:2-201(a)(3), pursuant to the criteria set forth in RSA 6:8, for bank deposits on behalf of each
+6 member, such as the deposits of excess contingency reserves. This fund’s purpose is to provide
+7 additional funds to the contingency reserve fund if the contingency reserve falls below 1/3 of the
+8 minimum set forthinRSA 5-B:5, I(f), whichshould greatlyreduceor eliminate theneed for an order
+9 requiring abatement of the deficiency per RSA 5-B:4-b. However, nothing in this chapter shall
+10 prohibit any pooled risk management program from allowing any member to withdraw any amount
+11 fromthememberequitystabilizationfundinexcessoftherequiredminimumsetforthinRSA5-B:5,
+12 I(g),providedthatthepooledriskmanagementprogram’sbylawsallowforsuchwithdrawal.
+13 5-B:3 PooledRiskManagementAuthorizedandAffirmed;Membership.
+14 I. A political subdivision, by resolution of its governing body, may establish and enter into
+15 agreements for obtaining or implementing insurance by self-insurance; for obtaining insurance from
+16 any insurer authorized to transact business in this state as an admitted or surplus lines carrier; for
+17 obtaining insurance secured in accordance with any method provided by law; or for obtaining
+18 insurance by any combination of the provisions of this paragraph. Agreements made pursuant to
+19 this paragraph may provide for pooling of self-insurance reserves, risks, claims and losses, and of
+20 administrative services and expenses associated with them among political subdivisions. To
+21 accomplish the purposes of this chapter, 2 or more political subdivisions may form an association
+22 under the laws of this state or affirm an existing association so formed to develop and administer a
+23 risk management program having as its purposes reducing the risk of its members; safety
+24 engineering; distributing, sharing, and pooling risks; acquiring insurance, excess loss insurance, or
+25 reinsurance;andprocessing,paying,anddefendingclaimsagainstthemembersofsuchassociation.
+26 II. RSA 53-A shall not apply to an association formed or affirmed under this chapter, nor to
+27 theparticipationinsuchanassociationbyapoliticalsubdivision.
+28 III. Pooled risk management programs established for the benefit of political subdivisions
+29 mayprovideanyorallofthefollowingcoverages:
+30 (a) Casualty, including general and professional liability; errors and omissions; workers'
+31 compensation and employer's liability; medical payments; or unemployment compensation as
+32 authorizedunderfederallaw.
+33 (b) Property, including marine and inland navigation, transportation, boiler and
+34 machinery,fire,theft,ornaturalhazards.
+35 (c) Vehicle, including any liability or loss arising from the ownership or operation of
+36 vehicles.
+37 (d) Suretyandfidelity.
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 (e) Environmentalimpairment.
+2 (f) Hospital,medical,surgical,ordentalbenefitsforemployeesandtheirdependents.
+3 (g) Life, income maintenance, accidental death and dismemberment, vision loss or
+4 impairment,orlegalbenefitsforemployeesandtheirdependents.
+5 (h) Unanticipatedspecialeducationcostrecovery.
+6 5-B:4 Informational Filing Required; Fee. Pooled risk management programs established for
+7 the benefit of political subdivisions shall make an informational filing, as defined in RSA 5-B:2, II,
+8 withthedepartmentandshallpayanannualfilingfeeof$250. Thedepartmentmaymakerequests
+9 foradditionalinformationnecessarytoexerciseregulatoryorenforcementauthoritypursuantto,but
+10 not limited to, the hearings procedures under RSA 421-B:6-613 over any pooled risk management
+11 program formed or affirmed in accordance with this chapter. Pooled workers' compensation and
+12 unemployment compensation programs, which are regulated by and which report to the department
+13 of labor and the department of employment security, under RSA 281-A and RSA 282-A, respectively,
+14 shall be exempt from the requirements of this section as long as their operations and reports
+15 conformtothelawsandrulesadoptedbythosedepartments.
+16 5-B:4-a AuthorityoftheSecretaryofState;Investigations;CeaseandDesistOrders;Penalties.
+17 I. Notwithstanding any other provision of law, the secretary of state shall have exclusive
+18 authorityandjurisdiction:
+19 (a) Tobringadministrativeactionstoenforcethischapter.
+20 (b) To investigate and impose penalties for violations of this chapter, including but not
+21 limitedto:
+22 (1) Fines.
+23 (2) Rescission,restitution,ordisgorgement.
+24 II. The secretary of state shall have all powers specifically granted or reasonably implied in
+25 ordertoperformthesubstantiveresponsibilitiesimposedbythischapter.
+26 III. For the purpose of any investigation, hearing, or proceeding under this chapter, the
+27 secretary of state or any officer designated by him or her may administer oaths and affirmations,
+28 subpoena witnesses, compel their attendance, take evidence, and require the production of any
+29 books, papers, correspondence, memoranda, agreements, or other documents or records that the
+30 secretaryofstatedeemsrelevantormaterialtotheinquiry.
+31 IV. In the event that a person refuses to obey a subpoena issued to him or her or any order
+32 ordeterminationthesecretaryofstateisauthorizedtomake,thesuperiorcourt,uponapplicationby
+33 the attorney general or secretary of state or any officer designated by the secretary of state, may
+34 issue to the person an order directing him or her to appear before the attorney general or secretary
+35 of state, or the officer designated by him or her, to produce documentary evidence if so ordered or to
+36 give evidence relative to the matter under investigation or in question. Failure to obey the order of
+37 thecourtmaybepunishedbythecourtascontemptofcourt.
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 V. In any investigation to determine whether any person has violated or is about to violate
+2 this chapter or any rule or order under this chapter, upon the secretary of state's prevailing at
+3 hearing, or the person charged with the violation being found in default, or pursuant to a consent
+4 order issued by the secretary of state, the secretary of state shall be entitled to recover the costs of
+5 the investigation and any related proceedings, including reasonable attorney's fees, in addition to
+6 anyotherpenaltyprovidedforunderthischapter.
+7 VI. Whenever it appears to the secretary of state that any person has engaged or is about to
+8 engage in any act or practice constituting a violation of this chapter or any rule or order under this
+9 chapter,thesecretaryofstateshallhavethepowertoissueandcausetobeserveduponsuchperson
+10 an order requiring the person to cease and desist from violations of this chapter. The order shall be
+11 calculated to give reasonable notice of the rights of the person to request a hearing on the order and
+12 shall statethereasons for the entryof theorder. All hearings shall beconducted inaccordance with
+13 RSA421-B:6-613.
+14 VII. The following fines and penalties may be imposed on any person who has violated this
+15 chapter.
+16 (a) Any person who, either knowingly or negligently, violates any provision of this
+17 chapter or any rule or order thereunder may, upon hearing, and in addition to any other penalty
+18 provided for by law, be subject to an administrative fine not to exceed $5,000. Each of the acts
+19 specifiedshallconstituteaseparateviolation.
+20 (b) After notice and hearing, the secretary of state may enter an order of rescission,
+21 restitution, or disgorgement directed to a person who has violated this chapter, or rule or order
+22 underthischapter. Rescission,restitution,ordisgorgementshallbeinadditiontoanyotherpenalty
+23 providedforunderthischapter.
+24 VIII. Decisions of the secretary of state may be appealed to the supreme court pursuant to
+25 RSA541.
+26 5-B:4-b InsolvencyorFinancialImpairment.
+27 I. If at the end of any fiscal month, the contingency reserve of a pooled risk management
+28 program is at or below 2/3 of the required minimum, the pooled risk management program shall
+29 notify its members in writing within 30 days that contingency reserves are below the required
+30 minimum and of the actions to be taken if the pooled risk management program's contingency
+31 reserve continues to decrease. The member notification shall also contain the status of their
+32 member equity stabilization fund account and how it may be used to augment the contingency
+33 reserve.
+34 II. If, at the end of any fiscal month, the contingency reserve of a pooled risk management
+35 program is at or below 1/3 of the required minimum program, the pooled risk management program
+36 shall notify its members and the secretary of state in writing of the contingency reserve deficiency
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page6-
+1 and the actions to be taken, including the use of the member equity stabilization fund, within 5
+2 businessdays.
+3 III. If the contingency reserve falls below 1/3 of the required minimum after the transfer of
+4 available member equity stabilization funds to the contingency reserve, the pooled risk management
+5 program shall notify the members and the secretary of state in writing of the contingency reserve
+6 deficiency. The secretary of state shall instruct the advisory board to monitor the financial stability
+7 ofthepool's assetsandliabilities andadvisethesecretaryof stateof theactionstheyrecommend. If
+8 the deficiency persists, the secretary of state shall issue to the pooled risk management program an
+9 orderrequiringabatementofthedeficiency.
+10 IV. If the pooled risk management program fails to comply with the order within 30 days
+11 after the date of the notice, the secretary of state may apply to and seek from the superior court an
+12 order requiring either the pooled risk management program to abate the deficiency or the
+13 appointment of a receiver, as the circumstances may require. The pooled risk management program
+14 shallreimbursethesecretaryofstateforthecostincurredinseekingsuchanorder.
+15 V. Ifapooledriskmanagementprogramisdeterminedtobeinsolvent,financiallyimpaired,
+16 or otherwise unable to discharge its claim and administrative losses and liabilities and other legal
+17 obligations of the plan, each participating member of the program shall be assessed on a pro rata
+18 basiscalculatedbytheamountofitsannualcontributiontosatisfytheamountofthedeficiency.
+19 5-B:5 StandardsofOrganizationandOperation.
+20 I. Eachpooled risk management program shall meet thefollowingstandards of organization
+21 andoperation. Eachprogramshall:
+22 (a) ExistasalegalentityorganizedunderNewHampshirelaw.
+23 (b) Be established by political subdivisions exclusively for the benefit of the political
+24 subdivisions and be governed by a board, the majority of which is composed of elected or appointed
+25 public officials, officers, or employees. Board members shall not receive compensation but may be
+26 reimbursed for mileage and other reasonable expenses. Board members shall comply with the
+27 provisions of RSA 15-A. Board members shall have a fiduciary responsibility to the member
+28 political subdivisions, which includes the duties of good faith and loyalty, avoiding conflicts of
+29 interest, and managing the pooled risk management program solely for the benefit of the political
+30 subdivisions. Board members shall use a standard of care, diligence, prudence, and skill in the
+31 managementofthepooledriskmanagementprogram.
+32 (c) Return of earnings and surplus: All amounts in excess of the maximum contingency
+33 reserve, as calculated at the end of each fiscal year, shall be transferred to the member equity
+34 stabilizationfund. Anyamountinexcessof themaximum memberequitystabilizationfund shall be
+35 returnedtotheparticipatingpoliticalsubdivisions.
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page7-
+1 (d) Provide for an annual audit of financial transactions by an independent certified
+2 public accountant. The audit shall be filed with the department and distributed to participants of
+3 eachpooledriskmanagementprogram.
+4 (e) Be governed by written bylaws that shall detail the terms of eligibility for
+5 participation by political subdivisions, the governance of the program, and other matters necessary
+6 to the program's operation. Bylaws and any subsequent amendments shall be filed with the
+7 department.
+8 (f) Establish and maintain a contingency reserve fund for the payment of any amounts
+9 requiredforadministration,claims,reserves,andpurchaseofexcessinsurance.
+10 For a pool providing health line of coverage, the contingency reserve is a minimum of 12 percent
+11 and a maximum of 20 percent of member contributions for the current fiscal year. For a pool
+12 providing workers' compensation and other property and casualty lines of coverage, the contingency
+13 reserve is a minimum of 30 percent and a maximum of 40 percent of member contributions for the
+14 current fiscal year. Any amount in excess of these maximum limits shall be transferred to the
+15 memberequitystabilizationfund.
+16 (g) Establish and maintain a member equity stabilization fund of at least 1/3 of their
+17 minimum contingencyreserve. The solepurposeof this fund is to providereservefunds to replenish
+18 the contingency reserve fund should the contingency fund fall below 1/3 of the required minimum.
+19 The bylaws of the pool may establish the maximum level that can be deposited into the member
+20 equity stabilization fund. Any surplus in the fund beyond the maximum shall be returned by the
+21 program to the members. Any member equity stabilization fund balance held by a pooled risk
+22 management program on behalf of a member shall be returned to that member within 3 months of
+23 thedateofterminationofthemember’sinvolvementinthatpooledriskmanagementprogram.
+24 (h) Provide for an annual actuarial evaluation of the pooled risk management program.
+25 The evaluation shall assess the reserve, the contingencyreserve, and themember stabilization fund.
+26 Theactuaryshalladvisetheprogramiftheminimumofthememberequitystabilizationfund,asset
+27 by this chapter, or at whatever higher level set by the pooled risk management program’s bylaws, is
+28 adequate to ensure a less than 5 percent chance of insolvency in the next 3 years and shall take
+29 necessary steps to adjust the minimum member equity stabilization fund balance to be at or greater
+30 than the actuary’s recommendation. The annual actuarial evaluation shall be performed by a
+31 member of the American Academy of Actuaries qualified in the coverage area being evaluated, shall
+32 be filed with the department, and shall be distributed to participants of each pooled risk
+33 managementprogram.
+34 (i) The actuarial evaluation shall calculate contributions and assessments required to
+35 fund the program and bring the program into compliance with the minimums required for the
+36 contingency reserve and the member equity stabilization fund. Contribution rates charged in any
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page8-
+1 given year to each member may not be lower than the amounts indicated by reasonable actuarial
+2 analysis. Contributionraterelativitiesshallbeupdatedatleastevery5years.
+3 (j) Provide notice to all participants of and conduct 2 public hearings for the purpose of
+4 advising members of potential rate increases, the reasons for projected rate increases, and soliciting
+5 comments from members regarding the return of surplus, at least 10 days prior to rate setting for
+6 eachcalendaryear.
+7 II. Initial funding, replenishment, and use of the contingency reserve and the member
+8 equitystabilizationfundshallbeasfollows:
+9 (a) Initial funding of the contingency reserve and the member equity stabilization fund
+10 shallbeatleast1/2oftherequiredminimumorasauthorizedbythedepartment.
+11 (b) Replenishment of the contingency reserve and the member equity stabilization fund
+12 shall be at least 68 percent annually of the amount the funds are below the minimums. Alternate
+13 replenishmentpercentagesmaybeauthorizedbythedepartment.
+14 (c) The member equity stabilization fund shall be used to bring the contingency reserve
+15 back to 1/3of the minimum allowed whenever thecontingency reserve fund falls below that limit. If
+16 the bylaws permit, the board of directors, by a 2/3 vote, may transfer any amount in the member
+17 equity stabilization fund that is above the minimum required to the members or to the contingency
+18 reserve fund. Transfers to the contingency reserve fund shall not cause the fund to exceed the
+19 maximumallowed.
+20 (d) The risk management program member equity stabilization funds may be invested
+21 as determined by the board of directors, and any earnings on fund monies shall be added to that
+22 member’sequitystabilizationfund.
+23 5-B:6 DeclarationofStatus;TaxExemption;Liability.
+24 I. Any pooled risk management program meeting the standards required under this chapter
+25 is not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+26 administration of any activities of the plan shall not constitute doing an insurance business for
+27 purposesofregulationortaxation.
+28 II. Any such program operating under this chapter, whether or not a body corporate, may
+29 sue or be sued; make contracts; hold and dispose of real property; and borrow money, contract debts,
+30 andpledgeassetsinitsname.
+31 III. Participation by a political subdivision in a pooled risk management program formed
+32 and affirmed under this chapter shall not subject any such political subdivision to any liability to
+33 any third party for the acts or omissions of the pooled risk management program or any other
+34 politicalsubdivisionparticipatingintheprogram.
+35 IV. Any such program operating under this chapter shall publicly and conspicuously
+36 disclose,byincludingawrittendisclaimerinanyandallmemberagreements,contracts,bylaws,and
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page9-
+1 contribution quotes and renewals between the program and its prospective and actual member
+2 politicalsubdivisions,that,ataminimum,notifiesthepoliticalsubdivisionofthefollowing:
+3 (a) The pooled risk management program does not function like an insurance company
+4 andisnotaninsurer.
+5 (b) The pooled risk management program, to the extent it is self-insured, does not
+6 provideguaranteedcostorfixedcostcoverages.
+7 (c) The pooled risk management program may collect from participating members’
+8 assessments or replenishments whenever required in the event the program’s assets are insufficient
+9 todischargeitsclaimandadministrativelossesandliabilitiesandotherlegalobligationsoftheplan,
+10 in the event of insolvency, or in the event contingency reserves fall below the required minimum
+11 underthischapter.
+12 5-B:7 Confidentiality of Certain Claims Information. Notwithstanding any provision of law to
+13 thecontrary,anyinformationofanypooledriskmanagementprogramformedoraffirmedunderthis
+14 chapter pertainingtoclaims analysis or claims management shall beprivileged and confidential and
+15 notsubjecttodisclosuretoanythirdpartyordisclosureunderRSA91-A.
+16 5-B:8 DissolutionofaPooledRiskManagementProgram.
+17 I. A voluntary or involuntary dissolution of a pooled risk management program established
+18 under this chapter shall occur in accordance with the dissolution requirements under New
+19 Hampshirelawapplicabletothelegalentityoperatingsuchprogram.
+20 II. Notwithstanding the foregoing and any provision of law to the contrary, and in
+21 accordance with Section 115 of the Internal Revenue Code, in the event of any dissolution of any
+22 pooledrisk management program under this chapter,after all legal debts, liabilities, and obligations
+23 of the program have been finally discharged or satisfied, all remaining assets, if any, shall be
+24 liquidated and shall be distributed pro-rata to the members of the respective coverage lines as of the
+25 last day of the last full pool year of such coverage line prior to the decision to dissolve. Such net
+26 assets shall be distributed, separately by coverage line, by calculating each member’s relative
+27 percentageofthetotalmembercontributionstothecoveragelineforsuchpoolyear.
+28 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-3262
+5/8/26
+SB661-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1208s)
+ANACT relativetopooledriskmanagementprograms.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 ($250,000+) ($250,000+) ($250,000+)
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill introduces measures to ensure the financial stability of pooled risk management
+programs.ItallowstheSecretaryofStatetoaddressinsufficientassetsandseekcourtappointed
+receivership if necessary. Pools providing health coverage must maintain a contingency reserve
+with a minimum of 12 percent and a maximum of 20 percent of annual contributions. Pools
+providing workers' compensation and other property and casualty lines of coverage must
+maintain a contingency reserve with a minimum of 30 percent and a maximum of 40 percent of
+annual contributions. Any funds exceeding the maximum reserve limits shall be transferred to
+the member equity stabilization fund. The bill also requires pooled risk management programs
+to establish a member equity stabilization fund equal to at least one-third of the minimum
+contingency reserve to help cover program assessments and other obligations. Additionally, the
+billrequiresgreatertransparencythroughpublicdisclosuresforprogrammembers.
+The Department of State indicates that this bill will save $250,000+ in general funds each year
+and securities funds that go unspent will lapse back to the General Fund. The anticipated
+savingsarefromthereducedneedtohireexternallegalandactuarialexpertsthathelpthestate
+bringlegalactionagainstpooled riskmanagement programsthat arenot actingas afiduciaryto
+theirparticipatingmembers.
+The New Hampshire Municipal Association (NHMA) states that this bill would require
+municipalitiesparticipatinginpooledhealthplanstosetasideextrafundsinreserveaccountsto
+cover potential financial shortfalls. If the health pool's reserves drop too low or if it becomes
+insolvent, municipalities would face additional financial obligations through special
+assessments. Theywouldalsoneedtorebuildreserveaccountsovertimeifused. Municipalities
+must agree in writing to take responsibility for these potential financial risks, including any
+losses from the prior year if they leave the pool. This could lead to increased costs and
+challenges for municipalities, especially since raising extra funds may require special town
+meetings.
+The New Hampshire Association of Counties (NHAC) states that this bill could lead to an
+indeterminable increase in expenditures for counties involved in pooled risk management
+programs. The potential increase stems from the need to gather additional contributions from
+members if an annual audit, actuarial determination, or Secretary of State investigation reveals
+insufficient assets. Additionally, there could be administrative costs that would be taken on by
+poolmembersalsoincreasingexpenditures.
+AGENCIESCONTACTED:
+DepartmentofState,NewHampshireMunicipalAssociation,andNewHampshireAssociationof
+Counties
+[DELETED: B6N-ASADBYTES616SEBNATretopdrkmtp:S.C,Dt1;S.G,Dt:FDAsb.Estesyofsetoreatofitasortos,ifn,ofapdrkmtp.Rsatofehpgmroftepdrkmtpnaporabstosyteatofted.Rsteggbdoftepdrkmtpmtoueasdo,d,p,adslintemtoftep.Psfrteatofapdrkmtpspgmfr,aranalc.Psfrcyressdgontepdrkmsleofceadrgacyrertifapyrsflbwtemml.Rspdrkmtpstomecnpcdsteadalmrpls.Mstlcstotepdrkmtpmc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretopdrkmtpeitEdbyteSeadHeofRsinGlCtc1PdRkMtP.RA5BisrdadrdtordasfCR5PDRKMTP51P.Tepeoftscristopefrteetofpdrmtpsadtoamtessofshpsedfrtebtoplssoftes.Telefsaddsttieadrmtaeeltoteprfgofpls;ttrkmcnbeadthtepeoftli,s,orpnipdrkmtpsedfrtebtofpls;ttp0rkmtisanelglfnbypgfdpcsrl1pnp,alofitadddesttmyberdtotep2b,adetofcspdsyontealeeofpls3wntes;tttersofplssaepybdbytes4ofiepnthsdc;adttpdrkmtpst5mttessedbytscrsdntbesttoierna6tnbytes752D.Intsc8I.""mstedtofs9I."lf"msanalfgwhtedtmesyfrt0peofpgpcastocnincgteneadono1pdrkmtp.Shilfgslbeldtotef2()Teneadllasofehpdrkmtp3()Altofcto,trt,ada4()Abfdnoftecep5()TealatrdurRA5,I6()Tepdrkmtpmb;a7()TealalenrdurRA5,I8I."ls"msayc,t,c,sld,cdp9s,ved,slaeu,oraydtoreycdfras0peadorfdbyayofteadglu]
+[DELETED: B6N-ASADBYTESPe2I."km"mstedeofcsadinfrlsaotofteo,m,adonofrlorplpyadteasoosofo,e,ada;tepnoflspnssi,bntldt,isofpyadtetgofp;adteie,adstofcsbyadatplsV.“,asudinRA5,I,msreesfrppdrkm,igbtntldt()Ssadb,rdfsadoli,ctcfrelespgdtstofcds,adorrdb0e,igrkenadwsp1()P,e,adstssidinteptofc2adorrdl3()A,a,l,adagssfranoftepdr4p5()Esrdtootssdetonewhtepso6tsc7Tersofaneefranurtscrmybeddina8enoraehgcdbytesyofsepttoRA59a.Intefti,teayceslrwqsrgter0ofesurtscradpetesyofsewhtrr.Ifa1atonteryofaneectbea,tesyofsemyt2aspttoRA5.Aydnonteryofayeeslbem3aetoalpdrkmtp4V.“”mscsr,cersadidbtntrd(5r,cndyr,adcyr6V.“yr”msteatofsstoberdbytepdr7mtpmfrteugpnyradtefg2ysasmyber8edadsyrdtocredadunoreycma9aelsadl0V.“si”msr1I.“”msapnt,ifteasofapdrkm2pmaeatayteayddtobeittodeiscma3aelsadlsadorllosoftep,tepms,w430dsofshad,nytemsofterttopea5csfmisegmsfrteatndtomeupted]
+[DELETED: B6N-ASADBYTESPe3X."yb"msacecdoftesyofsed,tcroftedtofied,adtecfoftecrpnaatbuofteoeofteaygldX."reysnf"msfsddinabkasddinR3,pttotecastfhinRA6,frbkdsonbfofem,shastedsofescyr.Tsfspeistopalfstotecyrefdiftecyrefsbw13oftmmstfhinRA5,I,whsdgyreoreetendfranorgatoftedyprRA5.H,ngintscrs0ptaypdrkmtpmfmagaymrtowwaya1fmtemreysnfdinesofterdmmstfhinRA52I,pdtttepdrkmtpsbsawfrshw353PdRkMtAdadA;M4I.Apls,byrnofisggb,myehaderi5asfrogorigiebys;frogief6ayiradtottbsintsseasanadorsslsc;f7ogiesdinaewhaymdpdbyl;orfro8iebyaycnoftepsoftsp.Asmeptt9tsphmypefrpgofser,r,csadl,ado0aessadesadwhtmagpls.T1ahtepsoftsc,2ormeplssmyfmana2urtelsoftsseoramanegansofdtodpadar3rkmtpmhgasispsrgterkofism;s4e;d,s,adpgr;agi,eslsi,o5r;adp,p,addgcsattemsofsha6I.RA5Aslntaytoananfdoradurtsc,nrt7tepninshananbyapls8I.Pdrkmtpsedfrtebtofpls9mypeayoraloftefgc0()C,iggladpll;esado;w1cnadesl;mlp;orutcna2adurfll3()P,igmeadidn,t,bra4m,f,t,ornlh5()V,igaylyorlsagfmteoporono6v7()Syadf]
+[DELETED: B6N-ASADBYTESPe4()Eli()H,m,s,ordlbsfresadtrd()L,iem,aldhadd,vnlsoi,orllbsfresadtrd()Udslenctr54IlFgR;F.Pdrkmtpsedftebtofplssslmeanilf,asddinRA5,Iwhtedtadslpyanalfgfeof$.Tedtmymerfralinnytoeeryoretayptt,b0ntldt,tehspsurRA43oraypdrkm1pmfdoradinaewhtsc.Pdw'cna2utcnp,whaerdbyadwhrttoted3oflradtedtofets,urRA2AadRA2,r4slbeetfmtersoftssnaslgastrosadr5cmtotelsadrsadbyted65aAyofteSyofS;I;CeadDtO;P7I.Ngayorpnofl,tesyofseslhee8ayadj9()Tobgaeastoeetsc0()Toieadiepsfrvsoftsc,igbtn1ldt2()F3()R,r,ord4I.Tesyofseslhealpssygdorryidi5ortopmtesersidbytsc6I.Frtepeofayi,h,orpgurtsc,t7syofseorayorddbyhmorhrmyarosada8saw,cltra,tee,adretepnofa9b,p,c,m,a,orordsorrsttt0syofsedsrtormltotei1I.Inteetttapnrstooyasaidtohmorhrorayo2ordntesyofseisadtom,tesrc,unanb3teayglorsyofseorayorddbytesyofs,m4ietotepnanordghmorhrtoarbeteayglors5ofs,orteorddbyhmorh,topedyeeifsoodort6geeeretotemrurinorinq.Fetooyteoro7tectmybepdbytectasctofc]
+[DELETED: B6N-ASADBYTESPe5V.Inayintodewraypnhsvdorisattovtscrorayreororurtsc,untesyofsspgah,ortepncdwhtevnbgfdind,orpttoacoridbytesyofs,tesyofseslbeedtorrtecsoteinadayrdp,igreasf,inantayorpypdfrurtscV.Writastotesyofsettaypnhsedorisatteeinayatorpecgavnoftscrorayreororurtc,tesyofseslheteprtoieadcetobesdunshp0anorrgtepntoceaddtfmvsoftsc.Teorslb1cdtogereneoftersoftepntortahgonteora2slsetersfrteeyofteo.Alhsslbecdinaew3RA44V.Tefgfsadpsmybeidonaypnwohsvdt5c6()Aypnw,erkyorn,vsaypnoft7crorayreorortrm,unh,adinantoayorp8pdfrbyl,besttoanaefenttoed$.Ehoftea9sdslceasev0()Arneadh,tesyofsemyeranorofr1r,ordtddtoapnwohsvdtsc,orreoro2urtsc.R,r,ordtslbeinantoayorp3pdfrurtsc4V.Dsoftesyofsemybeadtotesectptt5RA565bIyorFlI7I.Ifatteedofayflm,tecyreofapdrkm8pmisatorbw23ofterdm,tepdrkmtpms9nyismsinwgwn30dsttcyrsaebwter0mmadofteastobetniftepdrkmtpsc1recstod.Temrnnslaocntessoft2mreysnfdatadhwitmybeudtoattec3r4I.I,atteedofayflm,tecyreofapdrkm5pmisatorbw13ofterdmmp,tepdrkmtp6slnyismsadtesyofseinwgoftecyred]
+[DELETED: B6N-ASADBYTESPe6adteastobet,igteueoftemreysnf,wnbsdI.Iftecyrefsbw13ofterdmmartetroaemreysnfstotecyr,tepdrkmpmslnytemsadtesyofseinwgoftecyrd.Tesyofseslitteaybdtomrteflsoftepsasadlsadaetesyofseofteastyr.Itedyp,tesyofseslietotepdrkmtpmaorrgatofted0I.Iftepdrkmtpmfstocywhteorwn30d1artedeoften,tesyofsemyaytoadskfmtesrcta2orrgertepdrkmtpmtoaetedyort3atofar,astecsmyr.Tepdrkmtp4slretesyofsefrtectidinsgshano5V.Ifapdrkmtpmisddtobei,fyi6oroeuetodeiscmadaelsadlsadorl7osoftep,ehpgmroftepmslbeadonapor8bscdbyteatofisalcntosyteatofted955SsofOnadO0I.Ehpdrkmtpmslmttefgssofo1ado.Ehpms2()EtasalleyodurNwHel3()Beedbyplsseyfrtebtoftep4ssadbegdbyab,temyofwhiscdofedora5pco,o,ore.Bdmsslntrecnbtmyb6rdfrmeadorree.Bdmsslcywht7psofRA1.Bdmsslheafyrytotem8pls,whistedsofgdfhadl,agcso9i,admgtepdrkmtpmsyfrtebtoftep0s.Bdmsslueasdofc,d,p,adslint1mtoftepdrkmtp2()Rnofesads:Alasinesoftemmc3r,ascdatteedofehfly,slbetdtotemre4snf.Ayatinesoftemmmreysnfdslb5rdtotepgpls]
+[DELETED: B6N-ASADBYTESPe7()Pefranalatoffltsbyanitcpca.Teatslbefdwhtedtadddtopsoehpdrkmtp()Begdbywnbsttsldltetsofeyfpnbypls,tegeoftep,adormsntotepso.Bsadaystasslbefdwhtd()Ehadmnacyrefdfrteptofayardfra,c,r,adpeofesi0Fraplpghhleofc,tecyreisammof12p1adammof20ptofmrcsfrtectfly.Frap2pgw'cnadorpyadcylsofc,tec3reisammof30ptadammof40ptofmrcsfrt4ctfly.Ayatinesoftemmlsslbetdtot5mreysnf6()Ehadmnamreysnfdofatlt13oft7mmcyr.Tesepeoftsfdistoperefstor8tecyrefdsdtecyfdflbw13ofterdm9Tebsofteplmyehtemmllttcnbeddiotem0eysnf.Ayssintefdbdtemmslberdbyt1pmtotem.Aymreysnfdbehdbyapdr2mtpmonbfofamrslberdtottmrwn3mso3tedeoftnoftemsitinttpdrkmtp4()Pefranalalenoftepdrkmtp5Teenslaster,tecyr,adtemrsnf6Teayslaetepmiftemmoftemreysnf,ass7bytsc,oratwrhrllstbytepdrkmtpsb,i8aetoeealstn5ptceofiyintent3ysadslt9nysstoattemmmreysnfdbetobeatorg0tnteasr.Tealalenslbepdby1mrofteAnAyofAsqdinteceaabge,s2befdwhted,adslbeddtopsofehpdr3mtp4()Tealenslcecsadasrdt5fdtepmadbgtepmiocewhtemsrdfrt6cyreadtemreysnf.Cnrscdina]
+[DELETED: B6N-ASADBYTESPe8gnyrtoehmrmyntbelrtnteasidbyreaa.Cnrersslbeudatltey5y()Penetoalpsofadct2pchsfrtepeoagmsofplrei,tersfrpdrei,adscsfmmsrgternofs,atlt10dsprtoresgfehcryI.Ilf,r,adueoftecyreadtemeysnfdslbeasf()Ilfgoftecyreadtemreysnf0slbeatlt12ofterdmmorasadbyted1()Rtoftecyreadtemreysnf2slbeatlt68ptayofteattefsaebwtem.A3rtpsmybeadbyted4()Temreysnfdslbeudtobgtecyr5bkto13oftemmadwrtecyrefdfsbwttl.I6tebsp,tebdofd,bya23v,mytrayatintem7eysnfdttisaetemmrdtotemsortotec8ref.Tstotecyrefdslntcetefdtoedt9mma0()Terkmtpmmreysnfsmybei1asddbytebdofd,adayesonfdmsslbeadtot2mseysnf356DnofS;TxE;L4I.Aypdrkmtpmmgtessrdurtsc5isntaniec,rli,orirurtelsoftss,a6anofayasoftepnslntcedganiebsf7psofrnort8I.Ayshpmogurtsc,wrorntabyc,m9seorbes;mec;hdaddeofrlp;adbwm,ctd0adpeasinisn1I.Pnbyaplsninapdrkmtpmf2adadurtscrslntstayshplsntoaylyt3aytdpyfrteasorosoftepdrkmtpmorayo4plsnpgintep5I.Ayshpmogurtscrslpyadc6d,byigawndrinayadalmra,c,b,a]
+[DELETED: B6N-ASADBYTESPe9cnqsadrsbntepmadispeadalmpls,t,atam,nsteplsnoftef()Tepdrkmtpmdsntfnleaniecadisntani()Tepdrkmtp,toteetitiss,dsnpegdctorfdctc()Tepdrkmtpmmyctfmpgmasorrswrrdinteettepsasaeitodeiscmadaelsadlsadorllosoftep0inteetofi,orinteetcyrsflbwterdm1urtsc257CyofCnCsI.Ngaypnoflwt3tec,ayinofaypdrkmtpmfdoradurt4crpgtocsasorcsmtslbepdadcla5ntsttodetoaytdpyordeurRA9658DnofaPdRkMtP7I.Avyoriydnofapdrkmtpme8urtscrslorinaewhtednrsurN9Helwaetotelleyogshp0I.Ngtefgadaypnoflwtotec,adi1aewhSn15ofteIlReC,inteetofaydnofa2pdrkmtpmurtsc,arallld,l,ado3oftepmhebnfyddors,alrga,ifa,slb4ldadslbeddpatotemsofterecelsasoft5ltdyofteltflplyrofshceleprtotedntod.Shn6asslbed,sybycel,bycgehmsr7peoftetlmrcstotecelefrshply82EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATretopdrkmtpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0()()(gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yEeIeIeIeIlR0$0$0$lEeIeIeIeIsblismstoeeteflsyofpdrkm.ItasteSyofSetoasitasadskctapifn.Pspghhcemtmnacyrhammof12ptadammof20ptofalc.Pgw'cnadorpyadcylsofcemnacyrewhammof30ptadammof40ptolc.Ayfsegtemmrelsslbetdtemreysnf.Teblaorspdrkmtpoehamreysnfdeltoatltodoftemyretohpcrpmasadoro.A,tlrsgrtythpcdsfrpmm]
+[DELETED: eDtofSeistttsblwlse$+inglfsehydssfsttgoutwllebktoteGlF.TeasaefmterdndtoheellladalestthptesgllanatpdrkmtpsttaentagasafytrpgmeNwHeMlAn()sstttsblwdrspginpdhhpstostaeeafsinreastrplfls.Iftehhpsrsdptolworifitb,mswdfealflosths.Tywdaondtordreasorteifu.Mtaeinwgtoteryfrteplflr,igasfmtepryriftyletep.Tscdldtoidcsasfrm,eysergeafsmyreslteNwHeAnofCs()sstttsblcdldtoaeieinesfrcsidinpdrkm.Tepliessfmtendtogralcsfsifanala,ald,orSyofSeinrta.A,tecdbeaecsttwdbetnonblmsaoigeSCtofS,NwHeMlA,adNwHeAno]
+
+
+================================================================================
+
+Raw Text:
+SB661-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1208s
+2026SESSION
+26-3262
+07/05
+661-FN
+SENATEBILL
+ANACT relativetopooledriskmanagementprograms.
+SPONSORS: Sen.Carson,Dist14;Sen.Gray,Dist6
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Enables the secretary of state to require abatement of insufficient assets or to seek
+receivership,ifnecessary,ofapooledriskmanagementprogram.
+II. Requires assessment of each participating member of the pooled risk management program
+onaproratabasistosatisfytheamountofthedeficiency.
+III. Requires the governing board of the pooled risk management program to use a standard of
+care,diligence,prudence,andskillinthemanagementoftheprogram.
+IV. Provides for the assessment of a pooled risk management program’s participating members,
+ifrequired,afteranactuarialcalculation.
+V. Provides for contingency reserve standards depending on the pooled risk management
+programs line of coverage and requiring a contingency reserve replenishment if a program’s
+contingencyreservesfallbelowtheminimumlevel.
+VI. Requires pooled risk management programs to make certain public disclosures to
+prospectiveandactualmemberpoliticalsubdivisions.
+VII. Makestechnicalcorrectionstothepooledriskmanagementprogramchapter.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB661-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1208s 26-3262
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetopooledriskmanagementprograms.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 PooledRiskManagementPrograms. RSA5-Bisrepealedandreenactedtoreadasfollows:
+2 CHAPTER5-B
+3 POOLEDRISKMANAGEMENTPROGRAMS
+4 5-B:1 Purpose. The purpose of this chapter is to provide for the establishment of pooled risk
+5 management programs and to affirm the status of such programs established for the benefit of
+6 political subdivisions of the state. The legislature finds and determines that insurance and risk
+7 management are essential to the proper functioning of political subdivisions; that risk management
+8 can be achieved through the purchase of traditional insurance, self-insurance, or participation in
+9 pooled risk management programs established for the benefit of political subdivisions; that pooled
+10 risk management is an essential governmental function by providing focused public sector loss
+11 prevention programs, accrual of interest and dividend earnings that may be returned to the public
+12 benefit,andestablishmentofcostspredicatedsolelyontheactualexperienceofpoliticalsubdivisions
+13 within the state; that the resources of political subdivisions are presently burdened by the securing
+14 of insurance protection through standard carriers; and that pooled risk management programs that
+15 meet the standards established by this chapter should not be subject to insurance regulation and
+16 taxationbythestate.
+17 5-B:2 Definitions. Inthischapter:
+18 I. "Department"meansthedepartmentofstate.
+19 II. "Informational filing" means an annual filing with the department made solely for the
+20 purpose of providing public access to certain information concerning the nature and organization of
+21 pooledriskmanagementprograms. Suchinformationalfilingshallbelimitedtothefollowing:
+22 (a) Thenameandlegaladdressofeachpooledriskmanagementprogram;
+23 (b) Alistofcurrentofficers,theirtitles,andaddresses;
+24 (c) Abriefdescriptionofthecoverageprovided;
+25 (d) TheannualauditrequiredunderRSA5-B:5,I(d);
+26 (e) Thepooledriskmanagementprogrambylaws;and
+27 (f) TheannualactuarialevaluationrequiredunderRSA5-B:5,I(h).
+28 III. "Political subdivision" means any city, town, county, school district, chartered public
+29 school, village district, school administrative unit, or any district or entity created for a special
+30 purposeadministeredorfundedbyanyoftheabove-namedgovernmentalunits.
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 IV. "Risk management" means the defense of claims and indemnification for losses arising
+2 out of the ownership, maintenance, and operation of real or personal property and the acts or
+3 omissions of officials, employees, and agents; the provision of loss prevention services including, but
+4 not limited to, inspections of property and the training of personnel; and the investigation,
+5 evaluation,andsettlementofclaimsbyandagainstpoliticalsubdivisions.
+6 V. “Administration”, as used in RSA 5-B:5, I(f), means reasonable expenses for providing
+7 pooledriskmanagement,includingbutnotlimitedto:
+8 (a) Salaries and benefits, related facilities and operational infrastructure, contract costs
+9 for external experts providing direct support of covered services, and other related business
+10 expenses,includingriskevaluationandwellnessprograms.
+11 (b) Processing, evaluation, and settlement services incurred in the payment of claims
+12 andotherrelatedlosses.
+13 (c) Auditor,actuarial,legal,andaccountingservicesforadministrationofthepooledrisk
+14 program.
+15 (d) Expenses related to oversight services due to non-compliance with the provisions of
+16 thischapter.
+17 The reasonableness of an expense for administration under this chapter may be disputed in an
+18 examination or administrative hearing commenced by the secretary of state pursuant to RSA 5-B:4-
+19 a. In the first instance, the advisory committee shall review questions regarding the reasonableness
+20 of expenses under this chapter and provide the secretary of state with their recommendations. If an
+21 agreement on the reasonability of an expense cannot be achieved, the secretary of state may take
+22 actions pursuant to RSA 5-B:4-a. Any decision on the reasonability of any expense shall be made
+23 availabletoallpooledriskmanagementprograms.
+24 VI. “Reserves” means claims reserves, case reserves and incurred but not reported (IBNR)
+25 reserves,contributiondeficiencyreserves,andcontingencyreserves.
+26 VII. “Contingency reserves” means the amount of surplus to be retained by the pooled risk
+27 management program for the upcoming plan year and the following 2 years as may be reasonably
+28 established and subsequently required to cover expected and unforeseen or extraordinary claim and
+29 administrativelossesandliabilities.
+30 VIII. “Excessinsurance”meansreinsurance.
+31 IX. “Assessments” means a provision that, if the assets of a pooled risk management
+32 program are at any time actuarially determined to be insufficient to discharge its claim and
+33 administrativelossesandliabilitiesandotherlegalobligationsoftheplan,theprogramshall,within
+34 30 days of such a determination, notify the members of the requirement to provide additional
+35 contributionsfromitsexistingmembersfortheamountneededtomakeupthedeficiency.
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page3-
+1 X. "Advisory board" means a committee comprised of the secretary of state designee, the
+2 commissioner of the department of insurance designee, and the chief of the consumer protection and
+3 antitrustbureauoftheofficeoftheattorneygeneraldesignee.
+4 XI. "Member equity stabilization fund" means funds deposited in a bank as defined in RSA
+5 383-A:2-201(a)(3), pursuant to the criteria set forth in RSA 6:8, for bank deposits on behalf of each
+6 member, such as the deposits of excess contingency reserves. This fund’s purpose is to provide
+7 additional funds to the contingency reserve fund if the contingency reserve falls below 1/3 of the
+8 minimum set forthinRSA 5-B:5, I(f), whichshould greatlyreduceor eliminate theneed for an order
+9 requiring abatement of the deficiency per RSA 5-B:4-b. However, nothing in this chapter shall
+10 prohibit any pooled risk management program from allowing any member to withdraw any amount
+11 fromthememberequitystabilizationfundinexcessoftherequiredminimumsetforthinRSA5-B:5,
+12 I(g),providedthatthepooledriskmanagementprogram’sbylawsallowforsuchwithdrawal.
+13 5-B:3 PooledRiskManagementAuthorizedandAffirmed;Membership.
+14 I. A political subdivision, by resolution of its governing body, may establish and enter into
+15 agreements for obtaining or implementing insurance by self-insurance; for obtaining insurance from
+16 any insurer authorized to transact business in this state as an admitted or surplus lines carrier; for
+17 obtaining insurance secured in accordance with any method provided by law; or for obtaining
+18 insurance by any combination of the provisions of this paragraph. Agreements made pursuant to
+19 this paragraph may provide for pooling of self-insurance reserves, risks, claims and losses, and of
+20 administrative services and expenses associated with them among political subdivisions. To
+21 accomplish the purposes of this chapter, 2 or more political subdivisions may form an association
+22 under the laws of this state or affirm an existing association so formed to develop and administer a
+23 risk management program having as its purposes reducing the risk of its members; safety
+24 engineering; distributing, sharing, and pooling risks; acquiring insurance, excess loss insurance, or
+25 reinsurance;andprocessing,paying,anddefendingclaimsagainstthemembersofsuchassociation.
+26 II. RSA 53-A shall not apply to an association formed or affirmed under this chapter, nor to
+27 theparticipationinsuchanassociationbyapoliticalsubdivision.
+28 III. Pooled risk management programs established for the benefit of political subdivisions
+29 mayprovideanyorallofthefollowingcoverages:
+30 (a) Casualty, including general and professional liability; errors and omissions; workers'
+31 compensation and employer's liability; medical payments; or unemployment compensation as
+32 authorizedunderfederallaw.
+33 (b) Property, including marine and inland navigation, transportation, boiler and
+34 machinery,fire,theft,ornaturalhazards.
+35 (c) Vehicle, including any liability or loss arising from the ownership or operation of
+36 vehicles.
+37 (d) Suretyandfidelity.
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page4-
+1 (e) Environmentalimpairment.
+2 (f) Hospital,medical,surgical,ordentalbenefitsforemployeesandtheirdependents.
+3 (g) Life, income maintenance, accidental death and dismemberment, vision loss or
+4 impairment,orlegalbenefitsforemployeesandtheirdependents.
+5 (h) Unanticipatedspecialeducationcostrecovery.
+6 5-B:4 Informational Filing Required; Fee. Pooled risk management programs established for
+7 the benefit of political subdivisions shall make an informational filing, as defined in RSA 5-B:2, II,
+8 withthedepartmentandshallpayanannualfilingfeeof$250. Thedepartmentmaymakerequests
+9 foradditionalinformationnecessarytoexerciseregulatoryorenforcementauthoritypursuantto,but
+10 not limited to, the hearings procedures under RSA 421-B:6-613 over any pooled risk management
+11 program formed or affirmed in accordance with this chapter. Pooled workers' compensation and
+12 unemployment compensation programs, which are regulated by and which report to the department
+13 of labor and the department of employment security, under RSA 281-A and RSA 282-A, respectively,
+14 shall be exempt from the requirements of this section as long as their operations and reports
+15 conformtothelawsandrulesadoptedbythosedepartments.
+16 5-B:4-a AuthorityoftheSecretaryofState;Investigations;CeaseandDesistOrders;Penalties.
+17 I. Notwithstanding any other provision of law, the secretary of state shall have exclusive
+18 authorityandjurisdiction:
+19 (a) Tobringadministrativeactionstoenforcethischapter.
+20 (b) To investigate and impose penalties for violations of this chapter, including but not
+21 limitedto:
+22 (1) Fines.
+23 (2) Rescission,restitution,ordisgorgement.
+24 II. The secretary of state shall have all powers specifically granted or reasonably implied in
+25 ordertoperformthesubstantiveresponsibilitiesimposedbythischapter.
+26 III. For the purpose of any investigation, hearing, or proceeding under this chapter, the
+27 secretary of state or any officer designated by him or her may administer oaths and affirmations,
+28 subpoena witnesses, compel their attendance, take evidence, and require the production of any
+29 books, papers, correspondence, memoranda, agreements, or other documents or records that the
+30 secretaryofstatedeemsrelevantormaterialtotheinquiry.
+31 IV. In the event that a person refuses to obey a subpoena issued to him or her or any order
+32 ordeterminationthesecretaryofstateisauthorizedtomake,thesuperiorcourt,uponapplicationby
+33 the attorney general or secretary of state or any officer designated by the secretary of state, may
+34 issue to the person an order directing him or her to appear before the attorney general or secretary
+35 of state, or the officer designated by him or her, to produce documentary evidence if so ordered or to
+36 give evidence relative to the matter under investigation or in question. Failure to obey the order of
+37 thecourtmaybepunishedbythecourtascontemptofcourt.
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page5-
+1 V. In any investigation to determine whether any person has violated or is about to violate
+2 this chapter or any rule or order under this chapter, upon the secretary of state's prevailing at
+3 hearing, or the person charged with the violation being found in default, or pursuant to a consent
+4 order issued by the secretary of state, the secretary of state shall be entitled to recover the costs of
+5 the investigation and any related proceedings, including reasonable attorney's fees, in addition to
+6 anyotherpenaltyprovidedforunderthischapter.
+7 VI. Whenever it appears to the secretary of state that any person has engaged or is about to
+8 engage in any act or practice constituting a violation of this chapter or any rule or order under this
+9 chapter,thesecretaryofstateshallhavethepowertoissueandcausetobeserveduponsuchperson
+10 an order requiring the person to cease and desist from violations of this chapter. The order shall be
+11 calculated to give reasonable notice of the rights of the person to request a hearing on the order and
+12 shall statethereasons for the entryof theorder. All hearings shall beconducted inaccordance with
+13 RSA421-B:6-613.
+14 VII. The following fines and penalties may be imposed on any person who has violated this
+15 chapter.
+16 (a) Any person who, either knowingly or negligently, violates any provision of this
+17 chapter or any rule or order thereunder may, upon hearing, and in addition to any other penalty
+18 provided for by law, be subject to an administrative fine not to exceed $5,000. Each of the acts
+19 specifiedshallconstituteaseparateviolation.
+20 (b) After notice and hearing, the secretary of state may enter an order of rescission,
+21 restitution, or disgorgement directed to a person who has violated this chapter, or rule or order
+22 underthischapter. Rescission,restitution,ordisgorgementshallbeinadditiontoanyotherpenalty
+23 providedforunderthischapter.
+24 VIII. Decisions of the secretary of state may be appealed to the supreme court pursuant to
+25 RSA541.
+26 5-B:4-b InsolvencyorFinancialImpairment.
+27 I. If at the end of any fiscal month, the contingency reserve of a pooled risk management
+28 program is at or below 2/3 of the required minimum, the pooled risk management program shall
+29 notify its members in writing within 30 days that contingency reserves are below the required
+30 minimum and of the actions to be taken if the pooled risk management program's contingency
+31 reserve continues to decrease. The member notification shall also contain the status of their
+32 member equity stabilization fund account and how it may be used to augment the contingency
+33 reserve.
+34 II. If, at the end of any fiscal month, the contingency reserve of a pooled risk management
+35 program is at or below 1/3 of the required minimum program, the pooled risk management program
+36 shall notify its members and the secretary of state in writing of the contingency reserve deficiency
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page6-
+1 and the actions to be taken, including the use of the member equity stabilization fund, within 5
+2 businessdays.
+3 III. If the contingency reserve falls below 1/3 of the required minimum after the transfer of
+4 available member equity stabilization funds to the contingency reserve, the pooled risk management
+5 program shall notify the members and the secretary of state in writing of the contingency reserve
+6 deficiency. The secretary of state shall instruct the advisory board to monitor the financial stability
+7 ofthepool's assetsandliabilities andadvisethesecretaryof stateof theactionstheyrecommend. If
+8 the deficiency persists, the secretary of state shall issue to the pooled risk management program an
+9 orderrequiringabatementofthedeficiency.
+10 IV. If the pooled risk management program fails to comply with the order within 30 days
+11 after the date of the notice, the secretary of state may apply to and seek from the superior court an
+12 order requiring either the pooled risk management program to abate the deficiency or the
+13 appointment of a receiver, as the circumstances may require. The pooled risk management program
+14 shallreimbursethesecretaryofstateforthecostincurredinseekingsuchanorder.
+15 V. Ifapooledriskmanagementprogramisdeterminedtobeinsolvent,financiallyimpaired,
+16 or otherwise unable to discharge its claim and administrative losses and liabilities and other legal
+17 obligations of the plan, each participating member of the program shall be assessed on a pro rata
+18 basiscalculatedbytheamountofitsannualcontributiontosatisfytheamountofthedeficiency.
+19 5-B:5 StandardsofOrganizationandOperation.
+20 I. Eachpooled risk management program shall meet thefollowingstandards of organization
+21 andoperation. Eachprogramshall:
+22 (a) ExistasalegalentityorganizedunderNewHampshirelaw.
+23 (b) Be established by political subdivisions exclusively for the benefit of the political
+24 subdivisions and be governed by a board, the majority of which is composed of elected or appointed
+25 public officials, officers, or employees. Board members shall not receive compensation but may be
+26 reimbursed for mileage and other reasonable expenses. Board members shall comply with the
+27 provisions of RSA 15-A. Board members shall have a fiduciary responsibility to the member
+28 political subdivisions, which includes the duties of good faith and loyalty, avoiding conflicts of
+29 interest, and managing the pooled risk management program solely for the benefit of the political
+30 subdivisions. Board members shall use a standard of care, diligence, prudence, and skill in the
+31 managementofthepooledriskmanagementprogram.
+32 (c) Return of earnings and surplus: All amounts in excess of the maximum contingency
+33 reserve, as calculated at the end of each fiscal year, shall be transferred to the member equity
+34 stabilizationfund. Anyamountinexcessof themaximum memberequitystabilizationfund shall be
+35 returnedtotheparticipatingpoliticalsubdivisions.
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page7-
+1 (d) Provide for an annual audit of financial transactions by an independent certified
+2 public accountant. The audit shall be filed with the department and distributed to participants of
+3 eachpooledriskmanagementprogram.
+4 (e) Be governed by written bylaws that shall detail the terms of eligibility for
+5 participation by political subdivisions, the governance of the program, and other matters necessary
+6 to the program's operation. Bylaws and any subsequent amendments shall be filed with the
+7 department.
+8 (f) Establish and maintain a contingency reserve fund for the payment of any amounts
+9 requiredforadministration,claims,reserves,andpurchaseofexcessinsurance.
+10 For a pool providing health line of coverage, the contingency reserve is a minimum of 12 percent
+11 and a maximum of 20 percent of member contributions for the current fiscal year. For a pool
+12 providing workers' compensation and other property and casualty lines of coverage, the contingency
+13 reserve is a minimum of 30 percent and a maximum of 40 percent of member contributions for the
+14 current fiscal year. Any amount in excess of these maximum limits shall be transferred to the
+15 memberequitystabilizationfund.
+16 (g) Establish and maintain a member equity stabilization fund of at least 1/3 of their
+17 minimum contingencyreserve. The solepurposeof this fund is to providereservefunds to replenish
+18 the contingency reserve fund should the contingency fund fall below 1/3 of the required minimum.
+19 The bylaws of the pool may establish the maximum level that can be deposited into the member
+20 equity stabilization fund. Any surplus in the fund beyond the maximum shall be returned by the
+21 program to the members. Any member equity stabilization fund balance held by a pooled risk
+22 management program on behalf of a member shall be returned to that member within 3 months of
+23 thedateofterminationofthemember’sinvolvementinthatpooledriskmanagementprogram.
+24 (h) Provide for an annual actuarial evaluation of the pooled risk management program.
+25 The evaluation shall assess the reserve, the contingencyreserve, and themember stabilization fund.
+26 Theactuaryshalladvisetheprogramiftheminimumofthememberequitystabilizationfund,asset
+27 by this chapter, or at whatever higher level set by the pooled risk management program’s bylaws, is
+28 adequate to ensure a less than 5 percent chance of insolvency in the next 3 years and shall take
+29 necessary steps to adjust the minimum member equity stabilization fund balance to be at or greater
+30 than the actuary’s recommendation. The annual actuarial evaluation shall be performed by a
+31 member of the American Academy of Actuaries qualified in the coverage area being evaluated, shall
+32 be filed with the department, and shall be distributed to participants of each pooled risk
+33 managementprogram.
+34 (i) The actuarial evaluation shall calculate contributions and assessments required to
+35 fund the program and bring the program into compliance with the minimums required for the
+36 contingency reserve and the member equity stabilization fund. Contribution rates charged in any
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page8-
+1 given year to each member may not be lower than the amounts indicated by reasonable actuarial
+2 analysis. Contributionraterelativitiesshallbeupdatedatleastevery5years.
+3 (j) Provide notice to all participants of and conduct 2 public hearings for the purpose of
+4 advising members of potential rate increases, the reasons for projected rate increases, and soliciting
+5 comments from members regarding the return of surplus, at least 10 days prior to rate setting for
+6 eachcalendaryear.
+7 II. Initial funding, replenishment, and use of the contingency reserve and the member
+8 equitystabilizationfundshallbeasfollows:
+9 (a) Initial funding of the contingency reserve and the member equity stabilization fund
+10 shallbeatleast1/2oftherequiredminimumorasauthorizedbythedepartment.
+11 (b) Replenishment of the contingency reserve and the member equity stabilization fund
+12 shall be at least 68 percent annually of the amount the funds are below the minimums. Alternate
+13 replenishmentpercentagesmaybeauthorizedbythedepartment.
+14 (c) The member equity stabilization fund shall be used to bring the contingency reserve
+15 back to 1/3of the minimum allowed whenever thecontingency reserve fund falls below that limit. If
+16 the bylaws permit, the board of directors, by a 2/3 vote, may transfer any amount in the member
+17 equity stabilization fund that is above the minimum required to the members or to the contingency
+18 reserve fund. Transfers to the contingency reserve fund shall not cause the fund to exceed the
+19 maximumallowed.
+20 (d) The risk management program member equity stabilization funds may be invested
+21 as determined by the board of directors, and any earnings on fund monies shall be added to that
+22 member’sequitystabilizationfund.
+23 5-B:6 DeclarationofStatus;TaxExemption;Liability.
+24 I. Any pooled risk management program meeting the standards required under this chapter
+25 is not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+26 administration of any activities of the plan shall not constitute doing an insurance business for
+27 purposesofregulationortaxation.
+28 II. Any such program operating under this chapter, whether or not a body corporate, may
+29 sue or be sued; make contracts; hold and dispose of real property; and borrow money, contract debts,
+30 andpledgeassetsinitsname.
+31 III. Participation by a political subdivision in a pooled risk management program formed
+32 and affirmed under this chapter shall not subject any such political subdivision to any liability to
+33 any third party for the acts or omissions of the pooled risk management program or any other
+34 politicalsubdivisionparticipatingintheprogram.
+35 IV. Any such program operating under this chapter shall publicly and conspicuously
+36 disclose,byincludingawrittendisclaimerinanyandallmemberagreements,contracts,bylaws,and
+
+SB661-FN-ASAMENDEDBYTHESENATE
+-Page9-
+1 contribution quotes and renewals between the program and its prospective and actual member
+2 politicalsubdivisions,that,ataminimum,notifiesthepoliticalsubdivisionofthefollowing:
+3 (a) The pooled risk management program does not function like an insurance company
+4 andisnotaninsurer.
+5 (b) The pooled risk management program, to the extent it is self-insured, does not
+6 provideguaranteedcostorfixedcostcoverages.
+7 (c) The pooled risk management program may collect from participating members’
+8 assessments or replenishments whenever required in the event the program’s assets are insufficient
+9 todischargeitsclaimandadministrativelossesandliabilitiesandotherlegalobligationsoftheplan,
+10 in the event of insolvency, or in the event contingency reserves fall below the required minimum
+11 underthischapter.
+12 5-B:7 Confidentiality of Certain Claims Information. Notwithstanding any provision of law to
+13 thecontrary,anyinformationofanypooledriskmanagementprogramformedoraffirmedunderthis
+14 chapter pertainingtoclaims analysis or claims management shall beprivileged and confidential and
+15 notsubjecttodisclosuretoanythirdpartyordisclosureunderRSA91-A.
+16 5-B:8 DissolutionofaPooledRiskManagementProgram.
+17 I. A voluntary or involuntary dissolution of a pooled risk management program established
+18 under this chapter shall occur in accordance with the dissolution requirements under New
+19 Hampshirelawapplicabletothelegalentityoperatingsuchprogram.
+20 II. Notwithstanding the foregoing and any provision of law to the contrary, and in
+21 accordance with Section 115 of the Internal Revenue Code, in the event of any dissolution of any
+22 pooledrisk management program under this chapter,after all legal debts, liabilities, and obligations
+23 of the program have been finally discharged or satisfied, all remaining assets, if any, shall be
+24 liquidated and shall be distributed pro-rata to the members of the respective coverage lines as of the
+25 last day of the last full pool year of such coverage line prior to the decision to dissolve. Such net
+26 assets shall be distributed, separately by coverage line, by calculating each member’s relative
+27 percentageofthetotalmembercontributionstothecoveragelineforsuchpoolyear.
+28 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-3262
+5/8/26
+SB661-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1208s)
+ANACT relativetopooledriskmanagementprograms.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 ($250,000+) ($250,000+) ($250,000+)
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+CountyExpenditures $0
+Increase Increase Increase
+LocalRevenue $0 $0 $0 $0
+Indeterminable Indeterminable Indeterminable
+LocalExpenditures $0
+Increase Increase Increase
+METHODOLOGY:
+This bill introduces measures to ensure the financial stability of pooled risk management
+programs.ItallowstheSecretaryofStatetoaddressinsufficientassetsandseekcourtappointed
+receivership if necessary. Pools providing health coverage must maintain a contingency reserve
+with a minimum of 12 percent and a maximum of 20 percent of annual contributions. Pools
+providing workers' compensation and other property and casualty lines of coverage must
+maintain a contingency reserve with a minimum of 30 percent and a maximum of 40 percent of
+annual contributions. Any funds exceeding the maximum reserve limits shall be transferred to
+the member equity stabilization fund. The bill also requires pooled risk management programs
+to establish a member equity stabilization fund equal to at least one-third of the minimum
+contingency reserve to help cover program assessments and other obligations. Additionally, the
+billrequiresgreatertransparencythroughpublicdisclosuresforprogrammembers.
+
+The Department of State indicates that this bill will save $250,000+ in general funds each year
+and securities funds that go unspent will lapse back to the General Fund. The anticipated
+savingsarefromthereducedneedtohireexternallegalandactuarialexpertsthathelpthestate
+bringlegalactionagainstpooled riskmanagement programsthat arenot actingas afiduciaryto
+theirparticipatingmembers.
+The New Hampshire Municipal Association (NHMA) states that this bill would require
+municipalitiesparticipatinginpooledhealthplanstosetasideextrafundsinreserveaccountsto
+cover potential financial shortfalls. If the health pool's reserves drop too low or if it becomes
+insolvent, municipalities would face additional financial obligations through special
+assessments. Theywouldalsoneedtorebuildreserveaccountsovertimeifused. Municipalities
+must agree in writing to take responsibility for these potential financial risks, including any
+losses from the prior year if they leave the pool. This could lead to increased costs and
+challenges for municipalities, especially since raising extra funds may require special town
+meetings.
+The New Hampshire Association of Counties (NHAC) states that this bill could lead to an
+indeterminable increase in expenditures for counties involved in pooled risk management
+programs. The potential increase stems from the need to gather additional contributions from
+members if an annual audit, actuarial determination, or Secretary of State investigation reveals
+insufficient assets. Additionally, there could be administrative costs that would be taken on by
+poolmembersalsoincreasingexpenditures.
+AGENCIESCONTACTED:
+DepartmentofState,NewHampshireMunicipalAssociation,andNewHampshireAssociationof
+Counties
+
+[DELETED: B6N-ASADBYTES616SEBNATretopdrkmtp:S.C,Dt1;S.G,Dt:FDAsb.Estesyofsetoreatofitasortos,ifn,ofapdrkmtp.Rsatofehpgmroftepdrkmtpnaporabstosyteatofted.Rsteggbdoftepdrkmtpmtoueasdo,d,p,adslintemtoftep.Psfrteatofapdrkmtpspgmfr,aranalc.Psfrcyressdgontepdrkmsleofceadrgacyrertifapyrsflbwtemml.Rspdrkmtpstomecnpcdsteadalmrpls.Mstlcstotepdrkmtpmc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretopdrkmtpeitEdbyteSeadHeofRsinGlCtc1PdRkMtP.RA5BisrdadrdtordasfCR5PDRKMTP51P.Tepeoftscristopefrteetofpdrmtpsadtoamtessofshpsedfrtebtoplssoftes.Telefsaddsttieadrmtaeeltoteprfgofpls;ttrkmcnbeadthtepeoftli,s,orpnipdrkmtpsedfrtebtofpls;ttp0rkmtisanelglfnbypgfdpcsrl1pnp,alofitadddesttmyberdtotep2b,adetofcspdsyontealeeofpls3wntes;tttersofplssaepybdbytes4ofiepnthsdc;adttpdrkmtpst5mttessedbytscrsdntbesttoierna6tnbytes752D.Intsc8I.""mstedtofs9I."lf"msanalfgwhtedtmesyfrt0peofpgpcastocnincgteneadono1pdrkmtp.Shilfgslbeldtotef2()Teneadllasofehpdrkmtp3()Altofcto,trt,ada4()Abfdnoftecep5()TealatrdurRA5,I6()Tepdrkmtpmb;a7()TealalenrdurRA5,I8I."ls"msayc,t,c,sld,cdp9s,ved,slaeu,oraydtoreycdfras0peadorfdbyayofteadglu]
+[DELETED: B6N-ASADBYTESPe2I."km"mstedeofcsadinfrlsaotofteo,m,adonofrlorplpyadteasoosofo,e,ada;tepnoflspnssi,bntldt,isofpyadtetgofp;adteie,adstofcsbyadatplsV.“,asudinRA5,I,msreesfrppdrkm,igbtntldt()Ssadb,rdfsadoli,ctcfrelespgdtstofcds,adorrdb0e,igrkenadwsp1()P,e,adstssidinteptofc2adorrdl3()A,a,l,adagssfranoftepdr4p5()Esrdtootssdetonewhtepso6tsc7Tersofaneefranurtscrmybeddina8enoraehgcdbytesyofsepttoRA59a.Intefti,teayceslrwqsrgter0ofesurtscradpetesyofsewhtrr.Ifa1atonteryofaneectbea,tesyofsemyt2aspttoRA5.Aydnonteryofayeeslbem3aetoalpdrkmtp4V.“”mscsr,cersadidbtntrd(5r,cndyr,adcyr6V.“yr”msteatofsstoberdbytepdr7mtpmfrteugpnyradtefg2ysasmyber8edadsyrdtocredadunoreycma9aelsadl0V.“si”msr1I.“”msapnt,ifteasofapdrkm2pmaeatayteayddtobeittodeiscma3aelsadlsadorllosoftep,tepms,w430dsofshad,nytemsofterttopea5csfmisegmsfrteatndtomeupted]
+[DELETED: B6N-ASADBYTESPe3X."yb"msacecdoftesyofsed,tcroftedtofied,adtecfoftecrpnaatbuofteoeofteaygldX."reysnf"msfsddinabkasddinR3,pttotecastfhinRA6,frbkdsonbfofem,shastedsofescyr.Tsfspeistopalfstotecyrefdiftecyrefsbw13oftmmstfhinRA5,I,whsdgyreoreetendfranorgatoftedyprRA5.H,ngintscrs0ptaypdrkmtpmfmagaymrtowwaya1fmtemreysnfdinesofterdmmstfhinRA52I,pdtttepdrkmtpsbsawfrshw353PdRkMtAdadA;M4I.Apls,byrnofisggb,myehaderi5asfrogorigiebys;frogief6ayiradtottbsintsseasanadorsslsc;f7ogiesdinaewhaymdpdbyl;orfro8iebyaycnoftepsoftsp.Asmeptt9tsphmypefrpgofser,r,csadl,ado0aessadesadwhtmagpls.T1ahtepsoftsc,2ormeplssmyfmana2urtelsoftsseoramanegansofdtodpadar3rkmtpmhgasispsrgterkofism;s4e;d,s,adpgr;agi,eslsi,o5r;adp,p,addgcsattemsofsha6I.RA5Aslntaytoananfdoradurtsc,nrt7tepninshananbyapls8I.Pdrkmtpsedfrtebtofpls9mypeayoraloftefgc0()C,iggladpll;esado;w1cnadesl;mlp;orutcna2adurfll3()P,igmeadidn,t,bra4m,f,t,ornlh5()V,igaylyorlsagfmteoporono6v7()Syadf]
+[DELETED: B6N-ASADBYTESPe4()Eli()H,m,s,ordlbsfresadtrd()L,iem,aldhadd,vnlsoi,orllbsfresadtrd()Udslenctr54IlFgR;F.Pdrkmtpsedftebtofplssslmeanilf,asddinRA5,Iwhtedtadslpyanalfgfeof$.Tedtmymerfralinnytoeeryoretayptt,b0ntldt,tehspsurRA43oraypdrkm1pmfdoradinaewhtsc.Pdw'cna2utcnp,whaerdbyadwhrttoted3oflradtedtofets,urRA2AadRA2,r4slbeetfmtersoftssnaslgastrosadr5cmtotelsadrsadbyted65aAyofteSyofS;I;CeadDtO;P7I.Ngayorpnofl,tesyofseslhee8ayadj9()Tobgaeastoeetsc0()Toieadiepsfrvsoftsc,igbtn1ldt2()F3()R,r,ord4I.Tesyofseslhealpssygdorryidi5ortopmtesersidbytsc6I.Frtepeofayi,h,orpgurtsc,t7syofseorayorddbyhmorhrmyarosada8saw,cltra,tee,adretepnofa9b,p,c,m,a,orordsorrsttt0syofsedsrtormltotei1I.Inteetttapnrstooyasaidtohmorhrorayo2ordntesyofseisadtom,tesrc,unanb3teayglorsyofseorayorddbytesyofs,m4ietotepnanordghmorhrtoarbeteayglors5ofs,orteorddbyhmorh,topedyeeifsoodort6geeeretotemrurinorinq.Fetooyteoro7tectmybepdbytectasctofc]
+[DELETED: B6N-ASADBYTESPe5V.Inayintodewraypnhsvdorisattovtscrorayreororurtsc,untesyofsspgah,ortepncdwhtevnbgfdind,orpttoacoridbytesyofs,tesyofseslbeedtorrtecsoteinadayrdp,igreasf,inantayorpypdfrurtscV.Writastotesyofsettaypnhsedorisatteeinayatorpecgavnoftscrorayreororurtc,tesyofseslheteprtoieadcetobesdunshp0anorrgtepntoceaddtfmvsoftsc.Teorslb1cdtogereneoftersoftepntortahgonteora2slsetersfrteeyofteo.Alhsslbecdinaew3RA44V.Tefgfsadpsmybeidonaypnwohsvdt5c6()Aypnw,erkyorn,vsaypnoft7crorayreorortrm,unh,adinantoayorp8pdfrbyl,besttoanaefenttoed$.Ehoftea9sdslceasev0()Arneadh,tesyofsemyeranorofr1r,ordtddtoapnwohsvdtsc,orreoro2urtsc.R,r,ordtslbeinantoayorp3pdfrurtsc4V.Dsoftesyofsemybeadtotesectptt5RA565bIyorFlI7I.Ifatteedofayflm,tecyreofapdrkm8pmisatorbw23ofterdm,tepdrkmtpms9nyismsinwgwn30dsttcyrsaebwter0mmadofteastobetniftepdrkmtpsc1recstod.Temrnnslaocntessoft2mreysnfdatadhwitmybeudtoattec3r4I.I,atteedofayflm,tecyreofapdrkm5pmisatorbw13ofterdmmp,tepdrkmtp6slnyismsadtesyofseinwgoftecyred]
+[DELETED: B6N-ASADBYTESPe6adteastobet,igteueoftemreysnf,wnbsdI.Iftecyrefsbw13ofterdmmartetroaemreysnfstotecyr,tepdrkmpmslnytemsadtesyofseinwgoftecyrd.Tesyofseslitteaybdtomrteflsoftepsasadlsadaetesyofseofteastyr.Itedyp,tesyofseslietotepdrkmtpmaorrgatofted0I.Iftepdrkmtpmfstocywhteorwn30d1artedeoften,tesyofsemyaytoadskfmtesrcta2orrgertepdrkmtpmtoaetedyort3atofar,astecsmyr.Tepdrkmtp4slretesyofsefrtectidinsgshano5V.Ifapdrkmtpmisddtobei,fyi6oroeuetodeiscmadaelsadlsadorl7osoftep,ehpgmroftepmslbeadonapor8bscdbyteatofisalcntosyteatofted955SsofOnadO0I.Ehpdrkmtpmslmttefgssofo1ado.Ehpms2()EtasalleyodurNwHel3()Beedbyplsseyfrtebtoftep4ssadbegdbyab,temyofwhiscdofedora5pco,o,ore.Bdmsslntrecnbtmyb6rdfrmeadorree.Bdmsslcywht7psofRA1.Bdmsslheafyrytotem8pls,whistedsofgdfhadl,agcso9i,admgtepdrkmtpmsyfrtebtoftep0s.Bdmsslueasdofc,d,p,adslint1mtoftepdrkmtp2()Rnofesads:Alasinesoftemmc3r,ascdatteedofehfly,slbetdtotemre4snf.Ayatinesoftemmmreysnfdslb5rdtotepgpls]
+[DELETED: B6N-ASADBYTESPe7()Pefranalatoffltsbyanitcpca.Teatslbefdwhtedtadddtopsoehpdrkmtp()Begdbywnbsttsldltetsofeyfpnbypls,tegeoftep,adormsntotepso.Bsadaystasslbefdwhtd()Ehadmnacyrefdfrteptofayardfra,c,r,adpeofesi0Fraplpghhleofc,tecyreisammof12p1adammof20ptofmrcsfrtectfly.Frap2pgw'cnadorpyadcylsofc,tec3reisammof30ptadammof40ptofmrcsfrt4ctfly.Ayatinesoftemmlsslbetdtot5mreysnf6()Ehadmnamreysnfdofatlt13oft7mmcyr.Tesepeoftsfdistoperefstor8tecyrefdsdtecyfdflbw13ofterdm9Tebsofteplmyehtemmllttcnbeddiotem0eysnf.Ayssintefdbdtemmslberdbyt1pmtotem.Aymreysnfdbehdbyapdr2mtpmonbfofamrslberdtottmrwn3mso3tedeoftnoftemsitinttpdrkmtp4()Pefranalalenoftepdrkmtp5Teenslaster,tecyr,adtemrsnf6Teayslaetepmiftemmoftemreysnf,ass7bytsc,oratwrhrllstbytepdrkmtpsb,i8aetoeealstn5ptceofiyintent3ysadslt9nysstoattemmmreysnfdbetobeatorg0tnteasr.Tealalenslbepdby1mrofteAnAyofAsqdinteceaabge,s2befdwhted,adslbeddtopsofehpdr3mtp4()Tealenslcecsadasrdt5fdtepmadbgtepmiocewhtemsrdfrt6cyreadtemreysnf.Cnrscdina]
+[DELETED: B6N-ASADBYTESPe8gnyrtoehmrmyntbelrtnteasidbyreaa.Cnrersslbeudatltey5y()Penetoalpsofadct2pchsfrtepeoagmsofplrei,tersfrpdrei,adscsfmmsrgternofs,atlt10dsprtoresgfehcryI.Ilf,r,adueoftecyreadtemeysnfdslbeasf()Ilfgoftecyreadtemreysnf0slbeatlt12ofterdmmorasadbyted1()Rtoftecyreadtemreysnf2slbeatlt68ptayofteattefsaebwtem.A3rtpsmybeadbyted4()Temreysnfdslbeudtobgtecyr5bkto13oftemmadwrtecyrefdfsbwttl.I6tebsp,tebdofd,bya23v,mytrayatintem7eysnfdttisaetemmrdtotemsortotec8ref.Tstotecyrefdslntcetefdtoedt9mma0()Terkmtpmmreysnfsmybei1asddbytebdofd,adayesonfdmsslbeadtot2mseysnf356DnofS;TxE;L4I.Aypdrkmtpmmgtessrdurtsc5isntaniec,rli,orirurtelsoftss,a6anofayasoftepnslntcedganiebsf7psofrnort8I.Ayshpmogurtsc,wrorntabyc,m9seorbes;mec;hdaddeofrlp;adbwm,ctd0adpeasinisn1I.Pnbyaplsninapdrkmtpmf2adadurtscrslntstayshplsntoaylyt3aytdpyfrteasorosoftepdrkmtpmorayo4plsnpgintep5I.Ayshpmogurtscrslpyadc6d,byigawndrinayadalmra,c,b,a]
+[DELETED: B6N-ASADBYTESPe9cnqsadrsbntepmadispeadalmpls,t,atam,nsteplsnoftef()Tepdrkmtpmdsntfnleaniecadisntani()Tepdrkmtp,toteetitiss,dsnpegdctorfdctc()Tepdrkmtpmmyctfmpgmasorrswrrdinteettepsasaeitodeiscmadaelsadlsadorllosoftep0inteetofi,orinteetcyrsflbwterdm1urtsc257CyofCnCsI.Ngaypnoflwt3tec,ayinofaypdrkmtpmfdoradurt4crpgtocsasorcsmtslbepdadcla5ntsttodetoaytdpyordeurRA9658DnofaPdRkMtP7I.Avyoriydnofapdrkmtpme8urtscrslorinaewhtednrsurN9Helwaetotelleyogshp0I.Ngtefgadaypnoflwtotec,adi1aewhSn15ofteIlReC,inteetofaydnofa2pdrkmtpmurtsc,arallld,l,ado3oftepmhebnfyddors,alrga,ifa,slb4ldadslbeddpatotemsofterecelsasoft5ltdyofteltflplyrofshceleprtotedntod.Shn6asslbed,sybycel,bycgehmsr7peoftetlmrcstotecelefrshply82EeD.Tsatslteet60dsarisp]
+[DELETED: B6-FLNSADBYTESE(T#NATretopdrkmtpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0()()(gSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yEeIeIeIeIlR0$0$0$lEeIeIeIeIsblismstoeeteflsyofpdrkm.ItasteSyofSetoasitasadskctapifn.Pspghhcemtmnacyrhammof12ptadammof20ptofalc.Pgw'cnadorpyadcylsofcemnacyrewhammof30ptadammof40ptolc.Ayfsegtemmrelsslbetdtemreysnf.Teblaorspdrkmtpoehamreysnfdeltoatltodoftemyretohpcrpmasadoro.A,tlrsgrtythpcdsfrpmm]
+[DELETED: eDtofSeistttsblwlse$+inglfsehydssfsttgoutwllebktoteGlF.TeasaefmterdndtoheellladalestthptesgllanatpdrkmtpsttaentagasafytrpgmeNwHeMlAn()sstttsblwdrspginpdhhpstostaeeafsinreastrplfls.Iftehhpsrsdptolworifitb,mswdfealflosths.Tywdaondtordreasorteifu.Mtaeinwgtoteryfrteplflr,igasfmtepryriftyletep.Tscdldtoidcsasfrm,eysergeafsmyreslteNwHeAnofCs()sstttsblcdldtoaeieinesfrcsidinpdrkm.Tepliessfmtendtogralcsfsifanala,ald,orSyofSeinrta.A,tecdbeaecsttwdbetnonblmsaoigeSCtofS,NwHeMlA,adNwHeAno]

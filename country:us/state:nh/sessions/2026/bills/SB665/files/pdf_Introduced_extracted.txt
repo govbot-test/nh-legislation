@@ -1,0 +1,198 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB665-FN-ASINTRODUCED
+2026SESSION
+26-3266
+07/09
+665-FN
+ANACT requiring pharmacies to charge consumers the lowest available price for
+prescriptiondrugs.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Long, Dist 20; Sen. Watters, Dist 4; Sen. Rosenwald,
+Dist 13; Sen. Fenton, Dist 10; Sen. Gannon, Dist 23; Sen. Reardon, Dist 15; Sen.
+McConkey, Dist 3; Sen. Rochefort, Dist 1; Sen. Pearl, Dist 17; Sen. Carson, Dist
+14; Sen. Birdsell, Dist 19; Sen. Perkins Kwoka, Dist 21; Rep. Kuttab, Rock. 17;
+Rep.W.MacDonald,Rock.16;Rep.Rombeau,Hills.2;Rep.L.Foxx,Hills.2
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires pharmacies to charge consumers the lowest available price for prescription
+drugs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB665-FN-ASINTRODUCED
+26-3266
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring pharmacies to charge consumers the lowest available price for
+prescriptiondrugs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Pharmacists and Pharmacies; Pharmacy Board; Rulemaking Authority.
+2 AmendRSA318:5-abyinsertingafterparagraphXXthefollowingnewparagraph:
+3 XXI. Procedures for verifying compliance, consumer complaints, and enforcement actions
+4 broughtpursuanttoRSA318:47-nthroughRSA318:47-q.
+5 2 New Subdivision; Prescription Drug Prices. Amend RSA 318 by inserting after section 47-m
+6 thefollowingnewsubdivision:
+7 PrescriptionDrugPrices
+8 318:47-n Definitions. Inthissection:
+9 I. "Pharmacy retail price" means the cash price a consumer without prescription drug
+10 coverageorotherdiscountswouldpayatapharmacy,excludinganypharmacistdispensingfee.
+11 II. "Cost-sharing amount" means the amount owed by a covered individual under the terms
+12 ofahealthinsurancepolicyorasrequiredbyapharmacybenefitmanager.
+13 III. "Discountedprice"meansanypubliclyavailableorpharmacy-affiliateddiscount,coupon,
+14 orsavingsprogrampriceavailabletoaconsumeratthetimeofsale.
+15 IV. "Lowest available price" means the lowest of the following prices for a prescription
+16 medicationasdeterminedatthetimeofsale:
+17 (a) Thepharmacyretailprice;
+18 (b) The consumer's cost-sharing amount under insurance or a pharmacy benefit
+19 managerarrangement;or
+20 (c) Any discounted price available through the pharmacy or a recognized discount
+21 program.
+22 318:47-o DutytoChargeLowestAvailablePrice.
+23 I. A pharmacist or pharmacy employee shall, at the point of sale, determine the lowest
+24 available price for the prescription medication being dispensed and shall charge the consumer that
+25 lowestavailableprice.
+26 II. The pharmacist or pharmacy employee shall inform the consumer of the lowest available
+27 pricebeforecompletingthetransaction.
+28 III. No insurer, pharmacy benefit manager, or third-party payer shall restrict, prohibit, or
+29 penalizeapharmacistfordisclosingorchargingthelowestavailablepricetoaconsumer.
+SB665-FN-ASINTRODUCED
+-Page2-
+1 IV. If a consumer elects to use insurance, despite a lower cash or discount price, the
+2 pharmacyshalldocumenttheconsumer'selectionatthepointofsale.
+3 318:47-p EnforcementandPenalties.
+4 I. A violation of this subdivision shall constitute unprofessional conduct under RSA 318 and
+5 shallsubjectthelicenseetodisciplinaryactionbytheboardofpharmacy.
+6 II. The board may impose a civil administrative penalty not to exceed $1,000 for each
+7 violation.
+8 III. Consumersshallnotbeliableforanyamountexceedingthelowestavailablepriceatthe
+9 timeofsale.
+10 318:47-q Rulemaking. The board of pharmacy shall adopt rules under RSA 541-A as necessary
+11 to implement the provisions of this subdivision, including procedures for verifying compliance,
+12 consumercomplaints,andenforcementactions.
+13 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-3266
+Revised1/30/26
+SB665-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring pharmacies to charge consumers the lowest available price for
+prescriptiondrugs.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertificationandInsuranceDepartment
+[DELETED: B6N-ASI6SEBNATrgpstocecsteltaepefnd:S.R,Dt9;S.L,Dt2;S.W,Dt4;S.Rt1;S.F,Dt1;S.G,Dt2;S.R,Dt1;S,Dt3;S.R,Dt1;S.P,Dt1;S.C,D;S.B,Dt1;S.PsK,Dt2;R.K,R.1.W.M,R.1;R.R,H.2;R.L.F,H.:HhadHnSsblrspstocecsteltaepefrp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATrgpstocecsteltaepefndeitEdbyteSeadHeofRsinGlCtc1NwP;PsadP;PyB;RgAAdRA3abyigarphXXtefgnwpX.Psfrvgc,crc,adetabtpttoRA3nthRA32NwS;PnDgP.AdRA38byigarsn4tefgnwsPnDgP3nD.IntssI."yrlp"mstechpeacrwtpnd0ceorordswdpyatap,egayptdgf1I."ga"msteatodbyacdilurtet2ofahhiepyorasrdbyapybtm3I."dp"msaypyaeorpdd,c4orsspmpeaetoacratteteofs5I."taep"msteltoftefgpsfrap6mnasddatteteofs7()Tepyrlp8()Tecscgaturieorapyb9mra;o0()Ayddpeaethtepyorardd1p23oDytoCeLtAeP3I.Aptorpyees,atteptofs,detel4aepefrtepnmnbgddadslcetecrt5ltaep6I.Teptorpyeeslimtecroftelta7pebecgtet8I.Noi,pybtm,ortyprslr,p,o9peaptfrdgorcgteltaepetoac]
+[DELETED: B6N-ASIPe2I.Ifacrestouei,dealrchordtp,tpysldttecsenatteptofs3pEtadPI.AvnoftssnslceulcturRA38aslstteletodyanbytebdofpI.Tebdmyieaclaepynttoed$0frevI.Csslntbelefrayategteltaepeattteofs03qR.TebdofpyslatrsurRA5Aasn1toittepsoftss,igpsfrvgc2crc,adeta33EeD.TsatslteetJy1,2]
+[DELETED: d1B6-FLNSINATrgpstocecsteltaepefndLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SCeofPlLeadCnadIeD]
+
+
+================================================================================
+
+Raw Text:
+SB665-FN-ASINTRODUCED
+2026SESSION
+26-3266
+07/09
+665-FN
+SENATEBILL
+ANACT requiring pharmacies to charge consumers the lowest available price for
+prescriptiondrugs.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Long, Dist 20; Sen. Watters, Dist 4; Sen. Rosenwald,
+Dist 13; Sen. Fenton, Dist 10; Sen. Gannon, Dist 23; Sen. Reardon, Dist 15; Sen.
+McConkey, Dist 3; Sen. Rochefort, Dist 1; Sen. Pearl, Dist 17; Sen. Carson, Dist
+14; Sen. Birdsell, Dist 19; Sen. Perkins Kwoka, Dist 21; Rep. Kuttab, Rock. 17;
+Rep.W.MacDonald,Rock.16;Rep.Rombeau,Hills.2;Rep.L.Foxx,Hills.2
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires pharmacies to charge consumers the lowest available price for prescription
+drugs.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB665-FN-ASINTRODUCED
+26-3266
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring pharmacies to charge consumers the lowest available price for
+prescriptiondrugs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Pharmacists and Pharmacies; Pharmacy Board; Rulemaking Authority.
+2 AmendRSA318:5-abyinsertingafterparagraphXXthefollowingnewparagraph:
+3 XXI. Procedures for verifying compliance, consumer complaints, and enforcement actions
+4 broughtpursuanttoRSA318:47-nthroughRSA318:47-q.
+5 2 New Subdivision; Prescription Drug Prices. Amend RSA 318 by inserting after section 47-m
+6 thefollowingnewsubdivision:
+7 PrescriptionDrugPrices
+8 318:47-n Definitions. Inthissection:
+9 I. "Pharmacy retail price" means the cash price a consumer without prescription drug
+10 coverageorotherdiscountswouldpayatapharmacy,excludinganypharmacistdispensingfee.
+11 II. "Cost-sharing amount" means the amount owed by a covered individual under the terms
+12 ofahealthinsurancepolicyorasrequiredbyapharmacybenefitmanager.
+13 III. "Discountedprice"meansanypubliclyavailableorpharmacy-affiliateddiscount,coupon,
+14 orsavingsprogrampriceavailabletoaconsumeratthetimeofsale.
+15 IV. "Lowest available price" means the lowest of the following prices for a prescription
+16 medicationasdeterminedatthetimeofsale:
+17 (a) Thepharmacyretailprice;
+18 (b) The consumer's cost-sharing amount under insurance or a pharmacy benefit
+19 managerarrangement;or
+20 (c) Any discounted price available through the pharmacy or a recognized discount
+21 program.
+22 318:47-o DutytoChargeLowestAvailablePrice.
+23 I. A pharmacist or pharmacy employee shall, at the point of sale, determine the lowest
+24 available price for the prescription medication being dispensed and shall charge the consumer that
+25 lowestavailableprice.
+26 II. The pharmacist or pharmacy employee shall inform the consumer of the lowest available
+27 pricebeforecompletingthetransaction.
+28 III. No insurer, pharmacy benefit manager, or third-party payer shall restrict, prohibit, or
+29 penalizeapharmacistfordisclosingorchargingthelowestavailablepricetoaconsumer.
+
+SB665-FN-ASINTRODUCED
+-Page2-
+1 IV. If a consumer elects to use insurance, despite a lower cash or discount price, the
+2 pharmacyshalldocumenttheconsumer'selectionatthepointofsale.
+3 318:47-p EnforcementandPenalties.
+4 I. A violation of this subdivision shall constitute unprofessional conduct under RSA 318 and
+5 shallsubjectthelicenseetodisciplinaryactionbytheboardofpharmacy.
+6 II. The board may impose a civil administrative penalty not to exceed $1,000 for each
+7 violation.
+8 III. Consumersshallnotbeliableforanyamountexceedingthelowestavailablepriceatthe
+9 timeofsale.
+10 318:47-q Rulemaking. The board of pharmacy shall adopt rules under RSA 541-A as necessary
+11 to implement the provisions of this subdivision, including procedures for verifying compliance,
+12 consumercomplaints,andenforcementactions.
+13 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-3266
+Revised1/30/26
+SB665-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring pharmacies to charge consumers the lowest available price for
+prescriptiondrugs.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+OfficeofProfessionalLicensureandCertificationandInsuranceDepartment
+
+[DELETED: B6N-ASI6SEBNATrgpstocecsteltaepefnd:S.R,Dt9;S.L,Dt2;S.W,Dt4;S.Rt1;S.F,Dt1;S.G,Dt2;S.R,Dt1;S,Dt3;S.R,Dt1;S.P,Dt1;S.C,D;S.B,Dt1;S.PsK,Dt2;R.K,R.1.W.M,R.1;R.R,H.2;R.L.F,H.:HhadHnSsblrspstocecsteltaepefrp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATrgpstocecsteltaepefndeitEdbyteSeadHeofRsinGlCtc1NwP;PsadP;PyB;RgAAdRA3abyigarphXXtefgnwpX.Psfrvgc,crc,adetabtpttoRA3nthRA32NwS;PnDgP.AdRA38byigarsn4tefgnwsPnDgP3nD.IntssI."yrlp"mstechpeacrwtpnd0ceorordswdpyatap,egayptdgf1I."ga"msteatodbyacdilurtet2ofahhiepyorasrdbyapybtm3I."dp"msaypyaeorpdd,c4orsspmpeaetoacratteteofs5I."taep"msteltoftefgpsfrap6mnasddatteteofs7()Tepyrlp8()Tecscgaturieorapyb9mra;o0()Ayddpeaethtepyorardd1p23oDytoCeLtAeP3I.Aptorpyees,atteptofs,detel4aepefrtepnmnbgddadslcetecrt5ltaep6I.Teptorpyeeslimtecroftelta7pebecgtet8I.Noi,pybtm,ortyprslr,p,o9peaptfrdgorcgteltaepetoac]
+[DELETED: B6N-ASIPe2I.Ifacrestouei,dealrchordtp,tpysldttecsenatteptofs3pEtadPI.AvnoftssnslceulcturRA38aslstteletodyanbytebdofpI.Tebdmyieaclaepynttoed$0frevI.Csslntbelefrayategteltaepeattteofs03qR.TebdofpyslatrsurRA5Aasn1toittepsoftss,igpsfrvgc2crc,adeta33EeD.TsatslteetJy1,2]
+[DELETED: d1B6-FLNSINATrgpstocecsteltaepefndLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SCeofPlLeadCnadIeD]

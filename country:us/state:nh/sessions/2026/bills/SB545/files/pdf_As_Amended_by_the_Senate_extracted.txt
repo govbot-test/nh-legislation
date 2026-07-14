@@ -1,0 +1,137 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB545-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1210s
+2026SESSION
+26-2127
+05/08
+545-FN
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Long, Dist 20; Sen. Fenton, Dist 10; Sen. Watters,
+Dist4;Sen.PerkinsKwoka,Dist21;Sen.Altschiller,Dist24;Rep.Wallner,Merr.
+19; Rep. Weber, Ches. 5; Rep. Telerski, Hills. 11; Rep. Hakken-Phillips, Graf. 12;
+Rep.Nagel,Belk.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the resource limit for the Medicare savings program and, subject to CMS
+approval, makes the low income subsidy for Medicare Part D available to residents to assist with
+prescriptiondrugcosts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB545-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1210s 26-2127
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownas"TheHelpforLowIncomeSeniorsActof2026".
+2 2 New Section; Financial Eligibility for Medicare Savings Program. Amend RSA 167 by
+3 insertingaftersection4-fthefollowingnewsection:
+4 167:4-g MedicareSavingsProgram.
+5 I. The department shall administer the Medicare savings program as described in 42 U.S.C.
+6 section1396a(a)(10)(E)inaccordancewithfederallawandthissection.
+7 II. Financial eligibility for the Medicare savings program shall, subject to CMS approval,
+8 make the low income subsidy for Medicare Part D available to residents to assist with prescription
+9 drugcosts.
+10 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2127
+04/07/2026
+SB545-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1210s)
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+FISCALIMPACT:
+This bill requires the Department of Health and Human Services to make the low-income
+subsidy for Medicare Part D available to residents who meet the financial eligibility criteria for
+participation in the Medicare savings program. The Depatment notes that the subsidy is
+already available to such residents, although there is currently no requirement in either state
+orfederallawthatthisbethecase. Thesubsidyisadministeredbythefederalgovernmentand
+is fully federally funded, provided that expenditures do not exceed the state's allocation of
+federal funds available for this purpose. The Department notes that from calendar years 2021
+through 2025, subsidy expenditures have ranged from 55 percent to 67 percent of the state's
+allotment. Forthisreason,theDepartmentassumesthatthebillwillhavenofiscalimpact.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B5N-ASADBYTES616SEBNATretofleyfrteMessp:S.R,Dt1;S.L,Dt2;S.F,Dt1;S.Wt4;S.PsK,Dt2;S.A,Dt2;R.W,M;R.W,C.5;R.T,H.1;R.H,G.1.N,B.:HhadHnSsblrstereltfrteMesspma,sttoC,mstelwiesyfrMePtDaetorstoatwndgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretofleyfrteMesspeitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknas"eHpfrLwIeSsAtof22NwS;FlEyfrMeSsP.AdRA17bigarsn4ftefgnws1gMeSsPI.TedtslarteMesspmasddin42Usn1)inaewhfllwadtssI.FleyfrteMesspms,sttoCSametelwiesyfrMePtDaetorstoatwhpdgc03EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTESE(T#NATretofleyfrteMesspLIsblrsteDtofHhadHnSstometelyfrMePtDaetorswomttefleycafninteMessp.TeDtnstttesyiyaetoshr,ahteiscynortinersrfllwtttsbetec.Tesyisadbyteflgtasfyfyf,pdttesdontedtessanolfsaefrtsp.TeDtnsttfmcrys2h2,syesherdfm55ptto67ptoftes.Frtsr,teDtasttteblwlhenofliSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB545-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1210s
+2026SESSION
+26-2127
+05/08
+545-FN
+SENATEBILL
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+SPONSORS: Sen. Rosenwald, Dist 13; Sen. Long, Dist 20; Sen. Fenton, Dist 10; Sen. Watters,
+Dist4;Sen.PerkinsKwoka,Dist21;Sen.Altschiller,Dist24;Rep.Wallner,Merr.
+19; Rep. Weber, Ches. 5; Rep. Telerski, Hills. 11; Rep. Hakken-Phillips, Graf. 12;
+Rep.Nagel,Belk.6
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes the resource limit for the Medicare savings program and, subject to CMS
+approval, makes the low income subsidy for Medicare Part D available to residents to assist with
+prescriptiondrugcosts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB545-FN-ASAMENDEDBYTHESENATE
+03/26/2026 1210s 26-2127
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownas"TheHelpforLowIncomeSeniorsActof2026".
+2 2 New Section; Financial Eligibility for Medicare Savings Program. Amend RSA 167 by
+3 insertingaftersection4-fthefollowingnewsection:
+4 167:4-g MedicareSavingsProgram.
+5 I. The department shall administer the Medicare savings program as described in 42 U.S.C.
+6 section1396a(a)(10)(E)inaccordancewithfederallawandthissection.
+7 II. Financial eligibility for the Medicare savings program shall, subject to CMS approval,
+8 make the low income subsidy for Medicare Part D available to residents to assist with prescription
+9 drugcosts.
+10 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2127
+04/07/2026
+SB545-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1210s)
+ANACT relativetofinancialeligibilityfortheMedicaresavingsprogram.
+FISCALIMPACT:
+This bill requires the Department of Health and Human Services to make the low-income
+subsidy for Medicare Part D available to residents who meet the financial eligibility criteria for
+participation in the Medicare savings program. The Depatment notes that the subsidy is
+already available to such residents, although there is currently no requirement in either state
+orfederallawthatthisbethecase. Thesubsidyisadministeredbythefederalgovernmentand
+is fully federally funded, provided that expenditures do not exceed the state's allocation of
+federal funds available for this purpose. The Department notes that from calendar years 2021
+through 2025, subsidy expenditures have ranged from 55 percent to 67 percent of the state's
+allotment. Forthisreason,theDepartmentassumesthatthebillwillhavenofiscalimpact.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B5N-ASADBYTES616SEBNATretofleyfrteMessp:S.R,Dt1;S.L,Dt2;S.F,Dt1;S.Wt4;S.PsK,Dt2;S.A,Dt2;R.W,M;R.W,C.5;R.T,H.1;R.H,G.1.N,B.:HhadHnSsblrstereltfrteMesspma,sttoC,mstelwiesyfrMePtDaetorstoatwndgc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretofleyfrteMesspeitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknas"eHpfrLwIeSsAtof22NwS;FlEyfrMeSsP.AdRA17bigarsn4ftefgnws1gMeSsPI.TedtslarteMesspmasddin42Usn1)inaewhfllwadtssI.FleyfrteMesspms,sttoCSametelwiesyfrMePtDaetorstoatwhpdgc03EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSADBYTESE(T#NATretofleyfrteMesspLIsblrsteDtofHhadHnSstometelyfrMePtDaetorswomttefleycafninteMessp.TeDtnstttesyiyaetoshr,ahteiscynortinersrfllwtttsbetec.Tesyisadbyteflgtasfyfyf,pdttesdontedtessanolfsaefrtsp.TeDtnsttfmcrys2h2,syesherdfm55ptto67ptoftes.Frtsr,teDtasttteblwlhenofliSCtofHhadHnS]

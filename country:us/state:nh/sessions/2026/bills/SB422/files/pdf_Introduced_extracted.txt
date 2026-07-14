@@ -1,0 +1,110 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB422 -ASINTRODUCED
+2026SESSION
+26-2223
+05/06
+422
+ANACT relative to membership of the governor's commission on addiction, treatment, and
+prevention.
+SPONSORS: Sen. Watters, Dist 4; Sen. Birdsell, Dist 19; Sen. Lang, Dist 2; Sen. Prentiss, Dist
+5;Rep.Nagel,Belk.6;Rep.Edwards,Rock.31
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds 2 public members to the governor's commission on addiction, treatment, and
+prevention, one with expertise in gaming addiction and one in long-term recovery. The bill also
+makestherepresentativeofthestate'sfaith-basedcommunityavotingmemberofthecommission.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB422-ASINTRODUCED
+26-2223
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to membership of the governor's commission on addiction, treatment, and
+prevention.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Governor's Commission on Addiction, Treatment, and Prevention; Membership. Amend RSA
+2 12-J:1,Itoreadasfollows:
+3 I. [Seven] Nine public members, 2 of whom shall be professionals knowledgeable about
+4 alcohol and other drug misuse prevention, one of whom shall be appointed by the governor and one
+5 of whom shall be appointed by the senate president; 2 of whom shall be professionals knowledgeable
+6 about alcohol and other drug misuse treatment including reduction of societal and individual harm,
+7 one of whom shall be appointed by the governor and one of whom shall be appointed by the speaker
+8 of the house of representatives; 2 of whom shall be public members who are not professionals within
+9 the alcohol and drug misuse prevention and treatment system, one of whom shall be appointed by
+10 the senate president and one of whom shall be appointed by the speaker of the house of
+11 representatives; one member with expertise in gaming addiction, appointed by the governor,
+12 and[onemember]2membersinlong-termrecovery,appointedbythegovernor.
+13 2 Governor's Commission on Addiction, Treatment, and Prevention; Membership. Amend RSA
+14 12-J:1,IV(b)toreadasfollows:
+15 (b) A representative of the state's faith-based community, [who shall be a nonvoting
+16 member,]appointedbythegovernor.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B42-ASI6SEBNATretompoftegscnona,t,a:S.W,Dt4;S.B,Dt1;S.L,Dt2;S.P,D;R.N,B.6;R.E,R.3:EeDsadAsblas2pcmstotegscnona,t,a,oewheeingganadoeinlmr.Teblastereoftessfdcyavgmroftec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B42-ASIEOFNWHnteYrofOrLdToTdTNATretompoftegscnona,t,aeitEdbyteSeadHeofRsinGlCtc1GsCnonA,T,adP;M.AdR1,ItordasfI.[]Nepcm,2ofwmslbepskeaaladordgmep,oeofwmslbeadbytegradoofwmslbeadbytesep;2ofwmslbepskataladordgmettigrnofsladilhoeofwmslbeadbytegradoeofwmslbeadbytesofteheofr;2ofwmslbepcmswoaentpswtealaddgmepnadtts,oeofwmslbeadb0teseptadoeofwmslbeadbytesrofteheo1r;oemrwheeingga,adbyteg2ad[em]2msinlmr,adbyteg32GsCnonA,T,adP;M.AdR41,I)tordasf5()Areoftessfdc,[oslbean6m]adbyteg73EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB422 -ASINTRODUCED
+2026SESSION
+26-2223
+05/06
+422
+SENATEBILL
+ANACT relative to membership of the governor's commission on addiction, treatment, and
+prevention.
+SPONSORS: Sen. Watters, Dist 4; Sen. Birdsell, Dist 19; Sen. Lang, Dist 2; Sen. Prentiss, Dist
+5;Rep.Nagel,Belk.6;Rep.Edwards,Rock.31
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill adds 2 public members to the governor's commission on addiction, treatment, and
+prevention, one with expertise in gaming addiction and one in long-term recovery. The bill also
+makestherepresentativeofthestate'sfaith-basedcommunityavotingmemberofthecommission.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB422-ASINTRODUCED
+26-2223
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to membership of the governor's commission on addiction, treatment, and
+prevention.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Governor's Commission on Addiction, Treatment, and Prevention; Membership. Amend RSA
+2 12-J:1,Itoreadasfollows:
+3 I. [Seven] Nine public members, 2 of whom shall be professionals knowledgeable about
+4 alcohol and other drug misuse prevention, one of whom shall be appointed by the governor and one
+5 of whom shall be appointed by the senate president; 2 of whom shall be professionals knowledgeable
+6 about alcohol and other drug misuse treatment including reduction of societal and individual harm,
+7 one of whom shall be appointed by the governor and one of whom shall be appointed by the speaker
+8 of the house of representatives; 2 of whom shall be public members who are not professionals within
+9 the alcohol and drug misuse prevention and treatment system, one of whom shall be appointed by
+10 the senate president and one of whom shall be appointed by the speaker of the house of
+11 representatives; one member with expertise in gaming addiction, appointed by the governor,
+12 and[onemember]2membersinlong-termrecovery,appointedbythegovernor.
+13 2 Governor's Commission on Addiction, Treatment, and Prevention; Membership. Amend RSA
+14 12-J:1,IV(b)toreadasfollows:
+15 (b) A representative of the state's faith-based community, [who shall be a nonvoting
+16 member,]appointedbythegovernor.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B42-ASI6SEBNATretompoftegscnona,t,a:S.W,Dt4;S.B,Dt1;S.L,Dt2;S.P,D;R.N,B.6;R.E,R.3:EeDsadAsblas2pcmstotegscnona,t,a,oewheeingganadoeinlmr.Teblastereoftessfdcyavgmroftec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B42-ASIEOFNWHnteYrofOrLdToTdTNATretompoftegscnona,t,aeitEdbyteSeadHeofRsinGlCtc1GsCnonA,T,adP;M.AdR1,ItordasfI.[]Nepcm,2ofwmslbepskeaaladordgmep,oeofwmslbeadbytegradoofwmslbeadbytesep;2ofwmslbepskataladordgmettigrnofsladilhoeofwmslbeadbytegradoeofwmslbeadbytesofteheofr;2ofwmslbepcmswoaentpswtealaddgmepnadtts,oeofwmslbeadb0teseptadoeofwmslbeadbytesrofteheo1r;oemrwheeingga,adbyteg2ad[em]2msinlmr,adbyteg32GsCnonA,T,adP;M.AdR41,I)tordasf5()Areoftessfdc,[oslbean6m]adbyteg73EeD.Tsatslteet60dsarisp]

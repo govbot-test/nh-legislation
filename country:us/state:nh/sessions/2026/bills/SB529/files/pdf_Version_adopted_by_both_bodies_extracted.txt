@@ -1,0 +1,161 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB529-FN-VERSIONADOPTEDBYBOTHBODIES
+05/21/2026 1989EBA
+2026SESSION
+26-2134
+07/08
+529-FN
+ANACT giving preference to lumber sourced in the United States on all state-funded
+buildingprojects.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Innis, Dist 7;
+Rep.A.Davis,Coos2;Rep.Ouellet,Coos3
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that a preference to lumber sourced in the United States be given on all state-
+fundedbuildingprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB529-FN-VERSIONADOPTEDBYBOTHBODIES
+05/21/2026 1989EBA 26-2134
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT giving preference to lumber sourced in the United States on all state-funded
+buildingprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Public Safety and Welfare; New Hampshire Building Code; Building
+2 RequirementsforStateFundedBuildings. AmendRSA155-A:13byinsertingafterparagraphIIthe
+3 followingnewparagraphs:
+4 III. The material specification of any state-funded building in New Hampshire shall give
+5 preference to lumber harvested in the United States, unless design criteria necessitates utilizing
+6 importedsourcing.
+7 IV. Constructiondrawingsordesignspecificationsutilizingsoftwoodframinglumber
+8 harvestedintheUnitedStatesshallreferenceUnitedStates-sourcedspruce-pine-firlumber
+9 (SPFs).
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2134
+11/17/25
+SB529-FN-FISCALNOTE
+ASINTRODUCED
+ANACT giving preference to lumber sourced in the United States on all state-funded
+buildingprojects.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires material specification of any state-funded building in New Hampshire to
+prioritize United States harvested lumber. Construction design documents shall specify the use
+of United States sourced Spruce Pine Fir lumber (SPFs) for softwood framing, unless design
+needsrequireimportedmaterials.
+The Department of Administrative Services Division of Public Works Design and Construction
+states that the impact of this bill is indeterminable due to the unpredictable nature of the
+building industry, which is influenced by factors such as labor costs, market demand, interest
+and mortgage rates, and tariffs. While framing lumber prices are currently declining due to
+reduced demand, a future increase in demand could strain domestic production. Combined with
+tariffsonCanadianlumber,thiswouldlikelyleadtohigherlumbercostsintheUnitedStates.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServices
+[DELETED: B5N-VNADBYBHB616SEBNATggpetolrsdinteUdSsonalsgp:S.R,Dt1;S.P,Dt1;S.A,Dt1;S.I,Dt7.A.D,Cs2;R.O,Cs:EeDsadAsblrsttapetolrsdinteUdSsbegnonalsdbgp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-VNADBYBHB61A2EOFNWHnteYrofOrLdToTdTNATggpetolrsdinteUdSsonalsgpeitEdbyteSeadHeofRsinGlCtc1NwP;PcSyadW;NwHeBgC;BRsfrSeFdB.AdRA13byigarphIItfgnwpI.TemlsnofaysdbginNwHeslgpetolrhdinteUdS,usdncansuidsI.CndsordnssugsdfglhdinteUdSsslreUdSdsrl(02EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATggpetolrsdinteUdSsonalsgpLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsmlsnofaysdbginNwHeteUdSshdl.CndndsslsyteufUdSssdSePeFrlr()frsdf,usdsreidmeDtofAeSsDnofPcWsDnadCsttteitoftsblisiedetoteueneoftgi,whisidbyfsshaslrc,mtd,idmer,adt.Wefglrpsaecydgdetdd,afeieinddcdsndcp.CdwsonCnl,tswdlyldtohrlrcsinteUdStisadttayflitwdorarFY2SCtofAeS]
+
+
+================================================================================
+
+Raw Text:
+SB529-FN-VERSIONADOPTEDBYBOTHBODIES
+05/21/2026 1989EBA
+2026SESSION
+26-2134
+07/08
+529-FN
+SENATEBILL
+ANACT giving preference to lumber sourced in the United States on all state-funded
+buildingprojects.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Innis, Dist 7;
+Rep.A.Davis,Coos2;Rep.Ouellet,Coos3
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that a preference to lumber sourced in the United States be given on all state-
+fundedbuildingprojects.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB529-FN-VERSIONADOPTEDBYBOTHBODIES
+05/21/2026 1989EBA 26-2134
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT giving preference to lumber sourced in the United States on all state-funded
+buildingprojects.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Public Safety and Welfare; New Hampshire Building Code; Building
+2 RequirementsforStateFundedBuildings. AmendRSA155-A:13byinsertingafterparagraphIIthe
+3 followingnewparagraphs:
+4 III. The material specification of any state-funded building in New Hampshire shall give
+5 preference to lumber harvested in the United States, unless design criteria necessitates utilizing
+6 importedsourcing.
+7 IV. Constructiondrawingsordesignspecificationsutilizingsoftwoodframinglumber
+8 harvestedintheUnitedStatesshallreferenceUnitedStates-sourcedspruce-pine-firlumber
+9 (SPFs).
+10 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2134
+11/17/25
+SB529-FN-FISCALNOTE
+ASINTRODUCED
+ANACT giving preference to lumber sourced in the United States on all state-funded
+buildingprojects.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires material specification of any state-funded building in New Hampshire to
+prioritize United States harvested lumber. Construction design documents shall specify the use
+of United States sourced Spruce Pine Fir lumber (SPFs) for softwood framing, unless design
+needsrequireimportedmaterials.
+The Department of Administrative Services Division of Public Works Design and Construction
+states that the impact of this bill is indeterminable due to the unpredictable nature of the
+building industry, which is influenced by factors such as labor costs, market demand, interest
+and mortgage rates, and tariffs. While framing lumber prices are currently declining due to
+reduced demand, a future increase in demand could strain domestic production. Combined with
+tariffsonCanadianlumber,thiswouldlikelyleadtohigherlumbercostsintheUnitedStates.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServices
+
+[DELETED: B5N-VNADBYBHB616SEBNATggpetolrsdinteUdSsonalsgp:S.R,Dt1;S.P,Dt1;S.A,Dt1;S.I,Dt7.A.D,Cs2;R.O,Cs:EeDsadAsblrsttapetolrsdinteUdSsbegnonalsdbgp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-VNADBYBHB61A2EOFNWHnteYrofOrLdToTdTNATggpetolrsdinteUdSsonalsgpeitEdbyteSeadHeofRsinGlCtc1NwP;PcSyadW;NwHeBgC;BRsfrSeFdB.AdRA13byigarphIItfgnwpI.TemlsnofaysdbginNwHeslgpetolrhdinteUdS,usdncansuidsI.CndsordnssugsdfglhdinteUdSsslreUdSdsrl(02EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATggpetolrsdinteUdSsonalsgpLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblrsmlsnofaysdbginNwHeteUdSshdl.CndndsslsyteufUdSssdSePeFrlr()frsdf,usdsreidmeDtofAeSsDnofPcWsDnadCsttteitoftsblisiedetoteueneoftgi,whisidbyfsshaslrc,mtd,idmer,adt.Wefglrpsaecydgdetdd,afeieinddcdsndcp.CdwsonCnl,tswdlyldtohrlrcsinteUdStisadttayflitwdorarFY2SCtofAeS]

@@ -1,0 +1,242 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB471-FN-ASINTRODUCED
+2026SESSION
+26-2229
+06/09
+471-FN
+ANACT relativetoaffordablehousinginvestmentfees.
+SPONSORS: Sen.Altschiller,Dist24;Sen.Watters,Dist4;Rep.Burroughs,Carr.2
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes municipalities to adopt and enforce affordable housing investment fee
+ordinancesaspartoftheirinnovativelandusecontrols.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB471-FN-ASINTRODUCED
+26-2229
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoaffordablehousinginvestmentfees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Innovative Land Use Controls. Amend RSA 674:21, I by inserting after
+2 subparagraph(n)thefollowingnewsubparagraph:
+3 (o) Affordablehousinginvestmentfees.
+4 2 New Section; Affordable Housing Investment Fees. Amend RSA 674:21 by inserting after
+5 sectionVIIthefollowingnewsection:
+6 VIII. As used in this section, "affordable housing investment fee" means a fee or assessment
+7 imposed upon development, including subdivision, building construction, or other land use change,
+8 which does not meet local inclusionary zoning ordinances or regulations in order to help the
+9 municipality invest in affordable housing units. All affordable housing investment fee ordinances
+10 shallbesubjecttothefollowing:
+11 (a) Any affordable housing investment fee shall be accounted for separately, shall be
+12 segregated from the municipality's general fund, may be spent upon order of the municipal
+13 governing body, shall be exempt from all provisions of RSA 32 relative to limitation and expenditure
+14 of town moneys, and shall be used solely for investment in affordable housing within the
+15 municipality. Affordable housing investment fees shall only be expended to the New Hampshire
+16 housing finance authority, as established by RSA 204-C:2, the community development finance
+17 authority, as established by RSA 162-L:2, a housing authority of the municipality, as established
+18 under RSA 203:4, or a non-profit, established for any of the purposes outlined under RSA 292:1,
+19 registeredwiththesecretaryofstate’sofficeandingoodstanding.
+20 (b) All affordable housing investment fees imposed pursuant to this section shall be
+21 assessedatthetimeofplanningboardapprovalofasubdivisionplatorsiteplan. Whennoplanning
+22 board approval is required, or has been made prior to the adoption or amendment of the affordable
+23 housing investment fee ordinance, affordable housing investment fees shall be assessed prior to, or
+24 as a condition for, the issuance of a building permit or other appropriate permission to proceed with
+25 development. Affordable housing investment fees shall be intended to reflect the need for additional
+26 affordable housing units in the municipality. Affordable housing investment fees shall be collected
+27 at the time a certificate of occupancy is issued. If no certificate of occupancy is required, affordable
+28 housing investment fees shall be collected when the development is ready for its intended use.
+29 Nothing in this subparagraph shall prevent the municipality and the assessed party from
+30 establishinganalternate,mutuallyacceptablescheduleofpaymentofaffordablehousinginvestment
+31 fees in effect at the time of subdivision plat or site plan approval by the planning board. If an
+SB471-FN-ASINTRODUCED
+-Page2-
+1 alternate schedule of payment is established, municipalities may require developers to post bonds,
+2 issue letters of credit, accept liens, or otherwise provide suitable measures of security so as to
+3 guaranteefuturepaymentoftheassessedaffordablehousinginvestmentfees.
+4 (c) Unlessotherwisespecifiedintheordinance,anydecisionunderanaffordablehousing
+5 investment fee ordinance may be appealed in the same manner provided by statute for appeals from
+6 the officer or board making that decision, as set forth in RSA 676:5, RSA 677:2 through 14, or RSA
+7 677:15,respectively.
+8 (d) The ordinance may also provide for a waiver process, including the criteria for the
+9 grantingofsuchawaiver.
+10 (e) Neither the adoption of an affordable housing investment fee ordinance, nor the
+11 failure to adopt such an ordinance, shall be deemed to affect existing authority of a planning board
+12 oversubdivisionorsiteplanreview,excepttotheextentexpresslystatedinsuchanordinance.
+13 (f) No later than 60 days following the end of the fiscal year, any municipality having
+14 adopted an affordable housing investment fee ordinance shall prepare a report listing all
+15 expendituresofaffordablehousinginvestmentfeerevenueforthepriorfiscalyear.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2229
+10/23/25
+SB471-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoaffordablehousinginvestmentfees.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+IndeterminableIncreasemorethan$100,000+
+LocalRevenue $0
+permunicipality
+IndeterminableIncreaselessthan$10,000
+LocalExpenditures $0
+permunicipality
+METHODOLOGY:
+Thisbillauthorizesmunicipalitiestoimplementaffordablehousinginvestmentfeeordinancesas
+part of their innovative land use controls. All collected fees must be maintained in a separate
+account, distinct from the municipality’s general fund, and dedicated exclusively to supporting
+affordable housing initiatives within the municipality. Any municipality that adopts an
+affordable housing investment fee ordinance shall prepare a report listing all affordable housing
+investmentfeerevenueforthepriorfiscalyear.
+The New Hampshire Municipal Association states municipalities that adopt the fee would
+experience an indeterminable revenue increase that may exceed $100,000 per municipality.
+They also anticipate an indeterminable expenditure increase of less than $10,000 per
+municipality, primarily for initial setup and ongoing administrative tasks related to annual fee
+revenuereporting.
+The Housing Finance Authority notes that the overall fiscal impact remains indeterminable, as
+it is unclear how many municipalities will choose to implement the fee or what the fee rate
+wouldbe.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociationandNewHampshireHousingFinanceAuthority
+[DELETED: B4N-ASI6SEBNATretoaehgitf:S.A,Dt2;S.W,Dt4;R.B,C.:WsadMsblasmstoatadeeaehgitfsasptoftrielduec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretoaehgitfeitEdbyteSeadHeofRsinGlCtc1NwS;IeLdUeC.AdRA6,Ibyigash()tefgnws()Aehgitf2NwS;AeHgItF.AdRA61byigasnVItefgnwsV.Asudintss,"ehgitf"msafeoraidund,igs,bgc,ororlduecwhdsntmtlliyzgosorrsinortohptmyitinaehgu.Alaehgitfeo0slbesttotef1()Ayaehgitfeslbeadfrs,slb2sdfmtemsglf,mybestunoroftem3ggb,slbeetfmalpsofRA32retolnade4oftnm,adslbeudsyfritinaehgwnt5m.AehgitfssloybeedtoteNwH6hgfea,asedbyRA2,tecydtf7a,asedbyRA1,ahgayoftem,ase8urRA2,oran,edfrayoftepsodurRA29rdwhtesyofssoeadingds0()Alaehgitfsidpttotssnslb1adatteteofpgbdalofasnptorsep.Wnnop2bdalisr,orhsbnmeprtoteanoratoftea3hgitfeo,aehgitfsslbeadprt,o4asacnf,teieofabgptororaepntopdw5d.Aehgitfsslbeidtorttendfra6aehgusintem.Aehgitfsslbec7atteteaceofoyisi.Ifnoceofoyisr,a8hgitfsslbecdwntedtisryfrisidu9Ngintsshslpttemyadteadpyf0egana,myaeseofptofaehgi1fsinetatteteofsnptorsepnalbytepgb.Ifa]
+[DELETED: B4N-ASIPe2aeseofptise,msmyredstoptbielsofc,atl,oroepesemsofsysoastgefeptofteadaehgitf()Usoesdinteo,aydnuranaehitfeoemybeadintesemrpdbysefrasfteororbdmgttd,asstfhinRA6,RA62th1,orR6,r()Teoemyaopefrawrp,igtecafrtggofshaw0()Nrteanofanaehgitfeo,nrt1fetoatshano,slbeddtoategayofapgb2orsnorsepnr,ettoteeteysdinshano3()Nolrtn60dsfgteedoftefly,aymyh4adanaehgitfeoeslpeartlga5esofaehgitferefrteprfly63EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATretoaehgitfLIdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lReIemetn$rmlEeIelstn$rmsblasmstoitaehgitfeosatoftrielduec.Alcdfsmtbemdinas,dtfmtemsglf,adddeytosehgiswntem.AymyttasaehgitfeoeslpeartlgalaehtferefrteprflyeNwHeMlAnssmsttattefeweaniereiettmyed$0prmyaoaeanieeeieoflstn$0p,pyfrilspadogaetsrdtoalfereHgFeAynsttteolflitrsi,atisurhwmymswlcetoittefeorwtteferdbtisadttayflitwdorarFY2SCwHeMlAnadNwHeHgFeA]
+
+
+================================================================================
+
+Raw Text:
+SB471-FN-ASINTRODUCED
+2026SESSION
+26-2229
+06/09
+471-FN
+SENATEBILL
+ANACT relativetoaffordablehousinginvestmentfees.
+SPONSORS: Sen.Altschiller,Dist24;Sen.Watters,Dist4;Rep.Burroughs,Carr.2
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill authorizes municipalities to adopt and enforce affordable housing investment fee
+ordinancesaspartoftheirinnovativelandusecontrols.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB471-FN-ASINTRODUCED
+26-2229
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoaffordablehousinginvestmentfees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Innovative Land Use Controls. Amend RSA 674:21, I by inserting after
+2 subparagraph(n)thefollowingnewsubparagraph:
+3 (o) Affordablehousinginvestmentfees.
+4 2 New Section; Affordable Housing Investment Fees. Amend RSA 674:21 by inserting after
+5 sectionVIIthefollowingnewsection:
+6 VIII. As used in this section, "affordable housing investment fee" means a fee or assessment
+7 imposed upon development, including subdivision, building construction, or other land use change,
+8 which does not meet local inclusionary zoning ordinances or regulations in order to help the
+9 municipality invest in affordable housing units. All affordable housing investment fee ordinances
+10 shallbesubjecttothefollowing:
+11 (a) Any affordable housing investment fee shall be accounted for separately, shall be
+12 segregated from the municipality's general fund, may be spent upon order of the municipal
+13 governing body, shall be exempt from all provisions of RSA 32 relative to limitation and expenditure
+14 of town moneys, and shall be used solely for investment in affordable housing within the
+15 municipality. Affordable housing investment fees shall only be expended to the New Hampshire
+16 housing finance authority, as established by RSA 204-C:2, the community development finance
+17 authority, as established by RSA 162-L:2, a housing authority of the municipality, as established
+18 under RSA 203:4, or a non-profit, established for any of the purposes outlined under RSA 292:1,
+19 registeredwiththesecretaryofstate’sofficeandingoodstanding.
+20 (b) All affordable housing investment fees imposed pursuant to this section shall be
+21 assessedatthetimeofplanningboardapprovalofasubdivisionplatorsiteplan. Whennoplanning
+22 board approval is required, or has been made prior to the adoption or amendment of the affordable
+23 housing investment fee ordinance, affordable housing investment fees shall be assessed prior to, or
+24 as a condition for, the issuance of a building permit or other appropriate permission to proceed with
+25 development. Affordable housing investment fees shall be intended to reflect the need for additional
+26 affordable housing units in the municipality. Affordable housing investment fees shall be collected
+27 at the time a certificate of occupancy is issued. If no certificate of occupancy is required, affordable
+28 housing investment fees shall be collected when the development is ready for its intended use.
+29 Nothing in this subparagraph shall prevent the municipality and the assessed party from
+30 establishinganalternate,mutuallyacceptablescheduleofpaymentofaffordablehousinginvestment
+31 fees in effect at the time of subdivision plat or site plan approval by the planning board. If an
+
+SB471-FN-ASINTRODUCED
+-Page2-
+1 alternate schedule of payment is established, municipalities may require developers to post bonds,
+2 issue letters of credit, accept liens, or otherwise provide suitable measures of security so as to
+3 guaranteefuturepaymentoftheassessedaffordablehousinginvestmentfees.
+4 (c) Unlessotherwisespecifiedintheordinance,anydecisionunderanaffordablehousing
+5 investment fee ordinance may be appealed in the same manner provided by statute for appeals from
+6 the officer or board making that decision, as set forth in RSA 676:5, RSA 677:2 through 14, or RSA
+7 677:15,respectively.
+8 (d) The ordinance may also provide for a waiver process, including the criteria for the
+9 grantingofsuchawaiver.
+10 (e) Neither the adoption of an affordable housing investment fee ordinance, nor the
+11 failure to adopt such an ordinance, shall be deemed to affect existing authority of a planning board
+12 oversubdivisionorsiteplanreview,excepttotheextentexpresslystatedinsuchanordinance.
+13 (f) No later than 60 days following the end of the fiscal year, any municipality having
+14 adopted an affordable housing investment fee ordinance shall prepare a report listing all
+15 expendituresofaffordablehousinginvestmentfeerevenueforthepriorfiscalyear.
+16 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2229
+10/23/25
+SB471-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoaffordablehousinginvestmentfees.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+IndeterminableIncreasemorethan$100,000+
+LocalRevenue $0
+permunicipality
+IndeterminableIncreaselessthan$10,000
+LocalExpenditures $0
+permunicipality
+METHODOLOGY:
+Thisbillauthorizesmunicipalitiestoimplementaffordablehousinginvestmentfeeordinancesas
+part of their innovative land use controls. All collected fees must be maintained in a separate
+account, distinct from the municipality’s general fund, and dedicated exclusively to supporting
+affordable housing initiatives within the municipality. Any municipality that adopts an
+affordable housing investment fee ordinance shall prepare a report listing all affordable housing
+investmentfeerevenueforthepriorfiscalyear.
+The New Hampshire Municipal Association states municipalities that adopt the fee would
+experience an indeterminable revenue increase that may exceed $100,000 per municipality.
+They also anticipate an indeterminable expenditure increase of less than $10,000 per
+municipality, primarily for initial setup and ongoing administrative tasks related to annual fee
+revenuereporting.
+The Housing Finance Authority notes that the overall fiscal impact remains indeterminable, as
+it is unclear how many municipalities will choose to implement the fee or what the fee rate
+wouldbe.
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+NewHampshireMunicipalAssociationandNewHampshireHousingFinanceAuthority
+
+[DELETED: B4N-ASI6SEBNATretoaehgitf:S.A,Dt2;S.W,Dt4;R.B,C.:WsadMsblasmstoatadeeaehgitfsasptoftrielduec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretoaehgitfeitEdbyteSeadHeofRsinGlCtc1NwS;IeLdUeC.AdRA6,Ibyigash()tefgnws()Aehgitf2NwS;AeHgItF.AdRA61byigasnVItefgnwsV.Asudintss,"ehgitf"msafeoraidund,igs,bgc,ororlduecwhdsntmtlliyzgosorrsinortohptmyitinaehgu.Alaehgitfeo0slbesttotef1()Ayaehgitfeslbeadfrs,slb2sdfmtemsglf,mybestunoroftem3ggb,slbeetfmalpsofRA32retolnade4oftnm,adslbeudsyfritinaehgwnt5m.AehgitfssloybeedtoteNwH6hgfea,asedbyRA2,tecydtf7a,asedbyRA1,ahgayoftem,ase8urRA2,oran,edfrayoftepsodurRA29rdwhtesyofssoeadingds0()Alaehgitfsidpttotssnslb1adatteteofpgbdalofasnptorsep.Wnnop2bdalisr,orhsbnmeprtoteanoratoftea3hgitfeo,aehgitfsslbeadprt,o4asacnf,teieofabgptororaepntopdw5d.Aehgitfsslbeidtorttendfra6aehgusintem.Aehgitfsslbec7atteteaceofoyisi.Ifnoceofoyisr,a8hgitfsslbecdwntedtisryfrisidu9Ngintsshslpttemyadteadpyf0egana,myaeseofptofaehgi1fsinetatteteofsnptorsepnalbytepgb.Ifa]
+[DELETED: B4N-ASIPe2aeseofptise,msmyredstoptbielsofc,atl,oroepesemsofsysoastgefeptofteadaehgitf()Usoesdinteo,aydnuranaehitfeoemybeadintesemrpdbysefrasfteororbdmgttd,asstfhinRA6,RA62th1,orR6,r()Teoemyaopefrawrp,igtecafrtggofshaw0()Nrteanofanaehgitfeo,nrt1fetoatshano,slbeddtoategayofapgb2orsnorsepnr,ettoteeteysdinshano3()Nolrtn60dsfgteedoftefly,aymyh4adanaehgitfeoeslpeartlga5esofaehgitferefrteprfly63EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATretoaehgitfLIdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lReIemetn$rmlEeIelstn$rmsblasmstoitaehgitfeosatoftrielduec.Alcdfsmtbemdinas,dtfmtemsglf,adddeytosehgiswntem.AymyttasaehgitfeoeslpeartlgalaehtferefrteprflyeNwHeMlAnssmsttattefeweaniereiettmyed$0prmyaoaeanieeeieoflstn$0p,pyfrilspadogaetsrdtoalfereHgFeAynsttteolflitrsi,atisurhwmymswlcetoittefeorwtteferdbtisadttayflitwdorarFY2SCwHeMlAnadNwHeHgFeA]

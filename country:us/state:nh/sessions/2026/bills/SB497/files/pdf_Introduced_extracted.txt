@@ -1,0 +1,106 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB497 -ASINTRODUCED
+2026SESSION
+26-2062
+07/09
+497
+ANACT removing references to contracts and projects concerning capital appropriations
+forthecommunitycollegesystemofNewHampshire.
+SPONSORS: Sen.Watters,Dist4;Sen.Fenton,Dist10;Rep.Cloutier,Sull.6
+COMMITTEE: CapitalBudget
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes a reference to procurement through the department of administrative services
+forcertaincapitalappropriationstothecommunitycollegesystemofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB497-ASINTRODUCED
+26-2062
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removing references to contracts and projects concerning capital appropriations
+forthecommunitycollegesystemofNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Capital Improvements; CommunityCollegeSystem of New Hampshire. Amend 2025, 159:4to
+2 readasfollows:
+3 I. The appropriations made for the community college system in paragraph II of section 1
+4 andthesums availablefor this project, and paragraph II of section 13, and the sums available
+5 for this project, shall be expended by the trustees of the community college system of New
+6 Hampshire.
+7 II. The appropriations made to the community college system in paragraph II of section 1
+8 and paragraph II of section 13 are available for all costs incidental to the completion of the
+9 project enumerated including but not limited to the costs of the services for architects, engineers,
+10 and other consultants of such kind and capacity as the community college system board of trustees
+11 may, in its discretion, wish to employ on such terms and conditions as the board determines. These
+12 monies shall be spent under the direction of the community college system board of trustees and
+13 pursuanttothepoliciesadoptedbytheboardoftrustees.
+14 2 Repeal. 2025, 159:13, IV, relative to a requirement that certain contracts and projects
+15 concerning capital appropriations for the community college system of New Hampshire be awarded
+16 inaccordancewithRSA21-I,isrepealed.
+17 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+[DELETED: B47-ASI6SEBNATrgrstocsadpscgclartecycesmofNwH:S.W,Dt4;S.F,Dt1;R.C,S.:ClBsblrsaretoptthtedtofaesrcnclastotecycesmofNwH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B47-ASIEOFNWHnteYrofOrLdToTdTNATrgrstocsadpscgclartecycesmofNwHeitEdbyteSeadHeofRsinGlCtc1ClI;CyCeSmofNwH.Ad2,14trdasfI.TeasmefrtecycesminphIIofsnadtessaefrtsp,adphIIofsn1,adtessafrtsp,slbeedbytetsoftecycesmofNHI.TeasmetotecycesminphIIofsnadphIIofsn13aeaefralcsiltotecnoftptedigbtntldtotecsoftessfra,e0adorcsofshkdadcyastecycesmbdoft1m,inisd,whtoeyonshtsadcsastebdd.T2msslbesturtednoftecycesmbdoftsa3pttotepsadbytebdoft42R.2,1,I,retoartttcncsadp5cgclasfrtecycesmofNwHebea6inaewhRA2,isr73EeD.Tsatslteetunisp]
+
+
+================================================================================
+
+Raw Text:
+SB497 -ASINTRODUCED
+2026SESSION
+26-2062
+07/09
+497
+SENATEBILL
+ANACT removing references to contracts and projects concerning capital appropriations
+forthecommunitycollegesystemofNewHampshire.
+SPONSORS: Sen.Watters,Dist4;Sen.Fenton,Dist10;Rep.Cloutier,Sull.6
+COMMITTEE: CapitalBudget
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill removes a reference to procurement through the department of administrative services
+forcertaincapitalappropriationstothecommunitycollegesystemofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB497-ASINTRODUCED
+26-2062
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT removing references to contracts and projects concerning capital appropriations
+forthecommunitycollegesystemofNewHampshire.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Capital Improvements; CommunityCollegeSystem of New Hampshire. Amend 2025, 159:4to
+2 readasfollows:
+3 I. The appropriations made for the community college system in paragraph II of section 1
+4 andthesums availablefor this project, and paragraph II of section 13, and the sums available
+5 for this project, shall be expended by the trustees of the community college system of New
+6 Hampshire.
+7 II. The appropriations made to the community college system in paragraph II of section 1
+8 and paragraph II of section 13 are available for all costs incidental to the completion of the
+9 project enumerated including but not limited to the costs of the services for architects, engineers,
+10 and other consultants of such kind and capacity as the community college system board of trustees
+11 may, in its discretion, wish to employ on such terms and conditions as the board determines. These
+12 monies shall be spent under the direction of the community college system board of trustees and
+13 pursuanttothepoliciesadoptedbytheboardoftrustees.
+14 2 Repeal. 2025, 159:13, IV, relative to a requirement that certain contracts and projects
+15 concerning capital appropriations for the community college system of New Hampshire be awarded
+16 inaccordancewithRSA21-I,isrepealed.
+17 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+[DELETED: B47-ASI6SEBNATrgrstocsadpscgclartecycesmofNwH:S.W,Dt4;S.F,Dt1;R.C,S.:ClBsblrsaretoptthtedtofaesrcnclastotecycesmofNwH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B47-ASIEOFNWHnteYrofOrLdToTdTNATrgrstocsadpscgclartecycesmofNwHeitEdbyteSeadHeofRsinGlCtc1ClI;CyCeSmofNwH.Ad2,14trdasfI.TeasmefrtecycesminphIIofsnadtessaefrtsp,adphIIofsn1,adtessafrtsp,slbeedbytetsoftecycesmofNHI.TeasmetotecycesminphIIofsnadphIIofsn13aeaefralcsiltotecnoftptedigbtntldtotecsoftessfra,e0adorcsofshkdadcyastecycesmbdoft1m,inisd,whtoeyonshtsadcsastebdd.T2msslbesturtednoftecycesmbdoftsa3pttotepsadbytebdoft42R.2,1,I,retoartttcncsadp5cgclasfrtecycesmofNwHebea6inaewhRA2,isr73EeD.Tsatslteetunisp]

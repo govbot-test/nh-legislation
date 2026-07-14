@@ -1,0 +1,649 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House (2nd)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+SB617-ASAMENDEDBYTHEHOUSE
+03/26/2026 1218s
+23Apr2026...1510h
+14May2026...1755h
+2026SESSION
+26-2182
+09/08
+617
+ANACT relative to the regulation and appeal of motor vehicle towing from public
+highwaysandrelativetotheremovalofabandonedvehiclesbylawenforcement.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Innis, Dist 7; Sen. Birdsell, Dist 19; Sen. McGough,
+Dist 11; Rep. Bernardy, Rock. 36; Rep. Litchfield, Rock. 32; Rep. Khan, Rock. 30;
+Rep.M.Pearson,Rock.34
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill extends deadlines for disputingtowing and storagefees and requires invoices to include
+information on how to challenge charges. This bill also revises the procedures and processes
+concerning the maintenance of and utilization of a list of contracted tow companies used by the
+divisionofstatepolicefortheremovalofvehicles.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB617-ASAMENDEDBYTHEHOUSE
+03/26/2026 1218s
+23Apr2026...1510h
+14May2026...1755h 26-2182
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the regulation and appeal of motor vehicle towing from public
+highwaysandrelativetotheremovalofabandonedvehiclesbylawenforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Fees for Removal and Impoundment of Motor Vehicles. Amend RSA 262:35-a to read as
+2 follows:
+3 262:35-a ReviewofFeesforRemovalandImpoundment.
+4 I. All fees charged for the removal and storage of any vehicle caused to be removed by an
+5 authorized official pursuant to RSA 262:32 or RSA 262:40-a shall be reasonable, and may reflect
+6 market variables, including, but not limited to, distance traveled to and from the storage facility,
+7 vehicle size and weight, the amount of time needed to remove and store the vehicle, any special
+8 equipment needed, and personnel costs. If the owner or other person lawfully entitled to possession
+9 of the vehicle wishes to challenge the reasonableness of the fee charged, the owner or other person
+10 may pay over to the custodian of the vehicle an amount equal to the towing and storage charges to
+11 secure the release of the vehicle, and, within [15] 30 days of the [release of the vehicle] receipt of
+12 the invoice, request in writing a review by the commissioner of safety. The commissioner of safety
+13 or designee shall review the claim to determine if there are sufficient grounds to conduct a hearing
+14 todeterminewhetherthechargewas reasonable. Ifthecommissioneror designeedetermines that a
+15 hearing is necessary, the hearing shall be scheduled by the bureau of hearings within 20 days after
+16 review by the commissioner, at which time the extent of removal and storage fees shall be
+17 determined. The commissioner or designeeshall approve or disapprove of the decision of the bureau
+18 of hearings within 7 days after the hearing was held. Notwithstanding RSA 262:25, any person
+19 aggrieved by a decision of the commissioner or designee under this section may appeal the decision
+20 to the superior court in the same manner as that prescribed in RSA 263:75, II and III. If no request
+21 for review is filed within the [15-day] 30-day period, the owner or other person lawfully entitled to
+22 possession of the vehicle shall be deemed to have waived all rights to review under this section and
+23 shallbeliableforthetotalamountbilled.
+24 II. Nothing in this section shall prevent a review of the reasonableness of the towing or
+25 otheractionasmaybepermittedbylawsofthisstatebyacourtofcompetentjurisdiction.
+26 III. Anytimethatapersonisstoringavehiclepursuanttotheprovisionsofthissubdivision,
+27 the person may remove any items from within the vehicle that are not a part of or accessories to the
+28 vehicle. The person may hold any such items, other than wallets, purses, life essential clothing,
+29 mail, legal documents, car seats, eyeglasses, medicine, medical equipment, or house keys pending
+SB617-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 payment of anyfees dueunder this subdivision. If fees remainunpaid after [20] 30 days, the person
+2 maydisposeoftheitems.
+3 2 Abandoned Vehicles; Procedure for Removal and Impoundment. Amend RSA 262:33, II and
+4 IIItoreadasfollows:
+5 II. Whenever a vehicle is towed pursuant to RSA 262:31-a or RSA 262:32 the owner or other
+6 person lawfully entitled to the possession of the vehicle shall be entitled to recover said vehicle and
+7 release of the above lien by payment of all reasonable towing and storage charges. If the owner or
+8 other person lawfully entitled to possession of the vehicle wishes to challenge whether there was
+9 sufficient grounds for towing and impoundment, he or she may pay over to the custodian of the
+10 vehicleanamountequaltothetowingandstoragechargestosecurethereleaseofsuchvehicle,and,
+11 within [15] 30 days of the [towing and impoundment] receipt of the invoice, request in writing a
+12 hearing.
+13 III. The hearing shall be held before the head of the law enforcement agency which employs
+14 the authorized official who caused the vehicle to be removed and stored, or his or her designee. In
+15 theevent such agency head or his or her designee determines sufficient grounds did not exist for the
+16 removal and storage of the vehicle, the law enforcement agency shall reimburse the owner or other
+17 person lawfully claiming possession for any amount paid to the custodian to secure release of the
+18 vehicle,or,if paymenthasnotyetbeenmade,orderthatthevehicle beimmediately released
+19 fromimpoundment,withtheagencyassumingfullliabilityofthelien.
+20 3 RequirementsforPlacementontheTowList. AmendRSA106-B:30,XVIIItoreadasfollows:
+21 XVIII. The tow business shall provide state police with a complete updated list of all rates
+22 for the services it performs related to the towing and storage of vehicles, on the letterhead of the
+23 business, and shall update such list when prices change. State Police shall not set the fees for these
+24 services nor use the rate schedule provided in determining placement on a rotation schedule. [Price
+25 lists shall remain confidential except when determining the reasonable fee in a requested hearing
+26 conductedbythedepartmentofsafety.]
+27 4 New Section; Notice of Right to Dispute Towing and Storage Charges. Amend RSA 262 by
+28 insertingaftersection35-athefollowingnewsection:
+29 262:35-b NoticeofRighttoDisputeTowingandStorageCharges.
+30 I. This section shall apply to any tow of a motor vehicle performed at the direction of a law
+31 enforcementofficerwithinthestate. Thissectionshallnotapplytoanytowconductedpursuanttoa
+32 privatepropertyagreement,municipalcontract,ormunicipalordinance.
+33 II. An invoice for towing or storage of a motor vehicle shall clearly indicate the process for
+34 appealing the reasonableness of such charges. Such notice shall be provided on the invoice and may
+35 includeanInternetwebsiteaddressorscannablecodelinkingtoadditionalinformation.
+SB617-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 III. Any towing service that fails to provide the notice required in paragraph II shall be
+2 guilty of a violation and shall be fined $100 for each violation. Repeated violations of this section
+3 maybereferredtothedepartmentofsafetyforreviewandforanyactionauthorizedunderthelaw.
+4 5 StatePolice;UseofTowList. AmendRSA106-B:27,IVtoreadasfollows:
+5 IV. The director of state police with the approval of the commissioner of safety may adopt
+6 rules pursuant to RSA 541-A consistent with relevant provisions of this subdivision setting forth
+7 minimum qualifications of tow companies and their employees to participate in the state police tow
+8 list, including qualifications, training, and minimum standards for equipment, response times,
+9 storage and release of towed vehicles and their contents, and criminal history and motor vehicle
+10 recordchecksof[towtruckdrivers]employees.
+11 6 Definitions;RemovalofAbandonedVehicles. AmendRSA106-B:28toreadasfollows:
+12 106-B:28 Definitions.
+13 Inthissubdivision:
+14 I. "Employee" means any individual employed by the tow business who may
+15 physicallyrespondroadsidetoastatepolicetowcallforservice.
+16 II. "Heavy duty wrecker" means a wrecker intended and suitably equipped for towing
+17 vehicles in excess of 10,000 pounds gross weight, such as a tractor-trailer, large truck, or similar
+18 vehicle but excluding carriers and flatbeds, and meeting the following requirements, provided that
+19 come-a-longs,chains,orothersimilardevicesshallnotbeusedassubstitutesforwinchandcable:
+20 (a) Atruckchassishavingaminimumgrossvehicleweightratingofnotlessthan54,500
+21 pounds;
+22 (b) Tandemaxles,oracab-to-axlelengthofnotlessthan102inches;
+23 (c) A combined winch capacity of not less than 50,000 pounds, as rated by the winch
+24 manufacturer;
+25 (d) Asingle winchingoodoperatingconditionwithacapacityof50,000pounds,as rated
+26 bythewinchmanufacturer,orifequippedwith2winches,acombinedratingof50,000pounds;
+27 (e) A manufactured wheel-lift ingood operating condition, with retracted lifting capacity
+28 of not less than 20,000 pounds, as rated by the lift manufacturer, with safety chains or a tow bar of
+29 equalcapacity;
+30 (f) Awinchcableratedasspecifiedbythewinchmanufacturer,ingoodcondition;
+31 (g) Lightandairbrakehookupsforthetowedvehicle;and
+32 (h) Additional safety equipment as specified in this chapter and consistent with United
+33 StatesDepartmentofTransportationinspectionrequirements.
+34 [II.] III. "Light/Medium duty wrecker" means a wrecker intended and suitably equipped for
+35 safelytowingvehicles weighing26,000pounds or less gross weight, includingpassenger cars, pickup
+36 trucks, motorcycles, small trailers, and similar vehicles, that meets the following requirements,
+SB617-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 providedthatcome-a-longs,chains,orothersimilardevicesshallnotserveassubstitutesforawinch
+2 andcable:
+3 (a) Aminimumgrossvehicleweightratingofnotlessthan14,500pounds;
+4 (b) Individual boom capacity of not less than 8,000 pounds, as rated by the boom
+5 manufacturer;
+6 (c) Individual power takeoff or hydraulic power or electric winch capacity of not less
+7 than 8,000 pounds, as rated by the manufacturer, and wire rope of a capacity and length consistent
+8 withthedevicemanufacturer;
+9 (d) A manufactured wheel-lift with a retracting lifting capacity of not less than 3,500
+10 pounds,asratedbythemanufacturer,withsafetychains;
+11 (e) Dualrearwheels;
+12 (f) Twochockblocksthatwillpreventrollingorslippageofthewrecker;and
+13 (g) Additional safety equipment as specified in this chapter and consistent with United
+14 StatesDepartmentofTransportationinspectionrequirements.
+15 [III.] IV. "Recovery vehicle" means a motor vehicle consisting of a commercially available
+16 truck chassis equipped with a commercially manufactured tow body or bed and that is rated and
+17 issued a serial number by the manufacturer, designed and equipped for and used in the towing or
+18 recoveryofvehicles,ingoodconditionandcapableoftowingavehiclebymeansofatowbar,sling,or
+19 wheellift,andcapableofrecoveringavehiclebymeansofahoist,winch,ortowline.
+20 [IV.]V. "Rollbackcarrier"means aflatbedvehicle ingoodconditionthatmeetsthefollowing
+21 requirements, provided that come-a-longs, chains, or similar devices shall not be used as substitutes
+22 forawinchandcable:
+23 (a) Aminimumgrossvehicleweightratingofatleast19,500pounds;
+24 (b) A specially equipped chassis with a ramp on wheels and a hydraulic lift with a
+25 capacitytohaulortowanothervehicle;
+26 (c) At leastone 8,000poundwinch, asrated bythewinchmanufacturer,withatleast 50
+27 feetofcable,asrecommendedbythewinchmanufacturer;and
+28 (d) Additional safety equipment as specified in this chapter and consistent with United
+29 StatesDepartmentofTransportationinspectionrequirements.
+30 [V.] VI. "Tow business" means a person, enterprise, partnership, company, LLC, or other
+31 corporationhaving aregistered trade name, an activeNew Hampshire taxidentification number, an
+32 active New Hampshire workers' compensation insurance policy or exemption papers, an active New
+33 Hampshire employment security account, and that meets all state and local legal requirements
+34 including, but not limited to, those related to payment of business related taxes, fees, and insurance
+35 coverage,andthatregularlyengagesintheimpoundment,recovery,transport,orstorageoftowedor
+36 abandonedvehicles,orinthedisposalofabandonedvehicles.
+SB617-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 [VI.]VII. "Towlist"meansalistorlistsofqualifiedNewHampshirebusinessescompiledby
+2 the division of state police and used by them to dispatch wreckers and recovery and road service
+3 vehicles to tow, recover, and temporarily store a vehicle when the owner, driver, or other person
+4 responsible for the vehicle is not present or wishes to have the vehicle removed and expresses no
+5 choice or preference of a specific tow business, or when public safety requires the law enforcement
+6 official in charge at the scene to clear the vehicle from the location believing, in his or her sole
+7 opinion,thevehicle iscausingapublichazard orsafetyissue orisstolen, unregistered,was involved
+8 inacrime,orisinviolationofastatutethatrequiresimmediateremoval.
+9 [VII.] VIII. "Vehicle storage area" means a suitable yard or enclosed building where a
+10 qualifiedtowbusinesskeepsorstorestowedorimpoundedvehicles.
+11 [VIII.] IX. "Wrecker" for purposes of this chapter and except where the context clearly
+12 indicates otherwise, means a tow truck, road service vehicle, or carrier and recovery vehicle used by
+13 towbusinessesonthestatepolicetowlist.
+14 7 UseofTowList. AmendRSA106-B:29,Xtoreadasfollows:
+15 X. A tow business may terminate or temporarily suspend its designation as a service
+16 provider and be removed from the rotation list by providing prompt written notice to state police
+17 [communications]. In the event of unforeseen circumstances such as death, fire, bankruptcy, or loss
+18 of equipment from accident or failure, a tow business on the tow list shall timely notify the director
+19 of statepoliceinwritingof its intent tosuspend its designationas a serviceprovider. If and when it
+20 desires to return to service, such tow company shall send a new application to the director. If
+21 approvedtoresumeoperation,theyshallbeplacedatthebottomoftherotationlist.
+22 8 UseofTowList. AmendRSA106-B:29,XVtoreadasfollows:
+23 XV. A tow business shall not sell, assign, transfer, pledge, surrender, encumber, or dispose
+24 ofitsplaceontherotationlist. Byapplyingtobeplacedonthelist,atowbusinessagreestorespond
+25 to all state police calls 24 hours a day, 7 days a week. If for any reason the business cannot respond
+26 to a call, it rotates to the bottom of the list. Businesses that develop a pattern of non-response to
+27 calls or fail to meet the response times outlined in RSA 106-B:30 may be subject to removal
+28 fromtherotationlistoractionsoutlinedinRSA106-B:34.
+29 9 RequirementsforPlacementontheTowList. AmendRSA106-B:30,II-IIItoreadasfollows:
+30 II. The tow business shall provide as part of its application a list of all [tow truck operator
+31 personnel] employees, including full name, current address, date and place of birth, driver's license
+32 number and type, and any restrictions, and license expiration date[, and social security number].
+33 Theapplicationshallbeupdatedwiththestatepolice[communications]within5daysofwhenevera
+34 newemployeeishired,oranemployeeleavestheemployofthebusiness.
+35 III. The application shall include an individual form approved by the director of state police
+36 for each [tow truck operator] employee and for the owner and manager of the business and any
+37 supervisors, listing under penalty of unsworn falsification their full name, date and place of birth,
+SB617-ASAMENDEDBYTHEHOUSE
+-Page6-
+1 driver license number and type and any restrictions or limitations, and a listing of all motor vehicle
+2 offense convictions in this or any other state or Canadian province including type, court, and year in
+3 the preceding 5 years, and a list of any criminal convictions in this or any other state or Canadian
+4 province within the past 10 years, including type of offense, year of conviction, court, and sentence
+5 imposed, and whether the person is currently on probation or parole or has ever been a registered
+6 sex offender or subject to a domestic violence protective order. Nothing in this paragraph shall
+7 restrict the employer or state police in case of doubt from verifying the information through a record
+8 checkorchecks.
+9 10 RequirementsforPlacementontheTowList. AmendRSA106-B:30,Vtoreadasfollows:
+10 V. Ifan[operator]individualis[employedby]anemployeeofmorethanonelistedtowing
+11 company, each company shall maintain an independent and separate driver file on such individual.
+12 When [a driver, manager, or supervisor] an employee ceases employment at the business or a new
+13 such employee is hired, the company shall notify the state police director in writing within 10 days
+14 andincludeacopyoftheapplicationincludingacopyoftheformdescribedinparagraphIII. Itshall
+15 be the responsibility of the operator to maintain appropriate records of driving times showing full
+16 compliancewithallapplicablelaws,rules,andregulations.
+17 11 RequirementsforPlacementontheTowList. AmendRSA106-B:30,VIIItoreadasfollows:
+18 VIII. Wreckersdispatchedshallarriveatthescenewithin30minutesofbeingcalled,except
+19 for cases where the travel distance, posted speeds, or traffic and weather conditions and volume of
+20 traffic make this unreasonable. For heavy duty calls the company shall respond within a maximum
+21 of60minutes regardlessof thetimeofday. Ifthetimeexceeds theabovelimitand thetow business
+22 does not provide state police communications or the trooper in charge at the scene with a valid
+23 reason for the delay within that time, a second rotation wrecker may be dispatched. If a second
+24 wrecker is requested before the arrival of the initially dispatched rotation wrecker, the initially
+25 requested wrecker shall forfeit the call and leave the incident scene. Repeated tardiness may result
+26 in suspension or removal from the rotation list or any other disciplinary action as outlined in
+27 RSA 106-B:34. Notwithstanding any other provision of law, for imminent concerns related
+28 to public health, safety, or welfare, the director may order the immediate suspension of the
+29 tow business at their discretion, and without a hearing. Any such suspension shall be
+30 subjecttothehearingrequirementsandtimelinessetforthinRSA541-A:30,III.
+31 12 RequirementstoRemainontheTowList. AmendRSA106-B:31,XIIItoreadasfollows:
+32 XIII. State troopers or other designated department of safety personnel may be assigned at
+33 the discretion of the state police director to conduct reviews from time to time of towing businesses,
+34 their records, and equipment to ensure compliance with relevant rules and laws and make a
+35 recommendation[throughthestatepolicecommunicationscommander]tothedirectorastothelevel
+36 of compliance and any appropriate action. Tow businesses participating in the tow list shall make,
+37 during normal business hours, their records, vehicles, facility, and equipment available for
+SB617-ASAMENDEDBYTHEHOUSE
+-Page7-
+1 examination for such reviews by troopers or other department of safety employees. In cases of non-
+2 compliance, the state police [communications commander] shall recommend appropriate action to
+3 the director, which may include a verbal or written reprimand, suspension, or revocation from
+4 continued participation in the rotating list. Such action is discretionary and shall be based on the
+5 natureandseriousnessofthediscrepancyandanypriorrecordofthebusiness.
+6 13 Compliance Action; Disciplinary Enforcement. RSA 106-B:34 is repealed and reenacted to
+7 readasfollows:
+8 106-B:34 ComplianceAction;DisciplinaryEnforcement.
+9 I. Participation in the state police tow list is a privilege and not a right. The director of the
+10 division of state police shall administer the state police tow list and shall ensure that towing,
+11 storage, roadside emergency service, and vehicle recovery performed at the direction or request of
+12 thedivisionofstatepoliceareconductedincompliancewithstatelawandrulesadoptedpursuantto
+13 RSA 541-A, and in a manner that promotes public safety and maintains the confidence of the
+14 motoringpublic.
+15 II. The director may take disciplinary action upon a finding, supported by satisfactory
+16 evidence,thatatowbusinessortowbusinessemployeehasviolated:
+17 (a) TheprovisionsofRSA106-B:29throughRSA106-B:33;or
+18 (b) Anyruleadoptedpursuanttothissubdivision.
+19 III. Disciplinaryactionsauthorizedunderthissectionmayinclude:
+20 (a) Averbalorwrittenwarning;
+21 (b) Suspensionofatowbusiness,atowbusinessemployee,orboth,fromparticipationin
+22 thestatepolicetowlistforaperiodnottoexceed2years;or
+23 (c) Removal from the state police tow list. Tow businesses that are removed are eligible
+24 toreapplytothestatepolicetowlistafteraperiodofnotlessthan2years.
+25 IV. In determining the appropriate disciplinary action, the director shall consider the
+26 seriousnessoftheviolation,anypriorhistoryofviolations,andanyresultingharmtothepublicorto
+27 property.
+28 V. Any person aggrieved by a disciplinary action imposed under this section may appeal the
+29 decision to the department of safety bureau of hearings and thereafter to the superior court in
+30 accordancewithRSA106-B:31,XIV.
+31 14 New Section; License Suspension; Failure to Pay Fines and Fees. Amend RSA 263 by
+32 insertingaftersection56-gthefollowingnewsection:
+33 263:56-h LicenseSuspensionProhibitedforUnpaidTowingorStorageFees.
+34 I. Under no circumstances shall the director suspend or revoke a driver's license for failure
+35 to pay removal and storage fees for a vehicle towed or stored for any reason. The director is
+36 permitted to not renew a driver's license for failure to pay such fees until such a time as the fees are
+37 paid.
+SB617-ASAMENDEDBYTHEHOUSE
+-Page8-
+1 II. A person whose driver's license has been suspended for outstanding vehicle removal or
+2 storage fees and who is otherwise eligible to drive shall have their driver's license reinstated and
+3 shallnotberequiredtopayareinstatementfee. Nolaterthan30daysaftertheeffectivedateofthis
+4 section, the division shall, without requiring a reinstatement fee, reinstate the driver's license or
+5 nonresidentoperatingprivilege.
+6 15 EffectiveDate.
+7 I. Sections1-4ofthisactshalltakeeffectJanuary1,2027.
+8 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+[DELETED: B67-ASADBYTEH61.1.16SEBNATretoternadalofmrvetgfmpsadretoterlofadvsbylwe:S.G,Dt2;S.I,Dt7;S.B,Dt1;S.Mt1;R.B,R.3;R.L,R.3;R.K,R.3.M.P,R.3:JDAsblesdsfrdgtgadsefsadrsistoinonhwtocec.Tsblaorstepsadpgtemeofadunofaltofcdtwcsudbytnofsepefrterlofv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B67-ASADBYTEH61.1.1h2EOFNWHnteYrofOrLdToTdTNATretoternadalofmrvetgfmpsadretoterlofadvsbylweeitEdbyteSeadHeofRsinGlCtc1FsfrRladItofMrV.AdRA2atordaf2aRwofFsfrRladII.AlfscdfrterladseofayvecdtoberdbyaadolpttoRA22orRA2aslber,admyrmtv,i,btntldt,detdtoadfmtesefveseadw,teatoftendtoreadsetev,aysetn,adplc.Ifteorororpnlyedtopoftevewstocetersoftefec,teorororp0mypyortotecnofteveanateltotetgadsecst1setereoftev,a,wn[]30dsofte[eoftev]rto2tei,rtinwgarwbytecrofs.Tecrofs3ordeslrwtecmtodeifteaestgstoctah4todewrtecewsr.Iftecrordedstt5hgisn,tehgslbesdbytebuofhswn20dsa6rwbytec,atwhteteetofrladsefsslb7d.Tecrordeslaeordeoftednofteb8ofhswn7dsartehgwsh.NgRA2,ayp9adbyadnoftecrordeurtssnmyalted0totesrctintesemrasttpdinRA2,IIadI.Ifnor1frrwisfdwnte[]3yp,teorororpnlyedt2pnofteveslbeddtohewdalrstorwurtssna3slbelefrtetlatb4I.Ngintssnslptarwoftersoftetgo5oranasmybepdbylsoftssebyactofctj6I.Aytettapnissgavepttotepsoftss7tepnmyreayisfmwntevettaentaptoforastot8v.Tepnmyhdayshi,ortnw,p,leelc9m,lld,crs,e,m,mle,orheksp]
+[DELETED: B67-ASADBYTEHPe2ptofayfsdeurtss.Iffsrnudar[]30d,tepmydeoftei2AdV;PefrRladI.AdRA2,IIaIItordasfI.WraveistdpttoRA2aorRA22teororopnlyedtotepnofteveslbeedtorrsdveareofteaelnbyptofalretgadsec.Ifteoroorpnlyedtopnoftevewstocewrtewstgsfrtgadi,heorsemypyortotecnoft0veanateltotetgadsecstosetereofshv,a1wn[]30dsofte[gadi]rtoftei,rtinwg2h3I.Tehgslbehdbetehdoftelwetaywhe4teadolwocdtevetoberdads,orhsorhrd.I5teetshayhdorhsorhrdedsstgsddntetfrt6rladseoftev,telwetayslreteororo7pnlycgpnfrayatpdtotecntosereoft8v,o,ifpthsntytbnm,ortttevebeiyr9fmi,whteayagfllyoftel03RsfrPtonteTwL.AdRA1,XItordasf1X.Tetwbsslpesepewhaceudltofalr2frtessitpsrdtotetgadseofv,onteldoft3b,adslueshltwnpsc.SePeslntsttefsfrt4ssnrueteresepdindgptonarns.[5lsslrncletwndgterefeinardh6cdbytedtofs74NwS;NeofRttoDeTgadSeC.AdRA22b8igarsn3atefgnws92bNeofRttoDeTgadSeC0I.Tssnslaytoaytwofamrvepdattednofal1etorwntes.Tssnslntaytoaytwcdptto2pepya,mlc,ormlo3I.Aniefrtgorseofamrveslcyietepsf4agtersofshc.Shneslbepdonteieadm5ieanItweasorsecelgtoali]
+[DELETED: B67-ASADBYTEHPe3I.AytgsettfstopetenerdinphIIslbgyofavnadslbefd$0frehv.Rdvsoftssmyberdtotedtofsyfrrwadfrayanadurtel5SeP;UeofTwL.AdRA1,IVtordasfI.TedrofsepewhtealoftecrofsymyarspttoRA5Actwhrtpsoftssnsgfmmqsoftwcsadtrestopeintesepetl,igq,t,admmssfre,retseadreoftdvsadtrc,adclhyadmrv0rdcso[twtkd]e16D;RlofAdV.AdRA18tordasf218D3Intss4I.""msayiledbytetwbswom5pyrdretoasepetwclfrs6I."ydyw"msawridadsyedfrt7vsinesof10psgsw,shasat,let,ors8vebtegcsadf,admgtefgr,pdt9c,c,ororsrdsslntbeudasssfrwhadc0()Atkcshgammgsvewtrgofntlstn51p2()Tma,oracelhofntlstn12i3()Acdwhcyofntlstn50p,asrdbytew4m5()Asewhingdogcnwhacyof50p,asr6bytewhm,orifedwh2w,acdrgof50p7()Amdwtingdogc,whrdlgc8ofntlstn20p,asrdbyteltm,whsycsoratwbro9elc0()Awhcerdassdbytewhm,ingdc1()Ltadarbehsfrtetdv;a2()AlsyetassdintscradctwhU3SsDtofTninr4[]I."mdyw"msawridadsyedf5sytgvswg20psorlsgsw,igprc,p6t,m,slt,adsrv,ttmstefgr]
+[DELETED: B67-ASADBYTEHPe4pdttc,c,ororsrdsslntseasssfrawadc()Ammgsvewtrgofntlstn10p()Ilbmcyofntlstn80p,asrdbytebm()Ilprtforhcprorecwhcyofntltn80p,asrdbytem,adwereofacyadlhcwhtedem()Amdwtwharglgcyofntlstn30p,asrdbytem,whsyc1()Dlrrw2()Tockbsttwlptrgorseoftew;a3()AlsyetassdintscradctwhU4SsDtofTninr5[]I."yv"msamrvecgofacya6tkcsedwhacymdtwbyorbdadttisrda7idaslnrbytem,ddadedfradudintetgo8ryofv,ingdcnadceoftgavebymsofatwb,s,o9wll,adceofrgavebymsofah,w,ort0[]V."kc"msafdveingdcnttmstef1r,pdttc,c,orsrdsslntbeudass2frawhadc3()Ammgsvewtrgofatlt10p4()Asyedcswharponwsadahcltwh5cytohlortwarv6()Atltoe80pdw,asrdbytewhm,whatlt57ftofc,asrdbytewhm;a8()AlsyetassdintscradctwhU9SsDtofTninr0[]V."wb"msap,e,p,c,L,oro1cnhgardten,anaeNwHetxinn,a2aeNwHew'cniepyorenp,anaeN3Heetsya,adttmsalseadllllr4i,btntldt,terdtoptofbsrdt,f,adi5c,adttryesintei,r,t,orseoftdo6adv,orintedlofadv]
+[DELETED: B67-ASADBYTEHPe5[]V."wl"msaltorlsofqdNwHebscdbtednofsepeadudbytmtodhwsadryadrdsvstot,r,adtyseavewnteo,d,ororprefrteveisntptorwstoheteverdadesnceorpeofasctwb,orwnpcsyrstelweolinceattesetocrtevefmtelnb,inhsorhrso,teveiscgapchdorsyieoriss,u,wsiinac,orisinvnofasettrsier[]V."esea"msaseydoredbgwe0qdtwbsksorsstdoridv1[]I.""frpsoftscradetwetectc2iso,msatwt,rdsev,orcradryveudb3twbsontesepetwl47UeofTwL.AdRA1,Xtordasf5X.Atwbsmyteortysdisdnasas6pradberdfmternltbypgptwnnetosep7[.Inteetofuncsshasd,f,b,orl8ofetfmatorf,atwbsontetwltsltynyted9ofsepeinwgofisittosdisdnasasep.Ifadwni0dstorntos,shtwcyslsdanwantoted.I1adtoreo,tyslbepdattebmofternl28UeofTwL.AdRA1,XVtordasf3X.Atwbsslnts,a,t,p,s,e,ord4ofispeonternl.Byagtobepdontel,atwbsastor5toalsepecs24hsad,7dsaw.Iffrayrntebsctr6toac,itrstotebmoftel.Bsttdpapnofnet7csorfltomtteretsodinRA10mybesttor8fmternltorasodinRA199RsfrPtonteTwL.AdRA1,IItordasf0I.Tetwbsslpeasptofisanaltofal[wtko1p]e,igfln,cta,deadpeofb,dsl2nradt,adayr,adleend,adslsyn3Teanslbeudwhtesepe[]wn5dsofwr4nweeish,oraneelsteeyofteb5I.Teanslieanilfmadbytedrofsep6freh[wtko]eeadfrteoradmroftebsada7s,lgurpyofunfntrfln,deadpeofb]
+[DELETED: B67-ASADBYTEHPe6drlenradteadayrsorl,adalgofalmrvoecsintsorayorseorCnpeigt,c,adyritepg5y,adaltofayclcsintsorayorseorCpewntept10y,igteofo,yrofc,c,adsi,adwrtepniscyonpnorpeorhserbnarsxororsttoadcvepeo.Ngintsphsrtteerorsepeinceofdtfmvgteintharckorc10RsfrPtonteTwL.AdRA1,Vtordasf0V.Ifan[]ilis[db]aneeofmetnoeldt1c,ehcyslmnanitadsedrfeonshi2Wn[ad,m,ors]aneecsetattebsoran3sheeish,tecyslnytesepedrinwgwn10d4adieacyofteanigacyoftefmddinphI.Its5beteryofteortomnaersofdgtssgf6cewhalael,r,adr711RsfrPtonteTwL.AdRA1,VItordasf8V.Wsddslaeattesewn30msofbgc,e9frcswetetld,pds,ortcadwrcsadveo0tcmetsu.Frhydycstecyslrdwnam1of60msrsofteteofd.Ifteteesteaeltadtetwb2dsntpesepecsortetrinceattesewhav3rnfrtedywnttt,asdrnwrmybed.Ifas4wrisrdbetealofteiyddrnw,tei5rdwrslfttecladleteits.Rdtsmyr6insnorrlfmternltorayordyanasodi7RA1.Ngayorpnofl,fritcsr8topch,s,orw,tedrmyorteiesnoft9twbsattrd,adwtah.Ayshsnslb0sttotehgrsadtsstfhinRA5,I112RstoRnonteTwL.AdRA1,XItordasf2X.Setsorordddtofsyplmybeada3tednoftesepedrtoctrsfmtetoteoftgb4trr,adettoeecewhrtrsadlsadme5r[thtesepecsc]totedrastotel6ofceadayaea.Twbspgintetwltslm7dgnlbsh,trr,v,f,adetaef]
+[DELETED: B67-ASADBYTEHPe7enfrshrsbytsorordtofsye.Incsofnc,tesepe[sc]slrdaeantted,whmyieavlorwnr,s,orrnfcdpnintergl.Shanisdyadslbebdontneadssoftedyadayprrdofteb13CeA;DyE.RA14isrdadrdtrdasf14CeA;DyEI.Pnintesepetwltisapeadntar.Tedroft0dnofsepeslartesepetwltadsleettt1s,reeys,adverypdattednorrto2tednofsepeaecdincewhselwadrsadptt3RA5,adinamrttpspcsyadmsteceoft4mgp5I.Tedrmytedyanunaf,sdbys6e,ttatwbsortwbseehsv7()TepsofRA19thRA1;o8()Ayreadpttotss9I.Dyasadurtssnmyi0()Avlorwnw1()Snofatwb,atwbse,orb,fmpni2tesepetwltfrapdnttoed2y;o3()Rlfmtesepetwl.Twbsttaerdaee4torytotesepetwltarapdofntlstn2y5I.Indgteaedya,tedrslcrt6ssoftev,ayprhyofv,adayrghmtotepcort7p8V.Aypnadbyadyanidurtssnmyalt9dntotedtofsybuofhsadtrtotesrcti0aewhRA1,X114NwS;LeS;FetoPyFsadF.AdRA23b2igarsn5gtefgnws32hLeSnPdfrUdTgorSeF4I.Urnocssltedrsdorreadslefrf5topyrladsefsfravetdorsdfrayr.Tedri6pdtontrwadslefrfetopyshfsulshateastefsa7p]
+[DELETED: B67-ASADBYTEHPe8I.Apnwedslehsbnsdfrogverlosefsadwoisoeeetodeslhetrdslerdaslntberdtopyartf.Nolrtn30dsarteeedeofts,tedns,wtrgartf,retedsleontogp15EeDI.Ss14oftsatslteetJy1,2I.Terroftsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB617-ASAMENDEDBYTHEHOUSE
+03/26/2026 1218s
+23Apr2026...1510h
+14May2026...1755h
+2026SESSION
+26-2182
+09/08
+617
+SENATEBILL
+ANACT relative to the regulation and appeal of motor vehicle towing from public
+highwaysandrelativetotheremovalofabandonedvehiclesbylawenforcement.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Innis, Dist 7; Sen. Birdsell, Dist 19; Sen. McGough,
+Dist 11; Rep. Bernardy, Rock. 36; Rep. Litchfield, Rock. 32; Rep. Khan, Rock. 30;
+Rep.M.Pearson,Rock.34
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill extends deadlines for disputingtowing and storagefees and requires invoices to include
+information on how to challenge charges. This bill also revises the procedures and processes
+concerning the maintenance of and utilization of a list of contracted tow companies used by the
+divisionofstatepolicefortheremovalofvehicles.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB617-ASAMENDEDBYTHEHOUSE
+03/26/2026 1218s
+23Apr2026...1510h
+14May2026...1755h 26-2182
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the regulation and appeal of motor vehicle towing from public
+highwaysandrelativetotheremovalofabandonedvehiclesbylawenforcement.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Fees for Removal and Impoundment of Motor Vehicles. Amend RSA 262:35-a to read as
+2 follows:
+3 262:35-a ReviewofFeesforRemovalandImpoundment.
+4 I. All fees charged for the removal and storage of any vehicle caused to be removed by an
+5 authorized official pursuant to RSA 262:32 or RSA 262:40-a shall be reasonable, and may reflect
+6 market variables, including, but not limited to, distance traveled to and from the storage facility,
+7 vehicle size and weight, the amount of time needed to remove and store the vehicle, any special
+8 equipment needed, and personnel costs. If the owner or other person lawfully entitled to possession
+9 of the vehicle wishes to challenge the reasonableness of the fee charged, the owner or other person
+10 may pay over to the custodian of the vehicle an amount equal to the towing and storage charges to
+11 secure the release of the vehicle, and, within [15] 30 days of the [release of the vehicle] receipt of
+12 the invoice, request in writing a review by the commissioner of safety. The commissioner of safety
+13 or designee shall review the claim to determine if there are sufficient grounds to conduct a hearing
+14 todeterminewhetherthechargewas reasonable. Ifthecommissioneror designeedetermines that a
+15 hearing is necessary, the hearing shall be scheduled by the bureau of hearings within 20 days after
+16 review by the commissioner, at which time the extent of removal and storage fees shall be
+17 determined. The commissioner or designeeshall approve or disapprove of the decision of the bureau
+18 of hearings within 7 days after the hearing was held. Notwithstanding RSA 262:25, any person
+19 aggrieved by a decision of the commissioner or designee under this section may appeal the decision
+20 to the superior court in the same manner as that prescribed in RSA 263:75, II and III. If no request
+21 for review is filed within the [15-day] 30-day period, the owner or other person lawfully entitled to
+22 possession of the vehicle shall be deemed to have waived all rights to review under this section and
+23 shallbeliableforthetotalamountbilled.
+24 II. Nothing in this section shall prevent a review of the reasonableness of the towing or
+25 otheractionasmaybepermittedbylawsofthisstatebyacourtofcompetentjurisdiction.
+26 III. Anytimethatapersonisstoringavehiclepursuanttotheprovisionsofthissubdivision,
+27 the person may remove any items from within the vehicle that are not a part of or accessories to the
+28 vehicle. The person may hold any such items, other than wallets, purses, life essential clothing,
+29 mail, legal documents, car seats, eyeglasses, medicine, medical equipment, or house keys pending
+
+SB617-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 payment of anyfees dueunder this subdivision. If fees remainunpaid after [20] 30 days, the person
+2 maydisposeoftheitems.
+3 2 Abandoned Vehicles; Procedure for Removal and Impoundment. Amend RSA 262:33, II and
+4 IIItoreadasfollows:
+5 II. Whenever a vehicle is towed pursuant to RSA 262:31-a or RSA 262:32 the owner or other
+6 person lawfully entitled to the possession of the vehicle shall be entitled to recover said vehicle and
+7 release of the above lien by payment of all reasonable towing and storage charges. If the owner or
+8 other person lawfully entitled to possession of the vehicle wishes to challenge whether there was
+9 sufficient grounds for towing and impoundment, he or she may pay over to the custodian of the
+10 vehicleanamountequaltothetowingandstoragechargestosecurethereleaseofsuchvehicle,and,
+11 within [15] 30 days of the [towing and impoundment] receipt of the invoice, request in writing a
+12 hearing.
+13 III. The hearing shall be held before the head of the law enforcement agency which employs
+14 the authorized official who caused the vehicle to be removed and stored, or his or her designee. In
+15 theevent such agency head or his or her designee determines sufficient grounds did not exist for the
+16 removal and storage of the vehicle, the law enforcement agency shall reimburse the owner or other
+17 person lawfully claiming possession for any amount paid to the custodian to secure release of the
+18 vehicle,or,if paymenthasnotyetbeenmade,orderthatthevehicle beimmediately released
+19 fromimpoundment,withtheagencyassumingfullliabilityofthelien.
+20 3 RequirementsforPlacementontheTowList. AmendRSA106-B:30,XVIIItoreadasfollows:
+21 XVIII. The tow business shall provide state police with a complete updated list of all rates
+22 for the services it performs related to the towing and storage of vehicles, on the letterhead of the
+23 business, and shall update such list when prices change. State Police shall not set the fees for these
+24 services nor use the rate schedule provided in determining placement on a rotation schedule. [Price
+25 lists shall remain confidential except when determining the reasonable fee in a requested hearing
+26 conductedbythedepartmentofsafety.]
+27 4 New Section; Notice of Right to Dispute Towing and Storage Charges. Amend RSA 262 by
+28 insertingaftersection35-athefollowingnewsection:
+29 262:35-b NoticeofRighttoDisputeTowingandStorageCharges.
+30 I. This section shall apply to any tow of a motor vehicle performed at the direction of a law
+31 enforcementofficerwithinthestate. Thissectionshallnotapplytoanytowconductedpursuanttoa
+32 privatepropertyagreement,municipalcontract,ormunicipalordinance.
+33 II. An invoice for towing or storage of a motor vehicle shall clearly indicate the process for
+34 appealing the reasonableness of such charges. Such notice shall be provided on the invoice and may
+35 includeanInternetwebsiteaddressorscannablecodelinkingtoadditionalinformation.
+
+SB617-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 III. Any towing service that fails to provide the notice required in paragraph II shall be
+2 guilty of a violation and shall be fined $100 for each violation. Repeated violations of this section
+3 maybereferredtothedepartmentofsafetyforreviewandforanyactionauthorizedunderthelaw.
+4 5 StatePolice;UseofTowList. AmendRSA106-B:27,IVtoreadasfollows:
+5 IV. The director of state police with the approval of the commissioner of safety may adopt
+6 rules pursuant to RSA 541-A consistent with relevant provisions of this subdivision setting forth
+7 minimum qualifications of tow companies and their employees to participate in the state police tow
+8 list, including qualifications, training, and minimum standards for equipment, response times,
+9 storage and release of towed vehicles and their contents, and criminal history and motor vehicle
+10 recordchecksof[towtruckdrivers]employees.
+11 6 Definitions;RemovalofAbandonedVehicles. AmendRSA106-B:28toreadasfollows:
+12 106-B:28 Definitions.
+13 Inthissubdivision:
+14 I. "Employee" means any individual employed by the tow business who may
+15 physicallyrespondroadsidetoastatepolicetowcallforservice.
+16 II. "Heavy duty wrecker" means a wrecker intended and suitably equipped for towing
+17 vehicles in excess of 10,000 pounds gross weight, such as a tractor-trailer, large truck, or similar
+18 vehicle but excluding carriers and flatbeds, and meeting the following requirements, provided that
+19 come-a-longs,chains,orothersimilardevicesshallnotbeusedassubstitutesforwinchandcable:
+20 (a) Atruckchassishavingaminimumgrossvehicleweightratingofnotlessthan54,500
+21 pounds;
+22 (b) Tandemaxles,oracab-to-axlelengthofnotlessthan102inches;
+23 (c) A combined winch capacity of not less than 50,000 pounds, as rated by the winch
+24 manufacturer;
+25 (d) Asingle winchingoodoperatingconditionwithacapacityof50,000pounds,as rated
+26 bythewinchmanufacturer,orifequippedwith2winches,acombinedratingof50,000pounds;
+27 (e) A manufactured wheel-lift ingood operating condition, with retracted lifting capacity
+28 of not less than 20,000 pounds, as rated by the lift manufacturer, with safety chains or a tow bar of
+29 equalcapacity;
+30 (f) Awinchcableratedasspecifiedbythewinchmanufacturer,ingoodcondition;
+31 (g) Lightandairbrakehookupsforthetowedvehicle;and
+32 (h) Additional safety equipment as specified in this chapter and consistent with United
+33 StatesDepartmentofTransportationinspectionrequirements.
+34 [II.] III. "Light/Medium duty wrecker" means a wrecker intended and suitably equipped for
+35 safelytowingvehicles weighing26,000pounds or less gross weight, includingpassenger cars, pickup
+36 trucks, motorcycles, small trailers, and similar vehicles, that meets the following requirements,
+
+SB617-ASAMENDEDBYTHEHOUSE
+-Page4-
+1 providedthatcome-a-longs,chains,orothersimilardevicesshallnotserveassubstitutesforawinch
+2 andcable:
+3 (a) Aminimumgrossvehicleweightratingofnotlessthan14,500pounds;
+4 (b) Individual boom capacity of not less than 8,000 pounds, as rated by the boom
+5 manufacturer;
+6 (c) Individual power takeoff or hydraulic power or electric winch capacity of not less
+7 than 8,000 pounds, as rated by the manufacturer, and wire rope of a capacity and length consistent
+8 withthedevicemanufacturer;
+9 (d) A manufactured wheel-lift with a retracting lifting capacity of not less than 3,500
+10 pounds,asratedbythemanufacturer,withsafetychains;
+11 (e) Dualrearwheels;
+12 (f) Twochockblocksthatwillpreventrollingorslippageofthewrecker;and
+13 (g) Additional safety equipment as specified in this chapter and consistent with United
+14 StatesDepartmentofTransportationinspectionrequirements.
+15 [III.] IV. "Recovery vehicle" means a motor vehicle consisting of a commercially available
+16 truck chassis equipped with a commercially manufactured tow body or bed and that is rated and
+17 issued a serial number by the manufacturer, designed and equipped for and used in the towing or
+18 recoveryofvehicles,ingoodconditionandcapableoftowingavehiclebymeansofatowbar,sling,or
+19 wheellift,andcapableofrecoveringavehiclebymeansofahoist,winch,ortowline.
+20 [IV.]V. "Rollbackcarrier"means aflatbedvehicle ingoodconditionthatmeetsthefollowing
+21 requirements, provided that come-a-longs, chains, or similar devices shall not be used as substitutes
+22 forawinchandcable:
+23 (a) Aminimumgrossvehicleweightratingofatleast19,500pounds;
+24 (b) A specially equipped chassis with a ramp on wheels and a hydraulic lift with a
+25 capacitytohaulortowanothervehicle;
+26 (c) At leastone 8,000poundwinch, asrated bythewinchmanufacturer,withatleast 50
+27 feetofcable,asrecommendedbythewinchmanufacturer;and
+28 (d) Additional safety equipment as specified in this chapter and consistent with United
+29 StatesDepartmentofTransportationinspectionrequirements.
+30 [V.] VI. "Tow business" means a person, enterprise, partnership, company, LLC, or other
+31 corporationhaving aregistered trade name, an activeNew Hampshire taxidentification number, an
+32 active New Hampshire workers' compensation insurance policy or exemption papers, an active New
+33 Hampshire employment security account, and that meets all state and local legal requirements
+34 including, but not limited to, those related to payment of business related taxes, fees, and insurance
+35 coverage,andthatregularlyengagesintheimpoundment,recovery,transport,orstorageoftowedor
+36 abandonedvehicles,orinthedisposalofabandonedvehicles.
+
+SB617-ASAMENDEDBYTHEHOUSE
+-Page5-
+1 [VI.]VII. "Towlist"meansalistorlistsofqualifiedNewHampshirebusinessescompiledby
+2 the division of state police and used by them to dispatch wreckers and recovery and road service
+3 vehicles to tow, recover, and temporarily store a vehicle when the owner, driver, or other person
+4 responsible for the vehicle is not present or wishes to have the vehicle removed and expresses no
+5 choice or preference of a specific tow business, or when public safety requires the law enforcement
+6 official in charge at the scene to clear the vehicle from the location believing, in his or her sole
+7 opinion,thevehicle iscausingapublichazard orsafetyissue orisstolen, unregistered,was involved
+8 inacrime,orisinviolationofastatutethatrequiresimmediateremoval.
+9 [VII.] VIII. "Vehicle storage area" means a suitable yard or enclosed building where a
+10 qualifiedtowbusinesskeepsorstorestowedorimpoundedvehicles.
+11 [VIII.] IX. "Wrecker" for purposes of this chapter and except where the context clearly
+12 indicates otherwise, means a tow truck, road service vehicle, or carrier and recovery vehicle used by
+13 towbusinessesonthestatepolicetowlist.
+14 7 UseofTowList. AmendRSA106-B:29,Xtoreadasfollows:
+15 X. A tow business may terminate or temporarily suspend its designation as a service
+16 provider and be removed from the rotation list by providing prompt written notice to state police
+17 [communications]. In the event of unforeseen circumstances such as death, fire, bankruptcy, or loss
+18 of equipment from accident or failure, a tow business on the tow list shall timely notify the director
+19 of statepoliceinwritingof its intent tosuspend its designationas a serviceprovider. If and when it
+20 desires to return to service, such tow company shall send a new application to the director. If
+21 approvedtoresumeoperation,theyshallbeplacedatthebottomoftherotationlist.
+22 8 UseofTowList. AmendRSA106-B:29,XVtoreadasfollows:
+23 XV. A tow business shall not sell, assign, transfer, pledge, surrender, encumber, or dispose
+24 ofitsplaceontherotationlist. Byapplyingtobeplacedonthelist,atowbusinessagreestorespond
+25 to all state police calls 24 hours a day, 7 days a week. If for any reason the business cannot respond
+26 to a call, it rotates to the bottom of the list. Businesses that develop a pattern of non-response to
+27 calls or fail to meet the response times outlined in RSA 106-B:30 may be subject to removal
+28 fromtherotationlistoractionsoutlinedinRSA106-B:34.
+29 9 RequirementsforPlacementontheTowList. AmendRSA106-B:30,II-IIItoreadasfollows:
+30 II. The tow business shall provide as part of its application a list of all [tow truck operator
+31 personnel] employees, including full name, current address, date and place of birth, driver's license
+32 number and type, and any restrictions, and license expiration date[, and social security number].
+33 Theapplicationshallbeupdatedwiththestatepolice[communications]within5daysofwhenevera
+34 newemployeeishired,oranemployeeleavestheemployofthebusiness.
+35 III. The application shall include an individual form approved by the director of state police
+36 for each [tow truck operator] employee and for the owner and manager of the business and any
+37 supervisors, listing under penalty of unsworn falsification their full name, date and place of birth,
+
+SB617-ASAMENDEDBYTHEHOUSE
+-Page6-
+1 driver license number and type and any restrictions or limitations, and a listing of all motor vehicle
+2 offense convictions in this or any other state or Canadian province including type, court, and year in
+3 the preceding 5 years, and a list of any criminal convictions in this or any other state or Canadian
+4 province within the past 10 years, including type of offense, year of conviction, court, and sentence
+5 imposed, and whether the person is currently on probation or parole or has ever been a registered
+6 sex offender or subject to a domestic violence protective order. Nothing in this paragraph shall
+7 restrict the employer or state police in case of doubt from verifying the information through a record
+8 checkorchecks.
+9 10 RequirementsforPlacementontheTowList. AmendRSA106-B:30,Vtoreadasfollows:
+10 V. Ifan[operator]individualis[employedby]anemployeeofmorethanonelistedtowing
+11 company, each company shall maintain an independent and separate driver file on such individual.
+12 When [a driver, manager, or supervisor] an employee ceases employment at the business or a new
+13 such employee is hired, the company shall notify the state police director in writing within 10 days
+14 andincludeacopyoftheapplicationincludingacopyoftheformdescribedinparagraphIII. Itshall
+15 be the responsibility of the operator to maintain appropriate records of driving times showing full
+16 compliancewithallapplicablelaws,rules,andregulations.
+17 11 RequirementsforPlacementontheTowList. AmendRSA106-B:30,VIIItoreadasfollows:
+18 VIII. Wreckersdispatchedshallarriveatthescenewithin30minutesofbeingcalled,except
+19 for cases where the travel distance, posted speeds, or traffic and weather conditions and volume of
+20 traffic make this unreasonable. For heavy duty calls the company shall respond within a maximum
+21 of60minutes regardlessof thetimeofday. Ifthetimeexceeds theabovelimitand thetow business
+22 does not provide state police communications or the trooper in charge at the scene with a valid
+23 reason for the delay within that time, a second rotation wrecker may be dispatched. If a second
+24 wrecker is requested before the arrival of the initially dispatched rotation wrecker, the initially
+25 requested wrecker shall forfeit the call and leave the incident scene. Repeated tardiness may result
+26 in suspension or removal from the rotation list or any other disciplinary action as outlined in
+27 RSA 106-B:34. Notwithstanding any other provision of law, for imminent concerns related
+28 to public health, safety, or welfare, the director may order the immediate suspension of the
+29 tow business at their discretion, and without a hearing. Any such suspension shall be
+30 subjecttothehearingrequirementsandtimelinessetforthinRSA541-A:30,III.
+31 12 RequirementstoRemainontheTowList. AmendRSA106-B:31,XIIItoreadasfollows:
+32 XIII. State troopers or other designated department of safety personnel may be assigned at
+33 the discretion of the state police director to conduct reviews from time to time of towing businesses,
+34 their records, and equipment to ensure compliance with relevant rules and laws and make a
+35 recommendation[throughthestatepolicecommunicationscommander]tothedirectorastothelevel
+36 of compliance and any appropriate action. Tow businesses participating in the tow list shall make,
+37 during normal business hours, their records, vehicles, facility, and equipment available for
+
+SB617-ASAMENDEDBYTHEHOUSE
+-Page7-
+1 examination for such reviews by troopers or other department of safety employees. In cases of non-
+2 compliance, the state police [communications commander] shall recommend appropriate action to
+3 the director, which may include a verbal or written reprimand, suspension, or revocation from
+4 continued participation in the rotating list. Such action is discretionary and shall be based on the
+5 natureandseriousnessofthediscrepancyandanypriorrecordofthebusiness.
+6 13 Compliance Action; Disciplinary Enforcement. RSA 106-B:34 is repealed and reenacted to
+7 readasfollows:
+8 106-B:34 ComplianceAction;DisciplinaryEnforcement.
+9 I. Participation in the state police tow list is a privilege and not a right. The director of the
+10 division of state police shall administer the state police tow list and shall ensure that towing,
+11 storage, roadside emergency service, and vehicle recovery performed at the direction or request of
+12 thedivisionofstatepoliceareconductedincompliancewithstatelawandrulesadoptedpursuantto
+13 RSA 541-A, and in a manner that promotes public safety and maintains the confidence of the
+14 motoringpublic.
+15 II. The director may take disciplinary action upon a finding, supported by satisfactory
+16 evidence,thatatowbusinessortowbusinessemployeehasviolated:
+17 (a) TheprovisionsofRSA106-B:29throughRSA106-B:33;or
+18 (b) Anyruleadoptedpursuanttothissubdivision.
+19 III. Disciplinaryactionsauthorizedunderthissectionmayinclude:
+20 (a) Averbalorwrittenwarning;
+21 (b) Suspensionofatowbusiness,atowbusinessemployee,orboth,fromparticipationin
+22 thestatepolicetowlistforaperiodnottoexceed2years;or
+23 (c) Removal from the state police tow list. Tow businesses that are removed are eligible
+24 toreapplytothestatepolicetowlistafteraperiodofnotlessthan2years.
+25 IV. In determining the appropriate disciplinary action, the director shall consider the
+26 seriousnessoftheviolation,anypriorhistoryofviolations,andanyresultingharmtothepublicorto
+27 property.
+28 V. Any person aggrieved by a disciplinary action imposed under this section may appeal the
+29 decision to the department of safety bureau of hearings and thereafter to the superior court in
+30 accordancewithRSA106-B:31,XIV.
+31 14 New Section; License Suspension; Failure to Pay Fines and Fees. Amend RSA 263 by
+32 insertingaftersection56-gthefollowingnewsection:
+33 263:56-h LicenseSuspensionProhibitedforUnpaidTowingorStorageFees.
+34 I. Under no circumstances shall the director suspend or revoke a driver's license for failure
+35 to pay removal and storage fees for a vehicle towed or stored for any reason. The director is
+36 permitted to not renew a driver's license for failure to pay such fees until such a time as the fees are
+37 paid.
+
+SB617-ASAMENDEDBYTHEHOUSE
+-Page8-
+1 II. A person whose driver's license has been suspended for outstanding vehicle removal or
+2 storage fees and who is otherwise eligible to drive shall have their driver's license reinstated and
+3 shallnotberequiredtopayareinstatementfee. Nolaterthan30daysaftertheeffectivedateofthis
+4 section, the division shall, without requiring a reinstatement fee, reinstate the driver's license or
+5 nonresidentoperatingprivilege.
+6 15 EffectiveDate.
+7 I. Sections1-4ofthisactshalltakeeffectJanuary1,2027.
+8 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B67-ASADBYTEH61.1.16SEBNATretoternadalofmrvetgfmpsadretoterlofadvsbylwe:S.G,Dt2;S.I,Dt7;S.B,Dt1;S.Mt1;R.B,R.3;R.L,R.3;R.K,R.3.M.P,R.3:JDAsblesdsfrdgtgadsefsadrsistoinonhwtocec.Tsblaorstepsadpgtemeofadunofaltofcdtwcsudbytnofsepefrterlofv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B67-ASADBYTEH61.1.1h2EOFNWHnteYrofOrLdToTdTNATretoternadalofmrvetgfmpsadretoterlofadvsbylweeitEdbyteSeadHeofRsinGlCtc1FsfrRladItofMrV.AdRA2atordaf2aRwofFsfrRladII.AlfscdfrterladseofayvecdtoberdbyaadolpttoRA22orRA2aslber,admyrmtv,i,btntldt,detdtoadfmtesefveseadw,teatoftendtoreadsetev,aysetn,adplc.Ifteorororpnlyedtopoftevewstocetersoftefec,teorororp0mypyortotecnofteveanateltotetgadsecst1setereoftev,a,wn[]30dsofte[eoftev]rto2tei,rtinwgarwbytecrofs.Tecrofs3ordeslrwtecmtodeifteaestgstoctah4todewrtecewsr.Iftecrordedstt5hgisn,tehgslbesdbytebuofhswn20dsa6rwbytec,atwhteteetofrladsefsslb7d.Tecrordeslaeordeoftednofteb8ofhswn7dsartehgwsh.NgRA2,ayp9adbyadnoftecrordeurtssnmyalted0totesrctintesemrasttpdinRA2,IIadI.Ifnor1frrwisfdwnte[]3yp,teorororpnlyedt2pnofteveslbeddtohewdalrstorwurtssna3slbelefrtetlatb4I.Ngintssnslptarwoftersoftetgo5oranasmybepdbylsoftssebyactofctj6I.Aytettapnissgavepttotepsoftss7tepnmyreayisfmwntevettaentaptoforastot8v.Tepnmyhdayshi,ortnw,p,leelc9m,lld,crs,e,m,mle,orheksp]
+[DELETED: B67-ASADBYTEHPe2ptofayfsdeurtss.Iffsrnudar[]30d,tepmydeoftei2AdV;PefrRladI.AdRA2,IIaIItordasfI.WraveistdpttoRA2aorRA22teororopnlyedtotepnofteveslbeedtorrsdveareofteaelnbyptofalretgadsec.Ifteoroorpnlyedtopnoftevewstocewrtewstgsfrtgadi,heorsemypyortotecnoft0veanateltotetgadsecstosetereofshv,a1wn[]30dsofte[gadi]rtoftei,rtinwg2h3I.Tehgslbehdbetehdoftelwetaywhe4teadolwocdtevetoberdads,orhsorhrd.I5teetshayhdorhsorhrdedsstgsddntetfrt6rladseoftev,telwetayslreteororo7pnlycgpnfrayatpdtotecntosereoft8v,o,ifpthsntytbnm,ortttevebeiyr9fmi,whteayagfllyoftel03RsfrPtonteTwL.AdRA1,XItordasf1X.Tetwbsslpesepewhaceudltofalr2frtessitpsrdtotetgadseofv,onteldoft3b,adslueshltwnpsc.SePeslntsttefsfrt4ssnrueteresepdindgptonarns.[5lsslrncletwndgterefeinardh6cdbytedtofs74NwS;NeofRttoDeTgadSeC.AdRA22b8igarsn3atefgnws92bNeofRttoDeTgadSeC0I.Tssnslaytoaytwofamrvepdattednofal1etorwntes.Tssnslntaytoaytwcdptto2pepya,mlc,ormlo3I.Aniefrtgorseofamrveslcyietepsf4agtersofshc.Shneslbepdonteieadm5ieanItweasorsecelgtoali]
+[DELETED: B67-ASADBYTEHPe3I.AytgsettfstopetenerdinphIIslbgyofavnadslbefd$0frehv.Rdvsoftssmyberdtotedtofsyfrrwadfrayanadurtel5SeP;UeofTwL.AdRA1,IVtordasfI.TedrofsepewhtealoftecrofsymyarspttoRA5Actwhrtpsoftssnsgfmmqsoftwcsadtrestopeintesepetl,igq,t,admmssfre,retseadreoftdvsadtrc,adclhyadmrv0rdcso[twtkd]e16D;RlofAdV.AdRA18tordasf218D3Intss4I.""msayiledbytetwbswom5pyrdretoasepetwclfrs6I."ydyw"msawridadsyedfrt7vsinesof10psgsw,shasat,let,ors8vebtegcsadf,admgtefgr,pdt9c,c,ororsrdsslntbeudasssfrwhadc0()Atkcshgammgsvewtrgofntlstn51p2()Tma,oracelhofntlstn12i3()Acdwhcyofntlstn50p,asrdbytew4m5()Asewhingdogcnwhacyof50p,asr6bytewhm,orifedwh2w,acdrgof50p7()Amdwtingdogc,whrdlgc8ofntlstn20p,asrdbyteltm,whsycsoratwbro9elc0()Awhcerdassdbytewhm,ingdc1()Ltadarbehsfrtetdv;a2()AlsyetassdintscradctwhU3SsDtofTninr4[]I."mdyw"msawridadsyedf5sytgvswg20psorlsgsw,igprc,p6t,m,slt,adsrv,ttmstefgr]
+[DELETED: B67-ASADBYTEHPe4pdttc,c,ororsrdsslntseasssfrawadc()Ammgsvewtrgofntlstn10p()Ilbmcyofntlstn80p,asrdbytebm()Ilprtforhcprorecwhcyofntltn80p,asrdbytem,adwereofacyadlhcwhtedem()Amdwtwharglgcyofntlstn30p,asrdbytem,whsyc1()Dlrrw2()Tockbsttwlptrgorseoftew;a3()AlsyetassdintscradctwhU4SsDtofTninr5[]I."yv"msamrvecgofacya6tkcsedwhacymdtwbyorbdadttisrda7idaslnrbytem,ddadedfradudintetgo8ryofv,ingdcnadceoftgavebymsofatwb,s,o9wll,adceofrgavebymsofah,w,ort0[]V."kc"msafdveingdcnttmstef1r,pdttc,c,orsrdsslntbeudass2frawhadc3()Ammgsvewtrgofatlt10p4()Asyedcswharponwsadahcltwh5cytohlortwarv6()Atltoe80pdw,asrdbytewhm,whatlt57ftofc,asrdbytewhm;a8()AlsyetassdintscradctwhU9SsDtofTninr0[]V."wb"msap,e,p,c,L,oro1cnhgardten,anaeNwHetxinn,a2aeNwHew'cniepyorenp,anaeN3Heetsya,adttmsalseadllllr4i,btntldt,terdtoptofbsrdt,f,adi5c,adttryesintei,r,t,orseoftdo6adv,orintedlofadv]
+[DELETED: B67-ASADBYTEHPe5[]V."wl"msaltorlsofqdNwHebscdbtednofsepeadudbytmtodhwsadryadrdsvstot,r,adtyseavewnteo,d,ororprefrteveisntptorwstoheteverdadesnceorpeofasctwb,orwnpcsyrstelweolinceattesetocrtevefmtelnb,inhsorhrso,teveiscgapchdorsyieoriss,u,wsiinac,orisinvnofasettrsier[]V."esea"msaseydoredbgwe0qdtwbsksorsstdoridv1[]I.""frpsoftscradetwetectc2iso,msatwt,rdsev,orcradryveudb3twbsontesepetwl47UeofTwL.AdRA1,Xtordasf5X.Atwbsmyteortysdisdnasas6pradberdfmternltbypgptwnnetosep7[.Inteetofuncsshasd,f,b,orl8ofetfmatorf,atwbsontetwltsltynyted9ofsepeinwgofisittosdisdnasasep.Ifadwni0dstorntos,shtwcyslsdanwantoted.I1adtoreo,tyslbepdattebmofternl28UeofTwL.AdRA1,XVtordasf3X.Atwbsslnts,a,t,p,s,e,ord4ofispeonternl.Byagtobepdontel,atwbsastor5toalsepecs24hsad,7dsaw.Iffrayrntebsctr6toac,itrstotebmoftel.Bsttdpapnofnet7csorfltomtteretsodinRA10mybesttor8fmternltorasodinRA199RsfrPtonteTwL.AdRA1,IItordasf0I.Tetwbsslpeasptofisanaltofal[wtko1p]e,igfln,cta,deadpeofb,dsl2nradt,adayr,adleend,adslsyn3Teanslbeudwhtesepe[]wn5dsofwr4nweeish,oraneelsteeyofteb5I.Teanslieanilfmadbytedrofsep6freh[wtko]eeadfrteoradmroftebsada7s,lgurpyofunfntrfln,deadpeofb]
+[DELETED: B67-ASADBYTEHPe6drlenradteadayrsorl,adalgofalmrvoecsintsorayorseorCnpeigt,c,adyritepg5y,adaltofayclcsintsorayorseorCpewntept10y,igteofo,yrofc,c,adsi,adwrtepniscyonpnorpeorhserbnarsxororsttoadcvepeo.Ngintsphsrtteerorsepeinceofdtfmvgteintharckorc10RsfrPtonteTwL.AdRA1,Vtordasf0V.Ifan[]ilis[db]aneeofmetnoeldt1c,ehcyslmnanitadsedrfeonshi2Wn[ad,m,ors]aneecsetattebsoran3sheeish,tecyslnytesepedrinwgwn10d4adieacyofteanigacyoftefmddinphI.Its5beteryofteortomnaersofdgtssgf6cewhalael,r,adr711RsfrPtonteTwL.AdRA1,VItordasf8V.Wsddslaeattesewn30msofbgc,e9frcswetetld,pds,ortcadwrcsadveo0tcmetsu.Frhydycstecyslrdwnam1of60msrsofteteofd.Ifteteesteaeltadtetwb2dsntpesepecsortetrinceattesewhav3rnfrtedywnttt,asdrnwrmybed.Ifas4wrisrdbetealofteiyddrnw,tei5rdwrslfttecladleteits.Rdtsmyr6insnorrlfmternltorayordyanasodi7RA1.Ngayorpnofl,fritcsr8topch,s,orw,tedrmyorteiesnoft9twbsattrd,adwtah.Ayshsnslb0sttotehgrsadtsstfhinRA5,I112RstoRnonteTwL.AdRA1,XItordasf2X.Setsorordddtofsyplmybeada3tednoftesepedrtoctrsfmtetoteoftgb4trr,adettoeecewhrtrsadlsadme5r[thtesepecsc]totedrastotel6ofceadayaea.Twbspgintetwltslm7dgnlbsh,trr,v,f,adetaef]
+[DELETED: B67-ASADBYTEHPe7enfrshrsbytsorordtofsye.Incsofnc,tesepe[sc]slrdaeantted,whmyieavlorwnr,s,orrnfcdpnintergl.Shanisdyadslbebdontneadssoftedyadayprrdofteb13CeA;DyE.RA14isrdadrdtrdasf14CeA;DyEI.Pnintesepetwltisapeadntar.Tedroft0dnofsepeslartesepetwltadsleettt1s,reeys,adverypdattednorrto2tednofsepeaecdincewhselwadrsadptt3RA5,adinamrttpspcsyadmsteceoft4mgp5I.Tedrmytedyanunaf,sdbys6e,ttatwbsortwbseehsv7()TepsofRA19thRA1;o8()Ayreadpttotss9I.Dyasadurtssnmyi0()Avlorwnw1()Snofatwb,atwbse,orb,fmpni2tesepetwltfrapdnttoed2y;o3()Rlfmtesepetwl.Twbsttaerdaee4torytotesepetwltarapdofntlstn2y5I.Indgteaedya,tedrslcrt6ssoftev,ayprhyofv,adayrghmtotepcort7p8V.Aypnadbyadyanidurtssnmyalt9dntotedtofsybuofhsadtrtotesrcti0aewhRA1,X114NwS;LeS;FetoPyFsadF.AdRA23b2igarsn5gtefgnws32hLeSnPdfrUdTgorSeF4I.Urnocssltedrsdorreadslefrf5topyrladsefsfravetdorsdfrayr.Tedri6pdtontrwadslefrfetopyshfsulshateastefsa7p]
+[DELETED: B67-ASADBYTEHPe8I.Apnwedslehsbnsdfrogverlosefsadwoisoeeetodeslhetrdslerdaslntberdtopyartf.Nolrtn30dsarteeedeofts,tedns,wtrgartf,retedsleontogp15EeDI.Ss14oftsatslteetJy1,2I.Terroftsatslteet60dsarisp]

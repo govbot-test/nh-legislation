@@ -1,0 +1,193 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB460-FN-ASAMENDEDBYTHEHOUSE
+23Apr2026...1286h
+2026SESSION
+26-2225
+09/06
+460-FN
+ANACT prohibiting tier III criminal offenders from being present in designated child
+safetyzonesabsentalegitimatepurpose.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Gannon, Dist 23; Sen. Birdsell,
+Dist 19; Sen. Altschiller, Dist 24; Rep. Lynn, Rock. 17; Rep. Perez, Rock. 16; Rep.
+Kuttab,Rock.17;Rep.Rhodes,Ches.17;Rep.Roy,Rock.31
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill makes it a class B felony for tier III registered offenders to be present in certain
+designated child safety zones, and makes it an affirmative defense that the offender was there for a
+legitimatepurpose.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB460-FN-ASAMENDEDBYTHEHOUSE
+23Apr2026...1286h 26-2225
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting tier III criminal offenders from being present in designated child
+safetyzonesabsentalegitimatepurpose.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Registration of Criminal Offenders; Child Safety Zones. Amend RSA 651-B by
+2 insertingaftersection12thefollowingnewsection:
+3 651-B:13 ChildSafetyZones;ProhibitedPresence.
+4 I. No person who is required to register as a tier III offender under this chapter, as a result
+5 of an offense where the victim was under 18 years of age, shall knowingly go in, on, or within 500
+6 feetofachildsafetyzone.
+7 II. Distance shall be measured in a straight line from the outer property boundary of the
+8 childsafetyzonetotheperson.
+9 III. Inthissection,"childsafetyzone"meansthepremisesofanyofthefollowing:
+10 (a) Apublicorprivateelementaryorsecondaryschool.
+11 (b) Alicensedchildcarefacilityordaycarecenter.
+12 (c) Apublicpark,playground,orpublicswimmingpool.
+13 (d) Adesignatedschoolbusstopcurrentlyinusebyaschooldistrict.
+14 IV. It is an affirmative defense to prosecution if the person was within the child safety zone
+15 foralegitimatepurpose,including:
+16 (a) Transportingtheirownlegalchildtoorfromthefacility.
+17 (b) Participatinginaconstitutionallyprotectedactivity,suchasvoting.
+18 (c) Direct travel to or from their place of residence, or place of employment, if such was
+19 establishedpriortotheeffectivedateofthissection.
+20 V. Evidence that the person has received written notice of these prohibitions during
+21 registration, or that the zone was marked with signage or otherwise open and obvious, shall be
+22 primafacieevidencethatthepersonactedknowingly.
+23 VI. AviolationofthissectionisaclassBfelony.
+24 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2225
+10/14/25
+SB460-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofloiteringorprowling.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B4N-ASADBYTEH.16SEBNATpgtrIIclosfmbgptinddcyzsatalep:S.R,Dt9;S.W,Dt4;S.G,Dt2;S.Bt1;S.A,Dt2;R.L,R.1;R.P,R.1;R,R.1;R.R,C.1;R.R,R.3:JDAsblmsitacsBfyfrtrIIrdostobeptincdcdsyz,admsitanaedettteorwstefrep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASADBYTEH.1h2EOFNWHnteYrofOrLdToTdTNATpgtrIIclosfmbgptinddcyzsatalepeitEdbyteSeadHeofRsinGlCtc1NwS;RnofClO;CdSyZ.AdRA6Bbigarsn12tefgnws63CdSyZ;PdPI.NopnwoisrdtorrasatrIIorurtsc,asarofanoewetevmwsur18ysofa,slkygoi,o,orwn5ftofacdsyzI.DeslbemdinastlefmteorpybyoftcdsyzetotepI.Intss,"dsyz"mstepsofayoftef0()Apcorpeeyorsys1()Aldcdcefyordycec2()Apcp,p,orpcsgp3()Addslbsspcyinuebyasld4I.Itisanaedetopniftepnwswntecdsyz5fralep,i6()Tgtronllcdtoorfmtef7()Pginacypda,shasv8()Dttltoorfmtrpeofr,orpeofe,ifshw9edprtoteeedeoftss0V.Eetttepnhsrdwnneoftepsd1r,ortttezewsmdwhseoroeonado,slb2pafeeetttepnadk3V.AvnoftssnisacsBf42EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretoteoeoflgorpLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB460-FN-ASAMENDEDBYTHEHOUSE
+23Apr2026...1286h
+2026SESSION
+26-2225
+09/06
+460-FN
+SENATEBILL
+ANACT prohibiting tier III criminal offenders from being present in designated child
+safetyzonesabsentalegitimatepurpose.
+SPONSORS: Sen. Ricciardi, Dist 9; Sen. Watters, Dist 4; Sen. Gannon, Dist 23; Sen. Birdsell,
+Dist 19; Sen. Altschiller, Dist 24; Rep. Lynn, Rock. 17; Rep. Perez, Rock. 16; Rep.
+Kuttab,Rock.17;Rep.Rhodes,Ches.17;Rep.Roy,Rock.31
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill makes it a class B felony for tier III registered offenders to be present in certain
+designated child safety zones, and makes it an affirmative defense that the offender was there for a
+legitimatepurpose.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB460-FN-ASAMENDEDBYTHEHOUSE
+23Apr2026...1286h 26-2225
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting tier III criminal offenders from being present in designated child
+safetyzonesabsentalegitimatepurpose.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Registration of Criminal Offenders; Child Safety Zones. Amend RSA 651-B by
+2 insertingaftersection12thefollowingnewsection:
+3 651-B:13 ChildSafetyZones;ProhibitedPresence.
+4 I. No person who is required to register as a tier III offender under this chapter, as a result
+5 of an offense where the victim was under 18 years of age, shall knowingly go in, on, or within 500
+6 feetofachildsafetyzone.
+7 II. Distance shall be measured in a straight line from the outer property boundary of the
+8 childsafetyzonetotheperson.
+9 III. Inthissection,"childsafetyzone"meansthepremisesofanyofthefollowing:
+10 (a) Apublicorprivateelementaryorsecondaryschool.
+11 (b) Alicensedchildcarefacilityordaycarecenter.
+12 (c) Apublicpark,playground,orpublicswimmingpool.
+13 (d) Adesignatedschoolbusstopcurrentlyinusebyaschooldistrict.
+14 IV. It is an affirmative defense to prosecution if the person was within the child safety zone
+15 foralegitimatepurpose,including:
+16 (a) Transportingtheirownlegalchildtoorfromthefacility.
+17 (b) Participatinginaconstitutionallyprotectedactivity,suchasvoting.
+18 (c) Direct travel to or from their place of residence, or place of employment, if such was
+19 establishedpriortotheeffectivedateofthissection.
+20 V. Evidence that the person has received written notice of these prohibitions during
+21 registration, or that the zone was marked with signage or otherwise open and obvious, shall be
+22 primafacieevidencethatthepersonactedknowingly.
+23 VI. AviolationofthissectionisaclassBfelony.
+24 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2225
+10/14/25
+SB460-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheoffenseofloiteringorprowling.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B4N-ASADBYTEH.16SEBNATpgtrIIclosfmbgptinddcyzsatalep:S.R,Dt9;S.W,Dt4;S.G,Dt2;S.Bt1;S.A,Dt2;R.L,R.1;R.P,R.1;R,R.1;R.R,C.1;R.R,R.3:JDAsblmsitacsBfyfrtrIIrdostobeptincdcdsyz,admsitanaedettteorwstefrep-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASADBYTEH.1h2EOFNWHnteYrofOrLdToTdTNATpgtrIIclosfmbgptinddcyzsatalepeitEdbyteSeadHeofRsinGlCtc1NwS;RnofClO;CdSyZ.AdRA6Bbigarsn12tefgnws63CdSyZ;PdPI.NopnwoisrdtorrasatrIIorurtsc,asarofanoewetevmwsur18ysofa,slkygoi,o,orwn5ftofacdsyzI.DeslbemdinastlefmteorpybyoftcdsyzetotepI.Intss,"dsyz"mstepsofayoftef0()Apcorpeeyorsys1()Aldcdcefyordycec2()Apcp,p,orpcsgp3()Addslbsspcyinuebyasld4I.Itisanaedetopniftepnwswntecdsyz5fralep,i6()Tgtronllcdtoorfmtef7()Pginacypda,shasv8()Dttltoorfmtrpeofr,orpeofe,ifshw9edprtoteeedeoftss0V.Eetttepnhsrdwnneoftepsd1r,ortttezewsmdwhseoroeonado,slb2pafeeetttepnadk3V.AvnoftssnisacsBf42EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretoteoeoflgorpLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

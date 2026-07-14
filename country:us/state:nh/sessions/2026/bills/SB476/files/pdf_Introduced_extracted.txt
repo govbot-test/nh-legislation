@@ -1,0 +1,359 @@
+Title: SENATEBILL 476
+Official Title: SENATEBILL 476
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB476 -ASINTRODUCED
+2026SESSION
+26-2035
+05/08
+ANACT relativetoconsumerhealthcarecosttransparency.
+SPONSORS: Sen. McGough, Dist 11; Sen. Gannon, Dist 23; Sen. Rosenwald, Dist 13; Sen.
+Birdsell,Dist19;Sen.Innis,Dist7;Sen.Pearl,Dist17;Rep.Miles,Hills.12;Rep.
+W.MacDonald,Rock.16;Rep.Ammon,Hills.42;Rep.Kuttab,Rock.17
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Aligns state hospital transparency obligations with federal requirements and provides a good-
+faithestimatesafeharbor.
+II. Requires health insurers to provide member-specific, pre-service out-of-pocket estimates
+through their existing federal Transparency in Coverage tools and secure APIs that can be accessed
+throughthestate’sHealthCostportalorenrollee-authorizedapplications.
+III. Expands authorized uses and governance of the comprehensive health care information
+system (CHIS/APCD), clarifies voluntary ERISA plan participation, and directs the insurance
+departmenttouseexistinginfrastructurewithoutbuildingnewstateITsystems.
+IV. Directs the department of health and human services and insurance department to adopt
+administrativerulesregardingimplementationandprovidesforacureperiodbeforeenforcement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB476-ASINTRODUCED
+26-2035
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoconsumerhealthcarecosttransparency.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Hospitals; Price Transparency; Alignment and SafeHarbor. Amend RSA 151 by
+2 insertingaftersection12-cthefollowingnewsection:
+3 151:12-d HospitalPriceTransparency;AlignmentandSafeHarbor.
+4 I. Each hospital shall maintain public transparency files and a patient-friendly shoppable
+5 servicesestimatorinaccordancewithfederalhospitalpricetransparencyrequirements.
+6 II. A hospital that is in good-standing compliance with federal hospital price transparency
+7 requirements and that provides a patient-facing estimator, whether operated by the hospital or its
+8 vendor,isdeemedtosatisfystatetransparencyobligationsunderthissection.
+9 III. Hospitals may, at their option, expose read-only endpoints or deep links enabling the
+10 state’sconsumerportaltodirectpatientstohospitalestimatorsforshoppableservices.
+11 IV. A hospital or ambulatory surgical center that provides an estimate in good faith shall
+12 not be subject to damages or penalties for a variance between the estimate and the final bill where
+13 thevarianceresultsfrom:
+14 (a) Clinicallynecessarychangesinscope;
+15 (b) Factorsoutsidethefacility’scontrol;or
+16 (c) Changesinthepatient’sbenefitsoraccumulatorsaftertheestimateisissued.
+17 V. The safe harbor provided for a good faith estimate under paragraph IV shall not apply to
+18 willfulmisrepresentationordeceptivepractices.
+19 2 New Paragraph; Hospital Price Transparency; Compliance Reporting. Amend RSA 151:12-d
+20 byinsertingafterparagraphVthefollowingnewparagraph:
+21 VI. The department of health and human services shall publish an annual public dashboard
+22 summarizing hospital compliance with this section and federal hospital price transparency
+23 requirements.
+24 3 New Paragraphs; Comprehensive Health Care Information System; Enhancements. Amend
+25 RSA420-G:11-abyinsertingafterparagraphIIthefollowingnewparagraphs:
+26 III. Thecommissionershallmaintainandpromoteastandardizedopt-inmechanismforself-
+27 fundedERISAplanstocontributedatathroughtheirthird-partyadministrators.
+28 IV. Inadditiontoexistinguses,APCDdatamaybeusedto:
+29 (a) Powerthestate’sconsumerportalbylinkingtocarrierestimators;
+30 (b) Display de-identified allowed-amount benchmark ranges for the uninsured and for
+31 out-of-network,non-emergencycare;and
+SB476 -ASINTRODUCED
+-Page2-
+1 (c) Support public reporting on price and quality variation, using risk-adjusted, de-
+2 identifieddata.
+3 V. Data submitters subject to administrative rules adopted under RSA 420-G shall continue
+4 monthly submissions using the state’s current data layouts. The commissioner may align technical
+5 specifications with the most current APCD common data layout to reduce burden and improve
+6 interoperability.
+7 VI. The APCD advisory group established by the commissioner shall include at least one
+8 representative each of: hospitals, carriers, self-funded employers, physicians, consumer advocates,
+9 and small businesses. The group shall adviseonconsumer displaystandards, APIperformance, and
+10 safeguardstominimizeduplicativereporting.
+11 4 New Sections; Insurance; Comprehensive Health Care Information System; Definitions;
+12 HealthCost Consumer Portal; Use of Existing Infrastructure; Rulemaking. Amend RSA 420-G by
+13 insertingaftersection11-athefollowingnewsections:
+14 420-G:11-b DefinitionsforPriceTransparencyandConsumerEstimates. Inthischapter:
+15 I. “All-payer claims database” or “APCD” means the comprehensive health care information
+16 system operated by or for the insurance department in collaboration with the department of health
+17 andhumanservicespursuanttoRSA420-G:11andRSA420-G:11-a.
+18 II. “Carrier”hasthemeaningsetforthinRSA420-G:2.
+19 III. “Consumer price estimate” means a member-specific estimate of allowed charges, plan
+20 liability, and the member’s expected cost-sharing for a shoppable item or service, based on the
+21 member’sbenefitsandaccumulatorsasofthetimetheestimateisproduced.
+22 IV. “Hospital”meansanyentitylicensedunderRSA151.
+23 V. “Shoppableservice” means ahealthcare servicethat canbescheduled inadvanceand for
+24 whichfederalrulesrequirepublic,member-specificestimates.
+25 VI. “Transparency in Coverage (TiC) APIs” means machine-readable files and price-
+26 comparisoninterfacesrequiredofcarriersunderfederallaw.
+27 VII. “Hospital price transparency requirements” means federal requirements for hospital
+28 machine-readablefilesandpatient-friendlyshoppableservicedisplays.
+29 420-G:11-c HealthCostConsumerPortal;UseofExistingInfrastructure.
+30 I. TheinsurancedepartmentshallutilizetheexistingHealthCostpublicwebsiteto:
+31 (a) Explainconsumers’rights;
+32 (b) Routemembersdirectlytotheircarriers’price-comparisontools;
+33 (c) Display non-member-specific benchmark ranges for uninsured consumers derived
+34 fromtheAPCD;and
+35 (d) Hostadirectoryofhospitalestimators.
+36 II. The department shall not build or procure new state-hosted information technology
+37 systemsforestimatecalculationorprice-comparisonfunctions.
+SB476 -ASINTRODUCED
+-Page3-
+1 III. Costs, if any, associated with vendor configuration, portal content updates, or API
+2 routing shall be paid by carriers and third-party administrators subject to RSA 420-J and hospitals
+3 licensed under RSA 151 through vendor-direct contracts or in-kind integration work. No general
+4 fundappropriationorexpenditureisauthorizedbythissection.
+5 IV. The commissioner may accept non-state grants or gifts to support consumer education
+6 under this section, which may be expended without state match and without creating ongoing
+7 obligations.
+8 420-G:11-d Rulemaking. The insurance commissioner shall adopt rules under RSA 541-A to
+9 implement the requirements of RSA 420-G:11-a through 420-G:11-c, limited to harmonizing with
+10 federal formats, setting API access and security standards, specifying consumer-facing disclosures,
+11 and coordinating enforcement to avoid duplication. Rulemaking under this section shall not require
+12 thedepartmentstobuildnewinformationtechnologysystems.
+13 5 New Section; Health Insurance; Member Price Estimates Through Existing Tools. Amend
+14 RSA420-Jbyinsertingaftersection7-ethefollowingnewsection:
+15 420-J:7-f MemberPriceEstimatesThroughExistingTools.
+16 I. Each carrier shall ensure that an enrollee can obtain, without charge, a consumer price
+17 estimateforanyshoppableservice:
+18 (a) Throughthecarrier’sexistingself-serviceinternettool;and
+19 (b) Via secure, standards-based application programming interfaces (APIs) made
+20 available to the state’s consumer portal and to third-party consumer applications authorized by the
+21 enrollee.
+22 II. Eachestimateshallinclude:
+23 (a) Theprovider’sbillingNPIandservicelocation;
+24 (b) Thecarrier’sallowedamount;
+25 (c) Theplan’sexpectedpayment;
+26 (d) The enrollee’s expected out-of-pocket amount reflecting deductibles, copayments, and
+27 coinsuranceaccumulatorsasofthetimeoftherequest;and
+28 (e) A notice that estimates are subject to change if clinical circumstances or benefit
+29 accumulatorschange.
+30 III. Nothing in this section requires the insurance department to build or host new
+31 technology infrastructure. The commissioner shall leverage the existing HealthCost public portal to
+32 routeconsumerstocarriertoolsandAPIsandtodisplayplain-languageguidance.
+33 IV. Compliance with federal transparency in coverage requirements for machine-readable
+34 files and price-comparison tools constitutes prima facie compliance with paragraphs I and II if the
+35 carrier enables API access for the state portal and enrollee-authorized tools and responds to API
+36 querieswithincommerciallyreasonabletimeframes.
+SB476 -ASINTRODUCED
+-Page4-
+1 V. The commissioner shall adopt rules, under RSA 541-A, to specify API access, privacy,
+2 security, and response-time standards that are consistent with federal requirements and do not
+3 imposeduplicativeformatsorsubmissions.
+4 6 New Sections; Health Insurance; Consumer Protections for Estimates. Amend RSA 420-J by
+5 insertingaftersection7-fthefollowingnewsections:
+6 420-J:7-g ConsumerProtectionsforEstimates.
+7 I. Every estimate delivered under RSA 420-J:7-f shall include plain-language disclosures on
+8 potentialvariance,networkstatus,priorauthorization,andfacilityversusprofessionalbilling.
+9 II. Upon a patient’s request for a scheduled, non-emergency service, a provider shall offer
+10 theCPT/HCPCScodesandservicedescriptionusedfortheestimatetofacilitatecomparison.
+11 III. State and federal balance billing and surprise medical billing protections remain in full
+12 forceandareunaffectedbythischapter.
+13 420-J:7-h Enforcement;CureFirst.
+14 I. For carriers, the insurance commissioner may enforce RSA 420-J:7-f and RSA 420-J:7-g
+15 underRSA400-AandRSA420-J. Priortoanyadministrativepenalty,thedepartmentshallprovide
+16 noticeanda60-daycureperiodforfirst-timeortechnicalviolations.
+17 II. The department shall publish an annual public dashboard of carrier compliance with
+18 RSA420-J:7-fthroughRSA420-J:7-h.
+19 7 EffectiveDate.
+20 I. Sections2,5,and6ofthisactshalltakeeffect12monthsafteritspassage.
+21 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+[DELETED: B46-ASI6SEBNATretocrhhcectt:S.M,Dt1;S.G,Dt2;S.R,Dt1;S,Dt1;S.I,Dt7;S.P,Dt1;R.M,H.1;R.M,R.1;R.A,H.4;R.K,R.1:HhadHnSsb.Assehltyoswhflrsadpsagheeseh.Rshhistopem,peotehtregflTyinCetsadseAsttcnbeahtessHtploreda.Esadusadgeoftecehhceim(,csvyEApnp,addsteittoueegiewtbgnwseITs.Dstedtofhhadhnssadiedttoaersrginadpsfracepdbee-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASIEOFNWHnteYrofOrLdToTdTNATretocrhhcectteitEdbyteSeadHeofRsinGlCtc1NwS;H;PeT;AtadSeH.AdRA11bigarsn1ctefgnws1dHlPeT;AtadSeHI.EhhlslmnpctyfsadapyssserinaewhflhlpetyrI.Ahlttisinggcewhflhlpetrsadttpsapge,wrodbytehloriv,isddtosysetyosurtssI.Hsm,attro,eeryesordplsegt0sscrpltodtpstohlesfrses1I.Ahlorayslcrttpsaneeingdfhs2ntbesttodsorpsfravebnteeeadteflblw3teversf4()Cynycsins5()Fsoetefsc;o6()Csintepsbsorasarteeeisi7V.TesehrpdfragdfheeurphIVslntayt8wlmnordep92NwP;HlPeT;CeR.AdRA10byigarphVtefgnwp1V.Tedtofhhadhnssslphanalpcd2sghlcewhtssnadflhlpet3r43NwP;CeHhCeInS;E.A5RA4abyigarphIItefgnwp6I.Tecrslmnadpeasdonmmfrs7fdEApstocedathtrtya8I.Inantoegu,ADdamybeudt9()Prtesscrplbylgtocre0()Dyddatbkrsfrteudadf1o,nyc;a]
+[DELETED: B46-ASIPe2()Stpcrgonpeadqyv,ugr,diddV.DasssttoaersadurRA4Gslcmyssugtessctdal.TecrmyantsswhtemtctADcndalttorebnadiiV.TeADaygpedbytecrslieatltoreeho:h,c,sde,p,craadslb.Tegpslaeoncrdys,AIp,a0sstomeder14NwS;I;CeHhCeInS;D2HtCrP;UeofEgI;R.AdRA4Gb3igarsn1atefgnws44bDsfrPeTyadCrE.Intsc5I.“rcsd”or“”mstecehhcei6smodbyorfrteiedtincnwhtedtofh7adhnsspttoRA41adRA48I.“”hstemgstfhinRA49I.“rpee”msamceeofadc,p0l,adtemsedcgfraseimors,bdont1msbsadasasofteteteeeisp2I.“”msayeyldurRA13V.“es”msahhcesettcnbesdinaeadf4whflrsrep,mce5V.“yinCe()A”msmefsadp6cnisrdofcsurfll7V.“lpetyr”msflrsfrh8mefsadpysesed94cHtCrP;UeofEgI0I.TeiedtslueteegHtpcwet1()Enc’r2()Remsdytotrc’pnt3()Dyncbkrsfrudcsd4fmteA;a5()Htadyofhle6I.Tedtslntbdorpenwsdint7ssfreecnorpnf]
+[DELETED: B46-ASIPe3I.C,ifa,adwhvrc,plctu,orArgslbepdbycsadtyassttoRA4JadhldurRA11thvtcsoridinw.NogfdanoreeisadbytssI.Tecrmyatnegsorgstostcreurtss,whmybeedwtsemhadwtcgoo4dR.TeiecrslatrsurRA5AtittersofRA4ath4,ldtohgw0flf,sgAIasadsys,sgcgd1adcgettoadd.Rgurtssnslntr2tedstobdnwintys35NwS;HhI;MrPeEsThEgT.A4RA4Jbyigarsn7etefgnws54fMrPeEsThEgT6I.Ehcrsleettaneecno,wtc,acrp7eefrayses8()Thtecsegseitt;a9()Vas,sdanpgis()m0aetotesscrpladtotycrasadbyt1e2I.Eheesli3()TepsbgNIadsel4()Tecsada5()Tepsedp6()Teesedotatrgd,c,a7ceasasofteteofter;a8()Anettesaesttoceifclcsorb9asc0I.Ngintssnrsteiedttobdorhtn1tyi.TecrslleteegHtpcplt2recstocrtsadAsadtodypeg3I.Cewhfltyincersfrm4fsadpntscspafecewhpsIadIIift5cresAIasfrtesepladedtsadrstoA6qswncyret]
+[DELETED: B46-ASIPe4V.Tecrslatr,urRA5,tosyAIa,ps,adressttaectwhflrsaddoniedefsors6NwS;HhI;CrPsfrE.AdRA4Jbigarsn7ftefgnws4gCrPsfrEI.EyeeddurRA4fsliepedsoplv,nks,pra,adfyvsplbI.Unapsrtfras,nys,aprslo0teCScsadsednudfrteeetofec1I.Seadflbebgadsemlbgpsrninf2feadaeudbytsc34hE;CeF4I.Frc,teiecrmyeeRA4fadRA45urRA4AadRA4.Prtoayaep,tedtslp6neada6ycepdfrfeortlv7I.Tedtslphanalpcddofcrcew8RA4fthRA497EeD0I.Ss2,5,ad6oftsatslteet12msarisp1I.Terroftsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB476 -ASINTRODUCED
+2026SESSION
+26-2035
+05/08
+SENATEBILL 476
+ANACT relativetoconsumerhealthcarecosttransparency.
+SPONSORS: Sen. McGough, Dist 11; Sen. Gannon, Dist 23; Sen. Rosenwald, Dist 13; Sen.
+Birdsell,Dist19;Sen.Innis,Dist7;Sen.Pearl,Dist17;Rep.Miles,Hills.12;Rep.
+W.MacDonald,Rock.16;Rep.Ammon,Hills.42;Rep.Kuttab,Rock.17
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Aligns state hospital transparency obligations with federal requirements and provides a good-
+faithestimatesafeharbor.
+II. Requires health insurers to provide member-specific, pre-service out-of-pocket estimates
+through their existing federal Transparency in Coverage tools and secure APIs that can be accessed
+throughthestate’sHealthCostportalorenrollee-authorizedapplications.
+III. Expands authorized uses and governance of the comprehensive health care information
+system (CHIS/APCD), clarifies voluntary ERISA plan participation, and directs the insurance
+departmenttouseexistinginfrastructurewithoutbuildingnewstateITsystems.
+IV. Directs the department of health and human services and insurance department to adopt
+administrativerulesregardingimplementationandprovidesforacureperiodbeforeenforcement.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB476-ASINTRODUCED
+26-2035
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoconsumerhealthcarecosttransparency.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Hospitals; Price Transparency; Alignment and SafeHarbor. Amend RSA 151 by
+2 insertingaftersection12-cthefollowingnewsection:
+3 151:12-d HospitalPriceTransparency;AlignmentandSafeHarbor.
+4 I. Each hospital shall maintain public transparency files and a patient-friendly shoppable
+5 servicesestimatorinaccordancewithfederalhospitalpricetransparencyrequirements.
+6 II. A hospital that is in good-standing compliance with federal hospital price transparency
+7 requirements and that provides a patient-facing estimator, whether operated by the hospital or its
+8 vendor,isdeemedtosatisfystatetransparencyobligationsunderthissection.
+9 III. Hospitals may, at their option, expose read-only endpoints or deep links enabling the
+10 state’sconsumerportaltodirectpatientstohospitalestimatorsforshoppableservices.
+11 IV. A hospital or ambulatory surgical center that provides an estimate in good faith shall
+12 not be subject to damages or penalties for a variance between the estimate and the final bill where
+13 thevarianceresultsfrom:
+14 (a) Clinicallynecessarychangesinscope;
+15 (b) Factorsoutsidethefacility’scontrol;or
+16 (c) Changesinthepatient’sbenefitsoraccumulatorsaftertheestimateisissued.
+17 V. The safe harbor provided for a good faith estimate under paragraph IV shall not apply to
+18 willfulmisrepresentationordeceptivepractices.
+19 2 New Paragraph; Hospital Price Transparency; Compliance Reporting. Amend RSA 151:12-d
+20 byinsertingafterparagraphVthefollowingnewparagraph:
+21 VI. The department of health and human services shall publish an annual public dashboard
+22 summarizing hospital compliance with this section and federal hospital price transparency
+23 requirements.
+24 3 New Paragraphs; Comprehensive Health Care Information System; Enhancements. Amend
+25 RSA420-G:11-abyinsertingafterparagraphIIthefollowingnewparagraphs:
+26 III. Thecommissionershallmaintainandpromoteastandardizedopt-inmechanismforself-
+27 fundedERISAplanstocontributedatathroughtheirthird-partyadministrators.
+28 IV. Inadditiontoexistinguses,APCDdatamaybeusedto:
+29 (a) Powerthestate’sconsumerportalbylinkingtocarrierestimators;
+30 (b) Display de-identified allowed-amount benchmark ranges for the uninsured and for
+31 out-of-network,non-emergencycare;and
+
+SB476 -ASINTRODUCED
+-Page2-
+1 (c) Support public reporting on price and quality variation, using risk-adjusted, de-
+2 identifieddata.
+3 V. Data submitters subject to administrative rules adopted under RSA 420-G shall continue
+4 monthly submissions using the state’s current data layouts. The commissioner may align technical
+5 specifications with the most current APCD common data layout to reduce burden and improve
+6 interoperability.
+7 VI. The APCD advisory group established by the commissioner shall include at least one
+8 representative each of: hospitals, carriers, self-funded employers, physicians, consumer advocates,
+9 and small businesses. The group shall adviseonconsumer displaystandards, APIperformance, and
+10 safeguardstominimizeduplicativereporting.
+11 4 New Sections; Insurance; Comprehensive Health Care Information System; Definitions;
+12 HealthCost Consumer Portal; Use of Existing Infrastructure; Rulemaking. Amend RSA 420-G by
+13 insertingaftersection11-athefollowingnewsections:
+14 420-G:11-b DefinitionsforPriceTransparencyandConsumerEstimates. Inthischapter:
+15 I. “All-payer claims database” or “APCD” means the comprehensive health care information
+16 system operated by or for the insurance department in collaboration with the department of health
+17 andhumanservicespursuanttoRSA420-G:11andRSA420-G:11-a.
+18 II. “Carrier”hasthemeaningsetforthinRSA420-G:2.
+19 III. “Consumer price estimate” means a member-specific estimate of allowed charges, plan
+20 liability, and the member’s expected cost-sharing for a shoppable item or service, based on the
+21 member’sbenefitsandaccumulatorsasofthetimetheestimateisproduced.
+22 IV. “Hospital”meansanyentitylicensedunderRSA151.
+23 V. “Shoppableservice” means ahealthcare servicethat canbescheduled inadvanceand for
+24 whichfederalrulesrequirepublic,member-specificestimates.
+25 VI. “Transparency in Coverage (TiC) APIs” means machine-readable files and price-
+26 comparisoninterfacesrequiredofcarriersunderfederallaw.
+27 VII. “Hospital price transparency requirements” means federal requirements for hospital
+28 machine-readablefilesandpatient-friendlyshoppableservicedisplays.
+29 420-G:11-c HealthCostConsumerPortal;UseofExistingInfrastructure.
+30 I. TheinsurancedepartmentshallutilizetheexistingHealthCostpublicwebsiteto:
+31 (a) Explainconsumers’rights;
+32 (b) Routemembersdirectlytotheircarriers’price-comparisontools;
+33 (c) Display non-member-specific benchmark ranges for uninsured consumers derived
+34 fromtheAPCD;and
+35 (d) Hostadirectoryofhospitalestimators.
+36 II. The department shall not build or procure new state-hosted information technology
+37 systemsforestimatecalculationorprice-comparisonfunctions.
+
+SB476 -ASINTRODUCED
+-Page3-
+1 III. Costs, if any, associated with vendor configuration, portal content updates, or API
+2 routing shall be paid by carriers and third-party administrators subject to RSA 420-J and hospitals
+3 licensed under RSA 151 through vendor-direct contracts or in-kind integration work. No general
+4 fundappropriationorexpenditureisauthorizedbythissection.
+5 IV. The commissioner may accept non-state grants or gifts to support consumer education
+6 under this section, which may be expended without state match and without creating ongoing
+7 obligations.
+8 420-G:11-d Rulemaking. The insurance commissioner shall adopt rules under RSA 541-A to
+9 implement the requirements of RSA 420-G:11-a through 420-G:11-c, limited to harmonizing with
+10 federal formats, setting API access and security standards, specifying consumer-facing disclosures,
+11 and coordinating enforcement to avoid duplication. Rulemaking under this section shall not require
+12 thedepartmentstobuildnewinformationtechnologysystems.
+13 5 New Section; Health Insurance; Member Price Estimates Through Existing Tools. Amend
+14 RSA420-Jbyinsertingaftersection7-ethefollowingnewsection:
+15 420-J:7-f MemberPriceEstimatesThroughExistingTools.
+16 I. Each carrier shall ensure that an enrollee can obtain, without charge, a consumer price
+17 estimateforanyshoppableservice:
+18 (a) Throughthecarrier’sexistingself-serviceinternettool;and
+19 (b) Via secure, standards-based application programming interfaces (APIs) made
+20 available to the state’s consumer portal and to third-party consumer applications authorized by the
+21 enrollee.
+22 II. Eachestimateshallinclude:
+23 (a) Theprovider’sbillingNPIandservicelocation;
+24 (b) Thecarrier’sallowedamount;
+25 (c) Theplan’sexpectedpayment;
+26 (d) The enrollee’s expected out-of-pocket amount reflecting deductibles, copayments, and
+27 coinsuranceaccumulatorsasofthetimeoftherequest;and
+28 (e) A notice that estimates are subject to change if clinical circumstances or benefit
+29 accumulatorschange.
+30 III. Nothing in this section requires the insurance department to build or host new
+31 technology infrastructure. The commissioner shall leverage the existing HealthCost public portal to
+32 routeconsumerstocarriertoolsandAPIsandtodisplayplain-languageguidance.
+33 IV. Compliance with federal transparency in coverage requirements for machine-readable
+34 files and price-comparison tools constitutes prima facie compliance with paragraphs I and II if the
+35 carrier enables API access for the state portal and enrollee-authorized tools and responds to API
+36 querieswithincommerciallyreasonabletimeframes.
+
+SB476 -ASINTRODUCED
+-Page4-
+1 V. The commissioner shall adopt rules, under RSA 541-A, to specify API access, privacy,
+2 security, and response-time standards that are consistent with federal requirements and do not
+3 imposeduplicativeformatsorsubmissions.
+4 6 New Sections; Health Insurance; Consumer Protections for Estimates. Amend RSA 420-J by
+5 insertingaftersection7-fthefollowingnewsections:
+6 420-J:7-g ConsumerProtectionsforEstimates.
+7 I. Every estimate delivered under RSA 420-J:7-f shall include plain-language disclosures on
+8 potentialvariance,networkstatus,priorauthorization,andfacilityversusprofessionalbilling.
+9 II. Upon a patient’s request for a scheduled, non-emergency service, a provider shall offer
+10 theCPT/HCPCScodesandservicedescriptionusedfortheestimatetofacilitatecomparison.
+11 III. State and federal balance billing and surprise medical billing protections remain in full
+12 forceandareunaffectedbythischapter.
+13 420-J:7-h Enforcement;CureFirst.
+14 I. For carriers, the insurance commissioner may enforce RSA 420-J:7-f and RSA 420-J:7-g
+15 underRSA400-AandRSA420-J. Priortoanyadministrativepenalty,thedepartmentshallprovide
+16 noticeanda60-daycureperiodforfirst-timeortechnicalviolations.
+17 II. The department shall publish an annual public dashboard of carrier compliance with
+18 RSA420-J:7-fthroughRSA420-J:7-h.
+19 7 EffectiveDate.
+20 I. Sections2,5,and6ofthisactshalltakeeffect12monthsafteritspassage.
+21 II. Theremainderofthisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B46-ASI6SEBNATretocrhhcectt:S.M,Dt1;S.G,Dt2;S.R,Dt1;S,Dt1;S.I,Dt7;S.P,Dt1;R.M,H.1;R.M,R.1;R.A,H.4;R.K,R.1:HhadHnSsb.Assehltyoswhflrsadpsagheeseh.Rshhistopem,peotehtregflTyinCetsadseAsttcnbeahtessHtploreda.Esadusadgeoftecehhceim(,csvyEApnp,addsteittoueegiewtbgnwseITs.Dstedtofhhadhnssadiedttoaersrginadpsfracepdbee-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASIEOFNWHnteYrofOrLdToTdTNATretocrhhcectteitEdbyteSeadHeofRsinGlCtc1NwS;H;PeT;AtadSeH.AdRA11bigarsn1ctefgnws1dHlPeT;AtadSeHI.EhhlslmnpctyfsadapyssserinaewhflhlpetyrI.Ahlttisinggcewhflhlpetrsadttpsapge,wrodbytehloriv,isddtosysetyosurtssI.Hsm,attro,eeryesordplsegt0sscrpltodtpstohlesfrses1I.Ahlorayslcrttpsaneeingdfhs2ntbesttodsorpsfravebnteeeadteflblw3teversf4()Cynycsins5()Fsoetefsc;o6()Csintepsbsorasarteeeisi7V.TesehrpdfragdfheeurphIVslntayt8wlmnordep92NwP;HlPeT;CeR.AdRA10byigarphVtefgnwp1V.Tedtofhhadhnssslphanalpcd2sghlcewhtssnadflhlpet3r43NwP;CeHhCeInS;E.A5RA4abyigarphIItefgnwp6I.Tecrslmnadpeasdonmmfrs7fdEApstocedathtrtya8I.Inantoegu,ADdamybeudt9()Prtesscrplbylgtocre0()Dyddatbkrsfrteudadf1o,nyc;a]
+[DELETED: B46-ASIPe2()Stpcrgonpeadqyv,ugr,diddV.DasssttoaersadurRA4Gslcmyssugtessctdal.TecrmyantsswhtemtctADcndalttorebnadiiV.TeADaygpedbytecrslieatltoreeho:h,c,sde,p,craadslb.Tegpslaeoncrdys,AIp,a0sstomeder14NwS;I;CeHhCeInS;D2HtCrP;UeofEgI;R.AdRA4Gb3igarsn1atefgnws44bDsfrPeTyadCrE.Intsc5I.“rcsd”or“”mstecehhcei6smodbyorfrteiedtincnwhtedtofh7adhnsspttoRA41adRA48I.“”hstemgstfhinRA49I.“rpee”msamceeofadc,p0l,adtemsedcgfraseimors,bdont1msbsadasasofteteteeeisp2I.“”msayeyldurRA13V.“es”msahhcesettcnbesdinaeadf4whflrsrep,mce5V.“yinCe()A”msmefsadp6cnisrdofcsurfll7V.“lpetyr”msflrsfrh8mefsadpysesed94cHtCrP;UeofEgI0I.TeiedtslueteegHtpcwet1()Enc’r2()Remsdytotrc’pnt3()Dyncbkrsfrudcsd4fmteA;a5()Htadyofhle6I.Tedtslntbdorpenwsdint7ssfreecnorpnf]
+[DELETED: B46-ASIPe3I.C,ifa,adwhvrc,plctu,orArgslbepdbycsadtyassttoRA4JadhldurRA11thvtcsoridinw.NogfdanoreeisadbytssI.Tecrmyatnegsorgstostcreurtss,whmybeedwtsemhadwtcgoo4dR.TeiecrslatrsurRA5AtittersofRA4ath4,ldtohgw0flf,sgAIasadsys,sgcgd1adcgettoadd.Rgurtssnslntr2tedstobdnwintys35NwS;HhI;MrPeEsThEgT.A4RA4Jbyigarsn7etefgnws54fMrPeEsThEgT6I.Ehcrsleettaneecno,wtc,acrp7eefrayses8()Thtecsegseitt;a9()Vas,sdanpgis()m0aetotesscrpladtotycrasadbyt1e2I.Eheesli3()TepsbgNIadsel4()Tecsada5()Tepsedp6()Teesedotatrgd,c,a7ceasasofteteofter;a8()Anettesaesttoceifclcsorb9asc0I.Ngintssnrsteiedttobdorhtn1tyi.TecrslleteegHtpcplt2recstocrtsadAsadtodypeg3I.Cewhfltyincersfrm4fsadpntscspafecewhpsIadIIift5cresAIasfrtesepladedtsadrstoA6qswncyret]
+[DELETED: B46-ASIPe4V.Tecrslatr,urRA5,tosyAIa,ps,adressttaectwhflrsaddoniedefsors6NwS;HhI;CrPsfrE.AdRA4Jbigarsn7ftefgnws4gCrPsfrEI.EyeeddurRA4fsliepedsoplv,nks,pra,adfyvsplbI.Unapsrtfras,nys,aprslo0teCScsadsednudfrteeetofec1I.Seadflbebgadsemlbgpsrninf2feadaeudbytsc34hE;CeF4I.Frc,teiecrmyeeRA4fadRA45urRA4AadRA4.Prtoayaep,tedtslp6neada6ycepdfrfeortlv7I.Tedtslphanalpcddofcrcew8RA4fthRA497EeD0I.Ss2,5,ad6oftsatslteet12msarisp1I.Terroftsatslteet60dsarisp]

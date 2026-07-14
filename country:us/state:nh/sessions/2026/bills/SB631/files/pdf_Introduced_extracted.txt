@@ -1,0 +1,139 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB631-FN-ASINTRODUCED
+2026SESSION
+26-2221
+06/05
+631-FN
+ANACT installingasoundbarrieronInterstate93southbound.
+SPONSORS: Sen. Carson, Dist 14; Rep. Packard, Rock. 16; Rep. Lundgren, Rock. 16; Rep. W.
+MacDonald,Rock.16
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of transportation to install sound barriers along the southbound
+sideofInterstate93,betweenPillsburyRoadandtheExit4Southboundoff-ramp.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB631-FN-ASINTRODUCED
+26-2221
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT installingasoundbarrieronInterstate93southbound.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Transportation; I-93 Southbound Installation of Sound Barriers. The
+2 department of transportation shall install sound barriers beginning at Pillsbury Road in
+3 Londonderry, New Hampshire and running south along the west side of Interstate 93 bordering the
+4 Woodmont Development property line for a distance of approximately 1,845 feet to the Route 102
+5 exitramp(Exit4)uptothestonecutcliffalongtheexitramp.
+6 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+LBA
+26-2221
+Revised1/7/26
+SB631-FN-FISCALNOTE
+ASINTRODUCED
+ANACT installingasoundbarrieronInterstate93southbound.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 $8,071,875 $0
+FundingSource(s) HighwayFund,FederalFunds
+$0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill would require the Department of Transportation to construct sound barriers along the
+I-93 southbound side between the Pillsbury Road and the I-93 Exit 4 southbound off-ramp. The
+Departmentstatesthebarriersareexpectedtobeabout1,845feetlongand25feethigh,totaling
+roughly 46,125 square feet, at an estimated cost of $8,071,875, based on an estimated cost of
+$175 per square foot. The Department states federal funding could only be used if the project
+meets state noise policy requirements, otherwise it would need full state or alternative funding.
+If federal eligibility is confirmed and the bill is enacted, the project would displace another
+project,orprojects,currentlyintheTen-YearTransportationImprovementPlan.
+AGENCIESCONTACTED:
+DepartmentofTransportation
+[DELETED: B6N-ASI6SEBNATigasdbronIe93s:S.C,Dt1;R.P,R.1;R.L,R.1;R.W,R.1:TsbldstedtoftntoilsdbsagteseofIe9,bnPyRdadteEt4Sdo-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATigasdbronIe93seitEdbyteSeadHeofRsinGlCtc1DtofT;I3SdInofSdB.TdtoftnslilsdbsbgatPyRdiL,NwHeadrgshagtewtseofIe93bgtWtDtpylefradeofay15fttoteRe1etrp(t4)uptotesectcfagteetr2EeD.Tsatslteetunisp]
+[DELETED: d1B6-FLNSINATigasdbronIe93sLIsbldsntpefdSeIY26FY27FY28FY20$0$0$eF0$0$5$gSyF,FlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblwdreteDtofTntoctsdbsagt3sdsebntePyRdadteI3Et4sdo.Ttsstebsaeedtobeat15ftlgad25fth,ty45sef,atanedctof$,bdonanedcto5prsef.TeDtssflfgcdoybeudiftepssenepyr,oeitwdndflseoraefffleyiscdadteblise,teptwddea,orp,cyinteTrTnItPSCtofT]
+
+
+================================================================================
+
+Raw Text:
+SB631-FN-ASINTRODUCED
+2026SESSION
+26-2221
+06/05
+631-FN
+SENATEBILL
+ANACT installingasoundbarrieronInterstate93southbound.
+SPONSORS: Sen. Carson, Dist 14; Rep. Packard, Rock. 16; Rep. Lundgren, Rock. 16; Rep. W.
+MacDonald,Rock.16
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of transportation to install sound barriers along the southbound
+sideofInterstate93,betweenPillsburyRoadandtheExit4Southboundoff-ramp.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB631-FN-ASINTRODUCED
+26-2221
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT installingasoundbarrieronInterstate93southbound.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Department of Transportation; I-93 Southbound Installation of Sound Barriers. The
+2 department of transportation shall install sound barriers beginning at Pillsbury Road in
+3 Londonderry, New Hampshire and running south along the west side of Interstate 93 bordering the
+4 Woodmont Development property line for a distance of approximately 1,845 feet to the Route 102
+5 exitramp(Exit4)uptothestonecutcliffalongtheexitramp.
+6 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2221
+Revised1/7/26
+SB631-FN-FISCALNOTE
+ASINTRODUCED
+ANACT installingasoundbarrieronInterstate93southbound.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 $0 $8,071,875 $0
+FundingSource(s) HighwayFund,FederalFunds
+$0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill would require the Department of Transportation to construct sound barriers along the
+I-93 southbound side between the Pillsbury Road and the I-93 Exit 4 southbound off-ramp. The
+Departmentstatesthebarriersareexpectedtobeabout1,845feetlongand25feethigh,totaling
+roughly 46,125 square feet, at an estimated cost of $8,071,875, based on an estimated cost of
+$175 per square foot. The Department states federal funding could only be used if the project
+meets state noise policy requirements, otherwise it would need full state or alternative funding.
+If federal eligibility is confirmed and the bill is enacted, the project would displace another
+project,orprojects,currentlyintheTen-YearTransportationImprovementPlan.
+AGENCIESCONTACTED:
+DepartmentofTransportation
+
+[DELETED: B6N-ASI6SEBNATigasdbronIe93s:S.C,Dt1;R.P,R.1;R.L,R.1;R.W,R.1:TsbldstedtoftntoilsdbsagteseofIe9,bnPyRdadteEt4Sdo-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATigasdbronIe93seitEdbyteSeadHeofRsinGlCtc1DtofT;I3SdInofSdB.TdtoftnslilsdbsbgatPyRdiL,NwHeadrgshagtewtseofIe93bgtWtDtpylefradeofay15fttoteRe1etrp(t4)uptotesectcfagteetr2EeD.Tsatslteetunisp]
+[DELETED: d1B6-FLNSINATigasdbronIe93sLIsbldsntpefdSeIY26FY27FY28FY20$0$0$eF0$0$5$gSyF,FlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblwdreteDtofTntoctsdbsagt3sdsebntePyRdadteI3Et4sdo.Ttsstebsaeedtobeat15ftlgad25fth,ty45sef,atanedctof$,bdonanedcto5prsef.TeDtssflfgcdoybeudiftepssenepyr,oeitwdndflseoraefffleyiscdadteblise,teptwddea,orp,cyinteTrTnItPSCtofT]

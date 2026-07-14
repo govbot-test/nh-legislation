@@ -1,0 +1,76 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB435 -ASINTRODUCED
+2026SESSION
+26-2218
+06/08
+435
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Gannon, Dist 23; Sen. Sullivan, Dist 18; Sen. Birdsell,
+Dist19;Sen.Innis,Dist7;Sen.Murphy,Dist16
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillremovesthehardshiprequirementfromtheauthorizationofzoningvariances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB435-ASINTRODUCED
+26-2218
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. Thefollowingarerepealed:
+2 I. RSA674:33,I(a)(2)(E),relativetohardshiprequirementforvariances.
+3 II. RSA674:33,I(b),relativetohardshiprequirementforvariances.
+4 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B45-ASI6SEBNATretotezgbdofatvec:S.A,Dt2;S.G,Dt2;S.S,Dt1;S.Bt1;S.I,Dt7;S.M,Dt1:EnLwadMlAsblrstehprtfmteanofzgv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B45-ASIEOFNWHnteYrofOrLdToTdTNATretotezgbdofatveceitEdbyteSeadHeofRsinGlCtc1R.TefgaerI.RA6,I,retohprtfrvI.RA6,I,retohprtfrv2EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB435 -ASINTRODUCED
+2026SESSION
+26-2218
+06/08
+435
+SENATEBILL
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Gannon, Dist 23; Sen. Sullivan, Dist 18; Sen. Birdsell,
+Dist19;Sen.Innis,Dist7;Sen.Murphy,Dist16
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillremovesthehardshiprequirementfromtheauthorizationofzoningvariances.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB435-ASINTRODUCED
+26-2218
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. Thefollowingarerepealed:
+2 I. RSA674:33,I(a)(2)(E),relativetohardshiprequirementforvariances.
+3 II. RSA674:33,I(b),relativetohardshiprequirementforvariances.
+4 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B45-ASI6SEBNATretotezgbdofatvec:S.A,Dt2;S.G,Dt2;S.S,Dt1;S.Bt1;S.I,Dt7;S.M,Dt1:EnLwadMlAsblrstehprtfmteanofzgv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B45-ASIEOFNWHnteYrofOrLdToTdTNATretotezgbdofatveceitEdbyteSeadHeofRsinGlCtc1R.TefgaerI.RA6,I,retohprtfrvI.RA6,I,retohprtfrv2EeD.Tsatslteet60dsarisp]

@@ -1,0 +1,344 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0130s
+9Apr2026...1229h
+2026SESSION
+26-2179
+09/06
+620-FN
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Pearl, Dist 17; Sen. Watters, Dist 4; Sen. Fenton, Dist
+10; Sen. Birdsell, Dist 19; Rep. Bernardy, Rock. 36; Rep. M. Pearson, Rock. 34;
+Rep.L.Walsh,Rock.15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies periods of suspension under different circumstances stemming from a refusal
+of consent to testing to determine alcohol concentration. This bill further modifies the penalties for
+aggravateddrivingwhileintoxicated.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0130s
+9Apr2026...1229h 26-2179
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Driving or Operating Under the Influence of Drugs or Liquor; Refusal of Consent. Amend
+2 RSA265-A:14,IthroughIItoreadasfollows:
+3 I. If a person under arrest for any violation or misdemeanor under RSA 265 or RSA 215-A
+4 refuses upon the request of a law enforcement officer, authorized agent, or peace officer to submit to
+5 physical tests or to a test of blood, urine, or breath designated by the law enforcement officer,
+6 authorizedagent,orpeaceofficertoasprovidedinRSA265-A:4,noneshallbegiven,but:
+7 (a) If this is the first refusal with no prior driving or operating while intoxicated or
+8 aggravateddrivingoroperatingwhileintoxicatedconvictions:
+9 (1) The director shall suspend his or her license to drive or nonresident driving
+10 privilegeforaperiodof[180days]9months;or
+11 (2) If the person is a resident without a license or permit to drive a motor vehicle in
+12 thisstate,thedirectorshalldenytothepersontheprivilegetodriveandtheissuanceofalicensefor
+13 aperiodof[180days]9monthsafterthedateoftheallegedviolation.
+14 (b) Ifthepersonhas[apriordrivingoroperatingwhileintoxicatedoraggravateddriving
+15 or operating while intoxicated conviction] one or more prior convictions under RSA 265-A:2, I,
+16 RSA 265-A:3, RSA 630:3, II, or under a reasonably equivalent offense in an out-of-state
+17 jurisdiction as defined in RSA 265-A:18, VI(b) or a prior refusal of consent under this section or
+18 under a reasonably equivalent law in an out-of-state jurisdiction as defined in RSA 265-
+19 A:18,VI(b):
+20 (1) The director shall suspend his or her license to drive or nonresident driving
+21 privilegeforaperiodof[2]3years;or
+22 (2) If the person is a resident without a license or permit to drive a motor vehicle in
+23 thisstate,thedirectorshalldenytothepersontheprivilegetodriveandtheissuanceofalicensefor
+24 aperiodof[2]3yearsafterthedateoftheallegedviolation.
+25 II. Except as provided in paragraph VI, the [180-day] 9-month or [2-year] 3-year
+26 suspension period or denial of issuance period imposed pursuant to this section shall not run
+27 concurrently with any other penalty imposed under the provision of this title. Any such suspension
+28 or denial of a license or privilege to drive shall be imposed in addition to any other penalty provided
+29 bylaw,subjecttoreviewasprovidedinRSA265-A:31.
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 2 New Paragraph; Driving or Operating Under the Influence of Drugs or Liquor; Refusal of
+2 Consent. AmendRSA265-A:14byinsertingafterparagraphVIthefollowingnewparagraph:
+3 VII. In conjunction with a plea of guilty or nolo contendre to an offense resulting in a
+4 conviction under RSA 265-A:2 or RSA 265-A:3, the court may suspend up to 180 days of the license
+5 suspensionimposedpursuanttothissection.
+6 3 Driving or Operating Under the Influence of Drugs or Liquor; Penalties for Intoxication or
+7 UnderInfluenceofDrugsOffenses. AmendtheintroductoryparagraphinRSA265-A:18,I(b)toread
+8 asfollows:
+9 (b) Any person who is convicted of any aggravated DWI offense under RSA 265-A:3,
+10 exceptasprovidedinsubparagraph(c)or(d),shallbe:
+11 4 New Subparagraph; Driving or Operating Under the Influence of Drugs or Liquor; Penalties
+12 for Intoxication or Under Influence of Drugs Offenses. Amend RSA 265-A:18, I by inserting after
+13 subparagraph(c)thefollowingnewsubparagraph:
+14 (d) AnypersonwhoisconvictedofaggravatedDWIunderRSA265-A:3,IIIshallbe:
+15 (1) GuiltyofaclassAmisdemeanor;
+16 (2) Finednotlessthan$750;
+17 (3) Sentenced to a mandatory sentence of not less than 17 consecutive days in the
+18 county correctional facility, all of which may be suspended. The court shall refer the person to an
+19 IDCMP to schedule a full substance use disorder evaluation. A condition of the suspension shall be
+20 that upon release from serving any sentence in the county correctional facility, the person shall
+21 schedule a substance use disorder evaluation within 30 days of release, complete the required
+22 substance use disorder evaluation within 60 days of release, and comply with the service plan
+23 developed. TheIDCMPshalladministerthesubstanceusedisorderevaluationandshalldevelopthe
+24 service plan from that substance use disorder evaluation. Any portion of the suspended sentence to
+25 the county correctional facility may be imposed if the defendant does not comply with all of the
+26 requirements of this subparagraph or becomes non-compliant with the service plan during the
+27 suspensionperiod;
+28 (4) OrderedtoinstallaninterlockdeviceinaccordancewithRSA265-A:36;and
+29 (5) Subjecttothefollowing:
+30 (A) The person's driver's license or privilegetodriveshall berevoked for not less
+31 than 18 months and, at the discretion of the court, such revocation may be extended for a period not
+32 toexceed 2years. Uponconfirmationfrom theIDCMPthat thepersonisinfullcompliancewiththe
+33 service plan, the court may suspend up to 6 months of this sentence, with the condition that an
+34 interlock device be installed for the period of the suspended sentence in addition to any period
+35 requiredinaccordancewithRSA265-A:36andprovidedthatallfeeshavebeenpaid;and
+36 (B) The sentencing court may require the person to submit to random urinalysis
+37 orsuchothertestsasthecourtmaydeemappropriate.
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 5 New Paragraph; Driving or Operating Under the Influence of Drugs or Liquor; Penalties.
+2 AmendRSA265-A:18byinsertingafterparagraphVIIthefollowingnewparagraph:
+3 VII-a. Ifaperson'slicenseorprivilegetodriveisrevokedunderthissection,suchrevocation
+4 shallrunconsecutivelytoanyadministrativesuspensionorrevocationimposedbythedepartmentof
+5 safetypursuanttothischapter.
+6 6 EffectiveDate.ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2179
+04/14/2026
+SB620-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1229h)
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+DepartmentofSafetyIT-$20,000inFY2027
+Expenditures* $0
+CriminalJusticeRelated -Indeterminable
+GeneralFund,Restricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriorto
+fundsbeingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill increases the duration of administrative license suspensions for refusals from the
+current 180 days to 9 months for first refusal, and from the current 2 years to 3 years for
+subsequent refusals. This bill also allows the courts to suspend up to 180 days of the refusal
+suspension in conjunction with a plea to RSA 265-A:2 or RSA 265-A:3. It is also clarified that
+suspensions under 265-A:18 run consecutively to any administrative suspension. The
+Department of Safety states existing Division of Motor Vehicles (DMV) processes would remain
+unchanged under this bill, however, implementing the new statutory duration and judicial
+discretion will require information technology system configuration updates, testing, and
+deploymentwork. TheDepartmentestimatesthistobeaone-timecostinFY2027of$20,000.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+[DELETED: B6N-VNADBYBHB60.16SEBNATretorlofcttotgtodealcnasfraddgwei:S.G,Dt2;S.P,Dt1;S.W,Dt4;S.F,D;S.B,Dt1;R.B,R.3;R.M.P,R.3.L.W,R.1:Jsblmspsofsnurdtcssgfmarfcttotgtodealc.Tsblfrmstepsfddgwei-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-VNADBYBHB60.1h2EOFNWHnteYrofOrLdToTdTNATretorlofcttotgtodealcnasfraddgweieitEdbyteSeadHeofRsinGlCtc1DgorOgUrteIeofDsorL;RlofC.ARA2,IthIItordasfI.IfapnuratfrayvnormrurRA25orRA2rsuntertofalweto,ada,orpeortosttpltsortoattofb,u,orbhddbytelwetoada,orpeortoaspdinRA2,neslbeg,b()Iftsisteftrlwhnoprdgorogweidoaddgorogweidc()Tedrslsdhsorhrletodeorntd0pefrapdof[0d]9m;o1()Iftepnisartwtaleorpttodeamrvei2tss,tedrsldytotepntepetodeadteieofalef3apdof[0d]9msartedeofteadv4()Iftepnhs[aprdgorogweidoradd5orogweidc]oeormeprcsurRA2,I6RA2,RA6,I,oruraryetoeinano7jnasddinRA2,V)oraprrlofcturtssno8uraryetlwinanoejnasddinRA29A,V0()Tedrslsdhsorhrletodeorntd1pefrapdof[]3y;o2()Iftepnisartwtaleorpttodeamrvei3tss,tedrsldytotepntepetodeadteieofalef4apdof[]3ysartedeofteadv5I.EtaspdinphV,te[]9hor[]36snpdordlofiepdidpttotssnslntr7cywhayorpyidurtepnoftst.Ayshs8ordlofaleorpetodeslbeidinantoayorpyp9byl,sttorwaspdinRA2]
+[DELETED: B6N-VNADBYBHBPe22NwP;DgorOgUrteIeofDsorL;RloC.AdRA24byigarphVItefgnwpV.IncnwhapaofgyornocetoanoergincnurRA22orRA2,tectmysdupto10dsoftelsnidpttotss3DgorOgUrteIeofDsorL;PsfrInoUrIeofDsO.AdteiyphinRA2,I)torasf()AypnwoiscdofayadDIoeurRA20etaspdinsh()or(,slb14NwS;DgorOgUrteIeofDsorL;P2frInorUrIeofDsO.AdRA2,Ibyiga3sh()tefgnws4()AypnwoiscdofadDIurRA2,IIslb5()GyofacsAm6()Fdntlstn$7()Sdtoamyseofntlstn17cedsint8cyclf,alofwhmybes.Tectslrrtepntoa9IPtoseaflseuedre.Acnoftesnslb0ttunrefmsgayseintecyclf,tepns1seaseuedrenwn30dsofr,ceter2seuedrenwn60dsofr,adcywhtesep3d.TeIPslarteseuedrenadsldpt4sepnfmttseuedre.Aypnoftesdset5tecyclfymybeidiftedtdsntcywhaloft6rsoftsshorbsntwhtesepndgt7snp8()OdtoilanikdeinaewhRA2;a9()Sttotef0()Tepsdsleorpetodeslberdfrntl1tn18msa,attednoftec,shrnmybeedfrapdn2toed2y.UncnfmteIPtttepnisinflcewht3sep,tectmysdupto6msoftss,whtecntta4ikdebeidfrtepdoftesdseinantoayp5rdinaewhRA26adpdttalfshebnp;a6()Tesgctmyretepntosttormu7orshortsastectmydma]
+[DELETED: B6N-VNADBYBHBPe35NwP;DgorOgUrteIeofDsorL;PAdRA28byigarphVItefgnwpV.Ifapsleorpetodeisrdurtss,shrslrncytoayaesnorrnidbytedtosypttotsc6EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTEHE(T#NATretorlofcttotgtodealcnasfraddgweiLIdSeIY26FY27FY28FY20$0$0$eFtofSyIT-$0inFY2lJeRd-IgSlF,Rd-HyFdCtofCs-Prtec,csadwhtecnoyfdrebyteDtofSyisddprtsbgcdasudhyfdr0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IlR0$0$0$lE0Isblistednofaelessfrrsfmtt10dsto9msfrftr,adfmtect2ysto3ysftr.Tsblaoastecstosdupto10dsofternincnwhapatoRA22orRA2.Itisaocdtsur28rncytoayaes.TtofSyssegDnofMrVs()pswdrdurtsb,h,igtenwsydnadjnwlreintysmcnu,t,atw.TeDteststobeaoectinFY27of$]
+[DELETED: sbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSCtofS,JlB,JlC,DtofJ,Dto,NwHeAnofC,adNwHeM]
+
+
+================================================================================
+
+Raw Text:
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0130s
+9Apr2026...1229h
+2026SESSION
+26-2179
+09/06
+620-FN
+SENATEBILL
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Pearl, Dist 17; Sen. Watters, Dist 4; Sen. Fenton, Dist
+10; Sen. Birdsell, Dist 19; Rep. Bernardy, Rock. 36; Rep. M. Pearson, Rock. 34;
+Rep.L.Walsh,Rock.15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies periods of suspension under different circumstances stemming from a refusal
+of consent to testing to determine alcohol concentration. This bill further modifies the penalties for
+aggravateddrivingwhileintoxicated.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+01/29/2026 0130s
+9Apr2026...1229h 26-2179
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Driving or Operating Under the Influence of Drugs or Liquor; Refusal of Consent. Amend
+2 RSA265-A:14,IthroughIItoreadasfollows:
+3 I. If a person under arrest for any violation or misdemeanor under RSA 265 or RSA 215-A
+4 refuses upon the request of a law enforcement officer, authorized agent, or peace officer to submit to
+5 physical tests or to a test of blood, urine, or breath designated by the law enforcement officer,
+6 authorizedagent,orpeaceofficertoasprovidedinRSA265-A:4,noneshallbegiven,but:
+7 (a) If this is the first refusal with no prior driving or operating while intoxicated or
+8 aggravateddrivingoroperatingwhileintoxicatedconvictions:
+9 (1) The director shall suspend his or her license to drive or nonresident driving
+10 privilegeforaperiodof[180days]9months;or
+11 (2) If the person is a resident without a license or permit to drive a motor vehicle in
+12 thisstate,thedirectorshalldenytothepersontheprivilegetodriveandtheissuanceofalicensefor
+13 aperiodof[180days]9monthsafterthedateoftheallegedviolation.
+14 (b) Ifthepersonhas[apriordrivingoroperatingwhileintoxicatedoraggravateddriving
+15 or operating while intoxicated conviction] one or more prior convictions under RSA 265-A:2, I,
+16 RSA 265-A:3, RSA 630:3, II, or under a reasonably equivalent offense in an out-of-state
+17 jurisdiction as defined in RSA 265-A:18, VI(b) or a prior refusal of consent under this section or
+18 under a reasonably equivalent law in an out-of-state jurisdiction as defined in RSA 265-
+19 A:18,VI(b):
+20 (1) The director shall suspend his or her license to drive or nonresident driving
+21 privilegeforaperiodof[2]3years;or
+22 (2) If the person is a resident without a license or permit to drive a motor vehicle in
+23 thisstate,thedirectorshalldenytothepersontheprivilegetodriveandtheissuanceofalicensefor
+24 aperiodof[2]3yearsafterthedateoftheallegedviolation.
+25 II. Except as provided in paragraph VI, the [180-day] 9-month or [2-year] 3-year
+26 suspension period or denial of issuance period imposed pursuant to this section shall not run
+27 concurrently with any other penalty imposed under the provision of this title. Any such suspension
+28 or denial of a license or privilege to drive shall be imposed in addition to any other penalty provided
+29 bylaw,subjecttoreviewasprovidedinRSA265-A:31.
+
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 2 New Paragraph; Driving or Operating Under the Influence of Drugs or Liquor; Refusal of
+2 Consent. AmendRSA265-A:14byinsertingafterparagraphVIthefollowingnewparagraph:
+3 VII. In conjunction with a plea of guilty or nolo contendre to an offense resulting in a
+4 conviction under RSA 265-A:2 or RSA 265-A:3, the court may suspend up to 180 days of the license
+5 suspensionimposedpursuanttothissection.
+6 3 Driving or Operating Under the Influence of Drugs or Liquor; Penalties for Intoxication or
+7 UnderInfluenceofDrugsOffenses. AmendtheintroductoryparagraphinRSA265-A:18,I(b)toread
+8 asfollows:
+9 (b) Any person who is convicted of any aggravated DWI offense under RSA 265-A:3,
+10 exceptasprovidedinsubparagraph(c)or(d),shallbe:
+11 4 New Subparagraph; Driving or Operating Under the Influence of Drugs or Liquor; Penalties
+12 for Intoxication or Under Influence of Drugs Offenses. Amend RSA 265-A:18, I by inserting after
+13 subparagraph(c)thefollowingnewsubparagraph:
+14 (d) AnypersonwhoisconvictedofaggravatedDWIunderRSA265-A:3,IIIshallbe:
+15 (1) GuiltyofaclassAmisdemeanor;
+16 (2) Finednotlessthan$750;
+17 (3) Sentenced to a mandatory sentence of not less than 17 consecutive days in the
+18 county correctional facility, all of which may be suspended. The court shall refer the person to an
+19 IDCMP to schedule a full substance use disorder evaluation. A condition of the suspension shall be
+20 that upon release from serving any sentence in the county correctional facility, the person shall
+21 schedule a substance use disorder evaluation within 30 days of release, complete the required
+22 substance use disorder evaluation within 60 days of release, and comply with the service plan
+23 developed. TheIDCMPshalladministerthesubstanceusedisorderevaluationandshalldevelopthe
+24 service plan from that substance use disorder evaluation. Any portion of the suspended sentence to
+25 the county correctional facility may be imposed if the defendant does not comply with all of the
+26 requirements of this subparagraph or becomes non-compliant with the service plan during the
+27 suspensionperiod;
+28 (4) OrderedtoinstallaninterlockdeviceinaccordancewithRSA265-A:36;and
+29 (5) Subjecttothefollowing:
+30 (A) The person's driver's license or privilegetodriveshall berevoked for not less
+31 than 18 months and, at the discretion of the court, such revocation may be extended for a period not
+32 toexceed 2years. Uponconfirmationfrom theIDCMPthat thepersonisinfullcompliancewiththe
+33 service plan, the court may suspend up to 6 months of this sentence, with the condition that an
+34 interlock device be installed for the period of the suspended sentence in addition to any period
+35 requiredinaccordancewithRSA265-A:36andprovidedthatallfeeshavebeenpaid;and
+36 (B) The sentencing court may require the person to submit to random urinalysis
+37 orsuchothertestsasthecourtmaydeemappropriate.
+
+SB620-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 5 New Paragraph; Driving or Operating Under the Influence of Drugs or Liquor; Penalties.
+2 AmendRSA265-A:18byinsertingafterparagraphVIIthefollowingnewparagraph:
+3 VII-a. Ifaperson'slicenseorprivilegetodriveisrevokedunderthissection,suchrevocation
+4 shallrunconsecutivelytoanyadministrativesuspensionorrevocationimposedbythedepartmentof
+5 safetypursuanttothischapter.
+6 6 EffectiveDate.ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2179
+04/14/2026
+SB620-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1229h)
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+DepartmentofSafetyIT-$20,000inFY2027
+Expenditures* $0
+CriminalJusticeRelated -Indeterminable
+GeneralFund,Restricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriorto
+fundsbeingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill increases the duration of administrative license suspensions for refusals from the
+current 180 days to 9 months for first refusal, and from the current 2 years to 3 years for
+subsequent refusals. This bill also allows the courts to suspend up to 180 days of the refusal
+suspension in conjunction with a plea to RSA 265-A:2 or RSA 265-A:3. It is also clarified that
+suspensions under 265-A:18 run consecutively to any administrative suspension. The
+Department of Safety states existing Division of Motor Vehicles (DMV) processes would remain
+unchanged under this bill, however, implementing the new statutory duration and judicial
+discretion will require information technology system configuration updates, testing, and
+deploymentwork. TheDepartmentestimatesthistobeaone-timecostinFY2027of$20,000.
+
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+
+[DELETED: B6N-VNADBYBHB60.16SEBNATretorlofcttotgtodealcnasfraddgwei:S.G,Dt2;S.P,Dt1;S.W,Dt4;S.F,D;S.B,Dt1;R.B,R.3;R.M.P,R.3.L.W,R.1:Jsblmspsofsnurdtcssgfmarfcttotgtodealc.Tsblfrmstepsfddgwei-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-VNADBYBHB60.1h2EOFNWHnteYrofOrLdToTdTNATretorlofcttotgtodealcnasfraddgweieitEdbyteSeadHeofRsinGlCtc1DgorOgUrteIeofDsorL;RlofC.ARA2,IthIItordasfI.IfapnuratfrayvnormrurRA25orRA2rsuntertofalweto,ada,orpeortosttpltsortoattofb,u,orbhddbytelwetoada,orpeortoaspdinRA2,neslbeg,b()Iftsisteftrlwhnoprdgorogweidoaddgorogweidc()Tedrslsdhsorhrletodeorntd0pefrapdof[0d]9m;o1()Iftepnisartwtaleorpttodeamrvei2tss,tedrsldytotepntepetodeadteieofalef3apdof[0d]9msartedeofteadv4()Iftepnhs[aprdgorogweidoradd5orogweidc]oeormeprcsurRA2,I6RA2,RA6,I,oruraryetoeinano7jnasddinRA2,V)oraprrlofcturtssno8uraryetlwinanoejnasddinRA29A,V0()Tedrslsdhsorhrletodeorntd1pefrapdof[]3y;o2()Iftepnisartwtaleorpttodeamrvei3tss,tedrsldytotepntepetodeadteieofalef4apdof[]3ysartedeofteadv5I.EtaspdinphV,te[]9hor[]36snpdordlofiepdidpttotssnslntr7cywhayorpyidurtepnoftst.Ayshs8ordlofaleorpetodeslbeidinantoayorpyp9byl,sttorwaspdinRA2]
+[DELETED: B6N-VNADBYBHBPe22NwP;DgorOgUrteIeofDsorL;RloC.AdRA24byigarphVItefgnwpV.IncnwhapaofgyornocetoanoergincnurRA22orRA2,tectmysdupto10dsoftelsnidpttotss3DgorOgUrteIeofDsorL;PsfrInoUrIeofDsO.AdteiyphinRA2,I)torasf()AypnwoiscdofayadDIoeurRA20etaspdinsh()or(,slb14NwS;DgorOgUrteIeofDsorL;P2frInorUrIeofDsO.AdRA2,Ibyiga3sh()tefgnws4()AypnwoiscdofadDIurRA2,IIslb5()GyofacsAm6()Fdntlstn$7()Sdtoamyseofntlstn17cedsint8cyclf,alofwhmybes.Tectslrrtepntoa9IPtoseaflseuedre.Acnoftesnslb0ttunrefmsgayseintecyclf,tepns1seaseuedrenwn30dsofr,ceter2seuedrenwn60dsofr,adcywhtesep3d.TeIPslarteseuedrenadsldpt4sepnfmttseuedre.Aypnoftesdset5tecyclfymybeidiftedtdsntcywhaloft6rsoftsshorbsntwhtesepndgt7snp8()OdtoilanikdeinaewhRA2;a9()Sttotef0()Tepsdsleorpetodeslberdfrntl1tn18msa,attednoftec,shrnmybeedfrapdn2toed2y.UncnfmteIPtttepnisinflcewht3sep,tectmysdupto6msoftss,whtecntta4ikdebeidfrtepdoftesdseinantoayp5rdinaewhRA26adpdttalfshebnp;a6()Tesgctmyretepntosttormu7orshortsastectmydma]
+[DELETED: B6N-VNADBYBHBPe35NwP;DgorOgUrteIeofDsorL;PAdRA28byigarphVItefgnwpV.Ifapsleorpetodeisrdurtss,shrslrncytoayaesnorrnidbytedtosypttotsc6EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTEHE(T#NATretorlofcttotgtodealcnasfraddgweiLIdSeIY26FY27FY28FY20$0$0$eFtofSyIT-$0inFY2lJeRd-IgSlF,Rd-HyFdCtofCs-Prtec,csadwhtecnoyfdrebyteDtofSyisddprtsbgcdasudhyfdr0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IlR0$0$0$lE0Isblistednofaelessfrrsfmtt10dsto9msfrftr,adfmtect2ysto3ysftr.Tsblaoastecstosdupto10dsofternincnwhapatoRA22orRA2.Itisaocdtsur28rncytoayaes.TtofSyssegDnofMrVs()pswdrdurtsb,h,igtenwsydnadjnwlreintysmcnu,t,atw.TeDteststobeaoectinFY27of$]
+[DELETED: sbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSCtofS,JlB,JlC,DtofJ,Dto,NwHeAnofC,adNwHeM]

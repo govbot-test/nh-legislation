@@ -1,0 +1,86 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB413 -ASINTRODUCED
+2026SESSION
+26-2263
+12/09
+413
+ANACT relative to the detention of a minor attaining the age of 18 during the pendency of
+adelinquencyaction.
+SPONSORS: Sen.Sullivan,Dist18;Rep.Rice,Hills.38
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the facility in which alleged delinquent minors may be held in detention
+pending an adjudicatory hearing, permitting alleged delinquent minors to be housed in a county
+correctionsfacilityoncereachingage18.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB413-ASINTRODUCED
+26-2263
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the detention of a minor attaining the age of 18 during the pendency of
+adelinquencyaction.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Delinquent Children; Release or Detention Pending Adjudicatory Hearing. Amend the
+2 introductoryparagraphofRSA169-B:14,I(e)toreadasfollows:
+3 (e) Detained at a facility certified by the commissioner of the department of health and
+4 human services for detention of minors if under age 18, or at a county corrections facility once
+5 reachingage18orolder,pursuanttothefollowing:
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B43-ASI6SEBNATretotednofamragteaeof18dgtepyodya:S.S,Dt1;R.R,H.3:CnadFyLsblmstefyinwhaddtmsmybehdindganayh,pgaddtmstobehdinacsfyoergae1-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B43-ASIEOFNWHnteYrofOrLdToTdTNATretotednofamragteaeof18dgtepyodyaeitEdbyteSeadHeofRsinGlCtc1DtC;ReorDnPgAyH.AdtiyphofRA1,I)tordasf()Ddatafycdbytecroftedtofhhahnssfrdnofmsifurae1,oratacycsfyorgae18oro,pttotef2EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB413 -ASINTRODUCED
+2026SESSION
+26-2263
+12/09
+413
+SENATEBILL
+ANACT relative to the detention of a minor attaining the age of 18 during the pendency of
+adelinquencyaction.
+SPONSORS: Sen.Sullivan,Dist18;Rep.Rice,Hills.38
+COMMITTEE: ChildrenandFamilyLaw
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies the facility in which alleged delinquent minors may be held in detention
+pending an adjudicatory hearing, permitting alleged delinquent minors to be housed in a county
+correctionsfacilityoncereachingage18.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB413-ASINTRODUCED
+26-2263
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the detention of a minor attaining the age of 18 during the pendency of
+adelinquencyaction.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Delinquent Children; Release or Detention Pending Adjudicatory Hearing. Amend the
+2 introductoryparagraphofRSA169-B:14,I(e)toreadasfollows:
+3 (e) Detained at a facility certified by the commissioner of the department of health and
+4 human services for detention of minors if under age 18, or at a county corrections facility once
+5 reachingage18orolder,pursuanttothefollowing:
+6 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B43-ASI6SEBNATretotednofamragteaeof18dgtepyodya:S.S,Dt1;R.R,H.3:CnadFyLsblmstefyinwhaddtmsmybehdindganayh,pgaddtmstobehdinacsfyoergae1-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B43-ASIEOFNWHnteYrofOrLdToTdTNATretotednofamragteaeof18dgtepyodyaeitEdbyteSeadHeofRsinGlCtc1DtC;ReorDnPgAyH.AdtiyphofRA1,I)tordasf()Ddatafycdbytecroftedtofhhahnssfrdnofmsifurae1,oratacycsfyorgae18oro,pttotef2EeD.Tsatslteet60dsarisp]

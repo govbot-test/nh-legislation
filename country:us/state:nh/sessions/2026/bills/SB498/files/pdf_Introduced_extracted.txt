@@ -1,0 +1,718 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SB498-FN-ASINTRODUCED
+2026SESSION
+26-2064
+05/09
+498-FN
+ANACT relative to children's mental health services for persons 18 years of age and
+younger.
+SPONSORS: Sen.Birdsell,Dist19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes theNew Hampshire children's behavioral healthassociationfor the purpose
+of collecting assessments to fund payments to care management entities for the provision of
+childhood behavioral health services. The association is authorized to collect assessments from
+insurance carriers, stop loss carriers, and third-party administrators for fully insured and self-
+funded health plans. The assessment base would include covered lives in the state employee health
+plan, as well as pooled risk management programs under RSA 5-b. The funds provided for this
+purposewouldbedepositedinadedicatedfundadministeredbytheinsurancecommissioner.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB498-FN-ASINTRODUCED
+26-2064
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to children's mental health services for persons 18 years of age and
+younger.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; System of Care for Children's Mental Health; New Hampshire Children's
+2 Behavioral Health Association. Amend RSA 135-F by inserting after section 9 the following new
+3 subdivision:
+4 NewHampshireChildren'sMentalHealthAssociation
+5 135-F:10 Definitions. Inthischapter:
+6 I. "Assessablecoverage"means:
+7 (a) HealthcoverageasdefinedinRSA420-G:2,IX;
+8 (b) Stop loss coverage that conforms with RSA 415-H:3, or other group excess loss
+9 insurance purchased against the risk that any particular claim, or total liability, will exceed a
+10 specifieddollaramount;or
+11 (c) Grouphealthplan,asdefinedby42U.S.C.section300gg-91(a).
+12 II. "Assessableentity"meansany:
+13 (a) Healthmaintenanceorganization,asdefinedbyRSA420-B:1,VI.
+14 (b) Thirdpartyadministrator,asdefinedbyRSA402-H:1,I.
+15 (c) Entity providing administrator services and required to register with the insurance
+16 commissionerunderRSA402-H:11-aorRSA402-H:11-b.
+17 (d) InsurancecompanylicensedpursuanttoRSA401:1,IV.
+18 (e) Healthservicecorporation,asdefinedbyRSA420-A:1,III.
+19 III. "Assessable lives" means all children under 19 years of age residing in the state who
+20 have assessable coverage written or administered by an assessable entity, with the exception of
+21 childrenwhosechildhoodbehavioralhealthservicesarepaidforunderMedicaid.
+22 IV. "Assessment" means the assessable entity's liability with respect to the childhood
+23 behavioral health services determined in accordance with this chapter. For purposes of rate setting
+24 and medical loss ratio calculations, all association assessments are considered pharmaceutical or
+25 medical benefit costs and not regulatory costs. In the event of any insolvency or similar proceeding
+26 affectingany payer, assessments shall be included in the highest priority of obligations tobe paid by
+27 oronbehalfofsuchpayer.
+28 V. "Association"meanstheNewHampshirechildren'sbehavioralhealthassociation.
+29 VI. "Board" means theboard of directors of theNew Hampshirechildren's behavioral health
+30 association.
+SB498-FN-ASINTRODUCED
+-Page2-
+1 VII. "Care management entity" means an organizational entity that serves as a centralized
+2 entitytocoordinateall carefor youthwith complexbehavioral healthchallenges who areinvolved in
+3 multiplesystemsandtheirfamilies,asdefinedinRSA135-F:4.
+4 VIII. "Childhoodbehavioralhealthservices"meananyofthefollowingservices:
+5 (a) Behavioral health intensive in-home services, which are therapeutic interventions
+6 delivered to children and families in their homes and other community settings to improve child and
+7 family functioning and prevent out-of-home placement. The components of intensive in-home
+8 services include, but are not limited to individual and family therapy, skills training and behavioral
+9 interventions,functionalsupports,andfamilysupportandtraining.
+10 (b) Behavioral health intensive structured outpatient programs, which include short-
+11 term, clinically intensive, structured day or evening service for a child with a behavioral health
+12 disorder, and provides multidisciplinary treatment to address the subacute needs of children and
+13 youth,whileallowingthemtocontinuetoworkorattendschoolandbepartoffamilylife.
+14 (c) Intensive care coordination, including but not limited to evidence based approaches
+15 like a high-fidelity wraparound for children and youth with significant behavioral health conditions,
+16 which includes assessment and service planning, accessing and arranging for services, coordinating
+17 multiple services, including access to crisis services. Assisting the child and family to meet basic
+18 needs, advocating for the child and family, and monitoring progress are also included. The
+19 wraparound "facilitator" is the intensive care coordinator who organizes, convenes, and coordinates
+20 thisprocess.
+21 (d) Parentandyouthpeersupportservicesprovidedbytrainedpeersupportspecialists.
+22 IX. "Commissioner" means the commissioner of the department of health and human
+23 services.
+24 X. "Estimated cost" means the estimated cost to the state over the course of a state fiscal
+25 year to reimburse the care management entities for provision of the childhood behavioral health
+26 servicestheyprovidetoassessablelives.
+27 XI. "Provider" means a person licensed or certified by this state, or otherwise qualified to
+28 providehealthcareservicestopersonsorapartnershiporcorporationmadeupofthosepersons.
+29 XII. "Total non-federal program cost" means the estimated childhood behavioral health
+30 services cost less the amount of federal revenue available to the state for the administration and
+31 provisionofchildhoodbehavioralhealthservices.
+32 135-F:11 New Hampshire Children's Behavioral Health Association Established. There is
+33 hereby created a nonprofit corporation to be known as the New Hampshire children's behavioral
+34 health association. The association is formed to assess assessable entities for the cost of childhood
+35 behavioralhealthservicesprovidedtocertainchildreninNewHampshire.
+36 135-F:12 Membership, Powers, and Duties of the New Hampshire Children's Behavioral Health
+37 Association.
+SB498-FN-ASINTRODUCED
+-Page3-
+1 I. The New Hampshire children's behavioral health association shall be comprised of all
+2 assessableentities.
+3 II. The New Hampshire children's behavioral health association shall be a not-for-profit,
+4 voluntary corporation under RSA 292 and shall possess all general powers of a not-for-profit
+5 corporation.
+6 III. Theboardofdirectorsshallinclude:
+7 (a) Three representatives selected from the assessable entities currently writing,
+8 maintaining, or administering assessable coverage through a voting process where votes are based
+9 onassessablelives. Theplanofoperationshallprovidedetailsforthisselectionprocess.
+10 (b) Twohealthcareproviderrepresentativesappointedbythecommissioner.
+11 (c) The commissioner of the department of health and human services, who shall serve
+12 asanexofficiomember.
+13 (d) The commissioner of the department of insurance who shall serve as an ex-officio
+14 member.
+15 (e) One member appointed by the governor and council who shall represent self-insured
+16 entities.
+17 (f) Onepublicmemberappointedbythespeakerofthehouseofrepresentatives.
+18 (g) Onepublicmemberappointedbythepresidentofthesenate.
+19 IV. Thedirectors'termsandappointmentsshallbespecifiedintheplanofoperationadopted
+20 bytheNewHampshirechildren'sbehavioralhealthassociation.
+21 V. Theboardofdirectorsoftheassociationshall:
+22 (a) Prepareandadoptarticlesofassociationandbylaws.
+23 (b) Prepareandadoptaplanofoperation.
+24 (c) Submit the plan of operation to the commissioner of insurance for approval after the
+25 consultationwiththecommissioner.
+26 (d) Conductallactivitiesinaccordancewiththeapprovedplanofoperation.
+27 (e) On an annual basis, no later than November 1 of each year, establish the amount of
+28 theassessmentforthesucceedingyear.
+29 (f) Enterintocontractsasnecessaryorpropertocollectanddisbursetheassessment.
+30 (g) Enterintocontractsasnecessaryorpropertoadministertheplanofoperation.
+31 (h) Sueorbesued,includingtakinganylegalactionnecessaryorproperfortherecovery
+32 of any assessment for, on behalf of, or against members of the association or other participating
+33 person.
+34 (i) Appoint from among its directors, committees as necessary to provide technical
+35 assistance in the operation of the association, including the hiring of independent consultants as
+36 necessary.
+SB498-FN-ASINTRODUCED
+-Page4-
+1 (j) Determine an assessment amount and collect payments from assessed entities in
+2 accordancewithRSA135-F:13.
+3 (k) Submit an annual report to the commissioner of insurance, in a manner and form
+4 determined by the commissioner, listing the association membership base, providing a count of
+5 assessable lives by assessable entity, identifying changes in assessable lives by assessable entity,
+6 describing the collection of assessments, listing payment delinquencies, and containing such other
+7 relatedinformationasthecommissionermayrequire.
+8 (l) Allow each assessable entity up to 45 days after the closing of each calendar quarter
+9 to report its assessable lives and remit its corresponding assessment amount as calculated pursuant
+10 toRSA135-F:13.
+11 (m) Collect assessments from assessable entities as calculated under RSA 135-F:13 and
+12 deposit said assessments less the association's administrative costs annually and reserves with the
+13 statetreasurer tothe credit of the childhood behavioral health services fund established pursuant to
+14 RSA 135-F:19. At the written request of the association following a majority vote of the board of
+15 directors, any funds forwarded to the state treasurer for the childhood behavioral health services
+16 fund remaining unexpended for childhood behavioral health services, shall promptly be returned to
+17 theassociation.
+18 (n) Beauthorized toenterintooneormoreagreements withotherapplicableauthorities
+19 in surrounding states to reduce the risk of duplicate assessments and to assure provision of
+20 childhood behavioral health services for children who are residents of this state but who receive
+21 childhood behavioral health services in other states. Any costs relating to any such agreement shall
+22 be considered additional childhood behavioral health services costs of the program for purposes of
+23 determiningtheassociation'sassessments.
+24 (o) Adopt procedures by which affiliated assessable entities calculate their assessment
+25 on an aggregate basis and procedures to ensure that no assessable life is counted more than once.
+26 Unless otherwise determined by the board, the assessable entity responsible for the payment of the
+27 provider's administrative costs for childhood behavioral health services shall be the entity
+28 responsibleforreportingassessablelivesandpaymentofthecorrespondingassessment.
+29 (p) Submit an annual report regarding the association's activities and its financial
+30 reports adopted by the department of health and human services to the president of the senate, the
+31 speakerofthehouseofrepresentatives,andthegovernor.
+32 (q) Perform any other functions as may be necessary or proper to carry out the plan of
+33 operation.
+34 135-F:13 AssessmentDetermination.
+35 I. The board shall determine an assessment for each assessable entity in accordance with
+36 this section. An assessment determination made pursuant to this section is a medical benefit cost
+37 andnotaregulatorycostforpurposesofcalculatingthecarrier'smedicallossratio.
+SB498-FN-ASINTRODUCED
+-Page5-
+1 II. Indeterminingtheassessmentamount,theboardshall:
+2 (a) Estimatethetotalnon-federalprogramcostforthesucceedingyear;
+3 (b) Add its anticipated operating costs for the succeeding year and such additional
+4 workingcapitalreservesasmaybeestablishedbytheboardfromtimetotime;
+5 (c) Add a reserve of up to 10 percent of the anticipated cost under subparagraph (a) for
+6 unanticipated costs associated with providing childhood behavioral health services to children
+7 covered;and
+8 (d) Subtract the amount of any unexpended assessments collected in the preceding year
+9 alongwithanyunexpendedinterestaccruedtothefundduringtheprecedingyear.
+10 III. The board shall include in its plan of operations, details regarding the timing for
+11 assessment collections, and the form and format assessable entities shall use to calculate
+12 assessments.
+13 IV. The board shall include in its plan of operation details regarding payment due dates,
+14 graceperiods,latepaymentfees,interest,andotherdetailsregardingthecollectionofassessments.
+15 V. The board may determine an interim assessment for new childhood behavioral health
+16 services or unanticipated shortfalls in the association's ability to meet childhood behavioral health
+17 services funding needs. The board shall calculate the interim assessment in accordance with
+18 paragraph II, and the interim assessment is payable the calendar quarter that begins no less than
+19 30 days following the establishment of the interim assessment. The board shall not impose more
+20 thanoneinterimassessmentperyear.
+21 VI. In the event that the association discontinues operation for any reason, any unexpended
+22 assessments, including unexpended funds from prior assessments in the state vaccine purchase
+23 fund, shall be refunded to payees in proportion to the respective assessment payments by payees
+24 overthemostrecent8quarterspriortodiscontinuationofassociationoperations.
+25 135-F:14 PowersandDuties. Inadditiontothedutiesandpowersenumeratedelsewhereinthis
+26 chapter:
+27 I. The commissioner of insurance shall, after notice from the association, issue a show cause
+28 order to any assessable entity that fails to comply with the association's plan of operation. In
+29 addition to late fees and other penalties imposed by the association, assessable entities may, after a
+30 finding of just cause, be subject to a minimum fine of $5,000, a maximum fine of 25 percent of the
+31 totalamountofdelinquentassessments,andlicensuresuspension.
+32 II. The insurance commissioner shall annually review the assessment report required under
+33 RSA 135-F:12, V(k) to ensure that all assessable entities are participating in the association and
+34 that all assessable entities have accurately reported assessable lives. The association shall remedy
+35 anyproblemidentifiedbythecommissionerwithrespecttoassessableentitiesandassessablelives.
+36 III. Thecommissionerofinsurancemayadoptrules,pursuanttoRSA541-A,asnecessaryto
+37 carryoutthepurposesofthissubdivision.
+SB498-FN-ASINTRODUCED
+-Page6-
+1 135-F:15 Examinations and Annual Reports. The board of directors shall submit to the
+2 commissioner,nolaterthan120daysafterthecloseoftheassociation'sfiscalyear,afinancialreport
+3 inaformapprovedbythecommissioner.
+4 135-F:16 Exemption From Taxes. The association shall be exempt from payment of all fees and
+5 alltaxesleviedbythisstateoranyofitssubdivisions,excepttaxesleviedonrealproperty.
+6 135-F:17 Immunity from Liability. There shall be no liability on the part of and no cause of
+7 action of any nature shall arise against any association member or its agents or employees, the
+8 associationor its agents or employees, members of the board of directors, or the commissioner or the
+9 commissioner's representatives, for any action or omission by them in the performance of their
+10 powersanddutiesunderthischapter.
+11 135-F:18 Severability of Chapter. If any provisions of this chapter or the application thereof to
+12 any person or circumstance is held invalid, the invalidity does not affect other provisions or
+13 applications of the chapter which can be given effect without the invalid provisions or applications,
+14 andtothisendtheprovisionsofthischapterareseverable.
+15 135-F:19 Childhood Behavioral Health Services Fund. There is hereby established a childhood
+16 behavioral health services fund for the payment to the care management entities for the provision of
+17 childhood behavioral health services. Any funds provided to the department for this purpose and
+18 deposited in the fund shall not be used for any other purpose. Moneys in the fund shall be
+19 continuallyappropriatedtothecommissioner.
+20 2 New Subparagraph; State Treasurer; Application of Receipts. Amended RSA 6:12, I(b) by
+21 insertingaftersubparagraph(410)thefollowingnewsubparagraph:
+22 (411) Moneys deposited in the childhood behavioral health services fund established
+23 inRSA135-F:19.
+24 3 Insurance; Coverage for Certain Biologically-Based Mental Illnesses. Amend RSA 417-E:1, V-
+25 atoreadasfollows:
+26 V-a. The commissioner shall periodically require health insurers, health service
+27 corporations, and health maintenance organizations to submit the comparative analysis described in
+28 42 U.S.C. section 300gg-26(a)(8)(A) for review to ensure compliance with this chapter and with the
+29 Act. These comparative analyses shall also include specific comparative data for
+30 medical/surgical benefits and mental health and substance use disorder benefits available
+31 to consumers by age group including ages 0-5 years and 18 years and younger, and
+32 including services available, coverage guidelines, denial rates, complaints about lack of
+33 services, network capacity data, provider qualifications and restrictions for comparable
+34 services, and other factors that indicate whether there are barriers to care that affect
+35 parity. Totheextentallowableunderstateandfederallaw,suchanalysisshallbemadepublic.
+36 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2064
+11/18/25
+SB498-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to children's mental health services for persons 18 years of age and
+younger.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Increase Increase Increase
+>$2.5million >$2.5million >$2.5million
+GeneralFundInsurancePremiumTax,HealthInsuranceAssessment,
+RevenueFund(s)
+ChildhoodBehavioralHealthServicesFund
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+>$2.5million >$2.5million >$2.5million
+GeneralFundInsurancePremiumTax,HealthInsuranceAssessment,
+FundingSource(s)
+ChildhoodBehavioralHealthServicesFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill creates an association for the purpose of collecting assessments to fund payments to
+care management entities for the provision of childhood behavioral health services. The
+Association is authorized to collect assessments from insurance carriers, stop loss carriers, and
+third-party administrators for fully insured and self-funded health plans. The assessment base
+would include covered lives in the state employee health plan, as well as pooled risk
+management programs under RSA 5-b. The funds provided for this purpose would be deposited
+intheChildhoodBehavioralHealthServicesFundcreatedbythebill.
+The fiscal analysis that follows is based on information provided by the Insurance and Health
+and Human Services Departments in response to an equivalent bill from the 2025 legislative
+session.
+The Insurance Department (NHID) estimates that the number of covered lives will be
+approximately 160,000. The NHID states that the assessment amount is indeterminable, as it is
+based primarily on an estimate of the cost of reimbursing care management entities for the
+provision of childhood behavioral health services they provide to assessable lives. The NHID
+assumes this refers to costs currently covered by the Department of Health and Human Services
+(DHHS) for the Medicaid population. In addition to program costs, the assessment would also
+cover administrative costs, as well as maintain a 10 percent reserve. The NHID estimates the
+administrativecostswouldbeapproximately$175,000andwouldlikelyincreasewithinflation.
+The NHID assumes the assessment in the bill would exert upward pressure on premiums and
+increase costs for self-funded plans, including the state employee health plan and municipal
+pooled risk management programs. Any increases to premiums would increase the
+corresponding premium tax dollars collected. However, a significant rise in health insurance
+premiums could also cause consumers to purchase cheaper, less benefit rich plans or forgo the
+purchaseofhealthinsurancealtogether,whichcouldhaveanegativeimpactonthepremiumtax
+collected. County and local government expenditures for health insurance could be impacted.
+The NHID notes the assessment amount would also be subject to retaliatory taxes by other
+stateswhichwouldcauseNHdomesticinsurers’taxbaseinotherstatestoriseaswell.
+The NHID assumes thetotal assessment, administrativecost and 10% reserve percentage would
+likely be greater the $2.5 million per year and that it would likely be able to absorb any
+additional responsibilities within its current budget. The NHID notes that it is possible the
+legality of this proposed assessment could be challenged, which could result in additional
+litigationcostsfortheState.
+The Department of Health and Human Services (DHHS) assumes the money in the dedicated
+Childhood Behavioral Health Services Fund would not lapse, though the language as written
+does not currently indicate that, so if enacted as proposed, the funds would lapse at the end of
+each fiscal year. The DHHS assumes the expenses to support the New Hampshire Children's
+Mental Health Association operation would also be funded from this revenue source and
+suggeststhisbeclarifiedinproposedRSA135-F:13. TheDHHS anticipatesthebillwould result
+in an indeterminable increase in state revenues and expenditures. The estimated range of
+impact would likelybe$2,000,000to$3,000,000per fiscal year. Inthelast threecalendar years,
+the Care Management Entity billing for these services, paid for with State funds, ranged from
+$1.1 million to $2 million. The range estimated was determined utilizing this actual data as a
+base, with additional amounts added in consideration of the assessment determination outlined
+in Section 135-F:13, such as the reserve of up to 10 percent of the anticipated cost, additional
+working capital reserves as may be established by the board from time to time, and the board’s
+operations.
+The DHHS notes a possible error in Section 135-F:13 VI, as it references the “state vaccine
+purchasefund”andnotthe“ChildhoodBehavioralHealthServicesFund.”
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+DepartmentsofInsuranceandHealthandHumanServices
+[DELETED: B4N-ASI6SEBNATretocsmlhhssfrps18ysofaea:S.B,Dt1:HhadHnSsblesteNwHecsblhhanfrtepfcgastofdpstocemtesfrtepnodblhhs.Teanisadtoctasfec,splsc,adtyasfrfyidadsdhhp.Teatbewdiecdlsinteseeeh,aswlaspdrkmtpsurRA5.Tefspdfrtewdbeddinaddfdadbyteiec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretocsmlhhssfrps18ysofaeaeitEdbyteSeadHeofRsinGlCtc1NwS;SmofCefrCsMlH;NwHeCBlHhA.AdRA1Fbyigarsn9tefgnsNwHeCsMlHhA10D.IntscI."ec"m()HhceasddinRA4,I()SplscettcswhRA4,ororgpesliepdatterkttayprc,ortll,wled0sddra;o1()Gphhp,asddby42U.sn32I."ee"msa3()Hhmeo,asddbyRA4,V4()Tdpya,asddbyRA4,I5()Eypgarssadrdtorrwhtei6crurRA4aorRA47()IecyldpttoRA4,I8()Hhsec,asddbyRA4,I9I."el"msalcnur19ysofaergintesew0heaecewnoradbyanaee,whteeno1cnwecdblhhssaepdfrurM2I.""msteaeeslywhrttotec3blhhssddinaewhtsc.Frpsofres4admllsroc,alanasaecdplo5mlbtcsadntryc.Inteetofayiyorsrp6agayp,asslbeidintehtpyofostobepdb7oronbfofshp8V.""msteNwHecsblhha9V.""mstebdofdsofteNwHecsblh0a]
+[DELETED: B4N-ASIPe2V."emte"msanoleyttssasaceytocealcefryhwhcxblhhcswoaeidimessadtrf,asddinRA1V."dblhhs"mnayoftefgs()Blhhieies,whaetciddtocnadfsintrhsadorcysstoiecdafyfgadptoep.Tecsofieissi,btaentldtoiladfyt,sstgadbi,fls,adfystadt0()Blhhiesdotp,whies1t,cyi,sddyoregsefracdwhablh2d,adpsmytttoastesensofcna3y,weagtmtocetowkoradsladbeptoffyl4()Iecec,igbtntldtoeebda5leahywdfrcnadyhwhstblhhc6whisatadsep,agadagfrs,c7mes,igastocss.Agtecdadfytomtb8n,agfrtecdadf,admgpsaeaoi.T9wd""isteiececrwoo,c,adc0tsp1()Ptadyhprstsspdbytdprsts2I.""mstecroftedtofhhadh3s4X."dc"msteedcttoteseorteceofasef5yrtoretecemtesfrpnoftecdblh6sstypetoael7X.""msapnldorcdbytss,oroeqdt8pehhcesstopsorapporcnmeupoftep9X."lnlpmc"msteedcdblh0ssctlsteatofflreaetotesefrteana1pnofcdblhhs211NwHeCsBlHhAnE.Tei3hycdantcntobeknasteNwHecsb4hha.Teanisfdtoasaeesfrtectofc5blhhsspdtocncninNwH612M,P,adDsofteNwHeCsBlH7A]
+[DELETED: B4N-ASIPe3I.TeNwHecsblhhanslbecdofaaeeI.TeNwHecsblhhanslbeanvycnurRA22adslpsalglpsofancI.Tebdofdssli()Terssdfmteaeescywm,oragaecethavgpswevsaebonael.Tepnofonslpedsfrtssnp0()Tohhceprrsadbytec1()Tecroftedtofhhadhns,wosls2asanexoom3()Tecroftedtofiewoslseasane4m5()Oemradbytegradclwoslrts6e7()Oepcmradbytesrofteheofr8()Oepcmradbyteptoftes9I.Ted'tsadasslbesdintepnofona0byteNwHecsblhha1V.Tebdofdsofteans2()Peadatasofanadb3()Peadatapnofo4()Sttepnofontotecrofiefralart5cnwhtec6()Ctalasinaewhteadpnofo7()Onanalb,nolrtnNr1ofehy,ehteato8teatfrtesgy9()Eriocsasnyorprtoctaddetea0()Eriocsasnyorprtoartepnofo1()Seorbes,igtgayllannyorprfrter2ofayatf,onbfo,oratmsofteanororp3p4()Atfmagisd,csasnytopet5aeinteonoftea,igtehgofitcsa6n]
+[DELETED: B4N-ASIPe4()DeanatatadctpsfmadesiaewhRA1()Stanalrttotecrofi,inamradfddbytec,lgteanmpb,pgactoaelsbyaee,igcsinaelsbyaeedgtecnofa,lgptd,adcgshordinastecrmyr()Awehaeeyupto45dsartecgofehcrqtortisaelsadrtiscgatatascdp0toRA11()CtasfmaeesascdurRA13a2dtsdaslsteasaecsayadrswht3setrtotectoftecdblhhssfdedptt4RA1.Attewnrtofteanfgamyveoftebdo5d,ayfsfdtotesetrfrtecdblhhs6fdrgudfrcdblhhs,slpyberdt7tea8()Beadtoeriooeormeaswhoraea9insgsstoreterkofdeasadtoaepno0cdblhhssfrcnwoaersoftssebtwor1cdblhhssinors.Aycsrgtoayshats2becdalcdblhhsscsoftepmfrpso3dgteasa4()Atpsbywhadaeescetra5onanaebsadpstoeettnoaeleiscdmetno6Usoeddbyteb,teaeeyrefrteptoft7psaecsfrcdblhhssslbetee8refrrgaelsadptoftecga9()Stanalrtrgteasasadisf0rsadbytedtofhhadhnsstoteptoftes,t1srofteheofr,adteg2()Pmayorfsasmybenyorprtocyottepno3o413AtD5I.Tebdsldeanatfrehaeeyinaew6tss.Anatdnmepttotssnisamlbtc7adntaryctfrpsofcgtecsmllsr]
+[DELETED: B4N-ASIPe5I.Indgteata,tebds()Eetetlnlpmctfrtesgy()Adisadogcsfrtesgyradshawgclrsasmybeedbytebdfmtetot()Adareofupto10ptofteadctursh()fudcsadwhpgcdblhhsstocc;a()Stteatofayudascdintepgyagwhayuditadtotefddgtepgy0I.Tebdslieinispnofo,dsrgtetgf1atc,adtefmadftaeessluetoc2a3I.Tebdslieinispnofondsrgptded4gep,leptf,i,adordsrgtecnofa5V.Tebdmydeanimatfrnwcdblh6ssorudssinteasaytomtcdblh7ssfgn.Tebdslceteimatinaew8phI,adteimatispetecrqrttbsnolst930dsfgteetofteima.Tebdslntiem0tnoeimatpry1V.Inteetttteandsonfrayr,ayu2a,igudfsfmprasintesevep3f,slberdtopsinpntotereatpsbyp4ortemtrt8qsprtodnofano514PsadD.Inantotedsadpsedeeint6c7I.Tecrofies,arnefmtea,ieaswc8ortoayaeeyttfstocywhteaspnofo.I9antolefsadorpsidbytea,aeesm,ar0fgofjtc,besttoammfeof$,ammfeof25ptoft1tlatofdta,adles2I.Teiecrslayrwteatrtrdu3RA1,V)toeettalaeesaepginteana4ttalaeesheayrdael.Teanslr5aypmidbytecrwhrttoaeesadael6I.Tecrofiemyatr,pttoRA5,asnyt7cyottepsoftss]
+[DELETED: B4N-ASIPe615EsadAlR.Tebdofdsslsttotc,nolrtn10dsarteceofteasfly,aflrinafmadbytec16EnFmT.Teanslbeetfmptofalfsaaltsldbytsseorayofiss,ettsldonrlp17IyfmL.Teslbenolyonteptofadnoceoanofayneslaeatayanmrorisasore,tanorisasore,msoftebdofd,ortecrortcsr,frayanoronbytmintepeoft0psaddsurtsc118SyofC.Ifaypsoftscrorteantft2aypnorceishdi,teiydsntatorpso3asoftecrwhcnbegnetwtteidpsora4adtotsedtepsoftscraes519CdBlHhSsF.Teishyedac6blhhssfdfrtepttotecemtesfrtepno7cdblhhs.Ayfspdtotedtfrtspea8ddintefdslntbeudfrayorp.Msintefdslb9cyadtotec02NwS;SeT;AnofR.AdRA6,I)b1igarsh()tefgnws2()Msddintecdblhhssfde3inRA143I;CefrCnBdMlI.AdRA4,V5atordasf6V.Tecrslpyrehhi,hhs7c,adhhmeostostteceasddi842U.sn3)frrwtoeecewhtscradwht9A.Teceasslaoiesccedaf0mlbsadmlhhadseuedrbsa1tocsbyaegpigas05ysad18ysady,a2igssa,ceg,dlr,csatlko3s,nkcyd,prqsadrsfrc4s,adorfsttiewrteaebstocetta5p.Toteetaeurseadfll,shasslbemep64EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATretocsmlhhssfrps18ysofaeaLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20IeIeIeIeI$5mn>$5mn>$5meFlFdIePmT,HhIeAdBlHhSsF0IeIeIeIeI$5mn>$5mn>$5mgSlFdIePmT,HhIeAdBlHhSsF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblcsananfrtepeofcgastofdpstemtesfrtepnofcdblhhs.Tnisadtoctasfmiec,splsc,ayasfrfyidadsdhhp.Teatbdiecdlsinteseeehhp,aswlaspdrtpsurRA5.TefspdfrtspewdbednteCdBlHhSsFdcdbyteb]
+[DELETED: eflasttfsisbdoninpdbyteIeadHdHnSsDsinretoanetblfmte25leIeDt()estttenrofcdlswlby1.TeNDssttteatatisi,asitidpyonaneeoftectofrgcemtesfrtnofcdblhhsstypetoael.TeNstsrstocscycdbyteDtofHhadHnS)frteMdp.Inantopmc,teatwdaraec,aswlasmna10ptr.TeNDestecswdbeay$0adwdlyiewhieNDasteatinteblwdetudpeonpsaecsfrsdp,igteseeehhpnadmdrkmtp.Ayistopswdietgpmtxdsc.H,astreinhhiscdaocecstopec,lsbtrhpsorfoteofhhiea,whcdheaneitontepmt.CyadllgtesfrhhiecdbeieNDnsteatatwdaobesttorytsbyoswhwdceNHdci’txbeinorsstoreasweNDastetla,aectad1%repewybegrte$5mnpryradttitwdlybeaetoabalrswnisctb.TeNDnsttitispetyoftspdatcdbec,whcdrtinancsfrteSeDtofHhadHnSs()astemyinteddBlHhSsFdwdntl,thteleaswsntcyiet,soifedasp,tefswdleatteedohfly.TeDSasteestostteNwHeClHhAnonwdaobefdfmtsreseastsbecdinpdRA1.TeDSasteblwdrnanieieinsersade.Teedreotwdlybe$0to$0prfly.IntelttecryeCeMtEybgfrtes,pdfrwhSef,rdf]
+[DELETED: 1mnto$2m.Tereedwsddugtsaldaas,whalasadincnofteatdnonSn1,shastereofupto10ptofteadc,agclrsasmybeedbytebdfmtetot,adtebeDSnsapeerinSn13V,asitrste“evef”adntte“dBlHhSsFtisadttayflitwdorarFY2SCsofIeadHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB498-FN-ASINTRODUCED
+2026SESSION
+26-2064
+05/09
+498-FN
+SENATEBILL
+ANACT relative to children's mental health services for persons 18 years of age and
+younger.
+SPONSORS: Sen.Birdsell,Dist19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes theNew Hampshire children's behavioral healthassociationfor the purpose
+of collecting assessments to fund payments to care management entities for the provision of
+childhood behavioral health services. The association is authorized to collect assessments from
+insurance carriers, stop loss carriers, and third-party administrators for fully insured and self-
+funded health plans. The assessment base would include covered lives in the state employee health
+plan, as well as pooled risk management programs under RSA 5-b. The funds provided for this
+purposewouldbedepositedinadedicatedfundadministeredbytheinsurancecommissioner.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB498-FN-ASINTRODUCED
+26-2064
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to children's mental health services for persons 18 years of age and
+younger.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; System of Care for Children's Mental Health; New Hampshire Children's
+2 Behavioral Health Association. Amend RSA 135-F by inserting after section 9 the following new
+3 subdivision:
+4 NewHampshireChildren'sMentalHealthAssociation
+5 135-F:10 Definitions. Inthischapter:
+6 I. "Assessablecoverage"means:
+7 (a) HealthcoverageasdefinedinRSA420-G:2,IX;
+8 (b) Stop loss coverage that conforms with RSA 415-H:3, or other group excess loss
+9 insurance purchased against the risk that any particular claim, or total liability, will exceed a
+10 specifieddollaramount;or
+11 (c) Grouphealthplan,asdefinedby42U.S.C.section300gg-91(a).
+12 II. "Assessableentity"meansany:
+13 (a) Healthmaintenanceorganization,asdefinedbyRSA420-B:1,VI.
+14 (b) Thirdpartyadministrator,asdefinedbyRSA402-H:1,I.
+15 (c) Entity providing administrator services and required to register with the insurance
+16 commissionerunderRSA402-H:11-aorRSA402-H:11-b.
+17 (d) InsurancecompanylicensedpursuanttoRSA401:1,IV.
+18 (e) Healthservicecorporation,asdefinedbyRSA420-A:1,III.
+19 III. "Assessable lives" means all children under 19 years of age residing in the state who
+20 have assessable coverage written or administered by an assessable entity, with the exception of
+21 childrenwhosechildhoodbehavioralhealthservicesarepaidforunderMedicaid.
+22 IV. "Assessment" means the assessable entity's liability with respect to the childhood
+23 behavioral health services determined in accordance with this chapter. For purposes of rate setting
+24 and medical loss ratio calculations, all association assessments are considered pharmaceutical or
+25 medical benefit costs and not regulatory costs. In the event of any insolvency or similar proceeding
+26 affectingany payer, assessments shall be included in the highest priority of obligations tobe paid by
+27 oronbehalfofsuchpayer.
+28 V. "Association"meanstheNewHampshirechildren'sbehavioralhealthassociation.
+29 VI. "Board" means theboard of directors of theNew Hampshirechildren's behavioral health
+30 association.
+
+SB498-FN-ASINTRODUCED
+-Page2-
+1 VII. "Care management entity" means an organizational entity that serves as a centralized
+2 entitytocoordinateall carefor youthwith complexbehavioral healthchallenges who areinvolved in
+3 multiplesystemsandtheirfamilies,asdefinedinRSA135-F:4.
+4 VIII. "Childhoodbehavioralhealthservices"meananyofthefollowingservices:
+5 (a) Behavioral health intensive in-home services, which are therapeutic interventions
+6 delivered to children and families in their homes and other community settings to improve child and
+7 family functioning and prevent out-of-home placement. The components of intensive in-home
+8 services include, but are not limited to individual and family therapy, skills training and behavioral
+9 interventions,functionalsupports,andfamilysupportandtraining.
+10 (b) Behavioral health intensive structured outpatient programs, which include short-
+11 term, clinically intensive, structured day or evening service for a child with a behavioral health
+12 disorder, and provides multidisciplinary treatment to address the subacute needs of children and
+13 youth,whileallowingthemtocontinuetoworkorattendschoolandbepartoffamilylife.
+14 (c) Intensive care coordination, including but not limited to evidence based approaches
+15 like a high-fidelity wraparound for children and youth with significant behavioral health conditions,
+16 which includes assessment and service planning, accessing and arranging for services, coordinating
+17 multiple services, including access to crisis services. Assisting the child and family to meet basic
+18 needs, advocating for the child and family, and monitoring progress are also included. The
+19 wraparound "facilitator" is the intensive care coordinator who organizes, convenes, and coordinates
+20 thisprocess.
+21 (d) Parentandyouthpeersupportservicesprovidedbytrainedpeersupportspecialists.
+22 IX. "Commissioner" means the commissioner of the department of health and human
+23 services.
+24 X. "Estimated cost" means the estimated cost to the state over the course of a state fiscal
+25 year to reimburse the care management entities for provision of the childhood behavioral health
+26 servicestheyprovidetoassessablelives.
+27 XI. "Provider" means a person licensed or certified by this state, or otherwise qualified to
+28 providehealthcareservicestopersonsorapartnershiporcorporationmadeupofthosepersons.
+29 XII. "Total non-federal program cost" means the estimated childhood behavioral health
+30 services cost less the amount of federal revenue available to the state for the administration and
+31 provisionofchildhoodbehavioralhealthservices.
+32 135-F:11 New Hampshire Children's Behavioral Health Association Established. There is
+33 hereby created a nonprofit corporation to be known as the New Hampshire children's behavioral
+34 health association. The association is formed to assess assessable entities for the cost of childhood
+35 behavioralhealthservicesprovidedtocertainchildreninNewHampshire.
+36 135-F:12 Membership, Powers, and Duties of the New Hampshire Children's Behavioral Health
+37 Association.
+
+SB498-FN-ASINTRODUCED
+-Page3-
+1 I. The New Hampshire children's behavioral health association shall be comprised of all
+2 assessableentities.
+3 II. The New Hampshire children's behavioral health association shall be a not-for-profit,
+4 voluntary corporation under RSA 292 and shall possess all general powers of a not-for-profit
+5 corporation.
+6 III. Theboardofdirectorsshallinclude:
+7 (a) Three representatives selected from the assessable entities currently writing,
+8 maintaining, or administering assessable coverage through a voting process where votes are based
+9 onassessablelives. Theplanofoperationshallprovidedetailsforthisselectionprocess.
+10 (b) Twohealthcareproviderrepresentativesappointedbythecommissioner.
+11 (c) The commissioner of the department of health and human services, who shall serve
+12 asanexofficiomember.
+13 (d) The commissioner of the department of insurance who shall serve as an ex-officio
+14 member.
+15 (e) One member appointed by the governor and council who shall represent self-insured
+16 entities.
+17 (f) Onepublicmemberappointedbythespeakerofthehouseofrepresentatives.
+18 (g) Onepublicmemberappointedbythepresidentofthesenate.
+19 IV. Thedirectors'termsandappointmentsshallbespecifiedintheplanofoperationadopted
+20 bytheNewHampshirechildren'sbehavioralhealthassociation.
+21 V. Theboardofdirectorsoftheassociationshall:
+22 (a) Prepareandadoptarticlesofassociationandbylaws.
+23 (b) Prepareandadoptaplanofoperation.
+24 (c) Submit the plan of operation to the commissioner of insurance for approval after the
+25 consultationwiththecommissioner.
+26 (d) Conductallactivitiesinaccordancewiththeapprovedplanofoperation.
+27 (e) On an annual basis, no later than November 1 of each year, establish the amount of
+28 theassessmentforthesucceedingyear.
+29 (f) Enterintocontractsasnecessaryorpropertocollectanddisbursetheassessment.
+30 (g) Enterintocontractsasnecessaryorpropertoadministertheplanofoperation.
+31 (h) Sueorbesued,includingtakinganylegalactionnecessaryorproperfortherecovery
+32 of any assessment for, on behalf of, or against members of the association or other participating
+33 person.
+34 (i) Appoint from among its directors, committees as necessary to provide technical
+35 assistance in the operation of the association, including the hiring of independent consultants as
+36 necessary.
+
+SB498-FN-ASINTRODUCED
+-Page4-
+1 (j) Determine an assessment amount and collect payments from assessed entities in
+2 accordancewithRSA135-F:13.
+3 (k) Submit an annual report to the commissioner of insurance, in a manner and form
+4 determined by the commissioner, listing the association membership base, providing a count of
+5 assessable lives by assessable entity, identifying changes in assessable lives by assessable entity,
+6 describing the collection of assessments, listing payment delinquencies, and containing such other
+7 relatedinformationasthecommissionermayrequire.
+8 (l) Allow each assessable entity up to 45 days after the closing of each calendar quarter
+9 to report its assessable lives and remit its corresponding assessment amount as calculated pursuant
+10 toRSA135-F:13.
+11 (m) Collect assessments from assessable entities as calculated under RSA 135-F:13 and
+12 deposit said assessments less the association's administrative costs annually and reserves with the
+13 statetreasurer tothe credit of the childhood behavioral health services fund established pursuant to
+14 RSA 135-F:19. At the written request of the association following a majority vote of the board of
+15 directors, any funds forwarded to the state treasurer for the childhood behavioral health services
+16 fund remaining unexpended for childhood behavioral health services, shall promptly be returned to
+17 theassociation.
+18 (n) Beauthorized toenterintooneormoreagreements withotherapplicableauthorities
+19 in surrounding states to reduce the risk of duplicate assessments and to assure provision of
+20 childhood behavioral health services for children who are residents of this state but who receive
+21 childhood behavioral health services in other states. Any costs relating to any such agreement shall
+22 be considered additional childhood behavioral health services costs of the program for purposes of
+23 determiningtheassociation'sassessments.
+24 (o) Adopt procedures by which affiliated assessable entities calculate their assessment
+25 on an aggregate basis and procedures to ensure that no assessable life is counted more than once.
+26 Unless otherwise determined by the board, the assessable entity responsible for the payment of the
+27 provider's administrative costs for childhood behavioral health services shall be the entity
+28 responsibleforreportingassessablelivesandpaymentofthecorrespondingassessment.
+29 (p) Submit an annual report regarding the association's activities and its financial
+30 reports adopted by the department of health and human services to the president of the senate, the
+31 speakerofthehouseofrepresentatives,andthegovernor.
+32 (q) Perform any other functions as may be necessary or proper to carry out the plan of
+33 operation.
+34 135-F:13 AssessmentDetermination.
+35 I. The board shall determine an assessment for each assessable entity in accordance with
+36 this section. An assessment determination made pursuant to this section is a medical benefit cost
+37 andnotaregulatorycostforpurposesofcalculatingthecarrier'smedicallossratio.
+
+SB498-FN-ASINTRODUCED
+-Page5-
+1 II. Indeterminingtheassessmentamount,theboardshall:
+2 (a) Estimatethetotalnon-federalprogramcostforthesucceedingyear;
+3 (b) Add its anticipated operating costs for the succeeding year and such additional
+4 workingcapitalreservesasmaybeestablishedbytheboardfromtimetotime;
+5 (c) Add a reserve of up to 10 percent of the anticipated cost under subparagraph (a) for
+6 unanticipated costs associated with providing childhood behavioral health services to children
+7 covered;and
+8 (d) Subtract the amount of any unexpended assessments collected in the preceding year
+9 alongwithanyunexpendedinterestaccruedtothefundduringtheprecedingyear.
+10 III. The board shall include in its plan of operations, details regarding the timing for
+11 assessment collections, and the form and format assessable entities shall use to calculate
+12 assessments.
+13 IV. The board shall include in its plan of operation details regarding payment due dates,
+14 graceperiods,latepaymentfees,interest,andotherdetailsregardingthecollectionofassessments.
+15 V. The board may determine an interim assessment for new childhood behavioral health
+16 services or unanticipated shortfalls in the association's ability to meet childhood behavioral health
+17 services funding needs. The board shall calculate the interim assessment in accordance with
+18 paragraph II, and the interim assessment is payable the calendar quarter that begins no less than
+19 30 days following the establishment of the interim assessment. The board shall not impose more
+20 thanoneinterimassessmentperyear.
+21 VI. In the event that the association discontinues operation for any reason, any unexpended
+22 assessments, including unexpended funds from prior assessments in the state vaccine purchase
+23 fund, shall be refunded to payees in proportion to the respective assessment payments by payees
+24 overthemostrecent8quarterspriortodiscontinuationofassociationoperations.
+25 135-F:14 PowersandDuties. Inadditiontothedutiesandpowersenumeratedelsewhereinthis
+26 chapter:
+27 I. The commissioner of insurance shall, after notice from the association, issue a show cause
+28 order to any assessable entity that fails to comply with the association's plan of operation. In
+29 addition to late fees and other penalties imposed by the association, assessable entities may, after a
+30 finding of just cause, be subject to a minimum fine of $5,000, a maximum fine of 25 percent of the
+31 totalamountofdelinquentassessments,andlicensuresuspension.
+32 II. The insurance commissioner shall annually review the assessment report required under
+33 RSA 135-F:12, V(k) to ensure that all assessable entities are participating in the association and
+34 that all assessable entities have accurately reported assessable lives. The association shall remedy
+35 anyproblemidentifiedbythecommissionerwithrespecttoassessableentitiesandassessablelives.
+36 III. Thecommissionerofinsurancemayadoptrules,pursuanttoRSA541-A,asnecessaryto
+37 carryoutthepurposesofthissubdivision.
+
+SB498-FN-ASINTRODUCED
+-Page6-
+1 135-F:15 Examinations and Annual Reports. The board of directors shall submit to the
+2 commissioner,nolaterthan120daysafterthecloseoftheassociation'sfiscalyear,afinancialreport
+3 inaformapprovedbythecommissioner.
+4 135-F:16 Exemption From Taxes. The association shall be exempt from payment of all fees and
+5 alltaxesleviedbythisstateoranyofitssubdivisions,excepttaxesleviedonrealproperty.
+6 135-F:17 Immunity from Liability. There shall be no liability on the part of and no cause of
+7 action of any nature shall arise against any association member or its agents or employees, the
+8 associationor its agents or employees, members of the board of directors, or the commissioner or the
+9 commissioner's representatives, for any action or omission by them in the performance of their
+10 powersanddutiesunderthischapter.
+11 135-F:18 Severability of Chapter. If any provisions of this chapter or the application thereof to
+12 any person or circumstance is held invalid, the invalidity does not affect other provisions or
+13 applications of the chapter which can be given effect without the invalid provisions or applications,
+14 andtothisendtheprovisionsofthischapterareseverable.
+15 135-F:19 Childhood Behavioral Health Services Fund. There is hereby established a childhood
+16 behavioral health services fund for the payment to the care management entities for the provision of
+17 childhood behavioral health services. Any funds provided to the department for this purpose and
+18 deposited in the fund shall not be used for any other purpose. Moneys in the fund shall be
+19 continuallyappropriatedtothecommissioner.
+20 2 New Subparagraph; State Treasurer; Application of Receipts. Amended RSA 6:12, I(b) by
+21 insertingaftersubparagraph(410)thefollowingnewsubparagraph:
+22 (411) Moneys deposited in the childhood behavioral health services fund established
+23 inRSA135-F:19.
+24 3 Insurance; Coverage for Certain Biologically-Based Mental Illnesses. Amend RSA 417-E:1, V-
+25 atoreadasfollows:
+26 V-a. The commissioner shall periodically require health insurers, health service
+27 corporations, and health maintenance organizations to submit the comparative analysis described in
+28 42 U.S.C. section 300gg-26(a)(8)(A) for review to ensure compliance with this chapter and with the
+29 Act. These comparative analyses shall also include specific comparative data for
+30 medical/surgical benefits and mental health and substance use disorder benefits available
+31 to consumers by age group including ages 0-5 years and 18 years and younger, and
+32 including services available, coverage guidelines, denial rates, complaints about lack of
+33 services, network capacity data, provider qualifications and restrictions for comparable
+34 services, and other factors that indicate whether there are barriers to care that affect
+35 parity. Totheextentallowableunderstateandfederallaw,suchanalysisshallbemadepublic.
+36 4 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2064
+11/18/25
+SB498-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to children's mental health services for persons 18 years of age and
+younger.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Increase Increase Increase
+>$2.5million >$2.5million >$2.5million
+GeneralFundInsurancePremiumTax,HealthInsuranceAssessment,
+RevenueFund(s)
+ChildhoodBehavioralHealthServicesFund
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 Increase Increase Increase
+>$2.5million >$2.5million >$2.5million
+GeneralFundInsurancePremiumTax,HealthInsuranceAssessment,
+FundingSource(s)
+ChildhoodBehavioralHealthServicesFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill creates an association for the purpose of collecting assessments to fund payments to
+care management entities for the provision of childhood behavioral health services. The
+Association is authorized to collect assessments from insurance carriers, stop loss carriers, and
+third-party administrators for fully insured and self-funded health plans. The assessment base
+would include covered lives in the state employee health plan, as well as pooled risk
+management programs under RSA 5-b. The funds provided for this purpose would be deposited
+intheChildhoodBehavioralHealthServicesFundcreatedbythebill.
+
+The fiscal analysis that follows is based on information provided by the Insurance and Health
+and Human Services Departments in response to an equivalent bill from the 2025 legislative
+session.
+The Insurance Department (NHID) estimates that the number of covered lives will be
+approximately 160,000. The NHID states that the assessment amount is indeterminable, as it is
+based primarily on an estimate of the cost of reimbursing care management entities for the
+provision of childhood behavioral health services they provide to assessable lives. The NHID
+assumes this refers to costs currently covered by the Department of Health and Human Services
+(DHHS) for the Medicaid population. In addition to program costs, the assessment would also
+cover administrative costs, as well as maintain a 10 percent reserve. The NHID estimates the
+administrativecostswouldbeapproximately$175,000andwouldlikelyincreasewithinflation.
+The NHID assumes the assessment in the bill would exert upward pressure on premiums and
+increase costs for self-funded plans, including the state employee health plan and municipal
+pooled risk management programs. Any increases to premiums would increase the
+corresponding premium tax dollars collected. However, a significant rise in health insurance
+premiums could also cause consumers to purchase cheaper, less benefit rich plans or forgo the
+purchaseofhealthinsurancealtogether,whichcouldhaveanegativeimpactonthepremiumtax
+collected. County and local government expenditures for health insurance could be impacted.
+The NHID notes the assessment amount would also be subject to retaliatory taxes by other
+stateswhichwouldcauseNHdomesticinsurers’taxbaseinotherstatestoriseaswell.
+The NHID assumes thetotal assessment, administrativecost and 10% reserve percentage would
+likely be greater the $2.5 million per year and that it would likely be able to absorb any
+additional responsibilities within its current budget. The NHID notes that it is possible the
+legality of this proposed assessment could be challenged, which could result in additional
+litigationcostsfortheState.
+The Department of Health and Human Services (DHHS) assumes the money in the dedicated
+Childhood Behavioral Health Services Fund would not lapse, though the language as written
+does not currently indicate that, so if enacted as proposed, the funds would lapse at the end of
+each fiscal year. The DHHS assumes the expenses to support the New Hampshire Children's
+Mental Health Association operation would also be funded from this revenue source and
+suggeststhisbeclarifiedinproposedRSA135-F:13. TheDHHS anticipatesthebillwould result
+in an indeterminable increase in state revenues and expenditures. The estimated range of
+impact would likelybe$2,000,000to$3,000,000per fiscal year. Inthelast threecalendar years,
+the Care Management Entity billing for these services, paid for with State funds, ranged from
+
+$1.1 million to $2 million. The range estimated was determined utilizing this actual data as a
+base, with additional amounts added in consideration of the assessment determination outlined
+in Section 135-F:13, such as the reserve of up to 10 percent of the anticipated cost, additional
+working capital reserves as may be established by the board from time to time, and the board’s
+operations.
+The DHHS notes a possible error in Section 135-F:13 VI, as it references the “state vaccine
+purchasefund”andnotthe“ChildhoodBehavioralHealthServicesFund.”
+ItisassumedthatanyfiscalimpactwouldoccurafterFY2026.
+AGENCIESCONTACTED:
+DepartmentsofInsuranceandHealthandHumanServices
+
+[DELETED: B4N-ASI6SEBNATretocsmlhhssfrps18ysofaea:S.B,Dt1:HhadHnSsblesteNwHecsblhhanfrtepfcgastofdpstocemtesfrtepnodblhhs.Teanisadtoctasfec,splsc,adtyasfrfyidadsdhhp.Teatbewdiecdlsinteseeeh,aswlaspdrkmtpsurRA5.Tefspdfrtewdbeddinaddfdadbyteiec-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretocsmlhhssfrps18ysofaeaeitEdbyteSeadHeofRsinGlCtc1NwS;SmofCefrCsMlH;NwHeCBlHhA.AdRA1Fbyigarsn9tefgnsNwHeCsMlHhA10D.IntscI."ec"m()HhceasddinRA4,I()SplscettcswhRA4,ororgpesliepdatterkttayprc,ortll,wled0sddra;o1()Gphhp,asddby42U.sn32I."ee"msa3()Hhmeo,asddbyRA4,V4()Tdpya,asddbyRA4,I5()Eypgarssadrdtorrwhtei6crurRA4aorRA47()IecyldpttoRA4,I8()Hhsec,asddbyRA4,I9I."el"msalcnur19ysofaergintesew0heaecewnoradbyanaee,whteeno1cnwecdblhhssaepdfrurM2I.""msteaeeslywhrttotec3blhhssddinaewhtsc.Frpsofres4admllsroc,alanasaecdplo5mlbtcsadntryc.Inteetofayiyorsrp6agayp,asslbeidintehtpyofostobepdb7oronbfofshp8V.""msteNwHecsblhha9V.""mstebdofdsofteNwHecsblh0a]
+[DELETED: B4N-ASIPe2V."emte"msanoleyttssasaceytocealcefryhwhcxblhhcswoaeidimessadtrf,asddinRA1V."dblhhs"mnayoftefgs()Blhhieies,whaetciddtocnadfsintrhsadorcysstoiecdafyfgadptoep.Tecsofieissi,btaentldtoiladfyt,sstgadbi,fls,adfystadt0()Blhhiesdotp,whies1t,cyi,sddyoregsefracdwhablh2d,adpsmytttoastesensofcna3y,weagtmtocetowkoradsladbeptoffyl4()Iecec,igbtntldtoeebda5leahywdfrcnadyhwhstblhhc6whisatadsep,agadagfrs,c7mes,igastocss.Agtecdadfytomtb8n,agfrtecdadf,admgpsaeaoi.T9wd""isteiececrwoo,c,adc0tsp1()Ptadyhprstsspdbytdprsts2I.""mstecroftedtofhhadh3s4X."dc"msteedcttoteseorteceofasef5yrtoretecemtesfrpnoftecdblh6sstypetoael7X.""msapnldorcdbytss,oroeqdt8pehhcesstopsorapporcnmeupoftep9X."lnlpmc"msteedcdblh0ssctlsteatofflreaetotesefrteana1pnofcdblhhs211NwHeCsBlHhAnE.Tei3hycdantcntobeknasteNwHecsb4hha.Teanisfdtoasaeesfrtectofc5blhhsspdtocncninNwH612M,P,adDsofteNwHeCsBlH7A]
+[DELETED: B4N-ASIPe3I.TeNwHecsblhhanslbecdofaaeeI.TeNwHecsblhhanslbeanvycnurRA22adslpsalglpsofancI.Tebdofdssli()Terssdfmteaeescywm,oragaecethavgpswevsaebonael.Tepnofonslpedsfrtssnp0()Tohhceprrsadbytec1()Tecroftedtofhhadhns,wosls2asanexoom3()Tecroftedtofiewoslseasane4m5()Oemradbytegradclwoslrts6e7()Oepcmradbytesrofteheofr8()Oepcmradbyteptoftes9I.Ted'tsadasslbesdintepnofona0byteNwHecsblhha1V.Tebdofdsofteans2()Peadatasofanadb3()Peadatapnofo4()Sttepnofontotecrofiefralart5cnwhtec6()Ctalasinaewhteadpnofo7()Onanalb,nolrtnNr1ofehy,ehteato8teatfrtesgy9()Eriocsasnyorprtoctaddetea0()Eriocsasnyorprtoartepnofo1()Seorbes,igtgayllannyorprfrter2ofayatf,onbfo,oratmsofteanororp3p4()Atfmagisd,csasnytopet5aeinteonoftea,igtehgofitcsa6n]
+[DELETED: B4N-ASIPe4()DeanatatadctpsfmadesiaewhRA1()Stanalrttotecrofi,inamradfddbytec,lgteanmpb,pgactoaelsbyaee,igcsinaelsbyaeedgtecnofa,lgptd,adcgshordinastecrmyr()Awehaeeyupto45dsartecgofehcrqtortisaelsadrtiscgatatascdp0toRA11()CtasfmaeesascdurRA13a2dtsdaslsteasaecsayadrswht3setrtotectoftecdblhhssfdedptt4RA1.Attewnrtofteanfgamyveoftebdo5d,ayfsfdtotesetrfrtecdblhhs6fdrgudfrcdblhhs,slpyberdt7tea8()Beadtoeriooeormeaswhoraea9insgsstoreterkofdeasadtoaepno0cdblhhssfrcnwoaersoftssebtwor1cdblhhssinors.Aycsrgtoayshats2becdalcdblhhsscsoftepmfrpso3dgteasa4()Atpsbywhadaeescetra5onanaebsadpstoeettnoaeleiscdmetno6Usoeddbyteb,teaeeyrefrteptoft7psaecsfrcdblhhssslbetee8refrrgaelsadptoftecga9()Stanalrtrgteasasadisf0rsadbytedtofhhadhnsstoteptoftes,t1srofteheofr,adteg2()Pmayorfsasmybenyorprtocyottepno3o413AtD5I.Tebdsldeanatfrehaeeyinaew6tss.Anatdnmepttotssnisamlbtc7adntaryctfrpsofcgtecsmllsr]
+[DELETED: B4N-ASIPe5I.Indgteata,tebds()Eetetlnlpmctfrtesgy()Adisadogcsfrtesgyradshawgclrsasmybeedbytebdfmtetot()Adareofupto10ptofteadctursh()fudcsadwhpgcdblhhsstocc;a()Stteatofayudascdintepgyagwhayuditadtotefddgtepgy0I.Tebdslieinispnofo,dsrgtetgf1atc,adtefmadftaeessluetoc2a3I.Tebdslieinispnofondsrgptded4gep,leptf,i,adordsrgtecnofa5V.Tebdmydeanimatfrnwcdblh6ssorudssinteasaytomtcdblh7ssfgn.Tebdslceteimatinaew8phI,adteimatispetecrqrttbsnolst930dsfgteetofteima.Tebdslntiem0tnoeimatpry1V.Inteetttteandsonfrayr,ayu2a,igudfsfmprasintesevep3f,slberdtopsinpntotereatpsbyp4ortemtrt8qsprtodnofano514PsadD.Inantotedsadpsedeeint6c7I.Tecrofies,arnefmtea,ieaswc8ortoayaeeyttfstocywhteaspnofo.I9antolefsadorpsidbytea,aeesm,ar0fgofjtc,besttoammfeof$,ammfeof25ptoft1tlatofdta,adles2I.Teiecrslayrwteatrtrdu3RA1,V)toeettalaeesaepginteana4ttalaeesheayrdael.Teanslr5aypmidbytecrwhrttoaeesadael6I.Tecrofiemyatr,pttoRA5,asnyt7cyottepsoftss]
+[DELETED: B4N-ASIPe615EsadAlR.Tebdofdsslsttotc,nolrtn10dsarteceofteasfly,aflrinafmadbytec16EnFmT.Teanslbeetfmptofalfsaaltsldbytsseorayofiss,ettsldonrlp17IyfmL.Teslbenolyonteptofadnoceoanofayneslaeatayanmrorisasore,tanorisasore,msoftebdofd,ortecrortcsr,frayanoronbytmintepeoft0psaddsurtsc118SyofC.Ifaypsoftscrorteantft2aypnorceishdi,teiydsntatorpso3asoftecrwhcnbegnetwtteidpsora4adtotsedtepsoftscraes519CdBlHhSsF.Teishyedac6blhhssfdfrtepttotecemtesfrtepno7cdblhhs.Ayfspdtotedtfrtspea8ddintefdslntbeudfrayorp.Msintefdslb9cyadtotec02NwS;SeT;AnofR.AdRA6,I)b1igarsh()tefgnws2()Msddintecdblhhssfde3inRA143I;CefrCnBdMlI.AdRA4,V5atordasf6V.Tecrslpyrehhi,hhs7c,adhhmeostostteceasddi842U.sn3)frrwtoeecewhtscradwht9A.Teceasslaoiesccedaf0mlbsadmlhhadseuedrbsa1tocsbyaegpigas05ysad18ysady,a2igssa,ceg,dlr,csatlko3s,nkcyd,prqsadrsfrc4s,adorfsttiewrteaebstocetta5p.Toteetaeurseadfll,shasslbemep64EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATretocsmlhhssfrps18ysofaeaLI:Tsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20IeIeIeIeI$5mn>$5mn>$5meFlFdIePmT,HhIeAdBlHhSsF0IeIeIeIeI$5mn>$5mn>$5mgSlFdIePmT,HhIeAdBlHhSsF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblcsananfrtepeofcgastofdpstemtesfrtepnofcdblhhs.Tnisadtoctasfmiec,splsc,ayasfrfyidadsdhhp.Teatbdiecdlsinteseeehhp,aswlaspdrtpsurRA5.TefspdfrtspewdbednteCdBlHhSsFdcdbyteb]
+[DELETED: eflasttfsisbdoninpdbyteIeadHdHnSsDsinretoanetblfmte25leIeDt()estttenrofcdlswlby1.TeNDssttteatatisi,asitidpyonaneeoftectofrgcemtesfrtnofcdblhhsstypetoael.TeNstsrstocscycdbyteDtofHhadHnS)frteMdp.Inantopmc,teatwdaraec,aswlasmna10ptr.TeNDestecswdbeay$0adwdlyiewhieNDasteatinteblwdetudpeonpsaecsfrsdp,igteseeehhpnadmdrkmtp.Ayistopswdietgpmtxdsc.H,astreinhhiscdaocecstopec,lsbtrhpsorfoteofhhiea,whcdheaneitontepmt.CyadllgtesfrhhiecdbeieNDnsteatatwdaobesttorytsbyoswhwdceNHdci’txbeinorsstoreasweNDastetla,aectad1%repewybegrte$5mnpryradttitwdlybeaetoabalrswnisctb.TeNDnsttitispetyoftspdatcdbec,whcdrtinancsfrteSeDtofHhadHnSs()astemyinteddBlHhSsFdwdntl,thteleaswsntcyiet,soifedasp,tefswdleatteedohfly.TeDSasteestostteNwHeClHhAnonwdaobefdfmtsreseastsbecdinpdRA1.TeDSasteblwdrnanieieinsersade.Teedreotwdlybe$0to$0prfly.IntelttecryeCeMtEybgfrtes,pdfrwhSef,rdf]
+[DELETED: 1mnto$2m.Tereedwsddugtsaldaas,whalasadincnofteatdnonSn1,shastereofupto10ptofteadc,agclrsasmybeedbytebdfmtetot,adtebeDSnsapeerinSn13V,asitrste“evef”adntte“dBlHhSsFtisadttayflitwdorarFY2SCsofIeadHhadHnS]

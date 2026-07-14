@@ -1,0 +1,1190 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SB536-FN-ASINTRODUCED
+2026SESSION
+26-2154
+08/09
+536-FN
+ANACT relativetothesolidwastefacilitysiteevaluationcommittee.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Fenton, Dist 10; Sen. Watters, Dist 4; Sen. McGough,
+Dist11;Sen.Gannon,Dist23;Sen.Rosenwald,Dist13;Sen.Prentiss,Dist5
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesthesolidwastefacilitysiteevaluationcommittee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB536-FN-ASINTRODUCED
+26-2154
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothesolidwastefacilitysiteevaluationcommittee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Solid Waste Site Evaluation Committee. Amend RSA 149-M by inserting
+2 aftersection64thefollowingnewsubdivision:
+3 SolidWasteSiteEvaluationCommittee
+4 149-M:65 DeclarationofPurpose.
+5 I. The legislature and the executive branch recognize that the selection of sites for major
+6 solidwastedisposal facilitiesmayhave significant statewide,regional and localimpacts that arenot
+7 fullyevaluatedthroughexistingregulatoryreview.
+8 II. Accordingly, the general court finds that it is in the public interest to establish a
+9 procedure to evaluate the local, regional and statewide benefits and burdens of a new major solid
+10 waste facility that are not captured by existing regulatory reviews, including noise, odor, aesthetics,
+11 local and regional economic impacts, property value impacts, nature and source of waste, need,
+12 impactsontourism,recreationandtraffic,andothersimilarimpacts.
+13 III. Furthermore, the general court recognizes there is a compelling state interest in
+14 maintaining adequate, reasonably priced, and environmentally protective disposal capacity for solid
+15 wastegeneratedinNewHampshire.
+16 IV. The general court prefers that new landfill capacity be developed in expansions of
+17 existingpermittedlandfillsorbrownfieldsitesinsteadofongreenfieldsites.
+18 149-M:66 Definitions. Inthissubdivision:
+19 I. “Acceptance” means a determination by the committee that it finds that the application is
+20 completeandreadyforconsideration.
+21 II. “Administrator” means the administrator of the site evaluation committee established
+22 pursuanttoRSA162-H:3-a.
+23 III. “Affected municipality” means any municipality or unincorporated place in which any
+24 part of a major solid waste disposal facility is proposed to be located and any municipality or
+25 unincorporated place from which any part of the proposed major solid waste disposal facility will be
+26 visibleoraudible,includingoff-sitetrafficimpacts.
+27 IV. “Certificate” means the document issued by the committee, containing such terms and
+28 conditions as the committee deems appropriate, that authorizes the applicant to proceed with the
+29 proposedsiteandfacility.
+30 V. “Commence construction” means any clearing of the land, excavation or other substantial
+31 actionthatwouldresultinlong-termimpactstothesiteoftheproposedfacility,butdoesnotinclude
+SB536-FN-ASINTRODUCED
+-Page2-
+1 land surveying, optioning or acquiring land or rights in land, changes desirable for temporary use of
+2 the land for public recreational uses, necessary subsurface explorations to determine hydrogeologic
+3 and soil conditions, work required as part of an application to any federal, state, or local authority,
+4 or other preconstruction monitoring or testing to establish background information related to the
+5 suitabilityofthesitefortheproposeduse.
+6 VI. “Committee”meansthesolidwasteevaluationcommitteeestablishedbythischapter.
+7 VII. “Department”meansthedepartmentofenvironmentalservices.
+8 VIII. “Major solid waste disposal facility” means a location, system, or physical structure for
+9 the collection, separation, storage, transfer, processing, treatment, or disposal of solid waste with a
+10 proposed waste acceptance rate greater than 100,000 tons per year. "Major solid waste disposal
+11 facility" does not include a facilitydesigned tomanage food wastein accordancewith RSA 149-M:27,
+12 V(b)(1)-(5),oranyfacilityproposedtobeconstructedbyaNewHampshiremunicipalgovernment.
+13 IX. “Filing”meansthedateonwhichtheapplicationisfirstsubmittedtothecommittee.
+14 X. “Person” means any individual, group, firm, partnership, corporation, cooperative,
+15 municipality,politicalsubdivision,governmentagency,orotherorganization.
+16 149-M:67 SolidWasteEvaluationCommitteeEstablished.
+17 I. There is hereby established a committee to be known as the New Hampshire solid waste
+18 siteevaluationcommitteeconsistingof7members,asfollows:
+19 (a) The chairperson of the waste management council established under RSA 21-O:9.
+20 who shall serve as chairperson of the committee. If there is an appeal pending before the waste
+21 management council related to the major solid waste disposal facility, then the chairperson of the
+22 wetlands council, water council or air resources council established under RSA 21-O, selected by the
+23 commissionerofthedepartment,shallserveonthecommitteeandaschairpersonofthecommittee.
+24 (b) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+25 (c) Thecommissionerofthedepartmentofenvironmentalservices,ordesignee.
+26 (d) Four members and, when required by RSA 149-M:68, an alternate member,
+27 appointed by the governor with the consent of the executive council, including a member who serves
+28 on a local conservation commission, a member who has expertise in the private waste management
+29 industry, a member with expertise in municipal planning and one with expertise or experience in
+30 one or more of the following areas: business management; environmental protection; natural
+31 resource protection; solid waste disposal facility design, construction, operation, or management;
+32 community-levelrecycling;communityandregional planningoreconomic development;municipal or
+33 countygovernment;orthegoverningofunincorporatedplaces.
+34 II. All members, including those who sit for a member recused under RSA 149-M:68, shall
+35 refrain from ex parte communications regarding any matter pending before the committee. A
+36 majority of the members of the committee shall constitute a quorum for the purpose of conducting
+37 thecommittee’sbusiness.
+SB536-FN-ASINTRODUCED
+-Page3-
+1 III. The committee shall be administratively attached to the department of environmental
+2 services.
+3 IV. Thechairpersonshallserveasthechiefexecutiveofthecommitteeandmay:
+4 (a) Serveaspresidingofficer.
+5 (b) Delegatetoothermembersthedutiesofthepresidingofficer,asappropriate.
+6 (c) Establish, with the consent of the committee, the budgetary requirements of the
+7 committee.
+8 (d) Engagepersonnelinaccordancewiththischapter.
+9 V. The presiding officer may appoint a hearing officer to perform the functions described in
+10 RSA149-M:70,V.
+11 149-M:68 MembersAppointedByTheGovernorWithTheConsentOfCouncil.
+12 I. Members and alternate members appointed under RSA 149-M:67, I(c) and (d) shall serve
+13 4-year terms and until their successors are appointed and qualified. Any member chosen to fill a
+14 vacancyoccurringotherthanbyexpirationofatermshallbeappointedfortheunexpiredtermofthe
+15 memberwhoissucceeded.
+16 II. If at any time the member appointed by the governor with the consent of the executive
+17 council must recuse himself or herself from a matter before the committee or is not otherwise
+18 availableforgoodreason,thealternatemembershallreplacesuchmember.
+19 III. No member nor any member of his or her family shall receive income from entities that
+20 own or operate, or have applied to own or operate, major solid waste disposal facilities in New
+21 Hampshire. The members appointed by the governor with the consent of the executive council and
+22 theiralternatesshallcomplywithRSA15-AandRSA15-B.
+23 IV. Anymember appointed by thegovernor withthe consent of theexecutive council may be
+24 removedfromofficeinaccordancewithRSA4:1.
+25 149-M:69 Administrator and Other Committee Support. The administrator shall provide
+26 support to the committee. If the administrator is not available or the position is vacant, the
+27 committee may hire an independent contractor at the expense of the applicant. The administrator
+28 shall be under the supervision of the chairperson when performing duties for the committee. The
+29 administrator shall be compensated for work performed for the committee as set forth in RSA 149-
+30 M:85. The administrator, or chairperson in the absence of an administrator, with committee
+31 approval, may engage additional technical, legal, or administrative support to fulfill the functions of
+32 thecommitteeasnecessary.
+33 149-M:70 PowersandDutiesoftheCommittee;Rules.
+34 I. Thecommitteeshall:
+35 (a) Evaluateandissueanycertificateunderthischapterforamajorsolidwaste
+36 disposalfacility.
+37 (b) Determinethetermsandconditionsofanycertificateissuedunderthischapter.
+SB536-FN-ASINTRODUCED
+-Page4-
+1 (c) Adjudicateenforcementmatters.
+2 (d) Assistthepublicinunderstandingtherequirementsofthischapter.
+3 (e) Denyapplicationsforacertificatebasedonsuchfindingsandrulingsasmaybe
+4 necessarytosupportitsdecisiontodeny.
+5 (f) Execute, when appropriate and in the public interest, the general court stated
+6 preference that such new landfill capacity be developed in expansions of existing permitted landfills
+7 orbrownfieldsitesinsteadofongreenfieldsites.
+8 II. The committee shall hold hearings as required by this chapter and such additional
+9 hearings as it deems necessary and appropriate and, in addition to the requirements under RSA 91-
+10 A,ensureadequateandtimelypublicnoticeofnolessthan7calendardays.
+11 III. The committee may delegate to the administrator or such state agency or official as it
+12 deems appropriate the authority to specify the use of any technique, methodology, practice, or
+13 procedure approved by the committee within a certificate issued under this chapter, or the authority
+14 to specify minor changes in the major solid waste disposal facility configuration to the extent that
+15 suchchangesareauthorizedbythecertificateforthoseportionsofaproposedmajorsolidwaste
+16 disposalfacilityproject.
+17 IV. The committee shall not delegate its authority or duties except as provided under this
+18 subdivision.
+19 V. In any matter before the committee, the presiding officer, or a hearing officer designated
+20 by the presiding officer, may hear and decide procedural matters that are before the committee,
+21 including procedural schedules, consolidation of parties with substantially similar interests,
+22 discovery schedules and motions, and identification of significant disputed issues for hearing and
+23 decision by the committee. Undisputed petitions for intervention may be decided by the hearing
+24 officer and disputed petitions shall be decided by the presiding officer. Any party aggrieved by a
+25 decision on a petition to intervene may within 10 calendar days request that the committee review
+26 suchdecision. Otherproceduraldecisionsmaybereviewedbythecommitteeatitsdiscretion.
+27 VI. Thecommitteeshallissuesuchrulestoadministerthischapter,pursuanttoRSA541-A,
+28 afterpublicnoticeandhearing,asmayfromtimetotimeberequired.
+29 149-M:71 ProhibitionsandRestrictions.
+30 I. No person shall commence construction of any major solid waste disposal facility within
+31 the state unless it has obtained a certificate pursuant to this chapter. Such facilities shall be
+32 constructed, operated, and maintained in accordance with the terms of the certificate and any other
+33 federal, state, or local permits or approvals. Such certificates are not required for changes or
+34 additions to existing facilities unless they propose an increase in existing permitted annual
+35 throughput of greater than or equal to 50,000 tons per year. Such a certificate shall not be
+36 transferred or assigned without approval of the committee. Unless otherwise specified in this
+37 chapter, any approved major solid waste facility shall not be constructed, operated, or closed in a
+SB536-FN-ASINTRODUCED
+-Page5-
+1 manner materially different than the manner in which it was presented in the application for a
+2 certificateasmodifiedandconditionedbysuchcertificate.
+3 II. Notwithstanding RSA 541-A:29 or any other law to the contrary, an application for a
+4 certificate from the committee shall be approved or denied by the committee prior to final decisions
+5 on all other state agency permit applications. Applications for certificates may be filed and
+6 evaluated by the committee concurrently with other state approvals and public hearings may be
+7 scheduledconcurrentlywithhearingsheldbyotherstateagenciesaspartoftheirpermittingprocess
+8 forthesamefacility.
+9 III. Notwithstanding paragraph II, for facilities under review by the department for a
+10 permit on or prior to July 1, 2026, an application for a certificate from the committee shall be
+11 approved or denied after other state agency approvals have been obtained. The committee shall not
+12 consider technical questions already considered by other state or federal agencies, nor include terms
+13 or conditions in a certificate that have already been reviewed and decided upon by other state or
+14 federalagencyregulatoryreviews.
+15 149-M:72 ApplicationforCertificate.
+16 I. All applications for a certificate for a major solid waste disposal facility shall be filed with
+17 theadministratororthechairofthecommittee.
+18 II. Upon filing of an application, the chairperson or designated presiding officer shall
+19 expeditiously conduct a preliminary review to ascertain if the application contains sufficient
+20 information to carry out the purposes of this chapter. If the application does not contain such
+21 sufficient information, thechairperson or designated presidingofficer shall, in writing, expeditiously
+22 notifytheapplicantofthatfactandspecifywhatinformationtheapplicantmustsupply.
+23 III. Tocarryoutthecommittee’sdutiesinRSA149-M:70,eachapplicationshall:
+24 (a) Describe in reasonable detail the types and quantities of waste and their
+25 characteristicsproposedtobeacceptedandsizeofeachmajorpartoftheproposedfacility.
+26 (b) Describe in reasonable detail the source of waste to be accepted and if there is a
+27 preferenceforwasteoriginatingwithinthestateofNewHampshire.
+28 (c) Describe how the proposed facility satisfies the criteria listed under RSA 149-M:11,
+29 III.
+30 (d) Identify both the applicant’s preferred choice and other alternatives it considers
+31 availableforthesiteandconfigurationofeachmajorpartoftheproposedfacilityandthereasonsfor
+32 theapplicant’spreferredchoice.
+33 (e) Describeinreasonabledetailtheimpactofeachmajorpartoftheproposedfacilityon
+34 existinglocal,regional,andstatelanduses.
+35 (f) Document that written notification of the proposed project, including appropriate
+36 copies of the application, has been given to the appropriate governing body of each affected
+SB536-FN-ASINTRODUCED
+-Page6-
+1 municipality, as defined in RSA 149-M:66, III. The application shall include a list of the affected
+2 municipalities.
+3 (g) Provide analysis on the local, regional, and statewide visual impact of the proposed
+4 facilityduringconstruction, operation, and post-closure and thevisual impacts as evaluated through
+5 a visual impact assessment prepared in accordance with professional standards by an expert in the
+6 field.
+7 (h) Provide information in reasonable detail about the impacts on local, regional and
+8 state property values, human health, tourism, outdoor recreation, wildlife, traffic, noise, and odor by
+9 the proposed facility. These analyses shall be conducted in accordance with professional standards
+10 byanexpertinthesefields.
+11 (i) Provide a reasonable amount of information relative to how new contaminants of
+12 concern not regulated by a permit issued by the department will be monitored, evaluated and
+13 managedovertheproposedlifeofthefacility.
+14 (j) Provide a reasonable amount of information relative to the economic impacts of the
+15 proposedfacilityonaffectedmunicipalities,theregion,andthestate.
+16 (k) Potential economic benefits to the local area and potential infrastructure
+17 improvementsassociatedwiththeproposedproject.
+18 (l) Providesuchadditionalinformationasthecommitteemayrequireor requesttocarry
+19 outthepurposeofthischapter.
+20 IV. To the extent any information provided in the application was submitted and considered
+21 by a state agency as part of its permitting evaluation and decision under RSA 149-M:71, III, the
+22 applicant shall specify what information was so considered and the statutory and regulatory
+23 authorityforthatagency’sconsiderationoftheinformation.
+24 V. For all information submitted with the application that was prepared by an outside
+25 consultant or expert, the applicant shall submit the qualifications of such consultants or experts to
+26 preparesuchinformation.
+27 VI. The committee shall require the applicant to hire an independent third party at the
+28 expense of the applicant and agreed upon by the committee in consultation with the municipality
+29 where the facility is proposed to be located, to peer review any assessments provided under this
+30 section.
+31 VII. The chairperson or designated presiding officer shall decide whether to accept the
+32 application as administratively complete within 60 days of filing. If the chairperson or designated
+33 presiding officer rejects an application because it determines it to be administratively incomplete,
+34 the applicant may choose to file a new and more complete application or cure the defects in the
+35 rejectedapplicationwithin10daysofreceiptofnotificationofrejection.
+36 VIII. PublicinformationsessionsshallbeheldinaccordancewithRSA149-M:76.
+SB536-FN-ASINTRODUCED
+-Page7-
+1 IX. Within 180 days of the acceptance of an application, the committee shall issue or deny a
+2 certificatefortheproposedmajorsolidwastedisposalfacility.
+3 X. The applicant shall immediately inform the committee of any substantive modification to
+4 itsapplication.
+5 XI. Thecommitteemayrequestthatstateagencieswithrelevanttechnicalexpertise
+6 participateincommitteeproceedings.
+7 XII. The department shall conduct a review of the application information submitted
+8 pursuanttoRSA149-M:72,III(c)todeterminewhetherthefacilityhasdemonstratedthatitsatisfies
+9 thecriteriainRSA149-M:11,III. SuchreviewshallbeconductedinaccordancewithRSA149-M:11.
+10 Thedepartmentshallreportitsfindingstothecommitteeinordertoinformthecommittee’sdecision
+11 ontheapplication.
+12 XIII. ThecommitteemaydenyacertificatebaseduponthecriteriainRSA149-M:9,IX.
+13 XIV. A state agency may intervene as a party in any committee proceeding in the same
+14 mannerasotherpersonsunderRSA541-A.
+15 149-M:73 Disclosure of Ownership. Any application for a certificate, or for change in ownership
+16 and transfer of certificate, shall be signed and sworn to by the person or executive officer of the
+17 associationorcorporationmakingsuchapplicationandshallcontainthefollowinginformation:
+18 I. Fullnameandaddressoftheperson,association,orcorporation.
+19 II. If an association or limited liability company, the name of the state under which it was
+20 formedandthenamesandresidencesofthemembersoftheassociationorlimitedliabilitycompany.
+21 III. If a corporation, the name of the state under which it is incorporated with its principal
+22 placeofbusinessandthenamesandaddressesofitsdirectors,officersandstockholders.
+23 IV. If doing business in a form other than as an association, limited liability company, or
+24 corporation, the form of the business, the name of the state under which it was formed, and the
+25 namesandresidencesofanyonewithafinancial,ownership,orcontrolinterestintheorganization.
+26 V. Thelocationorlocationswhereanapplicantistoconductitsbusiness.
+27 VI. A statement of assets and liabilities of the applicant and other relevant financial
+28 informationofsuchapplicant.
+29 VII. The committee shall administratively approve changes of ownership and transfers of
+30 certificates within 90 days of a petition if it determines the new certificate holder has adequate
+31 financial, technical, and managerial capability to assure construction and operation of the facility in
+32 continuing compliance with the terms and conditions of the certificate and any federal, state, and
+33 localpermits.
+34 149-M:74 ApplicationandFilingFees.
+35 I. A person filing with the committee an application for a certificate for a major solid waste
+36 disposal facility shall pay to the committee at the time of filing a fee determined in accordance with
+37 the fee schedule described in paragraph II. If an application for a certificate for a major solid waste
+SB536-FN-ASINTRODUCED
+-Page8-
+1 disposal facility is deemed incomplete pursuant to RSA 149-M:72, VII, and a new application is
+2 submitted thereunder, the unused portion of the initial application fee shall be refunded to the
+3 applicant or credited to the filing of the new application. The committee may in its discretion
+4 provideforacreditorrefundinothercircumstancesthatareunforeseenbytheapplicant.
+5 II. The fees under paragraph I shall be determined in accordance with a fee schedule posted
+6 bythecommitteeonitswebsite,whichshallincludethefollowingamounts:
+7 (a) Application fee for a major solid waste disposal facility: $20,000 base charge and
+8 $1,000peradditional10,000tons/yearthroughputinexcessof100,000tonsperyear.
+9 (b) Filingfeesforadministrativeproceedings:
+10 (1) Petitionforcommitteejurisdiction: $500.
+11 (2) Certificatetransferofownership: $1,000.
+12 (3) Requesttomodifyacertificate: $1,000.
+13 III. All fee charges shall be deposited in the solid waste evaluation committee fund
+14 establishedinRSA149-M:84andshallbenonlapsingandaccountedforasaseparatelineitem.
+15 IV. The committee shall review and evaluate the application fees and filing fees in the fee
+16 schedule in subparagraphs II(a) and (b) at least once each year. The committee may increase any
+17 amount in the fee schedule by no more than the increase in the consumer price index from the prior
+18 year, provided that any such increase shall occur not more frequently than once during any 12-
+19 monthperiod. Modificationstothefeescheduleshallbepostedonthecommitteewebsite,witha
+20 linkprominentlydisplayedonthehomepage.
+21 V. If the committee determines the cost of committee proceedings for an application
+22 significantlyexceedthefilingfeespaidbytheapplicantforthatapplication,theadditionalcostshall
+23 bebornebytheapplicantorcertificateholderinsuchamountasmaybeapprovedbythecommittee.
+24 149-M:75 CounselforthePublic.
+25 I. An application for a certificate under this subdivision shall be served contemporaneously
+26 by the applicant upon the attorney general. Upon receipt of such an application, the attorney
+27 general shall appoint an assistant attorney general as counsel for the public in connection with the
+28 committee’sconsiderationoftheapplication. Counselforthepublicshallbedeemedtorepresentthe
+29 publicasapartytotheproceedingsbeforethecommittee.
+30 II. This section shall not be construed to prevent any person from being heard or
+31 represented by counsel; provided, however, the committee may compel consolidation of
+32 representation for such persons as have, in the committee’s reasonable judgment, substantially
+33 identicalinterests.
+34 149-M:76 PublicHearing;Studies.
+35 I. At least 30 days prior to filing an application for a certificate, an applicant shall hold at
+36 least one public information session in the affected municipality where the proposed facility is to be
+SB536-FN-ASINTRODUCED
+-Page9-
+1 located. This session may be held concurrently with a public session held as a requirement of any
+2 otherstatepermitorapproval.
+3 II. The committee may order the applicant to provide such additional public information
+4 sessionsinaffectedmunicipalitiesasarereasonabletoinformthepublicoftheproposedproject.
+5 III. Within 90 days after acceptance of an application for a certificate, the committee shall
+6 hold at least one public information session in each municipality where the proposed facility is
+7 proposedtobelocated.
+8 IV. Subsequent public hearings shall be in the nature of adjudicative proceedings under
+9 RSA 541-A and shall be held in the municipality in which the proposed facility is to be located or in
+10 Concord, New Hampshire, as determined by the committee. The committee shall give adequate
+11 publicnoticeofthetimeandplaceofeachsubsequenthearing.
+12 V. The committee shall adopt rules regarding the timing and method of notices for public
+13 information sessions and public hearings, and any other requirements regarding such sessions and
+14 hearings.
+15 VI. The committee shall consider and weigh all evidence presented at public hearings and
+16 shall consider and weigh written information and reports submitted to it by members of the public
+17 prior to the closing of the record of the proceeding. The committee shall provide an opportunity at
+18 oneor morepublichearings for comments fromthegoverningbodyofeachaffected municipalityand
+19 residents of each affected municipality. The committee shall consider, as appropriate, prior
+20 committee findings and rulings on the same or similar subject matters, but shall not be bound
+21 thereby.
+22 VII. The solid waste evaluation committee shall require from the applicant whatever
+23 information it deems necessary to assist in the conduct of the hearings, and any investigation or
+24 studies it may undertake, and in the determination of the terms and conditions of any certificate
+25 underconsideration.
+26 VIII. The committee and counsel for the public shall conduct such reasonable studies and
+27 investigations as they deem necessary or appropriate to carry out the purposes of this chapter and
+28 may employ a consultant or consultants, legal counsel and other staff in furtherance of the duties
+29 imposed by this chapter, the cost of which shall be borne by the applicant or certificate holder in
+30 such amount as may be approved by the committee. The committee and counsel for the public are
+31 further authorized to assess the applicant or certificate holder for all travel and related expenses
+32 associatedwiththeprocessingofanapplicationorotherproceedingsunderthischapter.
+33 IX. Times forconductingpublichearings andrenderingadecisionontheapplicationmaybe
+34 extendedforgoodcauseuponwrittenrequestoftheapplicant.
+35 149-M:77 Judicial Review. Decisions made pursuant to this chapter shall be appealed in
+36 accordancewithRSA541.
+37 149-M:78 MonitoringandEnforcement.
+SB536-FN-ASINTRODUCED
+-Page10-
+1 I. The department shall monitor the construction and operation of any major solid waste
+2 disposal facility granted a certificate under this chapter, after all other subsequent approvals are
+3 obtained, to ensure compliance with such certificate and enforce the terms and conditions of any
+4 such certificate. With the exception of the authority retained by the state agencies in accordance
+5 with paragraph V, the department may delegate the authority to monitor the construction or
+6 operation of any major solid waste disposal facility granted a certificate under this chapter to such
+7 state agency or official as it deems appropriate but shall ensure that the terms and conditions of the
+8 certificate are met. Any authorized representative or delegate of the department shall have a right
+9 of entry ontothe premises of anypart of the solid waste generationfacility toascertain if the facility
+10 is being constructed or operated in continuing compliance with the terms and conditions of the
+11 certificate. Duringnormalhours ofbusinessadministrationandonthepremisesofthefacility, such
+12 arepresentativeordelegateshallalsohavearighttoinspectsuchrecordsofthecertificateholderas
+13 arerelevanttothetermsorconditionsofthecertificate.
+14 II. Whenever the department administratively determines, on its own or in response to a
+15 complaint, that any term or condition of any certificate issued under this chapter or prior law is
+16 being violated, it shall, in writing, notify the certificate holder of the specific violation and order the
+17 person to immediately terminate the violation. If, 15 days after receipt of the order, the person has
+18 failed or neglected to terminate the violation, the department shall notify the committee, which may
+19 suspend the person’s certificate. In addition to suspension, if, after 15 days of receipt of the order,
+20 thepersonhas failed or neglected toterminatetheviolation, thecommittee mayimposeafine not to
+21 exceed $5,000 per day until the violation is corrected. Except for emergencies, prior to any
+22 suspension or imposition of a fine, the committee shall give written notice of its consideration of
+23 suspension or imposition of a fine and of its reasons therefor and shall provide opportunity for a
+24 prompthearing.
+25 III. In addition to other remedies provided in this chapter, upon petition of the department,
+26 the committee may suspend a certificate if the committee determines that a person has made a
+27 material misrepresentation in the application, or in the supplemental or additional statements of
+28 fact,orstudiesrequiredoftheapplicant,orifthecommitteedeterminesthatthepersonhasviolated
+29 the provisions of this chapter, or any rule adopted under this chapter. Except for emergencies, prior
+30 to any suspension, the committee shall give written notice of its consideration of suspension and of
+31 itsreasonsthereforandshallprovideanopportunityforaprompthearing.
+32 IV. Upon petition of the department, the committee may revoke any certificate that is
+33 suspendedafterthepersonholdingthesuspendedcertificatehasbeengivenatleast90days’written
+34 notice of the committee’s consideration of revocation and of its reasons therefor and has been
+35 providedanopportunityforafullhearing.
+36 V. Notwithstandinganyotherprovisionofthischapter,eachstateagencyhavingpermitting
+37 orotherregulatoryauthorityshallretainallofitspowersanddutiesofenforcement.
+SB536-FN-ASINTRODUCED
+-Page11-
+1 VI. The full amount of costs and expenses incurred by the department and committee in
+2 connectionwithanyenforcementactionagainst apersonholdingacertificate, inwhichthepersonis
+3 determined to have violated any provision of this chapter, any rule adopted by the department or
+4 committee, or any of the terms and conditions of the issued certificate, shall be assessed to the
+5 person and shall be paid by the person to the committee. Any amounts paid by a person to the
+6 committee pursuant to this paragraph shall be deposited in the solid waste evaluation committee
+7 fundestablishedinRSA149-M:84.
+8 VII. The department may adopt rules in furtherance of its monitoring and enforcement
+9 responsibilitiesunderthischapter.
+10 149-M:79 Records. Complete verbatim records shall be kept by the committee of all hearings,
+11 and records of all other actions, proceedings, and correspondence of the committee, including
+12 submittals of information and reports by members of the public, shall be maintained, all of which
+13 records shall be open to the public inspection and copying as provided for under RSA 91-A.
+14 Committee records regarding pending applications for a certificate shall also be made available on
+15 the committee’s website unless such records were submitted under seal and are exempt from public
+16 disclosureunderRSA91-A.
+17 149-M:80 Temporary Suspension of Deliberations. If the committee, at any time while an
+18 application for a certificate is before it, deems it to be in the public interest, it may temporarily
+19 suspenditsdeliberationsandtimeframesestablishedunderthischapter.
+20 149-M:81 FindingsandCertificateIssuance.
+21 I. Anycertificateissuedbythecommitteeshallbebasedontherecord. Thedecisiontoissue
+22 a certificate in its final form or to deny an application once it has been accepted shall be made by a
+23 majorityofthecommittee.
+24 II. The committee may consult with interested regional agencies and agencies of border
+25 statesintheconsiderationofcertificates.
+26 III. After due consideration of all relevant information regarding the potential siting,
+27 including potential significant impacts and benefits, the committee shall determine if issuance of a
+28 certificatewillservetheobjectivesofthischapter. Inordertoissueacertificate,thecommitteeshall
+29 findthat:
+30 (a) The applicant has adequate financial, technical, and managerial capability to assure
+31 construction, operation, and closure of the facility in continuing compliance with the terms and
+32 conditionsofthecertificate.
+33 (b) The facility will not undulyinterfere withthe orderlydevelopment of the region with
+34 due consideration having been given to the views of municipal and regional planning commissions
+35 andmunicipalgoverningbodies.
+36 (c) ThefacilitysatisfiesthecriteriainRSA149-M:11,III.
+SB536-FN-ASINTRODUCED
+-Page12-
+1 (d) The net public benefit of the facility to the region shall outweigh any adverse impact
+2 of the facility on human health, aesthetics, historic preservation, economic impacts to the region,
+3 tourism, outdoor recreation, regional and statewide business development, wildlife, noise, odor,
+4 traffic impacts, existing land uses, including property values, characteristics and source of waste,
+5 andanyotherimpactsassessedaspartoftheapplicationpursuanttoRSA149-M:72,III.
+6 (e) Issuance of a certificate will serve the public interest of the citizens of
+7 NewHampshire.
+8 IV. The committee shall issue an order granting or denying a certificate. Such order shall
+9 summarize and address issues of concern expressed during public information sessions and hearings
+10 toensurethatthepublic’svoicehasbeenheardandrecorded.
+11 V. A certificate of site and facility may contain such reasonable terms and conditions,
+12 including, but not limited to the authority to require bonding, as the committee deems necessary.
+13 Suchcertificates,whenissued,shallbefinalandsubjectonlytojudicialreview.
+14 VI. The committee shall condition the certificate upon the results of applicable federal and
+15 state approvals or appeal processes and required federal and state agency studies whose study
+16 periodexceedstheapplicationperiod.
+17 149-M:82 Penalties.
+18 I. Any construction or operation of major solid waste disposal facilities without first
+19 obtaining a certificate from the committee, or any material violation of the terms and conditions of a
+20 certificate issued by the committee, shall be subject to a civil penalty not to exceed $10,000 for each
+21 violation or for each day of a continuing violation. Such violation may also be enjoined by the
+22 superiorcourtuponapplicationoftheattorneygeneral.
+23 II. Whoever purposely or knowingly commits any violation of any provision of this section
+24 shallbeguiltyofamisdemeanorifanaturalperson,orguiltyofafelonyifanyotherperson.
+25 149-M:83 Severability. If any provision of this chapter, or application thereof to any person or
+26 circumstance is held invalid, the invalidity does not affect other provisions or applications of the
+27 chapter which can be given effect without the invalid provisions or applications, and to this end, the
+28 provisionsofthischapterareseverable.
+29 149-M:84 FundEstablished;FundingPlan. Thereisherebyestablished intheofficeofthestate
+30 treasurer a nonlapsing, special fund to be known as the solid waste evaluation committee fund. All
+31 application and other filing fees received by the committee under this chapter shall be deposited in
+32 the fund. All moneys in the fund shall by continually appropriated to the committee and shall be
+33 used to pay for operating costs of the committee and the partial salary of the administrator. If the
+34 administrator position is vacant, the fund may be used to pay an independent contractor to perform
+35 those duties. Notwithstanding any other provision of law, the committee may engage the
+36 department for additional technical, legal, or administrative support to fulfill the requirements of
+SB536-FN-ASINTRODUCED
+-Page13-
+1 thischapter,thecostofwhichshallbechargeddirectlytotheapplicantormajorsolidwastedisposal
+2 facilityowner.
+3 149-M:85 CompensationandReimbursement.
+4 I. The public members of the committee shall be compensated for all time spent on
+5 committee business, including compensation and reimbursement for major solid waste disposal
+6 facility proceeding time and expenses. Compensation shall be provided on a pro rata basis, based
+7 upon the daily salary rate of an unclassified position at the initial step in grade FF under RSA 94:1-
+8 a,I(a).
+9 II. State agencies represented on the committee shall be reimbursed for major solid waste
+10 disposal facility proceeding time and expenses incurred by their respective members or designees,
+11 exceptthattimespentforthefirst5fulldaysoftheirparticipationwithrespecttoanyapplicationor
+12 other proceeding concerning a major solid waste disposal facility shall not be subject to
+13 reimbursement. The rate of reimbursement to each respective agency shall be based on a pro rata
+14 shareoftheemployee’ssalary,benefits,andrelatedcosts.
+15 III The department of justice shall be reimbursed in the same manner as described in
+16 paragraph II for major solid waste disposal facility proceeding time and expenses that are incurred
+17 bythecounselforthepublic.
+18 IV. All persons or agencies seeking compensation or reimbursement under this section shall
+19 keepdetailedtimeandexpenserecordswhichshallbesubmittedtothechairpersonoradministrator
+20 and used to determine the amount of compensation or reimbursement. The chairperson or
+21 administratorshalldeveloparecordkeepingsystemandaccountingandpaymentprocedures.
+22 V. Compensation shall not be provided to members of the committee for initial meetings
+23 conducted prior to acceptance of application fees. The department shall provide support for the
+24 adoptionofrulesestablishedbythecommittee.
+25 149-M:86 Solid Waste Permit Applications Suspended. The department shall not issue any
+26 permit approvals that authorize new capacity for major solid waste disposal facilities until rules are
+27 adoptedbythecommitteeoruntilJuly1,2027,whicheverislater.
+28 2 New Subparagraph; Solid Waste Evaluation Committee Fund. Amend RSA 6:12, I(b) by
+29 insertingaftersubparagraph(410)thefollowingnewsubparagraph:
+30 (411) Moneys deposited in the solid waste evaluation committee fund as established
+31 inRSA149-M:84.
+32 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2154
+10/28/25
+SB536-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothesolidwastefacilitysiteevaluationcommittee.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$10,000to $10,000to
+Revenue $0 $0
+$150.0000 $150,000
+RevenueFund(s) SolidWasteEvaluationCommitteeFund
+Indeterminable Indeterminable
+Expenditures* $0 $0 Increase$10,000 Increase$10,000
+to$150,000 to$150,000
+FundingSource(s) SolidWasteEvaluationCommitteeFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a Solid Waste Site Evaluation Committee (SWSEC) to review applications
+for major solid waste disposal facilities, requires the Department of Environmental Services
+(DES) to provide administrative support, and creates a non-lapsing Solid Waste Evaluation
+Committee Fund to receive certificate application fees. The bill also suspends approvals for new
+capacity for major solid waste disposal facilities until SWSEC rules are adopted or July 1, 2027,
+whicheverislater.
+The Department of Environmental Services states this bill establishes a Solid Waste Site
+Evaluation Committee and requires the Department to assist the committee with
+administrative, rulemaking, and enforcement responsibilities. The bill also creates a Solid
+Waste Evaluation Committee Fund to receive application fees for certificates issued by the
+committee. The Department estimates revenue from certificateapplication fees will likely range
+between $10,000 and $150,000 per application beginning in FY 2028, with similar amounts
+possible in subsequent fiscal years depending on the number and size of projects reviewed. All
+fee revenue would be deposited into the newly established dedicated fund and used to support
+thecommittee’sactivities.
+TheDepartmentindicatestherewillbenofiscalimpacttocountiesormunicipalitiesbecausethe
+definition of “major solid waste disposal facility” excludes facilities designed to manage food
+waste and facilities proposed by municipalities. The bill does not provide new funding or
+position authorization for DES to fulfill its responsibilities. As a result, the Department will
+redirect existing staff resources to support the SWSEC, which may reduce capacity for other
+permittingoroversightactivitieswithintheWasteManagementDivision.
+Additionally, the Solid Waste Site Evaluation Committee would incur expenses for member
+compensation, reimbursements, administrative support, and operational costs. These expenses
+would be paid from the Solid Waste Evaluation Committee Fund established in the bill. All
+money in the fund is continually appropriated to the committee for its operations. The total
+expendituresareindeterminablebutwouldnotexceedwhatthefundbringsin.
+It is assumed that the terms “solid waste site evaluation” and “solid waste evaluation” are used
+interchangeablythroughoutthebill.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices
+[DELETED: B5N-ASI6SEBNATretotesdwefyseenc:S.R,Dt1;S.F,Dt1;S.W,Dt4;S.Mt1;S.G,Dt2;S.R,Dt1;S.P,Dt:EyadNlRsblestesdwefyseenc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretotesdwefyseenceitEdbyteSeadHeofRsinGlCtc1NwS;SdWeSeEnC.AdRA1Mbyiarsn64tefgnwsSdWeSeEnC15DnofPI.Teleadteeebhretttesnofssfrmsdwedlfsmyhests,rladllisttaenfyedthegryrI.A,teglctfsttitisintepcittoehpetoeetel,rladsebsadbsofanwmrs0wefyttaentcdbyegryr,ign,o,a1lladrleci,pyvei,neadseofw,n2isont,rnadt,adorsri3I.F,teglctrsteisacgseiti4mga,ryp,adeypedlcyfrs5wegdinNwH6I.Teglctpsttnwllcybeddineso7egpdlsorbdssidofongds816D.Intss9I.“”msadnbytecettitfsttteani0ceadryfrc1I.“”mstearofteseencee2pttoRA13I.“dm”msaymyorudpeinwha4ptofamrsdwedlfyispdtobeldadaymyo5udpefmwhayptoftepdmrsdwedlfywlb6veora,igoetci7I.“”mstedtidbytec,cgshtsa8csastecedsa,ttasteattopdwht9pdseadf0V.“ec”msaycgoftel,enorors1anttwdrtinlmistoteseoftepdf,btdsnti]
+[DELETED: B5N-ASIPe2lds,ogoragldorrsinl,csdefrtyueoteldfrpcrlu,nyseestodehadslc,wkrdasptofanantoayf,s,orllaororpnmgortgtoehbdinrdtotsyoftesefrtepduV.“”mstesdweenceedbytscV.“”mstedtofelsV.“rsdwedlf”msal,s,orplseftec,s,s,t,p,t,ordlofsdwewh0pdweaeregrtn10tspry."rsdwed1f"dsntieafyddtomefdweinaewhRA12V,orayfypdtobecdbyaNwHemlg3I.“”mstedeonwhteanisftsdtotec4X.“”msayi,g,f,p,c,c5m,pls,gta,ororo617SdWeEnCeE7I.TeishyedacetobeknasteNwHesdw8seencecgof7m,asf9()TecnoftewemtcledurRA20woslseascnoftec.Ifteisanalpgbetew1mtclrdtotemrsdwedlf,tntecnoft2wsc,wrclorarrscledurRA2,sdbyt3crofted,slseonteceadascnoftec4()Tecroftedtofbsadeca,ord5()Tecroftedtofels,ord6()Frmsa,wnrdbyRA1,anaem7adbytegrwhtectofteeec,igamrwos8onallcnc,amrwohseeintepewem9i,amrwheeinmlpgadoewheeoreei0oeormeoftefga:bsm;elp;n1rep;sdwedlfyd,c,o,orm2clr;cyadrlpgorecd;mlo3cyg;orteggofudp4I.Alm,igtewostframrrdurRA1,s5rnfmexpecsrgaymrpgbetec.6myoftemsofteceslceaqmfrtepeofc7tecsb]
+[DELETED: B5N-ASIPe3I.TeceslbeayadtotedtofesI.Tecnslseastecfeeofteceadm()Seaspgo()Detoormstedsoftepgo,asa()E,whtectoftec,tebyrsoftc()EeplinaewhtscV.Tepgormyatahgortopmtefsddi0RA1,V118MsAdByTeGrWhTeCtOfC2I.MsadaemsadurRA1,I)ad()sls34rtsadultrssaeadadq.Aymrcntofl4vyogortnbyenofatmslbeadfrteudtmoft5mrwoiss6I.Ifataytetemradbytegrwhtectoftee7clmtrehforhffmamrbeteceorisnto8aefrgdr,teaemrslreshm9I.Nomrnraymrofhsorhrfyslreiefmest0onoro,orheadtoonoro,mrsdwedlfsinN1H.Temsadbytegrwhtectofteeecla2trasslcywhRA1AadRA13I.Aymradbytegrwhtectofteeeclmyb4rdfmoeinaewhRA4519AradOrCeS.Tearslp6sttotec.Iftearisntaeortepnisv,t7cemyheanitcratteeeoftea.Tea8slbeurtesnoftecnwnpgdsfrtec.T9arslbecdfrwkpdfrteceasstfhinRA10M.Tea,orcninteaeofana,whc1a,myeealt,l,oraesttofltefso2teceasn310PsadDsofteC;R4I.Teces5()Eeadieayceurtscrframrsdw6dlf7()Detetsadcsofayceidurtsc]
+[DELETED: B5N-ASIPe4()Aeetm()Attepcinugtersoftsc()Dyasfracebdonshfsadrsasmybnytostisdntod()E,wnaeadintepci,teglctspettshnwllcybeddinesofegpdlorbdssidofongdsI.Teceslhdhsasrdbytscradshahsasitdsnyadaea,inantotersurRA90A,eeaeadtypcneofnolstn7crd1I.Tecemydetotearorshseayorolasi2dsaeteaytosyteueofayt,m,p,o3peadbytecewnaceidurtsc,ortea4tosymrcsintemrsdwedlfycntoteett5shcsaeadbytecefrtepsofapdmrsdw6dlfyp7I.Teceslntdeisayordsetaspdurt8s9V.Inaymrbetec,tepgo,orahgord0bytepgo,myhraddeplmsttaebetec1igpls,cnofpswhsysri2dyssadm,adinofstddisfrhga3dnbytec.Udpsfrinmybeddbyteh4oradddpsslbeddbytepgo.Aypyadby5dnonapntoiemywn10crdsrttttecer6shd.Orpldsmyberdbyteceatisd7V.Teceslieshrstoartsc,pttoRA58arpcneadh,asmyfmtetoteber911PsadR0I.Nopnslcecnofaymrsdwedlfyw1teseusithsodacepttotsc.Shfsslb2c,o,admdinaewhtetsofteceadayo3f,s,orllpsora.Shcsaentrdfrcso4astoegfsustypeanieinegpda5ttofgrtnorelto50tspry.Shaceslntb6tdoradwtaloftec.Usoesdint7c,ayadmrsdwefyslntbec,o,orcdin]
+[DELETED: B5N-ASIPe5mrmydttntemrinwhitwspdinteanfrceasmdadcdbyshcI.NgRA59orayorlwtotec,ananfrcefmteceslbeadorddbyteceprtofldonalorseaypta.AsfrcsmybefdaedbytececywhorseasadpchsmybsdcywhhshdbyorseasasptoftrpgpfrtesefI.NgphI,frfsurrwbytedtfr0ptonorprtoJy1,2,ananfracefmteceslb1adorddarorseayashebno.Tecesln2crtlqsaycdbyorseorfla,nriet3orcsinacettheaybnrdadddunbyorseo4flayryr512AnfrC6I.Alasfraceframrsdwedlfyslbefdw7tearortecroftec8I.Unfgofana,tecnorddpgors9eyctapyrwtoanifteancss0intocyottepsoftsc.Ifteandsntcns1sti,tecnorddpgors,inw,e2nyteatofttftadsywtinteatmts3I.TocyottecsdsinRA1,ehans4()Deinredltetsadqsofweadt5cspdtobeadadseofehmrptoftepdf6()Deinredlteseofwetobeadadifteis7pefrweogwnteseofNwH8()DehwtepdfysstecaldurRA19I0()Iybhteaspdceadorasitc1aefrteseadcnofehmrptoftepdfyadtersf2teaspdc3()Deinredlteitofehmrptoftepdfyo4egl,r,adseldu5()Dtttwnnnoftepdp,iga6csoftea,hsbngntoteaeggbyofeha]
+[DELETED: B5N-ASIPe6m,asddinRA1,I.Teansliealtofteam()Peasontel,r,adsevlitoftepfydgc,o,adpeadtevlisasedtavlitatpdinaewhplssbyanetintf()Peininredlatteisonl,rlasepyv,hnh,t,orr,w,t,n,adorbtepdf.Teasslbecdinaewhpls0byanetintef1()Peareatofinretohwnwcso2cnntrdbyaptidbytedtwlbem,eda3mdortepdleoftef4()Peareatofinretoteecisoft5pdfyonadm,ter,adtes6()Plecbstotellaaadpli7isadwhtepdp8()Peshalinastecemyreorrttoc9ottepeoftsc0I.Toteetayinpdinteanwssdadc1byaseayasptofispgenaddnurRA1,I,t2atslsywtinwssocdadtesyadr3ayfrttascnoftei4V.Fralinsdwhteanttwspdbyano5ctore,teatslstteqsofshcsorest6peshi7V.Teceslreteattoheanittdpyatt8eeofteatadadunbyteceincnwhtem9wetefyispdtobel,toprrwayaspdurt0s1V.Tecnorddpgorsldewrtoatt2anasaycewn60dsoff.Iftecnord3pgorrsananbeitdsittobeayi4teatmycetofeanwadmeceanorcetedsint5rdanwn10dsofrtofnnofr6V.PcinssslbehdinaewhRA1]
+[DELETED: B5N-ASIPe7I.Wn10dsofteaeofana,teceslieordycefrtepdmrsdwedlfX.TeatsliyimteceofaysemntisaX.TecemyrtttseaswhrttlepeincepX.TedtslctarwofteaninspttoRA1,I)todewrtefyhsddttitstecainRA1,I.ShrwslbecdinaewhRA10Tedtslrtisfstoteceinortoimtecsd1ontea2X.TecemydyacebduntecainRA1,I3X.Aseaymyieasapyinaycepgintes4mrasorpsurRA5513DeofO.Ayanfrac,orfrceino6adtrofc,slbesdadsntobytepnoreeoroft7anorcnmgshanadslcntefgi8I.Flneadasoftep,a,orc9I.Ifananorldlyc,teneofteseurwhitw0fdadtensadrsoftemsofteanorldlyc1I.Ifac,teneofteseurwhitisidwhisp2peofbsadtensadasofisd,osads3I.Ifdgbsinafmortnasana,ldlyc,o4c,tefmofteb,teneofteseurwhitwsf,adt5nsadrsofaewhaf,o,orclitinteo6V.Telnorlsweanatistoctisb7V.Astofasadlsofteatadorrtf8inofsha9V.Teceslayaecsofopadtso0cswn90dsofapnifitdstenwcehrhsa1f,t,admlcytoaecnadonoftefyi2cgcewhtetsadcsofteceadayf,s,a3llp414AnadFgF5I.Apnfgwhteceananfraceframrsdw6dlfyslpytoteceatteteoffgafeddinaew7tefeseddinphI.Ifananfraceframrsdw]
+[DELETED: B5N-ASIPe8dlfyisddiepttoRA1,V,adanwanisdt,teudpnofteilanfeslberdtotatorcdtotefgoftenwa.TecemyinisdpefractorrdinorcsttaeunbyteaI.TefsurphIslbeddinaewhafesepbyteceonisw,whslietefga()Anfeframrsdwedlf:$0becea$0pral10trttinesof10tspry()Fgfsfraep0()Pnfrcej:$1()Cetrofo:$2()Rttomyac:$3I.Alfecsslbeddintesdweencef4edinRA14adslbengadadfrasaselei5I.Teceslrwadeeteanfsadfgfsintef6seinssI)ad()atltoeehy.Tecemyiea7atintefesebynometnteieintecrpeixfmtep8y,pdttayshieslorntmefytnoedgay19mhp.Mstotefeseslbepdontecew,wh0lkpyddontehep1V.Iftecedstectofcepsfrana2syedtefgfspdbyteatfrtta,tealcts3bebebyteatorcehrinshatasmybeadbytec415ClfrteP5I.Ananfraceurtssnslbesdc6byteatunteayg.Unrtofshana,tea7glslatanatayglasclfrtepcincnwht8cscnoftea.Clfrtepcslbeddtortt9pcasapytotepsbetec0I.Tssnslntbecdtoptaypnfmbghdo1rdbyc;p,h,tecemyclcno2rnfrshpsash,intecsrej,s3ili416PcH;S5I.Atlt30dsprtofgananfrac,anatslhda6ltoepcinsninteadmywetepdfyistob]
+[DELETED: B5N-ASIPe9l.TssnmybehdcywhapcsnhdasartofaorseptoraI.TecemyorteattopeshalpcissinadmsasaeretoimtepcoftepdpI.Wn90dsaraeofananfrac,teceshdatltoepcinsninehmywetepdfyipdtobelI.StpchsslbeinteneofaepsuRA5Aadslbehdintemyinwhtepdfyistobeldori0C,NwH,asddbytec.Teceslgea1pcneofteteadpeofehsth2V.Teceslatrsrgtetgadmdofnsfrp3inssadpch,adayorrsrgshssa4h5V.Teceslcradwhaleepdatpchsa6slcradwhwninadrssdtoitbymsoftep7prtotecgofterdoftep.Teceslpeanoya8oeormepchsfrcsfmteggbyofehadmya9rsofehadm.Teceslc,asa,p0cefsadrsonteseorsrstm,btslntbeb1t2V.Tesdweenceslrefmteatw3initdsnytoatintectofteh,adayino4ssitmyu,adintednoftetsadcsofayc5urc6V.Teceadclfrtepcslctshressa7isastydmnyoraetocyottepsoftscra8myeyactorc,llcladorsfinfeofted9idbytsc,tectofwhslbebebyteatorcehri0shatasmybeadbytec.Teceadclfrtepca1fradtoasteatorcehrfraltladrde2adwhtepgofananororpsurtsc3I.Tsfrcgpchsadrgadnonteanmyb4edfrgdceunwnrtoftea517JlR.Dsmepttotscrslbeadi6aewhRA5718MgadE]
+[DELETED: B5N-ASIPe10I.Tedtslmrtecnadonofaymrsdwdlfygdaceurtsc,aralorstasao,toeecewhshceadeetetsadcsofashc.WhteenofteayrdbyteseasinawhphV,tedtmydeteaytomrtecnoonofaymrsdwedlfygdaceurtscrtosseayorolasitdsaebtsleetttetsadcsoftceaem.Ayadreordeoftedtslhearofeyootepsofayptoftesdwegnfytoaniftef0isbgcdorodincgcewhtetsadcsoft1c.Dgnlhsofbsanadontepsoftef,s2areordeslaohearttoitshrsoftecehra3aerttotetsorcsoftec4I.Wrtedtayd,onisonorinreto5c,ttaytmorcnofayceidurtscrorprlwi6bgv,its,inw,nytecehroftescvnadort7pntoiytetev.I,15dsarrtofteo,tepnh8fdorndtotetev,tedtslnytec,whm9sdtepsc.Inantos,i,ar15dsofrtofteo0tepnhsfdorndtotetev,tecemyieafentt1ed$0prdyultevnisc.Etfre,prtoa2snorinofaf,teceslgewnneofiscno3snorinofafeadofisrstradslpeoyfr4pth5I.Inantoorrspdintsc,unpnofted6tecemysdaceiftecedsttapnhsme7mlmnintea,orintesloralsso8f,orssrdoftea,oriftecedstttepnhsv9tepsoftsc,orayreadurtsc.Etfre,p0toays,teceslgewnneofiscnofsnado1isrstradslpeanoyfrapth2I.Unpnofted,tecemyreaycetti3sdartepnhgtesdcehsbngnatlt90d’w4neoftecscnofrnadofisrstradhsb5pdanoyfraflh6V.Ngayorpnoftsc,ehseayhgp7ororryayslrnalofispsaddsofe]
+[DELETED: B5N-ASIPe11V.Teflatofcsadesidbytedtadceicnwhayetanatapnhgac,inwhtepniddtohevdaypnoftsc,ayreadbytedtoc,orayoftetsadcsofteidc,slbeadtotpnadslbepdbytepntotec.AyaspdbyapntotcepttotsphslbeddintesdweencfdedinRA1V.Tedtmyatrsinfeofismgadersurtsc019R.Cevmrsslbektbyteceofalh1adrsofalora,p,adceoftec,i2ssofinadrsbymsoftep,slbem,alofw3rsslbeontotepcinadcgaspdfrurRA94Cersrgpgasfraceslaobemeaeo5tecsweusshrswesdursladaeetfmp6deurRA9710TySnofD.Iftec,ataytewea8anfraceisbei,dsittobeintepci,itmyt9sdisdsadtefsedurtsc011FsadCeI1I.Ayceidbyteceslbebdonter.Tedntoi2aceinisflfmortodyananoeithsbnadslbemeby3myoftec4I.Tecemyctwhidrlasadasofb5ssintecnofc6I.Ardecnofalrtinrgtepls7igplstisadb,tecesldeifieof8cewlseteosoftsc.Inortoieac,teces9fdt0()Teathsaef,t,admlcytoa1c,o,adceoftefyincgcewhtetsa2csoftec3()Tefywlntuyiewhteoydtofternw4decnhgbngntotevsofmladrlpgc5admlggb6()TefysstecainRA1,I]
+[DELETED: B5N-ASIPe12()Tentpcbtoftefytoternslohayaeioftefyonhnh,a,hcp,ecistotert,orr,rladsebsd,w,n,otci,egldu,igpyv,csadseofwadayorisadasptofteanpttoRA1,I()IeofacewlsetepcitoftecsoNI.Teceslieanorggordgac.Shorsseadasisofcneddgpcinssadh0toeetttepsvehsbnhdadr1V.Aceofseadfymycnshretsadc2i,btntldtoteaytoreb,astecedsn3Shc,wni,slbefladstoytojlr4V.Teceslcnteceuntersofaefla5seasoralpsadrdfladseaysswes6pdesteanp712P8I.Aycnoronofmrsdwedlfswtf9ogacefmtec,oraymlvnoftetsadcsof0ceidbytec,slbesttoaclpynttoed$0fre1vnorfrehdyofacgv.Shvnmyaobeedbyt2srctunanofteayg3I.Wrpyorkycsayvnofaypnoftss4slbegyofamrifanlp,orgyofafyifayorp513S.Ifaypnoftsc,orantftoaypno6ceishdi,teiydsntatorpsorasoft7crwhcnbegnetwtteidpsora,adtotse,t8psoftscraes914FdE;FgP.Teishyedinteoeoftes0tran,slfdtobeknastesdweencef.A1anadorfgfsrdbyteceurtscrslbeddi2tef.Almsintefdslbycyadtoteceadslb3udtopyfrogcsofteceadteplsyoftea.Ift4arpnisv,tefdmybeudtopyanitcrtop5ted.Ngayorpnofl,tecemyeet6dtfralt,l,oraesttoflterso]
+[DELETED: B5N-ASIPe13tsc,tectofwhslbecddytoteatormrsdwedfyo15CnadRI.Tepcmsofteceslbecdfraltestoceb,igcnadrtfrmrsdwedfypgteade.Cnslbepdonaporab,buntedysyreofanudpnatteilspingeFFurRA9a,II.Seasrdonteceslberdfrmrsdw0dlfypgteadesidbytrremsord1ettttestfrteft5fldsoftrpnwhrttoayano2orpgcgamrsdwedlfyslntbestt3r.Tereofrttoehreayslbebdonapor4seofteess,b,adrdc5IITedtofjeslberdintesemrasddi6phIIfrmrsdwedlfypgteadesttaei7byteclfrtep8I.Alpsorassgcnorrturtssns9kpddteadeerswhslbesdtotecnora0adudtodeteatofcnorr.Tecno1arsldpardkgsmadagadptp2V.Cnslntbepdtomsoftecefrilm3cdprtoaeofanf.Tedtslpestfrt4anofrsedbytec516SdWePtAsS.Tedtslntiea6ptasttaenwcyfrmrsdwedlfsulrsa7adbyteceorulJy1,2,wrisl82NwS;SdWeEnCeF.AdRA6,I)b9igarsh()tefgnws0()Msddintesdweencefdase1inRA123EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATretotesdwefyseencLIdSeIY26FY27FY28FY20$0to$0t0$eFdWeEnCeF0$0Ie$0Ie$eIo$0to$gSdWeEnCeF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblesaSdWeSeEnCe()torwarmrsdwedlf,rsteDtofElS)topeaes,adcsangSdWeEeFdtoreceanf.TeblaossasfrnyfrmrsdwedlfsulSCrsaeadorJy1,2risleDtofElSssstsblesaSdWeSnCeadrsteDttoattecew,r,adetr.TeblaocsaSeEnCeFdtoreanfsfrcsidbyt.TeDtesrefmceanfswllyrn$0ad$0pranbginFY2,whsraeinstflysdgontenradseofpsr.AerewdbeddiotenyedddfdadudtosecsaeDtistewlbenoflittocsormsbetnof“rsdwedlf”esfsddtomef]
+[DELETED: eadfspdbym.TebldsntpenwfgonanfrDStoflisr.Asar,teDtwtegsfrstostteS,whmyrecyfrogorotaswnteWeMtD,teSdWeSeEnCewdiresfrm,r,aes,adolc.TeedbepdfmteSdWeEnCeFdedinteb.Ayintefdiscyadtotecefriso.Tetsaeiebtwdntedwttefdbsitisadtttets“dwesee”ad“dwee”aeuytttebSCtofElS]
+
+
+================================================================================
+
+Raw Text:
+SB536-FN-ASINTRODUCED
+2026SESSION
+26-2154
+08/09
+536-FN
+SENATEBILL
+ANACT relativetothesolidwastefacilitysiteevaluationcommittee.
+SPONSORS: Sen. Rochefort, Dist 1; Sen. Fenton, Dist 10; Sen. Watters, Dist 4; Sen. McGough,
+Dist11;Sen.Gannon,Dist23;Sen.Rosenwald,Dist13;Sen.Prentiss,Dist5
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillestablishesthesolidwastefacilitysiteevaluationcommittee.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB536-FN-ASINTRODUCED
+26-2154
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothesolidwastefacilitysiteevaluationcommittee.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Solid Waste Site Evaluation Committee. Amend RSA 149-M by inserting
+2 aftersection64thefollowingnewsubdivision:
+3 SolidWasteSiteEvaluationCommittee
+4 149-M:65 DeclarationofPurpose.
+5 I. The legislature and the executive branch recognize that the selection of sites for major
+6 solidwastedisposal facilitiesmayhave significant statewide,regional and localimpacts that arenot
+7 fullyevaluatedthroughexistingregulatoryreview.
+8 II. Accordingly, the general court finds that it is in the public interest to establish a
+9 procedure to evaluate the local, regional and statewide benefits and burdens of a new major solid
+10 waste facility that are not captured by existing regulatory reviews, including noise, odor, aesthetics,
+11 local and regional economic impacts, property value impacts, nature and source of waste, need,
+12 impactsontourism,recreationandtraffic,andothersimilarimpacts.
+13 III. Furthermore, the general court recognizes there is a compelling state interest in
+14 maintaining adequate, reasonably priced, and environmentally protective disposal capacity for solid
+15 wastegeneratedinNewHampshire.
+16 IV. The general court prefers that new landfill capacity be developed in expansions of
+17 existingpermittedlandfillsorbrownfieldsitesinsteadofongreenfieldsites.
+18 149-M:66 Definitions. Inthissubdivision:
+19 I. “Acceptance” means a determination by the committee that it finds that the application is
+20 completeandreadyforconsideration.
+21 II. “Administrator” means the administrator of the site evaluation committee established
+22 pursuanttoRSA162-H:3-a.
+23 III. “Affected municipality” means any municipality or unincorporated place in which any
+24 part of a major solid waste disposal facility is proposed to be located and any municipality or
+25 unincorporated place from which any part of the proposed major solid waste disposal facility will be
+26 visibleoraudible,includingoff-sitetrafficimpacts.
+27 IV. “Certificate” means the document issued by the committee, containing such terms and
+28 conditions as the committee deems appropriate, that authorizes the applicant to proceed with the
+29 proposedsiteandfacility.
+30 V. “Commence construction” means any clearing of the land, excavation or other substantial
+31 actionthatwouldresultinlong-termimpactstothesiteoftheproposedfacility,butdoesnotinclude
+
+SB536-FN-ASINTRODUCED
+-Page2-
+1 land surveying, optioning or acquiring land or rights in land, changes desirable for temporary use of
+2 the land for public recreational uses, necessary subsurface explorations to determine hydrogeologic
+3 and soil conditions, work required as part of an application to any federal, state, or local authority,
+4 or other preconstruction monitoring or testing to establish background information related to the
+5 suitabilityofthesitefortheproposeduse.
+6 VI. “Committee”meansthesolidwasteevaluationcommitteeestablishedbythischapter.
+7 VII. “Department”meansthedepartmentofenvironmentalservices.
+8 VIII. “Major solid waste disposal facility” means a location, system, or physical structure for
+9 the collection, separation, storage, transfer, processing, treatment, or disposal of solid waste with a
+10 proposed waste acceptance rate greater than 100,000 tons per year. "Major solid waste disposal
+11 facility" does not include a facilitydesigned tomanage food wastein accordancewith RSA 149-M:27,
+12 V(b)(1)-(5),oranyfacilityproposedtobeconstructedbyaNewHampshiremunicipalgovernment.
+13 IX. “Filing”meansthedateonwhichtheapplicationisfirstsubmittedtothecommittee.
+14 X. “Person” means any individual, group, firm, partnership, corporation, cooperative,
+15 municipality,politicalsubdivision,governmentagency,orotherorganization.
+16 149-M:67 SolidWasteEvaluationCommitteeEstablished.
+17 I. There is hereby established a committee to be known as the New Hampshire solid waste
+18 siteevaluationcommitteeconsistingof7members,asfollows:
+19 (a) The chairperson of the waste management council established under RSA 21-O:9.
+20 who shall serve as chairperson of the committee. If there is an appeal pending before the waste
+21 management council related to the major solid waste disposal facility, then the chairperson of the
+22 wetlands council, water council or air resources council established under RSA 21-O, selected by the
+23 commissionerofthedepartment,shallserveonthecommitteeandaschairpersonofthecommittee.
+24 (b) Thecommissionerofthedepartmentofbusinessandeconomicaffairs,ordesignee.
+25 (c) Thecommissionerofthedepartmentofenvironmentalservices,ordesignee.
+26 (d) Four members and, when required by RSA 149-M:68, an alternate member,
+27 appointed by the governor with the consent of the executive council, including a member who serves
+28 on a local conservation commission, a member who has expertise in the private waste management
+29 industry, a member with expertise in municipal planning and one with expertise or experience in
+30 one or more of the following areas: business management; environmental protection; natural
+31 resource protection; solid waste disposal facility design, construction, operation, or management;
+32 community-levelrecycling;communityandregional planningoreconomic development;municipal or
+33 countygovernment;orthegoverningofunincorporatedplaces.
+34 II. All members, including those who sit for a member recused under RSA 149-M:68, shall
+35 refrain from ex parte communications regarding any matter pending before the committee. A
+36 majority of the members of the committee shall constitute a quorum for the purpose of conducting
+37 thecommittee’sbusiness.
+
+SB536-FN-ASINTRODUCED
+-Page3-
+1 III. The committee shall be administratively attached to the department of environmental
+2 services.
+3 IV. Thechairpersonshallserveasthechiefexecutiveofthecommitteeandmay:
+4 (a) Serveaspresidingofficer.
+5 (b) Delegatetoothermembersthedutiesofthepresidingofficer,asappropriate.
+6 (c) Establish, with the consent of the committee, the budgetary requirements of the
+7 committee.
+8 (d) Engagepersonnelinaccordancewiththischapter.
+9 V. The presiding officer may appoint a hearing officer to perform the functions described in
+10 RSA149-M:70,V.
+11 149-M:68 MembersAppointedByTheGovernorWithTheConsentOfCouncil.
+12 I. Members and alternate members appointed under RSA 149-M:67, I(c) and (d) shall serve
+13 4-year terms and until their successors are appointed and qualified. Any member chosen to fill a
+14 vacancyoccurringotherthanbyexpirationofatermshallbeappointedfortheunexpiredtermofthe
+15 memberwhoissucceeded.
+16 II. If at any time the member appointed by the governor with the consent of the executive
+17 council must recuse himself or herself from a matter before the committee or is not otherwise
+18 availableforgoodreason,thealternatemembershallreplacesuchmember.
+19 III. No member nor any member of his or her family shall receive income from entities that
+20 own or operate, or have applied to own or operate, major solid waste disposal facilities in New
+21 Hampshire. The members appointed by the governor with the consent of the executive council and
+22 theiralternatesshallcomplywithRSA15-AandRSA15-B.
+23 IV. Anymember appointed by thegovernor withthe consent of theexecutive council may be
+24 removedfromofficeinaccordancewithRSA4:1.
+25 149-M:69 Administrator and Other Committee Support. The administrator shall provide
+26 support to the committee. If the administrator is not available or the position is vacant, the
+27 committee may hire an independent contractor at the expense of the applicant. The administrator
+28 shall be under the supervision of the chairperson when performing duties for the committee. The
+29 administrator shall be compensated for work performed for the committee as set forth in RSA 149-
+30 M:85. The administrator, or chairperson in the absence of an administrator, with committee
+31 approval, may engage additional technical, legal, or administrative support to fulfill the functions of
+32 thecommitteeasnecessary.
+33 149-M:70 PowersandDutiesoftheCommittee;Rules.
+34 I. Thecommitteeshall:
+35 (a) Evaluateandissueanycertificateunderthischapterforamajorsolidwaste
+36 disposalfacility.
+37 (b) Determinethetermsandconditionsofanycertificateissuedunderthischapter.
+
+SB536-FN-ASINTRODUCED
+-Page4-
+1 (c) Adjudicateenforcementmatters.
+2 (d) Assistthepublicinunderstandingtherequirementsofthischapter.
+3 (e) Denyapplicationsforacertificatebasedonsuchfindingsandrulingsasmaybe
+4 necessarytosupportitsdecisiontodeny.
+5 (f) Execute, when appropriate and in the public interest, the general court stated
+6 preference that such new landfill capacity be developed in expansions of existing permitted landfills
+7 orbrownfieldsitesinsteadofongreenfieldsites.
+8 II. The committee shall hold hearings as required by this chapter and such additional
+9 hearings as it deems necessary and appropriate and, in addition to the requirements under RSA 91-
+10 A,ensureadequateandtimelypublicnoticeofnolessthan7calendardays.
+11 III. The committee may delegate to the administrator or such state agency or official as it
+12 deems appropriate the authority to specify the use of any technique, methodology, practice, or
+13 procedure approved by the committee within a certificate issued under this chapter, or the authority
+14 to specify minor changes in the major solid waste disposal facility configuration to the extent that
+15 suchchangesareauthorizedbythecertificateforthoseportionsofaproposedmajorsolidwaste
+16 disposalfacilityproject.
+17 IV. The committee shall not delegate its authority or duties except as provided under this
+18 subdivision.
+19 V. In any matter before the committee, the presiding officer, or a hearing officer designated
+20 by the presiding officer, may hear and decide procedural matters that are before the committee,
+21 including procedural schedules, consolidation of parties with substantially similar interests,
+22 discovery schedules and motions, and identification of significant disputed issues for hearing and
+23 decision by the committee. Undisputed petitions for intervention may be decided by the hearing
+24 officer and disputed petitions shall be decided by the presiding officer. Any party aggrieved by a
+25 decision on a petition to intervene may within 10 calendar days request that the committee review
+26 suchdecision. Otherproceduraldecisionsmaybereviewedbythecommitteeatitsdiscretion.
+27 VI. Thecommitteeshallissuesuchrulestoadministerthischapter,pursuanttoRSA541-A,
+28 afterpublicnoticeandhearing,asmayfromtimetotimeberequired.
+29 149-M:71 ProhibitionsandRestrictions.
+30 I. No person shall commence construction of any major solid waste disposal facility within
+31 the state unless it has obtained a certificate pursuant to this chapter. Such facilities shall be
+32 constructed, operated, and maintained in accordance with the terms of the certificate and any other
+33 federal, state, or local permits or approvals. Such certificates are not required for changes or
+34 additions to existing facilities unless they propose an increase in existing permitted annual
+35 throughput of greater than or equal to 50,000 tons per year. Such a certificate shall not be
+36 transferred or assigned without approval of the committee. Unless otherwise specified in this
+37 chapter, any approved major solid waste facility shall not be constructed, operated, or closed in a
+
+SB536-FN-ASINTRODUCED
+-Page5-
+1 manner materially different than the manner in which it was presented in the application for a
+2 certificateasmodifiedandconditionedbysuchcertificate.
+3 II. Notwithstanding RSA 541-A:29 or any other law to the contrary, an application for a
+4 certificate from the committee shall be approved or denied by the committee prior to final decisions
+5 on all other state agency permit applications. Applications for certificates may be filed and
+6 evaluated by the committee concurrently with other state approvals and public hearings may be
+7 scheduledconcurrentlywithhearingsheldbyotherstateagenciesaspartoftheirpermittingprocess
+8 forthesamefacility.
+9 III. Notwithstanding paragraph II, for facilities under review by the department for a
+10 permit on or prior to July 1, 2026, an application for a certificate from the committee shall be
+11 approved or denied after other state agency approvals have been obtained. The committee shall not
+12 consider technical questions already considered by other state or federal agencies, nor include terms
+13 or conditions in a certificate that have already been reviewed and decided upon by other state or
+14 federalagencyregulatoryreviews.
+15 149-M:72 ApplicationforCertificate.
+16 I. All applications for a certificate for a major solid waste disposal facility shall be filed with
+17 theadministratororthechairofthecommittee.
+18 II. Upon filing of an application, the chairperson or designated presiding officer shall
+19 expeditiously conduct a preliminary review to ascertain if the application contains sufficient
+20 information to carry out the purposes of this chapter. If the application does not contain such
+21 sufficient information, thechairperson or designated presidingofficer shall, in writing, expeditiously
+22 notifytheapplicantofthatfactandspecifywhatinformationtheapplicantmustsupply.
+23 III. Tocarryoutthecommittee’sdutiesinRSA149-M:70,eachapplicationshall:
+24 (a) Describe in reasonable detail the types and quantities of waste and their
+25 characteristicsproposedtobeacceptedandsizeofeachmajorpartoftheproposedfacility.
+26 (b) Describe in reasonable detail the source of waste to be accepted and if there is a
+27 preferenceforwasteoriginatingwithinthestateofNewHampshire.
+28 (c) Describe how the proposed facility satisfies the criteria listed under RSA 149-M:11,
+29 III.
+30 (d) Identify both the applicant’s preferred choice and other alternatives it considers
+31 availableforthesiteandconfigurationofeachmajorpartoftheproposedfacilityandthereasonsfor
+32 theapplicant’spreferredchoice.
+33 (e) Describeinreasonabledetailtheimpactofeachmajorpartoftheproposedfacilityon
+34 existinglocal,regional,andstatelanduses.
+35 (f) Document that written notification of the proposed project, including appropriate
+36 copies of the application, has been given to the appropriate governing body of each affected
+
+SB536-FN-ASINTRODUCED
+-Page6-
+1 municipality, as defined in RSA 149-M:66, III. The application shall include a list of the affected
+2 municipalities.
+3 (g) Provide analysis on the local, regional, and statewide visual impact of the proposed
+4 facilityduringconstruction, operation, and post-closure and thevisual impacts as evaluated through
+5 a visual impact assessment prepared in accordance with professional standards by an expert in the
+6 field.
+7 (h) Provide information in reasonable detail about the impacts on local, regional and
+8 state property values, human health, tourism, outdoor recreation, wildlife, traffic, noise, and odor by
+9 the proposed facility. These analyses shall be conducted in accordance with professional standards
+10 byanexpertinthesefields.
+11 (i) Provide a reasonable amount of information relative to how new contaminants of
+12 concern not regulated by a permit issued by the department will be monitored, evaluated and
+13 managedovertheproposedlifeofthefacility.
+14 (j) Provide a reasonable amount of information relative to the economic impacts of the
+15 proposedfacilityonaffectedmunicipalities,theregion,andthestate.
+16 (k) Potential economic benefits to the local area and potential infrastructure
+17 improvementsassociatedwiththeproposedproject.
+18 (l) Providesuchadditionalinformationasthecommitteemayrequireor requesttocarry
+19 outthepurposeofthischapter.
+20 IV. To the extent any information provided in the application was submitted and considered
+21 by a state agency as part of its permitting evaluation and decision under RSA 149-M:71, III, the
+22 applicant shall specify what information was so considered and the statutory and regulatory
+23 authorityforthatagency’sconsiderationoftheinformation.
+24 V. For all information submitted with the application that was prepared by an outside
+25 consultant or expert, the applicant shall submit the qualifications of such consultants or experts to
+26 preparesuchinformation.
+27 VI. The committee shall require the applicant to hire an independent third party at the
+28 expense of the applicant and agreed upon by the committee in consultation with the municipality
+29 where the facility is proposed to be located, to peer review any assessments provided under this
+30 section.
+31 VII. The chairperson or designated presiding officer shall decide whether to accept the
+32 application as administratively complete within 60 days of filing. If the chairperson or designated
+33 presiding officer rejects an application because it determines it to be administratively incomplete,
+34 the applicant may choose to file a new and more complete application or cure the defects in the
+35 rejectedapplicationwithin10daysofreceiptofnotificationofrejection.
+36 VIII. PublicinformationsessionsshallbeheldinaccordancewithRSA149-M:76.
+
+SB536-FN-ASINTRODUCED
+-Page7-
+1 IX. Within 180 days of the acceptance of an application, the committee shall issue or deny a
+2 certificatefortheproposedmajorsolidwastedisposalfacility.
+3 X. The applicant shall immediately inform the committee of any substantive modification to
+4 itsapplication.
+5 XI. Thecommitteemayrequestthatstateagencieswithrelevanttechnicalexpertise
+6 participateincommitteeproceedings.
+7 XII. The department shall conduct a review of the application information submitted
+8 pursuanttoRSA149-M:72,III(c)todeterminewhetherthefacilityhasdemonstratedthatitsatisfies
+9 thecriteriainRSA149-M:11,III. SuchreviewshallbeconductedinaccordancewithRSA149-M:11.
+10 Thedepartmentshallreportitsfindingstothecommitteeinordertoinformthecommittee’sdecision
+11 ontheapplication.
+12 XIII. ThecommitteemaydenyacertificatebaseduponthecriteriainRSA149-M:9,IX.
+13 XIV. A state agency may intervene as a party in any committee proceeding in the same
+14 mannerasotherpersonsunderRSA541-A.
+15 149-M:73 Disclosure of Ownership. Any application for a certificate, or for change in ownership
+16 and transfer of certificate, shall be signed and sworn to by the person or executive officer of the
+17 associationorcorporationmakingsuchapplicationandshallcontainthefollowinginformation:
+18 I. Fullnameandaddressoftheperson,association,orcorporation.
+19 II. If an association or limited liability company, the name of the state under which it was
+20 formedandthenamesandresidencesofthemembersoftheassociationorlimitedliabilitycompany.
+21 III. If a corporation, the name of the state under which it is incorporated with its principal
+22 placeofbusinessandthenamesandaddressesofitsdirectors,officersandstockholders.
+23 IV. If doing business in a form other than as an association, limited liability company, or
+24 corporation, the form of the business, the name of the state under which it was formed, and the
+25 namesandresidencesofanyonewithafinancial,ownership,orcontrolinterestintheorganization.
+26 V. Thelocationorlocationswhereanapplicantistoconductitsbusiness.
+27 VI. A statement of assets and liabilities of the applicant and other relevant financial
+28 informationofsuchapplicant.
+29 VII. The committee shall administratively approve changes of ownership and transfers of
+30 certificates within 90 days of a petition if it determines the new certificate holder has adequate
+31 financial, technical, and managerial capability to assure construction and operation of the facility in
+32 continuing compliance with the terms and conditions of the certificate and any federal, state, and
+33 localpermits.
+34 149-M:74 ApplicationandFilingFees.
+35 I. A person filing with the committee an application for a certificate for a major solid waste
+36 disposal facility shall pay to the committee at the time of filing a fee determined in accordance with
+37 the fee schedule described in paragraph II. If an application for a certificate for a major solid waste
+
+SB536-FN-ASINTRODUCED
+-Page8-
+1 disposal facility is deemed incomplete pursuant to RSA 149-M:72, VII, and a new application is
+2 submitted thereunder, the unused portion of the initial application fee shall be refunded to the
+3 applicant or credited to the filing of the new application. The committee may in its discretion
+4 provideforacreditorrefundinothercircumstancesthatareunforeseenbytheapplicant.
+5 II. The fees under paragraph I shall be determined in accordance with a fee schedule posted
+6 bythecommitteeonitswebsite,whichshallincludethefollowingamounts:
+7 (a) Application fee for a major solid waste disposal facility: $20,000 base charge and
+8 $1,000peradditional10,000tons/yearthroughputinexcessof100,000tonsperyear.
+9 (b) Filingfeesforadministrativeproceedings:
+10 (1) Petitionforcommitteejurisdiction: $500.
+11 (2) Certificatetransferofownership: $1,000.
+12 (3) Requesttomodifyacertificate: $1,000.
+13 III. All fee charges shall be deposited in the solid waste evaluation committee fund
+14 establishedinRSA149-M:84andshallbenonlapsingandaccountedforasaseparatelineitem.
+15 IV. The committee shall review and evaluate the application fees and filing fees in the fee
+16 schedule in subparagraphs II(a) and (b) at least once each year. The committee may increase any
+17 amount in the fee schedule by no more than the increase in the consumer price index from the prior
+18 year, provided that any such increase shall occur not more frequently than once during any 12-
+19 monthperiod. Modificationstothefeescheduleshallbepostedonthecommitteewebsite,witha
+20 linkprominentlydisplayedonthehomepage.
+21 V. If the committee determines the cost of committee proceedings for an application
+22 significantlyexceedthefilingfeespaidbytheapplicantforthatapplication,theadditionalcostshall
+23 bebornebytheapplicantorcertificateholderinsuchamountasmaybeapprovedbythecommittee.
+24 149-M:75 CounselforthePublic.
+25 I. An application for a certificate under this subdivision shall be served contemporaneously
+26 by the applicant upon the attorney general. Upon receipt of such an application, the attorney
+27 general shall appoint an assistant attorney general as counsel for the public in connection with the
+28 committee’sconsiderationoftheapplication. Counselforthepublicshallbedeemedtorepresentthe
+29 publicasapartytotheproceedingsbeforethecommittee.
+30 II. This section shall not be construed to prevent any person from being heard or
+31 represented by counsel; provided, however, the committee may compel consolidation of
+32 representation for such persons as have, in the committee’s reasonable judgment, substantially
+33 identicalinterests.
+34 149-M:76 PublicHearing;Studies.
+35 I. At least 30 days prior to filing an application for a certificate, an applicant shall hold at
+36 least one public information session in the affected municipality where the proposed facility is to be
+
+SB536-FN-ASINTRODUCED
+-Page9-
+1 located. This session may be held concurrently with a public session held as a requirement of any
+2 otherstatepermitorapproval.
+3 II. The committee may order the applicant to provide such additional public information
+4 sessionsinaffectedmunicipalitiesasarereasonabletoinformthepublicoftheproposedproject.
+5 III. Within 90 days after acceptance of an application for a certificate, the committee shall
+6 hold at least one public information session in each municipality where the proposed facility is
+7 proposedtobelocated.
+8 IV. Subsequent public hearings shall be in the nature of adjudicative proceedings under
+9 RSA 541-A and shall be held in the municipality in which the proposed facility is to be located or in
+10 Concord, New Hampshire, as determined by the committee. The committee shall give adequate
+11 publicnoticeofthetimeandplaceofeachsubsequenthearing.
+12 V. The committee shall adopt rules regarding the timing and method of notices for public
+13 information sessions and public hearings, and any other requirements regarding such sessions and
+14 hearings.
+15 VI. The committee shall consider and weigh all evidence presented at public hearings and
+16 shall consider and weigh written information and reports submitted to it by members of the public
+17 prior to the closing of the record of the proceeding. The committee shall provide an opportunity at
+18 oneor morepublichearings for comments fromthegoverningbodyofeachaffected municipalityand
+19 residents of each affected municipality. The committee shall consider, as appropriate, prior
+20 committee findings and rulings on the same or similar subject matters, but shall not be bound
+21 thereby.
+22 VII. The solid waste evaluation committee shall require from the applicant whatever
+23 information it deems necessary to assist in the conduct of the hearings, and any investigation or
+24 studies it may undertake, and in the determination of the terms and conditions of any certificate
+25 underconsideration.
+26 VIII. The committee and counsel for the public shall conduct such reasonable studies and
+27 investigations as they deem necessary or appropriate to carry out the purposes of this chapter and
+28 may employ a consultant or consultants, legal counsel and other staff in furtherance of the duties
+29 imposed by this chapter, the cost of which shall be borne by the applicant or certificate holder in
+30 such amount as may be approved by the committee. The committee and counsel for the public are
+31 further authorized to assess the applicant or certificate holder for all travel and related expenses
+32 associatedwiththeprocessingofanapplicationorotherproceedingsunderthischapter.
+33 IX. Times forconductingpublichearings andrenderingadecisionontheapplicationmaybe
+34 extendedforgoodcauseuponwrittenrequestoftheapplicant.
+35 149-M:77 Judicial Review. Decisions made pursuant to this chapter shall be appealed in
+36 accordancewithRSA541.
+37 149-M:78 MonitoringandEnforcement.
+
+SB536-FN-ASINTRODUCED
+-Page10-
+1 I. The department shall monitor the construction and operation of any major solid waste
+2 disposal facility granted a certificate under this chapter, after all other subsequent approvals are
+3 obtained, to ensure compliance with such certificate and enforce the terms and conditions of any
+4 such certificate. With the exception of the authority retained by the state agencies in accordance
+5 with paragraph V, the department may delegate the authority to monitor the construction or
+6 operation of any major solid waste disposal facility granted a certificate under this chapter to such
+7 state agency or official as it deems appropriate but shall ensure that the terms and conditions of the
+8 certificate are met. Any authorized representative or delegate of the department shall have a right
+9 of entry ontothe premises of anypart of the solid waste generationfacility toascertain if the facility
+10 is being constructed or operated in continuing compliance with the terms and conditions of the
+11 certificate. Duringnormalhours ofbusinessadministrationandonthepremisesofthefacility, such
+12 arepresentativeordelegateshallalsohavearighttoinspectsuchrecordsofthecertificateholderas
+13 arerelevanttothetermsorconditionsofthecertificate.
+14 II. Whenever the department administratively determines, on its own or in response to a
+15 complaint, that any term or condition of any certificate issued under this chapter or prior law is
+16 being violated, it shall, in writing, notify the certificate holder of the specific violation and order the
+17 person to immediately terminate the violation. If, 15 days after receipt of the order, the person has
+18 failed or neglected to terminate the violation, the department shall notify the committee, which may
+19 suspend the person’s certificate. In addition to suspension, if, after 15 days of receipt of the order,
+20 thepersonhas failed or neglected toterminatetheviolation, thecommittee mayimposeafine not to
+21 exceed $5,000 per day until the violation is corrected. Except for emergencies, prior to any
+22 suspension or imposition of a fine, the committee shall give written notice of its consideration of
+23 suspension or imposition of a fine and of its reasons therefor and shall provide opportunity for a
+24 prompthearing.
+25 III. In addition to other remedies provided in this chapter, upon petition of the department,
+26 the committee may suspend a certificate if the committee determines that a person has made a
+27 material misrepresentation in the application, or in the supplemental or additional statements of
+28 fact,orstudiesrequiredoftheapplicant,orifthecommitteedeterminesthatthepersonhasviolated
+29 the provisions of this chapter, or any rule adopted under this chapter. Except for emergencies, prior
+30 to any suspension, the committee shall give written notice of its consideration of suspension and of
+31 itsreasonsthereforandshallprovideanopportunityforaprompthearing.
+32 IV. Upon petition of the department, the committee may revoke any certificate that is
+33 suspendedafterthepersonholdingthesuspendedcertificatehasbeengivenatleast90days’written
+34 notice of the committee’s consideration of revocation and of its reasons therefor and has been
+35 providedanopportunityforafullhearing.
+36 V. Notwithstandinganyotherprovisionofthischapter,eachstateagencyhavingpermitting
+37 orotherregulatoryauthorityshallretainallofitspowersanddutiesofenforcement.
+
+SB536-FN-ASINTRODUCED
+-Page11-
+1 VI. The full amount of costs and expenses incurred by the department and committee in
+2 connectionwithanyenforcementactionagainst apersonholdingacertificate, inwhichthepersonis
+3 determined to have violated any provision of this chapter, any rule adopted by the department or
+4 committee, or any of the terms and conditions of the issued certificate, shall be assessed to the
+5 person and shall be paid by the person to the committee. Any amounts paid by a person to the
+6 committee pursuant to this paragraph shall be deposited in the solid waste evaluation committee
+7 fundestablishedinRSA149-M:84.
+8 VII. The department may adopt rules in furtherance of its monitoring and enforcement
+9 responsibilitiesunderthischapter.
+10 149-M:79 Records. Complete verbatim records shall be kept by the committee of all hearings,
+11 and records of all other actions, proceedings, and correspondence of the committee, including
+12 submittals of information and reports by members of the public, shall be maintained, all of which
+13 records shall be open to the public inspection and copying as provided for under RSA 91-A.
+14 Committee records regarding pending applications for a certificate shall also be made available on
+15 the committee’s website unless such records were submitted under seal and are exempt from public
+16 disclosureunderRSA91-A.
+17 149-M:80 Temporary Suspension of Deliberations. If the committee, at any time while an
+18 application for a certificate is before it, deems it to be in the public interest, it may temporarily
+19 suspenditsdeliberationsandtimeframesestablishedunderthischapter.
+20 149-M:81 FindingsandCertificateIssuance.
+21 I. Anycertificateissuedbythecommitteeshallbebasedontherecord. Thedecisiontoissue
+22 a certificate in its final form or to deny an application once it has been accepted shall be made by a
+23 majorityofthecommittee.
+24 II. The committee may consult with interested regional agencies and agencies of border
+25 statesintheconsiderationofcertificates.
+26 III. After due consideration of all relevant information regarding the potential siting,
+27 including potential significant impacts and benefits, the committee shall determine if issuance of a
+28 certificatewillservetheobjectivesofthischapter. Inordertoissueacertificate,thecommitteeshall
+29 findthat:
+30 (a) The applicant has adequate financial, technical, and managerial capability to assure
+31 construction, operation, and closure of the facility in continuing compliance with the terms and
+32 conditionsofthecertificate.
+33 (b) The facility will not undulyinterfere withthe orderlydevelopment of the region with
+34 due consideration having been given to the views of municipal and regional planning commissions
+35 andmunicipalgoverningbodies.
+36 (c) ThefacilitysatisfiesthecriteriainRSA149-M:11,III.
+
+SB536-FN-ASINTRODUCED
+-Page12-
+1 (d) The net public benefit of the facility to the region shall outweigh any adverse impact
+2 of the facility on human health, aesthetics, historic preservation, economic impacts to the region,
+3 tourism, outdoor recreation, regional and statewide business development, wildlife, noise, odor,
+4 traffic impacts, existing land uses, including property values, characteristics and source of waste,
+5 andanyotherimpactsassessedaspartoftheapplicationpursuanttoRSA149-M:72,III.
+6 (e) Issuance of a certificate will serve the public interest of the citizens of
+7 NewHampshire.
+8 IV. The committee shall issue an order granting or denying a certificate. Such order shall
+9 summarize and address issues of concern expressed during public information sessions and hearings
+10 toensurethatthepublic’svoicehasbeenheardandrecorded.
+11 V. A certificate of site and facility may contain such reasonable terms and conditions,
+12 including, but not limited to the authority to require bonding, as the committee deems necessary.
+13 Suchcertificates,whenissued,shallbefinalandsubjectonlytojudicialreview.
+14 VI. The committee shall condition the certificate upon the results of applicable federal and
+15 state approvals or appeal processes and required federal and state agency studies whose study
+16 periodexceedstheapplicationperiod.
+17 149-M:82 Penalties.
+18 I. Any construction or operation of major solid waste disposal facilities without first
+19 obtaining a certificate from the committee, or any material violation of the terms and conditions of a
+20 certificate issued by the committee, shall be subject to a civil penalty not to exceed $10,000 for each
+21 violation or for each day of a continuing violation. Such violation may also be enjoined by the
+22 superiorcourtuponapplicationoftheattorneygeneral.
+23 II. Whoever purposely or knowingly commits any violation of any provision of this section
+24 shallbeguiltyofamisdemeanorifanaturalperson,orguiltyofafelonyifanyotherperson.
+25 149-M:83 Severability. If any provision of this chapter, or application thereof to any person or
+26 circumstance is held invalid, the invalidity does not affect other provisions or applications of the
+27 chapter which can be given effect without the invalid provisions or applications, and to this end, the
+28 provisionsofthischapterareseverable.
+29 149-M:84 FundEstablished;FundingPlan. Thereisherebyestablished intheofficeofthestate
+30 treasurer a nonlapsing, special fund to be known as the solid waste evaluation committee fund. All
+31 application and other filing fees received by the committee under this chapter shall be deposited in
+32 the fund. All moneys in the fund shall by continually appropriated to the committee and shall be
+33 used to pay for operating costs of the committee and the partial salary of the administrator. If the
+34 administrator position is vacant, the fund may be used to pay an independent contractor to perform
+35 those duties. Notwithstanding any other provision of law, the committee may engage the
+36 department for additional technical, legal, or administrative support to fulfill the requirements of
+
+SB536-FN-ASINTRODUCED
+-Page13-
+1 thischapter,thecostofwhichshallbechargeddirectlytotheapplicantormajorsolidwastedisposal
+2 facilityowner.
+3 149-M:85 CompensationandReimbursement.
+4 I. The public members of the committee shall be compensated for all time spent on
+5 committee business, including compensation and reimbursement for major solid waste disposal
+6 facility proceeding time and expenses. Compensation shall be provided on a pro rata basis, based
+7 upon the daily salary rate of an unclassified position at the initial step in grade FF under RSA 94:1-
+8 a,I(a).
+9 II. State agencies represented on the committee shall be reimbursed for major solid waste
+10 disposal facility proceeding time and expenses incurred by their respective members or designees,
+11 exceptthattimespentforthefirst5fulldaysoftheirparticipationwithrespecttoanyapplicationor
+12 other proceeding concerning a major solid waste disposal facility shall not be subject to
+13 reimbursement. The rate of reimbursement to each respective agency shall be based on a pro rata
+14 shareoftheemployee’ssalary,benefits,andrelatedcosts.
+15 III The department of justice shall be reimbursed in the same manner as described in
+16 paragraph II for major solid waste disposal facility proceeding time and expenses that are incurred
+17 bythecounselforthepublic.
+18 IV. All persons or agencies seeking compensation or reimbursement under this section shall
+19 keepdetailedtimeandexpenserecordswhichshallbesubmittedtothechairpersonoradministrator
+20 and used to determine the amount of compensation or reimbursement. The chairperson or
+21 administratorshalldeveloparecordkeepingsystemandaccountingandpaymentprocedures.
+22 V. Compensation shall not be provided to members of the committee for initial meetings
+23 conducted prior to acceptance of application fees. The department shall provide support for the
+24 adoptionofrulesestablishedbythecommittee.
+25 149-M:86 Solid Waste Permit Applications Suspended. The department shall not issue any
+26 permit approvals that authorize new capacity for major solid waste disposal facilities until rules are
+27 adoptedbythecommitteeoruntilJuly1,2027,whicheverislater.
+28 2 New Subparagraph; Solid Waste Evaluation Committee Fund. Amend RSA 6:12, I(b) by
+29 insertingaftersubparagraph(410)thefollowingnewsubparagraph:
+30 (411) Moneys deposited in the solid waste evaluation committee fund as established
+31 inRSA149-M:84.
+32 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2154
+10/28/25
+SB536-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetothesolidwastefacilitysiteevaluationcommittee.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$10,000to $10,000to
+Revenue $0 $0
+$150.0000 $150,000
+RevenueFund(s) SolidWasteEvaluationCommitteeFund
+Indeterminable Indeterminable
+Expenditures* $0 $0 Increase$10,000 Increase$10,000
+to$150,000 to$150,000
+FundingSource(s) SolidWasteEvaluationCommitteeFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a Solid Waste Site Evaluation Committee (SWSEC) to review applications
+for major solid waste disposal facilities, requires the Department of Environmental Services
+(DES) to provide administrative support, and creates a non-lapsing Solid Waste Evaluation
+Committee Fund to receive certificate application fees. The bill also suspends approvals for new
+capacity for major solid waste disposal facilities until SWSEC rules are adopted or July 1, 2027,
+whicheverislater.
+The Department of Environmental Services states this bill establishes a Solid Waste Site
+Evaluation Committee and requires the Department to assist the committee with
+administrative, rulemaking, and enforcement responsibilities. The bill also creates a Solid
+Waste Evaluation Committee Fund to receive application fees for certificates issued by the
+committee. The Department estimates revenue from certificateapplication fees will likely range
+between $10,000 and $150,000 per application beginning in FY 2028, with similar amounts
+possible in subsequent fiscal years depending on the number and size of projects reviewed. All
+fee revenue would be deposited into the newly established dedicated fund and used to support
+thecommittee’sactivities.
+TheDepartmentindicatestherewillbenofiscalimpacttocountiesormunicipalitiesbecausethe
+definition of “major solid waste disposal facility” excludes facilities designed to manage food
+
+waste and facilities proposed by municipalities. The bill does not provide new funding or
+position authorization for DES to fulfill its responsibilities. As a result, the Department will
+redirect existing staff resources to support the SWSEC, which may reduce capacity for other
+permittingoroversightactivitieswithintheWasteManagementDivision.
+Additionally, the Solid Waste Site Evaluation Committee would incur expenses for member
+compensation, reimbursements, administrative support, and operational costs. These expenses
+would be paid from the Solid Waste Evaluation Committee Fund established in the bill. All
+money in the fund is continually appropriated to the committee for its operations. The total
+expendituresareindeterminablebutwouldnotexceedwhatthefundbringsin.
+It is assumed that the terms “solid waste site evaluation” and “solid waste evaluation” are used
+interchangeablythroughoutthebill.
+AGENCIESCONTACTED:
+DepartmentofEnvironmentalServices
+
+[DELETED: B5N-ASI6SEBNATretotesdwefyseenc:S.R,Dt1;S.F,Dt1;S.W,Dt4;S.Mt1;S.G,Dt2;S.R,Dt1;S.P,Dt:EyadNlRsblestesdwefyseenc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretotesdwefyseenceitEdbyteSeadHeofRsinGlCtc1NwS;SdWeSeEnC.AdRA1Mbyiarsn64tefgnwsSdWeSeEnC15DnofPI.Teleadteeebhretttesnofssfrmsdwedlfsmyhests,rladllisttaenfyedthegryrI.A,teglctfsttitisintepcittoehpetoeetel,rladsebsadbsofanwmrs0wefyttaentcdbyegryr,ign,o,a1lladrleci,pyvei,neadseofw,n2isont,rnadt,adorsri3I.F,teglctrsteisacgseiti4mga,ryp,adeypedlcyfrs5wegdinNwH6I.Teglctpsttnwllcybeddineso7egpdlsorbdssidofongds816D.Intss9I.“”msadnbytecettitfsttteani0ceadryfrc1I.“”mstearofteseencee2pttoRA13I.“dm”msaymyorudpeinwha4ptofamrsdwedlfyispdtobeldadaymyo5udpefmwhayptoftepdmrsdwedlfywlb6veora,igoetci7I.“”mstedtidbytec,cgshtsa8csastecedsa,ttasteattopdwht9pdseadf0V.“ec”msaycgoftel,enorors1anttwdrtinlmistoteseoftepdf,btdsnti]
+[DELETED: B5N-ASIPe2lds,ogoragldorrsinl,csdefrtyueoteldfrpcrlu,nyseestodehadslc,wkrdasptofanantoayf,s,orllaororpnmgortgtoehbdinrdtotsyoftesefrtepduV.“”mstesdweenceedbytscV.“”mstedtofelsV.“rsdwedlf”msal,s,orplseftec,s,s,t,p,t,ordlofsdwewh0pdweaeregrtn10tspry."rsdwed1f"dsntieafyddtomefdweinaewhRA12V,orayfypdtobecdbyaNwHemlg3I.“”mstedeonwhteanisftsdtotec4X.“”msayi,g,f,p,c,c5m,pls,gta,ororo617SdWeEnCeE7I.TeishyedacetobeknasteNwHesdw8seencecgof7m,asf9()TecnoftewemtcledurRA20woslseascnoftec.Ifteisanalpgbetew1mtclrdtotemrsdwedlf,tntecnoft2wsc,wrclorarrscledurRA2,sdbyt3crofted,slseonteceadascnoftec4()Tecroftedtofbsadeca,ord5()Tecroftedtofels,ord6()Frmsa,wnrdbyRA1,anaem7adbytegrwhtectofteeec,igamrwos8onallcnc,amrwohseeintepewem9i,amrwheeinmlpgadoewheeoreei0oeormeoftefga:bsm;elp;n1rep;sdwedlfyd,c,o,orm2clr;cyadrlpgorecd;mlo3cyg;orteggofudp4I.Alm,igtewostframrrdurRA1,s5rnfmexpecsrgaymrpgbetec.6myoftemsofteceslceaqmfrtepeofc7tecsb]
+[DELETED: B5N-ASIPe3I.TeceslbeayadtotedtofesI.Tecnslseastecfeeofteceadm()Seaspgo()Detoormstedsoftepgo,asa()E,whtectoftec,tebyrsoftc()EeplinaewhtscV.Tepgormyatahgortopmtefsddi0RA1,V118MsAdByTeGrWhTeCtOfC2I.MsadaemsadurRA1,I)ad()sls34rtsadultrssaeadadq.Aymrcntofl4vyogortnbyenofatmslbeadfrteudtmoft5mrwoiss6I.Ifataytetemradbytegrwhtectoftee7clmtrehforhffmamrbeteceorisnto8aefrgdr,teaemrslreshm9I.Nomrnraymrofhsorhrfyslreiefmest0onoro,orheadtoonoro,mrsdwedlfsinN1H.Temsadbytegrwhtectofteeecla2trasslcywhRA1AadRA13I.Aymradbytegrwhtectofteeeclmyb4rdfmoeinaewhRA4519AradOrCeS.Tearslp6sttotec.Iftearisntaeortepnisv,t7cemyheanitcratteeeoftea.Tea8slbeurtesnoftecnwnpgdsfrtec.T9arslbecdfrwkpdfrteceasstfhinRA10M.Tea,orcninteaeofana,whc1a,myeealt,l,oraesttofltefso2teceasn310PsadDsofteC;R4I.Teces5()Eeadieayceurtscrframrsdw6dlf7()Detetsadcsofayceidurtsc]
+[DELETED: B5N-ASIPe4()Aeetm()Attepcinugtersoftsc()Dyasfracebdonshfsadrsasmybnytostisdntod()E,wnaeadintepci,teglctspettshnwllcybeddinesofegpdlorbdssidofongdsI.Teceslhdhsasrdbytscradshahsasitdsnyadaea,inantotersurRA90A,eeaeadtypcneofnolstn7crd1I.Tecemydetotearorshseayorolasi2dsaeteaytosyteueofayt,m,p,o3peadbytecewnaceidurtsc,ortea4tosymrcsintemrsdwedlfycntoteett5shcsaeadbytecefrtepsofapdmrsdw6dlfyp7I.Teceslntdeisayordsetaspdurt8s9V.Inaymrbetec,tepgo,orahgord0bytepgo,myhraddeplmsttaebetec1igpls,cnofpswhsysri2dyssadm,adinofstddisfrhga3dnbytec.Udpsfrinmybeddbyteh4oradddpsslbeddbytepgo.Aypyadby5dnonapntoiemywn10crdsrttttecer6shd.Orpldsmyberdbyteceatisd7V.Teceslieshrstoartsc,pttoRA58arpcneadh,asmyfmtetoteber911PsadR0I.Nopnslcecnofaymrsdwedlfyw1teseusithsodacepttotsc.Shfsslb2c,o,admdinaewhtetsofteceadayo3f,s,orllpsora.Shcsaentrdfrcso4astoegfsustypeanieinegpda5ttofgrtnorelto50tspry.Shaceslntb6tdoradwtaloftec.Usoesdint7c,ayadmrsdwefyslntbec,o,orcdin]
+[DELETED: B5N-ASIPe5mrmydttntemrinwhitwspdinteanfrceasmdadcdbyshcI.NgRA59orayorlwtotec,ananfrcefmteceslbeadorddbyteceprtofldonalorseaypta.AsfrcsmybefdaedbytececywhorseasadpchsmybsdcywhhshdbyorseasasptoftrpgpfrtesefI.NgphI,frfsurrwbytedtfr0ptonorprtoJy1,2,ananfracefmteceslb1adorddarorseayashebno.Tecesln2crtlqsaycdbyorseorfla,nriet3orcsinacettheaybnrdadddunbyorseo4flayryr512AnfrC6I.Alasfraceframrsdwedlfyslbefdw7tearortecroftec8I.Unfgofana,tecnorddpgors9eyctapyrwtoanifteancss0intocyottepsoftsc.Ifteandsntcns1sti,tecnorddpgors,inw,e2nyteatofttftadsywtinteatmts3I.TocyottecsdsinRA1,ehans4()Deinredltetsadqsofweadt5cspdtobeadadseofehmrptoftepdf6()Deinredlteseofwetobeadadifteis7pefrweogwnteseofNwH8()DehwtepdfysstecaldurRA19I0()Iybhteaspdceadorasitc1aefrteseadcnofehmrptoftepdfyadtersf2teaspdc3()Deinredlteitofehmrptoftepdfyo4egl,r,adseldu5()Dtttwnnnoftepdp,iga6csoftea,hsbngntoteaeggbyofeha]
+[DELETED: B5N-ASIPe6m,asddinRA1,I.Teansliealtofteam()Peasontel,r,adsevlitoftepfydgc,o,adpeadtevlisasedtavlitatpdinaewhplssbyanetintf()Peininredlatteisonl,rlasepyv,hnh,t,orr,w,t,n,adorbtepdf.Teasslbecdinaewhpls0byanetintef1()Peareatofinretohwnwcso2cnntrdbyaptidbytedtwlbem,eda3mdortepdleoftef4()Peareatofinretoteecisoft5pdfyonadm,ter,adtes6()Plecbstotellaaadpli7isadwhtepdp8()Peshalinastecemyreorrttoc9ottepeoftsc0I.Toteetayinpdinteanwssdadc1byaseayasptofispgenaddnurRA1,I,t2atslsywtinwssocdadtesyadr3ayfrttascnoftei4V.Fralinsdwhteanttwspdbyano5ctore,teatslstteqsofshcsorest6peshi7V.Teceslreteattoheanittdpyatt8eeofteatadadunbyteceincnwhtem9wetefyispdtobel,toprrwayaspdurt0s1V.Tecnorddpgorsldewrtoatt2anasaycewn60dsoff.Iftecnord3pgorrsananbeitdsittobeayi4teatmycetofeanwadmeceanorcetedsint5rdanwn10dsofrtofnnofr6V.PcinssslbehdinaewhRA1]
+[DELETED: B5N-ASIPe7I.Wn10dsofteaeofana,teceslieordycefrtepdmrsdwedlfX.TeatsliyimteceofaysemntisaX.TecemyrtttseaswhrttlepeincepX.TedtslctarwofteaninspttoRA1,I)todewrtefyhsddttitstecainRA1,I.ShrwslbecdinaewhRA10Tedtslrtisfstoteceinortoimtecsd1ontea2X.TecemydyacebduntecainRA1,I3X.Aseaymyieasapyinaycepgintes4mrasorpsurRA5513DeofO.Ayanfrac,orfrceino6adtrofc,slbesdadsntobytepnoreeoroft7anorcnmgshanadslcntefgi8I.Flneadasoftep,a,orc9I.Ifananorldlyc,teneofteseurwhitw0fdadtensadrsoftemsofteanorldlyc1I.Ifac,teneofteseurwhitisidwhisp2peofbsadtensadasofisd,osads3I.Ifdgbsinafmortnasana,ldlyc,o4c,tefmofteb,teneofteseurwhitwsf,adt5nsadrsofaewhaf,o,orclitinteo6V.Telnorlsweanatistoctisb7V.Astofasadlsofteatadorrtf8inofsha9V.Teceslayaecsofopadtso0cswn90dsofapnifitdstenwcehrhsa1f,t,admlcytoaecnadonoftefyi2cgcewhtetsadcsofteceadayf,s,a3llp414AnadFgF5I.Apnfgwhteceananfraceframrsdw6dlfyslpytoteceatteteoffgafeddinaew7tefeseddinphI.Ifananfraceframrsdw]
+[DELETED: B5N-ASIPe8dlfyisddiepttoRA1,V,adanwanisdt,teudpnofteilanfeslberdtotatorcdtotefgoftenwa.TecemyinisdpefractorrdinorcsttaeunbyteaI.TefsurphIslbeddinaewhafesepbyteceonisw,whslietefga()Anfeframrsdwedlf:$0becea$0pral10trttinesof10tspry()Fgfsfraep0()Pnfrcej:$1()Cetrofo:$2()Rttomyac:$3I.Alfecsslbeddintesdweencef4edinRA14adslbengadadfrasaselei5I.Teceslrwadeeteanfsadfgfsintef6seinssI)ad()atltoeehy.Tecemyiea7atintefesebynometnteieintecrpeixfmtep8y,pdttayshieslorntmefytnoedgay19mhp.Mstotefeseslbepdontecew,wh0lkpyddontehep1V.Iftecedstectofcepsfrana2syedtefgfspdbyteatfrtta,tealcts3bebebyteatorcehrinshatasmybeadbytec415ClfrteP5I.Ananfraceurtssnslbesdc6byteatunteayg.Unrtofshana,tea7glslatanatayglasclfrtepcincnwht8cscnoftea.Clfrtepcslbeddtortt9pcasapytotepsbetec0I.Tssnslntbecdtoptaypnfmbghdo1rdbyc;p,h,tecemyclcno2rnfrshpsash,intecsrej,s3ili416PcH;S5I.Atlt30dsprtofgananfrac,anatslhda6ltoepcinsninteadmywetepdfyistob]
+[DELETED: B5N-ASIPe9l.TssnmybehdcywhapcsnhdasartofaorseptoraI.TecemyorteattopeshalpcissinadmsasaeretoimtepcoftepdpI.Wn90dsaraeofananfrac,teceshdatltoepcinsninehmywetepdfyipdtobelI.StpchsslbeinteneofaepsuRA5Aadslbehdintemyinwhtepdfyistobeldori0C,NwH,asddbytec.Teceslgea1pcneofteteadpeofehsth2V.Teceslatrsrgtetgadmdofnsfrp3inssadpch,adayorrsrgshssa4h5V.Teceslcradwhaleepdatpchsa6slcradwhwninadrssdtoitbymsoftep7prtotecgofterdoftep.Teceslpeanoya8oeormepchsfrcsfmteggbyofehadmya9rsofehadm.Teceslc,asa,p0cefsadrsonteseorsrstm,btslntbeb1t2V.Tesdweenceslrefmteatw3initdsnytoatintectofteh,adayino4ssitmyu,adintednoftetsadcsofayc5urc6V.Teceadclfrtepcslctshressa7isastydmnyoraetocyottepsoftscra8myeyactorc,llcladorsfinfeofted9idbytsc,tectofwhslbebebyteatorcehri0shatasmybeadbytec.Teceadclfrtepca1fradtoasteatorcehrfraltladrde2adwhtepgofananororpsurtsc3I.Tsfrcgpchsadrgadnonteanmyb4edfrgdceunwnrtoftea517JlR.Dsmepttotscrslbeadi6aewhRA5718MgadE]
+[DELETED: B5N-ASIPe10I.Tedtslmrtecnadonofaymrsdwdlfygdaceurtsc,aralorstasao,toeecewhshceadeetetsadcsofashc.WhteenofteayrdbyteseasinawhphV,tedtmydeteaytomrtecnoonofaymrsdwedlfygdaceurtscrtosseayorolasitdsaebtsleetttetsadcsoftceaem.Ayadreordeoftedtslhearofeyootepsofayptoftesdwegnfytoaniftef0isbgcdorodincgcewhtetsadcsoft1c.Dgnlhsofbsanadontepsoftef,s2areordeslaohearttoitshrsoftecehra3aerttotetsorcsoftec4I.Wrtedtayd,onisonorinreto5c,ttaytmorcnofayceidurtscrorprlwi6bgv,its,inw,nytecehroftescvnadort7pntoiytetev.I,15dsarrtofteo,tepnh8fdorndtotetev,tedtslnytec,whm9sdtepsc.Inantos,i,ar15dsofrtofteo0tepnhsfdorndtotetev,tecemyieafentt1ed$0prdyultevnisc.Etfre,prtoa2snorinofaf,teceslgewnneofiscno3snorinofafeadofisrstradslpeoyfr4pth5I.Inantoorrspdintsc,unpnofted6tecemysdaceiftecedsttapnhsme7mlmnintea,orintesloralsso8f,orssrdoftea,oriftecedstttepnhsv9tepsoftsc,orayreadurtsc.Etfre,p0toays,teceslgewnneofiscnofsnado1isrstradslpeanoyfrapth2I.Unpnofted,tecemyreaycetti3sdartepnhgtesdcehsbngnatlt90d’w4neoftecscnofrnadofisrstradhsb5pdanoyfraflh6V.Ngayorpnoftsc,ehseayhgp7ororryayslrnalofispsaddsofe]
+[DELETED: B5N-ASIPe11V.Teflatofcsadesidbytedtadceicnwhayetanatapnhgac,inwhtepniddtohevdaypnoftsc,ayreadbytedtoc,orayoftetsadcsofteidc,slbeadtotpnadslbepdbytepntotec.AyaspdbyapntotcepttotsphslbeddintesdweencfdedinRA1V.Tedtmyatrsinfeofismgadersurtsc019R.Cevmrsslbektbyteceofalh1adrsofalora,p,adceoftec,i2ssofinadrsbymsoftep,slbem,alofw3rsslbeontotepcinadcgaspdfrurRA94Cersrgpgasfraceslaobemeaeo5tecsweusshrswesdursladaeetfmp6deurRA9710TySnofD.Iftec,ataytewea8anfraceisbei,dsittobeintepci,itmyt9sdisdsadtefsedurtsc011FsadCeI1I.Ayceidbyteceslbebdonter.Tedntoi2aceinisflfmortodyananoeithsbnadslbemeby3myoftec4I.Tecemyctwhidrlasadasofb5ssintecnofc6I.Ardecnofalrtinrgtepls7igplstisadb,tecesldeifieof8cewlseteosoftsc.Inortoieac,teces9fdt0()Teathsaef,t,admlcytoa1c,o,adceoftefyincgcewhtetsa2csoftec3()Tefywlntuyiewhteoydtofternw4decnhgbngntotevsofmladrlpgc5admlggb6()TefysstecainRA1,I]
+[DELETED: B5N-ASIPe12()Tentpcbtoftefytoternslohayaeioftefyonhnh,a,hcp,ecistotert,orr,rladsebsd,w,n,otci,egldu,igpyv,csadseofwadayorisadasptofteanpttoRA1,I()IeofacewlsetepcitoftecsoNI.Teceslieanorggordgac.Shorsseadasisofcneddgpcinssadh0toeetttepsvehsbnhdadr1V.Aceofseadfymycnshretsadc2i,btntldtoteaytoreb,astecedsn3Shc,wni,slbefladstoytojlr4V.Teceslcnteceuntersofaefla5seasoralpsadrdfladseaysswes6pdesteanp712P8I.Aycnoronofmrsdwedlfswtf9ogacefmtec,oraymlvnoftetsadcsof0ceidbytec,slbesttoaclpynttoed$0fre1vnorfrehdyofacgv.Shvnmyaobeedbyt2srctunanofteayg3I.Wrpyorkycsayvnofaypnoftss4slbegyofamrifanlp,orgyofafyifayorp513S.Ifaypnoftsc,orantftoaypno6ceishdi,teiydsntatorpsorasoft7crwhcnbegnetwtteidpsora,adtotse,t8psoftscraes914FdE;FgP.Teishyedinteoeoftes0tran,slfdtobeknastesdweencef.A1anadorfgfsrdbyteceurtscrslbeddi2tef.Almsintefdslbycyadtoteceadslb3udtopyfrogcsofteceadteplsyoftea.Ift4arpnisv,tefdmybeudtopyanitcrtop5ted.Ngayorpnofl,tecemyeet6dtfralt,l,oraesttoflterso]
+[DELETED: B5N-ASIPe13tsc,tectofwhslbecddytoteatormrsdwedfyo15CnadRI.Tepcmsofteceslbecdfraltestoceb,igcnadrtfrmrsdwedfypgteade.Cnslbepdonaporab,buntedysyreofanudpnatteilspingeFFurRA9a,II.Seasrdonteceslberdfrmrsdw0dlfypgteadesidbytrremsord1ettttestfrteft5fldsoftrpnwhrttoayano2orpgcgamrsdwedlfyslntbestt3r.Tereofrttoehreayslbebdonapor4seofteess,b,adrdc5IITedtofjeslberdintesemrasddi6phIIfrmrsdwedlfypgteadesttaei7byteclfrtep8I.Alpsorassgcnorrturtssns9kpddteadeerswhslbesdtotecnora0adudtodeteatofcnorr.Tecno1arsldpardkgsmadagadptp2V.Cnslntbepdtomsoftecefrilm3cdprtoaeofanf.Tedtslpestfrt4anofrsedbytec516SdWePtAsS.Tedtslntiea6ptasttaenwcyfrmrsdwedlfsulrsa7adbyteceorulJy1,2,wrisl82NwS;SdWeEnCeF.AdRA6,I)b9igarsh()tefgnws0()Msddintesdweencefdase1inRA123EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATretotesdwefyseencLIdSeIY26FY27FY28FY20$0to$0t0$eFdWeEnCeF0$0Ie$0Ie$eIo$0to$gSdWeEnCeF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblesaSdWeSeEnCe()torwarmrsdwedlf,rsteDtofElS)topeaes,adcsangSdWeEeFdtoreceanf.TeblaossasfrnyfrmrsdwedlfsulSCrsaeadorJy1,2risleDtofElSssstsblesaSdWeSnCeadrsteDttoattecew,r,adetr.TeblaocsaSeEnCeFdtoreanfsfrcsidbyt.TeDtesrefmceanfswllyrn$0ad$0pranbginFY2,whsraeinstflysdgontenradseofpsr.AerewdbeddiotenyedddfdadudtosecsaeDtistewlbenoflittocsormsbetnof“rsdwedlf”esfsddtomef]
+[DELETED: eadfspdbym.TebldsntpenwfgonanfrDStoflisr.Asar,teDtwtegsfrstostteS,whmyrecyfrogorotaswnteWeMtD,teSdWeSeEnCewdiresfrm,r,aes,adolc.TeedbepdfmteSdWeEnCeFdedinteb.Ayintefdiscyadtotecefriso.Tetsaeiebtwdntedwttefdbsitisadtttets“dwesee”ad“dwee”aeuytttebSCtofElS]

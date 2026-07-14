@@ -1,0 +1,307 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+03/26/2026 0787s
+03/26/2026 1172s
+06/04/2026 2122EBA
+2026SESSION
+26-2043
+07/06
+482-FN
+ANACT establishingprotectionsfordigitalassettransactionkiosks.
+SPONSORS: Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Sen. Gannon, Dist 23; Sen.
+Rosenwald, Dist 13; Rep. Ammon, Hills. 42; Rep. Miles, Hills. 12; Rep. Potucek,
+Rock.13;Rep.L.Walsh,Rock.15
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillestablishesprotectionsfordigitalassettransactionkiosks.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+03/26/2026 0787s
+03/26/2026 1172s
+06/04/2026 2122EBA 26-2043
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingprotectionsfordigitalassettransactionkiosks.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindings. Thegeneralcourtfindsthatdigitalassettransactionkioskshavebeen
+2 used by scammers to induce consumers, particularly older adults, to convert cash into digital assets
+3 andtransferthevalueofthoseassetsirreversiblytocriminals.
+4 2 New Chapter; Digital Asset TransactionKiosks. Amend RSAby insertingafter chapter 358-T
+5 thefollowingnewchapter:
+6 CHAPTER358-U
+7 DIGITALASSETTRANSACTIONKIOSKS
+8 358-U:1 Statement of Purpose. It is the intent of the general court that this chapter establish
+9 reasonable and uniform consumer protections while permitting lawful and responsible digital asset
+10 transactionkioskoperations.
+11 358-U:2 Definitions.
+12 I. “Customer”meansanaturalpersonusingakiosk.
+13 II. “Digitalasset”meansadigitalrepresentationofvaluerecordedonadistributedledgeror
+14 blockchain,includingcryptocurrency.
+15 III. “Digital asset transaction kiosk” or “kiosk” means a self-service electronic terminal
+16 locatedinapublicorretailsettingthatenablesapersontobuy,sell,ortransferadigitalassetusing
+17 cashoranotherpaymentmethod.
+18 IV. “Operator” means a person or entity that owns, manages, or controls one or more kiosks
+19 inthisstate,whetherdirectlyorthroughathird-partyhostlocation.
+20 V. “Reference price” means a real-time price for the covered digital asset derived from a
+21 publicexchangeorcompositeindex.
+22 358-U:3 RegistrationandCoordination.
+23 I. Withrespecttothefirsttransactionforacustomer,anoperatorshall:
+24 (a) Hold thefirst digital asset transactionmadebyacustomer for aperiodof at least 48
+25 hours,afterwhichtimetheoperatormaycompletethecustomer'sdigitalassettransaction.
+26 (b) Not permit a customer to complete a second digital asset transaction until the hold
+27 periodundersubparagraph(a)haslapsed.
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 II. During a hold period under subparagraph I(a), a customer may contact the operator to
+2 request that the customer's first digital asset transaction be canceled and the entire amount of the
+3 customer'sfirstdigitalassettransactionbereturnedorrefundedtothecustomer.
+4 III. Prior to accepting payment from a customer at a digital asset transaction kiosk, the
+5 kiosk operator, or its authorized delegate, shall verify the identity of the individual in a manner
+6 consistentwithapplicablestateandfederallaws.
+7 IV. Operators shall not permit transactions under any false, fictitious, or assumed identity.
+8 Alltransactionsshallbeconductedunderacustomer’strueandverifiableidentity.
+9 V. All digital asset transaction kiosk operators performing business shall provide a
+10 dedicated communications line for relevant government agencies via a posted United States phone
+11 number or email address. Said dedicated line shall be used to facilitate law enforcement and
+12 regulatory agency communications with the digital asset transaction kiosk operator in the event of a
+13 fraudreportfromacustomer. Thecommunicationslineshallbefrequentlymonitored.
+14 358-U:4 CoreConsumerProtections.
+15 I. Anoperator shall not accept or dispense, intheaggregate, morethan$2,000per customer
+16 percalendardayacrossallkiosksundercommoncontrolwithintheUnitedStates.
+17 II. Before accepting funds, all kiosks shall display conspicuous warnings, including that no
+18 government agency, law enforcement, court, utility, bank, tech support, employer, or retailer will
+19 ever demand payment by crypto ATM. The kiosk shall require the customer to answer fraud-
+20 screening prompts, including whether they are being coached by another person. If the customer
+21 indicates a risk of fraud, the kiosk shall block the transaction and display law enforcement and
+22 consumerprotectionandantitrustbureaucontactinformation.
+23 III. Operators shall use blockchain analytics to block transfers to or from wallet addresses
+24 flagged for association with scams, theft, sanctions, or other illicit activity, and shall maintain
+25 writtenanti-fraudandconsumerprotectionpolicies.
+26 IV. Beforeacceptingfunds,kiosksshalldiscloseinwritingandon-screenallfees,thespread
+27 between the operator’s price and the reference price, expressed as a percentage and dollar amount,
+28 andthetotaldigitalassetexpectedtobedelivered.
+29 V. The kiosk shall provide a printed and electronic receipt summarizing the transaction,
+30 including the operator's name and toll-free live customer service phone number, the kiosk's location,
+31 a timestamp, the name of the asset, the quantity of the asset, the asset's reference price, the asset's
+32 spread, all fees paid, the total amount paid, the wallet address or voucher ID, any applicable
+33 cancellationcodes,andarefundpolicy.
+34 VI. Thedigitalassettransactionkioskoperatorshallprovideafullrefundofalltransactions
+35 to a customer who was fraudulently induced to engage in a digital asset kiosk transaction or
+36 transactions, provided that the customer contacts the digital asset kiosk operator and a law
+37 enforcementorgovernmentagencytoinformtheoperatorandtheagencyofthefraudulentnatureof
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 thetransactionortransactionswithin14daysafterthecustomer’slastdigitalassettransactionwith
+2 thedigitalassettransactionkioskoperator. Therefundshallincludeanyfeeschargedinassociation
+3 withthefraudulentlyinducedtransactions.
+4 358-U:5 Remedies.
+5 I. Any violation of this chapter shall constitute an unfair or deceptive act or practice within
+6 the meaning of RSA 358-A:2. Any right, remedy, or power set forth in RSA 358-A may be used to
+7 enforcetheprovisionsofthischapter.
+8 II. The rights, obligations, and remedies provided in this chapter shall be in addition to any
+9 otherrights,obligations,orremediesprovidedforbylaworinequity.
+10 3 EffectiveDate. Thisactshalltakeeffect180daysafteritspassage.
+LBA
+26-2043
+03/27/2026
+SB482-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENTS#2026-0787sand#2026-1172s)
+ANACT establishingconsumerprotectionsfordigitalaccesstransactionkiosks.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B4N-VNADBYBHB6061626SEBNATegpsfrdlattnk:S.M,Dt1;S.P,Dt1;S.G,Dt2;S,Dt1;R.A,H.4;R.M,H.1;R.P.1;R.L.W,R.1:CDAsblespsfrdlattnk-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-VNADBYBHB606162A2EOFNWHnteYrofOrLdToTdTNATegpsfrdlattnkeitEdbyteSeadHeofRsinGlCtc1StofF.Teglctfsttdlattnkshebudbysstoiec,pyora,toctchiodlaadtrteveofteasiytoc2NwC;DlAtTnK.AdRAbyigarcr3tefgnwcCR3DLATTNK31StofP.Itisteitofteglcttttscrereadumcrpswepglladredla0tnkko132D2I.“”msanlpnugak3I.“la”msadlrnofverdonaddlro4b,igc5I.“lattnk”or“”msaseect6ldinapcorrlsgttesapntob,s,ortradlatu7chorarptm8I.“”msapnoreytto,m,orcsoeormek9intss,wrdyorthatyhtl0V.“ep”msarepefrtecddlatddfm1pceeorcei233RnadC3I.Whrttotefttnfrac,anors4()Hdteftdlattnmebyacrfrapdofatlt45h,arwhteteormycetecsdlatt6()Ntptacrtoceasddlattnulteh7pdursh()hsl]
+[DELETED: B4N-VNADBYBHBPe2I.DgahdpdurshI,acrmyctteortrttttecsftdlattnbecdadteeeatoftcsftdlattnberdorrdtotecI.Prtoagptfmacratadlattnk,tkko,orisadd,slvyteiyofteilinamctwhaeseadfllI.Osslntpttsurayf,f,oradiAltsslbecduracsteadveiV.Aldlattnkkospgbsslpe0ddcslefrrtgtasvaapdUdSsp1nrorela.Sdddleslbeudtofelweta2ryaycswhtedlattnkkorinteetof3fdrtfmac.Tecsleslbefym434CeCrP5I.Anorslntatord,intea,metn$0prc6prcrdyasalksurcnclwnteUdS7I.Beagf,alkssldycsw,igttn8gta,lwe,c,u,b,ths,e,orrrw9erddptbycoA.Tekkslretecrtoarf0sgp,igwrtyaebgcdbyarp.Iftec1isarkoff,tekkslbktetnaddylweta2crpnadatbucti3I.Ossluebnastobktstoorfmwta4fdfranwhs,t,s,ororita,adslm5wnadadcrpnp6I.Beagf,kssldeinwgadonalf,tes7bnteospeadterep,edasapeaddra8adtetldlatedtobed9V.Tekkslpeapdadecrtsgtet0igteosneadtelecrsepen,teksl1at,teneoftea,teqyoftea,teasrep,tea2s,alfsp,tetlatp,tewtasorvrI,aya3cnc,adardp4V.Tedlattnkkorslpeaflrdofalt5toacrwowsfyidtoeeinadlatkktno6t,pdtttecrcstedlatkkoradal7etorgtaytoimteoradteayofteftneo]
+[DELETED: B4N-VNADBYBHBPe3tetnortswn14dsartecsltdlattnwtedlattnkko.Terdslieayfscdinawhtefyidt35RI.AyvnoftscrslceanurordeatorpewtemgofRA3.Ayr,r,orprstfhinRA3AmybeudteetepsoftscI.Ter,o,adrspdintscrslbeinantoaorr,o,orrspdfrbylworine03EeD.Tsatslteet10dsarisp]
+[DELETED: B4-FLNSADBYTESE(S#sad#NATegcrpsfrdlastnkLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+03/26/2026 0787s
+03/26/2026 1172s
+06/04/2026 2122EBA
+2026SESSION
+26-2043
+07/06
+482-FN
+SENATEBILL
+ANACT establishingprotectionsfordigitalassettransactionkiosks.
+SPONSORS: Sen. McGough, Dist 11; Sen. Pearl, Dist 17; Sen. Gannon, Dist 23; Sen.
+Rosenwald, Dist 13; Rep. Ammon, Hills. 42; Rep. Miles, Hills. 12; Rep. Potucek,
+Rock.13;Rep.L.Walsh,Rock.15
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillestablishesprotectionsfordigitalassettransactionkiosks.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+03/26/2026 0787s
+03/26/2026 1172s
+06/04/2026 2122EBA 26-2043
+07/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingprotectionsfordigitalassettransactionkiosks.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 StatementofFindings. Thegeneralcourtfindsthatdigitalassettransactionkioskshavebeen
+2 used by scammers to induce consumers, particularly older adults, to convert cash into digital assets
+3 andtransferthevalueofthoseassetsirreversiblytocriminals.
+4 2 New Chapter; Digital Asset TransactionKiosks. Amend RSAby insertingafter chapter 358-T
+5 thefollowingnewchapter:
+6 CHAPTER358-U
+7 DIGITALASSETTRANSACTIONKIOSKS
+8 358-U:1 Statement of Purpose. It is the intent of the general court that this chapter establish
+9 reasonable and uniform consumer protections while permitting lawful and responsible digital asset
+10 transactionkioskoperations.
+11 358-U:2 Definitions.
+12 I. “Customer”meansanaturalpersonusingakiosk.
+13 II. “Digitalasset”meansadigitalrepresentationofvaluerecordedonadistributedledgeror
+14 blockchain,includingcryptocurrency.
+15 III. “Digital asset transaction kiosk” or “kiosk” means a self-service electronic terminal
+16 locatedinapublicorretailsettingthatenablesapersontobuy,sell,ortransferadigitalassetusing
+17 cashoranotherpaymentmethod.
+18 IV. “Operator” means a person or entity that owns, manages, or controls one or more kiosks
+19 inthisstate,whetherdirectlyorthroughathird-partyhostlocation.
+20 V. “Reference price” means a real-time price for the covered digital asset derived from a
+21 publicexchangeorcompositeindex.
+22 358-U:3 RegistrationandCoordination.
+23 I. Withrespecttothefirsttransactionforacustomer,anoperatorshall:
+24 (a) Hold thefirst digital asset transactionmadebyacustomer for aperiodof at least 48
+25 hours,afterwhichtimetheoperatormaycompletethecustomer'sdigitalassettransaction.
+26 (b) Not permit a customer to complete a second digital asset transaction until the hold
+27 periodundersubparagraph(a)haslapsed.
+
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 II. During a hold period under subparagraph I(a), a customer may contact the operator to
+2 request that the customer's first digital asset transaction be canceled and the entire amount of the
+3 customer'sfirstdigitalassettransactionbereturnedorrefundedtothecustomer.
+4 III. Prior to accepting payment from a customer at a digital asset transaction kiosk, the
+5 kiosk operator, or its authorized delegate, shall verify the identity of the individual in a manner
+6 consistentwithapplicablestateandfederallaws.
+7 IV. Operators shall not permit transactions under any false, fictitious, or assumed identity.
+8 Alltransactionsshallbeconductedunderacustomer’strueandverifiableidentity.
+9 V. All digital asset transaction kiosk operators performing business shall provide a
+10 dedicated communications line for relevant government agencies via a posted United States phone
+11 number or email address. Said dedicated line shall be used to facilitate law enforcement and
+12 regulatory agency communications with the digital asset transaction kiosk operator in the event of a
+13 fraudreportfromacustomer. Thecommunicationslineshallbefrequentlymonitored.
+14 358-U:4 CoreConsumerProtections.
+15 I. Anoperator shall not accept or dispense, intheaggregate, morethan$2,000per customer
+16 percalendardayacrossallkiosksundercommoncontrolwithintheUnitedStates.
+17 II. Before accepting funds, all kiosks shall display conspicuous warnings, including that no
+18 government agency, law enforcement, court, utility, bank, tech support, employer, or retailer will
+19 ever demand payment by crypto ATM. The kiosk shall require the customer to answer fraud-
+20 screening prompts, including whether they are being coached by another person. If the customer
+21 indicates a risk of fraud, the kiosk shall block the transaction and display law enforcement and
+22 consumerprotectionandantitrustbureaucontactinformation.
+23 III. Operators shall use blockchain analytics to block transfers to or from wallet addresses
+24 flagged for association with scams, theft, sanctions, or other illicit activity, and shall maintain
+25 writtenanti-fraudandconsumerprotectionpolicies.
+26 IV. Beforeacceptingfunds,kiosksshalldiscloseinwritingandon-screenallfees,thespread
+27 between the operator’s price and the reference price, expressed as a percentage and dollar amount,
+28 andthetotaldigitalassetexpectedtobedelivered.
+29 V. The kiosk shall provide a printed and electronic receipt summarizing the transaction,
+30 including the operator's name and toll-free live customer service phone number, the kiosk's location,
+31 a timestamp, the name of the asset, the quantity of the asset, the asset's reference price, the asset's
+32 spread, all fees paid, the total amount paid, the wallet address or voucher ID, any applicable
+33 cancellationcodes,andarefundpolicy.
+34 VI. Thedigitalassettransactionkioskoperatorshallprovideafullrefundofalltransactions
+35 to a customer who was fraudulently induced to engage in a digital asset kiosk transaction or
+36 transactions, provided that the customer contacts the digital asset kiosk operator and a law
+37 enforcementorgovernmentagencytoinformtheoperatorandtheagencyofthefraudulentnatureof
+
+SB482-FN-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 thetransactionortransactionswithin14daysafterthecustomer’slastdigitalassettransactionwith
+2 thedigitalassettransactionkioskoperator. Therefundshallincludeanyfeeschargedinassociation
+3 withthefraudulentlyinducedtransactions.
+4 358-U:5 Remedies.
+5 I. Any violation of this chapter shall constitute an unfair or deceptive act or practice within
+6 the meaning of RSA 358-A:2. Any right, remedy, or power set forth in RSA 358-A may be used to
+7 enforcetheprovisionsofthischapter.
+8 II. The rights, obligations, and remedies provided in this chapter shall be in addition to any
+9 otherrights,obligations,orremediesprovidedforbylaworinequity.
+10 3 EffectiveDate. Thisactshalltakeeffect180daysafteritspassage.
+
+LBA
+26-2043
+03/27/2026
+SB482-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENTS#2026-0787sand#2026-1172s)
+ANACT establishingconsumerprotectionsfordigitalaccesstransactionkiosks.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B4N-VNADBYBHB6061626SEBNATegpsfrdlattnk:S.M,Dt1;S.P,Dt1;S.G,Dt2;S,Dt1;R.A,H.4;R.M,H.1;R.P.1;R.L.W,R.1:CDAsblespsfrdlattnk-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-VNADBYBHB606162A2EOFNWHnteYrofOrLdToTdTNATegpsfrdlattnkeitEdbyteSeadHeofRsinGlCtc1StofF.Teglctfsttdlattnkshebudbysstoiec,pyora,toctchiodlaadtrteveofteasiytoc2NwC;DlAtTnK.AdRAbyigarcr3tefgnwcCR3DLATTNK31StofP.Itisteitofteglcttttscrereadumcrpswepglladredla0tnkko132D2I.“”msanlpnugak3I.“la”msadlrnofverdonaddlro4b,igc5I.“lattnk”or“”msaseect6ldinapcorrlsgttesapntob,s,ortradlatu7chorarptm8I.“”msapnoreytto,m,orcsoeormek9intss,wrdyorthatyhtl0V.“ep”msarepefrtecddlatddfm1pceeorcei233RnadC3I.Whrttotefttnfrac,anors4()Hdteftdlattnmebyacrfrapdofatlt45h,arwhteteormycetecsdlatt6()Ntptacrtoceasddlattnulteh7pdursh()hsl]
+[DELETED: B4N-VNADBYBHBPe2I.DgahdpdurshI,acrmyctteortrttttecsftdlattnbecdadteeeatoftcsftdlattnberdorrdtotecI.Prtoagptfmacratadlattnk,tkko,orisadd,slvyteiyofteilinamctwhaeseadfllI.Osslntpttsurayf,f,oradiAltsslbecduracsteadveiV.Aldlattnkkospgbsslpe0ddcslefrrtgtasvaapdUdSsp1nrorela.Sdddleslbeudtofelweta2ryaycswhtedlattnkkorinteetof3fdrtfmac.Tecsleslbefym434CeCrP5I.Anorslntatord,intea,metn$0prc6prcrdyasalksurcnclwnteUdS7I.Beagf,alkssldycsw,igttn8gta,lwe,c,u,b,ths,e,orrrw9erddptbycoA.Tekkslretecrtoarf0sgp,igwrtyaebgcdbyarp.Iftec1isarkoff,tekkslbktetnaddylweta2crpnadatbucti3I.Ossluebnastobktstoorfmwta4fdfranwhs,t,s,ororita,adslm5wnadadcrpnp6I.Beagf,kssldeinwgadonalf,tes7bnteospeadterep,edasapeaddra8adtetldlatedtobed9V.Tekkslpeapdadecrtsgtet0igteosneadtelecrsepen,teksl1at,teneoftea,teqyoftea,teasrep,tea2s,alfsp,tetlatp,tewtasorvrI,aya3cnc,adardp4V.Tedlattnkkorslpeaflrdofalt5toacrwowsfyidtoeeinadlatkktno6t,pdtttecrcstedlatkkoradal7etorgtaytoimteoradteayofteftneo]
+[DELETED: B4N-VNADBYBHBPe3tetnortswn14dsartecsltdlattnwtedlattnkko.Terdslieayfscdinawhtefyidt35RI.AyvnoftscrslceanurordeatorpewtemgofRA3.Ayr,r,orprstfhinRA3AmybeudteetepsoftscI.Ter,o,adrspdintscrslbeinantoaorr,o,orrspdfrbylworine03EeD.Tsatslteet10dsarisp]
+[DELETED: B4-FLNSADBYTESE(S#sad#NATegcrpsfrdlastnkLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

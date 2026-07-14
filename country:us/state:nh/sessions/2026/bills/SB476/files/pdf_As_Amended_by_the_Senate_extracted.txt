@@ -1,0 +1,278 @@
+Title: SENATEBILL 476
+Official Title: SENATEBILL 476
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB476-ASAMENDEDBYTHESENATE
+03/26/2026 1236s
+2026SESSION
+26-2035
+05/08
+ANACT relativetoconsumerhealthcarecosttransparency.
+SPONSORS: Sen. McGough, Dist 11; Sen. Gannon, Dist 23; Sen. Rosenwald, Dist 13; Sen.
+Birdsell,Dist19;Sen.Innis,Dist7;Sen.Pearl,Dist17;Rep.Miles,Hills.12;Rep.
+W.MacDonald,Rock.16;Rep.Ammon,Hills.42;Rep.Kuttab,Rock.17
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill creates new requirements for the insurance department to give consumers access to health
+careprice-transparencytoolsandbillinginformation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB476-ASAMENDEDBYTHESENATE
+03/26/2026 1236s 26-2035
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoconsumerhealthcarecosttransparency.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Health Statistics; Health Care Data; Availability Of Data. Amend RSA 126:28, III to read as
+2 follows:
+3 III. To [the insurance department,] the department of justice[,] or any other state or federal
+4 agency, and any agency's contractors, for review of health care matters within the agency's
+5 respective jurisdictional authority. An agency or contractor receiving health care data under this
+6 sectionshallcomplywithallstateandfederalconfidentiality,privacy,andsecurityprotections.
+7 IV. To the insurance department to ensure appropriate state regulation of
+8 insurance and health plans and to advance the insurance department's reporting on
+9 health care delivery or costs. The insurance department shall be provided with the
+10 complete data set. The insurance department shall only disclose the data in a manner
+11 consistent with the Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+12 and45C.F.R.parts160,162,and164.
+13 2 Portability, Availability, And Renewability Of Health Coverage; Requested Information.
+14 AmendRSA420-G:14-atoreadasfollows:
+15 420-G:14-a RequestedInformation.
+16 I. [As authorized in accordance with RSA 420-G:14, the] The commissioner may request the
+17 submission of such information by carriers as is necessary to better understand the coverage history
+18 and choices of participants in the nongroup market, health costs, cost drivers, health care
+19 financing and delivery system. The commissioner shall make every attempt to ensure the
+20 reasonableness of such request, both in terms of scope and timeframe, and to limit this request to
+21 information the commissioner deems necessary to better understand the dynamics of the [nongroup]
+22 health insurance market [and to assess the appropriateness of alternative sources of funding for the
+23 nongroupsubsidy].
+24 II. The commissioner shall request and health carriers shall supply information and data
+25 [no later than June 30 of] each year sufficient to report on the [small employer] health insurance
+26 market and the types of health coverage being purchased by individuals and employers by
+27 geographic area. Such information shall be reported for the market as a whole and by market
+28 segment. At the commissioner's discretion, such information may include, but not be limited to,
+29 information relating to premium rates and rating practices, prescription drug rebates, the
+30 number of groups and individuals insured, availability of coverage and benefit plans, trend, loss
+31 ratios, administration costs, and profitability. [The commissioner shall file a report of the
+SB476-ASAMENDEDBYTHESENATE
+-Page2-
+1 information by December 31 of each year with the president of the senate, the speaker of the house
+2 of representatives, the chairperson of the house commerce committee, and the chairperson of the
+3 senate banks and insurance committee.] The commissioner shall limit requests to the most
+4 essential data reasonably necessary to evaluate insurance market dynamics, health care
+5 costdrivers,andpremiumtrends.
+6 III. [The commissioner shall request and health carriers shall supply information no later
+7 than June 30 of each year sufficient to report on the types of health coverage being purchased by
+8 individualsandemployersbygeographicarea. Thereportshallincludespecificdetailsregardingthe
+9 type of coverage, including, but not limited to, co-pays, out-of-pocket maximums, network
+10 restrictions, and deductibles.] The commissioner shall prescribe the format, time, and
+11 procedure for submitting data. Any forms, templates, or guidance regarding the
+12 submissionrequiredbythesectionshallbeexemptfromtherequirementsofRSA541-A.
+13 IV. [The commissioner shall file the required reports by December 31 of each year with the
+14 senatepresident,thespeakerof thehouse,and thechairpersons ofthehouse andsenatecommittees
+15 having jurisdiction over commerce issues.] All native information and data collected shall be
+16 confidential and exempt from disclosure under RSA 91-A. The insurance department shall
+17 only disclose the data in a manner consistent with the Health Insurance Portability and
+18 Accountability Act of 1996 (HIPAA) and 45 C.F.R. parts 160, 162, and 164 to advance the
+19 purposesofthissection.
+20 V. The commissioner shall hold an annual public hearing concerning premium rates in the
+21 health insurance market and the factors, including health care costs and cost trends, that have
+22 contributed to rate increases during the prior year. The purpose of the public hearing shall be
+23 to provide transparency regarding the factors influencing health insurance premiums and
+24 healthcarecostsandtoinformpolicymakersandconsumersregardingmarkettrends. The
+25 commissioner shall evaluate claims costs, administrative loads, and health carrier profits. The
+26 commissioner shall identify the factors that contribute to cost increases affecting health insurance
+27 premiums and health care services in New Hampshire. The commissioner shall identify variations
+28 in the price that health carriers pay for health care services and shall undertake further analysis to
+29 determinethecause of theobserved pricevariations byutilizingtheuniform hospital dischargedata
+30 set, as described under RSA 126:25, the comprehensive health care information system as described
+31 in RSA 420-G:11-a, any other health care data collected by state government, including but
+32 not limited to Medicaid data, and other data sources as appropriate. In advance of holding the
+33 public hearing, the commissioner may require any health insurer or third party administrator to
+34 produce documents and information deemed necessary and relevant to evaluate the factors that
+35 contribute to cost growth in health care services, increased utilization of health care, and health
+36 insurance premium costs. The commissioner shall keep confidential all nonpublic documents and
+37 shall not disclose those documents without the consent of the health care provider or health care
+SB476-ASAMENDEDBYTHESENATE
+-Page3-
+1 payer that produced the information or documents. The commissioner may compel a health
+2 insurance carrier or third party administrator to testify at the annual public hearing. The
+3 commissioner may also invite representatives of health care providers to provide relevant
+4 information.
+5 VI.(a) The commissioner shall prepare an annual report concerning premium rates in the
+6 health insurance market and the factors that have contributed to rate variations during prior years.
+7 The annual report shall be designed to provide information which identifies and quantifies health
+8 care spending trends and the underlying factors that contributed to variations in health insurance
+9 premiums. The report may include, as appropriate, analysis of public policy options for increasing
+10 the efficiency of New Hampshire's health care financing and delivery system and controlling health
+11 care costs and premium variations. The report shall be based to the highest extent possible on the
+12 commissioner's analysis of information and data available to the commissioner, including the
+13 testimony at the public hearing, and any other information or documents submitted in connection
+14 withthepublichearing.
+15 (b) The commissioner shall submit the annual report to the governor, the president of
+16 thesenate,andthespeakerofthehouseofrepresentativesonorbeforeDecember31ofeachyear.
+17 VII. In conjunction with the annual public hearing required under paragraph V and the
+18 report required under paragraph VI, the commissioner shall consider any pertinent work of other
+19 legislativecommissionsandinquiresfocusedonrelatedmatters.
+20 VIII. The commissioner shall help consumers make informed choices about health
+21 insurancebyengagingineffortstoimprovetransparencyinhealthinsurance.
+22 IX. The department shall have the authority to receive all health data from any
+23 state agency to the extent reasonably necessary for the regulation of insurance markets
+24 and analysis of health care cost drivers affecting insurance premiums. Any health data
+25 received from another agency shall only be disclosed in a manner consistent with the
+26 Health Insurance Portability and Accountability Act of 1996 (HIPAA) and 45 C.F.R. parts
+27 160,162,and164.
+28 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B46-ASADBYTES616SEBNATretocrhhcectt:S.M,Dt1;S.G,Dt2;S.R,Dt1;S,Dt1;S.I,Dt7;S.P,Dt1;R.M,H.1;R.M,R.1;R.A,H.4;R.K,R.1:HhadHnSDAsblcsnwrsfrteiedttogecsastohepytsadbgi-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretocrhhcectteitEdbyteSeadHeofRsinGlCtc1HhS;HhCeD;AyOfD.AdRA1,IItordafI.To[eied]tedtofj]orayorseorfa,adayasc,frrwofhhcemswntearejla.Anayorcrrghhcedaurtsnslcywhalseadflc,p,adsypI.Toteiedttoeeaesernoieadhhpsadtoaeteiedsrgohhcedyorc.Teiedtslbepdwht0cedas.Teiedtsloydetedainam1ctwhteHhIePyadAyAtof16(2ad45C.ps1,1,ad132P,A,AdRyOfHhC;RdI4AdRA4atordasf54aRdI6I.[sadinaewhRA4,t]Tecrmyrtt7snofshinbycsasisnytobrudteceh8adcsofpsintenpm,hhc,ctd,hhc9fgaddys.Tecrslmeeyattoeet0rsofshr,bhintsofseadt,adtolttsrtt1intecrdsnytobrudtedsofte[2hhiemt[dtoasteasofaessoffgfrt3nps4I.Tecrslrtadhhcsslsyinadd5[olrtnJe30o]ehyrsttortonte[le]hhi6mtadtetsofhhcebgpdbyisadesb7gca.Shinslberdfrtemtasaweadbym8s.Attecsd,shinmyi,btntbeldt9inrgtopmrsadrgp,pndgr,t0nrofgsadisi,ayofceadbtp,t,l1r,anc,adp.[ecrslfeartoft]
+[DELETED: B46-ASADBYTESPe2inbyDr31ofehyrwhteptoftes,tesroftehofr,tecnoftehecec,adtecnoftsebsadiec]Tecrslltrstotemeldarynytoeeiemtd,hhcctd,adpmtI.[ecrslrtadhhcsslsyinnoltnJe30ofehyrsttortontetsofhhcebgpdbisadesbygca.Tertsliescdsrgtteofc,i,btntldt,c,otm,n0r,add]Tecrslpetef,t,a1pefrsgd.Ayf,t,orgergt2snrdbytesnslbeetfmtersofRA53I.[ecrslfeterdrsbyDr31ofehyrwht4sep,tesrofteh,adtecsofteheadsec5hgjnorcei]Alneinaddacdslb6cladetfmdeurRA9.Teiedts7oydetedainamrctwhteHhIePya8AyAtof16()ad45C.ps1,1,ad14toaet9psoftss0V.Tecrslhdanalpchgcgpmrsint1hhiemtadtef,ighhcecsadctt,tth2cdtoreisdgtepry.Tepeoftepchgslb3topetyrgtefsighhiepsa4hhcecsadtoimpsadcsrgmtt.T5crsleecsc,ael,adhhcrp.T6crsliytefsttcetoctisaghhi7psadhhcessinNwH.Tecrsliyv8intepetthhcspyfrhhcessadsluefrast9deteceofteodpevsbyugteumhlded0s,asddurRA1,tecehhceinsmasd1inRA4,ayorhhcedacdbyseg,igb2ntldtoMdd,adordassasa.Inaeofhgt3pch,tecrmyreayhhirortdpyart4pedsadinddnyadrttoeetefst5cetoctghinhhces,idunofhhc,adh6iepmc.Tecrslkpclalncdsa7slntdetedswttectoftehhceprorhhc]
+[DELETED: B46-ASADBYTESPe3prttpdteinord.Tecrmyclahiecrortdpyartotyattealpch.TcrmyaoiersofhhcepstoperiV)TecrslpeanalrtcgpmrsinthhiemtadtefstthecdtorevsdgpryTealrtslbeddtopeinwhisadqshcesgtsadteugfsttcdtovsinhhip.Tertmyi,asa,asofpcpyosfri0teeyofNwHshhcefgaddysmadcgh1cecsadpmv.Tertslbebdtotehtetpeont2csasofinaddaaetotec,igt3tyattepch,adayorinordssdinc4whtepch5()Tecrslsttealrttoteg,tepto6tes,adtesrofteheofrsonorbeDr31ofehy7V.IncnwhtealpchgrdurphVadt8rtrdurphV,tecrslcrayptwkofo9lecsadisfdonrdm0V.Tecrslhpcsmeidcsath1iebyeginestoietyinhhi2I.Tedtslheteaytorealhhdafma3seaytoteetrynyfrternofiem4adasofhhcectdsagiep.Ayhhd5rdfmaraysloybeddinamrctwht6HhIePyadAyAtof16()ad45C.p71,1,ad183EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB476-ASAMENDEDBYTHESENATE
+03/26/2026 1236s
+2026SESSION
+26-2035
+05/08
+SENATEBILL 476
+ANACT relativetoconsumerhealthcarecosttransparency.
+SPONSORS: Sen. McGough, Dist 11; Sen. Gannon, Dist 23; Sen. Rosenwald, Dist 13; Sen.
+Birdsell,Dist19;Sen.Innis,Dist7;Sen.Pearl,Dist17;Rep.Miles,Hills.12;Rep.
+W.MacDonald,Rock.16;Rep.Ammon,Hills.42;Rep.Kuttab,Rock.17
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill creates new requirements for the insurance department to give consumers access to health
+careprice-transparencytoolsandbillinginformation.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB476-ASAMENDEDBYTHESENATE
+03/26/2026 1236s 26-2035
+05/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoconsumerhealthcarecosttransparency.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Health Statistics; Health Care Data; Availability Of Data. Amend RSA 126:28, III to read as
+2 follows:
+3 III. To [the insurance department,] the department of justice[,] or any other state or federal
+4 agency, and any agency's contractors, for review of health care matters within the agency's
+5 respective jurisdictional authority. An agency or contractor receiving health care data under this
+6 sectionshallcomplywithallstateandfederalconfidentiality,privacy,andsecurityprotections.
+7 IV. To the insurance department to ensure appropriate state regulation of
+8 insurance and health plans and to advance the insurance department's reporting on
+9 health care delivery or costs. The insurance department shall be provided with the
+10 complete data set. The insurance department shall only disclose the data in a manner
+11 consistent with the Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+12 and45C.F.R.parts160,162,and164.
+13 2 Portability, Availability, And Renewability Of Health Coverage; Requested Information.
+14 AmendRSA420-G:14-atoreadasfollows:
+15 420-G:14-a RequestedInformation.
+16 I. [As authorized in accordance with RSA 420-G:14, the] The commissioner may request the
+17 submission of such information by carriers as is necessary to better understand the coverage history
+18 and choices of participants in the nongroup market, health costs, cost drivers, health care
+19 financing and delivery system. The commissioner shall make every attempt to ensure the
+20 reasonableness of such request, both in terms of scope and timeframe, and to limit this request to
+21 information the commissioner deems necessary to better understand the dynamics of the [nongroup]
+22 health insurance market [and to assess the appropriateness of alternative sources of funding for the
+23 nongroupsubsidy].
+24 II. The commissioner shall request and health carriers shall supply information and data
+25 [no later than June 30 of] each year sufficient to report on the [small employer] health insurance
+26 market and the types of health coverage being purchased by individuals and employers by
+27 geographic area. Such information shall be reported for the market as a whole and by market
+28 segment. At the commissioner's discretion, such information may include, but not be limited to,
+29 information relating to premium rates and rating practices, prescription drug rebates, the
+30 number of groups and individuals insured, availability of coverage and benefit plans, trend, loss
+31 ratios, administration costs, and profitability. [The commissioner shall file a report of the
+
+SB476-ASAMENDEDBYTHESENATE
+-Page2-
+1 information by December 31 of each year with the president of the senate, the speaker of the house
+2 of representatives, the chairperson of the house commerce committee, and the chairperson of the
+3 senate banks and insurance committee.] The commissioner shall limit requests to the most
+4 essential data reasonably necessary to evaluate insurance market dynamics, health care
+5 costdrivers,andpremiumtrends.
+6 III. [The commissioner shall request and health carriers shall supply information no later
+7 than June 30 of each year sufficient to report on the types of health coverage being purchased by
+8 individualsandemployersbygeographicarea. Thereportshallincludespecificdetailsregardingthe
+9 type of coverage, including, but not limited to, co-pays, out-of-pocket maximums, network
+10 restrictions, and deductibles.] The commissioner shall prescribe the format, time, and
+11 procedure for submitting data. Any forms, templates, or guidance regarding the
+12 submissionrequiredbythesectionshallbeexemptfromtherequirementsofRSA541-A.
+13 IV. [The commissioner shall file the required reports by December 31 of each year with the
+14 senatepresident,thespeakerof thehouse,and thechairpersons ofthehouse andsenatecommittees
+15 having jurisdiction over commerce issues.] All native information and data collected shall be
+16 confidential and exempt from disclosure under RSA 91-A. The insurance department shall
+17 only disclose the data in a manner consistent with the Health Insurance Portability and
+18 Accountability Act of 1996 (HIPAA) and 45 C.F.R. parts 160, 162, and 164 to advance the
+19 purposesofthissection.
+20 V. The commissioner shall hold an annual public hearing concerning premium rates in the
+21 health insurance market and the factors, including health care costs and cost trends, that have
+22 contributed to rate increases during the prior year. The purpose of the public hearing shall be
+23 to provide transparency regarding the factors influencing health insurance premiums and
+24 healthcarecostsandtoinformpolicymakersandconsumersregardingmarkettrends. The
+25 commissioner shall evaluate claims costs, administrative loads, and health carrier profits. The
+26 commissioner shall identify the factors that contribute to cost increases affecting health insurance
+27 premiums and health care services in New Hampshire. The commissioner shall identify variations
+28 in the price that health carriers pay for health care services and shall undertake further analysis to
+29 determinethecause of theobserved pricevariations byutilizingtheuniform hospital dischargedata
+30 set, as described under RSA 126:25, the comprehensive health care information system as described
+31 in RSA 420-G:11-a, any other health care data collected by state government, including but
+32 not limited to Medicaid data, and other data sources as appropriate. In advance of holding the
+33 public hearing, the commissioner may require any health insurer or third party administrator to
+34 produce documents and information deemed necessary and relevant to evaluate the factors that
+35 contribute to cost growth in health care services, increased utilization of health care, and health
+36 insurance premium costs. The commissioner shall keep confidential all nonpublic documents and
+37 shall not disclose those documents without the consent of the health care provider or health care
+
+SB476-ASAMENDEDBYTHESENATE
+-Page3-
+1 payer that produced the information or documents. The commissioner may compel a health
+2 insurance carrier or third party administrator to testify at the annual public hearing. The
+3 commissioner may also invite representatives of health care providers to provide relevant
+4 information.
+5 VI.(a) The commissioner shall prepare an annual report concerning premium rates in the
+6 health insurance market and the factors that have contributed to rate variations during prior years.
+7 The annual report shall be designed to provide information which identifies and quantifies health
+8 care spending trends and the underlying factors that contributed to variations in health insurance
+9 premiums. The report may include, as appropriate, analysis of public policy options for increasing
+10 the efficiency of New Hampshire's health care financing and delivery system and controlling health
+11 care costs and premium variations. The report shall be based to the highest extent possible on the
+12 commissioner's analysis of information and data available to the commissioner, including the
+13 testimony at the public hearing, and any other information or documents submitted in connection
+14 withthepublichearing.
+15 (b) The commissioner shall submit the annual report to the governor, the president of
+16 thesenate,andthespeakerofthehouseofrepresentativesonorbeforeDecember31ofeachyear.
+17 VII. In conjunction with the annual public hearing required under paragraph V and the
+18 report required under paragraph VI, the commissioner shall consider any pertinent work of other
+19 legislativecommissionsandinquiresfocusedonrelatedmatters.
+20 VIII. The commissioner shall help consumers make informed choices about health
+21 insurancebyengagingineffortstoimprovetransparencyinhealthinsurance.
+22 IX. The department shall have the authority to receive all health data from any
+23 state agency to the extent reasonably necessary for the regulation of insurance markets
+24 and analysis of health care cost drivers affecting insurance premiums. Any health data
+25 received from another agency shall only be disclosed in a manner consistent with the
+26 Health Insurance Portability and Accountability Act of 1996 (HIPAA) and 45 C.F.R. parts
+27 160,162,and164.
+28 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B46-ASADBYTES616SEBNATretocrhhcectt:S.M,Dt1;S.G,Dt2;S.R,Dt1;S,Dt1;S.I,Dt7;S.P,Dt1;R.M,H.1;R.M,R.1;R.A,H.4;R.K,R.1:HhadHnSDAsblcsnwrsfrteiedttogecsastohepytsadbgi-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B46-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretocrhhcectteitEdbyteSeadHeofRsinGlCtc1HhS;HhCeD;AyOfD.AdRA1,IItordafI.To[eied]tedtofj]orayorseorfa,adayasc,frrwofhhcemswntearejla.Anayorcrrghhcedaurtsnslcywhalseadflc,p,adsypI.Toteiedttoeeaesernoieadhhpsadtoaeteiedsrgohhcedyorc.Teiedtslbepdwht0cedas.Teiedtsloydetedainam1ctwhteHhIePyadAyAtof16(2ad45C.ps1,1,ad132P,A,AdRyOfHhC;RdI4AdRA4atordasf54aRdI6I.[sadinaewhRA4,t]Tecrmyrtt7snofshinbycsasisnytobrudteceh8adcsofpsintenpm,hhc,ctd,hhc9fgaddys.Tecrslmeeyattoeet0rsofshr,bhintsofseadt,adtolttsrtt1intecrdsnytobrudtedsofte[2hhiemt[dtoasteasofaessoffgfrt3nps4I.Tecrslrtadhhcsslsyinadd5[olrtnJe30o]ehyrsttortonte[le]hhi6mtadtetsofhhcebgpdbyisadesb7gca.Shinslberdfrtemtasaweadbym8s.Attecsd,shinmyi,btntbeldt9inrgtopmrsadrgp,pndgr,t0nrofgsadisi,ayofceadbtp,t,l1r,anc,adp.[ecrslfeartoft]
+[DELETED: B46-ASADBYTESPe2inbyDr31ofehyrwhteptoftes,tesroftehofr,tecnoftehecec,adtecnoftsebsadiec]Tecrslltrstotemeldarynytoeeiemtd,hhcctd,adpmtI.[ecrslrtadhhcsslsyinnoltnJe30ofehyrsttortontetsofhhcebgpdbisadesbygca.Tertsliescdsrgtteofc,i,btntldt,c,otm,n0r,add]Tecrslpetef,t,a1pefrsgd.Ayf,t,orgergt2snrdbytesnslbeetfmtersofRA53I.[ecrslfeterdrsbyDr31ofehyrwht4sep,tesrofteh,adtecsofteheadsec5hgjnorcei]Alneinaddacdslb6cladetfmdeurRA9.Teiedts7oydetedainamrctwhteHhIePya8AyAtof16()ad45C.ps1,1,ad14toaet9psoftss0V.Tecrslhdanalpchgcgpmrsint1hhiemtadtef,ighhcecsadctt,tth2cdtoreisdgtepry.Tepeoftepchgslb3topetyrgtefsighhiepsa4hhcecsadtoimpsadcsrgmtt.T5crsleecsc,ael,adhhcrp.T6crsliytefsttcetoctisaghhi7psadhhcessinNwH.Tecrsliyv8intepetthhcspyfrhhcessadsluefrast9deteceofteodpevsbyugteumhlded0s,asddurRA1,tecehhceinsmasd1inRA4,ayorhhcedacdbyseg,igb2ntldtoMdd,adordassasa.Inaeofhgt3pch,tecrmyreayhhirortdpyart4pedsadinddnyadrttoeetefst5cetoctghinhhces,idunofhhc,adh6iepmc.Tecrslkpclalncdsa7slntdetedswttectoftehhceprorhhc]
+[DELETED: B46-ASADBYTESPe3prttpdteinord.Tecrmyclahiecrortdpyartotyattealpch.TcrmyaoiersofhhcepstoperiV)TecrslpeanalrtcgpmrsinthhiemtadtefstthecdtorevsdgpryTealrtslbeddtopeinwhisadqshcesgtsadteugfsttcdtovsinhhip.Tertmyi,asa,asofpcpyosfri0teeyofNwHshhcefgaddysmadcgh1cecsadpmv.Tertslbebdtotehtetpeont2csasofinaddaaetotec,igt3tyattepch,adayorinordssdinc4whtepch5()Tecrslsttealrttoteg,tepto6tes,adtesrofteheofrsonorbeDr31ofehy7V.IncnwhtealpchgrdurphVadt8rtrdurphV,tecrslcrayptwkofo9lecsadisfdonrdm0V.Tecrslhpcsmeidcsath1iebyeginestoietyinhhi2I.Tedtslheteaytorealhhdafma3seaytoteetrynyfrternofiem4adasofhhcectdsagiep.Ayhhd5rdfmaraysloybeddinamrctwht6HhIePyadAyAtof16()ad45C.p71,1,ad183EeD.TsatslteetJy1,2]

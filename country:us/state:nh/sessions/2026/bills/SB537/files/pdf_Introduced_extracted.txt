@@ -1,0 +1,78 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB537 -ASINTRODUCED
+2026SESSION
+26-2159
+06/09
+537
+ANACT repealing the authorization for the public utilities commission to approve
+alternativeformsofregulation.
+SPONSORS: Sen.Avard,Dist12
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the authority that allows the public utilities commission to approve alternative
+formsofregulationforregulatedutilities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB537-ASINTRODUCED
+26-2159
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the authorization for the public utilities commission to approve
+alternativeformsofregulation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA 374:3-a, relative to alternative forms of regulation and incentive regulation, is
+2 repealed.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B57-ASI6SEBNATrgteanfrtepcuscntoaefsofr:S.A,Dt1:EyadNlRsblrsteayttastepcuscntoaeasofrnfrrdu-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B57-ASIEOFNWHnteYrofOrLdToTdTNATrgteanfrtepcuscntoaefsofreitEdbyteSeadHeofRsinGlCtc1R.RA3,retoaefsofrnadier,ir2EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB537 -ASINTRODUCED
+2026SESSION
+26-2159
+06/09
+537
+SENATEBILL
+ANACT repealing the authorization for the public utilities commission to approve
+alternativeformsofregulation.
+SPONSORS: Sen.Avard,Dist12
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill repeals the authority that allows the public utilities commission to approve alternative
+formsofregulationforregulatedutilities.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB537-ASINTRODUCED
+26-2159
+06/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT repealing the authorization for the public utilities commission to approve
+alternativeformsofregulation.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Repeal. RSA 374:3-a, relative to alternative forms of regulation and incentive regulation, is
+2 repealed.
+3 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B57-ASI6SEBNATrgteanfrtepcuscntoaefsofr:S.A,Dt1:EyadNlRsblrsteayttastepcuscntoaeasofrnfrrdu-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B57-ASIEOFNWHnteYrofOrLdToTdTNATrgteanfrtepcuscntoaefsofreitEdbyteSeadHeofRsinGlCtc1R.RA3,retoaefsofrnadier,ir2EeD.Tsatslteet60dsarisp]

@@ -1,0 +1,250 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB540-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0511s
+23Apr2026...1452h
+2026SESSION
+26-2126
+06/05
+540-FN
+ANACT relativetoplug-insolargenerationsystems.
+SPONSORS: Sen. Watters, Dist 4; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Rosenwald,
+Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Murphy, Dist 16; Sen. Altschiller, Dist
+24;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Defines “plug‑in solar generation system,” allows each metered customer one such system
+with a maximum inverter output of 1,200 watts AC, and exempts compliant systems from utility
+approval,interconnectionreview,additionalutility‑specifiedequipment,orrelatedfees.
+II. Requires plug-in solar generation systems to be certified to applicable national safety
+standards and to be installed and operated in accordance with the state building code and
+manufacturer instructions, and directs the building code review board to amend the state building
+codeoncenationallyrecognizedstandardsforplug-insystemsexist.
+III. Authorizes the department of energy to adopt rules consistent with ANSI, UL, and IEEE
+standards,requiresthedepartmenttomaintainconsumerinformationonitswebsiteregardingplug-
+in solar generation systems, and clarifies that electric distribution utilities are not liable for
+damagesarisingfromcustomer‑installedsystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB540-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0511s
+23Apr2026...1452h 26-2126
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoplug-insolargenerationsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Definitions. Amend RSA 362-A:1-a by inserting after paragraph IV the
+2 followingnewparagraphs:
+3 IV-a. “Plug-in solar generation system” means a movable photovoltaic generation system
+4 intendedtoexclusivelyoffsetaportionofacustomer’sonsiteelectricconsumptionthatcomplieswith
+5 national standards for interconnection and interoperability of distributed energy resources and
+6 connects to a building’s electrical system through a receptacle or other non-permanent wiring
+7 connection.
+8 2 New Section; Plug-In Solar Generation Systems; Exemptions; Requirements. Amend RSA
+9 362-Abyinsertingaftersection9thefollowingnewsection:
+10 362-A:10 Plug-inSolarGenerationSystems;Exemptions;Requirements.
+11 I. Plug-in solar generation systems shall be certified by a nationally recognized testing
+12 laboratory to meet nationally recognized safety standards applicable to distributed energy resources
+13 andplug-in solargenerationsystems.
+14 II. The applicable electric distribution utility may develop a method for the customer to
+15 informtheelectricdistributionutilityofthewattage ofthesystematthecustomer’sserviceaddress
+16 subsequenttoinstallation. Suchinformationshallbefornotificationpurposesonly.
+17 III. An electric distribution utility shall not require a customer using a compliant plug-in
+18 solargenerationsystemto:
+19 (a) Obtainelectricdistributionutilityapprovalbeforeinstallingorusingthesystem;
+20 (b) Complete an interconnection review or obtain an executed interconnection
+21 agreement;
+22 (c) Pay any fee related to the system, except any charges the system incurs through its
+23 use;or
+24 (d) Install additional electric distribution utility-specified controls or equipment beyond
+25 thoseintegratedintothesystem.
+26 IV. Each metered customer shall be allowed a maximum of one plug-in solar generation
+27 systemwithamaximuminverteroutputof1,200wattsAC.
+28 V. The department of energy shall establish and maintain a page on its website with
+29 relevant information for consumers regarding plug-in solar generation systems, including meter
+30 compatibility at the state’s various distribution utilities, potential impacts on electric billing,
+SB540-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 applicable safety standards and considerations, and any other information the department
+2 determines appropriate. Such information shall include notice that connecting unlisted systems or
+3 connecting systems in a manner not in accordance with the state building code or manufacturer
+4 instructionsmayaffectacustomer’shomeownersorrentersinsurancecoverage.
+5 3 New Section; Plug-In Solar Generation Systems. Amend RSA 155-A by inserting after section
+6 14thefollowingnewsection:
+7 155-A:15 Plug-InSolarGenerationSystems.
+8 I. The building code review board shall amend the state building code to address the
+9 buildingandthebuilding’selectricalsystemwhenaplug-insolargenerationsystemisused.
+10 II. Each plug-in solar generation system shall be installed and operated in accordance with
+11 thestatebuildingcodeandmanufacturerinstructions.
+12 4 New Section; Liability. Amend RSA 374 by inserting after section 1-a the following new
+13 section:
+14 374:1-b Liability for Plug-In Solar Generation Systems. An electric distribution utility shall not
+15 be liable for damage, injury, or compensation or charges arising from a plug-in solar generation
+16 systeminstalledorusedbyacustomer. Nothinginthissectionshallbeconstruedtolimitanycause
+17 ofactionagainstthemanufacturer,installer,orownerofaplug-insolargenerationsystem.
+18 5 Rulemaking; Department of Energy; Net Energy Metering. Amend RSA 362-A:9, X(a) to read
+19 asfollows:
+20 (a) Establish reasonable interconnection requirements for safety, reliability, and power
+21 quality as it determines the public interest requires. Such rules shall not exceed applicable test
+22 standards of the American National Standards Institute (ANSI) [or], Underwriters Laboratory (UL),
+23 ortheInstituteofElectricalandElectronics,Inc.(IEEE);and
+24 6 Contingency. RSA 155-A:15, as inserted by section 3 of this act, shall take effect on the date
+25 the commissioner of the department of energy certifies to the director of the office of legislative
+26 services and the secretary of state that a nationally recognized standard exists authorizing plug-in
+27 solarsystemstobesafelyconnectedtoabuilding’selectricalsystem.
+28 7 EffectiveDate.
+29 I. Section3ofthisactshalltakeeffectasprovidedinsection6ofthisact.
+30 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+LBA
+26-2126
+04/29/2026
+SB540-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1452h)
+ANACT relativetoplug-insolargenerationsystems.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None
+[DELETED: B5N-ASADBYTEH60.16SEBNATretopnsrgns:S.W,Dt4;S.P,Dt1;S.A,Dt1;S.Rt1;S.PsK,Dt2;S.M,Dt1;S.A,D;R.M,H.3:EyadNlRDAsb.Ds“ginsrgns”asehmdcroeshshammirotof10wsA,adesctssfmu,inr,aluysde,orrdf.Rspnsrgnsstobecdtoaenlssadtobeidadodinaewhtesebgceari,addstebgcerwbdtoadtesebeoenyrdssfrpnsse.AstedtofeytoatrsctwhA,U,adI,rstedttomncrinoniswergpnsrgns,adcsttecdnusaentlefsagfmcrids-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTEH60.1h2EOFNWHnteYrofOrLdToTdTNATretopnsrgnseitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA3abyigarphIVtfgnwpI.“nsrgns”msamepcgnsidtoeyotapnofacsoeeccnttcswnlssfrinadiyofddeyrsacstoabselsmthareororntwc2NwS;PnSrGnS;E;R.AdR3Abyigarsn9tefgnws030PnSrGnS;E;R1I.Pnsrgnssslbecdbyanyrdt2lytomtnyrdsyssaetoddeyr3adpnsrgns4I.Teaeecdnuymydpamdfrtecrt5imteecdnuyofteweoftesmattecssea6sttoi.Shinslbefrnnpso7I.Anecdnuyslntreacrugactp8srgnsmt9()Onecdnuyalbeigorugtes0()Ceaninrworonanedi1a2()Pyayferdtotes,etaycstesmisthi3u;o4()Ilalecdnudcsoretb5teidiotes6I.Ehmdcrslbeadammofoepnsrg7smwhammirotof10wsA8V.Tedtofeyslehadmnapeoniswew9rtinfrcsrgpnsrgns,igm0cyattessvsdnu,plisonecb]
+[DELETED: B5N-ASADBYTEHPe2aesyssadc,adayorinteddsa.Shinslienettcgudssocgssinamrntinaewhtesebgceormismyatacshsorrsiec3NwS;PnSrGnS.AdRA1Abyigars14tefgnws15PnSrGnSI.Tebgcerwbdsladtesebgcetoastbgadtebselsmwnapnsrgnsmisu0I.Ehpnsrgnsmslbeidadodinaew1tesebgceadmri24NwS;L.AdRA34byigarsn1atefgn3s43bLyfrPnSrGnS.Anecdnuysln5belefrd,i,orcnorcsagfmapnsrg6smidorudbyac.Ngintssnslbecdtoltayc7ofanattem,i,ororofapnsrgns85R;DtofE;NtEyM.AdRA3,X)tor9asf0()Ehreinrsfrs,r,adp1qyasitdstepcitr.Shrsslntedaet2ssofteAnNlSsIe()[,UsLy(3orteIeofEladE,I.(;a46C.RA1,asidbysn3oftsa,slteetonted5tecroftedtofeycstotedrofteoeofl6ssadtesyofsettanyrdsdesagp7srsstobesycdtoabsels87EeD9I.Sn3oftsatslteetaspdinsn6oftsa0I.TerroftsatslteetJy1,2]
+[DELETED: B5-FLNSADBYTEHE(T#2NATretopnsrgnsLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSC]
+
+
+================================================================================
+
+Raw Text:
+SB540-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0511s
+23Apr2026...1452h
+2026SESSION
+26-2126
+06/05
+540-FN
+SENATEBILL
+ANACT relativetoplug-insolargenerationsystems.
+SPONSORS: Sen. Watters, Dist 4; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Rosenwald,
+Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Murphy, Dist 16; Sen. Altschiller, Dist
+24;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Defines “plug‑in solar generation system,” allows each metered customer one such system
+with a maximum inverter output of 1,200 watts AC, and exempts compliant systems from utility
+approval,interconnectionreview,additionalutility‑specifiedequipment,orrelatedfees.
+II. Requires plug-in solar generation systems to be certified to applicable national safety
+standards and to be installed and operated in accordance with the state building code and
+manufacturer instructions, and directs the building code review board to amend the state building
+codeoncenationallyrecognizedstandardsforplug-insystemsexist.
+III. Authorizes the department of energy to adopt rules consistent with ANSI, UL, and IEEE
+standards,requiresthedepartmenttomaintainconsumerinformationonitswebsiteregardingplug-
+in solar generation systems, and clarifies that electric distribution utilities are not liable for
+damagesarisingfromcustomer‑installedsystems.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB540-FN-ASAMENDEDBYTHEHOUSE
+02/19/2026 0511s
+23Apr2026...1452h 26-2126
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoplug-insolargenerationsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Definitions. Amend RSA 362-A:1-a by inserting after paragraph IV the
+2 followingnewparagraphs:
+3 IV-a. “Plug-in solar generation system” means a movable photovoltaic generation system
+4 intendedtoexclusivelyoffsetaportionofacustomer’sonsiteelectricconsumptionthatcomplieswith
+5 national standards for interconnection and interoperability of distributed energy resources and
+6 connects to a building’s electrical system through a receptacle or other non-permanent wiring
+7 connection.
+8 2 New Section; Plug-In Solar Generation Systems; Exemptions; Requirements. Amend RSA
+9 362-Abyinsertingaftersection9thefollowingnewsection:
+10 362-A:10 Plug-inSolarGenerationSystems;Exemptions;Requirements.
+11 I. Plug-in solar generation systems shall be certified by a nationally recognized testing
+12 laboratory to meet nationally recognized safety standards applicable to distributed energy resources
+13 andplug-in solargenerationsystems.
+14 II. The applicable electric distribution utility may develop a method for the customer to
+15 informtheelectricdistributionutilityofthewattage ofthesystematthecustomer’sserviceaddress
+16 subsequenttoinstallation. Suchinformationshallbefornotificationpurposesonly.
+17 III. An electric distribution utility shall not require a customer using a compliant plug-in
+18 solargenerationsystemto:
+19 (a) Obtainelectricdistributionutilityapprovalbeforeinstallingorusingthesystem;
+20 (b) Complete an interconnection review or obtain an executed interconnection
+21 agreement;
+22 (c) Pay any fee related to the system, except any charges the system incurs through its
+23 use;or
+24 (d) Install additional electric distribution utility-specified controls or equipment beyond
+25 thoseintegratedintothesystem.
+26 IV. Each metered customer shall be allowed a maximum of one plug-in solar generation
+27 systemwithamaximuminverteroutputof1,200wattsAC.
+28 V. The department of energy shall establish and maintain a page on its website with
+29 relevant information for consumers regarding plug-in solar generation systems, including meter
+30 compatibility at the state’s various distribution utilities, potential impacts on electric billing,
+
+SB540-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 applicable safety standards and considerations, and any other information the department
+2 determines appropriate. Such information shall include notice that connecting unlisted systems or
+3 connecting systems in a manner not in accordance with the state building code or manufacturer
+4 instructionsmayaffectacustomer’shomeownersorrentersinsurancecoverage.
+5 3 New Section; Plug-In Solar Generation Systems. Amend RSA 155-A by inserting after section
+6 14thefollowingnewsection:
+7 155-A:15 Plug-InSolarGenerationSystems.
+8 I. The building code review board shall amend the state building code to address the
+9 buildingandthebuilding’selectricalsystemwhenaplug-insolargenerationsystemisused.
+10 II. Each plug-in solar generation system shall be installed and operated in accordance with
+11 thestatebuildingcodeandmanufacturerinstructions.
+12 4 New Section; Liability. Amend RSA 374 by inserting after section 1-a the following new
+13 section:
+14 374:1-b Liability for Plug-In Solar Generation Systems. An electric distribution utility shall not
+15 be liable for damage, injury, or compensation or charges arising from a plug-in solar generation
+16 systeminstalledorusedbyacustomer. Nothinginthissectionshallbeconstruedtolimitanycause
+17 ofactionagainstthemanufacturer,installer,orownerofaplug-insolargenerationsystem.
+18 5 Rulemaking; Department of Energy; Net Energy Metering. Amend RSA 362-A:9, X(a) to read
+19 asfollows:
+20 (a) Establish reasonable interconnection requirements for safety, reliability, and power
+21 quality as it determines the public interest requires. Such rules shall not exceed applicable test
+22 standards of the American National Standards Institute (ANSI) [or], Underwriters Laboratory (UL),
+23 ortheInstituteofElectricalandElectronics,Inc.(IEEE);and
+24 6 Contingency. RSA 155-A:15, as inserted by section 3 of this act, shall take effect on the date
+25 the commissioner of the department of energy certifies to the director of the office of legislative
+26 services and the secretary of state that a nationally recognized standard exists authorizing plug-in
+27 solarsystemstobesafelyconnectedtoabuilding’selectricalsystem.
+28 7 EffectiveDate.
+29 I. Section3ofthisactshalltakeeffectasprovidedinsection6ofthisact.
+30 II. TheremainderofthisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2126
+04/29/2026
+SB540-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1452h)
+ANACT relativetoplug-insolargenerationsystems.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B5N-ASADBYTEH60.16SEBNATretopnsrgns:S.W,Dt4;S.P,Dt1;S.A,Dt1;S.Rt1;S.PsK,Dt2;S.M,Dt1;S.A,D;R.M,H.3:EyadNlRDAsb.Ds“ginsrgns”asehmdcroeshshammirotof10wsA,adesctssfmu,inr,aluysde,orrdf.Rspnsrgnsstobecdtoaenlssadtobeidadodinaewhtesebgceari,addstebgcerwbdtoadtesebeoenyrdssfrpnsse.AstedtofeytoatrsctwhA,U,adI,rstedttomncrinoniswergpnsrgns,adcsttecdnusaentlefsagfmcrids-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTEH60.1h2EOFNWHnteYrofOrLdToTdTNATretopnsrgnseitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA3abyigarphIVtfgnwpI.“nsrgns”msamepcgnsidtoeyotapnofacsoeeccnttcswnlssfrinadiyofddeyrsacstoabselsmthareororntwc2NwS;PnSrGnS;E;R.AdR3Abyigarsn9tefgnws030PnSrGnS;E;R1I.Pnsrgnssslbecdbyanyrdt2lytomtnyrdsyssaetoddeyr3adpnsrgns4I.Teaeecdnuymydpamdfrtecrt5imteecdnuyofteweoftesmattecssea6sttoi.Shinslbefrnnpso7I.Anecdnuyslntreacrugactp8srgnsmt9()Onecdnuyalbeigorugtes0()Ceaninrworonanedi1a2()Pyayferdtotes,etaycstesmisthi3u;o4()Ilalecdnudcsoretb5teidiotes6I.Ehmdcrslbeadammofoepnsrg7smwhammirotof10wsA8V.Tedtofeyslehadmnapeoniswew9rtinfrcsrgpnsrgns,igm0cyattessvsdnu,plisonecb]
+[DELETED: B5N-ASADBYTEHPe2aesyssadc,adayorinteddsa.Shinslienettcgudssocgssinamrntinaewhtesebgceormismyatacshsorrsiec3NwS;PnSrGnS.AdRA1Abyigars14tefgnws15PnSrGnSI.Tebgcerwbdsladtesebgcetoastbgadtebselsmwnapnsrgnsmisu0I.Ehpnsrgnsmslbeidadodinaew1tesebgceadmri24NwS;L.AdRA34byigarsn1atefgn3s43bLyfrPnSrGnS.Anecdnuysln5belefrd,i,orcnorcsagfmapnsrg6smidorudbyac.Ngintssnslbecdtoltayc7ofanattem,i,ororofapnsrgns85R;DtofE;NtEyM.AdRA3,X)tor9asf0()Ehreinrsfrs,r,adp1qyasitdstepcitr.Shrsslntedaet2ssofteAnNlSsIe()[,UsLy(3orteIeofEladE,I.(;a46C.RA1,asidbysn3oftsa,slteetonted5tecroftedtofeycstotedrofteoeofl6ssadtesyofsettanyrdsdesagp7srsstobesycdtoabsels87EeD9I.Sn3oftsatslteetaspdinsn6oftsa0I.TerroftsatslteetJy1,2]
+[DELETED: B5-FLNSADBYTEHE(T#2NATretopnsrgnsLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSC]

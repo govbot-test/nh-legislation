@@ -1,0 +1,350 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB433-FN-ASINTRODUCED
+2026SESSION
+26-2017
+12/09
+433-FN
+ANACT establishingtheseizuresafeschoolsact.
+SPONSORS: Sen. Lang, Dist 2; Sen. Birdsell, Dist 19; Sen. McGough, Dist 11; Sen. Innis, Dist
+7; Sen. Gray, Dist 6; Sen. Gannon, Dist 23; Sen. Abbas, Dist 22; Sen. Watters,
+Dist 4; Sen. Rosenwald, Dist 13; Sen. Carson, Dist 14; Sen. Perkins Kwoka, Dist
+21; Sen. Fenton, Dist 10; Sen. Pearl, Dist 17; Sen. Rochefort, Dist 1; Sen.
+Altschiller,Dist24;Rep.Moffett,Merr.4;Rep.Telerski,Hills.11
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires schools to train at least 2 personnel in recognizing the symptoms of seizures
+and the administration of seizure rescue medication in the event a seizure occurs at school. Parent
+or guardian permission is required for the administration of seizure rescue medicine. The bill also
+establishesaseizureeducationprograminpublicschools.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB433-FN-ASINTRODUCED
+26-2017
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingtheseizuresafeschoolsact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Seizure Action Plans. Amend RSA 200 by inserting after section 41 the
+2 followingnewsubdivision:
+3 SeizureActionPlans
+4 200:41-a Title. This subdivision shall be known and may be cited as the "Seizure Safe Schools
+5 Act".
+6 200:41-b Definitions. In this subdivision, "seizure action plan" means a written, individualized
+7 health plan designed to acknowledge and prepare for the health care needs of a student diagnosed
+8 withaseizuredisorder.
+9 200:41-c Training. Every public, charter, and private school shall provide up to 75 minutes of
+10 training, in person or online, every 2 years to principals, guidance counselors, athletic directors,
+11 teachers, and other relevant school personnel with direct contact and supervision of children on the
+12 recognitionofsignsandsymptomsofseizuresandtheappropriatestepsforseizurefirstaid.
+13 I. Bythe2026-27schoolyear,theboardofeachpublicschooldistrictandthegoverningbody
+14 of each private school or charter school shall have at least 2 school employees at each school who
+15 havemetthetrainingrequirementsnecessaryto:
+16 (a) Administerorassistwiththeself-administrationof:
+17 (1) A seizure rescue medication or medication prescribed to treat seizure
+18 disorder symptoms as approved by the United States Food and Drug Administration or any
+19 successoragency;and
+20 (2) A manual dose of prescribed electrical stimulation using a vagus nerve
+21 stimulatormagnetasapprovedbytheUnitedStatesFoodandDrugAdministrationoranysuccessor
+22 agency;and
+23 (b) Recognize the signs and symptoms of seizures and the appropriate steps to be taken
+24 torespondtothesesymptoms.
+25 II. The presence of a full-time school nurse shall serve as one of the school employees
+26 requiredunderparagraphIofthissection.
+27 III. The training under this section may count toward the continuing education hours
+28 requiredforschoolpersonnel.
+29 IV. Notwithstanding any state agency requirement or other law to the contrary, for the
+30 purposes of training, a school district may use any adequate and appropriate training programs or
+SB433-FN-ASINTRODUCED
+-Page2-
+1 guidelines for training of school personnel in the seizure disorder protocols covered under this
+2 subdivision.
+3 200:41-d Administration. Before a seizure rescue medication can be administered to a student
+4 totreatseizuredisordersymptoms,thestudent’sparentorlegalguardianshall:
+5 I. Providetheschoolwithwrittenorelectronicauthorizationtoadministerthemedicationat
+6 school;
+7 II. Provideawrittenstatementfromthestudent’shealthcareproviderthatshallcontainthe
+8 followinginformation:
+9 (a) Thestudent’sname;
+10 (b) Thenameandpurposeofthemedication;
+11 (c) Theprescribeddosage;
+12 (d) Therouteofadministration;
+13 (e) Thefrequencythatthemedicationshouldbeadministered;and
+14 (f) Thecircumstancesunderwhichthemedicationshouldbeadministered;
+15 III. Providetheprescribedmedicationtotheschoolinitsunopened,sealedpackagewiththe
+16 label affixed by the dispensing pharmacy intact. The school shall store the medication under
+17 paragraph III of this section in a safe and secure location accessible only by school personnel or
+18 volunteerswithtrainingtoadministerseizuremedication;and
+19 IV. Collaboratewithschoolpersonneltocreateaseizureactionplan.
+20 200:41-e AuthorizationtoAdministerSeizureRescueMedication.
+21 I. The written authorization, written statement, and seizure action plan required in RSA
+22 200:40-ishallbe:
+23 (a) Keptonfileintheofficeoftheschoolnurseorschooladministrator;and
+24 (b) Distributed to any school personnel or volunteers responsible for the supervision or
+25 careofthestudent.
+26 II. The written or electronic authorization for the administration of seizure rescue
+27 medications provided for in RSA 200:40-i, I shall be effective for the school year in which it is
+28 granted and may be renewed each following school year upon fulfilling the requirements of RSA
+29 200:40-iandRSA200:40-j.
+30 200:41-f Exclusions. This subdivision shall apply only to a school that has a student enrolled
+31 who has a seizure disorder and has a seizure rescue medication or other medication prescribed by
+32 the student's healthcare provider to treat seizure disorder symptoms approved by the United States
+33 FoodandDrugAdministrationoranysuccessoragency.
+34 200:41-g LimitationonLiability.
+35 I. A school employee may not be subject to any disciplinary proceeding resulting from an
+36 actiontakenincompliancewiththissubdivision.
+SB433-FN-ASINTRODUCED
+-Page3-
+1 II. Any employee acting in accordance with the provisions of this act shall be immune from
+2 civilliabilityunlesstheactionsoftheemployeerisetoalevelofrecklessorintentionalmisconduct.
+3 III. A school nurse shall not be responsible for or subject to disciplinary action for actions
+4 performedbyavolunteer.
+5 200:41-h SeizureEducationProgram.
+6 I. Each public school district shall develop an age-appropriate seizure education program
+7 consistent with training programs and guidelines developed by the Epilepsy Foundation of America
+8 andanysuccessororganization.
+9 II. Thestateboardofeducationshalladoptrulesforthedevelopmentandimplementationof
+10 the seizure education program and the procedures for the development and content of seizure action
+11 plans.
+12 2 New Paragraph; Seizure Education Program. Amend RSA 186:11 by inserting after
+13 paragraphXXXVIIthefollowingnewparagraph:
+14 XXXVIII. Adopt rules pursuant to RSA 541-A for the development and implementation of
+15 the seizure education program and the procedures for the development and content of seizure action
+16 plansasdefinedinRSA200:41-h,II.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2017
+10/22/25
+SB433-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingtheseizuresafeschoolsact.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill, assumed to be effective for the 2026-2027 school year, establishes the “Seizure Safe
+SchoolsAct”,withthefollowingrequirements:
+ Schools (public, charter, private) must provide staff who work with students for up to 75
+minutes,seizurerecognitionandfirstaidtrainingeverytwoyears.
+ Each school must have at least two trained employees able to administer or assist with
+seizurerescuemedicationorvagusnervestimulatoruse;onemustbeafull-timenurse.
+ Schools must keep onfile, parent authorization, provider statement, and a seizure action
+planforanystudentwithaseizuredisorderorprescribedseizuremedication.
+ Seizuremedicationsmustbesecurelystoredandaccessibleonlytotrainedpersonnel.
+ Publicdistricts mustimplement age-appropriateseizure educationaligned withEpilepsy
+Foundationguidelines.
+ The State Board of Education must adopt rules for seizure education programs and
+seizureactionplanprocedures.
+TheDepartmentofEducationmakesthefollowingassumptionsrelativetothisbill:
+ Increasetrainingwouldberequiredforallschoolstaff.
+ There would be an increase in required documentation and record keeping by the school
+nurse or school administrator for all students who have a seizure disorder and have
+seizure rescue medication or other medication prescribed by the student's healthcare
+providertotreatseizuredisordersymptoms.
+ Districts would need to allocate time and resources to develop and implement an age-
+appropriateseizureeducationprogram.
+ The State Board of Education would need to allocate time and resources to adopt rules
+for the development and implementation of the seizure education program and the
+proceduresforthedevelopmentandcontentofseizureactionplans.
+To comply with the requirements of this bill, school districts may see an increase in costs. Any
+costs are indeterminable and would vary by district. Any impact to the state, relative to
+personnel and administrative resources allocated for adopting rules through the State Board of
+EducationwouldlikelybeabsorbedwithintheDepartment’sexistingoperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofEducation
+[DELETED: B4N-ASI6SEBNATegtesesessa:S.L,Dt2;S.B,Dt1;S.M,Dt1;S.I,D;S.G,Dt6;S.G,Dt2;S.A,Dt2;S.Wt4;S.R,Dt1;S.C,Dt1;S.PsK,D;S.F,Dt1;S.P,Dt1;S.R,Dt1;S,Dt2;R.M,M.4;R.T,H.1:Esblrssstotnatlt2plinrgtessofsdteanofseremninteetaseosats.Prgnpnisrdfrteanofserem.Teblasaseenpminpcs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATegtesesessaeitEdbyteSeadHeofRsinGlCtcNwS;SeAnP.AdRA20byigarsn41tfgnwsSeAnP2aT.Tssnslbeknadmybecdaste"eSeSA2bD.Intss,"eanp"msaw,ihhpnddtoaeadpefrtehhcensofastdwhased2cT.Eyp,c,adpeslslpeupto75mso0t,inpnoro,ey2ystop,gec,acd1t,adorrtslplwhdtctadsnofcnont2rnofssadssofssadteaessfrsefta3I.Byte27sly,tebdofehpcsldtadteggb4ofehpeslorcrslslheatlt2slesatehslw5hemttetgrsnyt6()Aroratwhtesno7()Aseremnormnpdtotts8drssasadbyteUdSsFdadDgAnora9sra;a0()Amldeofpdelsnugavsn1srmtasadbyteUdSsFdadDgAnorays2a;a3()Retessadssofssadteaesstobet4tordtotes5I.Tepeofafeslneslseasoeoftesle6rdurphIoftss7I.Tetgurtssnmycttdtecgenh8rdfrslp9I.Ngayseayrtororlwtotec,frt0psoft,asldtmyueayaeadaetgpso]
+[DELETED: B4N-ASIPe2gsfrtgofslplintesedrpscdurts2dA.Beaseremncnbeadtoastottsedrs,tessptorllgnsI.PeteslwhwnorecantoartemnasI.Peawnstfmtessheprttslcntfgi()Tessn0()Teneadpeoftem1()Tepdd2()Tereofa3()Tefytttemnsdbea;a4()Tecsurwhtemnsdbea5I.Petepdmntoteslinisu,sdpewht6lladbytedgpyi.Teslslsetemnu7phIIoftssninaseadselnaeoybyslplo8vswhtgtoarsem;a9I.Cewhslpltoceaseanp02eAntoArSeReM1I.Tewna,wns,adseanpnrdinR22islb3()Ktonfeinteoeofteslneorsla;a4()Ddtoayslplorvsrefrtesno5ceoftes6I.Tewnorecanfrteanofser7mspdfrinRA2,Islbeeefrteslyrinwhiti8gdadmyberdehfgslyrunfgtersofR92iadRA202fE.Tssnslayoytoasltthsaste1wohsasedradhsaseremnorormnpdb2tessheprtottsedrssadbyteUdS3FdadDgAnoraysra42gLnonL5I.Asleemyntbesttoaydypgrgfma6antnincewhtss]
+[DELETED: B4N-ASIPe3I.AyeeaginaewhtepsoftsatslbeiefcllyusteasofteeeretoallofrsorilmI.Aslneslntberefrorsttodyanfrapdbyav2hSeEnPI.EhpcsldtsldpanaeseenpctwhtgpsadgsddbyteEyFnofAadaysroI.Tesebdofenslatrsfrtedtadino0teseenpmadtepsfrtedtadctofsea1p22NwP;SeEnP.AdRA11byiga3phXItefgnwp4X.AtrspttoRA5Afrtedtadino5teseenpmadtepsfrtedtadctofsea6psasddinRA2,I73EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATegtesesessaLIdPlSnIY26FY27FY28FY2lR0$0$0$lE0IeIeIsb,adtobeeefrte27sly,este“eSsA,whtefgrs(,c,p)mtpesfwowkwhssfrupto7,sernadftadtgeytoyhslmtheatlttotdesaetoaroratweremnorvsnesru;oemtbeafensmtkponf,pta,prs,adaseanfraystwhasedrorpdsememsmtbesysdadaeoytotdpcdsmtitaeseenadwhEngeSeBdofEnmtatrsfrseenpsaeanpnpeDtofEnmstefgasretotsbetgwdberdfralslsewdbeanieinrddnadrdkgbyteseorslarfralsswoheasedradheremnorormnpdbytesshrtottsedrsswdndtoaeteadrstodpaditanaeseenp]
+[DELETED: eSeBdofEnwdndtoaeteadrstoatrrtedtadinofteseenpmadtsfrtedtadctofseanpocywhtersoftsb,sldsmyseanieinc.Asaeieadwdvybyd.Ayittotes,retladaersadfragrsthteSeBdonwdlybeadwnteDsegogbSCtofE]
+
+
+================================================================================
+
+Raw Text:
+SB433-FN-ASINTRODUCED
+2026SESSION
+26-2017
+12/09
+433-FN
+SENATEBILL
+ANACT establishingtheseizuresafeschoolsact.
+SPONSORS: Sen. Lang, Dist 2; Sen. Birdsell, Dist 19; Sen. McGough, Dist 11; Sen. Innis, Dist
+7; Sen. Gray, Dist 6; Sen. Gannon, Dist 23; Sen. Abbas, Dist 22; Sen. Watters,
+Dist 4; Sen. Rosenwald, Dist 13; Sen. Carson, Dist 14; Sen. Perkins Kwoka, Dist
+21; Sen. Fenton, Dist 10; Sen. Pearl, Dist 17; Sen. Rochefort, Dist 1; Sen.
+Altschiller,Dist24;Rep.Moffett,Merr.4;Rep.Telerski,Hills.11
+COMMITTEE: Education
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires schools to train at least 2 personnel in recognizing the symptoms of seizures
+and the administration of seizure rescue medication in the event a seizure occurs at school. Parent
+or guardian permission is required for the administration of seizure rescue medicine. The bill also
+establishesaseizureeducationprograminpublicschools.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB433-FN-ASINTRODUCED
+26-2017
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingtheseizuresafeschoolsact.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subdivision; Seizure Action Plans. Amend RSA 200 by inserting after section 41 the
+2 followingnewsubdivision:
+3 SeizureActionPlans
+4 200:41-a Title. This subdivision shall be known and may be cited as the "Seizure Safe Schools
+5 Act".
+6 200:41-b Definitions. In this subdivision, "seizure action plan" means a written, individualized
+7 health plan designed to acknowledge and prepare for the health care needs of a student diagnosed
+8 withaseizuredisorder.
+9 200:41-c Training. Every public, charter, and private school shall provide up to 75 minutes of
+10 training, in person or online, every 2 years to principals, guidance counselors, athletic directors,
+11 teachers, and other relevant school personnel with direct contact and supervision of children on the
+12 recognitionofsignsandsymptomsofseizuresandtheappropriatestepsforseizurefirstaid.
+13 I. Bythe2026-27schoolyear,theboardofeachpublicschooldistrictandthegoverningbody
+14 of each private school or charter school shall have at least 2 school employees at each school who
+15 havemetthetrainingrequirementsnecessaryto:
+16 (a) Administerorassistwiththeself-administrationof:
+17 (1) A seizure rescue medication or medication prescribed to treat seizure
+18 disorder symptoms as approved by the United States Food and Drug Administration or any
+19 successoragency;and
+20 (2) A manual dose of prescribed electrical stimulation using a vagus nerve
+21 stimulatormagnetasapprovedbytheUnitedStatesFoodandDrugAdministrationoranysuccessor
+22 agency;and
+23 (b) Recognize the signs and symptoms of seizures and the appropriate steps to be taken
+24 torespondtothesesymptoms.
+25 II. The presence of a full-time school nurse shall serve as one of the school employees
+26 requiredunderparagraphIofthissection.
+27 III. The training under this section may count toward the continuing education hours
+28 requiredforschoolpersonnel.
+29 IV. Notwithstanding any state agency requirement or other law to the contrary, for the
+30 purposes of training, a school district may use any adequate and appropriate training programs or
+
+SB433-FN-ASINTRODUCED
+-Page2-
+1 guidelines for training of school personnel in the seizure disorder protocols covered under this
+2 subdivision.
+3 200:41-d Administration. Before a seizure rescue medication can be administered to a student
+4 totreatseizuredisordersymptoms,thestudent’sparentorlegalguardianshall:
+5 I. Providetheschoolwithwrittenorelectronicauthorizationtoadministerthemedicationat
+6 school;
+7 II. Provideawrittenstatementfromthestudent’shealthcareproviderthatshallcontainthe
+8 followinginformation:
+9 (a) Thestudent’sname;
+10 (b) Thenameandpurposeofthemedication;
+11 (c) Theprescribeddosage;
+12 (d) Therouteofadministration;
+13 (e) Thefrequencythatthemedicationshouldbeadministered;and
+14 (f) Thecircumstancesunderwhichthemedicationshouldbeadministered;
+15 III. Providetheprescribedmedicationtotheschoolinitsunopened,sealedpackagewiththe
+16 label affixed by the dispensing pharmacy intact. The school shall store the medication under
+17 paragraph III of this section in a safe and secure location accessible only by school personnel or
+18 volunteerswithtrainingtoadministerseizuremedication;and
+19 IV. Collaboratewithschoolpersonneltocreateaseizureactionplan.
+20 200:41-e AuthorizationtoAdministerSeizureRescueMedication.
+21 I. The written authorization, written statement, and seizure action plan required in RSA
+22 200:40-ishallbe:
+23 (a) Keptonfileintheofficeoftheschoolnurseorschooladministrator;and
+24 (b) Distributed to any school personnel or volunteers responsible for the supervision or
+25 careofthestudent.
+26 II. The written or electronic authorization for the administration of seizure rescue
+27 medications provided for in RSA 200:40-i, I shall be effective for the school year in which it is
+28 granted and may be renewed each following school year upon fulfilling the requirements of RSA
+29 200:40-iandRSA200:40-j.
+30 200:41-f Exclusions. This subdivision shall apply only to a school that has a student enrolled
+31 who has a seizure disorder and has a seizure rescue medication or other medication prescribed by
+32 the student's healthcare provider to treat seizure disorder symptoms approved by the United States
+33 FoodandDrugAdministrationoranysuccessoragency.
+34 200:41-g LimitationonLiability.
+35 I. A school employee may not be subject to any disciplinary proceeding resulting from an
+36 actiontakenincompliancewiththissubdivision.
+
+SB433-FN-ASINTRODUCED
+-Page3-
+1 II. Any employee acting in accordance with the provisions of this act shall be immune from
+2 civilliabilityunlesstheactionsoftheemployeerisetoalevelofrecklessorintentionalmisconduct.
+3 III. A school nurse shall not be responsible for or subject to disciplinary action for actions
+4 performedbyavolunteer.
+5 200:41-h SeizureEducationProgram.
+6 I. Each public school district shall develop an age-appropriate seizure education program
+7 consistent with training programs and guidelines developed by the Epilepsy Foundation of America
+8 andanysuccessororganization.
+9 II. Thestateboardofeducationshalladoptrulesforthedevelopmentandimplementationof
+10 the seizure education program and the procedures for the development and content of seizure action
+11 plans.
+12 2 New Paragraph; Seizure Education Program. Amend RSA 186:11 by inserting after
+13 paragraphXXXVIIthefollowingnewparagraph:
+14 XXXVIII. Adopt rules pursuant to RSA 541-A for the development and implementation of
+15 the seizure education program and the procedures for the development and content of seizure action
+16 plansasdefinedinRSA200:41-h,II.
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2017
+10/22/25
+SB433-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingtheseizuresafeschoolsact.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill, assumed to be effective for the 2026-2027 school year, establishes the “Seizure Safe
+SchoolsAct”,withthefollowingrequirements:
+ Schools (public, charter, private) must provide staff who work with students for up to 75
+minutes,seizurerecognitionandfirstaidtrainingeverytwoyears.
+ Each school must have at least two trained employees able to administer or assist with
+seizurerescuemedicationorvagusnervestimulatoruse;onemustbeafull-timenurse.
+ Schools must keep onfile, parent authorization, provider statement, and a seizure action
+planforanystudentwithaseizuredisorderorprescribedseizuremedication.
+ Seizuremedicationsmustbesecurelystoredandaccessibleonlytotrainedpersonnel.
+ Publicdistricts mustimplement age-appropriateseizure educationaligned withEpilepsy
+Foundationguidelines.
+ The State Board of Education must adopt rules for seizure education programs and
+seizureactionplanprocedures.
+TheDepartmentofEducationmakesthefollowingassumptionsrelativetothisbill:
+ Increasetrainingwouldberequiredforallschoolstaff.
+ There would be an increase in required documentation and record keeping by the school
+nurse or school administrator for all students who have a seizure disorder and have
+seizure rescue medication or other medication prescribed by the student's healthcare
+providertotreatseizuredisordersymptoms.
+ Districts would need to allocate time and resources to develop and implement an age-
+appropriateseizureeducationprogram.
+
+ The State Board of Education would need to allocate time and resources to adopt rules
+for the development and implementation of the seizure education program and the
+proceduresforthedevelopmentandcontentofseizureactionplans.
+To comply with the requirements of this bill, school districts may see an increase in costs. Any
+costs are indeterminable and would vary by district. Any impact to the state, relative to
+personnel and administrative resources allocated for adopting rules through the State Board of
+EducationwouldlikelybeabsorbedwithintheDepartment’sexistingoperatingbudget.
+AGENCIESCONTACTED:
+DepartmentofEducation
+
+[DELETED: B4N-ASI6SEBNATegtesesessa:S.L,Dt2;S.B,Dt1;S.M,Dt1;S.I,D;S.G,Dt6;S.G,Dt2;S.A,Dt2;S.Wt4;S.R,Dt1;S.C,Dt1;S.PsK,D;S.F,Dt1;S.P,Dt1;S.R,Dt1;S,Dt2;R.M,M.4;R.T,H.1:Esblrssstotnatlt2plinrgtessofsdteanofseremninteetaseosats.Prgnpnisrdfrteanofserem.Teblasaseenpminpcs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATegtesesessaeitEdbyteSeadHeofRsinGlCtcNwS;SeAnP.AdRA20byigarsn41tfgnwsSeAnP2aT.Tssnslbeknadmybecdaste"eSeSA2bD.Intss,"eanp"msaw,ihhpnddtoaeadpefrtehhcensofastdwhased2cT.Eyp,c,adpeslslpeupto75mso0t,inpnoro,ey2ystop,gec,acd1t,adorrtslplwhdtctadsnofcnont2rnofssadssofssadteaessfrsefta3I.Byte27sly,tebdofehpcsldtadteggb4ofehpeslorcrslslheatlt2slesatehslw5hemttetgrsnyt6()Aroratwhtesno7()Aseremnormnpdtotts8drssasadbyteUdSsFdadDgAnora9sra;a0()Amldeofpdelsnugavsn1srmtasadbyteUdSsFdadDgAnorays2a;a3()Retessadssofssadteaesstobet4tordtotes5I.Tepeofafeslneslseasoeoftesle6rdurphIoftss7I.Tetgurtssnmycttdtecgenh8rdfrslp9I.Ngayseayrtororlwtotec,frt0psoft,asldtmyueayaeadaetgpso]
+[DELETED: B4N-ASIPe2gsfrtgofslplintesedrpscdurts2dA.Beaseremncnbeadtoastottsedrs,tessptorllgnsI.PeteslwhwnorecantoartemnasI.Peawnstfmtessheprttslcntfgi()Tessn0()Teneadpeoftem1()Tepdd2()Tereofa3()Tefytttemnsdbea;a4()Tecsurwhtemnsdbea5I.Petepdmntoteslinisu,sdpewht6lladbytedgpyi.Teslslsetemnu7phIIoftssninaseadselnaeoybyslplo8vswhtgtoarsem;a9I.Cewhslpltoceaseanp02eAntoArSeReM1I.Tewna,wns,adseanpnrdinR22islb3()Ktonfeinteoeofteslneorsla;a4()Ddtoayslplorvsrefrtesno5ceoftes6I.Tewnorecanfrteanofser7mspdfrinRA2,Islbeeefrteslyrinwhiti8gdadmyberdehfgslyrunfgtersofR92iadRA202fE.Tssnslayoytoasltthsaste1wohsasedradhsaseremnorormnpdb2tessheprtottsedrssadbyteUdS3FdadDgAnoraysra42gLnonL5I.Asleemyntbesttoaydypgrgfma6antnincewhtss]
+[DELETED: B4N-ASIPe3I.AyeeaginaewhtepsoftsatslbeiefcllyusteasofteeeretoallofrsorilmI.Aslneslntberefrorsttodyanfrapdbyav2hSeEnPI.EhpcsldtsldpanaeseenpctwhtgpsadgsddbyteEyFnofAadaysroI.Tesebdofenslatrsfrtedtadino0teseenpmadtepsfrtedtadctofsea1p22NwP;SeEnP.AdRA11byiga3phXItefgnwp4X.AtrspttoRA5Afrtedtadino5teseenpmadtepsfrtedtadctofsea6psasddinRA2,I73EeD.Tsatslteet60dsarisp]
+[DELETED: B4-FLNSINATegtesesessaLIdPlSnIY26FY27FY28FY2lR0$0$0$lE0IeIeIsb,adtobeeefrte27sly,este“eSsA,whtefgrs(,c,p)mtpesfwowkwhssfrupto7,sernadftadtgeytoyhslmtheatlttotdesaetoaroratweremnorvsnesru;oemtbeafensmtkponf,pta,prs,adaseanfraystwhasedrorpdsememsmtbesysdadaeoytotdpcdsmtitaeseenadwhEngeSeBdofEnmtatrsfrseenpsaeanpnpeDtofEnmstefgasretotsbetgwdberdfralslsewdbeanieinrddnadrdkgbyteseorslarfralsswoheasedradheremnorormnpdbytesshrtottsedrsswdndtoaeteadrstodpaditanaeseenp]
+[DELETED: eSeBdofEnwdndtoaeteadrstoatrrtedtadinofteseenpmadtsfrtedtadctofseanpocywhtersoftsb,sldsmyseanieinc.Asaeieadwdvybyd.Ayittotes,retladaersadfragrsthteSeBdonwdlybeadwnteDsegogbSCtofE]

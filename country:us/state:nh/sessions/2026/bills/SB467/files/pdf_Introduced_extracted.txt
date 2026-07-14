@@ -1,0 +1,402 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB467-FN-ASINTRODUCED
+2026SESSION
+26-2028
+09/08
+467-FN
+ANACT relative to the penalty for certain fentanyl-related offenses and establishing a
+mandatory minimum sentence for the crime of distribution of a controlled drug
+withdeathresulting.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Innis, Dist 7; Sen. Birdsell, Dist 19; Sen. Lang, Dist 2;
+Sen. Avard, Dist 12; Sen. Pearl, Dist 17; Sen. Rochefort, Dist 1; Sen. Abbas, Dist
+22; Rep. M. Pearson, Rock. 34; Rep. Khan, Rock. 30; Rep. Litchfield, Rock. 32;
+Rep.L.Walsh,Rock.15;Rep.Kuttab,Rock.17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Addsmandatoryminimumsentencesforcertainfentanyl-relatedoffenses.
+II. Sets a mandatory minimum sentence for the crime of distribution of a controlled drug with
+deathresulting.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB467-FN-ASINTRODUCED
+26-2028
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the penalty for certain fentanyl-related offenses and establishing a
+mandatory minimum sentence for the crime of distribution of a controlled drug
+withdeathresulting.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ControlledDrugAct;Penalties. AmendRSA318-B:26,I(a)(3)toreadasfollows:
+2 (3) Heroin or its analog, crack cocaine, or a fentanyl class drug in a quantity of 5
+3 grams or more, includingany adulterants or dilutants. A fentanyl class drug in a quantity of 20
+4 grams or more, including any adulterants or dilutants, shall carry a minimum term of
+5 imprisonment of not less than 3 years and 6 months incarceration. A fentanyl class drug
+6 in a quantity of 50 grams or more, including any adulterants or dilutants, shall carry a
+7 minimum term of imprisonment of not less than 7 years incarceration, subject to the
+8 exceptiondelineatedherein.
+9 (A) A person subject to a mandatory minimum sentence prescribed in
+10 subparagraph(3)maybe eligibleforasentencebelowthemandatory minimumifthe court
+11 finds,byclearandconvincingevidence,thatallofthefollowingconditionsaremet:
+12 (i) The defendant has no prior convictions for violent felonies, as
+13 definedinRSA651:5,XIII, or substantially similar convictions inany other territory, state,
+14 orfederaljurisdiction,withinthepast7years.
+15 (ii) The offense did not involve the use, attempted use, or credible
+16 threatofviolence,firearms,orotherdangerousweapons,asdefinedinRSA625:11,V.
+17 (iii) The defendant was not a leader, organizer, or supervisor in the
+18 drugoperation,asdeterminedbythecourt.
+19 (iv) The defendant, to the extent that he or she is able, as determined
+20 by the court, and considering the recommendation of the prosecutor, provides substantial
+21 assistance to law enforcement, including full and truthful disclosure of all known details
+22 of the offense and related nonviolent activities, resulting in actionable intelligence related
+23 to another offender, prior to sentencing. The court shall make the final decision related to
+24 thesatisfactionofthiscondition.
+25 (v) The defendant submits to a court-ordered substance use disorder
+26 evaluation and, if recommended, completes a state-approved treatment program within 9
+27 months of sentencing, provided such treatment is available. In the event no treatment is
+28 available within the 9-month window, the court may, at its discretion, extend the time to
+29 complete such treatment. If no treatment is recommended, the defendant shall complete a
+SB467-FN-ASINTRODUCED
+-Page2-
+1 50-hour, court-approved drug education program, provided such a program is available.
+2 The court may, at its discretion, allow substitution programs of a similar nature if there
+3 areno50-hour,approvedprogramsavailable.
+4 (vi) The defendantdidnotknowingly possessor distribute a fentanyl-
+5 class drug in a form intended to deceive, including but not limited to counterfeit
+6 prescriptionpills.
+7 (B) Upon determining eligibility, the court may impose a sentence below
+8 the mandatory minimum, including probation, conditional discharge, or a reduced prison
+9 term,pursuanttoRSA651:2. Thecourtshallconsider:
+10 (i) Thedefendant’sspecificroleandculpabilityintheoffense.
+11 (ii) Mitigating factors, such as documented coercion or extreme
+12 economichardship,providedtheydonotexcusetheoffense.
+13 (iii) Thedefendant’sriskofrecidivism,basedoncriminalhistoryand
+14 compliancewithpre-sentencingconditions.
+15 (C) If a sentence below the mandatory minimum is applied pursuant to
+16 subparagraph(B),thecourtshallimposeaminimumof3years'probationwithmandatory
+17 conditions,including:
+18 (i) Biweeklydrugtesting,ifapplicable.
+19 (ii) Completionofanycourt-orderedtreatmentoreducationprogram.
+20 (iii) At least 250 hours of community service, unless waived due to
+21 documentedmedicalinability.
+22 (iv) A suspended sentence of at least 3 years and 6 months
+23 imprisonment,tobeimposedifprobationconditionsareviolated.
+24 (D) For the purpose of determining the quantity of the fentanyl-class
+25 drug under RSA 318-B:26, I(a)(3), individual acts of manufacturing, selling, prescribing,
+26 administering, or transporting or possessing with intent to sell, dispense, or compound
+27 maybeaggregatedifeachoftheactsoccurredwithina90-dayperiod.
+28 2 Controlled Drug Act; Penalties. Amend the introductory paragraph of RSA 318-B:26, IX to
+29 readasfollows:
+30 IX. Any person who manufactures, sells, or dispenses methamphetamine, lysergic acid[,]
+31 diethylamide (LSD), phencyclidine (PCP) or any other controlled drug classified in schedules I or II,
+32 or any controlled drug analog thereof, in violation of RSA 318-B:2, I or I-a, excluding any fentanyl
+33 class drug, including any adulterants or dilutants, is strictly liable for a death which results
+34 from theinjection, inhalation,or ingestionof that substance, and maybesentenced to imprisonment
+35 for life or for such term as the court may order. Any person who manufactures, sells, or
+36 dispenses a fentanyl class drug, including any adulterants or dilutants, in violation of
+37 RSA 318-B:2, I or I-a, is strictly liable for a death which results from the injection,
+SB467-FN-ASINTRODUCED
+-Page3-
+1 inhalation,or ingestion of thatsubstance andmay be sentencedto imprisonment for life or
+2 for such term as the court may order. Any such term shall not be less than 7 years of
+3 imprisonment, subject to the exception delineated in paragraph IX-b. For purposes of this
+4 section, the person's act of manufacturing, dispensing, or selling a substance is the cause of a death
+5 when:
+6 3 New Paragraph; Controlled Drug Act; Penalties. Amend RSA 318-B:26 by inserting after
+7 paragraphIX-bthefollowingnewparagraph:
+8 IX-c.(a) A defendant subject to the mandatory minimum sentence in paragraph IX may be
+9 eligible for a sentence below the mandatory minimum if the court finds, by clear and convincing
+10 evidence,thatallofthefollowingconditionsaremet:
+11 (1) The defendant has no prior convictions for violent felonies, as defined in RSA
+12 651:5,XIII,oranydrug-relatedoffensesunderRSA318-Bwithinthepast10years.
+13 (2) The offense did not involve the use, attempted use, or credible threat of violence,
+14 firearms,orotherdangerousweapons,asdefinedinRSA625:11,V.
+15 (3) The defendant was not a leader, organizer, or supervisor in the drug operation,
+16 asdeterminedbythecourt.
+17 (4) The defendant, to the extent that he or she is able, as determined by the court,
+18 and considering the recommendation of the prosecutor, provides substantial assistance to law
+19 enforcement, including full and truthful disclosure of all known details of the offense and related
+20 nonviolent activities, resulting in actionable intelligence related to another offender, prior to
+21 sentencing. Thecourtshallmakethefinaldecisionrelatedtothesatisfactionofthiscondition.
+22 (5) The defendant submits to a court-ordered substance use disorder evaluation and,
+23 if recommended, completes a state-approved treatment program within 9 months of sentencing,
+24 provided such treatment is available. In the event no treatment is available within the 9-month
+25 window, thecourt mayat its discretionextend thetimetocompletesuchtreatment. If no treatment
+26 is recommended, the defendant shall complete a 50-hour, court-approved drug education program,
+27 provided such a program is available. The court may, at its discretion, allow substitution programs
+28 ofasimilarnatureifthereareno50-hour,approvedprogramsavailable.
+29 (6) The defendant did not knowingly distribute a fentanyl-class drug in a form
+30 intendedtodeceive,includingbutnotlimitedtocounterfeitprescriptionpills.
+31 (b) Upon determining eligibility, the court may impose a sentence below the mandatory
+32 minimum, including probation, conditional discharge, or a reduced prison term, pursuant to RSA
+33 651:2. Thecourtshallconsider:
+34 (1) Thedefendant’sspecificroleandculpabilityintheoffense.
+35 (2) Mitigating factors, such as documented coercion or extreme economic hardship,
+36 providedtheydonotexcusetheoffense.
+SB467-FN-ASINTRODUCED
+-Page4-
+1 (3) Thedefendant’sriskofrecidivism,basedoncriminalhistoryandcompliancewith
+2 pre-sentencingconditions.
+3 (c) If a sentence below the mandatory minimum is applied pursuant to this paragraph,
+4 thecourtshallimposeaminimumof3years’probationwithmandatoryconditions,including:
+5 (1) Biweeklydrugtesting,ifapplicable.
+6 (2) Completionofanycourt-orderedtreatmentoreducationprogram.
+7 (3) At least 300 hours of community service, unless waived due to documented
+8 medicalinability.
+9 (4) A suspended sentence of at least 5 years’ imprisonment, to be imposed if
+10 probationconditionsareviolated.
+11 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2028
+10/13/25
+SB467-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the penalty for certain fentanyl-related offenses and establishing a
+mandatory minimum sentence for the crime of distribution of a controlled drug
+withdeathresulting.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+[DELETED: B4N-ASI6SEBNATretotepyfrcnfdosadegymmsefrteceofdnofacddhdhr:S.G,Dt2;S.I,Dt7;S.B,Dt1;S.L,Dt2.A,Dt1;S.P,Dt1;S.R,Dt1;S.A,D;R.M.P,R.3;R.K,R.3;R.L,R.3.L.W,R.1;R.K,R.1:Jsb.Asmymmssfrcnfdo.Ssamymmsefrteceofdnofacddgwhr-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotepyfrcnfdosadegymmsefrteceofdnofacddhdhreitEdbyteSeadHeofRsinGlCtc1CdDgA;P.AdRA3,I)tordasf()Hnorisa,ckc,oraflcsdginaqyofgsorm,igayasord.Aflcsdginaqyof2gsorm,igayasord,slcyammtmoitofntlstn3ysad6msi.Aflcsdinaqyof50gsorm,igayasord,slcymmtmofitofntlstn7ysi,sttotenddh()Apnsttoamymmsepdi0sh()mybeeefrasebwtemymmiftec1f,bycradcge,ttaloftefgcsaem2()Tedthsnoprcsfrvtf,a3ddinRA6,X,orsysrcsinayort,s4orflj,wntept7y5()Teoeddntieteu,adu,orc6ttofv,f,orordsw,asddinRA6,V7()Tedtwsntal,o,orsrint8dgo,asddbytec9()Ted,toteetttheorseisa,asd0bytec,adcgternoftep,pss1aetolwe,igfladtldeofalknd2ofteoeadrdnta,rginaeier3toaro,prtos.Tectslmetefldnrdt4tesnoftsc5()Tedtsstoacdseued6ena,ifr,csasdttpmwn7msofs,pdshttisa.Inteetnotti8aewnte9hw,tectm,atisd,edtetet9cesht.Ifnottisr,tedtslce]
+[DELETED: B4N-ASIPe25,cddgenp,pdshapmisaTectm,atisd,awsnpsofasrneiftaeno5,adpsa()Tedtddntkypsordeafcsdginafmidtod,igbtntldtocpnp()Undge,tectmyieasebtemym,igp,cld,orardpt,pttoRA6.Tectslc0()Tedsscreadcyinteo1()Mgf,shasddcnore2ech,pdtydonteeteo3()Tedsrkofr,bdonclhya4cewhpgc5()Ifasebwtemymmisadptt6sh(,tectslieammof3y'pnwhm7c,i8()Bydgt,ifa9()Cnofaycdttorenp0()Atlt20hsofcys,uswddet1ddmli2()Asdseofatlt3ysad6m3i,tobeidifpncsaev4()Frtepeofdgteqyoftef5dgurRA3,I,ilasofm,s,p6a,ortgorpgwhittos,d,orc7mybeadifehofteasodwna9yp82CdDgA;P.AdteiyphofRA3,IXt9rdasf0I.Aypnwom,s,ordsm,lca1de(,pe()orayorcddgcdinssIorI2oraycddgagt,invnofRA3,IorI,egayf3csd,igayasord,issylefradhwhr4fmtei,i,orinoftts,admybesdtoi5frleorfrshtmastectmyo.Aypnwom,s,o6dsaflcsd,igayasord,invno7RA3,IorI,issylefradhwhrsfmtei]
+[DELETED: B4N-ASIPe3i,orinofttseadmybesdtoitfrleofrshtmastectmyo.Ayshtmslntbelstn7ysoi,sttoteenddinphI.Frpsofts,tepsatofm,d,orsgaseisteceofadw3NwP;CdDgA;P.AdRA36byigaphIbtefgnwpI)AdtsttotemymmseinphIXmybeefrasebwtemymmiftectf,bycradc0e,ttaloftefgcsaem1()Tedthsnoprcsfrvtf,asddinR26,X,orayddosurRA3Bwntept10y3()Teoeddntieteu,adu,orcettofv4f,orordsw,asddinRA6,V5()Tedtwsntal,o,orsrintedgo6asddbytec7()Ted,toteetttheorseisa,asddbytec8adcgternoftep,psslaetol9e,igfladtldeofalkndsofteoeadr0nta,rginaeierdtoaro,prt1s.Tectslmetefldnrdtotesnoftsc2()Tedtsstoacdseuedrena3ifr,csasdttpmwn9msofs4pdshttisa.Inteetnottisaewnte95w,tectmyatisdnedtetetocesht.Ifnot6isr,tedtslcea5,cddgenp7pdshapmisa.Tectm,atisd,awsnp8ofasrneifteaeno5,adpsa9()Tedtddntkydeafsdginaf0idtod,igbtntldtoctpnp1()Undge,tectmyieasebwtem2m,igp,cld,orardpnt,pttoR36.Tectslc4()Tedsscreadcyinteo5()Mgf,shasddcnoreeech6pdtydonteeteo]
+[DELETED: B4N-ASIPe4()Tedsrkofr,bdonclhyadcewpgc()Ifasebwtemymmisadpttotsptectslieammof3y’pnwhmyc,i()Bydgt,ifa()Cnofaycdttorenp()Atlt30hsofcys,uswddetodmli()Asdseofatlt5y’i,tobeidi0pncsaev14EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretotepyfrcnfdosadegymmsefrteceofdnofacddhdhrLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]
+
+
+================================================================================
+
+Raw Text:
+SB467-FN-ASINTRODUCED
+2026SESSION
+26-2028
+09/08
+467-FN
+SENATEBILL
+ANACT relative to the penalty for certain fentanyl-related offenses and establishing a
+mandatory minimum sentence for the crime of distribution of a controlled drug
+withdeathresulting.
+SPONSORS: Sen. Gannon, Dist 23; Sen. Innis, Dist 7; Sen. Birdsell, Dist 19; Sen. Lang, Dist 2;
+Sen. Avard, Dist 12; Sen. Pearl, Dist 17; Sen. Rochefort, Dist 1; Sen. Abbas, Dist
+22; Rep. M. Pearson, Rock. 34; Rep. Khan, Rock. 30; Rep. Litchfield, Rock. 32;
+Rep.L.Walsh,Rock.15;Rep.Kuttab,Rock.17
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Addsmandatoryminimumsentencesforcertainfentanyl-relatedoffenses.
+II. Sets a mandatory minimum sentence for the crime of distribution of a controlled drug with
+deathresulting.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB467-FN-ASINTRODUCED
+26-2028
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the penalty for certain fentanyl-related offenses and establishing a
+mandatory minimum sentence for the crime of distribution of a controlled drug
+withdeathresulting.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ControlledDrugAct;Penalties. AmendRSA318-B:26,I(a)(3)toreadasfollows:
+2 (3) Heroin or its analog, crack cocaine, or a fentanyl class drug in a quantity of 5
+3 grams or more, includingany adulterants or dilutants. A fentanyl class drug in a quantity of 20
+4 grams or more, including any adulterants or dilutants, shall carry a minimum term of
+5 imprisonment of not less than 3 years and 6 months incarceration. A fentanyl class drug
+6 in a quantity of 50 grams or more, including any adulterants or dilutants, shall carry a
+7 minimum term of imprisonment of not less than 7 years incarceration, subject to the
+8 exceptiondelineatedherein.
+9 (A) A person subject to a mandatory minimum sentence prescribed in
+10 subparagraph(3)maybe eligibleforasentencebelowthemandatory minimumifthe court
+11 finds,byclearandconvincingevidence,thatallofthefollowingconditionsaremet:
+12 (i) The defendant has no prior convictions for violent felonies, as
+13 definedinRSA651:5,XIII, or substantially similar convictions inany other territory, state,
+14 orfederaljurisdiction,withinthepast7years.
+15 (ii) The offense did not involve the use, attempted use, or credible
+16 threatofviolence,firearms,orotherdangerousweapons,asdefinedinRSA625:11,V.
+17 (iii) The defendant was not a leader, organizer, or supervisor in the
+18 drugoperation,asdeterminedbythecourt.
+19 (iv) The defendant, to the extent that he or she is able, as determined
+20 by the court, and considering the recommendation of the prosecutor, provides substantial
+21 assistance to law enforcement, including full and truthful disclosure of all known details
+22 of the offense and related nonviolent activities, resulting in actionable intelligence related
+23 to another offender, prior to sentencing. The court shall make the final decision related to
+24 thesatisfactionofthiscondition.
+25 (v) The defendant submits to a court-ordered substance use disorder
+26 evaluation and, if recommended, completes a state-approved treatment program within 9
+27 months of sentencing, provided such treatment is available. In the event no treatment is
+28 available within the 9-month window, the court may, at its discretion, extend the time to
+29 complete such treatment. If no treatment is recommended, the defendant shall complete a
+
+SB467-FN-ASINTRODUCED
+-Page2-
+1 50-hour, court-approved drug education program, provided such a program is available.
+2 The court may, at its discretion, allow substitution programs of a similar nature if there
+3 areno50-hour,approvedprogramsavailable.
+4 (vi) The defendantdidnotknowingly possessor distribute a fentanyl-
+5 class drug in a form intended to deceive, including but not limited to counterfeit
+6 prescriptionpills.
+7 (B) Upon determining eligibility, the court may impose a sentence below
+8 the mandatory minimum, including probation, conditional discharge, or a reduced prison
+9 term,pursuanttoRSA651:2. Thecourtshallconsider:
+10 (i) Thedefendant’sspecificroleandculpabilityintheoffense.
+11 (ii) Mitigating factors, such as documented coercion or extreme
+12 economichardship,providedtheydonotexcusetheoffense.
+13 (iii) Thedefendant’sriskofrecidivism,basedoncriminalhistoryand
+14 compliancewithpre-sentencingconditions.
+15 (C) If a sentence below the mandatory minimum is applied pursuant to
+16 subparagraph(B),thecourtshallimposeaminimumof3years'probationwithmandatory
+17 conditions,including:
+18 (i) Biweeklydrugtesting,ifapplicable.
+19 (ii) Completionofanycourt-orderedtreatmentoreducationprogram.
+20 (iii) At least 250 hours of community service, unless waived due to
+21 documentedmedicalinability.
+22 (iv) A suspended sentence of at least 3 years and 6 months
+23 imprisonment,tobeimposedifprobationconditionsareviolated.
+24 (D) For the purpose of determining the quantity of the fentanyl-class
+25 drug under RSA 318-B:26, I(a)(3), individual acts of manufacturing, selling, prescribing,
+26 administering, or transporting or possessing with intent to sell, dispense, or compound
+27 maybeaggregatedifeachoftheactsoccurredwithina90-dayperiod.
+28 2 Controlled Drug Act; Penalties. Amend the introductory paragraph of RSA 318-B:26, IX to
+29 readasfollows:
+30 IX. Any person who manufactures, sells, or dispenses methamphetamine, lysergic acid[,]
+31 diethylamide (LSD), phencyclidine (PCP) or any other controlled drug classified in schedules I or II,
+32 or any controlled drug analog thereof, in violation of RSA 318-B:2, I or I-a, excluding any fentanyl
+33 class drug, including any adulterants or dilutants, is strictly liable for a death which results
+34 from theinjection, inhalation,or ingestionof that substance, and maybesentenced to imprisonment
+35 for life or for such term as the court may order. Any person who manufactures, sells, or
+36 dispenses a fentanyl class drug, including any adulterants or dilutants, in violation of
+37 RSA 318-B:2, I or I-a, is strictly liable for a death which results from the injection,
+
+SB467-FN-ASINTRODUCED
+-Page3-
+1 inhalation,or ingestion of thatsubstance andmay be sentencedto imprisonment for life or
+2 for such term as the court may order. Any such term shall not be less than 7 years of
+3 imprisonment, subject to the exception delineated in paragraph IX-b. For purposes of this
+4 section, the person's act of manufacturing, dispensing, or selling a substance is the cause of a death
+5 when:
+6 3 New Paragraph; Controlled Drug Act; Penalties. Amend RSA 318-B:26 by inserting after
+7 paragraphIX-bthefollowingnewparagraph:
+8 IX-c.(a) A defendant subject to the mandatory minimum sentence in paragraph IX may be
+9 eligible for a sentence below the mandatory minimum if the court finds, by clear and convincing
+10 evidence,thatallofthefollowingconditionsaremet:
+11 (1) The defendant has no prior convictions for violent felonies, as defined in RSA
+12 651:5,XIII,oranydrug-relatedoffensesunderRSA318-Bwithinthepast10years.
+13 (2) The offense did not involve the use, attempted use, or credible threat of violence,
+14 firearms,orotherdangerousweapons,asdefinedinRSA625:11,V.
+15 (3) The defendant was not a leader, organizer, or supervisor in the drug operation,
+16 asdeterminedbythecourt.
+17 (4) The defendant, to the extent that he or she is able, as determined by the court,
+18 and considering the recommendation of the prosecutor, provides substantial assistance to law
+19 enforcement, including full and truthful disclosure of all known details of the offense and related
+20 nonviolent activities, resulting in actionable intelligence related to another offender, prior to
+21 sentencing. Thecourtshallmakethefinaldecisionrelatedtothesatisfactionofthiscondition.
+22 (5) The defendant submits to a court-ordered substance use disorder evaluation and,
+23 if recommended, completes a state-approved treatment program within 9 months of sentencing,
+24 provided such treatment is available. In the event no treatment is available within the 9-month
+25 window, thecourt mayat its discretionextend thetimetocompletesuchtreatment. If no treatment
+26 is recommended, the defendant shall complete a 50-hour, court-approved drug education program,
+27 provided such a program is available. The court may, at its discretion, allow substitution programs
+28 ofasimilarnatureifthereareno50-hour,approvedprogramsavailable.
+29 (6) The defendant did not knowingly distribute a fentanyl-class drug in a form
+30 intendedtodeceive,includingbutnotlimitedtocounterfeitprescriptionpills.
+31 (b) Upon determining eligibility, the court may impose a sentence below the mandatory
+32 minimum, including probation, conditional discharge, or a reduced prison term, pursuant to RSA
+33 651:2. Thecourtshallconsider:
+34 (1) Thedefendant’sspecificroleandculpabilityintheoffense.
+35 (2) Mitigating factors, such as documented coercion or extreme economic hardship,
+36 providedtheydonotexcusetheoffense.
+
+SB467-FN-ASINTRODUCED
+-Page4-
+1 (3) Thedefendant’sriskofrecidivism,basedoncriminalhistoryandcompliancewith
+2 pre-sentencingconditions.
+3 (c) If a sentence below the mandatory minimum is applied pursuant to this paragraph,
+4 thecourtshallimposeaminimumof3years’probationwithmandatoryconditions,including:
+5 (1) Biweeklydrugtesting,ifapplicable.
+6 (2) Completionofanycourt-orderedtreatmentoreducationprogram.
+7 (3) At least 300 hours of community service, unless waived due to documented
+8 medicalinability.
+9 (4) A suspended sentence of at least 5 years’ imprisonment, to be imposed if
+10 probationconditionsareviolated.
+11 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2028
+10/13/25
+SB467-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the penalty for certain fentanyl-related offenses and establishing a
+mandatory minimum sentence for the crime of distribution of a controlled drug
+withdeathresulting.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund None
+Expenditures* Indeterminable
+FundingSource GeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Judicial Branch, Judicial Council, Department of Justice, Department of Corrections, New
+HampshireAssociationofCounties,andNewHampshireMunicipalAssociation
+
+[DELETED: B4N-ASI6SEBNATretotepyfrcnfdosadegymmsefrteceofdnofacddhdhr:S.G,Dt2;S.I,Dt7;S.B,Dt1;S.L,Dt2.A,Dt1;S.P,Dt1;S.R,Dt1;S.A,D;R.M.P,R.3;R.K,R.3;R.L,R.3.L.W,R.1;R.K,R.1:Jsb.Asmymmssfrcnfdo.Ssamymmsefrteceofdnofacddgwhr-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATretotepyfrcnfdosadegymmsefrteceofdnofacddhdhreitEdbyteSeadHeofRsinGlCtc1CdDgA;P.AdRA3,I)tordasf()Hnorisa,ckc,oraflcsdginaqyofgsorm,igayasord.Aflcsdginaqyof2gsorm,igayasord,slcyammtmoitofntlstn3ysad6msi.Aflcsdinaqyof50gsorm,igayasord,slcymmtmofitofntlstn7ysi,sttotenddh()Apnsttoamymmsepdi0sh()mybeeefrasebwtemymmiftec1f,bycradcge,ttaloftefgcsaem2()Tedthsnoprcsfrvtf,a3ddinRA6,X,orsysrcsinayort,s4orflj,wntept7y5()Teoeddntieteu,adu,orc6ttofv,f,orordsw,asddinRA6,V7()Tedtwsntal,o,orsrint8dgo,asddbytec9()Ted,toteetttheorseisa,asd0bytec,adcgternoftep,pss1aetolwe,igfladtldeofalknd2ofteoeadrdnta,rginaeier3toaro,prtos.Tectslmetefldnrdt4tesnoftsc5()Tedtsstoacdseued6ena,ifr,csasdttpmwn7msofs,pdshttisa.Inteetnotti8aewnte9hw,tectm,atisd,edtetet9cesht.Ifnottisr,tedtslce]
+[DELETED: B4N-ASIPe25,cddgenp,pdshapmisaTectm,atisd,awsnpsofasrneiftaeno5,adpsa()Tedtddntkypsordeafcsdginafmidtod,igbtntldtocpnp()Undge,tectmyieasebtemym,igp,cld,orardpt,pttoRA6.Tectslc0()Tedsscreadcyinteo1()Mgf,shasddcnore2ech,pdtydonteeteo3()Tedsrkofr,bdonclhya4cewhpgc5()Ifasebwtemymmisadptt6sh(,tectslieammof3y'pnwhm7c,i8()Bydgt,ifa9()Cnofaycdttorenp0()Atlt20hsofcys,uswddet1ddmli2()Asdseofatlt3ysad6m3i,tobeidifpncsaev4()Frtepeofdgteqyoftef5dgurRA3,I,ilasofm,s,p6a,ortgorpgwhittos,d,orc7mybeadifehofteasodwna9yp82CdDgA;P.AdteiyphofRA3,IXt9rdasf0I.Aypnwom,s,ordsm,lca1de(,pe()orayorcddgcdinssIorI2oraycddgagt,invnofRA3,IorI,egayf3csd,igayasord,issylefradhwhr4fmtei,i,orinoftts,admybesdtoi5frleorfrshtmastectmyo.Aypnwom,s,o6dsaflcsd,igayasord,invno7RA3,IorI,issylefradhwhrsfmtei]
+[DELETED: B4N-ASIPe3i,orinofttseadmybesdtoitfrleofrshtmastectmyo.Ayshtmslntbelstn7ysoi,sttoteenddinphI.Frpsofts,tepsatofm,d,orsgaseisteceofadw3NwP;CdDgA;P.AdRA36byigaphIbtefgnwpI)AdtsttotemymmseinphIXmybeefrasebwtemymmiftectf,bycradc0e,ttaloftefgcsaem1()Tedthsnoprcsfrvtf,asddinR26,X,orayddosurRA3Bwntept10y3()Teoeddntieteu,adu,orcettofv4f,orordsw,asddinRA6,V5()Tedtwsntal,o,orsrintedgo6asddbytec7()Ted,toteetttheorseisa,asddbytec8adcgternoftep,psslaetol9e,igfladtldeofalkndsofteoeadr0nta,rginaeierdtoaro,prt1s.Tectslmetefldnrdtotesnoftsc2()Tedtsstoacdseuedrena3ifr,csasdttpmwn9msofs4pdshttisa.Inteetnottisaewnte95w,tectmyatisdnedtetetocesht.Ifnot6isr,tedtslcea5,cddgenp7pdshapmisa.Tectm,atisd,awsnp8ofasrneifteaeno5,adpsa9()Tedtddntkydeafsdginaf0idtod,igbtntldtoctpnp1()Undge,tectmyieasebwtem2m,igp,cld,orardpnt,pttoR36.Tectslc4()Tedsscreadcyinteo5()Mgf,shasddcnoreeech6pdtydonteeteo]
+[DELETED: B4N-ASIPe4()Tedsrkofr,bdonclhyadcewpgc()Ifasebwtemymmisadpttotsptectslieammof3y’pnwhmyc,i()Bydgt,ifa()Cnofaycdttorenp()Atlt30hsofcys,uswddetodmli()Asdseofatlt5y’i,tobeidi0pncsaev14EeD.TsatslteetJy1,2]
+[DELETED: B4-FLNSINATretotepyfrcnfdosadegymmsefrteceofdnofacddhdhrLIdSeIY26FY27FY28FY20$0$0$eFgSlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSClB,JlC,DtofJ,DtofC,NeAnofC,adNwHeMlA]

@@ -1,0 +1,236 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB540-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0511s
+2026SESSION
+26-2126
+06/05
+540-FN
+ANACT relativetoportablesolargenerationdevices.
+SPONSORS: Sen. Watters, Dist 4; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Rosenwald,
+Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Murphy, Dist 16; Sen. Altschiller, Dist
+24;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Defines “portable solar generation device” and exempts them from interconnection
+requirementsandnetmetering.
+II. Requires compliance with state building code and manufacturer instructions, directs the
+building code review board to update codes for portable solar devices, and limits electric distribution
+utilityliability.
+III. Authorizes thedepartment of energytoadopt rules relativetointerconnection requirements
+for portable solar generation devices and directs the department to maintain relevant information
+regardingthedevicesonthedepartment'swebsite.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB540-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0511s 26-2126
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoportablesolargenerationdevices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Definitions. Amend RSA 362-A:1-a by inserting after paragraph X the
+2 followingnewparagraph:
+3 XI. “Portablesolargenerationdevice”meansamovablephotovoltaicgenerationdevicethat:
+4 (a) Hasamaximumpoweroutputnotexceeding1,200wattsACinverteroutput;
+5 (b) Is designed to beconnected to abuilding’s electrical system to abranch circuit, using
+6 areceptaclelistedforthatpurpose;
+7 (c) Is intended primarily to offset a portion of the customer’s on site electric
+8 consumption;
+9 (d) Includes anti-islanding and rapid shutdown safeguards, certified and listed per
+10 industrystandardstopreventenergizingduringasystemoutage.
+11 2 New Section;PortableSolar GenerationDevices. AmendRSA362-Abyinsertingafter section
+12 9thefollowingnewsection:
+13 362-A:10 PortableSolarGenerationDevices;Exemptions;Requirements.
+14 I. Aportablesolargenerationdevicethatmeetstherequirementsofthissectionshallbe:
+15 (a) Exempt from interconnection requirements and interconnection agreements
+16 applicable to generators participating in net metering or otherwise interconnecting to export electric
+17 power;and
+18 (b) NotsubjecttothenetenergymeteringprovisionsofRSA362A:9.
+19 (c) A maximum of one 1200 watt AC inverter output system shall be allowed per
+20 meteredcustomer.
+21 II. An electric distribution utility shall not require a customer using a compliant portable
+22 solargenerationdeviceto:
+23 (a) Obtainutilityapprovalbeforeinstallingorusingthedevice;
+24 (b) Payanyfeeorchargerelatedtothedevice;or
+25 (c) Install additional utility specified controls or equipment beyond those integrated into
+26 thedevice.
+27 3 New Section;PortableSolar GenerationDevices. AmendRSA155-Abyinsertingafter section
+28 14thefollowingnewsection:
+29 155-A:15 PortableSolarGenerationDevices.
+SB540-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. The state building code review board shall amend the state building code to address
+2 portable solar generation devices, including applicable nationally recognized standards, that
+3 portablesolargenerationdevicesmustcomplywith.
+4 II. Each portable solar generation device shall be installed per and comply with the state
+5 building code adopted under RSA 155-A, where applicable, and shall be installed and operated in
+6 accordancewithmanufacturerinstructions.
+7 III. Theapplicableutilityfortheowneroroperatorofaportablesolargenerationdevicemay
+8 develop a method for the owner to inform the utility of the wattage and number of devices at the
+9 address subsequent to installation. Such information shall be for notification purposes only and
+10 shallnotrequireapproval,interconnectionreview,ortheexecutionofaninterconnectionagreement.
+11 4 New Section; Liability. Amend RSA 374 by inserting after section 1-a the following new
+12 section:
+13 374:1-b Liabilityfor PortableSolarGenerationDevices. Anelectric distributionutilityshall not
+14 be liable for damage, injury, or compensation or charges arising from a portable solar generation
+15 device installed or used by a customer. Nothing in this section shall be construed to limit any cause
+16 ofactionagainstthemanufacturer,installer,orownerofaportablesolargenerationdevice.
+17 5 Rulemaking;NetEnergyMeeting. AmendRSA362-A:9,X(a)toreadasfollows:
+18 (a) Establish reasonable interconnection requirements for safety, reliability, and power
+19 quality as it determines the public interest requires. Such rules shall not exceed applicable test
+20 standards of the American National Standards Institute (ANSI)[ or], Underwriters Laboratory (UL),
+21 orTheInstituteofElectricalandElectronics,Inc(IEEE);and
+22 6 NewSection;PortableSolarGenerationDevices;Website. AmendRSA12-Pbyinsertingafter
+23 section17thefollowingnewsection:
+24 12-P:18 Portable Solar Generation Devices Website. The department of energy shall establish
+25 andmaintainapageonitswebsitewithrelevantinformationforconsumersregardingportablesolar
+26 generation devices, including meter compatibility at the state’s various distribution utilities,
+27 potential impacts on electric billing, applicable safety standards and considerations, and any other
+28 informationthedepartmentdeterminesappropriate.
+29 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2126
+Revised03/13/2026
+SB540-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0511s)
+ANACT relativetoportablesolargenerationdevices.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+DepartmentofEnergyandPublicUtilitiesCommission
+[DELETED: B5N-ASADBYTES606SEBNATretopesrgnd:S.W,Dt4;S.P,Dt1;S.A,Dt1;S.Rt1;S.PsK,Dt2;S.M,Dt1;S.A,D;R.M,H.3:EyadNlRDAsb.Ds“esrgnd”adestmfmisadntm.Rscewhsebgceadmri,dstgcerwbdtouecsfrpesrd,adlsecdyl.Astedtofeytoatrsretoinrrpesrgndsaddstedttomnrtigtedsontedsw-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretopesrgndeitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA3abyigarphXtfgnwpX.“esrgnd”msamepcgndet()Hsammprotnteg10wsACiro()Isddtobecdtoabselsmtoabhc,uareldfrttp()Isidpytootapnoftecsonseec()Isagadrdsns,cdadldp0iysstoptegdgasmo12NwS;PeSrGnD.AdRA3Abyigars29tefgnws330PeSrGnD;E;R4I.Apesrgndettmstersoftssnslb5()Etfminrsadina6aetogspginntmgoroeigtoete7p;a8()NtsttotenteymgpsofRA32A9()Ammofoe10wtACirotsmslbeadp0mdc1I.Anecdnuyslntreacrugactp2srgndet3()Onuyalbeigorugted4()Pyayfeorcerdtoted;o5()Ilaluysdcsoretbdteidi6ted73NwS;PeSrGnD.AdRA1Abyigars814tefgnws915PeSrGnD]
+[DELETED: B5N-ASADBYTESPe2I.Tesebgcerwbdsladtesebgcetoapesrgnd,igaenyrds,tpesrgndsmtcywI.EhpesrgndeslbeidpradcywhtesbgceadurRA1,wea,adslbeidadodiaewhmriI.Teaeuyfrteorororofapesrgndemdpamdfrteortoimteuyofteweadnrofdsattassttoi.Shinslbefrnnpsoya0slntrea,inr,orteenofanina14NwS;L.AdRA34byigarsn1atefgn2s33bLyfrPeSrGnD.Anecdnuysln4belefrd,i,orcnorcsagfmapesrg5deidorudbyac.Ngintssnslbecdtoltayc6ofanattem,i,ororofapesrgnd75R;NtEyM.AdRA3,X)tordasf8()Ehreinrsfrs,r,adp9qyasitdstepcitr.Shrsslntedaet0ssofteAnNlSsIe([o,UsLy(1orTeIeofEladE,Ic(;a26NwS;PeSrGnD;W.AdRA1Pbyiga3sn17tefgnws418PeSrGnDsW.Tedtofeysle5admnapeoniswewhrtinfrcsrgpes6gnd,igmrcyattessvsdnu7plisonecb,aesyssadc,adayo8intedtdsa97EeD.TsatslteetJy1,2]
+[DELETED: d0B5-FLNSADBYTESE(T#2NATretopesrgndLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCtofEyadPcUsC]
+
+
+================================================================================
+
+Raw Text:
+SB540-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0511s
+2026SESSION
+26-2126
+06/05
+540-FN
+SENATEBILL
+ANACT relativetoportablesolargenerationdevices.
+SPONSORS: Sen. Watters, Dist 4; Sen. Pearl, Dist 17; Sen. Avard, Dist 12; Sen. Rosenwald,
+Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Murphy, Dist 16; Sen. Altschiller, Dist
+24;Rep.McGhee,Hills.35
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Defines “portable solar generation device” and exempts them from interconnection
+requirementsandnetmetering.
+II. Requires compliance with state building code and manufacturer instructions, directs the
+building code review board to update codes for portable solar devices, and limits electric distribution
+utilityliability.
+III. Authorizes thedepartment of energytoadopt rules relativetointerconnection requirements
+for portable solar generation devices and directs the department to maintain relevant information
+regardingthedevicesonthedepartment'swebsite.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB540-FN-ASAMENDEDBYTHESENATE
+02/19/2026 0511s 26-2126
+06/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoportablesolargenerationdevices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraph; Definitions. Amend RSA 362-A:1-a by inserting after paragraph X the
+2 followingnewparagraph:
+3 XI. “Portablesolargenerationdevice”meansamovablephotovoltaicgenerationdevicethat:
+4 (a) Hasamaximumpoweroutputnotexceeding1,200wattsACinverteroutput;
+5 (b) Is designed to beconnected to abuilding’s electrical system to abranch circuit, using
+6 areceptaclelistedforthatpurpose;
+7 (c) Is intended primarily to offset a portion of the customer’s on site electric
+8 consumption;
+9 (d) Includes anti-islanding and rapid shutdown safeguards, certified and listed per
+10 industrystandardstopreventenergizingduringasystemoutage.
+11 2 New Section;PortableSolar GenerationDevices. AmendRSA362-Abyinsertingafter section
+12 9thefollowingnewsection:
+13 362-A:10 PortableSolarGenerationDevices;Exemptions;Requirements.
+14 I. Aportablesolargenerationdevicethatmeetstherequirementsofthissectionshallbe:
+15 (a) Exempt from interconnection requirements and interconnection agreements
+16 applicable to generators participating in net metering or otherwise interconnecting to export electric
+17 power;and
+18 (b) NotsubjecttothenetenergymeteringprovisionsofRSA362A:9.
+19 (c) A maximum of one 1200 watt AC inverter output system shall be allowed per
+20 meteredcustomer.
+21 II. An electric distribution utility shall not require a customer using a compliant portable
+22 solargenerationdeviceto:
+23 (a) Obtainutilityapprovalbeforeinstallingorusingthedevice;
+24 (b) Payanyfeeorchargerelatedtothedevice;or
+25 (c) Install additional utility specified controls or equipment beyond those integrated into
+26 thedevice.
+27 3 New Section;PortableSolar GenerationDevices. AmendRSA155-Abyinsertingafter section
+28 14thefollowingnewsection:
+29 155-A:15 PortableSolarGenerationDevices.
+
+SB540-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 I. The state building code review board shall amend the state building code to address
+2 portable solar generation devices, including applicable nationally recognized standards, that
+3 portablesolargenerationdevicesmustcomplywith.
+4 II. Each portable solar generation device shall be installed per and comply with the state
+5 building code adopted under RSA 155-A, where applicable, and shall be installed and operated in
+6 accordancewithmanufacturerinstructions.
+7 III. Theapplicableutilityfortheowneroroperatorofaportablesolargenerationdevicemay
+8 develop a method for the owner to inform the utility of the wattage and number of devices at the
+9 address subsequent to installation. Such information shall be for notification purposes only and
+10 shallnotrequireapproval,interconnectionreview,ortheexecutionofaninterconnectionagreement.
+11 4 New Section; Liability. Amend RSA 374 by inserting after section 1-a the following new
+12 section:
+13 374:1-b Liabilityfor PortableSolarGenerationDevices. Anelectric distributionutilityshall not
+14 be liable for damage, injury, or compensation or charges arising from a portable solar generation
+15 device installed or used by a customer. Nothing in this section shall be construed to limit any cause
+16 ofactionagainstthemanufacturer,installer,orownerofaportablesolargenerationdevice.
+17 5 Rulemaking;NetEnergyMeeting. AmendRSA362-A:9,X(a)toreadasfollows:
+18 (a) Establish reasonable interconnection requirements for safety, reliability, and power
+19 quality as it determines the public interest requires. Such rules shall not exceed applicable test
+20 standards of the American National Standards Institute (ANSI)[ or], Underwriters Laboratory (UL),
+21 orTheInstituteofElectricalandElectronics,Inc(IEEE);and
+22 6 NewSection;PortableSolarGenerationDevices;Website. AmendRSA12-Pbyinsertingafter
+23 section17thefollowingnewsection:
+24 12-P:18 Portable Solar Generation Devices Website. The department of energy shall establish
+25 andmaintainapageonitswebsitewithrelevantinformationforconsumersregardingportablesolar
+26 generation devices, including meter compatibility at the state’s various distribution utilities,
+27 potential impacts on electric billing, applicable safety standards and considerations, and any other
+28 informationthedepartmentdeterminesappropriate.
+29 7 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2126
+Revised03/13/2026
+SB540-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0511s)
+ANACT relativetoportablesolargenerationdevices.
+FISCALIMPACT:
+TheOfficeofLegislativeBudgetAssistantstatesthisbillhasnofiscalimpactonstate,county
+andlocalexpendituresorrevenue.
+AGENCIESCONTACTED:
+DepartmentofEnergyandPublicUtilitiesCommission
+
+[DELETED: B5N-ASADBYTES606SEBNATretopesrgnd:S.W,Dt4;S.P,Dt1;S.A,Dt1;S.Rt1;S.PsK,Dt2;S.M,Dt1;S.A,D;R.M,H.3:EyadNlRDAsb.Ds“esrgnd”adestmfmisadntm.Rscewhsebgceadmri,dstgcerwbdtouecsfrpesrd,adlsecdyl.Astedtofeytoatrsretoinrrpesrgndsaddstedttomnrtigtedsontedsw-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretopesrgndeitEdbyteSeadHeofRsinGlCtc1NwP;D.AdRA3abyigarphXtfgnwpX.“esrgnd”msamepcgndet()Hsammprotnteg10wsACiro()Isddtobecdtoabselsmtoabhc,uareldfrttp()Isidpytootapnoftecsonseec()Isagadrdsns,cdadldp0iysstoptegdgasmo12NwS;PeSrGnD.AdRA3Abyigars29tefgnws330PeSrGnD;E;R4I.Apesrgndettmstersoftssnslb5()Etfminrsadina6aetogspginntmgoroeigtoete7p;a8()NtsttotenteymgpsofRA32A9()Ammofoe10wtACirotsmslbeadp0mdc1I.Anecdnuyslntreacrugactp2srgndet3()Onuyalbeigorugted4()Pyayfeorcerdtoted;o5()Ilaluysdcsoretbdteidi6ted73NwS;PeSrGnD.AdRA1Abyigars814tefgnws915PeSrGnD]
+[DELETED: B5N-ASADBYTESPe2I.Tesebgcerwbdsladtesebgcetoapesrgnd,igaenyrds,tpesrgndsmtcywI.EhpesrgndeslbeidpradcywhtesbgceadurRA1,wea,adslbeidadodiaewhmriI.Teaeuyfrteorororofapesrgndemdpamdfrteortoimteuyofteweadnrofdsattassttoi.Shinslbefrnnpsoya0slntrea,inr,orteenofanina14NwS;L.AdRA34byigarsn1atefgn2s33bLyfrPeSrGnD.Anecdnuysln4belefrd,i,orcnorcsagfmapesrg5deidorudbyac.Ngintssnslbecdtoltayc6ofanattem,i,ororofapesrgnd75R;NtEyM.AdRA3,X)tordasf8()Ehreinrsfrs,r,adp9qyasitdstepcitr.Shrsslntedaet0ssofteAnNlSsIe([o,UsLy(1orTeIeofEladE,Ic(;a26NwS;PeSrGnD;W.AdRA1Pbyiga3sn17tefgnws418PeSrGnDsW.Tedtofeysle5admnapeoniswewhrtinfrcsrgpes6gnd,igmrcyattessvsdnu7plisonecb,aesyssadc,adayo8intedtdsa97EeD.TsatslteetJy1,2]
+[DELETED: d0B5-FLNSADBYTESE(T#2NATretopesrgndLIeOeofLeBtAtsstsblhsnoflitons,cdllesorrSCtofEyadPcUsC]

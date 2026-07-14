@@ -1,0 +1,574 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SB523-FN-ASINTRODUCED
+2026SESSION
+26-2153
+09/06
+523-FN
+ANACT establishingtheregistrationandoversightofbuilders.
+SPONSORS: Sen. Ward, Dist 8; Sen. Pearl, Dist 17; Sen. Innis, Dist 7; Sen. Watters, Dist 4;
+Sen.Altschiller,Dist24
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a board of builder registration, administratively attached to the department
+of labor. This bill requires the registration of and sets regulatory requirements for certain builders
+andgeneralcontractorsengagedinconstruction-relatedbusinessonanyresidentialproperty.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB523-FN-ASINTRODUCED
+26-2153
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingtheregistrationandoversightofbuilders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Builders. Amend RSA by inserting after chapter 310-C the following new
+2 chapter:
+3 CHAPTER310-D
+4 BUILDERS
+5 310-D:1 Definitions. Inthischapter:
+6 I. "Board" means the board of builder registration, administratively attached to the New
+7 Hampshiredepartmentoflabor.
+8 II. "Registration program administrator" or "RPA" means a New Hampshire non-profit
+9 organization qualified under section 501(c)(3), registered with the director of charitable trusts, and
+10 undercontractwiththeboardtoadministerthischapterinaccordancewithboardrules.
+11 III. "Builder"meansanyindividual,partnership,orlimitedliabilitycompanyengagedinthe
+12 business of constructing, renovating, remodeling, or other similar activities on residential buildings
+13 thatarenototherwiserequiredtoholdaprofessionallicensewithinthestateofNewHampshire.
+14 IV. "Construction-related business" means the provisioning of contracting, remodeling,
+15 renovation,orrepairservicesforcompensationonpropertynotdomiciledbytheapplicant.
+16 V. "Approved education program" means a course or series of courses, totaling not less than
+17 8 hours of instruction covering construction safety, building codes, and professional business
+18 practices,approvedbytheboardunderthischapter.
+19 VI. "Continuing education" means additional instruction provided by an approved program
+20 asrequiredforthebiennialrenewalofregistration.
+21 VII. "Falsification" means the intentional misrepresentation, alteration, or concealment of
+22 anymaterialfactinanyapplicationorsupportingdocumentationsubmittedunderthischapter.
+23 310-D:2 BoardEstablished;PowersandDuties;Composition.
+24 I. There is established the board of builder registration within the New Hampshire
+25 departmentoflabor.
+26 II. Theboardshallconsistof8members:
+27 (a) Three members of the New Hampshire Home Builders Association with at least 5
+28 years of active experience in residential construction, appointed by the New Hampshire Home
+29 BuildersAssociation. Onemembershallservea4yearterm,anotherfora3yeartermandthethird
+30 fora2yearterm.
+SB523-FN-ASINTRODUCED
+-Page2-
+1 (b) Onememberofthebuildingcodereviewboard,appointedbythechairofthebuilding
+2 codereviewboard. Thispositionshallservefora3yearterm.
+3 (c) One member of a New Hampshire consumer advocacy organization, appointed by the
+4 governor. Thismembershallservefora2yearterm.
+5 (d) One current or former member of a New Hampshire municipal zoning or planning
+6 board, appointed by the New Hampshire Building Officials Association. This member shall serve a
+7 termof3years.
+8 (e) One member withexperience in electrical, plumbing, or engineering as nominated by
+9 AssociatedGeneralContractors.
+10 (f) The commissioner of the New Hampshire department of labor or their designee as a
+11 permanentmember.
+12 III. The chief executive officer of the New Hampshire Home Builders Association shall serve
+13 asanon-votingmemberasapermanentmember.
+14 IV. Theboardshall:
+15 (a) Adopt rules in consultation with the RPA under RSA 541-A by the department of
+16 labor for applications, renewals, continuing education, insurance minimums, complaint handling,
+17 investigations,sanctions,advertisingandpermitverification,andRPAperformancemetrics.
+18 (b) Issue, renew, deny, suspend, revoke, or otherwisedisciplineregistrations after notice
+19 andopportunityforhearing.
+20 (c) Oversee the RPA; approve its forms and policies; audit compliance; and require
+21 correctiveaction.
+22 (d) Maintainultimateauthorityoverfinaldisciplinarydecisionsandsanctions.
+23 (e) Establish and adjust fees through rulemaking process for initial registration,
+24 renewal,andotherservicesasnecessarytosupporttheadministrationofthischapter.
+25 310-D:3 RegistrationProgramAdministrator;DesignationandContract.
+26 The board may designate an RPA through a competitive process and shall enter into a written
+27 contractapprovedbythegovernorandcouncil. Thecontractshall:
+28 I. Set measurable performance standards and require annual independent financial and
+29 performanceaudits.
+30 II. Authorizeadministrativefeesasestablishedbyboardrulestocoveroperatingcosts.
+31 III. Require annual reporting, secure data access for the board, and cooperation with the
+32 departmentoflaborandtheofficeoftheattorneygeneral.
+33 IV. Mandateethicspoliciesandcompliancewithprivacyandrecords-retentionstandards.
+34 V. Provideremediesforbreach,includingsuspensionorterminationforcause.
+35 310-D:4 ApplicabilityandRegistrationRequirements.
+SB523-FN-ASINTRODUCED
+-Page3-
+1 I. The provisions of this chapter shall apply to all builders and general contractors engaged
+2 in construction-related business on any residential property not owned by the builder/general
+3 contractor(GC),theaggregateannualvolumeofwhichis$5,000ormore.
+4 II. Thischaptershallnotapplytoanyindividualalreadyrequiredtobelicensedpursuantto
+5 existingstatelawandworkingunderthescopeoftheirlicense.
+6 III. This chapter shall apply when requesting a permit from a New Hampshire municipality
+7 onanon-builder/GCownedorbuilder/GCoccupiedstructure.
+8 IV. Registrationapplicationrequirementsshallinclude:
+9 (a) The business name and principal place of business, together with the owner's legal
+10 name, phone number, email address, physical address, and mailing address. This shall include all
+11 other legal entities qualifying for registration under the owner's name and responsibility. While
+12 companies may be held under a limited liability corporation (LLC), the name of the person
+13 responsible for its legal filing, creation, and performance of duties shall be registered along the LLC
+14 nameasa“doingbusinessas”("dba").
+15 (b) Owner'ssocialsecuritynumber,orindividualtaxpayeridentificationnumber.
+16 (c) Proof of current liability and workers' compensation insurance conforming to state
+17 standards.
+18 (d) Certification of successful completion of an approved education program of not less
+19 than8hours.
+20 (e) Paymentofinitialregistrationfeeasestablishedbyboardrules.
+21 (f) Asuretybondintheamountofnolessthan$50,000.
+22 (g) Astatementofanybankruptcyfilingwithinthelast7years.
+23 (h) Documentation of any applicable out of state registration or licensing to conduct
+24 residentialbuildingconstruction,remodeling,and/orrenovation.
+25 310-D:5 DutiesoftheRPA.
+26 TheRPA'sdutiesshallbeto:
+27 I. Offerrecommendationsontherulestothedepartmentoflaborforboardapproval.
+28 II. Develop and operate an online application and renewal portal; verify identity, insurance,
+29 andcontinuingeducation;issueregistrationnumbersonceapprovedbytheboardorunderdelegated
+30 ministerialauthority.
+31 III. Maintain a public registry showing business name, registration status, and insurance
+32 effectivedates,excludingpersonalidentifyinginformation.
+33 IV. Managecontinuing-educationapprovalsandrosters;transmitcompletionstotheboard.
+34 V. Work with the secretary of state’s office to include an online reminder in the secretary of
+35 state’s business name filing system stating: “RSA 310-D:4 requires you to register your residential
+36 construction/remodeling business with the department of labor at [insert website address]” or
+37 similardepartmentoflaborapprovedlanguage.
+SB523-FN-ASINTRODUCED
+-Page4-
+1 VI. Complaintintakeandearlyresolution:
+2 (a) Receive consumer and municipal complaints; conduct pre-hearing investigation; offer
+3 mediation; request records; and prepare a written report with a probable cause recommendation to
+4 theboard'sdisciplinaryunit.
+5 (b) In emergencies implicating safety of lives, make an immediate referral to the board
+6 forinterimsuspensionconsiderationandnotifythelocalbuildingofficial.
+7 (c) Maintainconfidentialityofinvestigativefilesuntiltheboardvotesonprobablecause,
+8 consistentwithboardrules.
+9 VII. Provideaninternalreviewandappealmechanismforadministrativedenials.
+10 310-D:6 ContinuingEducationandRenewal.
+11 I. Each registration issued under this chapter shall remain valid for a period of 2 years,
+12 afterwhichrenewalisrequired.
+13 II. Renewalshallbeconditioneduponsubmissionof:
+14 (a) Documentation evidencing completion of not less than 8 hours of continuing
+15 education provided in approved programs including at least 2 hours of "building code update"
+16 classes. The “building code update” class shall be mandatory for each new and renewing
+17 registration.
+18 (b) Updatedevidenceofcurrentliabilityandworkers'compensationinsurance.
+19 (c) Paymentofbiennialrenewalfeeasestablishedbyboardrules.
+20 (d) Anyadditionalinformationasmayberequiredbytheboard.
+21 III. Failure to satisfy the continuing education requirement within the prescribed time
+22 period shall result in administrative penalties, including possible suspension of registration until
+23 suchdeficiencyisremedieduptoandincludingpossiblecriminalproceedings.
+24 310-D:7 Enforcement;CriminalPenalties.
+25 I. Unregisteredpractice;failuretomaintaininsurance;falsification;violationofthischapter
+26 orrules;andnoncompliancewithboardordersaregroundsfordiscipline.
+27 II. The board may impose fines up to $5,000 per violation and up to $500 per day for
+28 continuing violations, order restitution as appropriate, and require additional education, suspend,
+29 revoke,orrefuserenewal.
+30 III. Any applicant or registrant who willfully violates any provision of this chapter,
+31 including by falsification of documents, shall be subject to criminal prosecution. Such offense shall
+32 be a class B felony punishable by imprisonment for a period not to exceed 5 years and by additional
+33 finesasprovidedbylaw.
+34 IV. Theboardmayseekinjunctivereliefinsuperiorcourt.
+35 V. ProceedingsshallbegovernedbyRSA541-A,withappealsunderRSA541.
+36 310-D:8 MunicipalPermits.
+SB523-FN-ASINTRODUCED
+-Page5-
+1 No municipality shall issue a permit for covered work unless the applicant lists a valid
+2 registrationnumber,whichtheRPAandboardshallmakeavailableforinstantonlineverification.
+3 310-D:9 Advertising,VehicleIdentification,andContractualDisclosureRequirements.
+4 I. Every builder or general contractor registered under this chapter shall, as a condition of
+5 doingbusiness:
+6 (a) Clearly display the official registration number on all company vehicles used in the
+7 conductofbusiness.
+8 (b) Conspicuously include the official registration number on all marketing materials
+9 and advertisements, whether distributed in print, broadcast, digital, or via any other medium. Font
+10 sizeanddisplayrequirementsshallbeestablishedbyrulesadoptedbytheboard.
+11 (c) Incorporate the official registration number into any contract, written or electronic,
+12 enteredintowithaconsumerfortheprovisionofconstruction-relatedservices.
+13 (d) Incorporate the official registration number into any written or electronic estimate
+14 providedtotheconsumerforthepossibleprovidingofconstruction-relatedservices.
+15 II. Any advertisement or contract failing to meet the requirements of this section shall be
+16 deemednoncompliantwiththeprovisionsof thischapterand subjecttotheenforcementand penalty
+17 provisionssetforthherein.
+18 310-D:10 BuilderRegistrationFund.
+19 There is established a non-lapsing dedicated fund for fees, fines, and settlements. The board,
+20 through the department of labor, shall pay the RPA from this fund according to the contracted
+21 administrativefeestructureasestablishedbyboardrules.
+22 310-D:11 Rulemaking.
+23 The board shall adopt rules under RSA 541-A to implement this chapter, including but not
+24 limitedto:
+25 I. Feeschedulesforinitialregistration,renewal,andotherservices.
+26 II. RPAperformancemetricsandauditstandards.
+27 III. Data-sharingprotocolsandregistryformat.
+28 IV. Complainttimelinesandmediationprocedures.
+29 V. Advertisingandvehicleidentificationdisplayrequirements.
+30 VI. Insuranceminimumrequirementsandstandards.
+31 VII. Educationprogramapprovalcriteriaandcontinuingeducationrequirements.
+32 2 New Subparagraph; Application of Receipts; Builder Registration Fund. Amend RSA 6:12,
+33 I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraph:
+34 (411) Moneys deposited in the builder registration fund as established in RSA 310-
+35 D:10.
+36 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2028.
+LBA
+26-2153
+11/18/25
+SB523-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingtheregistrationandoversightofbuilders.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Increase Increase
+RevenueFund(s) BuilderRegistrationFund
+Indeterminable Indeterminable
+Expenditures* $0 $0
+Increase Increase
+FundingSource(s) BuilderRegistrationFundandGeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill establishes a Board of Builder Registration, administratively attached to the
+Department of Labor to regulate residential builders and general contractors. The Board will
+oversee builder registration, continuing education, insurance requirements, and enforcement
+actions. It also establishes a Builder Registration Fund for fee and penalty revenue to support
+boardoperations.
+The Department of Labor states that its role will be limited to participation in rulemaking and
+consultation with the Board and the Registration Program Administrator. The Department
+anticipates its direct agency costs to be minimal and can be absorbed into their current budget.
+However, the bill requires the newly created Board to contract with a nonprofit Registration
+Program Administrator that will develop and operate the registration portal, verify insurance
+and continuing education, process applications, manage complaint intake, conduct early
+investigations, and provide administrative support to the Board. All operating costs for the
+Board and the Registration Program Administrator must be paid from the new established
+Builder Registration Fund. It is unclear how start up and initial implementation costs will be
+covered prior to the collection of fees, and the Department notes it does not have funds budgeted
+for these activities. As a result, state expenditures associated with establishing and operating
+the new Board and supporting the contracted Registration Program Administrator are
+indeterminable.
+The Department of Labor also states the bill authorizes the Board to establish and collect initial
+registration fees, renewal fees, administrative fees, and civil penalties of up to $5,000 per
+violation and $500 per day for continuing violations. These revenues will be deposited into the
+newly created Builder Registration Fund. Because the number of builders who will be required
+to register is unknown and fee levels will be set through future rulemaking, the amount of
+anticipatedrevenuecannotbeestimatedatthistime.
+Lastly,thisbilladds,deletes,ormodifiesacriminalpenalty,orchangesstatutetowhichthereis
+a penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Labor, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+[DELETED: B5N-ASI6SEBNATegternadotofb:S.W,Dt8;S.P,Dt1;S.I,Dt7;S.W,Dt4.A,Dt2:Csblesabdofbrr,ayadtotedfl.Tsblrsternofadssryrsfrcnbdglcsedincdbsonayrlp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATegternadotofbeitEdbyteSeadHeofRsinGlCtc1NwC;B.AdRAbyigarcr3CtefgncCR3B31D.IntscI.""mstebdofbrr,ayadtoteNHedtoflI."npma"or""msaNwHenonqdursn5,rdwhtedrofcet,a0urctwhtebdtoartscrinaewhbdr1I.""msayi,p,orldlycyedint2bsofc,r,r,ororsrasonrlb3ttaentoerdtohdapllewnteseofNwH4I."db"mstepgofc,r5r,orrrssfrcnonpyntddbytea6V."denp"msaceorssofc,tgntlst78hsofincgcns,bgc,adplb8p,adbytebdurtsc9V."ge"msalinpdbyanadp0asrdfrteblrlofr1V.""msteilm,a,orcto2aymlftinayanorsgdnsdurtsc332BdE;PsadD;C4I.TeisedtebdofbrrnwnteNwH5dtofl6I.Tebdslctof8m7()TemsofteNwHeHeBsAnwhatlt8ysofaeeeinrlc,adbyteNwHeH9BsA.Oemrslsea4yrt,arfra3yrtmadtet0fra2yrt]
+[DELETED: B5N-ASIPe2()Oemroftebgcerwb,adbytecroftebcerwb.Tspnslsefra3yrt()OemrofaNwHecrayo,adbytg.Tsmrslsefra2yrt()OectorfrmrofaNwHemlzgorpb,adbyteNwHeBgOsA.Tsmrslsetmof3y()Oemrwheeine,p,oregasndbAdGlC0()TecrofteNwHedtoflrortrdeas1ptm2I.TecfeeorofteNwHeHeBsAnsls3asangmrasaptm4I.Tebds5()AtrsincnwhteRAurRA5Abytedto6lrfra,r,cge,iem,cth7i,s,agadptv,adRApem8()I,r,d,s,r,oroedersarn9adoyfrh0()OeteR;aeisfsadp;atc;adr1cea2()Mnueayorfldydsads3()Ehadatfsthrgpsfrilr4r,adorssasnytostteanoftsc533RnPmA;DnadC6TebdmydeanRAthacepsadslerioaw7ctadbytegradc.Tects8I.Stmepessadrealitfla9pea0I.Aeaefsasedbybdrstocrogc1I.Realr,sedaasfrteb,adcnwht2dtoflradteoeofteayg3I.Meespsadcewhpyadrns4V.Persfrb,igsnortnfrc534AyadRnR]
+[DELETED: B5N-ASIPe3I.Tepsoftscrslaytoalbsadglcseincdbsonayrlpyntodbytebcr(,teaealveofwhis$0ormI.TscrslntaytoayilayrdtobeldpttegselwadwgurteseoftrlI.TscrslaywnrgaptfmaNwHemonanCodorbCodsI.Rnanrssli()Tebsneadplpeofb,trwhteosl0n,pen,ela,pla,admga.Tssliea1orllesqgfrrnurteosneadr.W2csmybehduraldlycn(,teneoftep3refrisllf,c,adpeofdsslberdagteL4neasa“gbsa”(5()Osslsyn,oriltrinn6()Pfofctlyadw'cniecgtos7s8()Cnofslcnofanadenpmofntl9tn8h0()Ptofilrnfeasedbybdr1()Asybdinteatofnolstn$2()Astofaybyfgwntelt7y3()Dnofayaeotofsernorlgtoc4rlbgc,r,arr535DsofteR6TeRsdsslbet7I.Orrsonterstotedtoflrfrbda8I.Dpadoeanoeanadrlp;vyi,i9adcge;iernnsoeadbytebdorurd0mla1I.Mnapcrysgbsn,rns,adi2eed,egpligi3I.Mecnasadr;ttcstoteb4V.Wkwhtesyofssoetoieanoerrintesyo5ssbsnefgsms:“A34rsyutorryrr6cgbswhtedtoflrat[twea”o7srdtoflradl]
+[DELETED: B5N-ASIPe4V.Ctieadeyr()Recradmlc;ctpgi;om;rtr;adpeawnrtwhapecernttebsdyu()Inesigsyofl,meanierltotebfrimsncnadnytellbgo()MncyofiefsultebdvsonpecctwhbdrV.Peanilrwadalmmfraed036CgEnadR1I.Ehrnidurtscrslrnvdfrapdof2y2arwhrlisr3I.Rlslbecdunsno4()Dnegcnofntlstn8hsofc5enpdinadpsigatlt2hsof"gceu6c.Te“gceu”csslbemyfrehnwadr7r8()Udeeofctlyadw'cni9()Ptofblrlfeasedbybdr0()Ayalinasmyberdbyteb1I.Fetosytecgenrtwntepdt2pdslrtinaep,igpesnofrnu3shdyisrduptoadigpeclp437E;ClP5I.Udp;fetomni;f;vnoftsc6orr;adnewhbdosaegsfrd7I.Tebdmyiefsupto$0prvnadupto$0prdyf8cgv,orrnasa,adreale,s9r,orrer0I.Ayatorrtwowyvsaypnoftsc1igbyfnofd,slbesttoclp.Shoes2beacsBfypebyitfrapdnttoed5ysadbya3fsaspdbyl4I.Tebdmyskierfinsrc5V.PsslbegdbyRA5,whasurRA5638MlP]
+[DELETED: B5N-ASIPe5Nomyslieaptfrcdwkusteatlsavrnn,whteRAadbdslmeaefritoev39A,VeI,adClDeRI.Eybrorglcrrdurtscrs,asacnodgb()Cydyteolrnnronalcyvsudintctofb()Cyieteolrnnronalmgmada,wrddinp,b,d,orvaayorm.F0seaddyrsslbeedbyrsadbyteb1()Ieteolrnnrioayc,wnore2ediowhacrfrtepnofcds3()Ieteolrnnrioaywnorece4pdtotecrfrtepepgofcds5I.Ayatorctfgtomttersoftssnslb6ddntwhtepsoftscradsttoteetadp7psstfhh830BrRnF9Teisedangddfdfrf,f,ads.Teb0thtedtofl,slpyteRAfmtsfdagtotec1aefeseasedbybdr231R3TebdslatrsurRA5Atoittsc,igbtn4ldt5I.Fessfrilr,r,adors6I.RApemsadats7I.Dgpsadryf8I.Cttsadmnp9V.Agadveindyr0V.Iemmrsads1V.Enpmalcaadcgenr22NwS;AnofR;BrRnF.AdRA63I)byigarsh()tefgnws4()MsddintebrrnfdasedinRA35D63EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATegternadotofbLI:TsbldsntpefdSeIY26FY27FY28FY20$eIeIeFrRnF0$eIeIgSrRnFdadGlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IlR0$0$0$lE0IsblesaBdofBrR,ayadtottofLrtorerlbsadglc.TeBdwebrr,cge,ier,ade.ItaoesaBrRnFdfrfeadpyretosdoeDtofLrssttisrewlbeldtopninrganwhteBdadteRnPmA.TeDsisdtaycstobemladcnbeadiotrctb,teblrstenycdBdtoctwhantR]
+[DELETED: mArttwldpadoeternp,vyidcge,psa,mecti,cte,adpeaesttoteB.AlogcsfrtdadteRnPmArmtbepdfmtenwerRnF.Itisurhwstupadilincswlbdprtotecnoff,adteDtnsitdsnthefsbrtea.Asar,seesadwhegadoenwBdadsgtecdRnPmAraeDtofLraossteblasteBdtoehadctinf,rlf,aef,adclpsofupto$0pnad$0prdyfrcgv.TerswlbeddiotycdBrRnF.Betenrofbswowlberorrisunadfelswlbestthfer,teatodrectbeedattst,tsbla,d,ormsaclp,orcssetowhteipyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSCtofL,JlB,JlC,DtofJ,Dto,NwHeAnofC,adNwHeM]
+
+
+================================================================================
+
+Raw Text:
+SB523-FN-ASINTRODUCED
+2026SESSION
+26-2153
+09/06
+523-FN
+SENATEBILL
+ANACT establishingtheregistrationandoversightofbuilders.
+SPONSORS: Sen. Ward, Dist 8; Sen. Pearl, Dist 17; Sen. Innis, Dist 7; Sen. Watters, Dist 4;
+Sen.Altschiller,Dist24
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a board of builder registration, administratively attached to the department
+of labor. This bill requires the registration of and sets regulatory requirements for certain builders
+andgeneralcontractorsengagedinconstruction-relatedbusinessonanyresidentialproperty.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB523-FN-ASINTRODUCED
+26-2153
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingtheregistrationandoversightofbuilders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Builders. Amend RSA by inserting after chapter 310-C the following new
+2 chapter:
+3 CHAPTER310-D
+4 BUILDERS
+5 310-D:1 Definitions. Inthischapter:
+6 I. "Board" means the board of builder registration, administratively attached to the New
+7 Hampshiredepartmentoflabor.
+8 II. "Registration program administrator" or "RPA" means a New Hampshire non-profit
+9 organization qualified under section 501(c)(3), registered with the director of charitable trusts, and
+10 undercontractwiththeboardtoadministerthischapterinaccordancewithboardrules.
+11 III. "Builder"meansanyindividual,partnership,orlimitedliabilitycompanyengagedinthe
+12 business of constructing, renovating, remodeling, or other similar activities on residential buildings
+13 thatarenototherwiserequiredtoholdaprofessionallicensewithinthestateofNewHampshire.
+14 IV. "Construction-related business" means the provisioning of contracting, remodeling,
+15 renovation,orrepairservicesforcompensationonpropertynotdomiciledbytheapplicant.
+16 V. "Approved education program" means a course or series of courses, totaling not less than
+17 8 hours of instruction covering construction safety, building codes, and professional business
+18 practices,approvedbytheboardunderthischapter.
+19 VI. "Continuing education" means additional instruction provided by an approved program
+20 asrequiredforthebiennialrenewalofregistration.
+21 VII. "Falsification" means the intentional misrepresentation, alteration, or concealment of
+22 anymaterialfactinanyapplicationorsupportingdocumentationsubmittedunderthischapter.
+23 310-D:2 BoardEstablished;PowersandDuties;Composition.
+24 I. There is established the board of builder registration within the New Hampshire
+25 departmentoflabor.
+26 II. Theboardshallconsistof8members:
+27 (a) Three members of the New Hampshire Home Builders Association with at least 5
+28 years of active experience in residential construction, appointed by the New Hampshire Home
+29 BuildersAssociation. Onemembershallservea4yearterm,anotherfora3yeartermandthethird
+30 fora2yearterm.
+
+SB523-FN-ASINTRODUCED
+-Page2-
+1 (b) Onememberofthebuildingcodereviewboard,appointedbythechairofthebuilding
+2 codereviewboard. Thispositionshallservefora3yearterm.
+3 (c) One member of a New Hampshire consumer advocacy organization, appointed by the
+4 governor. Thismembershallservefora2yearterm.
+5 (d) One current or former member of a New Hampshire municipal zoning or planning
+6 board, appointed by the New Hampshire Building Officials Association. This member shall serve a
+7 termof3years.
+8 (e) One member withexperience in electrical, plumbing, or engineering as nominated by
+9 AssociatedGeneralContractors.
+10 (f) The commissioner of the New Hampshire department of labor or their designee as a
+11 permanentmember.
+12 III. The chief executive officer of the New Hampshire Home Builders Association shall serve
+13 asanon-votingmemberasapermanentmember.
+14 IV. Theboardshall:
+15 (a) Adopt rules in consultation with the RPA under RSA 541-A by the department of
+16 labor for applications, renewals, continuing education, insurance minimums, complaint handling,
+17 investigations,sanctions,advertisingandpermitverification,andRPAperformancemetrics.
+18 (b) Issue, renew, deny, suspend, revoke, or otherwisedisciplineregistrations after notice
+19 andopportunityforhearing.
+20 (c) Oversee the RPA; approve its forms and policies; audit compliance; and require
+21 correctiveaction.
+22 (d) Maintainultimateauthorityoverfinaldisciplinarydecisionsandsanctions.
+23 (e) Establish and adjust fees through rulemaking process for initial registration,
+24 renewal,andotherservicesasnecessarytosupporttheadministrationofthischapter.
+25 310-D:3 RegistrationProgramAdministrator;DesignationandContract.
+26 The board may designate an RPA through a competitive process and shall enter into a written
+27 contractapprovedbythegovernorandcouncil. Thecontractshall:
+28 I. Set measurable performance standards and require annual independent financial and
+29 performanceaudits.
+30 II. Authorizeadministrativefeesasestablishedbyboardrulestocoveroperatingcosts.
+31 III. Require annual reporting, secure data access for the board, and cooperation with the
+32 departmentoflaborandtheofficeoftheattorneygeneral.
+33 IV. Mandateethicspoliciesandcompliancewithprivacyandrecords-retentionstandards.
+34 V. Provideremediesforbreach,includingsuspensionorterminationforcause.
+35 310-D:4 ApplicabilityandRegistrationRequirements.
+
+SB523-FN-ASINTRODUCED
+-Page3-
+1 I. The provisions of this chapter shall apply to all builders and general contractors engaged
+2 in construction-related business on any residential property not owned by the builder/general
+3 contractor(GC),theaggregateannualvolumeofwhichis$5,000ormore.
+4 II. Thischaptershallnotapplytoanyindividualalreadyrequiredtobelicensedpursuantto
+5 existingstatelawandworkingunderthescopeoftheirlicense.
+6 III. This chapter shall apply when requesting a permit from a New Hampshire municipality
+7 onanon-builder/GCownedorbuilder/GCoccupiedstructure.
+8 IV. Registrationapplicationrequirementsshallinclude:
+9 (a) The business name and principal place of business, together with the owner's legal
+10 name, phone number, email address, physical address, and mailing address. This shall include all
+11 other legal entities qualifying for registration under the owner's name and responsibility. While
+12 companies may be held under a limited liability corporation (LLC), the name of the person
+13 responsible for its legal filing, creation, and performance of duties shall be registered along the LLC
+14 nameasa“doingbusinessas”("dba").
+15 (b) Owner'ssocialsecuritynumber,orindividualtaxpayeridentificationnumber.
+16 (c) Proof of current liability and workers' compensation insurance conforming to state
+17 standards.
+18 (d) Certification of successful completion of an approved education program of not less
+19 than8hours.
+20 (e) Paymentofinitialregistrationfeeasestablishedbyboardrules.
+21 (f) Asuretybondintheamountofnolessthan$50,000.
+22 (g) Astatementofanybankruptcyfilingwithinthelast7years.
+23 (h) Documentation of any applicable out of state registration or licensing to conduct
+24 residentialbuildingconstruction,remodeling,and/orrenovation.
+25 310-D:5 DutiesoftheRPA.
+26 TheRPA'sdutiesshallbeto:
+27 I. Offerrecommendationsontherulestothedepartmentoflaborforboardapproval.
+28 II. Develop and operate an online application and renewal portal; verify identity, insurance,
+29 andcontinuingeducation;issueregistrationnumbersonceapprovedbytheboardorunderdelegated
+30 ministerialauthority.
+31 III. Maintain a public registry showing business name, registration status, and insurance
+32 effectivedates,excludingpersonalidentifyinginformation.
+33 IV. Managecontinuing-educationapprovalsandrosters;transmitcompletionstotheboard.
+34 V. Work with the secretary of state’s office to include an online reminder in the secretary of
+35 state’s business name filing system stating: “RSA 310-D:4 requires you to register your residential
+36 construction/remodeling business with the department of labor at [insert website address]” or
+37 similardepartmentoflaborapprovedlanguage.
+
+SB523-FN-ASINTRODUCED
+-Page4-
+1 VI. Complaintintakeandearlyresolution:
+2 (a) Receive consumer and municipal complaints; conduct pre-hearing investigation; offer
+3 mediation; request records; and prepare a written report with a probable cause recommendation to
+4 theboard'sdisciplinaryunit.
+5 (b) In emergencies implicating safety of lives, make an immediate referral to the board
+6 forinterimsuspensionconsiderationandnotifythelocalbuildingofficial.
+7 (c) Maintainconfidentialityofinvestigativefilesuntiltheboardvotesonprobablecause,
+8 consistentwithboardrules.
+9 VII. Provideaninternalreviewandappealmechanismforadministrativedenials.
+10 310-D:6 ContinuingEducationandRenewal.
+11 I. Each registration issued under this chapter shall remain valid for a period of 2 years,
+12 afterwhichrenewalisrequired.
+13 II. Renewalshallbeconditioneduponsubmissionof:
+14 (a) Documentation evidencing completion of not less than 8 hours of continuing
+15 education provided in approved programs including at least 2 hours of "building code update"
+16 classes. The “building code update” class shall be mandatory for each new and renewing
+17 registration.
+18 (b) Updatedevidenceofcurrentliabilityandworkers'compensationinsurance.
+19 (c) Paymentofbiennialrenewalfeeasestablishedbyboardrules.
+20 (d) Anyadditionalinformationasmayberequiredbytheboard.
+21 III. Failure to satisfy the continuing education requirement within the prescribed time
+22 period shall result in administrative penalties, including possible suspension of registration until
+23 suchdeficiencyisremedieduptoandincludingpossiblecriminalproceedings.
+24 310-D:7 Enforcement;CriminalPenalties.
+25 I. Unregisteredpractice;failuretomaintaininsurance;falsification;violationofthischapter
+26 orrules;andnoncompliancewithboardordersaregroundsfordiscipline.
+27 II. The board may impose fines up to $5,000 per violation and up to $500 per day for
+28 continuing violations, order restitution as appropriate, and require additional education, suspend,
+29 revoke,orrefuserenewal.
+30 III. Any applicant or registrant who willfully violates any provision of this chapter,
+31 including by falsification of documents, shall be subject to criminal prosecution. Such offense shall
+32 be a class B felony punishable by imprisonment for a period not to exceed 5 years and by additional
+33 finesasprovidedbylaw.
+34 IV. Theboardmayseekinjunctivereliefinsuperiorcourt.
+35 V. ProceedingsshallbegovernedbyRSA541-A,withappealsunderRSA541.
+36 310-D:8 MunicipalPermits.
+
+SB523-FN-ASINTRODUCED
+-Page5-
+1 No municipality shall issue a permit for covered work unless the applicant lists a valid
+2 registrationnumber,whichtheRPAandboardshallmakeavailableforinstantonlineverification.
+3 310-D:9 Advertising,VehicleIdentification,andContractualDisclosureRequirements.
+4 I. Every builder or general contractor registered under this chapter shall, as a condition of
+5 doingbusiness:
+6 (a) Clearly display the official registration number on all company vehicles used in the
+7 conductofbusiness.
+8 (b) Conspicuously include the official registration number on all marketing materials
+9 and advertisements, whether distributed in print, broadcast, digital, or via any other medium. Font
+10 sizeanddisplayrequirementsshallbeestablishedbyrulesadoptedbytheboard.
+11 (c) Incorporate the official registration number into any contract, written or electronic,
+12 enteredintowithaconsumerfortheprovisionofconstruction-relatedservices.
+13 (d) Incorporate the official registration number into any written or electronic estimate
+14 providedtotheconsumerforthepossibleprovidingofconstruction-relatedservices.
+15 II. Any advertisement or contract failing to meet the requirements of this section shall be
+16 deemednoncompliantwiththeprovisionsof thischapterand subjecttotheenforcementand penalty
+17 provisionssetforthherein.
+18 310-D:10 BuilderRegistrationFund.
+19 There is established a non-lapsing dedicated fund for fees, fines, and settlements. The board,
+20 through the department of labor, shall pay the RPA from this fund according to the contracted
+21 administrativefeestructureasestablishedbyboardrules.
+22 310-D:11 Rulemaking.
+23 The board shall adopt rules under RSA 541-A to implement this chapter, including but not
+24 limitedto:
+25 I. Feeschedulesforinitialregistration,renewal,andotherservices.
+26 II. RPAperformancemetricsandauditstandards.
+27 III. Data-sharingprotocolsandregistryformat.
+28 IV. Complainttimelinesandmediationprocedures.
+29 V. Advertisingandvehicleidentificationdisplayrequirements.
+30 VI. Insuranceminimumrequirementsandstandards.
+31 VII. Educationprogramapprovalcriteriaandcontinuingeducationrequirements.
+32 2 New Subparagraph; Application of Receipts; Builder Registration Fund. Amend RSA 6:12,
+33 I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraph:
+34 (411) Moneys deposited in the builder registration fund as established in RSA 310-
+35 D:10.
+36 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2028.
+
+LBA
+26-2153
+11/18/25
+SB523-FN-FISCALNOTE
+ASINTRODUCED
+ANACT establishingtheregistrationandoversightofbuilders.
+FISCALIMPACT: Thisbilldoesnotprovidefunding.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Increase Increase
+RevenueFund(s) BuilderRegistrationFund
+Indeterminable Indeterminable
+Expenditures* $0 $0
+Increase Increase
+FundingSource(s) BuilderRegistrationFundandGeneralFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable
+METHODOLOGY:
+This bill establishes a Board of Builder Registration, administratively attached to the
+Department of Labor to regulate residential builders and general contractors. The Board will
+oversee builder registration, continuing education, insurance requirements, and enforcement
+actions. It also establishes a Builder Registration Fund for fee and penalty revenue to support
+boardoperations.
+The Department of Labor states that its role will be limited to participation in rulemaking and
+consultation with the Board and the Registration Program Administrator. The Department
+anticipates its direct agency costs to be minimal and can be absorbed into their current budget.
+However, the bill requires the newly created Board to contract with a nonprofit Registration
+
+Program Administrator that will develop and operate the registration portal, verify insurance
+and continuing education, process applications, manage complaint intake, conduct early
+investigations, and provide administrative support to the Board. All operating costs for the
+Board and the Registration Program Administrator must be paid from the new established
+Builder Registration Fund. It is unclear how start up and initial implementation costs will be
+covered prior to the collection of fees, and the Department notes it does not have funds budgeted
+for these activities. As a result, state expenditures associated with establishing and operating
+the new Board and supporting the contracted Registration Program Administrator are
+indeterminable.
+The Department of Labor also states the bill authorizes the Board to establish and collect initial
+registration fees, renewal fees, administrative fees, and civil penalties of up to $5,000 per
+violation and $500 per day for continuing violations. These revenues will be deposited into the
+newly created Builder Registration Fund. Because the number of builders who will be required
+to register is unknown and fee levels will be set through future rulemaking, the amount of
+anticipatedrevenuecannotbeestimatedatthistime.
+Lastly,thisbilladds,deletes,ormodifiesacriminalpenalty,orchangesstatutetowhichthereis
+a penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Labor, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+
+[DELETED: B5N-ASI6SEBNATegternadotofb:S.W,Dt8;S.P,Dt1;S.I,Dt7;S.W,Dt4.A,Dt2:Csblesabdofbrr,ayadtotedfl.Tsblrsternofadssryrsfrcnbdglcsedincdbsonayrlp-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATegternadotofbeitEdbyteSeadHeofRsinGlCtc1NwC;B.AdRAbyigarcr3CtefgncCR3B31D.IntscI.""mstebdofbrr,ayadtoteNHedtoflI."npma"or""msaNwHenonqdursn5,rdwhtedrofcet,a0urctwhtebdtoartscrinaewhbdr1I.""msayi,p,orldlycyedint2bsofc,r,r,ororsrasonrlb3ttaentoerdtohdapllewnteseofNwH4I."db"mstepgofc,r5r,orrrssfrcnonpyntddbytea6V."denp"msaceorssofc,tgntlst78hsofincgcns,bgc,adplb8p,adbytebdurtsc9V."ge"msalinpdbyanadp0asrdfrteblrlofr1V.""msteilm,a,orcto2aymlftinayanorsgdnsdurtsc332BdE;PsadD;C4I.TeisedtebdofbrrnwnteNwH5dtofl6I.Tebdslctof8m7()TemsofteNwHeHeBsAnwhatlt8ysofaeeeinrlc,adbyteNwHeH9BsA.Oemrslsea4yrt,arfra3yrtmadtet0fra2yrt]
+[DELETED: B5N-ASIPe2()Oemroftebgcerwb,adbytecroftebcerwb.Tspnslsefra3yrt()OemrofaNwHecrayo,adbytg.Tsmrslsefra2yrt()OectorfrmrofaNwHemlzgorpb,adbyteNwHeBgOsA.Tsmrslsetmof3y()Oemrwheeine,p,oregasndbAdGlC0()TecrofteNwHedtoflrortrdeas1ptm2I.TecfeeorofteNwHeHeBsAnsls3asangmrasaptm4I.Tebds5()AtrsincnwhteRAurRA5Abytedto6lrfra,r,cge,iem,cth7i,s,agadptv,adRApem8()I,r,d,s,r,oroedersarn9adoyfrh0()OeteR;aeisfsadp;atc;adr1cea2()Mnueayorfldydsads3()Ehadatfsthrgpsfrilr4r,adorssasnytostteanoftsc533RnPmA;DnadC6TebdmydeanRAthacepsadslerioaw7ctadbytegradc.Tects8I.Stmepessadrealitfla9pea0I.Aeaefsasedbybdrstocrogc1I.Realr,sedaasfrteb,adcnwht2dtoflradteoeofteayg3I.Meespsadcewhpyadrns4V.Persfrb,igsnortnfrc534AyadRnR]
+[DELETED: B5N-ASIPe3I.Tepsoftscrslaytoalbsadglcseincdbsonayrlpyntodbytebcr(,teaealveofwhis$0ormI.TscrslntaytoayilayrdtobeldpttegselwadwgurteseoftrlI.TscrslaywnrgaptfmaNwHemonanCodorbCodsI.Rnanrssli()Tebsneadplpeofb,trwhteosl0n,pen,ela,pla,admga.Tssliea1orllesqgfrrnurteosneadr.W2csmybehduraldlycn(,teneoftep3refrisllf,c,adpeofdsslberdagteL4neasa“gbsa”(5()Osslsyn,oriltrinn6()Pfofctlyadw'cniecgtos7s8()Cnofslcnofanadenpmofntl9tn8h0()Ptofilrnfeasedbybdr1()Asybdinteatofnolstn$2()Astofaybyfgwntelt7y3()Dnofayaeotofsernorlgtoc4rlbgc,r,arr535DsofteR6TeRsdsslbet7I.Orrsonterstotedtoflrfrbda8I.Dpadoeanoeanadrlp;vyi,i9adcge;iernnsoeadbytebdorurd0mla1I.Mnapcrysgbsn,rns,adi2eed,egpligi3I.Mecnasadr;ttcstoteb4V.Wkwhtesyofssoetoieanoerrintesyo5ssbsnefgsms:“A34rsyutorryrr6cgbswhtedtoflrat[twea”o7srdtoflradl]
+[DELETED: B5N-ASIPe4V.Ctieadeyr()Recradmlc;ctpgi;om;rtr;adpeawnrtwhapecernttebsdyu()Inesigsyofl,meanierltotebfrimsncnadnytellbgo()MncyofiefsultebdvsonpecctwhbdrV.Peanilrwadalmmfraed036CgEnadR1I.Ehrnidurtscrslrnvdfrapdof2y2arwhrlisr3I.Rlslbecdunsno4()Dnegcnofntlstn8hsofc5enpdinadpsigatlt2hsof"gceu6c.Te“gceu”csslbemyfrehnwadr7r8()Udeeofctlyadw'cni9()Ptofblrlfeasedbybdr0()Ayalinasmyberdbyteb1I.Fetosytecgenrtwntepdt2pdslrtinaep,igpesnofrnu3shdyisrduptoadigpeclp437E;ClP5I.Udp;fetomni;f;vnoftsc6orr;adnewhbdosaegsfrd7I.Tebdmyiefsupto$0prvnadupto$0prdyf8cgv,orrnasa,adreale,s9r,orrer0I.Ayatorrtwowyvsaypnoftsc1igbyfnofd,slbesttoclp.Shoes2beacsBfypebyitfrapdnttoed5ysadbya3fsaspdbyl4I.Tebdmyskierfinsrc5V.PsslbegdbyRA5,whasurRA5638MlP]
+[DELETED: B5N-ASIPe5Nomyslieaptfrcdwkusteatlsavrnn,whteRAadbdslmeaefritoev39A,VeI,adClDeRI.Eybrorglcrrdurtscrs,asacnodgb()Cydyteolrnnronalcyvsudintctofb()Cyieteolrnnronalmgmada,wrddinp,b,d,orvaayorm.F0seaddyrsslbeedbyrsadbyteb1()Ieteolrnnrioayc,wnore2ediowhacrfrtepnofcds3()Ieteolrnnrioaywnorece4pdtotecrfrtepepgofcds5I.Ayatorctfgtomttersoftssnslb6ddntwhtepsoftscradsttoteetadp7psstfhh830BrRnF9Teisedangddfdfrf,f,ads.Teb0thtedtofl,slpyteRAfmtsfdagtotec1aefeseasedbybdr231R3TebdslatrsurRA5Atoittsc,igbtn4ldt5I.Fessfrilr,r,adors6I.RApemsadats7I.Dgpsadryf8I.Cttsadmnp9V.Agadveindyr0V.Iemmrsads1V.Enpmalcaadcgenr22NwS;AnofR;BrRnF.AdRA63I)byigarsh()tefgnws4()MsddintebrrnfdasedinRA35D63EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATegternadotofbLI:TsbldsntpefdSeIY26FY27FY28FY20$eIeIeFrRnF0$eIeIgSrRnFdadGlF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IlR0$0$0$lE0IsblesaBdofBrR,ayadtottofLrtorerlbsadglc.TeBdwebrr,cge,ier,ade.ItaoesaBrRnFdfrfeadpyretosdoeDtofLrssttisrewlbeldtopninrganwhteBdadteRnPmA.TeDsisdtaycstobemladcnbeadiotrctb,teblrstenycdBdtoctwhantR]
+[DELETED: mArttwldpadoeternp,vyidcge,psa,mecti,cte,adpeaesttoteB.AlogcsfrtdadteRnPmArmtbepdfmtenwerRnF.Itisurhwstupadilincswlbdprtotecnoff,adteDtnsitdsnthefsbrtea.Asar,seesadwhegadoenwBdadsgtecdRnPmAraeDtofLraossteblasteBdtoehadctinf,rlf,aef,adclpsofupto$0pnad$0prdyfrcgv.TerswlbeddiotycdBrRnF.Betenrofbswowlberorrisunadfelswlbestthfer,teatodrectbeedattst,tsbla,d,ormsaclp,orcssetowhteipyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSCtofL,JlB,JlC,DtofJ,Dto,NwHeAnofC,adNwHeM]

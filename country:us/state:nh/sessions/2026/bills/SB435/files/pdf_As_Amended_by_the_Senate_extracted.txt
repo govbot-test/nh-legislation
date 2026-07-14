@@ -1,0 +1,130 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB435-ASAMENDEDBYTHESENATE
+02/19/2026 0499s
+2026SESSION
+26-2218
+06/08
+435
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Gannon, Dist 23; Sen. Sullivan, Dist 18; Sen. Birdsell,
+Dist19;Sen.Innis,Dist7;Sen.Murphy,Dist16
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill clarifies the zoning board's authority regarding unreasonable restrictions in variance
+requests.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB435-ASAMENDEDBYTHESENATE
+02/19/2026 0499s 26-2218
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Powers of Zoning Board of Adjustment. RSA 674:33, I is repealed and reenacted to read as
+2 follows:
+3 I.(a) Thezoningboardofadjustmentshallhavethepowerto:
+4 (1) Hear and decide appeals if it is alleged there is error in any order, requirement,
+5 decision, or determination made by an administrative official in the enforcement of any zoning
+6 ordinanceadoptedpursuanttoRSA674:16;and
+7 (2) Authorize, upon appeal in specific cases, a variance from the terms of the zoning
+8 ordinanceif:
+9 (A) Thevariancewillnotbecontrarytothepublicinterest;
+10 (B) Thespiritoftheordinanceisobserved;
+11 (C) Substantialjusticeisdone;
+12 (D) Thevaluesofsurroundingpropertiesarenotdiminished;and
+13 (E) Literal enforcement of the provisions of the ordinance would result in an
+14 unreasonablerestrictionontheuseoftheproperty.
+15 (b)(1) For purposes of subparagraph I(a)(2)(E), "unreasonable restriction" means that,
+16 duetospecialconditionsofthepropertythatdistinguishitfromotherpropertiesinthearea,either:
+17 (A) The proposed use is a reasonable one, and applying the restriction in the
+18 ordinance to the property does not substantially serve the general public purposes of the restriction;
+19 or
+20 (B) The property cannot reasonably be used in strict compliance with the
+21 ordinance.
+22 (2) The definition of "unreasonable restriction" set forth in subparagraph (1) shall
+23 apply whether the provision of the ordinance from which a variance is sought is a restriction on use,
+24 adimensionalorotherlimitationonapermitteduse,oranyotherrequirementoftheordinance.
+25 (c) The board shall use one voting method consistently for all applications until it
+26 formally votes to change the method. Any change in the board's voting method shall not take effect
+27 until 60 days after the board has voted to adopt such change and shall apply only prospectively, and
+28 nottoanyapplicationthathasbeenfiledandremainspendingatthetimeofthechange.
+29 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B45-ASADBYTES606SEBNATretotezgbdofatvec:S.A,Dt2;S.G,Dt2;S.S,Dt1;S.Bt1;S.I,Dt7;S.M,Dt1:EnLwadMlADAsblcstezgbsayrguersinv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B45-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotezgbdofatveceitEdbyteSeadHeofRsinGlCtc1PsofZgBdofA.RA6,IisrdadrdtordafI)Tezgbdofatslheteprt()Hraddeasifitisadteiserinayo,rd,ordnmebyanaeolinteetofayzoeadpttoRA6;a()A,unalinscc,avefmtetsoftezoei()Tevewlntbecytotepci0()Testofteoeiso1()Sljeisd2()Tevsofsgpsaentd;a3()Lletoftepsofteoewdrtina4uernonteueoftep5()FrpsofshI,"er"mst6detoslcsoftepyttdhitfmorpsintea,e7()Tepdueisareo,adagternint8oetotepydsntsyseteglpcpsofter9o0()Tepyctrybeudinstcewht1o2()Tednof"er"stfhinsh()s3aywrtepnofteoefmwhaveisstisarnonu4adlororlnonapdu,orayorrtofteo5()Tebdslueoevgmdcyfralasuli6fyvstocetem.Ayceintebsvgmdslnttee7ul60dsartebdhsvdtoatshceadslayoyp,a8nttoayantthsbnfdadrspgatteteoftec92EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB435-ASAMENDEDBYTHESENATE
+02/19/2026 0499s
+2026SESSION
+26-2218
+06/08
+435
+SENATEBILL
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+SPONSORS: Sen. Abbas, Dist 22; Sen. Gannon, Dist 23; Sen. Sullivan, Dist 18; Sen. Birdsell,
+Dist19;Sen.Innis,Dist7;Sen.Murphy,Dist16
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill clarifies the zoning board's authority regarding unreasonable restrictions in variance
+requests.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB435-ASAMENDEDBYTHESENATE
+02/19/2026 0499s 26-2218
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetothezoningboardofadjustmentvariancecriteria.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Powers of Zoning Board of Adjustment. RSA 674:33, I is repealed and reenacted to read as
+2 follows:
+3 I.(a) Thezoningboardofadjustmentshallhavethepowerto:
+4 (1) Hear and decide appeals if it is alleged there is error in any order, requirement,
+5 decision, or determination made by an administrative official in the enforcement of any zoning
+6 ordinanceadoptedpursuanttoRSA674:16;and
+7 (2) Authorize, upon appeal in specific cases, a variance from the terms of the zoning
+8 ordinanceif:
+9 (A) Thevariancewillnotbecontrarytothepublicinterest;
+10 (B) Thespiritoftheordinanceisobserved;
+11 (C) Substantialjusticeisdone;
+12 (D) Thevaluesofsurroundingpropertiesarenotdiminished;and
+13 (E) Literal enforcement of the provisions of the ordinance would result in an
+14 unreasonablerestrictionontheuseoftheproperty.
+15 (b)(1) For purposes of subparagraph I(a)(2)(E), "unreasonable restriction" means that,
+16 duetospecialconditionsofthepropertythatdistinguishitfromotherpropertiesinthearea,either:
+17 (A) The proposed use is a reasonable one, and applying the restriction in the
+18 ordinance to the property does not substantially serve the general public purposes of the restriction;
+19 or
+20 (B) The property cannot reasonably be used in strict compliance with the
+21 ordinance.
+22 (2) The definition of "unreasonable restriction" set forth in subparagraph (1) shall
+23 apply whether the provision of the ordinance from which a variance is sought is a restriction on use,
+24 adimensionalorotherlimitationonapermitteduse,oranyotherrequirementoftheordinance.
+25 (c) The board shall use one voting method consistently for all applications until it
+26 formally votes to change the method. Any change in the board's voting method shall not take effect
+27 until 60 days after the board has voted to adopt such change and shall apply only prospectively, and
+28 nottoanyapplicationthathasbeenfiledandremainspendingatthetimeofthechange.
+29 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B45-ASADBYTES606SEBNATretotezgbdofatvec:S.A,Dt2;S.G,Dt2;S.S,Dt1;S.Bt1;S.I,Dt7;S.M,Dt1:EnLwadMlADAsblcstezgbsayrguersinv-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B45-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATretotezgbdofatveceitEdbyteSeadHeofRsinGlCtc1PsofZgBdofA.RA6,IisrdadrdtordafI)Tezgbdofatslheteprt()Hraddeasifitisadteiserinayo,rd,ordnmebyanaeolinteetofayzoeadpttoRA6;a()A,unalinscc,avefmtetsoftezoei()Tevewlntbecytotepci0()Testofteoeiso1()Sljeisd2()Tevsofsgpsaentd;a3()Lletoftepsofteoewdrtina4uernonteueoftep5()FrpsofshI,"er"mst6detoslcsoftepyttdhitfmorpsintea,e7()Tepdueisareo,adagternint8oetotepydsntsyseteglpcpsofter9o0()Tepyctrybeudinstcewht1o2()Tednof"er"stfhinsh()s3aywrtepnofteoefmwhaveisstisarnonu4adlororlnonapdu,orayorrtofteo5()Tebdslueoevgmdcyfralasuli6fyvstocetem.Ayceintebsvgmdslnttee7ul60dsartebdhsvdtoatshceadslayoyp,a8nttoayantthsbnfdadrspgatteteoftec92EeD.Tsatslteet60dsarisp]

@@ -1,0 +1,248 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER26
+SB620-FN-FINALVERSION
+01/29/2026 0130s
+9Apr2026...1229h
+2026SESSION
+26-2179
+09/06
+620-FN
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+SPONSORS: Sen.Gannon,Dist23;Sen. Pearl,Dist17;Sen.Watters, Dist4;Sen.Fenton,Dist 10;
+Sen. Birdsell, Dist 19; Rep. Bernardy, Rock. 36; Rep. M. Pearson, Rock. 34; Rep. L.
+Walsh,Rock.15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies periods of suspension under different circumstances stemming from a refusal of
+consent to testing to determine alcohol concentration. This bill further modifies the penalties for
+aggravateddrivingwhileintoxicated.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER26
+SB620-FN-FINALVERSION
+01/29/2026 0130s
+9Apr2026...1229h 26-2179
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 26:1 Driving or Operating Under the Influence of Drugs or Liquor; Refusal of Consent. Amend RSA
+2 265-A:14,IthroughIItoreadasfollows:
+3 I. IfapersonunderarrestforanyviolationormisdemeanorunderRSA265orRSA215-Arefuses
+4 upon the request of a law enforcement officer, authorized agent, or peace officer to submit to physical
+5 testsortoatestofblood,urine,orbreathdesignatedbythelawenforcementofficer,authorizedagent,or
+6 peaceofficertoasprovidedinRSA265-A:4,noneshallbegiven,but:
+7 (a) If this is the first refusal with no prior driving or operating while intoxicated or aggravated
+8 drivingoroperatingwhileintoxicatedconvictions:
+9 (1) The director shall suspend his or her license to drive or nonresident driving privilege
+10 foraperiodof[180days]9months;or
+11 (2) If the person is a resident without a license or permit to drive a motor vehicle in this
+12 state,thedirectorshall denytothepersontheprivilegetodriveandtheissuanceof alicenseforaperiod
+13 of[180days]9monthsafterthedateoftheallegedviolation.
+14 (b) If the person has [a prior driving or operating while intoxicated or aggravated driving or
+15 operating while intoxicated conviction]oneormorepriorconvictionsunderRSA265-A:2,I,RSA265-A:3,
+16 RSA630:3,II,orunderareasonablyequivalentoffenseinanout-of-statejurisdictionasdefinedinRSA
+17 265-A:18,VI(b)or aprior refusalof consentunder thissectionorunderareasonablyequivalentlawinan
+18 out-of-statejurisdictionasdefinedinRSA265-A:18,VI(b):
+19 (1) The director shall suspend his or her license to drive or nonresident driving privilege
+20 foraperiodof[2]3years;or
+21 (2) If the person is a resident without a license or permit to drive a motor vehicle in this
+22 state,thedirectorshall denytothepersontheprivilegetodriveandtheissuanceof alicenseforaperiod
+23 of[2]3yearsafterthedateoftheallegedviolation.
+24 II. Except as provided in paragraph VI, the [180-day] 9-monthor [2-year] 3-yearsuspension
+25 period or denial of issuance period imposed pursuant to this section shall not run concurrently with any
+26 other penalty imposed under the provision of this title. Any such suspension or denial of a license or
+27 privilege to drive shall be imposed in addition to any other penalty provided by law, subject to review as
+28 providedinRSA265-A:31.
+29 26:2 New Paragraph; Driving or Operating Under the Influence of Drugs or Liquor; Refusal of
+30 Consent. AmendRSA265-A:14byinsertingafterparagraphVIthefollowingnewparagraph:
+CHAPTER26
+SB620-FN-FINALVERSION
+-Page2-
+1 VII. In conjunction with a plea of guilty or nolo contendere to an offense resulting in a conviction
+2 under RSA 265-A:2 or RSA 265-A:3, the court may suspend up to 180 days of the license suspension
+3 imposedpursuanttothissection.
+4 26:3 Driving or Operating Under the Influence of Drugs or Liquor; Penalties for Intoxication or Under
+5 InfluenceofDrugsOffenses. AmendtheintroductoryparagraphinRSA265-A:18,I(b)toreadasfollows:
+6 (b) Any person who is convicted of any aggravated DWI offense under RSA 265-A:3, except
+7 asprovidedinsubparagraph(c)or(d),shallbe:
+8 26:4 New Subparagraph; Driving or Operating Under the Influence of Drugs or Liquor; Penalties for
+9 Intoxication or Under Influence of Drugs Offenses. Amend RSA 265-A:18, I by inserting after
+10 subparagraph(c)thefollowingnewsubparagraph:
+11 (d) AnypersonwhoisconvictedofaggravatedDWIunderRSA265-A:3,IIIshallbe:
+12 (1) GuiltyofaclassAmisdemeanor;
+13 (2) Finednotlessthan$750;
+14 (3) Sentenced to a mandatory sentence of not less than 17 consecutive days in the
+15 countycorrectionalfacility,allofwhichmaybesuspended. Thecourt shallreferthepersontoanIDCMP
+16 to schedule a full substance use disorder evaluation. A condition of the suspension shall be that upon
+17 release from serving any sentence in the county correctional facility, the person shall schedule a
+18 substance use disorder evaluation within 30 days of release, complete the required substance use
+19 disorder evaluation within 60 days of release, and comply with the service plan developed. The IDCMP
+20 shall administer the substance use disorder evaluation and shall develop the service plan from that
+21 substance use disorder evaluation. Any portion of the suspended sentence to the county correctional
+22 facilitymaybeimposedifthedefendantdoesnotcomplywithalloftherequirementsofthissubparagraph
+23 orbecomesnon-compliantwiththeserviceplanduringthesuspensionperiod;
+24 (4) OrderedtoinstallaninterlockdeviceinaccordancewithRSA265-A:36;and
+25 (5) Subjecttothefollowing:
+26 (A) The person's driver's license or privilege to drive shall be revoked for not less
+27 than 18 months and, at the discretion of the court, such revocation may be extended for a period not to
+28 exceed 2 years. Upon confirmation from the IDCMP that the person is in full compliance with the service
+29 plan,thecourtmaysuspendupto6monthsofthissentence,withtheconditionthataninterlockdevicebe
+30 installed for the period of the suspended sentence in addition to any period required in accordance with
+31 RSA265-A:36andprovidedthatallfeeshavebeenpaid;and
+32 (B) The sentencing court may require the person to submit to random urinalysis or
+33 suchothertestsasthecourtmaydeemappropriate.
+34 26:5 NewParagraph;DrivingorOperatingUndertheInfluenceofDrugsorLiquor;Penalties. Amend
+35 RSA265-A:18byinsertingafterparagraphVIIthefollowingnewparagraph:
+36 VII-a. Ifaperson'slicenseorprivilegetodriveisrevokedunderthissection,suchrevocationshall
+37 run consecutively to any administrative suspension or revocation imposed by the department of safety
+38 pursuanttothischapter.
+39 26:6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+CHAPTER26
+SB620-FN-FINALVERSION
+-Page3-
+Approved:April20,2026
+EffectiveDate:January01,2027
+[DELETED: R2B6N-FLV60.16SEBNATretorlofcttotgtodealcnasfraddgwei:S.G,Dt2;S.P,Dt1;S.W,Dt4;S.F,Dt1.B,Dt1;R.B,R.3;R.M.P,R.3;R.L,R.1:Jsblmspsofsnurdtcssgfmarlottotgtodealc.Tsblfrmstepsfddgwei-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R2B6N-FLV60.1h2EOFNWHNATretorlofcttotgtodealcnasfraddgwei21DgorOgUrteIeofDsorL;RlofC.AdR2,IthIItordasfI.IfapnuratfrayvnormrurRA25orRA2Aruntertofalweto,ada,orpeortosttoptsortoattofb,u,orbhddbytelweto,ada,opeortoaspdinRA2,neslbeg,b()Iftsisteftrlwhnoprdgorogweidoradgorogweidc()Tedrslsdhsorhrletodeorntdgp0frapdof[0d;o1()Iftepnisartwtaleorpttodeamrveint2s,tedrsldytotepntepetodeadteieofalefrap3of[0drtedeofteadv4()Iftepnhs[aprdgorogweidoraddgo5ogweidc]o6R72raprrlofcturtssno8o9()Tedrslsdhsorhrletodeorntdgp0frapdof[;o1()Iftepnisartwtaleorpttodeamrveint2s,tedrsldytotepntepetodeadteieofalefrap3of[sartedeofteadv4I.EtaspdinphV,te[]9r[]3rs5pdordlofiepdidpttotssnslntrncywha6orpyidurtepnoftst.Ayshsnordlofaleo7petodeslbeidinantoayorpypdbyl,sttorwa8pdinRA2922NwP;DgorOgUrteIeofDsorL;Rlo0C.AdRA24byigarphVItefgnwp]
+[DELETED: R2B6N-FLVPe2V.IncnwhapaofgyornocetoanoerginacurRA22orRA2,tectmysdupto10dsoftelesidpttotss23DgorOgUrteIeofDsorL;PsfrInorUIeofDsO.AdteiyphinRA2,I)tordasf()AypnwoiscdofayadDIoeurRA2,easpdinsh(,slb24NwS;DgorOgUrteIeofDsorL;PsfInorUrIeofDsO.AdRA2,Ibyiga0sh()tefgnws1()AypnwoiscdofadDIurRA2,IIslb2()GyofacsAm3()Fdntlstn$4()Sdtoamyseofntlstn17cedsint5cyclf,alofwhmybes.TectslrrtepntoanI6toseaflseuedre.Acnoftesnslbettu7refmsgayseintecyclf,tepnslse8seuedrenwn30dsofr,ceterdseu9drenwn60dsofr,adcywhtesepnd.TeI0slarteseuedrenadsldptesepnfmt1seuedre.Aypnoftesdsetotecyc2fymybeidiftedtdsntcywhaloftersoftss3orbsntwhtesepndgtesnp4()OdtoilanikdeinaewhRA2;a5()Sttotef6()Tepsdsleorpetodeslberdfrntl7tn18msa,attednoftec,shrnmybeedfrapdntt8ed2y.UncnfmteIPtttepnisinflcewhtes9p,tectmysdupto6msoftss,whtecnttanikdeb0idfrtepdoftesdseinantoaypdrdinaew1RA26adpdttalfshebnp;a2()Tesgctmyretepntosttormuso3shortsastectmydma425NwP;DgorOgUrteIeofDsorL;P.A5RA28byigarphVItefgnwp6V.Ifapsleorpetodeisrdurtss,shrns7rncytoayaesnorrnidbytedtofs8pttotsc926EeD.TsatslteetJy1,2]
+[DELETED: R2B6N-FLVPe3:Al2,2eD:Jy0,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER26
+SB620-FN-FINALVERSION
+01/29/2026 0130s
+9Apr2026...1229h
+2026SESSION
+26-2179
+09/06
+620-FN
+SENATEBILL
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+SPONSORS: Sen.Gannon,Dist23;Sen. Pearl,Dist17;Sen.Watters, Dist4;Sen.Fenton,Dist 10;
+Sen. Birdsell, Dist 19; Rep. Bernardy, Rock. 36; Rep. M. Pearson, Rock. 34; Rep. L.
+Walsh,Rock.15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill modifies periods of suspension under different circumstances stemming from a refusal of
+consent to testing to determine alcohol concentration. This bill further modifies the penalties for
+aggravateddrivingwhileintoxicated.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER26
+SB620-FN-FINALVERSION
+01/29/2026 0130s
+9Apr2026...1229h 26-2179
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to refusal of consent to testing to determine alcohol concentration and
+penaltiesforaggravateddrivingwhileintoxicated.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 26:1 Driving or Operating Under the Influence of Drugs or Liquor; Refusal of Consent. Amend RSA
+2 265-A:14,IthroughIItoreadasfollows:
+3 I. IfapersonunderarrestforanyviolationormisdemeanorunderRSA265orRSA215-Arefuses
+4 upon the request of a law enforcement officer, authorized agent, or peace officer to submit to physical
+5 testsortoatestofblood,urine,orbreathdesignatedbythelawenforcementofficer,authorizedagent,or
+6 peaceofficertoasprovidedinRSA265-A:4,noneshallbegiven,but:
+7 (a) If this is the first refusal with no prior driving or operating while intoxicated or aggravated
+8 drivingoroperatingwhileintoxicatedconvictions:
+9 (1) The director shall suspend his or her license to drive or nonresident driving privilege
+10 foraperiodof[180days]9months;or
+11 (2) If the person is a resident without a license or permit to drive a motor vehicle in this
+12 state,thedirectorshall denytothepersontheprivilegetodriveandtheissuanceof alicenseforaperiod
+13 of[180days]9monthsafterthedateoftheallegedviolation.
+14 (b) If the person has [a prior driving or operating while intoxicated or aggravated driving or
+15 operating while intoxicated conviction]oneormorepriorconvictionsunderRSA265-A:2,I,RSA265-A:3,
+16 RSA630:3,II,orunderareasonablyequivalentoffenseinanout-of-statejurisdictionasdefinedinRSA
+17 265-A:18,VI(b)or aprior refusalof consentunder thissectionorunderareasonablyequivalentlawinan
+18 out-of-statejurisdictionasdefinedinRSA265-A:18,VI(b):
+19 (1) The director shall suspend his or her license to drive or nonresident driving privilege
+20 foraperiodof[2]3years;or
+21 (2) If the person is a resident without a license or permit to drive a motor vehicle in this
+22 state,thedirectorshall denytothepersontheprivilegetodriveandtheissuanceof alicenseforaperiod
+23 of[2]3yearsafterthedateoftheallegedviolation.
+24 II. Except as provided in paragraph VI, the [180-day] 9-monthor [2-year] 3-yearsuspension
+25 period or denial of issuance period imposed pursuant to this section shall not run concurrently with any
+26 other penalty imposed under the provision of this title. Any such suspension or denial of a license or
+27 privilege to drive shall be imposed in addition to any other penalty provided by law, subject to review as
+28 providedinRSA265-A:31.
+29 26:2 New Paragraph; Driving or Operating Under the Influence of Drugs or Liquor; Refusal of
+30 Consent. AmendRSA265-A:14byinsertingafterparagraphVIthefollowingnewparagraph:
+
+CHAPTER26
+SB620-FN-FINALVERSION
+-Page2-
+1 VII. In conjunction with a plea of guilty or nolo contendere to an offense resulting in a conviction
+2 under RSA 265-A:2 or RSA 265-A:3, the court may suspend up to 180 days of the license suspension
+3 imposedpursuanttothissection.
+4 26:3 Driving or Operating Under the Influence of Drugs or Liquor; Penalties for Intoxication or Under
+5 InfluenceofDrugsOffenses. AmendtheintroductoryparagraphinRSA265-A:18,I(b)toreadasfollows:
+6 (b) Any person who is convicted of any aggravated DWI offense under RSA 265-A:3, except
+7 asprovidedinsubparagraph(c)or(d),shallbe:
+8 26:4 New Subparagraph; Driving or Operating Under the Influence of Drugs or Liquor; Penalties for
+9 Intoxication or Under Influence of Drugs Offenses. Amend RSA 265-A:18, I by inserting after
+10 subparagraph(c)thefollowingnewsubparagraph:
+11 (d) AnypersonwhoisconvictedofaggravatedDWIunderRSA265-A:3,IIIshallbe:
+12 (1) GuiltyofaclassAmisdemeanor;
+13 (2) Finednotlessthan$750;
+14 (3) Sentenced to a mandatory sentence of not less than 17 consecutive days in the
+15 countycorrectionalfacility,allofwhichmaybesuspended. Thecourt shallreferthepersontoanIDCMP
+16 to schedule a full substance use disorder evaluation. A condition of the suspension shall be that upon
+17 release from serving any sentence in the county correctional facility, the person shall schedule a
+18 substance use disorder evaluation within 30 days of release, complete the required substance use
+19 disorder evaluation within 60 days of release, and comply with the service plan developed. The IDCMP
+20 shall administer the substance use disorder evaluation and shall develop the service plan from that
+21 substance use disorder evaluation. Any portion of the suspended sentence to the county correctional
+22 facilitymaybeimposedifthedefendantdoesnotcomplywithalloftherequirementsofthissubparagraph
+23 orbecomesnon-compliantwiththeserviceplanduringthesuspensionperiod;
+24 (4) OrderedtoinstallaninterlockdeviceinaccordancewithRSA265-A:36;and
+25 (5) Subjecttothefollowing:
+26 (A) The person's driver's license or privilege to drive shall be revoked for not less
+27 than 18 months and, at the discretion of the court, such revocation may be extended for a period not to
+28 exceed 2 years. Upon confirmation from the IDCMP that the person is in full compliance with the service
+29 plan,thecourtmaysuspendupto6monthsofthissentence,withtheconditionthataninterlockdevicebe
+30 installed for the period of the suspended sentence in addition to any period required in accordance with
+31 RSA265-A:36andprovidedthatallfeeshavebeenpaid;and
+32 (B) The sentencing court may require the person to submit to random urinalysis or
+33 suchothertestsasthecourtmaydeemappropriate.
+34 26:5 NewParagraph;DrivingorOperatingUndertheInfluenceofDrugsorLiquor;Penalties. Amend
+35 RSA265-A:18byinsertingafterparagraphVIIthefollowingnewparagraph:
+36 VII-a. Ifaperson'slicenseorprivilegetodriveisrevokedunderthissection,suchrevocationshall
+37 run consecutively to any administrative suspension or revocation imposed by the department of safety
+38 pursuanttothischapter.
+39 26:6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+CHAPTER26
+SB620-FN-FINALVERSION
+-Page3-
+Approved:April20,2026
+EffectiveDate:January01,2027
+
+[DELETED: R2B6N-FLV60.16SEBNATretorlofcttotgtodealcnasfraddgwei:S.G,Dt2;S.P,Dt1;S.W,Dt4;S.F,Dt1.B,Dt1;R.B,R.3;R.M.P,R.3;R.L,R.1:Jsblmspsofsnurdtcssgfmarlottotgtodealc.Tsblfrmstepsfddgwei-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R2B6N-FLV60.1h2EOFNWHNATretorlofcttotgtodealcnasfraddgwei21DgorOgUrteIeofDsorL;RlofC.AdR2,IthIItordasfI.IfapnuratfrayvnormrurRA25orRA2Aruntertofalweto,ada,orpeortosttoptsortoattofb,u,orbhddbytelweto,ada,opeortoaspdinRA2,neslbeg,b()Iftsisteftrlwhnoprdgorogweidoradgorogweidc()Tedrslsdhsorhrletodeorntdgp0frapdof[0d;o1()Iftepnisartwtaleorpttodeamrveint2s,tedrsldytotepntepetodeadteieofalefrap3of[0drtedeofteadv4()Iftepnhs[aprdgorogweidoraddgo5ogweidc]o6R72raprrlofcturtssno8o9()Tedrslsdhsorhrletodeorntdgp0frapdof[;o1()Iftepnisartwtaleorpttodeamrveint2s,tedrsldytotepntepetodeadteieofalefrap3of[sartedeofteadv4I.EtaspdinphV,te[]9r[]3rs5pdordlofiepdidpttotssnslntrncywha6orpyidurtepnoftst.Ayshsnordlofaleo7petodeslbeidinantoayorpypdbyl,sttorwa8pdinRA2922NwP;DgorOgUrteIeofDsorL;Rlo0C.AdRA24byigarphVItefgnwp]
+[DELETED: R2B6N-FLVPe2V.IncnwhapaofgyornocetoanoerginacurRA22orRA2,tectmysdupto10dsoftelesidpttotss23DgorOgUrteIeofDsorL;PsfrInorUIeofDsO.AdteiyphinRA2,I)tordasf()AypnwoiscdofayadDIoeurRA2,easpdinsh(,slb24NwS;DgorOgUrteIeofDsorL;PsfInorUrIeofDsO.AdRA2,Ibyiga0sh()tefgnws1()AypnwoiscdofadDIurRA2,IIslb2()GyofacsAm3()Fdntlstn$4()Sdtoamyseofntlstn17cedsint5cyclf,alofwhmybes.TectslrrtepntoanI6toseaflseuedre.Acnoftesnslbettu7refmsgayseintecyclf,tepnslse8seuedrenwn30dsofr,ceterdseu9drenwn60dsofr,adcywhtesepnd.TeI0slarteseuedrenadsldptesepnfmt1seuedre.Aypnoftesdsetotecyc2fymybeidiftedtdsntcywhaloftersoftss3orbsntwhtesepndgtesnp4()OdtoilanikdeinaewhRA2;a5()Sttotef6()Tepsdsleorpetodeslberdfrntl7tn18msa,attednoftec,shrnmybeedfrapdntt8ed2y.UncnfmteIPtttepnisinflcewhtes9p,tectmysdupto6msoftss,whtecnttanikdeb0idfrtepdoftesdseinantoaypdrdinaew1RA26adpdttalfshebnp;a2()Tesgctmyretepntosttormuso3shortsastectmydma425NwP;DgorOgUrteIeofDsorL;P.A5RA28byigarphVItefgnwp6V.Ifapsleorpetodeisrdurtss,shrns7rncytoayaesnorrnidbytedtofs8pttotsc926EeD.TsatslteetJy1,2]
+[DELETED: R2B6N-FLVPe3:Al2,2eD:Jy0,2]

@@ -1,0 +1,1367 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER185
+SB445-FINALVERSION
+03/26/2026 1126s
+7May2026...1661h
+2026SESSION
+26-2011
+08/06
+445
+ANACT relativetoadjudicativeproceedingswherethereisacouncilorboardwithjurisdiction.
+SPONSORS: Sen.Pearl, Dist 17; Sen. Gannon, Dist 23;Sen. McGough, Dist 11; Rep. Slottje, Hills.
+13;Rep.Thibault,Merr.25
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillchangestheprocessforappealswherethereisacouncilorboardwithjurisdiction.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER185
+SB445-FINALVERSION
+03/26/2026 1126s
+7May2026...1661h 26-2011
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoadjudicativeproceedingswherethereisacouncilorboardwithjurisdiction.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 185:1 CriteriaforDenial;SuspensionorRevocation;Modification. AmendRSA125-C:13,IIandIIIto
+2 readasfollows:
+3 II. The commissioner may suspend or revoke any permit or authorization issued hereunder if[,
+4 followingahearing,]thecommissionerdetermines:
+5 (a) That the permit holder or registrant has committed a violation of this chapter or any rule,
+6 order,orpermitconditionsinforceandapplicabletoit;or
+7 (b) Thatemissionsfromthedeviceornon-TitleVsourcetowhichthepermitapplies,aloneor
+8 in conjunction with other sources of the same pollutants, presents an immediate danger to the public
+9 health.
+10 III. Thecommissioner mayorder modificationof anysourceof air pollutionholdingavalidpermit
+11 issuedunderthischapterintheeventthatthecommissionerdetermines[,followingahearing]:
+12 (a) That the device or non-Title V source to which the permit applies fails to meet existing
+13 emissionlimitsestablishedbystateorfederalruleorregulation;
+14 (b) That the device or non-Title V source is resulting or is reasonably likely to result in a
+15 violationofanairqualitystandardinforce.
+16 185:2 Enforcement. AmendRSA125-C:15,I-btoreadasfollows:
+17 I-b. The commissioner of the department of environmental services[, after notice and hearing
+18 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon
+19 any person who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any
+20 permit, compliance schedule, stop use order, or order of abatement, issued pursuant to this chapter; or
+21 upon any person who makes or certifies a material false statement relative to any document or
+22 information which is required to be submitted to the department pursuant to this chapter or any rule
+23 adopted pursuant to this chapter. [Rehearings and appeals from a decision of the commissioner under
+24 this paragraph shall be in accordance with RSA 541.] Any administrative fine imposed under this
+25 paragraph shall not preclude the imposition of further penalties under this chapter. The proceeds of
+26 administrativefinesimposedpursuanttothisparagraphshallbedepositedinthegeneralfund.
+27 (a) Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordance
+28 withRSA21-O:11,IV[Notice and hearing prior to the imposition of an administrative fine shall be in
+29 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+30 A:16].
+31 (b) Thecommissionershalldeterminefinesbasedonthefollowing:
+CHAPTER185
+SB445-FINALVERSION
+-Page2-
+1 (1) For a minor deviation from a requirement causing minor potential for harm, the fine
+2 shallbenotlessthan$100andnotmorethan$2,000.
+3 (2) For a minor deviation from a requirement causing moderate potential for harm, the
+4 fineshallbenotlessthan$601andnotmorethan$2,500.
+5 (3) For a minor deviation from a requirement causing major potential for harm, the fine
+6 shallbenotlessthan$851andnotmorethan$3,000.
+7 (4) For a moderate deviation from a requirement causing minor potential for harm, the
+8 fineshallbenotlessthan$601andnotmorethan$2,500.
+9 (5) For a moderate deviation from a requirement causing moderate potential for harm,
+10 thefineshallbenotlessthan$851andnotmorethan$3,000.
+11 (6) For a moderate deviation from a requirement causing major potential for harm, the
+12 fineshallbenotlessthan$1,251andnotmorethan$3,500.
+13 (7) For a major deviation from a requirement causing minor potential for harm, the fine
+14 shallbenotlessthan$851andnotmorethan$3,000.
+15 (8) For a major deviation from a requirement causing moderate potential for harm, the
+16 fineshallbenotlessthan$1,251andnotmorethan$3,500.
+17 (9) For a major deviation from a requirement causing major potential for harm, the fine
+18 shallbenotlessthan$1,501andnotmorethan$4,000.
+19 (c) Thecommissionermayassessanadditionalfineforrepeatviolations.
+20 (d) Eachdayofviolationshallconstituteaseparateoffense.
+21 185:3 AdministrativeFines. AmendRSA125-D:4toreadasfollows:
+22 125-D:4 AdministrativeFines.
+23 The commissioner of the department of environmental services[, after notice and hearing pursuant to
+24 RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon any person
+25 who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any permit or
+26 order issued pursuant to this chapter; or upon any person who makes or certifies a material false
+27 statement relative to any document or information which is required to be submitted to the department
+28 pursuant to this chapter or any rule adopted pursuant to this chapter. [Rehearings and appeals from a
+29 decisionofthecommissionerunderthissectionshallbeinaccordancewithRSA541.] Anyadministrative
+30 fine imposed under this section shall not preclude the imposition of further penalties under this chapter.
+31 The proceeds of administrative fines imposed pursuant to this section shall be deposited in the general
+32 fund.
+33 I. Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordancewith
+34 RSA21-O:11,IV [Notice and hearing prior to the imposition of an administrative fine shall be in
+35 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+36 A:16].
+37 II. ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b)and(d).
+38 III. Thecommissionermayassessanadditionalfineforrepeatviolations.
+39 185:4 AdministrativeFines. AmendRSA125-I:3-atoreadasfollows:
+CHAPTER185
+SB445-FINALVERSION
+-Page3-
+1 125-I:3-a AdministrativeFines.
+2 The commissioner of the department of environmental services[, after notice and hearing pursuant to
+3 RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon any person
+4 who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any permit or
+5 order issued pursuant to this chapter; or upon any person who makes or certifies a material false
+6 statement relative to any document or information which is required to be submitted to the department
+7 pursuant to this chapter or any rule adopted pursuant to this chapter. [Rehearings and appeals from a
+8 decisionofthecommissionerunderthissectionshallbeinaccordancewithRSA541.] Anyadministrative
+9 fine imposed under this section shall not preclude the imposition of further penalties under this chapter.
+10 The proceeds of administrative fines imposed pursuant to this section shall be deposited in the general
+11 fund.
+12 I. Appealsfromadecisionofthecommissionerunderthissectionshallbeinaccordancewith
+13 RSA21-O:11,IV [Notice and hearing prior to the imposition of an administrative fine shall be in
+14 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+15 A:16].
+16 II. ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b)and(d).
+17 III. Thecommissionermayassessanadditionalfineforrepeatviolations.
+18 185:5 Enforcement. AmendRSA125-J:8,I-atoreadasfollows:
+19 I-a. The commissioner of the department of environmental services[, after notice and hearing
+20 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $2,000 for each offense upon
+21 any person who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any
+22 permit, compliance schedule, stop use order, or order of abatement issued pursuant to this chapter; or
+23 upon any person who makes or certifies a material false statement relative to any document or
+24 information which is required to be submitted to the department pursuant to this chapter or any rule
+25 adopted pursuant to this chapter. [Rehearings and appeals from a decision of the commissioner under
+26 this paragraph shall be in accordance with RSA 541.] Any administrative fine imposed under this
+27 paragraph shall not preclude the imposition of further penalties under this chapter. The proceeds of
+28 administrativefinesimposedpursuanttothisparagraphshallbedepositedinthegeneralfund.
+29 (a) Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordance
+30 withRSA21-O:11,IV[Notice and hearing prior to the imposition of an administrative fine shall be in
+31 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+32 A:16].
+33 (b) ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b).
+34 (c) Thecommissionermayassessanadditionalfineforrepeatviolations.
+35 185:6 Administrative Fines; Asbestos Management Control. Amend RSA 141-E:16 to read as
+36 follows:
+37 141-E:16 AdministrativeFines.
+38 I.(a) The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+39 administrative fine not to exceed $4,000 for each offense upon any person who violates any provision of
+CHAPTER185
+SB445-FINALVERSION
+-Page4-
+1 RSA141-E:3oranyruleadoptedbythecommissionerunderthischapter;oruponanypersonwhomakes
+2 or certifies a material false statement relative to any document or information which is required to be
+3 submitted to the department pursuant to this chapter or any rule adopted pursuant to this chapter.
+4 [Rehearings and appeals from a decision of the commissioner under this paragraph shall be in
+5 accordance with RSA 541.] Any administrative fine imposed under this paragraph shall not preclude the
+6 impositionof furtherpenaltiesunderthischapter. Theproceedsofadministrativefinesleviedpursuant to
+7 thissectionshallbedepositedinthefundestablishedbyRSA141-E:12,II.
+8 (b) Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordance
+9 withRSA21-O:11,IV[Notice and hearing prior to the imposition of an administrative fine shall be in
+10 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+11 A:16].
+12 (c) ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b)and(d).
+13 (d) Thecommissionermayassessanadditionalfineforrepeatviolations.
+14 II. WheneverapersonlicensedpursuanttoRSA141-E:10orcertifiedpursuanttoRSA141-E:11
+15 fails to pay an administrative fine as required by this section, the commissioner[, after notice and hearing
+16 pursuant to rules adopted under RSA 541-A,] may deny, suspend, or revoke the license or certificate or
+17 mayissueanappropriateorder.
+18 185:7 Administrative Fines; Waste Management Division. Amend RSA 146-A:15, I to read as
+19 follows:
+20 I. The commissioner of the department of environmental services[, after notice and hearing
+21 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon
+22 any person who violates any provision of this chapter including any rule adopted under the provisions of
+23 this chapter or any order or permit issued under this chapter. Each day of the violation shall constitute a
+24 separate offense. [Rehearings and appeals] Appealsfrom a decision of the commissioner under this
+25 paragraphshall be in accordance with [RSA 541]RSA21-O:9,V. Any administrative fine imposed under
+26 this section shall not preclude the imposition of further penalties under this chapter. The commissioner
+27 shalladoptrules,underRSA541-A,relativeto[:
+28 (a) A] aschedule of administrative fines which may be imposed under this section for
+29 violationsasprovidedinparagraphI.
+30 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+31 185:8 UndergroundStorageFacilityPermitRequired. AmendRSA146-C:4,Itoreadasfollows:
+32 I. No person shall own or operate an underground storage facility in this state without a permit
+33 issued by the department. The permit to operate may be revoked [in accordance with RSA 541-A:30] for
+34 just cause, including, but not limited to, the operation or ownership of an underground storage facility in
+35 violation of the department's rules. The revocation shall not take effect until the owner or operator has
+36 had an opportunity to be heard by the council, provided such request is made within 20 days of the
+37 issuance of the department's decision to revoke the permit. Appeal of a decision revoking a permit to
+38 operate shall be governed by RSA 21-O:14. Any appeal brought pursuant to RSA 541 shall not stay a
+39 decisionbythewastemanagementcouncilwhichaffirmsthedepartment'srevocationofapermit.
+CHAPTER185
+SB445-FINALVERSION
+-Page5-
+1 185:9 Administrative Fines; Underground Storage Facilities. Amend RSA 146-C:10-a to read as
+2 follows:
+3 146-C:10-a AdministrativeFines.
+4 The commissioner of the department of environmental services[, after notice and hearing pursuant to
+5 RSA 541-A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person
+6 whoviolates any provision of this chapter including anyrule adopted under the provisions of this chapter.
+7 [Rehearings and appeals] Appealsfrom a decision of the commissioner under this section shall be in
+8 accordance with [RSA 541]RSA21-O:9,V. Any administrative fine imposed under this section shall not
+9 preclude the imposition of further penalties under this chapter. The proceeds of administrative fines
+10 levied pursuant to this section shall be deposited by the commissioner in the oil pollution control fund
+11 establishedunderRSA146-A. Thecommissionershalladoptrules,underRSA541-A,relativeto[:
+12 I. A]aschedule of administrative fines which may be imposed under this section for violations of
+13 thischapterasprovidedabove[;and
+14 II.Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine].
+15 185:10 Administrative Fines; Hazardous Waste Management. Amend RSA 147-A:17-a, I to read as
+16 follows:
+17 I. The commissioner of the department of environmental services[, after notice and hearing
+18 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $2,000 for each offense upon
+19 any person who violates any provision of this chapter including any rule adopted under the provisions of
+20 this chapter. [Rehearings and appeals] Appeals from a decision of the commissioner under this
+21 paragraphshall be in accordance with [RSA 541]RSA21-O:9,V. Any administrative fine imposed under
+22 this section shall not preclude the imposition of further penalties under this chapter. The commissioner
+23 shalladoptrules,underRSA541-A,relativeto[:
+24 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+25 violationsofthischapterasprovidedabove.
+26 [(b)Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+27 185:11 Approval,Suspension,orRevocation. AmendtheintroductoryparagraphofRSA149-M:12,II
+28 toreadasfollows:
+29 II. The department may suspend or revoke any permit issued under this chapter if[, following an
+30 opportunityforhearing,]itdeterminesthat:
+31 185:12 AdministrativeFines;SolidWasteManagement. AmendRSA149-M:16toreadasfollows:
+32 149-M:16 AdministrativeFines.
+33 The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an administrative
+34 fine not to exceed $2,000 for each offense upon any person who violates any provision of this chapter,
+35 includinganyruleadoptedundertheprovisionsofthischapter. [Rehearingsandappeals]Appealsfroma
+36 decision of the commissioner under this section shall be in accordance with [RSA 541] RSA21-O:9,V.
+37 Any administrative fine imposed under this section shall not preclude the imposition of further penalties
+38 underthischapter. Thecommissionershalladoptrules,underRSA541-A,relativeto[:
+CHAPTER185
+SB445-FINALVERSION
+-Page6-
+1 I. A]aschedule of administrative fines which may be imposed under this section for violations of
+2 thischapterasprovidedabove.
+3 [II. Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+4 185:13 Enforcement;SolidWasteManagement. AmendRSA149-M:38,VItoreadasfollows:
+5 VI. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+6 administrative fine not to exceed $2,000 for each violation upon any person who violates any provision of
+7 this subdivision, any rule adopted under this subdivision, any condition in any exemption granted under
+8 thissubdivision,oranyorderissuedpursuanttothissubdivisionorwhomakesorcertifiesamaterialfalse
+9 statementrelativetoanycertificateofcompliancerequiredbythissubdivision. [Rehearingsandappeals]
+10 Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]
+11 RSA21-O:9,V. Anyadministrativefineimposedunderthisparagraphshallnotprecludetheimpositionof
+12 otherpenaltiesunderthischapter.
+13 185:14 Revocation or Suspension of Certificate; Water Division. Amend RSA 332-E:9, I to read as
+14 follows:
+15 I. If the department receives information which indicates that good cause exists to suspend or
+16 revoke the certificate of an individual operator, the department shall [proceed to] suspend or revoke the
+17 certificateinaccordance[withRSA541-A:30].
+18 185:15 Penalties;WaterDivision. AmendRSA482:89,Vtoreadasfollows:
+19 V. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose upon any
+20 personwhoviolatesanyprovisionofthischapter,asspecifiedinparagraphI,anadministrativefinenotto
+21 exceed $2,000 for each violation in addition to other remedies and penalties provided under this chapter.
+22 [The department shall commence a proceeding under this paragraph against any person who does not
+23 respond within 45 days of receipt of a written order, directive, or any notice of needed maintenance,
+24 repair, or reconstruction issued by the department. Rehearings and appeals] Appeals under this
+25 paragraph shall be in accordance with [RSA 541]RSA21-O:7,IV. The commissioner shall adopt rules,
+26 underRSA541-A,relativeto:
+27 (a) A schedule of administrative fines which may be imposed under this paragraph for
+28 violationofthischapterasspecifiedinparagraphI;and
+29 (b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.
+30 185:16 Refusal; Revocation; Suspension; Disciplinary Action; Water Division. Amend RSA 482-B:8
+31 toreadasfollows:
+32 482-B:8 Refusal;Revocation;Suspension[;DisciplinaryAction].
+33 [I.] A license maybe refused, or a licenseduly issued may be suspendedor revoked, or the renewal
+34 of such license refused by the board on the board's own investigation and motion or upon motion or
+35 writtencomplaintofaninterestedpartyiftheboardhasgoodandsufficientreasontobelieveorfindsthat
+36 theapplicantforortheholderofsuchalicensehas:
+37 [(a)] I. Made a material misstatement in the application for a license or any application for
+38 renewalofsuchlicense.
+39 [(b)]II.Obtainedthelicensethroughwillfulfraudormisrepresentation.
+CHAPTER185
+SB445-FINALVERSION
+-Page7-
+1 [(c)] III. Demonstrated incompetency to act as a water well contractor or pump installer as
+2 determinedbythewaterwellboard.
+3 [(d)]IV. Beenguiltyof willfulfailuretocomplywiththeprovisionsof thischapter orrulesadopted
+4 underRSA482-B:4.
+5 [(e)]V.RefusedtofilereportsasrequiredunderRSA482-B:10.
+6 [(f)]VI.Beenfoundguilty,bytheboardorbyacourtofcompetentjurisdictionofanyfraud,deceit,
+7 gross negligence, incompetence, or misconduct in the industry, operations, or business of water well
+8 constructionorpumpinstallations.
+9 [II. The department may undertake one or more of the following disciplinary actions upon the
+10 department's own investigation and motion or upon written complaint and motion of an interested party if
+11 the department has good and sufficient reason to believe or finds that the applicant for or the holder of
+12 suchalicensehasviolatedtheprovisionsofRSA482-Bandtherulesoftheboard:
+13 (a) Writtenreprimand.
+14 (b) Administrativeorder.
+15 (c) Administrativefine.
+16 (d) Requiring the licensee to participate in a program of continuing education in the area or
+17 areasinwhichthelicenseehasbeenfounddeficient.]
+18 185:17 Hearing;WaterDivision. AmendRSA482-B:9toreadasfollows:
+19 482-B:9 Hearing.
+20 I. Before taking any action under RSA 482-B:8, the board [or department] shall give notice of its
+21 intention to do so by certified mail to the person against whom the proposed action is to be taken. Upon
+22 receipt of such notice, the person affected may within 30 days request a hearing. If a hearing is
+23 requested,theboard[ordepartment]shallnotactuntilsuchhearingiscompleted.
+24 II. Hearings held by the board shall be held in the county in which the person affected has his or
+25 herplaceofbusinessorintheofficeoftheboard,whichevertheboardmaydecide. Atleast10daysprior
+26 to the date of hearing, the board shall send written notice of the time and place of such hearing to the
+27 applicant for, or holder of, such license by certified mail to the last known address of such person. The
+28 testimonypresentedandtheproceedingsofsuchhearingshallberecordedandpreservedastherecords
+29 of the board. The board shall as soon after the hearing as possible, and not later than 90 days after the
+30 date of such hearing, make its findings and determination on the license and shall send a copy of its
+31 decision to each interested party by certified mail return receipt requested or by personal service.
+32 Revocationorsuspensionofalicenseshallbeeffectiveuponreceiptofsuchboarddecision.
+33 III. AppealfromadecisionoftheboardmaybemadeinaccordancewithRSA541.
+34 [IV. Hearings held by the department shall be held in accordance with the rules of practice and
+35 procedureofthedepartment.]
+36 185:18 EnforcementandPenalties;WaterDivision. AmendRSA482-B:16,IItoreadasfollows:
+37 II. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+38 administrative fine not to exceed $2,000 for each offense upon any person who violates any provision of
+39 thischapter, anyruleadoptedunder thischapter, or anylicenseor approval issuedunder thischapter, or
+CHAPTER185
+SB445-FINALVERSION
+-Page8-
+1 who makes or certifies a material false statement relative to any document required by this chapter. The
+2 person may appeal the decision to the board within 30 days of the date of the decision. Following an
+3 appeal hearing, the board may uphold or overturn the decision or impose a lesser or greater fine.
+4 Rehearings and appeals from a decision of the board under this paragraph shall be in accordance with
+5 RSA 541. Any administrative fine imposed under this section shall not preclude the imposition of further
+6 penaltiesunderthischapter. Thecommissionershalladoptrulessubjecttotheapprovalofthewaterwell
+7 board,underRSA541-A,relativeto[:
+8 (a) A]ascheduleofadministrativefineswhichmaybeimposedunderthisparagraph[;and
+9 (b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine].
+10 185:19 Establishment of Protected Instream Flows; Water Division. Amend RSA 483:9-c, X to read
+11 asfollows:
+12 X. Anypartywhoisaggrievedbyadeterminationestablishingsuchprotectedinstreamflowsmay
+13 [petitionthecommissionerforahearingtoreview]appealsuchdeterminationpursuanttoRSA21-O:7,IV
+14 within 30 days of the date the determination is issued. [The filing of such petition shall stay the
+15 implementation of the determination until a final decision has been rendered on the petition or an appeal
+16 takenpursuanttoRSA541.]
+17 185:20 EnforcementandPenalties;WaterDivision. RSA485:58,Iisrepealedandreenactedtoread
+18 asfollows:
+19 I. Thedepartment mayissueanadministrativeorder toanypersonwhoviolatesanyprovisionof
+20 this chapter, any rule adopted under this chapter, or any license or approval issued under this chapter or
+21 who makes or certifies a material false statement relative to any document required by this chapter. The
+22 department may order the person to cease and desist from the violation and may require such corrective
+23 measuresasarenecessarytocorrecttheviolation. Appealsfromadecisionofthedepartmentshallbein
+24 accordance with RSA 21-O. The superior court shall place any action filed by the department to enforce
+25 anorder underthissectionatthetopofitscalendarof casesandshall provideanexpeditioushearingon
+26 suchorder.
+27 185:21 EnforcementandPenalties;WaterDivision. AmendRSA485:58,Vtoreadasfollows:
+28 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+29 A,] may impose an administrative fine not to exceed $4,000 for each offense upon any person who
+30 violates any provision of this chapter including any rule adopted under the provisions of this chapter or
+31 any order or permit issued under this chapter. Each day of violation shall constitute a separate offense.
+32 [Rehearings and appeals]Appealsfrom a decision of the commissioner under this paragraph shall be in
+33 accordance with [RSA 541]RSA21-O:7,IV. Any administrative fine imposed under this section shall not
+34 preclude the imposition of further penalties under this chapter. The proceeds of administrative fines
+35 levied pursuant to this paragraph shall be deposited by the department in the general fund. The
+36 commissionershalladoptrules,underRSA541-A,relativeto[:
+37 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+38 violationsofthischapterasprovidedabove.
+39 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+CHAPTER185
+SB445-FINALVERSION
+-Page9-
+1 185:22 Application;SpecialFund;WaterDivision. AmendRSA485-A:7-a,Itoreadasfollows:
+2 I. Any operator of a wastewater treatment plant seeking certification or to increase his level of
+3 certification shall file an application with the [certification committee]departmentat least 6 weeks prior to
+4 thenextexaminationdateonaformprovidedbythedepartment.
+5 185:23 IssuanceofCertificates;WaterDivision. AmendRSA485-A:7-ctoreadasfollows:
+6 485-A:7-c IssuanceofCertificates.
+7 I. Upon satisfactory completion by an applicant of the established requirements, the department
+8 shall issue to the applicant a suitable certificate designating the applicant's competency. The certificate
+9 shallindicatethelevelofoperationforwhichtheoperatorisqualified. Thecertificateshallremainineffect
+10 [for]untilDecember31orJune30,butnotmorethan2yearsfromthedateofissuance.
+11 II. Certificates shall be renewed bienniallyandshallexpireonthedateprintedonthecertificate.
+12 All renewal applications shall be accompanied by a $100 renewal fee, which shall be deposited pursuant
+13 toRSA485-A:7-a,II.
+14 III. Certificates may be issued, upon payment of the $100 fee, without examination, for a
+15 comparable classification to any person actively seeking employment in New Hampshire who holds a
+16 certificateissuedbytheappropriatecertificationagencyofanyfederal,state,interstate,territorial,orother
+17 jurisdiction if, in the judgment of the [certification committee]department, the certification requirements of
+18 the jurisdiction granting such certification do not conflict with the department's rules and are not less
+19 stringentthanrulesadoptedunderthissubdivision. ThefeeshallbedepositedpursuanttoRSA485-A:7-
+20 a,II.
+21 185:24 PenaltiesandOtherRelief;FailuretoProvideFacility;WaterDivision. AmendRSA485-A:22,
+22 Vtoreadasfollows:
+23 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+24 A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person who
+25 violates any provision of this subdivision or, RSA 485-A:4-6, any rule adopted under this subdivision or
+26 RSA 485-A:4-6, or any permit issued under the authority of this subdivision or RSA 485-A:4-6.
+27 [Rehearings and appeals]Appealsfrom a decision of the commissioner under this paragraph shall be in
+28 accordance with [RSA 541]RSA21-O:7,IV. Any administrative fine imposed under this section shall not
+29 preclude the imposition of further penalties under this chapter. The proceeds of administrative fines
+30 levied pursuant to this paragraph shall be deposited by the department in the general fund. The
+31 commissionershalladoptrules,underRSA541-A,relativeto[:
+32 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+33 violations of this chapter, rules adopted under this chapter, and permits issued under this chapter, as
+34 providedabove.
+35 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+36 185:25 Penalty;AdministrativeFines;WaterDivision. AmendRSA485-A:28,IItoreadasfollows:
+37 II. Thecommissioner[,afternoticeandhearing,]mayimposeanadministrativefinenottoexceed
+38 $2,000for eachoffense uponany personwho violates anyprovision of this subdivision, any rule adopted
+39 underthissubdivision,oranylicenseorapprovalissuedunderthissubdivision. [Rehearingsandappeals]
+CHAPTER185
+SB445-FINALVERSION
+-Page10-
+1 Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]
+2 RSA21-O:7,IV. Any administrative fine imposed under this section shall not preclude the imposition of
+3 further penalties under this chapter. The proceeds of administrative fines levied pursuant to this
+4 paragraphshallbedepositedinthegeneralfund. Thecommissionershalladoptrules,underRSA541-A,
+5 relativeto[:
+6 (a)A]ascheduleofadministrativefineswhichmaybeimposedunderthisparagraph[;and
+7 (b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine].
+8 185:26 PermitEligibility;Exemption;WaterDivision. AmendRSA485-A:35,I(a)toreadasfollows:
+9 I.(a) All applications, plans, and specifications submitted in accordance with this chapter for
+10 subsurface sewage or waste disposal systems shall be prepared and signed by the individual who is
+11 directly responsible for them and who has a permit issued by the department to perform the work. The
+12 department shall issue a permit to any individual who applies to the department, pays a fee of $80, and
+13 demonstratesasoundworkingknowledgeoftheproceduresandpracticesrequiredinthesiteevaluation,
+14 design,andoperationofsubsurfacesewageorwastedisposalsystems. Thedepartmentshallrequirean
+15 oral or written examination or both to determine who may qualify for a permit. Permits shall be issued
+16 fromJanuary1andshallexpireDecember31ofeveryotheryear,subjecttothegraceperiodsspecifiedin
+17 subparagraphs (c) and (d). Permits shall be renewable upon proper application, payment of a biennial
+18 permit fee of $80, and documentation of compliance with the continuing education requirement of
+19 subparagraph (b). A permit issued to any individual may be suspended, revoked or not renewed only for
+20 just cause[ and after the permit holder has had a full opportunity to be heard by the department]. An
+21 appeal from a decision to revoke, suspend, or not renew a permit may be taken pursuant to [RSA 541]
+22 RSA21-O:7,IV. AllfeesshallbedepositedinthesubsurfacesystemsfundestablishedinRSA485-A:30,
+23 I-b.
+24 185:27 SystemInstallerPermit;WaterDivision. AmendRSA485-A:36,I(a)toreadasfollows:
+25 I.(a) Noindividualshallengageinthebusinessofinstallingsubsurfacesewageorwastedisposal
+26 systems under this subdivision without first obtaining an installer's permit from the department. The
+27 permit holder shall be responsible for installing the subsurface sewage or waste disposal system in strict
+28 accordancewiththeapprovedplan. Thedepartmentshallissueaninstaller'spermittoanyindividualwho
+29 submitsanapplicationprovidedbythedepartment, paysafeeof $80anddemonstratesasound working
+30 knowledge of RSA 485-A:29-35 and the ability to read approved waste disposal plans. The department
+31 shall require an oral or written examination or both to determine who may qualify for an installer's permit.
+32 Permits shall be issued from January 1 and shall expire December 31 of every other year. Permits shall
+33 be renewable upon proper application, payment of a biennial permit fee of $80, and documentation of
+34 compliancewiththecontinuingeducationrequirementofsubparagraph(b). Theinstaller'spermitmaybe
+35 suspended, revoked or not renewed for just cause, including, but not limited to, the installation of waste
+36 disposalsystemsinviolationofthissubdivisionortherefusalbyapermitholdertocorrectdefectivework.
+37 The department shall not suspend, revoke or refuse to renew a permit except for just cause[ until the
+38 permit holder has had an opportunity to be heard by the department]. An appeal from such decision to
+CHAPTER185
+SB445-FINALVERSION
+-Page11-
+1 revoke, suspend or not renew a permit may be taken pursuant to RSA 21-O:14. All fees shall be
+2 depositedinthesubsurfacesystemsfundestablishedinRSA485-A:30,I-b.
+3 185:28 Reconsideration and Appeal Procedure; Water Division. Amend the introductory paragraph
+4 ofRSA485-A:40toreadasfollows:
+5 If any person submitting plans and specifications to the department for its approval is aggrieved or
+6 dissatisfiedwithitsdecision,heorshe[mayfileamotionfor reconsiderationand] shall,inadditiontoany
+7 rightstoappealadepartmentdecisionunderRSA21-O:14,havearightofappealfromthedecisionofthe
+8 departmentinthefollowingmanner:
+9 185:29 ReconsiderationandAppealProcedure;WaterDivision. AmendRSA485-A:40,IVtoreadas
+10 follows:
+11 IV. Within 30 days [after the application for reconsideration is denied, or if the application is
+12 granted,thenwithin30daysafterthedecisiononsuchreconsideration]ofthedecision,theapplicantmay
+13 appealbypetitiontothesuperiorcourt.
+14 185:30 Penalties;WaterDivision. AmendRSA485-A:43,Vtoreadasfollows:
+15 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+16 A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person who
+17 violates any provision of this subdivision including any rule adopted under the provisions of this chapter.
+18 [Rehearings and appeals]Appealsfrom a decision of the commissioner under this paragraph shall be in
+19 accordance with [RSA 541]RSA21-O:7,IV. Any administrative fine imposed under this section shall not
+20 preclude the imposition of further penalties under this subdivision. The proceeds of administrative fines
+21 levied pursuant to this paragraph shall be deposited by the department in the general fund. The
+22 commissionershalladoptrules,underRSA541-A,relativeto[:
+23 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+24 violationsofthissubdivisionasprovidedabove.
+25 [(b)Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+26 185:31 EnforcementandPenalties;WaterDivision. AmendRSA485-A:54,Vtoreadasfollows:
+27 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+28 A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person who
+29 violates any provision of this subdivision, any rule adopted under this subdivision, or any permit or
+30 contract entered into under the authority of this subdivision. [Rehearings and appeals] Appealsfrom a
+31 decisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]RSA21-O:7,IV.
+32 Any administrative fine imposed under this section shall not preclude the imposition of further penalties
+33 under this subdivision. The proceeds of administrative fines levied pursuant to this paragraph shall be
+34 deposited by the department in the replacement fund established pursuant to RSA 485-A:51. The
+35 commissionershalladoptrules,underRSA541-A,relativeto[:
+36 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+37 violationsofthischapterasprovidedabove.
+38 [(b)Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+39 185:32 Definitions;Director;Division;WaterDivision. AmendRSA485-C:2,VI-VIItoreadasfollows:
+CHAPTER185
+SB445-FINALVERSION
+-Page12-
+1 VI. "Director" means the director of the division of water [supply and pollution control],
+2 departmentofenvironmentalservices.
+3 VII. "Division" means the division of water [supply and pollution control], department of
+4 environmentalservices.
+5 185:33 AdministrativeFines;WaterDivision. AmendRSA485-C:18toreadasfollows:
+6 485-C:18 AdministrativeFines.
+7 The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an administrative
+8 fine not to exceed $4,000 for each offense upon any person who violates any provision of this chapter or
+9 any rule, permit or order adopted or issued under this chapter. Each day of violation shall constitute a
+10 separate offense. [Rehearings and appeals] Appealsfrom a decision of the commissioner under this
+11 section shall be in accordance with [RSA 541] RSA21-O:7,IV. Any administrative fine imposed under
+12 this section shall not preclude the imposition of further penalties under this chapter. The commissioner
+13 shalladoptrules,underRSA541-A,relativeto[:
+14 I. Ascheduleofadministrativefineswhichmaybeimposedunderthissectionforviolationofthis
+15 chapter.
+16 II. Proceduresfor noticeandhearingprior totheimpositionof anadministrativefine.]aschedule
+17 ofadministrativefineswhichmaybeimposedunderthissectionforviolationofthischapter.
+18 185:34 AdministrativeFines;WaterDivision. AmendRSA486-A:14,Itoreadasfollows:
+19 I. The commissioner of the department[, after notice and hearing pursuant to RSA 541-A,] may
+20 impose an administrative fine not to exceed $500 for each offense upon any person who violates the
+21 reporting requirement of RSA 486-A:7, II(e). [Rehearings and appeals] Appealsfrom a decision of the
+22 commissionerunderthisparagraphshallbeinaccordancewith[RSA541]21-O:7,IV. Thecommissioner
+23 shalladoptrules,underRSA541-A,relativetoproceduresfornoticeandhearingpriortotheimpositionof
+24 anadministrativefine.
+25 185:35 Penalty;AdministrativeFines;WaterDivision. AmendRSA487:7,IItoreadasfollows:
+26 II. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+27 A,] may impose an administrative fine not to exceed $2,000 for each offense, upon any person who
+28 violatesanyprovisionofthischapter,anylawfulruleofthedepartmentadoptedunderthischapter,orany
+29 lawfulorderissuedbythedepartmentpursuanttothischapter. [Rehearingsandappeals]Appealsfroma
+30 decisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]RSA21-O:7,IV.
+31 Any administrative fine imposed under this section shall not preclude the imposition of further penalties
+32 under this chapter. The proceeds of administrative fines levied pursuant to this paragraph shall be
+33 depositedbythedepartmentinthegeneralfund. Thecommissioner shalladoptrules,underRSA541-A,
+34 relativeto[:
+35 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+36 violationsofthischapter.
+37 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+38 185:36 AdministrativeFines;WaterDivision. AmendRSA488:8,I-IItoreadasfollows:
+CHAPTER185
+SB445-FINALVERSION
+-Page13-
+1 I. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+2 administrativefinenottoexceed$4,000foreachoffenseuponanypersonwhoknowingly:
+3 (a) Violatesanyprovisionofthischapteroranyruleororderadoptedorissuedunderit.
+4 (b) Makesanymaterialfalsestatementinanydocumentrequiredtobefiledormaintained.
+5 (c) Rendersinaccurate,falsifies,ortamperswithanymonitoringdeviceormethod.
+6 II. [Rehearings and appeals] Appealsfrom a decision of the commissioner under this section
+7 shallbeinaccordancewith[RSA541]RSA21-O:7,IV.
+8 185:37 AdministrationandEnforcement;WaterDivision. AmendRSA489-C:5,IIItoreadasfollows:
+9 III. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may revoke the
+10 certification of any person who violates this chapter. [Rehearings and appeals] Appealsrelating to
+11 revocationshallbegovernedby[RSA541]RSA21-O:7,IV.
+12 185:38 Definitions;Division;WetlandsCouncil. AmendRSA482-A:2,IItoreadasfollows:
+13 II. "Division"meansthedivisionofwater[resources],departmentofenvironmentalservices.
+14 185:39 Excavating and Dredging Permit; Certain Exemptions; Wetlands Council. Amend RSA 482-
+15 A:3,XIXtoreadasfollows:
+16 XIX. The department shall issue a culvert maintainer certificate to any individual who submits an
+17 application provided by the department, and has satisfactorily completed the program in accordance with
+18 paragraphsXVIIandXVIII.InitialcertificatesshallbevalidthroughDecember 31oftheyearfollowingthe
+19 year of issue. Renewal certificates shall be valid from January 1 through December 31 of every other
+20 year. Permits shall be renewable upon proper application, and documentation of compliance with the
+21 continuing education requirement of paragraph XVIII. The installer's permit may be suspended, revoked,
+22 or not renewed for just cause, including, but not limited to, the installation of culverts in violation of this
+23 chapter or the refusal by a permit holder to correct defective work. The department shall not suspend,
+24 revoke,orrefusetorenewapermitexceptforjustcause[untilthepermitholderhashadanopportunityto
+25 be heard by the department]. An appeal from such decision to revoke, suspend, or not renew a permit
+26 maybetakenpursuanttoRSA21-O:14.
+27 185:40 Excavating and Dredging Permit; Certain Exemptions; Wetlands Council. Amend RSA 482-
+28 A:3,XX(c)toreadasfollows:
+29 (c) Thedepartmentmayrevokeacertificateforgoodcauseafternotificationtothecertificate
+30 holder [and opportunity for an adjudicative proceeding under RSA 541-A:31 and rules adopted by the
+31 department]. Anappealfromsuchdecisiontorevoke,suspend,ornotrenewapermitmaybetaken
+32 pursuanttoRSA21-O:5-a,V.
+33 185:41 AdministrativeFine;WetlandsCouncil. AmendRSA482-A:13toreadasfollows:
+34 482-A:13 AdministrativeFine.
+35 Thecommissioner[, after noticeand hearing inaccordance with theprocedures set forthin RSA 541-
+36 A,] is empowered to impose an administrative fine of up to $5,000 for each violation, irrespective of the
+37 duration of violation, upon any person who violates any provision of this chapter. This fine is appealable
+38 under [RSA 541]RSA21-O:5-a,V. Any administrative fine imposed under this section will not preclude
+CHAPTER185
+SB445-FINALVERSION
+-Page14-
+1 the imposition of further penalties under this chapter. The proceeds of administrative fines levied
+2 pursuanttothissectionshallbeplacedinthenonlapsingfundauthorizedinRSA482-A:14,III.
+3 185:42 Penalties;WetlandsCouncil. AmendRSA483-B:18,III(b)toreadasfollows:
+4 (b) The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+5 administrative fine of up to $5,000 for each offense upon any person who violates this chapter.
+6 [Rehearings and appeals]Appealsrelating to such fines shall be governed by [RSA 541]RSA21-O:5-a,
+7 V. Imposition of an administrative fine under this section shall not preclude the imposition of further civil
+8 penaltiesunderthischapter.
+9 185:43 Attorney General; Deputy Associates; Assistants. Amend RSA 21-M:3, VIII(a) to read as
+10 follows:
+11 (a) [Be an attorney qualified by education]Haveaminimumofajurisdoctordegreefroman
+12 accreditedcollegeoruniversity and have experience in the conduct of administrative adjudicative
+13 hearingsandthe applicationof lawto facts[, preferably aretired justiceof thesuperior or supreme court];
+14 and
+15 185:44 AdministrativeAppeals. AmendRSA21-O:14,Itoreadasfollows:
+16 I.(a) Forpurposesofthischapter,"departmentpermittingdecision"means:
+17 (1) The department's final action on an application or other request for a license as
+18 defined in RSA 541-A:1, VIII, whether the action to accept, grant in whole or in part with or without
+19 conditions, or deny the application or request and whether the action is taken by the commissioner or by
+20 the department official who has statutory authority to take such final action or to whom the commissioner
+21 hasproperlydelegatedtheauthoritytotakesuchfinalaction.
+22 (2) TherevocationofortherefusaltorenewalicenseasdefinedinRSA541-A:1,VIII
+23 basedonthepermitholder'snon-compliancewiththestatute,rules,ortermsandconditionsofthelicense
+24 oronothergoodorjustcauseasdefinedinrulesadoptedrelativetothelicense.
+25 (b) Forpurposesofthissection,"departmentenforcementdecision"means:
+26 (1) The issuance of an administrative order issued under specific statutory authority for
+27 suchanorder,whetherdescribedasanorder,anadministrativeorder,aceaseanddesistorder,anotice
+28 of violation and order of abatement, or other similar name, which specifies the facts and law that support
+29 thedepartment'sdeterminationthat oneor moreviolationsareoccurringor haveoccurredandordersthe
+30 recipienttoceaseon-goingviolationsandtotakesuchremediationactionsasarenecessarytocomeinto
+31 compliancewithapplicablerequirements.
+32 (2) [The revocation of or the refusal to renew a license as defined in RSA 541-A:1, VIII
+33 basedonthepermitholder'snon-compliancewiththestatute,rules,ortermsandconditionsofthelicense
+34 or on other good or just cause as defined in rules adopted relative to the license.] Impositionofan
+35 administrativefine,pursuanttospecificstatutoryauthorityforsuchanadministrativefineandany
+36 applicableadministrativerulesorschedules,bywayofanoticeofadministrativefineorfineswhich
+37 specifiesthefactsandlawthatsupportthecommissioner'sdeterminationthatoneormoreviolationsare
+38 occurringorhaveoccurred,whichshouldbepenalizedwithanappropriateadministrativefine.
+CHAPTER185
+SB445-FINALVERSION
+-Page15-
+1 (c) "Department decision" means a department permitting decision[,]; a department
+2 enforcement decision, includingthecommissioner'sdecisiontoimposeanadministrativefine;and any
+3 other decision made by the department that is expressly appealable to a council under the statute
+4 granting authority to the department to make the decision. The term does not include rulemaking or an
+5 agencydeclaratoryrulingasprovidedforinRSA541-A.
+6 185:45 New Paragraph; Agency Action Against Licensees. Amend RSA 541-A:30 by inserting after
+7 paragraphIIIthefollowingnewparagraph:
+8 IV. An agency shall be exempt from the requirements in this chapter to provide for an
+9 adjudicative proceeding prior to making a final decision, if such final decision is subject to appeal to a
+10 council or board with jurisdiction over such agency, or divisions thereof, that provides for notice and an
+11 opportunity to be heard. Unless based on an immediate risk to human health or the environment, the
+12 agency decision under this paragraph shall not become effective for 30 days following the date of the
+13 decision or, if an appeal is filed to a council or board with jurisdiction, until the council or board issues a
+14 decision.
+15 185:46 Emissions Reduction Trading Programs; Certification of Emissions Reduction Credits.
+16 AmendtheintroductoryparagraphofRSA125-J:4,VIItoreadasfollows:
+17 VII. The commissioner may suspend, modify, or revoke any emissions reduction credits
+18 certificateissuedunderthischapter,oranyportionthereof,uponafinding[,followingahearing]:
+19 185:47 New Paragraph; Department of Environmental Services; Administrative Appeals. Amend
+20 RSA21-O:14byinsertingafterparagraphIVthefollowingnewparagraph:
+21 V. A fineimposed by thedepartment shall not become effective for 30 days followingthe date of
+22 thedecision,orifanappealisfiledtoacouncil,untilthecouncilissuesadecision.
+23 185:48 Repeal. Thefollowingarerepealed:
+24 I. RSA 141-E:4, XIV, relative to procedures for notice and hearing concerning asbestos
+25 managementandcontrol.
+26 II. RSA 149-M:7, XI, relative to procedures for notice and hearing concerning solid waste
+27 management.
+28 III. RSA 149-M:37, IV, relative to procedures for notice and hearing concerning solid waste
+29 management.
+30 IV. RSA485-A:2,I-b,relativetothedefinitionofcertificationcommittee.
+31 V. RSA 485-A:40, I, relative to reconsideration of certain departmental decisions relative to
+32 sewagedisposalsystems.
+33 VI. RSA 485-A:40, II, relative to certain appeals of certain departmental decisions relative to
+34 sewagedisposalsystems.
+35 VII. RSA 485-A:40, III, relative to the granting of motions for reconsideration of certain
+36 departmentaldecisionsrelativetosewagedisposalsystems.
+37 VIII. RSA 488:9, VI, relative to procedures for notice and hearing prior to the imposition of an
+38 administrativefinerelativetowatermanagement.
+39 IX. RSA21-M:3,VIII-a,relativetheappointmentofhearingofficers.
+CHAPTER185
+SB445-FINALVERSION
+-Page16-
+1 X. RSA 125-O:7, III(a), relative to notice and hearing requirements prior to the imposition of
+2 certainadministrativefines.
+185:49 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June19,2026
+EffectiveDate:August18,2026
+[DELETED: R1B45-FLV61.16SEBNATretoaepsweteisaclorbdwhj:S.P,Dt1;S.G,Dt2;S.M,Dt1;R.S,H;R.T,M.2:EyadNlRsblcstepsfrasweteisaclorbdwhj-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B45-FLV61.1h2EOFNWHNATretoaepsweteisaclorbdwhj11CafrD;SnorR;M.AdRA1,IIadIItrdasfI.Tecrmysdorreayptoranidhrifgah]tecrd()Tttepthrorrthscdavnoftscrorayro,orptcsinfeadaetoi;o()TtesfmtedeorneVsetowhtepta,aeoincnwhorssoftesep,psaniedrtoteph0I.Tecrmyormnofayseofarpnhgavdp1idurtscrinteettttecrd,fgah2()TttedeorneVsetowhteptasfstomte3enlsedbyseorflreorr4()TttedeorneVseisrgorisrylytortin5vnofanarqysdinf612E.AdRA1,Ibtordasf7I.Tecroftedtofels,arneadh8pttoRA5]myieanaefenttoed$0frehoeu9aypnwovsaypnoftsc,ayreadpttotsc,ora0p,ces,spueo,ororofa,idpttotsc;o1unaypnwomsorcsamlfestretoaydto2inwhisrdtobesdtotedtpttotscrorayr3adpttotsc.[sadasfmadnoftecru4tsphslbeinaewhRA5]Ayaefeidurt5phslntpeteinoffrpsurtsc.Tepso6aefsidpttotsphslbeddinteglf7()A8weadhgprtoteinofanaefeslbei9aewhRA5AadplrsadbytecrpttoRA50A1()Tecrsldefsbdontef]
+[DELETED: R1B45-FLVPe2()Framrdnfmartcgmrplfrh,tefslbentlstn$0adntmetn$()Framrdnfmartcgmeplfrh,tfeslbentlstn$1adntmetn$()Framrdnfmartcgmrplfrh,tefslbentlstn$1adntmetn$()Framednfmartcgmrplfrh,tfeslbentlstn$1adntmetn$()Framednfmartcgmeplfrh0tefeslbentlstn$1adntmetn$1()Framednfmartcgmrplfrh,t2feslbentlstn$1adntmetn$3()Framrdnfmartcgmrplfrh,tef4slbentlstn$1adntmetn$5()Framrdnfmartcgmeplfrh,t6feslbentlstn$1adntmetn$7()Framrdnfmartcgmrplfrh,tef8slbentlstn$1adntmetn$9()Tecrmyasanalfefrrtv0()Ehdyofvnslceaseo113AeF.AdRA14tordasf214AeF3Tecroftedtofels,arneadhgptt4RA5]myieanaefenttoed$0frehoeunayp5wovsaypnoftsc,ayreadpttotsc,oraypto6oridpttotsc;orunaypnwomsorcsamlf7stretoaydtorinwhisrdtobesdtoted8pttotscrorayreadpttotsc.[sadasfm9dnoftecrurtssnslbeinaewhRA5]Aya0feidurtssnslntpeteinoffrpsurtsc1Tepsofaefsidpttotssnslbeddinteg2f3I.A4RA2,IV[eadhgprtoteinofanaefeslbei5aewhRA5AadplrsadbytecrpttoRA56A7I.TecrsldefsinaewhRA1,I)ad(8I.Tecrmyasanalfefrrtv914AeF.AdRA1atordasf]
+[DELETED: R1B45-FLVPe31aAeFTecroftedtofels,arneadhgpttRA5]myieanaefenttoed$0frehoeunaypwovsaypnoftsc,ayreadpttotsc,orayptooridpttotsc;orunaypnwomsorcsamlfstretoaydtorinwhisrdtobesdtotedpttotscrorayreadpttotsc.[sadasfmdnoftecrurtssnslbeinaewhRA5]Ayafeidurtssnslntpeteinoffrpsurtsc0Tepsofaefsidpttotssnslbeddinteg1f2I.A3RA2,IV[eadhgprtoteinofanaefeslbei4aewhRA5AadplrsadbytecrpttoRA55A6I.TecrsldefsinaewhRA1,I)ad(7I.Tecrmyasanalfefrrtv815E.AdRA1,Iatordasf9I.Tecroftedtofels,arneadh0pttoRA5]myieanaefenttoed$0frehoeu1aypnwovsaypnoftsc,ayreadpttotsc,ora2p,ces,spueo,ororofatidpttotsc;o3unaypnwomsorcsamlfestretoaydto4inwhisrdtobesdtotedtpttotscrorayr5adpttotsc.[sadasfmadnoftecru6tsphslbeinaewhRA5]Ayaefeidurt7phslntpeteinoffrpsurtsc.Tepso8aefsidpttotsphslbeddinteglf9()A0weadhgprtoteinofanaefeslbei1aewhRA5AadplrsadbytecrpttoRA52A3()TecrsldefsinaewhRA1,I4()Tecrmyasanalfefrrtv516AeF;AsMtC.AdRA16torda6f716AeF8I)Tec,arneadhgpttoRA5]myiea9aefenttoed$0frehoeunaypnwovsaypno]
+[DELETED: R1B45-FLVPe4RA13orayreadbytecrurtsc;orunaypnwomorcsamlfestretoaydtorinwhisrdtobsdtotedtpttotscrorayreadpttotsc[sadasfmadnoftecrurtsphslbeiaewhRA5]Ayaefeidurtsphslntpetinoffrpsurtsc.TepsofaefsldptttssnslbeddintefdedbyRA1,I()Aweadhgprtoteinofanaefeslbei0aewhRA5AadplrsadbytecrpttoRA51A2()TecrsldefsinaewhRA1,I)ad(3()Tecrmyasanalfefrrtv4I.WrapnldpttoRA10orcdpttoRA15fstopyanaefeasrdbytss,tec,arneadh6pttorsadurRA5]myd,s,orreteleorceo7myieanaeo817AeF;WeMtD.AdRA1,Itorda9f0I.Tecroftedtofels,arneadh1pttoRA5]myieanaefenttoed$0frehoeu2aypnwovsaypnoftscrigayreadurtepso3tscrorayororptidurtsc.Ehdyoftevnslce4seo.[sada]Amadnoftecrurt5phslbeinaewh[A5]R.Ayaefeidu6tssnslntpeteinoffrpsurtsc.Tec7slatr,urRA5,ret8()A]aseofaefswhmybeidurtssnf9vsaspdinphI0[)Psfrneadhgprtoteinofanaef118UdSeFyPtR.AdRA1,Itordasf2I.Nopnslonoroeanudsefyintssewtap3idbyted.Tepttooemyberd[naewhRA5]f4jtc,i,btntldt,teonoropofanudsefyi5vnoftedsr.Ternslntteetulteorororh6hdanoytobehdbytec,pdshrtismewn20dsoft7ieoftedsdntoretep.Alofadnrgaptt8oeslbegdbyRA2.AyalbtpttoRA51slntsy9dnbytewemtclwhastedsrnofap]
+[DELETED: R1B45-FLVPe519AeF;UdSeF.AdRA1atordaf1aAeFTecroftedtofels,arneadhgpttRA5]myieanaefenttoed$0frehoeunaypwovsaypnoftscrigayreadurtepsoftsc[sada]Amadnoftecrurtssnslbeiaewh[A5]R.Ayaefeidurtssnslnpeteinoffrpsurtsc.Tepsofaef0ldpttotssnslbeddbytecrinteolpnclf1edurRA1.Tecrslatr,urRA5,ret2I.A]aeofaefswhmybeidurtssnfrvso3tscraspdae[;a4I.Psfrneadhgprtoteinofanaef510AeF;HsWeM.AdRA1,Itorda6f7I.Tecroftedtofels,arneadh8pttoRA5]myieanaefenttoed$0frehoeu9aypnwovsaypnoftscrigayreadurtepso0tsc.[sada]Asfmadnoftecrurt1phslbeinaewh[A5]R.Ayaefeidu2tssnslntpeteinoffrpsurtsc.Tec3slatr,urRA5,ret4()A]aeofaefswhmybeidurtsphf5vsoftscraspda6[)Psfrneadhgprtoteinofanaef711A,S,orR.AdteiyphofRA1,I8tordasf9I.Tedtmysdorreayptidurtscri,fga0oyfrh]itdst112AeF;SdWeM.AdRA16tordasf216AeF3Tec,arneadhgpttoRA5]myieana4fenttoed$0frehoeunaypnwovsaypnoftsc5igayreadurtepsoftsc.[sada]Am6dnoftecrurtssnslbeinaewh[A5]R7Ayaefeidurtssnslntpeteinoffrp8urtsc.Tecrslatr,urRA5,ret]
+[DELETED: R1B45-FLVPe6I.A]aeofaefswhmybeidurtssnfrvsotscraspda[.Psfrneadhgprtoteinofanaef13E;SdWeM.AdRA1,VItordasfV.Tec,arneadhgpttoRA5]myieaaefenttoed$0frehvnunaypnwovsaypnotss,ayreadurtss,aycninayengdutss,orayoridpttotssnorwomsorcsamlfstretoayceofcerdbytss.[sada0Amadnoftecrurtsphslbeinaewh[A51R.Ayaefeidurtsphslntpeteino2orpsurtsc314RnorSnofC;WrD.AdRA3,Itorda4f5I.Iftedtrsinwhisttgdceestosdo6reteceofanilo,tedtsl[dt]sdorret7ceinae[hRA5815P;WrD.AdRA4,Vtordasf9V.Tec,arneadhgpttoRA5]myieuna0pnwovsaypnoftsc,assdinphI,anaefentt1ed$0frehvninantoorrsadpspdurtsc2[edtslceapgurtsphataypnwodsn3rdwn45dsofrtofawno,d,orayneofndm4r,orrnidbyted.Rsada]Asurt5phslbeinaewh[A5]R.Tecrslatr6urRA5,ret7()Aseofaefswhmybeidurtsphf8vnoftscrassdinphI;a9()Psfrneadhgprtoteinofanaef016R;R;S;DyA;WrD.AdRA41tordasf248R;R;S;DyA3[]Alemyber,oraledyidmybesdorr,orter4ofshlerdbytebdontebsoninadmnorunmno5wnctofanidpyiftebdhsgdadstrntobeorfst6teatfrortehrofshaleh7[]I.Meamlmtinteanfraleorayanf8rlofshl9[.Odtelethwlfdorm]
+[DELETED: R1B45-FLVPe7[]I.Ddiytoatasawrwlcrorppiraddbytewrwlb[]I.BngyofwlfetocywhtepsoftscrorrsaurRA4[.RdtofersasrdurRA4[.Bnfdg,bytebdorbyactofctjnofayf,dgsn,i,ormtintei,o,orbsofwrwcnorppi[.Tedtmyueoeormeoftefgdyasunt0dsoninadmnorunwnctadmnofanidpyi1tedthsgdadstrntobeorfsttteatfrortehro2shalehsvdtepsofRA4Badtersofteb3()Wnr4()Aeo5()Aef6()Rgteletopeinapmofcgeninteaao7asinwhtelehsbnfdd817H;WrD.AdRA49tordasf949H0I.BetgayanurRA4,tebd[rd]slgeneofi1intodosobycdmltotepnatwmtepdanistobet.U2rtofshn,tepnadmywn30dsrtah.Ifahgi3r,tebd[rd]slntatulshhgisc4I.Hshdbytebdslbehdintecyinwhtepnadhshso5hrpeofbsorinteoeofteb,wrtebdmyd.Atlt10dsp6totedeofh,tebdslsdwnneofteteadpeofshhgtot7atf,orhro,shlebycdmltoteltknasofshp.T8typdadtepsofshhgslberdadpdaster9ofteb.Tebdslassnartehgasp,adntlrtn90dsart0deofshh,meisfsaddnonteleadslsdacyofi1dntoehidpybycdmlrnrtrdorbypls2Rnorsnofaleslbeeeunrtofshbdd3I.AlfmadnoftebdmybemeinaewhRA54[.Hshdbytedtslbehdinaewhtersofpea5peofted618EtadP;WrD.AdRA4,IItordasf7I.Tec,arneadhgpttoRA5]myiea8aefenttoed$0frehoeunaypnwovsaypno9tsc,ayreadurtsc,orayleoralidurtsc,o]
+[DELETED: R1B45-FLVPe8womsorcsamlfestretoaydtrdbytsc.Tpnmyaltedntotebdwn30dsoftedeofted.Fgaalh,tebdmyudorontednoriealrorgrfRsadasfmadnoftebdurtsphslbeinaewRA5.Ayaefeidurtssnslntpeteinoffpsurtsc.Tecrslatrssttotealoftewrwb,urRA5,ret()Aeofaefswhmybeidurtsp;a()Psfrneadhgprtoteinofanaef019EtofPdImF;WrD.AdRA4,Xtor1asf2X.Aypywoisadbyadnegshpdimfsm3[ntecrfrahgtor]ahdnp4wn30dsoftedetednisi.[efgofshpnslsyt5inoftednulafldnhsbnrdontepnorana6tnpttoRA5710EtadP;WrD.RA4,Iisrdadrdtor8asf9I.Tedtmyieanaeortoaypnwovsaypno0tsc,ayreadurtsc,orayleoralidurtscro1womsorcsamlfestretoaydtrdbytsc.T2dtmyortepntoceaddtfmtevnadmyreshc3msasaenytocttev.Asfmadnoftedtslbei4aewhRA2.Tesrctslpeayanfdbytedttoe5anorurtssnattetpofiscrofcsadslpeaneshgo6sho711EtadP;WrD.AdRA4,Vtordasf8V.Tecrofels,arneadhgpttoRA59A]myieanaefenttoed$0frehoeunaypnw0vsaypnoftscrigayreadurtepsoftscro1ayororptidurtsc.Ehdyofvnslceaseo2[sada]Amadnoftecrurtsphslbei3aewh[A5]R.Ayaefeidurtssnsln4peteinoffrpsurtsc.Tepsofaef5ldpttotsphslbeddbytedtinteglf.T6crslatr,urRA5,ret7()A]aeofaefswhmybeidurtsphf8vsoftscraspda9[)Psfrneadhgprtoteinofanaef]
+[DELETED: R1B45-FLVPe912A;SlF;WrD.AdRA4,ItordasfI.Ayorofawrttptsgcnortoiehsllocnslfeananwhte[nc]dtlt6wsprttentendeonafmpdbyted13IeofC;WrD.AdRA4ctordasf4cIeofCI.Unsycnbyanatofteedr,tedslietoteatasecedgteasc.Tecslietellofonfrwhteorisq.Teceslrnine0[2ysfmtedeofi1I.Csslberdbya2Alrlasslbeadbya$0rlf,whslbeddp3toRA4,I4I.Csmybei,unptofte$0f,wte,fr5cecntoaypnaysgetinNwHewohs6ceidbyteaecnayofayf,s,i,t,oro7jni,intejtofte[nc]d,tecnrso8tejnggshcndontctwhtedsrsadaentl9sttnrsadurtss.TefeslbeddpttoRA40a,I114PsadOrR;FetoPeF;WrD.AdRA42Vtordasf3V.Tecrofels,arneadhgpttoRA54A]myieanaefenttoed$0frehoeunaypnw5vsaypnoftssno,RA4,ayreadurtssno6RA4,orayptidurteayoftssnorRA47[sada]Amadnoftecrurtsphslbei8aewh[A5]R.Ayaefeidurtssnsln9peteinoffrpsurtsc.Tepsofaef0ldpttotsphslbeddbytedtinteglf.T1crslatr,urRA5,ret2()A]aeofaefswhmybeidurtsphf3vsoftsc,rsadurtsc,adpsidurtsc,a4pda5[)Psfrneadhgprtoteinofanaef615P;AeF;WrD.AdRA4,IItordasf7I.Tec,arneadh]myieanaefenttoe8$0frehoeunaypnwovsaypnoftss,ayrea9urtss,orayleoralidurtss.[sada]
+[DELETED: R1B45-FLVPe10Amadnoftecrurtsphslbeinaewh[A5R.Ayaefeidurtssnslntpeteinofrpsurtsc.Tepsofaefsldpttotphslbeddinteglf.Tecrslatr,urRA5ret()Aeofaefswhmybeidurtsp;a()Psfrneadhgprtoteinofanaef16PtE;E;WrD.AdRA4,I)tordasfI)Ala,p,adsssdinaewhtscrf0seseorwedlssslbepdadsdbyteilwoi1dyrefrtmadwohsaptidbytedttopmtew.T2dtslieapttoayilwoastoted,psafeof$,a3dsasdwgkeoftepsadpsrdintesee4d,adonofseseorwedls.Tedtslrea5olorwnenorbhtodewomyqyfrap.Psslbei6fmJy1adsleeDr31ofeyory,sttotegepssdi7ss()ad(.Psslbereunpra,ptofab8ptfeof$,addnofcewhtecgenrto9sh(.Aptidtoayilmybes,rdorntrdoyf0jtc[adartepthrhshdafloytobehdbyted.A1alfmadntor,s,orntrwaptmybetnptto[A52R.AlfsslbeddintesessfdedinRA43I417SmIrP;WrD.AdRA4,I)tordasf5I)Noilsleeintebsofigseseorwed6ssurtssnwtftoganisptfmted.T7pthrslberefrigteseseorwedlsmins8aewhteadp.Tedtslieanispttoayilw9ssananpdbyted,psafeof$0addsasdw0keofRA45adteaytordadwedlp.Ted1slreanolorwnenorbhtodewomyqyfranisp2PsslbeidfmJy1adsleeDr31ofeyory.Pss3bereunpra,ptofablptfeof$,addno4cewhtecgenrtofsh(.Teisptmyb5s,rdorntrdfrjtc,i,btntldt,teinofw6dlssinvnoftssnorterlbyapthrtoctdew7Tedtslnts,reorretorwaptetfrjtc[ult8pthrhshdanoytobehdbyted.Analfmshdnt]
+[DELETED: R1B45-FLVPe11r,sdorntrwaptmybetnpttoRA2.AlfsslbddintesessfdedinRA4,I18RnadAlP;WrD.AdteiypofRA40tordasfIfaypnsgpsadsstotedtfrisalisadoddwhisd,heoyfeamnfrrna]sreartofalfmtednoftdtintefgm19RnadAlP;WrD.AdRA4,IVtorda0f1I.Wn30ds[rteanfrrnisd,orifteani2g,tnwn30dsartednonshr]o,teatm3albypntotesrc410P;WrD.AdRA4,Vtordasf5V.Tecrofels,arneadhgpttoRA56A]myieanaefenttoed$0frehoeunaypnw7vsaypnoftssnigayreadurtepsoftsc8[sada]Amadnoftecrurtsphslbei9aewh[A5]R.Ayaefeidurtssnsln0peteinoffrpsurtss.Tepsofaef1ldpttotsphslbeddbytedtinteglf.T2crslatr,urRA5,ret3()A]aeofaefswhmybeidurtsphf4vsoftssnaspda5[)Psfrneadhgprtoteinofanaef611EtadP;WrD.AdRA4,Vtordasf7V.Tecrofels,arneadhgpttoRA58A]myieanaefenttoed$0frehoeunaypnw9vsaypnoftss,ayreadurtss,oraypto0ctediourteayoftss.[sada]Am1dnoftecrurtsphslbeinaewh[A52Ayaefeidurtssnslntpeteinoffrp3urtss.Tepsofaefsldpttotsphslb4ddbytedtintertfdedpttoRA4.T5crslatr,urRA5,ret6()A]aeofaefswhmybeidurtsphf7vsoftscraspda8[)Psfrneadhgprtoteinofanaef912D;D;D;WrD.AdRA4,VItordasf]
+[DELETED: R1B45-FLVPe12V.""mstedroftednofwr[yadpncdtofelsV.""mstednofwr[yadpnc,dtoels13AeF;WrD.AdRA48tordasf48AeFTec,arneadhgpttoRA5]myieanafenttoed$0frehoeunaypnwovsaypnoftscroayr,ptororadoridurtsc.Ehdyofvnslce0seo.[sada]Amadnoftecrurt1snslbeinaewh[A5]R.Ayaefeidu2tssnslntpeteinoffrpsurtsc.Tec3slatr,urRA5,ret4I.Aseofaefswhmybeidurtssnfrvnoft5c6I.Psfrneadhgprtoteinofanaef]a7o814AeF;WrD.AdRA4,Itordasf9I.Tecrofted,arneadhgpttoRA5]m0ieanaefenttoed$0frehoeunaypnwovst1rgrtofRA4,I.[sada]Amadnoft2crurtsphslbeinaewh[A5]2.Tec3slatr,urRA5,retopsfrneadhgprtoteino4anaef515P;AeF;WrD.AdRA4,IItordasf6I.Tecrofels,arneadhgpttoRA57A]myieanaefenttoed$0freho,unaypnw8vsaypnoftsc,ayllreoftedtadurtsc,ora9lloridbytedtpttotsc.[sada]Am0dnoftecrurtsphslbeinaewh[A51Ayaefeidurtssnslntpeteinoffrp2urtsc.Tepsofaefsldpttotsphslb3ddbytedtinteglf.Tecrslatr,urRA54ret5()A]aeofaefswhmybeidurtsphf6vsoftsc7[)Psfrneadhgprtoteinofanaef816AeF;WrD.AdRA4,IItordasf]
+[DELETED: R1B45-FLVPe13I.Tec,arneadhgpttoRA5]myieaaefenttoed$0frehoeunaypnwok()Vsaypnoftscrorayreororadoriduri()Msaymlfestinaydtrdtobefdorm()Rsi,f,ortswhaymgdeormI.[sada]Amadnoftecrurtssslbeinaewh[A517AnadE;WrD.AdRA4,IItordasfI.Tec,arneadhgpttoRA5]myret0cnofaypnwovstsc.[sada]Asrgt1rnslbegdby[A5218D;D;WsC.AdRA4,IItordasf3I.""mstednofwr[,dtofels419EgadDgP;CnE;WsC.AdRA45A,XXtordasf6X.Tedtslieactmrcetoayilwossa7anpdbyted,adhssycdtepminaew8psXIadX.IlcsslbevdthDr31ofteyrfgt9yrofi.RlcsslbevdfmJy1thDr31ofeyo0y.Psslbereunpra,addnofcewht1cgenrtofphX.Teisptmybes,r2orntrdfrjtc,i,btntldt,teinofcsinvnoft3crorterlbyapthrtoctdew.Tedtslnts4r,orretorwaptetfrjtce[ltepthrhshdanoyt5behdbyted.Analfmshdntor,s,orntrwap6mybetnpttoRA2710EgadDgP;CnE;WsC.AdRA48A,X)tordasf9()Tedtmyreacefrgdcearnntotec0hr[doyfranaepgurRA51adrsadbyt1d.A2p311AeF;WsC.AdRA43tordasf443AeF5Tec,arneadhginaewhtepsstfhinRA56A]isedtoieanaefeofupto$0frehv,ieoft7dnofv,unaypnwovsaypnoftsc.Tsfeisa8ur[A5]R.Ayaefeidurtssnwlntp]
+[DELETED: R1B45-FLVPe14teinoffrpsurtsc.TepsofaefslpttotssnslbepdintengfdadinRA4,I12P;WsC.AdRA4,I)tordasf()Tec,arneadhgpttoRA5]myieaaefeofupto$0frehoeunaypnwovstsc[sada]Agtoshfsslbegdby[A5]RV.Inofanaefeurtssnslntpeteinoffrcpsurtsc13AyG;DyA;A.AdRA2,V)torda0f1()[eanayqdbye]H2adceoruyadheeeintectofaea3hsadteanoflwtof,pyardjeoftesrorsec4a514AeA.AdRA2,Itordasf6I)Frpsoftsc,"tpgd"m7()Tedsflanonananororrtfralea8ddinRA5,V,wrteantoa,gtinweorinptwhorw9c,ordyteanorrtadwrteanistnbytecrorb0tedtolwohssyaytoteshflanortowmtec1hspyddteaytoteshfla2()T3b4o5()Frpsoftss,"tetd"m6()Teieofanaeoridurscsyayf7shano,wrddasano,anaeo,aceaddto,an8ofvnadorofa,ororsrn,whsstefsadlwtts9tedsdnttoeormevsaeogorheodadost0rttoceogvsadtoteshrnasasaenytocei1cewhaer2()[ernoforterltorwaleasddinRA5,V3bdontepthsnewhtes,r,ortsadcsoftel4oronorgdorjtceasddinrsadretotel]I5aef,pttoscsyayfrshanaefeada6a7s8o]
+[DELETED: R1B45-FLVPe15()"td"msadtpgd;adetd,idaordnmebytedtttiseyaetoaclurtesggaytotedttometed.TetmdsntiergoraaydyrgaspdfrinRA515NwP;AyAnAtL.AdRA50byigaphIItefgnwpI.Anayslbeetfmtersintscrtopefraaepgprtomgafld,ifshfldnissttoalto0clorbdwhjnorsha,ordst,ttpsfrneada1oytobeh.Usbdonanierktohnhhortee,t2aydnurtsphslntbeeefr30dsfgtedeoft3dno,ifanalisfdtoaclorbdwhj,ulteclorbdis4d516EsRnTgP;CnofEsRnC6AdteiyphofRA1,VItordasf7V.Tecrmys,m,orreayesrnc8ceidurtsc,oraypnt,unaf,fgah917NwP;DtofElS;AeA.A0RA24byigarphIVtefgnwp1V.Afeidbytedtslntbeeefr30dsfgtedeo2ted,orifanalisfdtoac,ulteclisad318R.Tefgaer4I.RA1,X,retopsfrneadhgcga5mtadc6I.RA1,X,retopsfrneadhgcgsdw7m8I.RA1,I,retopsfrneadhgcgsdw9m0I.RA4,I,retotednofcnc1V.RA4,I,retornofcndldsret2sedls3V.RA4,I,retocnasofcndldsret4sedls5V.RA4,I,retoteggofmsfrrnofc6dldsretosedls7V.RA4,V,retopsfrneadhgprtoteinofa8aeferetowrm9I.RA2,V,reteatofhgo]
+[DELETED: R1B45-FLVPe16X.RA1,I,retoneadhgrsprtoteinocnaef9EeD.Tsatslteet60dsarisp:Je1,2eD:At1,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER185
+SB445-FINALVERSION
+03/26/2026 1126s
+7May2026...1661h
+2026SESSION
+26-2011
+08/06
+445
+SENATEBILL
+ANACT relativetoadjudicativeproceedingswherethereisacouncilorboardwithjurisdiction.
+SPONSORS: Sen.Pearl, Dist 17; Sen. Gannon, Dist 23;Sen. McGough, Dist 11; Rep. Slottje, Hills.
+13;Rep.Thibault,Merr.25
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillchangestheprocessforappealswherethereisacouncilorboardwithjurisdiction.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER185
+SB445-FINALVERSION
+03/26/2026 1126s
+7May2026...1661h 26-2011
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoadjudicativeproceedingswherethereisacouncilorboardwithjurisdiction.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 185:1 CriteriaforDenial;SuspensionorRevocation;Modification. AmendRSA125-C:13,IIandIIIto
+2 readasfollows:
+3 II. The commissioner may suspend or revoke any permit or authorization issued hereunder if[,
+4 followingahearing,]thecommissionerdetermines:
+5 (a) That the permit holder or registrant has committed a violation of this chapter or any rule,
+6 order,orpermitconditionsinforceandapplicabletoit;or
+7 (b) Thatemissionsfromthedeviceornon-TitleVsourcetowhichthepermitapplies,aloneor
+8 in conjunction with other sources of the same pollutants, presents an immediate danger to the public
+9 health.
+10 III. Thecommissioner mayorder modificationof anysourceof air pollutionholdingavalidpermit
+11 issuedunderthischapterintheeventthatthecommissionerdetermines[,followingahearing]:
+12 (a) That the device or non-Title V source to which the permit applies fails to meet existing
+13 emissionlimitsestablishedbystateorfederalruleorregulation;
+14 (b) That the device or non-Title V source is resulting or is reasonably likely to result in a
+15 violationofanairqualitystandardinforce.
+16 185:2 Enforcement. AmendRSA125-C:15,I-btoreadasfollows:
+17 I-b. The commissioner of the department of environmental services[, after notice and hearing
+18 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon
+19 any person who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any
+20 permit, compliance schedule, stop use order, or order of abatement, issued pursuant to this chapter; or
+21 upon any person who makes or certifies a material false statement relative to any document or
+22 information which is required to be submitted to the department pursuant to this chapter or any rule
+23 adopted pursuant to this chapter. [Rehearings and appeals from a decision of the commissioner under
+24 this paragraph shall be in accordance with RSA 541.] Any administrative fine imposed under this
+25 paragraph shall not preclude the imposition of further penalties under this chapter. The proceeds of
+26 administrativefinesimposedpursuanttothisparagraphshallbedepositedinthegeneralfund.
+27 (a) Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordance
+28 withRSA21-O:11,IV[Notice and hearing prior to the imposition of an administrative fine shall be in
+29 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+30 A:16].
+31 (b) Thecommissionershalldeterminefinesbasedonthefollowing:
+
+CHAPTER185
+SB445-FINALVERSION
+-Page2-
+1 (1) For a minor deviation from a requirement causing minor potential for harm, the fine
+2 shallbenotlessthan$100andnotmorethan$2,000.
+3 (2) For a minor deviation from a requirement causing moderate potential for harm, the
+4 fineshallbenotlessthan$601andnotmorethan$2,500.
+5 (3) For a minor deviation from a requirement causing major potential for harm, the fine
+6 shallbenotlessthan$851andnotmorethan$3,000.
+7 (4) For a moderate deviation from a requirement causing minor potential for harm, the
+8 fineshallbenotlessthan$601andnotmorethan$2,500.
+9 (5) For a moderate deviation from a requirement causing moderate potential for harm,
+10 thefineshallbenotlessthan$851andnotmorethan$3,000.
+11 (6) For a moderate deviation from a requirement causing major potential for harm, the
+12 fineshallbenotlessthan$1,251andnotmorethan$3,500.
+13 (7) For a major deviation from a requirement causing minor potential for harm, the fine
+14 shallbenotlessthan$851andnotmorethan$3,000.
+15 (8) For a major deviation from a requirement causing moderate potential for harm, the
+16 fineshallbenotlessthan$1,251andnotmorethan$3,500.
+17 (9) For a major deviation from a requirement causing major potential for harm, the fine
+18 shallbenotlessthan$1,501andnotmorethan$4,000.
+19 (c) Thecommissionermayassessanadditionalfineforrepeatviolations.
+20 (d) Eachdayofviolationshallconstituteaseparateoffense.
+21 185:3 AdministrativeFines. AmendRSA125-D:4toreadasfollows:
+22 125-D:4 AdministrativeFines.
+23 The commissioner of the department of environmental services[, after notice and hearing pursuant to
+24 RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon any person
+25 who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any permit or
+26 order issued pursuant to this chapter; or upon any person who makes or certifies a material false
+27 statement relative to any document or information which is required to be submitted to the department
+28 pursuant to this chapter or any rule adopted pursuant to this chapter. [Rehearings and appeals from a
+29 decisionofthecommissionerunderthissectionshallbeinaccordancewithRSA541.] Anyadministrative
+30 fine imposed under this section shall not preclude the imposition of further penalties under this chapter.
+31 The proceeds of administrative fines imposed pursuant to this section shall be deposited in the general
+32 fund.
+33 I. Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordancewith
+34 RSA21-O:11,IV [Notice and hearing prior to the imposition of an administrative fine shall be in
+35 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+36 A:16].
+37 II. ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b)and(d).
+38 III. Thecommissionermayassessanadditionalfineforrepeatviolations.
+39 185:4 AdministrativeFines. AmendRSA125-I:3-atoreadasfollows:
+
+CHAPTER185
+SB445-FINALVERSION
+-Page3-
+1 125-I:3-a AdministrativeFines.
+2 The commissioner of the department of environmental services[, after notice and hearing pursuant to
+3 RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon any person
+4 who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any permit or
+5 order issued pursuant to this chapter; or upon any person who makes or certifies a material false
+6 statement relative to any document or information which is required to be submitted to the department
+7 pursuant to this chapter or any rule adopted pursuant to this chapter. [Rehearings and appeals from a
+8 decisionofthecommissionerunderthissectionshallbeinaccordancewithRSA541.] Anyadministrative
+9 fine imposed under this section shall not preclude the imposition of further penalties under this chapter.
+10 The proceeds of administrative fines imposed pursuant to this section shall be deposited in the general
+11 fund.
+12 I. Appealsfromadecisionofthecommissionerunderthissectionshallbeinaccordancewith
+13 RSA21-O:11,IV [Notice and hearing prior to the imposition of an administrative fine shall be in
+14 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+15 A:16].
+16 II. ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b)and(d).
+17 III. Thecommissionermayassessanadditionalfineforrepeatviolations.
+18 185:5 Enforcement. AmendRSA125-J:8,I-atoreadasfollows:
+19 I-a. The commissioner of the department of environmental services[, after notice and hearing
+20 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $2,000 for each offense upon
+21 any person who violates any provision of this chapter, any rule adopted pursuant to this chapter, or any
+22 permit, compliance schedule, stop use order, or order of abatement issued pursuant to this chapter; or
+23 upon any person who makes or certifies a material false statement relative to any document or
+24 information which is required to be submitted to the department pursuant to this chapter or any rule
+25 adopted pursuant to this chapter. [Rehearings and appeals from a decision of the commissioner under
+26 this paragraph shall be in accordance with RSA 541.] Any administrative fine imposed under this
+27 paragraph shall not preclude the imposition of further penalties under this chapter. The proceeds of
+28 administrativefinesimposedpursuanttothisparagraphshallbedepositedinthegeneralfund.
+29 (a) Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordance
+30 withRSA21-O:11,IV[Notice and hearing prior to the imposition of an administrative fine shall be in
+31 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+32 A:16].
+33 (b) ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b).
+34 (c) Thecommissionermayassessanadditionalfineforrepeatviolations.
+35 185:6 Administrative Fines; Asbestos Management Control. Amend RSA 141-E:16 to read as
+36 follows:
+37 141-E:16 AdministrativeFines.
+38 I.(a) The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+39 administrative fine not to exceed $4,000 for each offense upon any person who violates any provision of
+
+CHAPTER185
+SB445-FINALVERSION
+-Page4-
+1 RSA141-E:3oranyruleadoptedbythecommissionerunderthischapter;oruponanypersonwhomakes
+2 or certifies a material false statement relative to any document or information which is required to be
+3 submitted to the department pursuant to this chapter or any rule adopted pursuant to this chapter.
+4 [Rehearings and appeals from a decision of the commissioner under this paragraph shall be in
+5 accordance with RSA 541.] Any administrative fine imposed under this paragraph shall not preclude the
+6 impositionof furtherpenaltiesunderthischapter. Theproceedsofadministrativefinesleviedpursuant to
+7 thissectionshallbedepositedinthefundestablishedbyRSA141-E:12,II.
+8 (b) Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordance
+9 withRSA21-O:11,IV[Notice and hearing prior to the imposition of an administrative fine shall be in
+10 accordance with RSA 541-A and procedural rules adopted by the commissioner pursuant to RSA 541-
+11 A:16].
+12 (c) ThecommissionershalldeterminefinesinaccordancewithRSA125-C:15,I-b(b)and(d).
+13 (d) Thecommissionermayassessanadditionalfineforrepeatviolations.
+14 II. WheneverapersonlicensedpursuanttoRSA141-E:10orcertifiedpursuanttoRSA141-E:11
+15 fails to pay an administrative fine as required by this section, the commissioner[, after notice and hearing
+16 pursuant to rules adopted under RSA 541-A,] may deny, suspend, or revoke the license or certificate or
+17 mayissueanappropriateorder.
+18 185:7 Administrative Fines; Waste Management Division. Amend RSA 146-A:15, I to read as
+19 follows:
+20 I. The commissioner of the department of environmental services[, after notice and hearing
+21 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $4,000 for each offense upon
+22 any person who violates any provision of this chapter including any rule adopted under the provisions of
+23 this chapter or any order or permit issued under this chapter. Each day of the violation shall constitute a
+24 separate offense. [Rehearings and appeals] Appealsfrom a decision of the commissioner under this
+25 paragraphshall be in accordance with [RSA 541]RSA21-O:9,V. Any administrative fine imposed under
+26 this section shall not preclude the imposition of further penalties under this chapter. The commissioner
+27 shalladoptrules,underRSA541-A,relativeto[:
+28 (a) A] aschedule of administrative fines which may be imposed under this section for
+29 violationsasprovidedinparagraphI.
+30 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+31 185:8 UndergroundStorageFacilityPermitRequired. AmendRSA146-C:4,Itoreadasfollows:
+32 I. No person shall own or operate an underground storage facility in this state without a permit
+33 issued by the department. The permit to operate may be revoked [in accordance with RSA 541-A:30] for
+34 just cause, including, but not limited to, the operation or ownership of an underground storage facility in
+35 violation of the department's rules. The revocation shall not take effect until the owner or operator has
+36 had an opportunity to be heard by the council, provided such request is made within 20 days of the
+37 issuance of the department's decision to revoke the permit. Appeal of a decision revoking a permit to
+38 operate shall be governed by RSA 21-O:14. Any appeal brought pursuant to RSA 541 shall not stay a
+39 decisionbythewastemanagementcouncilwhichaffirmsthedepartment'srevocationofapermit.
+
+CHAPTER185
+SB445-FINALVERSION
+-Page5-
+1 185:9 Administrative Fines; Underground Storage Facilities. Amend RSA 146-C:10-a to read as
+2 follows:
+3 146-C:10-a AdministrativeFines.
+4 The commissioner of the department of environmental services[, after notice and hearing pursuant to
+5 RSA 541-A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person
+6 whoviolates any provision of this chapter including anyrule adopted under the provisions of this chapter.
+7 [Rehearings and appeals] Appealsfrom a decision of the commissioner under this section shall be in
+8 accordance with [RSA 541]RSA21-O:9,V. Any administrative fine imposed under this section shall not
+9 preclude the imposition of further penalties under this chapter. The proceeds of administrative fines
+10 levied pursuant to this section shall be deposited by the commissioner in the oil pollution control fund
+11 establishedunderRSA146-A. Thecommissionershalladoptrules,underRSA541-A,relativeto[:
+12 I. A]aschedule of administrative fines which may be imposed under this section for violations of
+13 thischapterasprovidedabove[;and
+14 II.Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine].
+15 185:10 Administrative Fines; Hazardous Waste Management. Amend RSA 147-A:17-a, I to read as
+16 follows:
+17 I. The commissioner of the department of environmental services[, after notice and hearing
+18 pursuant to RSA 541-A,] may impose an administrative fine not to exceed $2,000 for each offense upon
+19 any person who violates any provision of this chapter including any rule adopted under the provisions of
+20 this chapter. [Rehearings and appeals] Appeals from a decision of the commissioner under this
+21 paragraphshall be in accordance with [RSA 541]RSA21-O:9,V. Any administrative fine imposed under
+22 this section shall not preclude the imposition of further penalties under this chapter. The commissioner
+23 shalladoptrules,underRSA541-A,relativeto[:
+24 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+25 violationsofthischapterasprovidedabove.
+26 [(b)Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+27 185:11 Approval,Suspension,orRevocation. AmendtheintroductoryparagraphofRSA149-M:12,II
+28 toreadasfollows:
+29 II. The department may suspend or revoke any permit issued under this chapter if[, following an
+30 opportunityforhearing,]itdeterminesthat:
+31 185:12 AdministrativeFines;SolidWasteManagement. AmendRSA149-M:16toreadasfollows:
+32 149-M:16 AdministrativeFines.
+33 The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an administrative
+34 fine not to exceed $2,000 for each offense upon any person who violates any provision of this chapter,
+35 includinganyruleadoptedundertheprovisionsofthischapter. [Rehearingsandappeals]Appealsfroma
+36 decision of the commissioner under this section shall be in accordance with [RSA 541] RSA21-O:9,V.
+37 Any administrative fine imposed under this section shall not preclude the imposition of further penalties
+38 underthischapter. Thecommissionershalladoptrules,underRSA541-A,relativeto[:
+
+CHAPTER185
+SB445-FINALVERSION
+-Page6-
+1 I. A]aschedule of administrative fines which may be imposed under this section for violations of
+2 thischapterasprovidedabove.
+3 [II. Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+4 185:13 Enforcement;SolidWasteManagement. AmendRSA149-M:38,VItoreadasfollows:
+5 VI. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+6 administrative fine not to exceed $2,000 for each violation upon any person who violates any provision of
+7 this subdivision, any rule adopted under this subdivision, any condition in any exemption granted under
+8 thissubdivision,oranyorderissuedpursuanttothissubdivisionorwhomakesorcertifiesamaterialfalse
+9 statementrelativetoanycertificateofcompliancerequiredbythissubdivision. [Rehearingsandappeals]
+10 Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]
+11 RSA21-O:9,V. Anyadministrativefineimposedunderthisparagraphshallnotprecludetheimpositionof
+12 otherpenaltiesunderthischapter.
+13 185:14 Revocation or Suspension of Certificate; Water Division. Amend RSA 332-E:9, I to read as
+14 follows:
+15 I. If the department receives information which indicates that good cause exists to suspend or
+16 revoke the certificate of an individual operator, the department shall [proceed to] suspend or revoke the
+17 certificateinaccordance[withRSA541-A:30].
+18 185:15 Penalties;WaterDivision. AmendRSA482:89,Vtoreadasfollows:
+19 V. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose upon any
+20 personwhoviolatesanyprovisionofthischapter,asspecifiedinparagraphI,anadministrativefinenotto
+21 exceed $2,000 for each violation in addition to other remedies and penalties provided under this chapter.
+22 [The department shall commence a proceeding under this paragraph against any person who does not
+23 respond within 45 days of receipt of a written order, directive, or any notice of needed maintenance,
+24 repair, or reconstruction issued by the department. Rehearings and appeals] Appeals under this
+25 paragraph shall be in accordance with [RSA 541]RSA21-O:7,IV. The commissioner shall adopt rules,
+26 underRSA541-A,relativeto:
+27 (a) A schedule of administrative fines which may be imposed under this paragraph for
+28 violationofthischapterasspecifiedinparagraphI;and
+29 (b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.
+30 185:16 Refusal; Revocation; Suspension; Disciplinary Action; Water Division. Amend RSA 482-B:8
+31 toreadasfollows:
+32 482-B:8 Refusal;Revocation;Suspension[;DisciplinaryAction].
+33 [I.] A license maybe refused, or a licenseduly issued may be suspendedor revoked, or the renewal
+34 of such license refused by the board on the board's own investigation and motion or upon motion or
+35 writtencomplaintofaninterestedpartyiftheboardhasgoodandsufficientreasontobelieveorfindsthat
+36 theapplicantforortheholderofsuchalicensehas:
+37 [(a)] I. Made a material misstatement in the application for a license or any application for
+38 renewalofsuchlicense.
+39 [(b)]II.Obtainedthelicensethroughwillfulfraudormisrepresentation.
+
+CHAPTER185
+SB445-FINALVERSION
+-Page7-
+1 [(c)] III. Demonstrated incompetency to act as a water well contractor or pump installer as
+2 determinedbythewaterwellboard.
+3 [(d)]IV. Beenguiltyof willfulfailuretocomplywiththeprovisionsof thischapter orrulesadopted
+4 underRSA482-B:4.
+5 [(e)]V.RefusedtofilereportsasrequiredunderRSA482-B:10.
+6 [(f)]VI.Beenfoundguilty,bytheboardorbyacourtofcompetentjurisdictionofanyfraud,deceit,
+7 gross negligence, incompetence, or misconduct in the industry, operations, or business of water well
+8 constructionorpumpinstallations.
+9 [II. The department may undertake one or more of the following disciplinary actions upon the
+10 department's own investigation and motion or upon written complaint and motion of an interested party if
+11 the department has good and sufficient reason to believe or finds that the applicant for or the holder of
+12 suchalicensehasviolatedtheprovisionsofRSA482-Bandtherulesoftheboard:
+13 (a) Writtenreprimand.
+14 (b) Administrativeorder.
+15 (c) Administrativefine.
+16 (d) Requiring the licensee to participate in a program of continuing education in the area or
+17 areasinwhichthelicenseehasbeenfounddeficient.]
+18 185:17 Hearing;WaterDivision. AmendRSA482-B:9toreadasfollows:
+19 482-B:9 Hearing.
+20 I. Before taking any action under RSA 482-B:8, the board [or department] shall give notice of its
+21 intention to do so by certified mail to the person against whom the proposed action is to be taken. Upon
+22 receipt of such notice, the person affected may within 30 days request a hearing. If a hearing is
+23 requested,theboard[ordepartment]shallnotactuntilsuchhearingiscompleted.
+24 II. Hearings held by the board shall be held in the county in which the person affected has his or
+25 herplaceofbusinessorintheofficeoftheboard,whichevertheboardmaydecide. Atleast10daysprior
+26 to the date of hearing, the board shall send written notice of the time and place of such hearing to the
+27 applicant for, or holder of, such license by certified mail to the last known address of such person. The
+28 testimonypresentedandtheproceedingsofsuchhearingshallberecordedandpreservedastherecords
+29 of the board. The board shall as soon after the hearing as possible, and not later than 90 days after the
+30 date of such hearing, make its findings and determination on the license and shall send a copy of its
+31 decision to each interested party by certified mail return receipt requested or by personal service.
+32 Revocationorsuspensionofalicenseshallbeeffectiveuponreceiptofsuchboarddecision.
+33 III. AppealfromadecisionoftheboardmaybemadeinaccordancewithRSA541.
+34 [IV. Hearings held by the department shall be held in accordance with the rules of practice and
+35 procedureofthedepartment.]
+36 185:18 EnforcementandPenalties;WaterDivision. AmendRSA482-B:16,IItoreadasfollows:
+37 II. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+38 administrative fine not to exceed $2,000 for each offense upon any person who violates any provision of
+39 thischapter, anyruleadoptedunder thischapter, or anylicenseor approval issuedunder thischapter, or
+
+CHAPTER185
+SB445-FINALVERSION
+-Page8-
+1 who makes or certifies a material false statement relative to any document required by this chapter. The
+2 person may appeal the decision to the board within 30 days of the date of the decision. Following an
+3 appeal hearing, the board may uphold or overturn the decision or impose a lesser or greater fine.
+4 Rehearings and appeals from a decision of the board under this paragraph shall be in accordance with
+5 RSA 541. Any administrative fine imposed under this section shall not preclude the imposition of further
+6 penaltiesunderthischapter. Thecommissionershalladoptrulessubjecttotheapprovalofthewaterwell
+7 board,underRSA541-A,relativeto[:
+8 (a) A]ascheduleofadministrativefineswhichmaybeimposedunderthisparagraph[;and
+9 (b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine].
+10 185:19 Establishment of Protected Instream Flows; Water Division. Amend RSA 483:9-c, X to read
+11 asfollows:
+12 X. Anypartywhoisaggrievedbyadeterminationestablishingsuchprotectedinstreamflowsmay
+13 [petitionthecommissionerforahearingtoreview]appealsuchdeterminationpursuanttoRSA21-O:7,IV
+14 within 30 days of the date the determination is issued. [The filing of such petition shall stay the
+15 implementation of the determination until a final decision has been rendered on the petition or an appeal
+16 takenpursuanttoRSA541.]
+17 185:20 EnforcementandPenalties;WaterDivision. RSA485:58,Iisrepealedandreenactedtoread
+18 asfollows:
+19 I. Thedepartment mayissueanadministrativeorder toanypersonwhoviolatesanyprovisionof
+20 this chapter, any rule adopted under this chapter, or any license or approval issued under this chapter or
+21 who makes or certifies a material false statement relative to any document required by this chapter. The
+22 department may order the person to cease and desist from the violation and may require such corrective
+23 measuresasarenecessarytocorrecttheviolation. Appealsfromadecisionofthedepartmentshallbein
+24 accordance with RSA 21-O. The superior court shall place any action filed by the department to enforce
+25 anorder underthissectionatthetopofitscalendarof casesandshall provideanexpeditioushearingon
+26 suchorder.
+27 185:21 EnforcementandPenalties;WaterDivision. AmendRSA485:58,Vtoreadasfollows:
+28 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+29 A,] may impose an administrative fine not to exceed $4,000 for each offense upon any person who
+30 violates any provision of this chapter including any rule adopted under the provisions of this chapter or
+31 any order or permit issued under this chapter. Each day of violation shall constitute a separate offense.
+32 [Rehearings and appeals]Appealsfrom a decision of the commissioner under this paragraph shall be in
+33 accordance with [RSA 541]RSA21-O:7,IV. Any administrative fine imposed under this section shall not
+34 preclude the imposition of further penalties under this chapter. The proceeds of administrative fines
+35 levied pursuant to this paragraph shall be deposited by the department in the general fund. The
+36 commissionershalladoptrules,underRSA541-A,relativeto[:
+37 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+38 violationsofthischapterasprovidedabove.
+39 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+
+CHAPTER185
+SB445-FINALVERSION
+-Page9-
+1 185:22 Application;SpecialFund;WaterDivision. AmendRSA485-A:7-a,Itoreadasfollows:
+2 I. Any operator of a wastewater treatment plant seeking certification or to increase his level of
+3 certification shall file an application with the [certification committee]departmentat least 6 weeks prior to
+4 thenextexaminationdateonaformprovidedbythedepartment.
+5 185:23 IssuanceofCertificates;WaterDivision. AmendRSA485-A:7-ctoreadasfollows:
+6 485-A:7-c IssuanceofCertificates.
+7 I. Upon satisfactory completion by an applicant of the established requirements, the department
+8 shall issue to the applicant a suitable certificate designating the applicant's competency. The certificate
+9 shallindicatethelevelofoperationforwhichtheoperatorisqualified. Thecertificateshallremainineffect
+10 [for]untilDecember31orJune30,butnotmorethan2yearsfromthedateofissuance.
+11 II. Certificates shall be renewed bienniallyandshallexpireonthedateprintedonthecertificate.
+12 All renewal applications shall be accompanied by a $100 renewal fee, which shall be deposited pursuant
+13 toRSA485-A:7-a,II.
+14 III. Certificates may be issued, upon payment of the $100 fee, without examination, for a
+15 comparable classification to any person actively seeking employment in New Hampshire who holds a
+16 certificateissuedbytheappropriatecertificationagencyofanyfederal,state,interstate,territorial,orother
+17 jurisdiction if, in the judgment of the [certification committee]department, the certification requirements of
+18 the jurisdiction granting such certification do not conflict with the department's rules and are not less
+19 stringentthanrulesadoptedunderthissubdivision. ThefeeshallbedepositedpursuanttoRSA485-A:7-
+20 a,II.
+21 185:24 PenaltiesandOtherRelief;FailuretoProvideFacility;WaterDivision. AmendRSA485-A:22,
+22 Vtoreadasfollows:
+23 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+24 A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person who
+25 violates any provision of this subdivision or, RSA 485-A:4-6, any rule adopted under this subdivision or
+26 RSA 485-A:4-6, or any permit issued under the authority of this subdivision or RSA 485-A:4-6.
+27 [Rehearings and appeals]Appealsfrom a decision of the commissioner under this paragraph shall be in
+28 accordance with [RSA 541]RSA21-O:7,IV. Any administrative fine imposed under this section shall not
+29 preclude the imposition of further penalties under this chapter. The proceeds of administrative fines
+30 levied pursuant to this paragraph shall be deposited by the department in the general fund. The
+31 commissionershalladoptrules,underRSA541-A,relativeto[:
+32 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+33 violations of this chapter, rules adopted under this chapter, and permits issued under this chapter, as
+34 providedabove.
+35 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+36 185:25 Penalty;AdministrativeFines;WaterDivision. AmendRSA485-A:28,IItoreadasfollows:
+37 II. Thecommissioner[,afternoticeandhearing,]mayimposeanadministrativefinenottoexceed
+38 $2,000for eachoffense uponany personwho violates anyprovision of this subdivision, any rule adopted
+39 underthissubdivision,oranylicenseorapprovalissuedunderthissubdivision. [Rehearingsandappeals]
+
+CHAPTER185
+SB445-FINALVERSION
+-Page10-
+1 Appealsfromadecisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]
+2 RSA21-O:7,IV. Any administrative fine imposed under this section shall not preclude the imposition of
+3 further penalties under this chapter. The proceeds of administrative fines levied pursuant to this
+4 paragraphshallbedepositedinthegeneralfund. Thecommissionershalladoptrules,underRSA541-A,
+5 relativeto[:
+6 (a)A]ascheduleofadministrativefineswhichmaybeimposedunderthisparagraph[;and
+7 (b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine].
+8 185:26 PermitEligibility;Exemption;WaterDivision. AmendRSA485-A:35,I(a)toreadasfollows:
+9 I.(a) All applications, plans, and specifications submitted in accordance with this chapter for
+10 subsurface sewage or waste disposal systems shall be prepared and signed by the individual who is
+11 directly responsible for them and who has a permit issued by the department to perform the work. The
+12 department shall issue a permit to any individual who applies to the department, pays a fee of $80, and
+13 demonstratesasoundworkingknowledgeoftheproceduresandpracticesrequiredinthesiteevaluation,
+14 design,andoperationofsubsurfacesewageorwastedisposalsystems. Thedepartmentshallrequirean
+15 oral or written examination or both to determine who may qualify for a permit. Permits shall be issued
+16 fromJanuary1andshallexpireDecember31ofeveryotheryear,subjecttothegraceperiodsspecifiedin
+17 subparagraphs (c) and (d). Permits shall be renewable upon proper application, payment of a biennial
+18 permit fee of $80, and documentation of compliance with the continuing education requirement of
+19 subparagraph (b). A permit issued to any individual may be suspended, revoked or not renewed only for
+20 just cause[ and after the permit holder has had a full opportunity to be heard by the department]. An
+21 appeal from a decision to revoke, suspend, or not renew a permit may be taken pursuant to [RSA 541]
+22 RSA21-O:7,IV. AllfeesshallbedepositedinthesubsurfacesystemsfundestablishedinRSA485-A:30,
+23 I-b.
+24 185:27 SystemInstallerPermit;WaterDivision. AmendRSA485-A:36,I(a)toreadasfollows:
+25 I.(a) Noindividualshallengageinthebusinessofinstallingsubsurfacesewageorwastedisposal
+26 systems under this subdivision without first obtaining an installer's permit from the department. The
+27 permit holder shall be responsible for installing the subsurface sewage or waste disposal system in strict
+28 accordancewiththeapprovedplan. Thedepartmentshallissueaninstaller'spermittoanyindividualwho
+29 submitsanapplicationprovidedbythedepartment, paysafeeof $80anddemonstratesasound working
+30 knowledge of RSA 485-A:29-35 and the ability to read approved waste disposal plans. The department
+31 shall require an oral or written examination or both to determine who may qualify for an installer's permit.
+32 Permits shall be issued from January 1 and shall expire December 31 of every other year. Permits shall
+33 be renewable upon proper application, payment of a biennial permit fee of $80, and documentation of
+34 compliancewiththecontinuingeducationrequirementofsubparagraph(b). Theinstaller'spermitmaybe
+35 suspended, revoked or not renewed for just cause, including, but not limited to, the installation of waste
+36 disposalsystemsinviolationofthissubdivisionortherefusalbyapermitholdertocorrectdefectivework.
+37 The department shall not suspend, revoke or refuse to renew a permit except for just cause[ until the
+38 permit holder has had an opportunity to be heard by the department]. An appeal from such decision to
+
+CHAPTER185
+SB445-FINALVERSION
+-Page11-
+1 revoke, suspend or not renew a permit may be taken pursuant to RSA 21-O:14. All fees shall be
+2 depositedinthesubsurfacesystemsfundestablishedinRSA485-A:30,I-b.
+3 185:28 Reconsideration and Appeal Procedure; Water Division. Amend the introductory paragraph
+4 ofRSA485-A:40toreadasfollows:
+5 If any person submitting plans and specifications to the department for its approval is aggrieved or
+6 dissatisfiedwithitsdecision,heorshe[mayfileamotionfor reconsiderationand] shall,inadditiontoany
+7 rightstoappealadepartmentdecisionunderRSA21-O:14,havearightofappealfromthedecisionofthe
+8 departmentinthefollowingmanner:
+9 185:29 ReconsiderationandAppealProcedure;WaterDivision. AmendRSA485-A:40,IVtoreadas
+10 follows:
+11 IV. Within 30 days [after the application for reconsideration is denied, or if the application is
+12 granted,thenwithin30daysafterthedecisiononsuchreconsideration]ofthedecision,theapplicantmay
+13 appealbypetitiontothesuperiorcourt.
+14 185:30 Penalties;WaterDivision. AmendRSA485-A:43,Vtoreadasfollows:
+15 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+16 A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person who
+17 violates any provision of this subdivision including any rule adopted under the provisions of this chapter.
+18 [Rehearings and appeals]Appealsfrom a decision of the commissioner under this paragraph shall be in
+19 accordance with [RSA 541]RSA21-O:7,IV. Any administrative fine imposed under this section shall not
+20 preclude the imposition of further penalties under this subdivision. The proceeds of administrative fines
+21 levied pursuant to this paragraph shall be deposited by the department in the general fund. The
+22 commissionershalladoptrules,underRSA541-A,relativeto[:
+23 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+24 violationsofthissubdivisionasprovidedabove.
+25 [(b)Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+26 185:31 EnforcementandPenalties;WaterDivision. AmendRSA485-A:54,Vtoreadasfollows:
+27 V. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+28 A,] may impose an administrative fine not to exceed $2,000 for each offense upon any person who
+29 violates any provision of this subdivision, any rule adopted under this subdivision, or any permit or
+30 contract entered into under the authority of this subdivision. [Rehearings and appeals] Appealsfrom a
+31 decisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]RSA21-O:7,IV.
+32 Any administrative fine imposed under this section shall not preclude the imposition of further penalties
+33 under this subdivision. The proceeds of administrative fines levied pursuant to this paragraph shall be
+34 deposited by the department in the replacement fund established pursuant to RSA 485-A:51. The
+35 commissionershalladoptrules,underRSA541-A,relativeto[:
+36 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+37 violationsofthischapterasprovidedabove.
+38 [(b)Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+39 185:32 Definitions;Director;Division;WaterDivision. AmendRSA485-C:2,VI-VIItoreadasfollows:
+
+CHAPTER185
+SB445-FINALVERSION
+-Page12-
+1 VI. "Director" means the director of the division of water [supply and pollution control],
+2 departmentofenvironmentalservices.
+3 VII. "Division" means the division of water [supply and pollution control], department of
+4 environmentalservices.
+5 185:33 AdministrativeFines;WaterDivision. AmendRSA485-C:18toreadasfollows:
+6 485-C:18 AdministrativeFines.
+7 The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an administrative
+8 fine not to exceed $4,000 for each offense upon any person who violates any provision of this chapter or
+9 any rule, permit or order adopted or issued under this chapter. Each day of violation shall constitute a
+10 separate offense. [Rehearings and appeals] Appealsfrom a decision of the commissioner under this
+11 section shall be in accordance with [RSA 541] RSA21-O:7,IV. Any administrative fine imposed under
+12 this section shall not preclude the imposition of further penalties under this chapter. The commissioner
+13 shalladoptrules,underRSA541-A,relativeto[:
+14 I. Ascheduleofadministrativefineswhichmaybeimposedunderthissectionforviolationofthis
+15 chapter.
+16 II. Proceduresfor noticeandhearingprior totheimpositionof anadministrativefine.]aschedule
+17 ofadministrativefineswhichmaybeimposedunderthissectionforviolationofthischapter.
+18 185:34 AdministrativeFines;WaterDivision. AmendRSA486-A:14,Itoreadasfollows:
+19 I. The commissioner of the department[, after notice and hearing pursuant to RSA 541-A,] may
+20 impose an administrative fine not to exceed $500 for each offense upon any person who violates the
+21 reporting requirement of RSA 486-A:7, II(e). [Rehearings and appeals] Appealsfrom a decision of the
+22 commissionerunderthisparagraphshallbeinaccordancewith[RSA541]21-O:7,IV. Thecommissioner
+23 shalladoptrules,underRSA541-A,relativetoproceduresfornoticeandhearingpriortotheimpositionof
+24 anadministrativefine.
+25 185:35 Penalty;AdministrativeFines;WaterDivision. AmendRSA487:7,IItoreadasfollows:
+26 II. The commissioner of environmental services[, after notice and hearing pursuant to RSA 541-
+27 A,] may impose an administrative fine not to exceed $2,000 for each offense, upon any person who
+28 violatesanyprovisionofthischapter,anylawfulruleofthedepartmentadoptedunderthischapter,orany
+29 lawfulorderissuedbythedepartmentpursuanttothischapter. [Rehearingsandappeals]Appealsfroma
+30 decisionofthecommissionerunderthisparagraphshallbeinaccordancewith[RSA541]RSA21-O:7,IV.
+31 Any administrative fine imposed under this section shall not preclude the imposition of further penalties
+32 under this chapter. The proceeds of administrative fines levied pursuant to this paragraph shall be
+33 depositedbythedepartmentinthegeneralfund. Thecommissioner shalladoptrules,underRSA541-A,
+34 relativeto[:
+35 (a) A] aschedule of administrative fines which may be imposed under this paragraph for
+36 violationsofthischapter.
+37 [(b) Proceduresfornoticeandhearingpriortotheimpositionofanadministrativefine.]
+38 185:36 AdministrativeFines;WaterDivision. AmendRSA488:8,I-IItoreadasfollows:
+
+CHAPTER185
+SB445-FINALVERSION
+-Page13-
+1 I. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+2 administrativefinenottoexceed$4,000foreachoffenseuponanypersonwhoknowingly:
+3 (a) Violatesanyprovisionofthischapteroranyruleororderadoptedorissuedunderit.
+4 (b) Makesanymaterialfalsestatementinanydocumentrequiredtobefiledormaintained.
+5 (c) Rendersinaccurate,falsifies,ortamperswithanymonitoringdeviceormethod.
+6 II. [Rehearings and appeals] Appealsfrom a decision of the commissioner under this section
+7 shallbeinaccordancewith[RSA541]RSA21-O:7,IV.
+8 185:37 AdministrationandEnforcement;WaterDivision. AmendRSA489-C:5,IIItoreadasfollows:
+9 III. The commissioner[, after notice and hearing pursuant to RSA 541-A,] may revoke the
+10 certification of any person who violates this chapter. [Rehearings and appeals] Appealsrelating to
+11 revocationshallbegovernedby[RSA541]RSA21-O:7,IV.
+12 185:38 Definitions;Division;WetlandsCouncil. AmendRSA482-A:2,IItoreadasfollows:
+13 II. "Division"meansthedivisionofwater[resources],departmentofenvironmentalservices.
+14 185:39 Excavating and Dredging Permit; Certain Exemptions; Wetlands Council. Amend RSA 482-
+15 A:3,XIXtoreadasfollows:
+16 XIX. The department shall issue a culvert maintainer certificate to any individual who submits an
+17 application provided by the department, and has satisfactorily completed the program in accordance with
+18 paragraphsXVIIandXVIII.InitialcertificatesshallbevalidthroughDecember 31oftheyearfollowingthe
+19 year of issue. Renewal certificates shall be valid from January 1 through December 31 of every other
+20 year. Permits shall be renewable upon proper application, and documentation of compliance with the
+21 continuing education requirement of paragraph XVIII. The installer's permit may be suspended, revoked,
+22 or not renewed for just cause, including, but not limited to, the installation of culverts in violation of this
+23 chapter or the refusal by a permit holder to correct defective work. The department shall not suspend,
+24 revoke,orrefusetorenewapermitexceptforjustcause[untilthepermitholderhashadanopportunityto
+25 be heard by the department]. An appeal from such decision to revoke, suspend, or not renew a permit
+26 maybetakenpursuanttoRSA21-O:14.
+27 185:40 Excavating and Dredging Permit; Certain Exemptions; Wetlands Council. Amend RSA 482-
+28 A:3,XX(c)toreadasfollows:
+29 (c) Thedepartmentmayrevokeacertificateforgoodcauseafternotificationtothecertificate
+30 holder [and opportunity for an adjudicative proceeding under RSA 541-A:31 and rules adopted by the
+31 department]. Anappealfromsuchdecisiontorevoke,suspend,ornotrenewapermitmaybetaken
+32 pursuanttoRSA21-O:5-a,V.
+33 185:41 AdministrativeFine;WetlandsCouncil. AmendRSA482-A:13toreadasfollows:
+34 482-A:13 AdministrativeFine.
+35 Thecommissioner[, after noticeand hearing inaccordance with theprocedures set forthin RSA 541-
+36 A,] is empowered to impose an administrative fine of up to $5,000 for each violation, irrespective of the
+37 duration of violation, upon any person who violates any provision of this chapter. This fine is appealable
+38 under [RSA 541]RSA21-O:5-a,V. Any administrative fine imposed under this section will not preclude
+
+CHAPTER185
+SB445-FINALVERSION
+-Page14-
+1 the imposition of further penalties under this chapter. The proceeds of administrative fines levied
+2 pursuanttothissectionshallbeplacedinthenonlapsingfundauthorizedinRSA482-A:14,III.
+3 185:42 Penalties;WetlandsCouncil. AmendRSA483-B:18,III(b)toreadasfollows:
+4 (b) The commissioner[, after notice and hearing pursuant to RSA 541-A,] may impose an
+5 administrative fine of up to $5,000 for each offense upon any person who violates this chapter.
+6 [Rehearings and appeals]Appealsrelating to such fines shall be governed by [RSA 541]RSA21-O:5-a,
+7 V. Imposition of an administrative fine under this section shall not preclude the imposition of further civil
+8 penaltiesunderthischapter.
+9 185:43 Attorney General; Deputy Associates; Assistants. Amend RSA 21-M:3, VIII(a) to read as
+10 follows:
+11 (a) [Be an attorney qualified by education]Haveaminimumofajurisdoctordegreefroman
+12 accreditedcollegeoruniversity and have experience in the conduct of administrative adjudicative
+13 hearingsandthe applicationof lawto facts[, preferably aretired justiceof thesuperior or supreme court];
+14 and
+15 185:44 AdministrativeAppeals. AmendRSA21-O:14,Itoreadasfollows:
+16 I.(a) Forpurposesofthischapter,"departmentpermittingdecision"means:
+17 (1) The department's final action on an application or other request for a license as
+18 defined in RSA 541-A:1, VIII, whether the action to accept, grant in whole or in part with or without
+19 conditions, or deny the application or request and whether the action is taken by the commissioner or by
+20 the department official who has statutory authority to take such final action or to whom the commissioner
+21 hasproperlydelegatedtheauthoritytotakesuchfinalaction.
+22 (2) TherevocationofortherefusaltorenewalicenseasdefinedinRSA541-A:1,VIII
+23 basedonthepermitholder'snon-compliancewiththestatute,rules,ortermsandconditionsofthelicense
+24 oronothergoodorjustcauseasdefinedinrulesadoptedrelativetothelicense.
+25 (b) Forpurposesofthissection,"departmentenforcementdecision"means:
+26 (1) The issuance of an administrative order issued under specific statutory authority for
+27 suchanorder,whetherdescribedasanorder,anadministrativeorder,aceaseanddesistorder,anotice
+28 of violation and order of abatement, or other similar name, which specifies the facts and law that support
+29 thedepartment'sdeterminationthat oneor moreviolationsareoccurringor haveoccurredandordersthe
+30 recipienttoceaseon-goingviolationsandtotakesuchremediationactionsasarenecessarytocomeinto
+31 compliancewithapplicablerequirements.
+32 (2) [The revocation of or the refusal to renew a license as defined in RSA 541-A:1, VIII
+33 basedonthepermitholder'snon-compliancewiththestatute,rules,ortermsandconditionsofthelicense
+34 or on other good or just cause as defined in rules adopted relative to the license.] Impositionofan
+35 administrativefine,pursuanttospecificstatutoryauthorityforsuchanadministrativefineandany
+36 applicableadministrativerulesorschedules,bywayofanoticeofadministrativefineorfineswhich
+37 specifiesthefactsandlawthatsupportthecommissioner'sdeterminationthatoneormoreviolationsare
+38 occurringorhaveoccurred,whichshouldbepenalizedwithanappropriateadministrativefine.
+
+CHAPTER185
+SB445-FINALVERSION
+-Page15-
+1 (c) "Department decision" means a department permitting decision[,]; a department
+2 enforcement decision, includingthecommissioner'sdecisiontoimposeanadministrativefine;and any
+3 other decision made by the department that is expressly appealable to a council under the statute
+4 granting authority to the department to make the decision. The term does not include rulemaking or an
+5 agencydeclaratoryrulingasprovidedforinRSA541-A.
+6 185:45 New Paragraph; Agency Action Against Licensees. Amend RSA 541-A:30 by inserting after
+7 paragraphIIIthefollowingnewparagraph:
+8 IV. An agency shall be exempt from the requirements in this chapter to provide for an
+9 adjudicative proceeding prior to making a final decision, if such final decision is subject to appeal to a
+10 council or board with jurisdiction over such agency, or divisions thereof, that provides for notice and an
+11 opportunity to be heard. Unless based on an immediate risk to human health or the environment, the
+12 agency decision under this paragraph shall not become effective for 30 days following the date of the
+13 decision or, if an appeal is filed to a council or board with jurisdiction, until the council or board issues a
+14 decision.
+15 185:46 Emissions Reduction Trading Programs; Certification of Emissions Reduction Credits.
+16 AmendtheintroductoryparagraphofRSA125-J:4,VIItoreadasfollows:
+17 VII. The commissioner may suspend, modify, or revoke any emissions reduction credits
+18 certificateissuedunderthischapter,oranyportionthereof,uponafinding[,followingahearing]:
+19 185:47 New Paragraph; Department of Environmental Services; Administrative Appeals. Amend
+20 RSA21-O:14byinsertingafterparagraphIVthefollowingnewparagraph:
+21 V. A fineimposed by thedepartment shall not become effective for 30 days followingthe date of
+22 thedecision,orifanappealisfiledtoacouncil,untilthecouncilissuesadecision.
+23 185:48 Repeal. Thefollowingarerepealed:
+24 I. RSA 141-E:4, XIV, relative to procedures for notice and hearing concerning asbestos
+25 managementandcontrol.
+26 II. RSA 149-M:7, XI, relative to procedures for notice and hearing concerning solid waste
+27 management.
+28 III. RSA 149-M:37, IV, relative to procedures for notice and hearing concerning solid waste
+29 management.
+30 IV. RSA485-A:2,I-b,relativetothedefinitionofcertificationcommittee.
+31 V. RSA 485-A:40, I, relative to reconsideration of certain departmental decisions relative to
+32 sewagedisposalsystems.
+33 VI. RSA 485-A:40, II, relative to certain appeals of certain departmental decisions relative to
+34 sewagedisposalsystems.
+35 VII. RSA 485-A:40, III, relative to the granting of motions for reconsideration of certain
+36 departmentaldecisionsrelativetosewagedisposalsystems.
+37 VIII. RSA 488:9, VI, relative to procedures for notice and hearing prior to the imposition of an
+38 administrativefinerelativetowatermanagement.
+39 IX. RSA21-M:3,VIII-a,relativetheappointmentofhearingofficers.
+
+CHAPTER185
+SB445-FINALVERSION
+-Page16-
+1 X. RSA 125-O:7, III(a), relative to notice and hearing requirements prior to the imposition of
+2 certainadministrativefines.
+185:49 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+Approved:June19,2026
+EffectiveDate:August18,2026
+
+[DELETED: R1B45-FLV61.16SEBNATretoaepsweteisaclorbdwhj:S.P,Dt1;S.G,Dt2;S.M,Dt1;R.S,H;R.T,M.2:EyadNlRsblcstepsfrasweteisaclorbdwhj-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B45-FLV61.1h2EOFNWHNATretoaepsweteisaclorbdwhj11CafrD;SnorR;M.AdRA1,IIadIItrdasfI.Tecrmysdorreayptoranidhrifgah]tecrd()Tttepthrorrthscdavnoftscrorayro,orptcsinfeadaetoi;o()TtesfmtedeorneVsetowhtepta,aeoincnwhorssoftesep,psaniedrtoteph0I.Tecrmyormnofayseofarpnhgavdp1idurtscrinteettttecrd,fgah2()TttedeorneVsetowhteptasfstomte3enlsedbyseorflreorr4()TttedeorneVseisrgorisrylytortin5vnofanarqysdinf612E.AdRA1,Ibtordasf7I.Tecroftedtofels,arneadh8pttoRA5]myieanaefenttoed$0frehoeu9aypnwovsaypnoftsc,ayreadpttotsc,ora0p,ces,spueo,ororofa,idpttotsc;o1unaypnwomsorcsamlfestretoaydto2inwhisrdtobesdtotedtpttotscrorayr3adpttotsc.[sadasfmadnoftecru4tsphslbeinaewhRA5]Ayaefeidurt5phslntpeteinoffrpsurtsc.Tepso6aefsidpttotsphslbeddinteglf7()A8weadhgprtoteinofanaefeslbei9aewhRA5AadplrsadbytecrpttoRA50A1()Tecrsldefsbdontef]
+[DELETED: R1B45-FLVPe2()Framrdnfmartcgmrplfrh,tefslbentlstn$0adntmetn$()Framrdnfmartcgmeplfrh,tfeslbentlstn$1adntmetn$()Framrdnfmartcgmrplfrh,tefslbentlstn$1adntmetn$()Framednfmartcgmrplfrh,tfeslbentlstn$1adntmetn$()Framednfmartcgmeplfrh0tefeslbentlstn$1adntmetn$1()Framednfmartcgmrplfrh,t2feslbentlstn$1adntmetn$3()Framrdnfmartcgmrplfrh,tef4slbentlstn$1adntmetn$5()Framrdnfmartcgmeplfrh,t6feslbentlstn$1adntmetn$7()Framrdnfmartcgmrplfrh,tef8slbentlstn$1adntmetn$9()Tecrmyasanalfefrrtv0()Ehdyofvnslceaseo113AeF.AdRA14tordasf214AeF3Tecroftedtofels,arneadhgptt4RA5]myieanaefenttoed$0frehoeunayp5wovsaypnoftsc,ayreadpttotsc,oraypto6oridpttotsc;orunaypnwomsorcsamlf7stretoaydtorinwhisrdtobesdtoted8pttotscrorayreadpttotsc.[sadasfm9dnoftecrurtssnslbeinaewhRA5]Aya0feidurtssnslntpeteinoffrpsurtsc1Tepsofaefsidpttotssnslbeddinteg2f3I.A4RA2,IV[eadhgprtoteinofanaefeslbei5aewhRA5AadplrsadbytecrpttoRA56A7I.TecrsldefsinaewhRA1,I)ad(8I.Tecrmyasanalfefrrtv914AeF.AdRA1atordasf]
+[DELETED: R1B45-FLVPe31aAeFTecroftedtofels,arneadhgpttRA5]myieanaefenttoed$0frehoeunaypwovsaypnoftsc,ayreadpttotsc,orayptooridpttotsc;orunaypnwomsorcsamlfstretoaydtorinwhisrdtobesdtotedpttotscrorayreadpttotsc.[sadasfmdnoftecrurtssnslbeinaewhRA5]Ayafeidurtssnslntpeteinoffrpsurtsc0Tepsofaefsidpttotssnslbeddinteg1f2I.A3RA2,IV[eadhgprtoteinofanaefeslbei4aewhRA5AadplrsadbytecrpttoRA55A6I.TecrsldefsinaewhRA1,I)ad(7I.Tecrmyasanalfefrrtv815E.AdRA1,Iatordasf9I.Tecroftedtofels,arneadh0pttoRA5]myieanaefenttoed$0frehoeu1aypnwovsaypnoftsc,ayreadpttotsc,ora2p,ces,spueo,ororofatidpttotsc;o3unaypnwomsorcsamlfestretoaydto4inwhisrdtobesdtotedtpttotscrorayr5adpttotsc.[sadasfmadnoftecru6tsphslbeinaewhRA5]Ayaefeidurt7phslntpeteinoffrpsurtsc.Tepso8aefsidpttotsphslbeddinteglf9()A0weadhgprtoteinofanaefeslbei1aewhRA5AadplrsadbytecrpttoRA52A3()TecrsldefsinaewhRA1,I4()Tecrmyasanalfefrrtv516AeF;AsMtC.AdRA16torda6f716AeF8I)Tec,arneadhgpttoRA5]myiea9aefenttoed$0frehoeunaypnwovsaypno]
+[DELETED: R1B45-FLVPe4RA13orayreadbytecrurtsc;orunaypnwomorcsamlfestretoaydtorinwhisrdtobsdtotedtpttotscrorayreadpttotsc[sadasfmadnoftecrurtsphslbeiaewhRA5]Ayaefeidurtsphslntpetinoffrpsurtsc.TepsofaefsldptttssnslbeddintefdedbyRA1,I()Aweadhgprtoteinofanaefeslbei0aewhRA5AadplrsadbytecrpttoRA51A2()TecrsldefsinaewhRA1,I)ad(3()Tecrmyasanalfefrrtv4I.WrapnldpttoRA10orcdpttoRA15fstopyanaefeasrdbytss,tec,arneadh6pttorsadurRA5]myd,s,orreteleorceo7myieanaeo817AeF;WeMtD.AdRA1,Itorda9f0I.Tecroftedtofels,arneadh1pttoRA5]myieanaefenttoed$0frehoeu2aypnwovsaypnoftscrigayreadurtepso3tscrorayororptidurtsc.Ehdyoftevnslce4seo.[sada]Amadnoftecrurt5phslbeinaewh[A5]R.Ayaefeidu6tssnslntpeteinoffrpsurtsc.Tec7slatr,urRA5,ret8()A]aseofaefswhmybeidurtssnf9vsaspdinphI0[)Psfrneadhgprtoteinofanaef118UdSeFyPtR.AdRA1,Itordasf2I.Nopnslonoroeanudsefyintssewtap3idbyted.Tepttooemyberd[naewhRA5]f4jtc,i,btntldt,teonoropofanudsefyi5vnoftedsr.Ternslntteetulteorororh6hdanoytobehdbytec,pdshrtismewn20dsoft7ieoftedsdntoretep.Alofadnrgaptt8oeslbegdbyRA2.AyalbtpttoRA51slntsy9dnbytewemtclwhastedsrnofap]
+[DELETED: R1B45-FLVPe519AeF;UdSeF.AdRA1atordaf1aAeFTecroftedtofels,arneadhgpttRA5]myieanaefenttoed$0frehoeunaypwovsaypnoftscrigayreadurtepsoftsc[sada]Amadnoftecrurtssnslbeiaewh[A5]R.Ayaefeidurtssnslnpeteinoffrpsurtsc.Tepsofaef0ldpttotssnslbeddbytecrinteolpnclf1edurRA1.Tecrslatr,urRA5,ret2I.A]aeofaefswhmybeidurtssnfrvso3tscraspdae[;a4I.Psfrneadhgprtoteinofanaef510AeF;HsWeM.AdRA1,Itorda6f7I.Tecroftedtofels,arneadh8pttoRA5]myieanaefenttoed$0frehoeu9aypnwovsaypnoftscrigayreadurtepso0tsc.[sada]Asfmadnoftecrurt1phslbeinaewh[A5]R.Ayaefeidu2tssnslntpeteinoffrpsurtsc.Tec3slatr,urRA5,ret4()A]aeofaefswhmybeidurtsphf5vsoftscraspda6[)Psfrneadhgprtoteinofanaef711A,S,orR.AdteiyphofRA1,I8tordasf9I.Tedtmysdorreayptidurtscri,fga0oyfrh]itdst112AeF;SdWeM.AdRA16tordasf216AeF3Tec,arneadhgpttoRA5]myieana4fenttoed$0frehoeunaypnwovsaypnoftsc5igayreadurtepsoftsc.[sada]Am6dnoftecrurtssnslbeinaewh[A5]R7Ayaefeidurtssnslntpeteinoffrp8urtsc.Tecrslatr,urRA5,ret]
+[DELETED: R1B45-FLVPe6I.A]aeofaefswhmybeidurtssnfrvsotscraspda[.Psfrneadhgprtoteinofanaef13E;SdWeM.AdRA1,VItordasfV.Tec,arneadhgpttoRA5]myieaaefenttoed$0frehvnunaypnwovsaypnotss,ayreadurtss,aycninayengdutss,orayoridpttotssnorwomsorcsamlfstretoayceofcerdbytss.[sada0Amadnoftecrurtsphslbeinaewh[A51R.Ayaefeidurtsphslntpeteino2orpsurtsc314RnorSnofC;WrD.AdRA3,Itorda4f5I.Iftedtrsinwhisttgdceestosdo6reteceofanilo,tedtsl[dt]sdorret7ceinae[hRA5815P;WrD.AdRA4,Vtordasf9V.Tec,arneadhgpttoRA5]myieuna0pnwovsaypnoftsc,assdinphI,anaefentt1ed$0frehvninantoorrsadpspdurtsc2[edtslceapgurtsphataypnwodsn3rdwn45dsofrtofawno,d,orayneofndm4r,orrnidbyted.Rsada]Asurt5phslbeinaewh[A5]R.Tecrslatr6urRA5,ret7()Aseofaefswhmybeidurtsphf8vnoftscrassdinphI;a9()Psfrneadhgprtoteinofanaef016R;R;S;DyA;WrD.AdRA41tordasf248R;R;S;DyA3[]Alemyber,oraledyidmybesdorr,orter4ofshlerdbytebdontebsoninadmnorunmno5wnctofanidpyiftebdhsgdadstrntobeorfst6teatfrortehrofshaleh7[]I.Meamlmtinteanfraleorayanf8rlofshl9[.Odtelethwlfdorm]
+[DELETED: R1B45-FLVPe7[]I.Ddiytoatasawrwlcrorppiraddbytewrwlb[]I.BngyofwlfetocywhtepsoftscrorrsaurRA4[.RdtofersasrdurRA4[.Bnfdg,bytebdorbyactofctjnofayf,dgsn,i,ormtintei,o,orbsofwrwcnorppi[.Tedtmyueoeormeoftefgdyasunt0dsoninadmnorunwnctadmnofanidpyi1tedthsgdadstrntobeorfsttteatfrortehro2shalehsvdtepsofRA4Badtersofteb3()Wnr4()Aeo5()Aef6()Rgteletopeinapmofcgeninteaao7asinwhtelehsbnfdd817H;WrD.AdRA49tordasf949H0I.BetgayanurRA4,tebd[rd]slgeneofi1intodosobycdmltotepnatwmtepdanistobet.U2rtofshn,tepnadmywn30dsrtah.Ifahgi3r,tebd[rd]slntatulshhgisc4I.Hshdbytebdslbehdintecyinwhtepnadhshso5hrpeofbsorinteoeofteb,wrtebdmyd.Atlt10dsp6totedeofh,tebdslsdwnneofteteadpeofshhgtot7atf,orhro,shlebycdmltoteltknasofshp.T8typdadtepsofshhgslberdadpdaster9ofteb.Tebdslassnartehgasp,adntlrtn90dsart0deofshh,meisfsaddnonteleadslsdacyofi1dntoehidpybycdmlrnrtrdorbypls2Rnorsnofaleslbeeeunrtofshbdd3I.AlfmadnoftebdmybemeinaewhRA54[.Hshdbytedtslbehdinaewhtersofpea5peofted618EtadP;WrD.AdRA4,IItordasf7I.Tec,arneadhgpttoRA5]myiea8aefenttoed$0frehoeunaypnwovsaypno9tsc,ayreadurtsc,orayleoralidurtsc,o]
+[DELETED: R1B45-FLVPe8womsorcsamlfestretoaydtrdbytsc.Tpnmyaltedntotebdwn30dsoftedeofted.Fgaalh,tebdmyudorontednoriealrorgrfRsadasfmadnoftebdurtsphslbeinaewRA5.Ayaefeidurtssnslntpeteinoffpsurtsc.Tecrslatrssttotealoftewrwb,urRA5,ret()Aeofaefswhmybeidurtsp;a()Psfrneadhgprtoteinofanaef019EtofPdImF;WrD.AdRA4,Xtor1asf2X.Aypywoisadbyadnegshpdimfsm3[ntecrfrahgtor]ahdnp4wn30dsoftedetednisi.[efgofshpnslsyt5inoftednulafldnhsbnrdontepnorana6tnpttoRA5710EtadP;WrD.RA4,Iisrdadrdtor8asf9I.Tedtmyieanaeortoaypnwovsaypno0tsc,ayreadurtsc,orayleoralidurtscro1womsorcsamlfestretoaydtrdbytsc.T2dtmyortepntoceaddtfmtevnadmyreshc3msasaenytocttev.Asfmadnoftedtslbei4aewhRA2.Tesrctslpeayanfdbytedttoe5anorurtssnattetpofiscrofcsadslpeaneshgo6sho711EtadP;WrD.AdRA4,Vtordasf8V.Tecrofels,arneadhgpttoRA59A]myieanaefenttoed$0frehoeunaypnw0vsaypnoftscrigayreadurtepsoftscro1ayororptidurtsc.Ehdyofvnslceaseo2[sada]Amadnoftecrurtsphslbei3aewh[A5]R.Ayaefeidurtssnsln4peteinoffrpsurtsc.Tepsofaef5ldpttotsphslbeddbytedtinteglf.T6crslatr,urRA5,ret7()A]aeofaefswhmybeidurtsphf8vsoftscraspda9[)Psfrneadhgprtoteinofanaef]
+[DELETED: R1B45-FLVPe912A;SlF;WrD.AdRA4,ItordasfI.Ayorofawrttptsgcnortoiehsllocnslfeananwhte[nc]dtlt6wsprttentendeonafmpdbyted13IeofC;WrD.AdRA4ctordasf4cIeofCI.Unsycnbyanatofteedr,tedslietoteatasecedgteasc.Tecslietellofonfrwhteorisq.Teceslrnine0[2ysfmtedeofi1I.Csslberdbya2Alrlasslbeadbya$0rlf,whslbeddp3toRA4,I4I.Csmybei,unptofte$0f,wte,fr5cecntoaypnaysgetinNwHewohs6ceidbyteaecnayofayf,s,i,t,oro7jni,intejtofte[nc]d,tecnrso8tejnggshcndontctwhtedsrsadaentl9sttnrsadurtss.TefeslbeddpttoRA40a,I114PsadOrR;FetoPeF;WrD.AdRA42Vtordasf3V.Tecrofels,arneadhgpttoRA54A]myieanaefenttoed$0frehoeunaypnw5vsaypnoftssno,RA4,ayreadurtssno6RA4,orayptidurteayoftssnorRA47[sada]Amadnoftecrurtsphslbei8aewh[A5]R.Ayaefeidurtssnsln9peteinoffrpsurtsc.Tepsofaef0ldpttotsphslbeddbytedtinteglf.T1crslatr,urRA5,ret2()A]aeofaefswhmybeidurtsphf3vsoftsc,rsadurtsc,adpsidurtsc,a4pda5[)Psfrneadhgprtoteinofanaef615P;AeF;WrD.AdRA4,IItordasf7I.Tec,arneadh]myieanaefenttoe8$0frehoeunaypnwovsaypnoftss,ayrea9urtss,orayleoralidurtss.[sada]
+[DELETED: R1B45-FLVPe10Amadnoftecrurtsphslbeinaewh[A5R.Ayaefeidurtssnslntpeteinofrpsurtsc.Tepsofaefsldpttotphslbeddinteglf.Tecrslatr,urRA5ret()Aeofaefswhmybeidurtsp;a()Psfrneadhgprtoteinofanaef16PtE;E;WrD.AdRA4,I)tordasfI)Ala,p,adsssdinaewhtscrf0seseorwedlssslbepdadsdbyteilwoi1dyrefrtmadwohsaptidbytedttopmtew.T2dtslieapttoayilwoastoted,psafeof$,a3dsasdwgkeoftepsadpsrdintesee4d,adonofseseorwedls.Tedtslrea5olorwnenorbhtodewomyqyfrap.Psslbei6fmJy1adsleeDr31ofeyory,sttotegepssdi7ss()ad(.Psslbereunpra,ptofab8ptfeof$,addnofcewhtecgenrto9sh(.Aptidtoayilmybes,rdorntrdoyf0jtc[adartepthrhshdafloytobehdbyted.A1alfmadntor,s,orntrwaptmybetnptto[A52R.AlfsslbeddintesessfdedinRA43I417SmIrP;WrD.AdRA4,I)tordasf5I)Noilsleeintebsofigseseorwed6ssurtssnwtftoganisptfmted.T7pthrslberefrigteseseorwedlsmins8aewhteadp.Tedtslieanispttoayilw9ssananpdbyted,psafeof$0addsasdw0keofRA45adteaytordadwedlp.Ted1slreanolorwnenorbhtodewomyqyfranisp2PsslbeidfmJy1adsleeDr31ofeyory.Pss3bereunpra,ptofablptfeof$,addno4cewhtecgenrtofsh(.Teisptmyb5s,rdorntrdfrjtc,i,btntldt,teinofw6dlssinvnoftssnorterlbyapthrtoctdew7Tedtslnts,reorretorwaptetfrjtc[ult8pthrhshdanoytobehdbyted.Analfmshdnt]
+[DELETED: R1B45-FLVPe11r,sdorntrwaptmybetnpttoRA2.AlfsslbddintesessfdedinRA4,I18RnadAlP;WrD.AdteiypofRA40tordasfIfaypnsgpsadsstotedtfrisalisadoddwhisd,heoyfeamnfrrna]sreartofalfmtednoftdtintefgm19RnadAlP;WrD.AdRA4,IVtorda0f1I.Wn30ds[rteanfrrnisd,orifteani2g,tnwn30dsartednonshr]o,teatm3albypntotesrc410P;WrD.AdRA4,Vtordasf5V.Tecrofels,arneadhgpttoRA56A]myieanaefenttoed$0frehoeunaypnw7vsaypnoftssnigayreadurtepsoftsc8[sada]Amadnoftecrurtsphslbei9aewh[A5]R.Ayaefeidurtssnsln0peteinoffrpsurtss.Tepsofaef1ldpttotsphslbeddbytedtinteglf.T2crslatr,urRA5,ret3()A]aeofaefswhmybeidurtsphf4vsoftssnaspda5[)Psfrneadhgprtoteinofanaef611EtadP;WrD.AdRA4,Vtordasf7V.Tecrofels,arneadhgpttoRA58A]myieanaefenttoed$0frehoeunaypnw9vsaypnoftss,ayreadurtss,oraypto0ctediourteayoftss.[sada]Am1dnoftecrurtsphslbeinaewh[A52Ayaefeidurtssnslntpeteinoffrp3urtss.Tepsofaefsldpttotsphslb4ddbytedtintertfdedpttoRA4.T5crslatr,urRA5,ret6()A]aeofaefswhmybeidurtsphf7vsoftscraspda8[)Psfrneadhgprtoteinofanaef912D;D;D;WrD.AdRA4,VItordasf]
+[DELETED: R1B45-FLVPe12V.""mstedroftednofwr[yadpncdtofelsV.""mstednofwr[yadpnc,dtoels13AeF;WrD.AdRA48tordasf48AeFTec,arneadhgpttoRA5]myieanafenttoed$0frehoeunaypnwovsaypnoftscroayr,ptororadoridurtsc.Ehdyofvnslce0seo.[sada]Amadnoftecrurt1snslbeinaewh[A5]R.Ayaefeidu2tssnslntpeteinoffrpsurtsc.Tec3slatr,urRA5,ret4I.Aseofaefswhmybeidurtssnfrvnoft5c6I.Psfrneadhgprtoteinofanaef]a7o814AeF;WrD.AdRA4,Itordasf9I.Tecrofted,arneadhgpttoRA5]m0ieanaefenttoed$0frehoeunaypnwovst1rgrtofRA4,I.[sada]Amadnoft2crurtsphslbeinaewh[A5]2.Tec3slatr,urRA5,retopsfrneadhgprtoteino4anaef515P;AeF;WrD.AdRA4,IItordasf6I.Tecrofels,arneadhgpttoRA57A]myieanaefenttoed$0freho,unaypnw8vsaypnoftsc,ayllreoftedtadurtsc,ora9lloridbytedtpttotsc.[sada]Am0dnoftecrurtsphslbeinaewh[A51Ayaefeidurtssnslntpeteinoffrp2urtsc.Tepsofaefsldpttotsphslb3ddbytedtinteglf.Tecrslatr,urRA54ret5()A]aeofaefswhmybeidurtsphf6vsoftsc7[)Psfrneadhgprtoteinofanaef816AeF;WrD.AdRA4,IItordasf]
+[DELETED: R1B45-FLVPe13I.Tec,arneadhgpttoRA5]myieaaefenttoed$0frehoeunaypnwok()Vsaypnoftscrorayreororadoriduri()Msaymlfestinaydtrdtobefdorm()Rsi,f,ortswhaymgdeormI.[sada]Amadnoftecrurtssslbeinaewh[A517AnadE;WrD.AdRA4,IItordasfI.Tec,arneadhgpttoRA5]myret0cnofaypnwovstsc.[sada]Asrgt1rnslbegdby[A5218D;D;WsC.AdRA4,IItordasf3I.""mstednofwr[,dtofels419EgadDgP;CnE;WsC.AdRA45A,XXtordasf6X.Tedtslieactmrcetoayilwossa7anpdbyted,adhssycdtepminaew8psXIadX.IlcsslbevdthDr31ofteyrfgt9yrofi.RlcsslbevdfmJy1thDr31ofeyo0y.Psslbereunpra,addnofcewht1cgenrtofphX.Teisptmybes,r2orntrdfrjtc,i,btntldt,teinofcsinvnoft3crorterlbyapthrtoctdew.Tedtslnts4r,orretorwaptetfrjtce[ltepthrhshdanoyt5behdbyted.Analfmshdntor,s,orntrwap6mybetnpttoRA2710EgadDgP;CnE;WsC.AdRA48A,X)tordasf9()Tedtmyreacefrgdcearnntotec0hr[doyfranaepgurRA51adrsadbyt1d.A2p311AeF;WsC.AdRA43tordasf443AeF5Tec,arneadhginaewhtepsstfhinRA56A]isedtoieanaefeofupto$0frehv,ieoft7dnofv,unaypnwovsaypnoftsc.Tsfeisa8ur[A5]R.Ayaefeidurtssnwlntp]
+[DELETED: R1B45-FLVPe14teinoffrpsurtsc.TepsofaefslpttotssnslbepdintengfdadinRA4,I12P;WsC.AdRA4,I)tordasf()Tec,arneadhgpttoRA5]myieaaefeofupto$0frehoeunaypnwovstsc[sada]Agtoshfsslbegdby[A5]RV.Inofanaefeurtssnslntpeteinoffrcpsurtsc13AyG;DyA;A.AdRA2,V)torda0f1()[eanayqdbye]H2adceoruyadheeeintectofaea3hsadteanoflwtof,pyardjeoftesrorsec4a514AeA.AdRA2,Itordasf6I)Frpsoftsc,"tpgd"m7()Tedsflanonananororrtfralea8ddinRA5,V,wrteantoa,gtinweorinptwhorw9c,ordyteanorrtadwrteanistnbytecrorb0tedtolwohssyaytoteshflanortowmtec1hspyddteaytoteshfla2()T3b4o5()Frpsoftss,"tetd"m6()Teieofanaeoridurscsyayf7shano,wrddasano,anaeo,aceaddto,an8ofvnadorofa,ororsrn,whsstefsadlwtts9tedsdnttoeormevsaeogorheodadost0rttoceogvsadtoteshrnasasaenytocei1cewhaer2()[ernoforterltorwaleasddinRA5,V3bdontepthsnewhtes,r,ortsadcsoftel4oronorgdorjtceasddinrsadretotel]I5aef,pttoscsyayfrshanaefeada6a7s8o]
+[DELETED: R1B45-FLVPe15()"td"msadtpgd;adetd,idaordnmebytedtttiseyaetoaclurtesggaytotedttometed.TetmdsntiergoraaydyrgaspdfrinRA515NwP;AyAnAtL.AdRA50byigaphIItefgnwpI.Anayslbeetfmtersintscrtopefraaepgprtomgafld,ifshfldnissttoalto0clorbdwhjnorsha,ordst,ttpsfrneada1oytobeh.Usbdonanierktohnhhortee,t2aydnurtsphslntbeeefr30dsfgtedeoft3dno,ifanalisfdtoaclorbdwhj,ulteclorbdis4d516EsRnTgP;CnofEsRnC6AdteiyphofRA1,VItordasf7V.Tecrmys,m,orreayesrnc8ceidurtsc,oraypnt,unaf,fgah917NwP;DtofElS;AeA.A0RA24byigarphIVtefgnwp1V.Afeidbytedtslntbeeefr30dsfgtedeo2ted,orifanalisfdtoac,ulteclisad318R.Tefgaer4I.RA1,X,retopsfrneadhgcga5mtadc6I.RA1,X,retopsfrneadhgcgsdw7m8I.RA1,I,retopsfrneadhgcgsdw9m0I.RA4,I,retotednofcnc1V.RA4,I,retornofcndldsret2sedls3V.RA4,I,retocnasofcndldsret4sedls5V.RA4,I,retoteggofmsfrrnofc6dldsretosedls7V.RA4,V,retopsfrneadhgprtoteinofa8aeferetowrm9I.RA2,V,reteatofhgo]
+[DELETED: R1B45-FLVPe16X.RA1,I,retoneadhgrsprtoteinocnaef9EeD.Tsatslteet60dsarisp:Je1,2eD:At1,2]

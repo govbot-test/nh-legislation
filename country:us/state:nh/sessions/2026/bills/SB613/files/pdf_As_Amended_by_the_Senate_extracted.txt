@@ -1,0 +1,297 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB613-ASAMENDEDBYTHESENATE
+03/26/2026 1177s
+2026SESSION
+26-2215
+09/06
+613
+ANACT relativetolicensingrequirements for healthcarefacilities established withina15
+mileradiusof acriticalaccess hospitalandrelativetotransfersfrom freestanding
+hospitalemergencyfacilities.
+SPONSORS: Sen.Prentiss,Dist5;Sen.Gannon,Dist23;Sen.Rosenwald,Dist13;Sen.Fenton,
+Dist 10; Sen. Perkins Kwoka, Dist 21; Sen. Watters, Dist 4; Sen. Long, Dist 20;
+Sen.Altschiller,Dist24;Sen.Reardon,Dist15
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Requiresahealthcarefacilitytoprovidecertified,writtennoticetoacriticalaccesshospitalif
+thefacilitywillbelocatedwithina15mileradiusofthecriticalaccesshospital.
+II. Establishes standards governing the transfer of patients from freestanding hospital
+emergency facilities to acute care hospitals to ensure that such transfers are based primarily on
+clinicalappropriateness,patientsafety,continuityofcare,andpatientchoice.
+III. Bans coercive or exclusive transfer practices, reinforces EMTALA requirements, and gives
+thestateauthoritytoenforceviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB613-ASAMENDEDBYTHESENATE
+03/26/2026 1177s 26-2215
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolicensingrequirements for healthcarefacilities established withina15
+mileradiusof acriticalaccess hospitalandrelativetotransfersfrom freestanding
+hospitalemergencyfacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Title. Sections 1 and 2 of this act shall be known as the "Rural Health Care System
+2 StabilizationAct".
+3 2 Residential CareandHealthFacilityLicensing;License orRegistrationRequired. RSA151:4-
+4 a,II(a)isrepealedandreenactedtoreadasfollows:
+5 II.(a) Any person or entity proposing to establish an ambulatory surgical center, emergency
+6 medical care center, hospital, birthing center, drop-in or walk-in care center, dialysis center, or
+7 special health care service within a radius of 15 miles of the primary physical location of a New
+8 Hampshire hospital certified as a critical access hospital pursuant to 42 C.F.R 485.610(b) and (c),
+9 shall give written notice of the intent to establish the health care facility within a 15 mile radius of
+10 the critical access hospital. The notice shall include a description of the facility and any health care
+11 services to be established and shall be sent by certified mail to the chief executive of the critical
+12 accesshospital.
+13 3 Purpose. The purpose of section 4 of this act is toprotect patient safetyand continuity of care
+14 by ensuring that transfers from freestanding hospital emergency facilities are based on clinical
+15 appropriateness, patient needs, and regional access to hospital services. Section4 of this act further
+16 seeks to prevent practices that may undermine community hospitals through coercive or exclusive
+17 transferarrangementsthatarenotclinicallyjustified.
+18 4 New Subdivision; Transfers from Freestanding Hospital Emergency Facilities. Amend RSA
+19 151byinsertingaftersection53thefollowingnewsubdivision:
+20 TransfersfromFreestandingHospitalEmergencyFacilities
+21 151:54 Definitions. Inthissubdivision:
+22 I. “Freestanding hospital emergency facility” or “FHEF” means a facility licensed under this
+23 chapter that is geographically separate from an acute care hospital and provides emergency medical
+24 servicesonbehalfof,orinaffiliationwith,aparenthospital.
+25 II. “Parent hospital” means an acute care hospital that owns, controls, or operates a
+26 freestandinghospitalemergencyfacility,directlyorindirectly.
+27 III. “Clinically appropriate” means consistent with the judgment of the treating physician,
+28 thepatient’smedicalcondition,andapplicableregionalemergencymedicalservicesprotocols.
+SB613-ASAMENDEDBYTHESENATE
+-Page2-
+1 IV. “Transfer” means the movement of a patient from a freestanding hospital emergency
+2 facility to another licensed hospital or health care facility for the purpose of providing continued
+3 medical care, and shall not include discharge to home or referral for non-emergent outpatient
+4 services.
+5 V. “Medically necessary” means determined by the treating physician or qualified
+6 practitioner to be required to prevent or address a material deterioration of the patient’s medical
+7 condition,consistentwithapplicablestandardsofcare.
+8 151:55 TransferStandards.
+9 I. When a transfer from a freestanding hospital emergency facility to an acute care hospital
+10 is medically necessary, the facility shall ensure that transfer decisions are based primarily on
+11 clinicalappropriateness,patientsafety,continuityofcare,andpatientchoice.
+12 II. A patient, or the patient’s legal representative when applicable, shall be informed of
+13 available receiving hospitals that are clinically appropriate and reasonably available, provided that
+14 suchdiscussiondoesnotdelayscreening,stabilization,ortransferrequiredunderfederallaw.
+15 III. No freestanding hospital emergency facility shall require or condition treatment,
+16 stabilization, or transfer upon selection of a receiving hospital based primarily on ownership or
+17 affiliation.
+18 IV. If a patient is unable to participate in the selection of a receiving hospital, the facility
+19 shallarrangetransfertoanappropriatehospitalconsistentwith:
+20 (a) RSA153-A:1andRSA151:19,VII;
+21 (b) State-designatedtrauma,stroke,orspecialtycaresystems;
+22 (c) Federalandstatelawgoverningemergencymedicaltreatmentandtransfer;and
+23 (d) Thepatient’smedicalconditionandsafety.
+24 151:56 ProhibitedPractices.
+25 I. No freestanding hospital emergency facility, nor any entity owning or operating such
+26 facility,shall:
+27 (a) Engage in materially misleading communication or coercive conduct for the primary
+28 purpose of directing patient transfers to an affiliated or parent hospital when another clinically
+29 appropriatehospitalisreasonablyavailable.
+30 (b) Conditiontransferdecisionsoninsurancestatusorpayerconsiderations.
+31 (c) Enter into exclusive transfer arrangements with emergency medical services
+32 providers that require patient transfers to an affiliated hospital without regard to clinical
+33 appropriateness,patientneeds,patientchoice,orregionalemergencymedicalservicesprotocols.
+34 II. Nothing in this section shall prohibit non-exclusive coordination agreements with
+35 emergency medical services providers for quality assurance, response efficiency, or specialty care,
+36 providedsuchagreementsdonotrequireexclusiveroutingbasedonownershipaffiliation.
+SB613-ASAMENDEDBYTHESENATE
+-Page3-
+1 151:57 Federal Law EMTALA. Nothing in this subdivision shall be construed to alter, expand,
+2 orrestrictobligationsunderthefederalEmergencyMedicalTreatmentandLaborAct(EMTALA),42
+3 U.S.C. section 1395dd. Compliance with EMTALA shall be deemed compliance with this
+4 subdivision.Intheeventofaconflict,federallawshallcontrol.
+5 151:58 Enforcement;Rulemaking.
+6 I. The attorney general may adopt rules under RSA 541-A to define and implement
+7 enforcementstandards under this subdivision, includingbut not limited todefiningwhat constitutes
+8 apatternofviolations,coerciveconduct,ormateriallymisleadingcommunication.
+9 II. Upon a finding of a pattern of violations as defined by rule, the attorney general may
+10 pursueenforcementunderRSA358-A.
+11 III. Prior to referral for enforcement, the department of health and human services shall
+12 providenoticeofallegedviolationsandareasonableopportunitytocure.
+13 151:59 Scope. This subdivision applies only to transfers occurring prior to inpatient admission
+14 at the receiving hospital and shall not regulate post-admission referral, discharge planning, or
+15 electiveadmissiondecisions.
+16 5 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+LBA
+26-2215
+05/06/2026
+SB613-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1177s)
+ANACT relativetolicensingrequirements for healthcarefacilities established withina15
+mileradiusof acriticalaccess hospitalandrelativetotransfersfrom freestanding
+hospitalemergencyfacilities.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+None
+[DELETED: B63-ASADBYTES616SEBNATretolgrsfrhhcefsedwna1ersofaclashladretotsfmfleyf:S.P,Dt5;S.G,Dt2;S.R,Dt1;S.Ft1;S.PsK,Dt2;S.W,Dt4;S.L,Dt2.A,Dt2;S.R,Dt1:HhadHnSDAsb.Rsahhcefytopec,wnnetoaclashliefywlbeldwna15mersofteclash.Esssggtetrofpsfmfghyfstoaecehstoeettshtsaebdpyola,pts,cyofc,adptc.Bsceoreetrp,rsEAr,adgeseaytoeev-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B63-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretolgrsfrhhcefsedwna1ersofaclashladretotsfmfleyfeitEdbyteSeadHeofRsinGlCtc1T.Ss1ad2oftsatslbeknaste"lHhCeSSnA2RlCeadHhFyL;LeorRnR.RA1a,I)isrdadrdtordasfI)Aypnoreypgtoehanayslc,emlcec,h,bgc,dnorwncec,dsc,oslhhcesewnarsof15msoftepypllnofaNHehlcdasaclashlptto42CR4)ad(slgewnneofteittoehtehhcefywna15merso0teclash.Teneslieadnoftefyadayhhc1sstobeedadslbestbycdmltotecfeeoftec2ash33P.Tepeofsn4oftsatistoptptsyadcyofc4byegtttsfmfghleyfsaebdonc5a,ptn,adrlastohls.Sn4oftsatf6sstoptpsttmyuecyhsthceore7trasttaentcyj84NwS;TsfmFgHlEyF.AdR911byigarsn53tefgnws0TsfmFgHlEyF114D.Intss2I.“ghleyf”or“”msafyldurt3crttisgysefmanaecehladpseym4ssonbfo,orinanw,apth5I.“th”msanaecehltto,c,oros6fghleyf,dyori7I.“ya”msctwhtejtoftetgp8tepsmlc,adaerleymlssp]
+[DELETED: B63-ASADBYTESPe2I.“”mstemtofaptfmafghlefytoarldhlorhhcefyfrtepeofpgcmlc,adslntiedetoheorrlfrntosV.“yn”msddbytetgpnorqprtoberdtoptorasamldnoftepsmc,ctwhaessofc15TrSI.Wnatrfmafghleyfytoanaeceh0ismyn,tefysleetttrdsaebdpyo1cla,pts,cyofc,adptc2I.Ap,ortepsllrewna,slbeido3aerghsttaecyaeadrya,pdt4shdndsntdys,s,ortrrdurfll5I.Nofghleyfyslreorcnt6s,ortrunsnofarghlbdpyonopo7a8I.Ifaptisuetopeintesnofargh,tef9slaetrtoanaehlctw0()RA11adRA1,V1()Sdt,s,orsyces2()Fladselwggeymlttadt;a3()Tepsmlcnads416PdP5I.Nofghleyf,nrayeyogorogs6f,s7()Eeinmymgcnorcectfrtep8peofdgpttstoanadorpthlwnarc9aehlisrya0()Cntrdsoniessorprc1()Erioeetraswheymls2psttrepttstoanadhlwtrdtoc3a,ptn,ptc,orrleymlssp4I.Ngintssnslptnecnasw5eymlsspsfrqya,ree,orsyc6pdshasdontreeergbdonopa]
+[DELETED: B63-ASADBYTESPe317FlLwE.Ngintssnslbecdtoa,eorrtosurteflEyMlTtadLrAt(,4U.sn1.CewhEAslbeddcewhts.Inteetofac,fllwslc18E;RI.TeayglmyatrsurRA5Atodeadietssurtss,igbtntldtodgwtcapnofv,cec,ormymgcI.Unafgofapnofvsasddbyr,teayglm0peeturRA31I.Prtorlfre,tedtofhhadhnsss2peneofadvsadareoytoc319S.Tssnasoytotsogprtoita4atterghladslntrepnr,dep,o5eeand65EeD.Tsatslteetunisp]
+[DELETED: B6-FLNSADBYTESE(T#NATretolgrsfrhhcefsedwna1ersofaclashladretotsfmfleyfLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SC]
+
+
+================================================================================
+
+Raw Text:
+SB613-ASAMENDEDBYTHESENATE
+03/26/2026 1177s
+2026SESSION
+26-2215
+09/06
+613
+SENATEBILL
+ANACT relativetolicensingrequirements for healthcarefacilities established withina15
+mileradiusof acriticalaccess hospitalandrelativetotransfersfrom freestanding
+hospitalemergencyfacilities.
+SPONSORS: Sen.Prentiss,Dist5;Sen.Gannon,Dist23;Sen.Rosenwald,Dist13;Sen.Fenton,
+Dist 10; Sen. Perkins Kwoka, Dist 21; Sen. Watters, Dist 4; Sen. Long, Dist 20;
+Sen.Altschiller,Dist24;Sen.Reardon,Dist15
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbill:
+I. Requiresahealthcarefacilitytoprovidecertified,writtennoticetoacriticalaccesshospitalif
+thefacilitywillbelocatedwithina15mileradiusofthecriticalaccesshospital.
+II. Establishes standards governing the transfer of patients from freestanding hospital
+emergency facilities to acute care hospitals to ensure that such transfers are based primarily on
+clinicalappropriateness,patientsafety,continuityofcare,andpatientchoice.
+III. Bans coercive or exclusive transfer practices, reinforces EMTALA requirements, and gives
+thestateauthoritytoenforceviolations.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB613-ASAMENDEDBYTHESENATE
+03/26/2026 1177s 26-2215
+09/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetolicensingrequirements for healthcarefacilities established withina15
+mileradiusof acriticalaccess hospitalandrelativetotransfersfrom freestanding
+hospitalemergencyfacilities.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Title. Sections 1 and 2 of this act shall be known as the "Rural Health Care System
+2 StabilizationAct".
+3 2 Residential CareandHealthFacilityLicensing;License orRegistrationRequired. RSA151:4-
+4 a,II(a)isrepealedandreenactedtoreadasfollows:
+5 II.(a) Any person or entity proposing to establish an ambulatory surgical center, emergency
+6 medical care center, hospital, birthing center, drop-in or walk-in care center, dialysis center, or
+7 special health care service within a radius of 15 miles of the primary physical location of a New
+8 Hampshire hospital certified as a critical access hospital pursuant to 42 C.F.R 485.610(b) and (c),
+9 shall give written notice of the intent to establish the health care facility within a 15 mile radius of
+10 the critical access hospital. The notice shall include a description of the facility and any health care
+11 services to be established and shall be sent by certified mail to the chief executive of the critical
+12 accesshospital.
+13 3 Purpose. The purpose of section 4 of this act is toprotect patient safetyand continuity of care
+14 by ensuring that transfers from freestanding hospital emergency facilities are based on clinical
+15 appropriateness, patient needs, and regional access to hospital services. Section4 of this act further
+16 seeks to prevent practices that may undermine community hospitals through coercive or exclusive
+17 transferarrangementsthatarenotclinicallyjustified.
+18 4 New Subdivision; Transfers from Freestanding Hospital Emergency Facilities. Amend RSA
+19 151byinsertingaftersection53thefollowingnewsubdivision:
+20 TransfersfromFreestandingHospitalEmergencyFacilities
+21 151:54 Definitions. Inthissubdivision:
+22 I. “Freestanding hospital emergency facility” or “FHEF” means a facility licensed under this
+23 chapter that is geographically separate from an acute care hospital and provides emergency medical
+24 servicesonbehalfof,orinaffiliationwith,aparenthospital.
+25 II. “Parent hospital” means an acute care hospital that owns, controls, or operates a
+26 freestandinghospitalemergencyfacility,directlyorindirectly.
+27 III. “Clinically appropriate” means consistent with the judgment of the treating physician,
+28 thepatient’smedicalcondition,andapplicableregionalemergencymedicalservicesprotocols.
+
+SB613-ASAMENDEDBYTHESENATE
+-Page2-
+1 IV. “Transfer” means the movement of a patient from a freestanding hospital emergency
+2 facility to another licensed hospital or health care facility for the purpose of providing continued
+3 medical care, and shall not include discharge to home or referral for non-emergent outpatient
+4 services.
+5 V. “Medically necessary” means determined by the treating physician or qualified
+6 practitioner to be required to prevent or address a material deterioration of the patient’s medical
+7 condition,consistentwithapplicablestandardsofcare.
+8 151:55 TransferStandards.
+9 I. When a transfer from a freestanding hospital emergency facility to an acute care hospital
+10 is medically necessary, the facility shall ensure that transfer decisions are based primarily on
+11 clinicalappropriateness,patientsafety,continuityofcare,andpatientchoice.
+12 II. A patient, or the patient’s legal representative when applicable, shall be informed of
+13 available receiving hospitals that are clinically appropriate and reasonably available, provided that
+14 suchdiscussiondoesnotdelayscreening,stabilization,ortransferrequiredunderfederallaw.
+15 III. No freestanding hospital emergency facility shall require or condition treatment,
+16 stabilization, or transfer upon selection of a receiving hospital based primarily on ownership or
+17 affiliation.
+18 IV. If a patient is unable to participate in the selection of a receiving hospital, the facility
+19 shallarrangetransfertoanappropriatehospitalconsistentwith:
+20 (a) RSA153-A:1andRSA151:19,VII;
+21 (b) State-designatedtrauma,stroke,orspecialtycaresystems;
+22 (c) Federalandstatelawgoverningemergencymedicaltreatmentandtransfer;and
+23 (d) Thepatient’smedicalconditionandsafety.
+24 151:56 ProhibitedPractices.
+25 I. No freestanding hospital emergency facility, nor any entity owning or operating such
+26 facility,shall:
+27 (a) Engage in materially misleading communication or coercive conduct for the primary
+28 purpose of directing patient transfers to an affiliated or parent hospital when another clinically
+29 appropriatehospitalisreasonablyavailable.
+30 (b) Conditiontransferdecisionsoninsurancestatusorpayerconsiderations.
+31 (c) Enter into exclusive transfer arrangements with emergency medical services
+32 providers that require patient transfers to an affiliated hospital without regard to clinical
+33 appropriateness,patientneeds,patientchoice,orregionalemergencymedicalservicesprotocols.
+34 II. Nothing in this section shall prohibit non-exclusive coordination agreements with
+35 emergency medical services providers for quality assurance, response efficiency, or specialty care,
+36 providedsuchagreementsdonotrequireexclusiveroutingbasedonownershipaffiliation.
+
+SB613-ASAMENDEDBYTHESENATE
+-Page3-
+1 151:57 Federal Law EMTALA. Nothing in this subdivision shall be construed to alter, expand,
+2 orrestrictobligationsunderthefederalEmergencyMedicalTreatmentandLaborAct(EMTALA),42
+3 U.S.C. section 1395dd. Compliance with EMTALA shall be deemed compliance with this
+4 subdivision.Intheeventofaconflict,federallawshallcontrol.
+5 151:58 Enforcement;Rulemaking.
+6 I. The attorney general may adopt rules under RSA 541-A to define and implement
+7 enforcementstandards under this subdivision, includingbut not limited todefiningwhat constitutes
+8 apatternofviolations,coerciveconduct,ormateriallymisleadingcommunication.
+9 II. Upon a finding of a pattern of violations as defined by rule, the attorney general may
+10 pursueenforcementunderRSA358-A.
+11 III. Prior to referral for enforcement, the department of health and human services shall
+12 providenoticeofallegedviolationsandareasonableopportunitytocure.
+13 151:59 Scope. This subdivision applies only to transfers occurring prior to inpatient admission
+14 at the receiving hospital and shall not regulate post-admission referral, discharge planning, or
+15 electiveadmissiondecisions.
+16 5 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2215
+05/06/2026
+SB613-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1177s)
+ANACT relativetolicensingrequirements for healthcarefacilities established withina15
+mileradiusof acriticalaccess hospitalandrelativetotransfersfrom freestanding
+hospitalemergencyfacilities.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B63-ASADBYTES616SEBNATretolgrsfrhhcefsedwna1ersofaclashladretotsfmfleyf:S.P,Dt5;S.G,Dt2;S.R,Dt1;S.Ft1;S.PsK,Dt2;S.W,Dt4;S.L,Dt2.A,Dt2;S.R,Dt1:HhadHnSDAsb.Rsahhcefytopec,wnnetoaclashliefywlbeldwna15mersofteclash.Esssggtetrofpsfmfghyfstoaecehstoeettshtsaebdpyola,pts,cyofc,adptc.Bsceoreetrp,rsEAr,adgeseaytoeev-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B63-ASADBYTES61s2EOFNWHnteYrofOrLdToTdTNATretolgrsfrhhcefsedwna1ersofaclashladretotsfmfleyfeitEdbyteSeadHeofRsinGlCtc1T.Ss1ad2oftsatslbeknaste"lHhCeSSnA2RlCeadHhFyL;LeorRnR.RA1a,I)isrdadrdtordasfI)Aypnoreypgtoehanayslc,emlcec,h,bgc,dnorwncec,dsc,oslhhcesewnarsof15msoftepypllnofaNHehlcdasaclashlptto42CR4)ad(slgewnneofteittoehtehhcefywna15merso0teclash.Teneslieadnoftefyadayhhc1sstobeedadslbestbycdmltotecfeeoftec2ash33P.Tepeofsn4oftsatistoptptsyadcyofc4byegtttsfmfghleyfsaebdonc5a,ptn,adrlastohls.Sn4oftsatf6sstoptpsttmyuecyhsthceore7trasttaentcyj84NwS;TsfmFgHlEyF.AdR911byigarsn53tefgnws0TsfmFgHlEyF114D.Intss2I.“ghleyf”or“”msafyldurt3crttisgysefmanaecehladpseym4ssonbfo,orinanw,apth5I.“th”msanaecehltto,c,oros6fghleyf,dyori7I.“ya”msctwhtejtoftetgp8tepsmlc,adaerleymlssp]
+[DELETED: B63-ASADBYTESPe2I.“”mstemtofaptfmafghlefytoarldhlorhhcefyfrtepeofpgcmlc,adslntiedetoheorrlfrntosV.“yn”msddbytetgpnorqprtoberdtoptorasamldnoftepsmc,ctwhaessofc15TrSI.Wnatrfmafghleyfytoanaeceh0ismyn,tefysleetttrdsaebdpyo1cla,pts,cyofc,adptc2I.Ap,ortepsllrewna,slbeido3aerghsttaecyaeadrya,pdt4shdndsntdys,s,ortrrdurfll5I.Nofghleyfyslreorcnt6s,ortrunsnofarghlbdpyonopo7a8I.Ifaptisuetopeintesnofargh,tef9slaetrtoanaehlctw0()RA11adRA1,V1()Sdt,s,orsyces2()Fladselwggeymlttadt;a3()Tepsmlcnads416PdP5I.Nofghleyf,nrayeyogorogs6f,s7()Eeinmymgcnorcectfrtep8peofdgpttstoanadorpthlwnarc9aehlisrya0()Cntrdsoniessorprc1()Erioeetraswheymls2psttrepttstoanadhlwtrdtoc3a,ptn,ptc,orrleymlssp4I.Ngintssnslptnecnasw5eymlsspsfrqya,ree,orsyc6pdshasdontreeergbdonopa]
+[DELETED: B63-ASADBYTESPe317FlLwE.Ngintssnslbecdtoa,eorrtosurteflEyMlTtadLrAt(,4U.sn1.CewhEAslbeddcewhts.Inteetofac,fllwslc18E;RI.TeayglmyatrsurRA5Atodeadietssurtss,igbtntldtodgwtcapnofv,cec,ormymgcI.Unafgofapnofvsasddbyr,teayglm0peeturRA31I.Prtorlfre,tedtofhhadhnsss2peneofadvsadareoytoc319S.Tssnasoytotsogprtoita4atterghladslntrepnr,dep,o5eeand65EeD.Tsatslteetunisp]
+[DELETED: B6-FLNSADBYTESE(T#NATretolgrsfrhhcefsedwna1ersofaclashladretotsfmfleyfLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SC]

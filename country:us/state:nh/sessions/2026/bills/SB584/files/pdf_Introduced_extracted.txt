@@ -1,0 +1,186 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB584-FN-ASINTRODUCED
+2026SESSION
+26-2261
+07/05
+584-FN
+ANACT increasing the amount of funding provided for students receiving special
+educationservices.
+SPONSORS: Sen. Prentiss, Dist 5; Sen. Long, Dist 20; Sen. Watters, Dist 4; Sen. Rosenwald,
+Dist 13; Sen. Fenton, Dist 10; Sen. Perkins Kwoka, Dist 21; Sen. Altschiller, Dist
+24
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases the amount of funding provided for students receiving special education
+services.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB584-FN-ASINTRODUCED
+26-2261
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing the amount of funding provided for students receiving special
+educationservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Adequate Education; Education Trust Fund; Cost of an Opportunity for an
+2 AdequateEducation. AmendRSA198:40-atoreadasfollows:
+3 198:40-a CostofanOpportunityforanAdequateEducation.
+4 I. For the biennium beginning July 1, [2023] 2026, the annual cost of providing the
+5 opportunity for an adequate education as defined in RSA 193-E:2-a shall be as specified in
+6 paragraph II. The department shall adjust the rates specified in this paragraph in accordance with
+7 RSA198:40-d.
+8 II.(a) Acostof$4,100perpupilintheADMR,plusdifferentiatedaidasfollows:
+9 (b) An additional $2,300 for each pupil in the ADMR who is eligible for a free or reduced
+10 pricemealanytimeduringthedeterminationyear;plus
+11 (c) An additional $800 for each pupil in the ADMR who is an English language learner
+12 anytimeduringthedeterminationyear;plus
+13 (d) An additional [$2,100] $16,000 for each pupil in the ADMR who is receiving special
+14 educationservicesanytimeduringthedeterminationyear.
+15 III. The sum total calculated under paragraph II shall be the cost of an adequate education.
+16 The department shall determine the cost of an adequate education for each municipality based on
+17 theADMRofpupilswhoresideinthatmunicipality.
+18 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2261
+Revised1/28/26
+SB584-FN-FISCALNOTE
+ASINTRODUCED
+ANACT increasing the amount of funding provided for students receiving special
+educationservices.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Approximately$450MPerYear
+FundingSource(s) EducationTrustFund
+Appropriations* $0 StatutoryOpenWarrantExistsforAdequacyPayments
+FundingSource(s) EducationTrustFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 Approximately$420MPerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill will increase the special education differentiated aid rate in FY 2027 from $2,229 to
+$16,000. This will increase education trust fund spending for the following programs in FY
+2027:
+ DistrictAdequacy-$420million.
+ CharterSchoolFunding-$15million.
+ EducationFreedomAccounts-$15million.
+Impact beyond FY 2028 is indeterminable. However, a similar fiscal impact is expected. It
+should be noted that the estimated cost of this bill significantly exceeds available funding in the
+education trust fund, as well as the general fund and revenue stabilization account (rainy day
+fund).
+AGENCIESCONTACTED:
+DepartmentofEducation
+[DELETED: B5N-ASI6SEBNATigteatoffgpdfrssrgsns:S.P,Dt5;S.L,Dt2;S.W,Dt4;S.Rt1;S.F,Dt1;S.PsK,Dt2;S.A,D:EnFsblisteatoffgpdfrssrgsle-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATigteatoffgpdfrssrgsnseitEdbyteSeadHeofRsinGlCtc1E;AeE;EnTtF;CtofanOyfraAeE.AdRA1atordasf1aCtofanOyfranAeEI.FrtebmbgJy1,[]2,tealctofpgtoyfranaeenasddinRA1aslbeassdiphI.TedtslatterssdintsphinaewRA1I)Actof$0prplinteA,psddadasf()Anal$0frehplinteARwoiseefrafeorr0pemlaedgtedny;p1()Anal$0frehplinteARwoisanEhlel2aedgtedny;p3()Anal[]$0frehplinteARwoisrgs4enssaedgtedny5I.TesmtlcdurphIIslbetectofanaee6Tedtsldetectofanaeenfrehmybdo7teARofpsworeinttm82EeD.TsatslteetJy1,2]
+[DELETED: d1B5-FLNSINATigteatoffgpdfrssrgsnsLIdSeIY26FY27FY28FY20$0$0$eF0Ay$MPrYgSnTtF0SyOnWtEsfrAyPgSnTtFe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2lR0Ay$MPrYlE0$0$0$sblwlieteslenddadreinFY27fm$9t.TswlieenttfdsgfrtefgpsinFtAy-$0mrSlFg-$5mnFmAs-$5mtbdFY28isi.H,asrflitise.Idbendttteedctoftsblsyesaefgintnttf,aswlasteglfdadresnat(ydSC]
+[DELETED: tofE]
+
+
+================================================================================
+
+Raw Text:
+SB584-FN-ASINTRODUCED
+2026SESSION
+26-2261
+07/05
+584-FN
+SENATEBILL
+ANACT increasing the amount of funding provided for students receiving special
+educationservices.
+SPONSORS: Sen. Prentiss, Dist 5; Sen. Long, Dist 20; Sen. Watters, Dist 4; Sen. Rosenwald,
+Dist 13; Sen. Fenton, Dist 10; Sen. Perkins Kwoka, Dist 21; Sen. Altschiller, Dist
+24
+COMMITTEE: EducationFinance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases the amount of funding provided for students receiving special education
+services.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB584-FN-ASINTRODUCED
+26-2261
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing the amount of funding provided for students receiving special
+educationservices.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Education; Adequate Education; Education Trust Fund; Cost of an Opportunity for an
+2 AdequateEducation. AmendRSA198:40-atoreadasfollows:
+3 198:40-a CostofanOpportunityforanAdequateEducation.
+4 I. For the biennium beginning July 1, [2023] 2026, the annual cost of providing the
+5 opportunity for an adequate education as defined in RSA 193-E:2-a shall be as specified in
+6 paragraph II. The department shall adjust the rates specified in this paragraph in accordance with
+7 RSA198:40-d.
+8 II.(a) Acostof$4,100perpupilintheADMR,plusdifferentiatedaidasfollows:
+9 (b) An additional $2,300 for each pupil in the ADMR who is eligible for a free or reduced
+10 pricemealanytimeduringthedeterminationyear;plus
+11 (c) An additional $800 for each pupil in the ADMR who is an English language learner
+12 anytimeduringthedeterminationyear;plus
+13 (d) An additional [$2,100] $16,000 for each pupil in the ADMR who is receiving special
+14 educationservicesanytimeduringthedeterminationyear.
+15 III. The sum total calculated under paragraph II shall be the cost of an adequate education.
+16 The department shall determine the cost of an adequate education for each municipality based on
+17 theADMRofpupilswhoresideinthatmunicipality.
+18 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2261
+Revised1/28/26
+SB584-FN-FISCALNOTE
+ASINTRODUCED
+ANACT increasing the amount of funding provided for students receiving special
+educationservices.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Approximately$450MPerYear
+FundingSource(s) EducationTrustFund
+Appropriations* $0 StatutoryOpenWarrantExistsforAdequacyPayments
+FundingSource(s) EducationTrustFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+LocalRevenue $0 Approximately$420MPerYear
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+This bill will increase the special education differentiated aid rate in FY 2027 from $2,229 to
+$16,000. This will increase education trust fund spending for the following programs in FY
+2027:
+ DistrictAdequacy-$420million.
+ CharterSchoolFunding-$15million.
+ EducationFreedomAccounts-$15million.
+Impact beyond FY 2028 is indeterminable. However, a similar fiscal impact is expected. It
+should be noted that the estimated cost of this bill significantly exceeds available funding in the
+education trust fund, as well as the general fund and revenue stabilization account (rainy day
+fund).
+AGENCIESCONTACTED:
+
+DepartmentofEducation
+
+[DELETED: B5N-ASI6SEBNATigteatoffgpdfrssrgsns:S.P,Dt5;S.L,Dt2;S.W,Dt4;S.Rt1;S.F,Dt1;S.PsK,Dt2;S.A,D:EnFsblisteatoffgpdfrssrgsle-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATigteatoffgpdfrssrgsnseitEdbyteSeadHeofRsinGlCtc1E;AeE;EnTtF;CtofanOyfraAeE.AdRA1atordasf1aCtofanOyfranAeEI.FrtebmbgJy1,[]2,tealctofpgtoyfranaeenasddinRA1aslbeassdiphI.TedtslatterssdintsphinaewRA1I)Actof$0prplinteA,psddadasf()Anal$0frehplinteARwoiseefrafeorr0pemlaedgtedny;p1()Anal$0frehplinteARwoisanEhlel2aedgtedny;p3()Anal[]$0frehplinteARwoisrgs4enssaedgtedny5I.TesmtlcdurphIIslbetectofanaee6Tedtsldetectofanaeenfrehmybdo7teARofpsworeinttm82EeD.TsatslteetJy1,2]
+[DELETED: d1B5-FLNSINATigteatoffgpdfrssrgsnsLIdSeIY26FY27FY28FY20$0$0$eF0Ay$MPrYgSnTtF0SyOnWtEsfrAyPgSnTtFe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2lR0Ay$MPrYlE0$0$0$sblwlieteslenddadreinFY27fm$9t.TswlieenttfdsgfrtefgpsinFtAy-$0mrSlFg-$5mnFmAs-$5mtbdFY28isi.H,asrflitise.Idbendttteedctoftsblsyesaefgintnttf,aswlasteglfdadresnat(ydSC]
+[DELETED: tofE]

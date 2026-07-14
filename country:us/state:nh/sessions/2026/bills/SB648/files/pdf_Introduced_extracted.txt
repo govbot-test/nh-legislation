@@ -1,0 +1,181 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB648 -ASINTRODUCED
+2026SESSION
+26-2082
+05/09
+648
+ANACT requiringageverificationtoallowaccesstocertainmaterialharmfultominors.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a person that owns, operates, or controls a website or application for
+commercialpurposesandpublishesordistributesasubstantialportionofmaterialthatisharmfulto
+minors to implement age verification procedures. The bill establishes a private right of action for
+noncomplianceandprovidesforenforcementbytheattorneygeneral.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB648-ASINTRODUCED
+26-2082
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringageverificationtoallowaccesstocertainmaterialharmfultominors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Restriction on Access to Material Harmful to Minors. Amend RSA by inserting
+2 afterchapter507-Ithefollowingnewchapter:
+3 CHAPTER507-J
+4 RESTRICTIONONACCESSTOMATERIALHARMFULTOMINORS
+5 507-J:1 Definitions. Inthischapter:
+6 I. "Materialharmfultominors"meansanymaterialthat:
+7 (a) The average person applying contemporary community standards would find, taken
+8 asawhole,appealstotheprurientinterest;
+9 (b) Depictsordescribessexualconductinapatentlyoffensiveway;and
+10 (c) Taken as a whole, lacks serious literary, artistic, political, or scientific value for
+11 minors.
+12 II. "Commercialentity"meansanypersonorbusinessthat:
+13 (a) Owns,operates,orcontrolsawebsiteorapplicationforcommercialpurposes;and
+14 (b) Publishesordistributesasubstantialportionofmaterialthatisharmfultominors.
+15 III. "Substantial portion" means content in which more than one-third of a website's total
+16 content,measuredbyvolumeornumberofimagesandvideos,isharmfultominors.
+17 IV. "Reasonableageverificationmethod"means:
+18 (a) Agovernment-issuedidentificationcardcheckconductedbyathird-partyverification
+19 service;or
+20 (b) Any other method that reasonably verifies that the user is at least 18 years of age,
+21 consistentwithindustrybestpracticesandwithnoretentionofidentifyingpersonaldata.
+22 507-J:2 AgeVerificationRequirement.
+23 I. A commercial entity that knowingly and intentionally publishes or distributes material
+24 harmfultominorsontheinternetshall:
+25 (a) Require all users attempting to access such material to verify their age using a
+26 reasonableageverificationmethod;
+27 (b) Not retain any personal identifying information used during the verification process;
+28 and
+29 (c) Postaclearwarningmessageonthelandingpagethatageverificationisrequired.
+30 507-J:3 LiabilityandEnforcement.
+SB648 -ASINTRODUCED
+-Page2-
+1 I. Anyparent orlegal guardianof aminorwho accessesmaterial harmfultominorsduetoa
+2 commercial entity's failure to verify age as required by this chapter shall have a cause of action
+3 against the entity for damages, including statutory damages of up to $10,000 per violation, court
+4 costs,andreasonableattorney'sfees.
+5 II. A commercial entity shall not claim Section 230 immunity under the federal
+6 CommunicationsDecencyActasadefenseinanycivilactionarisingfromaviolationofthischapter.
+7 507-J:4 State Enforcement. The attorney general may bring an action for injunctive relief and
+8 civil penalties of up to $25,000 per violation against any commercial entity in violation of this
+9 chapter.
+10 507-J:5 DataPrivacy.
+11 I. No commercial entity or third-party age verification provider shall retain, store, or sell
+12 anypersonalinformationusedtoverifyageunderthischapter.
+13 II. A knowing violation of this section shall be a separate civil violation subject to a penalty
+14 of$50,000perincident.
+15 507-J:6 Exemptions. Thischaptershallnotapplyto:
+16 I. Newsorganizations.
+17 II. Libraries.
+18 III. Museums.
+19 IV. Institutions of higher education when the material is distributed in good faith for
+20 legitimateeducationalorscientificpurposes.
+21 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B68-ASI6SEBNATrgaevntoawastocnmlhltom:S.R,Dt1:Jsblrsapntto,o,orcsaweoranflpsadpsordsaslpnofmlttishltstoitaevnp.Teblesapertofanfeadpsfretbyteayg-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B68-ASIEOFNWHnteYrofOrLdToTdTNATrgaevntoawastocnmlhltomeitEdbyteSeadHeofRsinGlCtc1NwC;RnonAstoMlHltoM.AdRAbyiarcr5ItefgnwcCR5RNONASTOMLHLTOM51D.IntscI."lhltom"msaymlt()Teaepnagcycysswdf,tasaw,astotepti()Dsordsslctinapyoew;a0()Tnasaw,lsssl,a,p,orscvef1m2I."le"msaypnorbst3()O,o,orcsaweoranfrclp;a4()Psordsaslpnofmlttishltom5I."lp"msctinwhmetnodofawst6c,mdbyveornrofisadv,ishltom7I."eaevnm"m8()Agdincdckcdbyatyv9s;o0()Ayormdttryvsttteurisatlt18ysofa1ctwhiybtpsadwhnornofigpld252AeVnR3I.Acleyttkyadiypsordsm4hltomsonteits5()Realusagtoasshmltovytraeug6reaevnm7()Ntrnaypliginuddgtevnp8a9()Ptacrwgmeontelgpettaevnisr053LyadE]
+[DELETED: B68-ASIPe2I.Ayptorllgnofamrwoasmlhltomsdetoclesfetovyaeasrdbytscrslheaceofaatteeyfrd,igsydsofupto$0prv,cc,adreasfI.AcleyslntcmSn20iyurtefCsDyAtasadeinayclanagfmavnoftsc54SeE.Teayglmybgananfrierfaclpsofupto$0prvnataycleyinvnoftc055DaP1I.Nocleyortyaevnprslr,s,ors2ayplinudtovyaeurtsc3I.Akgvnoftssnslbeaseclvnsttoap4of$0pri556E.Tscrslntayt6I.Nso7I.L8I.M9I.Isofhrenwntemlisddingdfhf0leelorscp12EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB648 -ASINTRODUCED
+2026SESSION
+26-2082
+05/09
+648
+SENATEBILL
+ANACT requiringageverificationtoallowaccesstocertainmaterialharmfultominors.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a person that owns, operates, or controls a website or application for
+commercialpurposesandpublishesordistributesasubstantialportionofmaterialthatisharmfulto
+minors to implement age verification procedures. The bill establishes a private right of action for
+noncomplianceandprovidesforenforcementbytheattorneygeneral.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB648-ASINTRODUCED
+26-2082
+05/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiringageverificationtoallowaccesstocertainmaterialharmfultominors.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Restriction on Access to Material Harmful to Minors. Amend RSA by inserting
+2 afterchapter507-Ithefollowingnewchapter:
+3 CHAPTER507-J
+4 RESTRICTIONONACCESSTOMATERIALHARMFULTOMINORS
+5 507-J:1 Definitions. Inthischapter:
+6 I. "Materialharmfultominors"meansanymaterialthat:
+7 (a) The average person applying contemporary community standards would find, taken
+8 asawhole,appealstotheprurientinterest;
+9 (b) Depictsordescribessexualconductinapatentlyoffensiveway;and
+10 (c) Taken as a whole, lacks serious literary, artistic, political, or scientific value for
+11 minors.
+12 II. "Commercialentity"meansanypersonorbusinessthat:
+13 (a) Owns,operates,orcontrolsawebsiteorapplicationforcommercialpurposes;and
+14 (b) Publishesordistributesasubstantialportionofmaterialthatisharmfultominors.
+15 III. "Substantial portion" means content in which more than one-third of a website's total
+16 content,measuredbyvolumeornumberofimagesandvideos,isharmfultominors.
+17 IV. "Reasonableageverificationmethod"means:
+18 (a) Agovernment-issuedidentificationcardcheckconductedbyathird-partyverification
+19 service;or
+20 (b) Any other method that reasonably verifies that the user is at least 18 years of age,
+21 consistentwithindustrybestpracticesandwithnoretentionofidentifyingpersonaldata.
+22 507-J:2 AgeVerificationRequirement.
+23 I. A commercial entity that knowingly and intentionally publishes or distributes material
+24 harmfultominorsontheinternetshall:
+25 (a) Require all users attempting to access such material to verify their age using a
+26 reasonableageverificationmethod;
+27 (b) Not retain any personal identifying information used during the verification process;
+28 and
+29 (c) Postaclearwarningmessageonthelandingpagethatageverificationisrequired.
+30 507-J:3 LiabilityandEnforcement.
+
+SB648 -ASINTRODUCED
+-Page2-
+1 I. Anyparent orlegal guardianof aminorwho accessesmaterial harmfultominorsduetoa
+2 commercial entity's failure to verify age as required by this chapter shall have a cause of action
+3 against the entity for damages, including statutory damages of up to $10,000 per violation, court
+4 costs,andreasonableattorney'sfees.
+5 II. A commercial entity shall not claim Section 230 immunity under the federal
+6 CommunicationsDecencyActasadefenseinanycivilactionarisingfromaviolationofthischapter.
+7 507-J:4 State Enforcement. The attorney general may bring an action for injunctive relief and
+8 civil penalties of up to $25,000 per violation against any commercial entity in violation of this
+9 chapter.
+10 507-J:5 DataPrivacy.
+11 I. No commercial entity or third-party age verification provider shall retain, store, or sell
+12 anypersonalinformationusedtoverifyageunderthischapter.
+13 II. A knowing violation of this section shall be a separate civil violation subject to a penalty
+14 of$50,000perincident.
+15 507-J:6 Exemptions. Thischaptershallnotapplyto:
+16 I. Newsorganizations.
+17 II. Libraries.
+18 III. Museums.
+19 IV. Institutions of higher education when the material is distributed in good faith for
+20 legitimateeducationalorscientificpurposes.
+21 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B68-ASI6SEBNATrgaevntoawastocnmlhltom:S.R,Dt1:Jsblrsapntto,o,orcsaweoranflpsadpsordsaslpnofmlttishltstoitaevnp.Teblesapertofanfeadpsfretbyteayg-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B68-ASIEOFNWHnteYrofOrLdToTdTNATrgaevntoawastocnmlhltomeitEdbyteSeadHeofRsinGlCtc1NwC;RnonAstoMlHltoM.AdRAbyiarcr5ItefgnwcCR5RNONASTOMLHLTOM51D.IntscI."lhltom"msaymlt()Teaepnagcycysswdf,tasaw,astotepti()Dsordsslctinapyoew;a0()Tnasaw,lsssl,a,p,orscvef1m2I."le"msaypnorbst3()O,o,orcsaweoranfrclp;a4()Psordsaslpnofmlttishltom5I."lp"msctinwhmetnodofawst6c,mdbyveornrofisadv,ishltom7I."eaevnm"m8()Agdincdckcdbyatyv9s;o0()Ayormdttryvsttteurisatlt18ysofa1ctwhiybtpsadwhnornofigpld252AeVnR3I.Acleyttkyadiypsordsm4hltomsonteits5()Realusagtoasshmltovytraeug6reaevnm7()Ntrnaypliginuddgtevnp8a9()Ptacrwgmeontelgpettaevnisr053LyadE]
+[DELETED: B68-ASIPe2I.Ayptorllgnofamrwoasmlhltomsdetoclesfetovyaeasrdbytscrslheaceofaatteeyfrd,igsydsofupto$0prv,cc,adreasfI.AcleyslntcmSn20iyurtefCsDyAtasadeinayclanagfmavnoftsc54SeE.Teayglmybgananfrierfaclpsofupto$0prvnataycleyinvnoftc055DaP1I.Nocleyortyaevnprslr,s,ors2ayplinudtovyaeurtsc3I.Akgvnoftssnslbeaseclvnsttoap4of$0pri556E.Tscrslntayt6I.Nso7I.L8I.M9I.Isofhrenwntemlisddingdfhf0leelorscp12EeD.TsatslteetJy1,2]

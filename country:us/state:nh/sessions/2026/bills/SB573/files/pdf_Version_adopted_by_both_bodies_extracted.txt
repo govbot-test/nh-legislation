@@ -1,0 +1,454 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB573-VERSIONADOPTEDBYBOTHBODIES
+02/19/2026 0683s
+14May2026...1675h
+06/04/2026 2145EBA
+2026SESSION
+26-2239
+08/09
+573
+ANACT establishingcertificationstandardsforcertifiedpublicsafetycomfortdogs.
+SPONSORS: Sen.Birdsell,Dist19;Sen.Fenton,Dist10;Sen.Gannon,Dist23;Sen.Pearl,Dist
+17;Sen.Ward,Dist8;Rep.Moffett,Merr.4;Rep.Morton,Hills.39
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes certification standards for certified public safety comfort dogs, certified
+publicsafetycomfortdoghandlers,andcertifiedpublicsafetycomfortdoghandlingteams.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB573-VERSIONADOPTEDBYBOTHBODIES
+02/19/2026 0683s
+14May2026...1675h
+06/04/2026 2145EBA 26-2239
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingcertificationstandardsforcertifiedpublicsafetycomfortdogs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewChapter;PublicSafetyComfortDogCertification. AmendRSAbyinsertingafterchapter
+2 167-Dthefollowingnewchapter:
+3 CHAPTER167-E
+4 PUBLICSAFETYCOMFORTDOGCERTIFICATION
+5 167-E:1 Definitions. Inthischapter:
+6 I. "Certified public safety comfort dog" means a specifically trained dog that provides
+7 support, comfort, and crisis response to individuals, groups, and communities in various settings,
+8 such as hospitals, nursing homes, schools, disaster relief areas, emergency response/public safety
+9 agencies and other places where people may be experiencing stress, trauma, or crisis. Certified
+10 public safety comfort dogs are trained to interact gently and empathetically with people, offering
+11 unconditional support and non-judgmental companionship to help alleviate anxiety, reduce stress,
+12 improve mood, and enhance overall well-being and resilience. Certified public safety comfort dogs
+13 arenotconsideredservicedogsoremotionalsupportanimals.
+14 II. "Certified public safety comfort dog handler" means an emergency response or public
+15 safety worker who is responsible for the care, training, and supervision of a certified public safety
+16 comfort dog during its interactions with individuals, groups, and communities in need of support or
+17 crisis response. A certified public safety comfort dog handler shall ensure that it behaves
+18 appropriately, follows commands, and maintains a calm and comforting presence in various
+19 environments. A certified public safety comfort dog handler shall be trained to understand canine
+20 behavior, communication, and emotional support techniques, allowing them to effectively guide the
+21 certified public safety comfort dog's interactions with individuals, groups, or communities in distress
+22 orcrisissituations.
+23 III. "Emergency response or public safety worker" means any law enforcement officer
+24 certified under RSA 106-L, certified county corrections officer, sheriff or deputy sheriff, state police
+25 officer, civilian law enforcement employee, civilian county corrections employee, any call, volunteer,
+26 or regular firefighter, civilian fire department employee, rescue or ambulance worker, including
+27 ambulance service, emergency medical personnel, first responder service, and volunteer personnel,
+28 telecommunicators, and local dispatchers, including any retired emergency response or public safety
+29 workersasdefinedinthissection.
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 IV. "Local dispatcher" means a person who determines the location, status, and assistance
+2 required by callers and walk-in customers for public safety services and dispatches the appropriate
+3 police, fire, ambulance, or other units to provide needed emergency services at the state, city, town,
+4 orprivateemergencyserviceslevel.
+5 V. "Telecommunicator" means an employee of the department of safety, division of
+6 emergency services and communications who is responsible for receiving at the public safety
+7 answering point telephone calls made to E911 and transferring or relaying such calls to public or
+8 privatesafetyagencies.
+9 VI. "Certifiedpublicsafetycomfortdogteam"meansatrainedcertifiedpublicsafetycomfort
+10 dog and its handler, working collaboratively to provide support, comfort, and crisis response to
+11 individuals, groups, and communities in various settings. The certified public safety comfort dog
+12 teamshallundergospecializedtrainingtodevelopskillsinempathy,activelistening,andnon-verbal
+13 communication, enabling them to effectively respond to the emotional, behavioral, physical,
+14 cognitive,andrelationalneedsofthosetheyencounter.
+15 VII. "Certifiedpublic safetycomfort dogtrainer" meansanypersonwho isemployed totrain
+16 dogs for the use of a certified public safety comfort dog or is volunteering and training to raise dogs
+17 for the use of certified public safety comfort dogs by emergency response or public safety workers, or
+18 an individual trainer who helps an emergency response or public safety worker to train their
+19 certifiedpublicsafetycomfortdog.
+20 VIII. "Housing accommodation" means any publicly assisted housing accommodation or any
+21 real property, or portion thereof, which is used or occupied, or is intended, arranged, or designed to
+22 beusedoroccupied,asthehome,residence,orsleepingplaceofoneormorepersons.
+23 IX. "Public facility" means any place of public accommodation and any street, highway,
+24 sidewalk, walkway, public building, and any other place or structure to which the general public is
+25 regularly,normally,orcustomarilypermittedorinvited.
+26 X. "Place of public accommodation" includes any tavern roadhouse, hotel, motel, or trailer
+27 camp, whether for entertainment of transient guests or accommodation of those seeking health,
+28 recreation, or rest; any producer, manufacturer, wholesaler, distributor, retail shop, store
+29 establishment, or concession dealing with goods or services of any kind; any restaurant, eating
+30 house,orplacewherefoodissoldforconsumptiononthepremises;anyplacemaintainedforthesale
+31 of ice cream, ice, and fruit preparations or their derivatives, soda water or confections, or where any
+32 beverages of any kind are retailed for consumption on the premises; any garage; any public
+33 conveyance operated on land or water, or in the air, or any stations and terminals thereof; any
+34 bathhouse, boardwalk, or seashore accommodation; any auditorium, meeting place, or hall; any
+35 theater,motionpicturehouse,musichall,roofgarden,skatingrink,swimmingpool,amusementand
+36 recreation park, fair, bowling alley, gymnasium, shooting gallery, billiard and pool parlor, or any
+37 otherplaceofamusement;anycomfortstation;anydispensary,clinic,orhospital;anypubliclibrary;
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 any kindergarten, primary and secondary school, trade or business school, high school, academy,
+2 college and university, or any educational institution under the supervision of the state board of
+3 education,orthecommissionerofeducationofthestateofNewHampshire.
+4 167-E:2 CertifiedPublicSafetyComfortDogTraining.
+5 I. The initial training and certification testing shall be completed by the dog’s second
+6 birthday. SuchinitialtrainingandcertificationshallbecomprisedofthefollowingAmericanKennel
+7 Clubcertificates,oranequivalentcertificatefromanothernationallyrecognizedorganization:
+8 (a) CanineGoodCitizen(CGC).
+9 (b) AdvancedCanineGoodCitizen(CGCA).
+10 (c) UrbanCanineGoodCitizen(CGCU).
+11 II. Theongoingtrainingshallbecomprisedofthefollowing:
+12 (a) A minimum of 1 hour per month of structured training. Training shall focus on
+13 maintainingandreinforcingCGC,CGCA,andCGCUskills.
+14 (b) Exposure to various emergencies or public safety environments, including
+15 interactionswithfirstrespondersandthepublic.
+16 III. Theemergencyresponseorpublicsafetyagencyemployingorowningthecertifiedpublic
+17 safetycomfortdogshallmaintaindetailedtrainingrecords. Recordsshallinclude:
+18 (a)Datesanddurationoftrainingsessions.
+19 (b) Thetypeoftrainingconducted.
+20 (c) Progressandanycorrectiveactionsneeded.
+21 (d) Certificatecompletionandrenewaldates.
+22 167-E:3 CertifiedPublicSafetyComfortDogHandlerTraining.
+23 I. Each certified public safety comfort dog handler working with the certified public safety
+24 comfort dog shall complete training with his or her assigned certified public safety comfort dog.
+25 Such training and certificate testing shall be comprised of the following American Kennel Club
+26 certificates,oranequivalentcertificatefromanothernationallyrecognizedorganization:
+27 (a) CanineGoodCitizen(CGC).
+28 (b) AdvancedCanineGoodCitizen(CGCA).
+29 (c) UrbanCanineGoodCitizen(CGCU).
+30 II. The following training shall also be required of certified public safety comfort dog
+31 handlers:
+32 (a) Training on recognizing and responding to individuals experiencing mental health
+33 crises.
+34 (b) Education on crisis intervention techniques for emergency response or public safety
+35 workers,includingCITtraining.
+36 (c) Trainingonprovidingbasicemergencycareandfirstaidforcaninepartners.
+37 III. Theongoingtrainingshallbecomprisedofthefollowing:
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 (a) A minimum of one hour per month of structured training with the certified public
+2 safety comfort dog. Training shall focus on reinforcing RSA 167-E:2 certification skills, handling
+3 techniques,andscenario-basedpublicinteractions.
+4 (b) Regularexposuretoemergency/publicsafetyenvironmentstomaintainproficiency.
+5 IV. Theemergencyresponseorpublicsafetyagencyemployingorowningthecertifiedpublic
+6 safety comfort dog shall maintain detailed training records for both the dog and handler. Records
+7 shallinclude:
+8 (a) Datesanddurationoftrainingsessions.
+9 (b) Thetypeoftrainingconducted.
+10 (c) Progressandanycorrectiveactionsneeded.
+11 (d) Certificatecompletionandrenewaldates.
+12 167-E:4 Animal Duties. The official duties performed by a certified public safety comfort dog
+13 shall be directly related to the handler's role as an emergency response or public safety worker.
+14 Official duties may include but are not limited to: critical incident stress management, survivor
+15 advocacy and support, school support, crisis response, community mental health support, and
+16 communityrelations.
+17 167-E:5 CertifiedPublicSafetyComfortDogLicensing,RabiesCertificateandInsurance.
+18 I. The owner or employer of the certified public safety comfort dog shall comply with all
+19 state and local ordinances regarding licensing and rabies certification under RSA 466:1 and RSA
+20 466:1-a. The owner or employer of the certified public safety comfort dog shall also fully insure the
+21 dogforthedurationofitsservicecareer.
+22 II. Nothing in this section is intended to inhibit, interfere, or impede with the protections
+23 providedtoserviceanimalsandsearchandrescuedogsunderRSA167-D.
+24 167-E:6 CertifiedPublicSafetyComfortDogTeamCertification.
+25 I. Each certified public safety comfort dog team shall complete all training requirements
+26 outlined within RSA 167-E:2 and RSA 167-E:3 in order to be certified in the state of New
+27 Hampshire.
+28 II. Each certified public safety comfort dog shall be retested with his or her assigned
+29 certified public safety comfort dog every 3 years. Such retesting shall be comprised of the following
+30 American Kennel Club certificates or an equivalent certificate from another nationally recognized
+31 organization:
+32 (a) CanineGoodCitizen(CGC).
+33 (b) AdvancedCanineGoodCitizen(CGCA).
+34 (c) UrbanCanineGoodCitizen(CGCU).
+35 III. Theemergencyresponseorpublicsafetyagencyowningoremployingthecertifiedpublic
+36 safetycomfortdogshallmaintainalltrainingandcertificationrecords,including:
+37 (a) Initialcertificationdocumentation.
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 (b) Recertificationdatesandresults.
+2 (c) Anyongoingtrainingorcorrectiveactionrecords.
+3 IV. All certified public safety comfort dog teams working in the state of New Hampshire
+4 shall have one year from the effective date of this chapter to meet certification and recertification
+5 requirementsoutlinedtherein.
+6 167-E:7 Certified Public Safety Dog May Accompany Handler. A certified public safety comfort
+7 dog may accompany their handler into any public facility, housing accommodation, or place of public
+8 accommodation to which the general public is invited, while they are in the course of performing
+9 theirofficialduties,and/or,whileinthecourseof,ortravelingtoorfromthelocationof,theirofficial
+10 duties.
+11 167-E:8 ProhibitedActs.
+12 I. It is unlawful for a person, directly or indirectly, either to prohibit, hinder, or interfere
+13 withacertifiedpublicsafetycomfortdogteam,whileinthecourseofperformingtheirofficialduties.
+14 II. It isunlawful for anypersontorepresent, and/or fit,adogwithacollar, leash, vest, sign,
+15 orharnessofanytypewhichrepresentsthatthedogisacertifiedpublicsafetycomfortdogifthedog
+16 isnotacertifiedpublicsafetycomfortdogcertifiedunderthischapter.
+17 167-E:9 CertifiedPublicSafetyDogCare.
+18 I. A certified public safety comfort dog shall be confined when traveling above 55 miles per
+19 hour. Confinement may be a crate or tether attached to a harness but not to a collar. A remote
+20 temperature sensor shall be placed in any vehicle in which the certified public safety comfort dog
+21 willbeleftunattended.
+22 II. NoprongorelectroniccollarsshallbeusedforAmericanKennelClubtesting,andnodog
+23 maywearprongorelectroniccollarswhilebeingdeployed.
+24 III. The decision to spay or neuter a certified public safety comfort dog shall be determined
+25 bytherecommendationofthedog'sveterinarian.
+26 167-E:10 Certified Public Safety Comfort Dog Retirement. Each emergency response or public
+27 safety agency employing a certified public safety comfort dog shall have a policy which outlines the
+28 certified public safety comfort dog's safe and humane retirement. If it is determined that a certified
+29 public safety comfort dog in training cannot meet the standards set forth in this chapter, such policy
+30 shall outline the certified public safety comfort dog’s permanent ownership, and/or, options to return
+31 to the agency, non-profit, business or breeder the certified public safety comfort dog was obtained
+32 from.
+33 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: B53-VNADBYBHB60.1626SEBNATegcnssfrcdpcsyctd:S.B,Dt1;S.F,Dt1;S.G,Dt2;S.P,D;S.W,Dt8;R.M,M.4;R.M,H.3:EeDsadADAsblescnssfrcdpcsyctd,ccsyctdgh,adcdpcsyctdghgt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B53-VNADBYBHB60.162A2EOFNWHnteYrofOrLdToTdTNATegcnssfrcdpcsyctdeitEdbyteSeadHeofRsinGlCtc1NwC;PcSyCtDgC.AdRAbyigarc1DtefgnwcCR1PCSYCTDGC11D.IntscI."dpcsyctd"msasytddgttps,c,adcsretoi,g,adcsinvssshash,ngh,s,drrfa,eyrcsasadorpswepemybeegs,t,orc.C0pcsyctdsaetdtoitgyadeywhp,o1ulstadnlcptohpaea,res2iem,adeeolwgadr.Cdpcsyctd3aentcdsedsorelsta4I."dpcsyctdgh"msaneyreorp5sywrwoisrefrtec,t,adsnofacdpcs6ctdgdgisiswhi,g,adcsinndofsto7csr.Acdpcsyctdghrsleettitb8a,fsc,admsacmadcgpeinv9e.Acdpcsyctdghrslbetdtoudc0b,c,adelstt,agtmtoeyget1cdpcsyctdsiswhi,g,orcsind2orcss3I."yreorpcsyw"msaylweto4cdurRA1,cdcycso,sfordys,sep5o,cnlwete,cncycse,ayc,v6orrrf,cnfedte,reoraew,i7aes,eymlp,ftrrs,advrp8t,adlld,igayrdeyreorpcs9wsasddintss]
+[DELETED: B53-VNADBYBHBPe2I."ld"msapnwodstel,s,adardbycsadwncsfrpcsyssaddsteap,f,a,ororustopendeyssattes,c,torpeeysslV.""msaneeoftedtofs,dnoeyssadcswoisrefrrgattepcsagpttecsmetoE1adtgorrgshcstopcopesyaV."dpcsyctdgt"msatdcdpcsyc0dgadish,wgcytopes,c,adcsret1i,g,adcsinvss.Tecdpcsyctd2tmsluosdtgtodpssine,ael,adn3c,egtmtoeyrdtotee,b,p4c,adrlnsoftetye5V."dpcsyctdgt"msaypnwoisedtot6dsfrteueofacdpcsyctdgorisvgadtgtored7frteueofcdpcsyctdsbyeyreorpcsyw,o8aniltrwohsaneyreorpcsywrtotnt9cdpcsyctd0V."ga"msaypyadhganora1rlp,orpnt,whisudoro,orisi,a,orddt2beudoro,asteh,r,orsgpeofoeormep3I."cf"msaypeofpcanadays,h4s,w,pcb,adayorpeorsetowhteglpci5r,n,orcypdori6X."eofpca"isaytnr,h,m,ort7c,wrfretofttgsoranoftesgh8r,orr;ayp,m,w,d,rls,s9e,orcndgwhgsorssofayk;ayr,e0h,orpewefdissdfrcnontep;aypemdfrtes1ofiec,i,adftpsortrd,sawrorc,orwea2bsofaykdaerdfrcnontep;ayg;ayp3ceodonldorw,orintea,orayssadtst;a4b,b,orsea;aya,mgp,orh;a5t,mnpeh,mch,rfg,sgr,sgp,ata6rnp,f,bga,g,sgg,bdadplp,ora7orpeofa;aycts;ayd,c,orh;aypcl]
+[DELETED: B53-VNADBYBHBPe3ayk,pyadsys,teorbss,hhs,aceadu,orayelinurtesnoftesebdoe,ortecrofenofteseofNwH12CdPcSyCtDgTI.Teiltgadcntgslbecdbytedssb.ShiltgadcnslbecdoftefgAnKCbc,oranetcefmarnyrdo()CeGdCn(()AdCeGdCn(0()UnCeGdCn(1I.Teogtgslbecdoftef2()Ammof1hrprmhofsdt.Tgslfso3mgadrgC,C,adCUs4()Eetovsesorpcsye,i5iswhftrsadtep6I.Teeyreorpcsyayegorogtecdp7syctdgslmnddtgr.Rssli8()Dsaddnoftgs9()Teteoftgc0()Psadayceasn1()Cecnadrld213CdPcSyCtDgHrT3I.Ehcdpcsyctdghrwgwhtecdpcs4ctdgslcetgwhhsorhradcdpcsyctd5ShtgadcetgslbecdoftefgAnKlC6c,oranetcefmarnyrdo7()CeGdCn(8()AdCeGdCn(9()UnCeGdCn(0I.Tefgtgslaoberdofcdpcsyctd1h2()Tgonrgadrgtoisegmlh3c4()Enoncsintsfreyreorpcs5w,igCTt6()Tgonpgbceyceadftadfrcep7I.Teogtgslbecdoftef]
+[DELETED: B53-VNADBYBHBPe4()Ammofoehrprmhofsdtgwhtecdpsyctd.TgslfsonrgRA12cns,ht,adsdpci()RreetoecsyestomnpI.Teeyreorpcsyayegorogtecdpsyctdgslmnddtgrsfrbhtedgadh.Rsli()Dsaddnoftgs()Teteoftgc0()Psadayceasn1()Cecnadrld214AlD.Teoldspdbyacdpcsyctd3slbedyrdtotehsreasaneyreorpcsyw4Oldsmyiebtaentldt:clitssm,s5ayads,sls,csr,cymlhhs,a6cyr715CdPcSyCtDgL,RsCeadI8I.Teororeroftecdpcsyctdgslcywha9seadllosrglgadrscnurRA41adR04.Teororeroftecdpcsyctdgslaofyiet1dgfrtednofissec2I.Ngintssnisidtoi,i,oriewhtep3pdtoseasadshadredsurRA1416CdPcSyCtDgTmC5I.Ehcdpcsyctdgtmslcealtgr6odwnRA12adRA13inortobecdinteseofN7H8I.Ehcdpcsyctdgslberdwhhsorhra9cdpcsyctdgey3y.Shrgslbecdoftef0AnKlCbcsoranetcefmarnyr1o2()CeGdCn(3()AdCeGdCn(4()UnCeGdCn(5I.Teeyreorpcsyayogoregtecdp6syctdgslmnaltgadcnr,i7()Ilcnd]
+[DELETED: B53-VNADBYBHBPe5()Rndsadr()AyogtgorceanrI.AlcdpcsyctdgtswginteseofNwHslheoeyrfmteeedeoftscrtomtcnadrrsodt17CdPcSyDgMyAyH.Acdpcsycdgmyaytrhrioaypcf,hga,orpeofpantowhteglpcisi,wetyaeinteceofptrold,a,weinteceo,ortgtoorfmtelno,tro0d118PdA2I.Itisulfrap,dyori,ertop,h,ori3whacdpcsyctdgt,weinteceofpgtrold4I.Itisulfraypntor,arf,adgwhac,l,v,s5orhsofaytewhrstttedgisacdpcsyctdgifted6isntacdpcsyctdgcdurtsc719CdPcSyDgC8I.Acdpcsyctdgslbecdwntgae55msp9h.Ctmybeaceortradtoahsbtnttoac.Ar0tesrslbepdinayveinwhtecdpcsyctd1wlbeltu2I.NopgoreccsslbeudfrAnKlCbt,adnod3mywrpgoreccswebgd4I.Tedntosyornracdpcsyctdgslbed5byternoftedsv610CdPcSyCtDgR.Eheyreorp7syayegacdpcsyctdgslheapywhost8cdpcsyctdsseadher.Ifitisddttac9pcsyctdgintgctmttessstfhintsc,shp0sloetecdpcsyctdspto,a,ostor1totea,n,bsorbrtecdpcsyctdgwso2f32EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SB573-VERSIONADOPTEDBYBOTHBODIES
+02/19/2026 0683s
+14May2026...1675h
+06/04/2026 2145EBA
+2026SESSION
+26-2239
+08/09
+573
+SENATEBILL
+ANACT establishingcertificationstandardsforcertifiedpublicsafetycomfortdogs.
+SPONSORS: Sen.Birdsell,Dist19;Sen.Fenton,Dist10;Sen.Gannon,Dist23;Sen.Pearl,Dist
+17;Sen.Ward,Dist8;Rep.Moffett,Merr.4;Rep.Morton,Hills.39
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill establishes certification standards for certified public safety comfort dogs, certified
+publicsafetycomfortdoghandlers,andcertifiedpublicsafetycomfortdoghandlingteams.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB573-VERSIONADOPTEDBYBOTHBODIES
+02/19/2026 0683s
+14May2026...1675h
+06/04/2026 2145EBA 26-2239
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT establishingcertificationstandardsforcertifiedpublicsafetycomfortdogs.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 NewChapter;PublicSafetyComfortDogCertification. AmendRSAbyinsertingafterchapter
+2 167-Dthefollowingnewchapter:
+3 CHAPTER167-E
+4 PUBLICSAFETYCOMFORTDOGCERTIFICATION
+5 167-E:1 Definitions. Inthischapter:
+6 I. "Certified public safety comfort dog" means a specifically trained dog that provides
+7 support, comfort, and crisis response to individuals, groups, and communities in various settings,
+8 such as hospitals, nursing homes, schools, disaster relief areas, emergency response/public safety
+9 agencies and other places where people may be experiencing stress, trauma, or crisis. Certified
+10 public safety comfort dogs are trained to interact gently and empathetically with people, offering
+11 unconditional support and non-judgmental companionship to help alleviate anxiety, reduce stress,
+12 improve mood, and enhance overall well-being and resilience. Certified public safety comfort dogs
+13 arenotconsideredservicedogsoremotionalsupportanimals.
+14 II. "Certified public safety comfort dog handler" means an emergency response or public
+15 safety worker who is responsible for the care, training, and supervision of a certified public safety
+16 comfort dog during its interactions with individuals, groups, and communities in need of support or
+17 crisis response. A certified public safety comfort dog handler shall ensure that it behaves
+18 appropriately, follows commands, and maintains a calm and comforting presence in various
+19 environments. A certified public safety comfort dog handler shall be trained to understand canine
+20 behavior, communication, and emotional support techniques, allowing them to effectively guide the
+21 certified public safety comfort dog's interactions with individuals, groups, or communities in distress
+22 orcrisissituations.
+23 III. "Emergency response or public safety worker" means any law enforcement officer
+24 certified under RSA 106-L, certified county corrections officer, sheriff or deputy sheriff, state police
+25 officer, civilian law enforcement employee, civilian county corrections employee, any call, volunteer,
+26 or regular firefighter, civilian fire department employee, rescue or ambulance worker, including
+27 ambulance service, emergency medical personnel, first responder service, and volunteer personnel,
+28 telecommunicators, and local dispatchers, including any retired emergency response or public safety
+29 workersasdefinedinthissection.
+
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page2-
+1 IV. "Local dispatcher" means a person who determines the location, status, and assistance
+2 required by callers and walk-in customers for public safety services and dispatches the appropriate
+3 police, fire, ambulance, or other units to provide needed emergency services at the state, city, town,
+4 orprivateemergencyserviceslevel.
+5 V. "Telecommunicator" means an employee of the department of safety, division of
+6 emergency services and communications who is responsible for receiving at the public safety
+7 answering point telephone calls made to E911 and transferring or relaying such calls to public or
+8 privatesafetyagencies.
+9 VI. "Certifiedpublicsafetycomfortdogteam"meansatrainedcertifiedpublicsafetycomfort
+10 dog and its handler, working collaboratively to provide support, comfort, and crisis response to
+11 individuals, groups, and communities in various settings. The certified public safety comfort dog
+12 teamshallundergospecializedtrainingtodevelopskillsinempathy,activelistening,andnon-verbal
+13 communication, enabling them to effectively respond to the emotional, behavioral, physical,
+14 cognitive,andrelationalneedsofthosetheyencounter.
+15 VII. "Certifiedpublic safetycomfort dogtrainer" meansanypersonwho isemployed totrain
+16 dogs for the use of a certified public safety comfort dog or is volunteering and training to raise dogs
+17 for the use of certified public safety comfort dogs by emergency response or public safety workers, or
+18 an individual trainer who helps an emergency response or public safety worker to train their
+19 certifiedpublicsafetycomfortdog.
+20 VIII. "Housing accommodation" means any publicly assisted housing accommodation or any
+21 real property, or portion thereof, which is used or occupied, or is intended, arranged, or designed to
+22 beusedoroccupied,asthehome,residence,orsleepingplaceofoneormorepersons.
+23 IX. "Public facility" means any place of public accommodation and any street, highway,
+24 sidewalk, walkway, public building, and any other place or structure to which the general public is
+25 regularly,normally,orcustomarilypermittedorinvited.
+26 X. "Place of public accommodation" includes any tavern roadhouse, hotel, motel, or trailer
+27 camp, whether for entertainment of transient guests or accommodation of those seeking health,
+28 recreation, or rest; any producer, manufacturer, wholesaler, distributor, retail shop, store
+29 establishment, or concession dealing with goods or services of any kind; any restaurant, eating
+30 house,orplacewherefoodissoldforconsumptiononthepremises;anyplacemaintainedforthesale
+31 of ice cream, ice, and fruit preparations or their derivatives, soda water or confections, or where any
+32 beverages of any kind are retailed for consumption on the premises; any garage; any public
+33 conveyance operated on land or water, or in the air, or any stations and terminals thereof; any
+34 bathhouse, boardwalk, or seashore accommodation; any auditorium, meeting place, or hall; any
+35 theater,motionpicturehouse,musichall,roofgarden,skatingrink,swimmingpool,amusementand
+36 recreation park, fair, bowling alley, gymnasium, shooting gallery, billiard and pool parlor, or any
+37 otherplaceofamusement;anycomfortstation;anydispensary,clinic,orhospital;anypubliclibrary;
+
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page3-
+1 any kindergarten, primary and secondary school, trade or business school, high school, academy,
+2 college and university, or any educational institution under the supervision of the state board of
+3 education,orthecommissionerofeducationofthestateofNewHampshire.
+4 167-E:2 CertifiedPublicSafetyComfortDogTraining.
+5 I. The initial training and certification testing shall be completed by the dog’s second
+6 birthday. SuchinitialtrainingandcertificationshallbecomprisedofthefollowingAmericanKennel
+7 Clubcertificates,oranequivalentcertificatefromanothernationallyrecognizedorganization:
+8 (a) CanineGoodCitizen(CGC).
+9 (b) AdvancedCanineGoodCitizen(CGCA).
+10 (c) UrbanCanineGoodCitizen(CGCU).
+11 II. Theongoingtrainingshallbecomprisedofthefollowing:
+12 (a) A minimum of 1 hour per month of structured training. Training shall focus on
+13 maintainingandreinforcingCGC,CGCA,andCGCUskills.
+14 (b) Exposure to various emergencies or public safety environments, including
+15 interactionswithfirstrespondersandthepublic.
+16 III. Theemergencyresponseorpublicsafetyagencyemployingorowningthecertifiedpublic
+17 safetycomfortdogshallmaintaindetailedtrainingrecords. Recordsshallinclude:
+18 (a)Datesanddurationoftrainingsessions.
+19 (b) Thetypeoftrainingconducted.
+20 (c) Progressandanycorrectiveactionsneeded.
+21 (d) Certificatecompletionandrenewaldates.
+22 167-E:3 CertifiedPublicSafetyComfortDogHandlerTraining.
+23 I. Each certified public safety comfort dog handler working with the certified public safety
+24 comfort dog shall complete training with his or her assigned certified public safety comfort dog.
+25 Such training and certificate testing shall be comprised of the following American Kennel Club
+26 certificates,oranequivalentcertificatefromanothernationallyrecognizedorganization:
+27 (a) CanineGoodCitizen(CGC).
+28 (b) AdvancedCanineGoodCitizen(CGCA).
+29 (c) UrbanCanineGoodCitizen(CGCU).
+30 II. The following training shall also be required of certified public safety comfort dog
+31 handlers:
+32 (a) Training on recognizing and responding to individuals experiencing mental health
+33 crises.
+34 (b) Education on crisis intervention techniques for emergency response or public safety
+35 workers,includingCITtraining.
+36 (c) Trainingonprovidingbasicemergencycareandfirstaidforcaninepartners.
+37 III. Theongoingtrainingshallbecomprisedofthefollowing:
+
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page4-
+1 (a) A minimum of one hour per month of structured training with the certified public
+2 safety comfort dog. Training shall focus on reinforcing RSA 167-E:2 certification skills, handling
+3 techniques,andscenario-basedpublicinteractions.
+4 (b) Regularexposuretoemergency/publicsafetyenvironmentstomaintainproficiency.
+5 IV. Theemergencyresponseorpublicsafetyagencyemployingorowningthecertifiedpublic
+6 safety comfort dog shall maintain detailed training records for both the dog and handler. Records
+7 shallinclude:
+8 (a) Datesanddurationoftrainingsessions.
+9 (b) Thetypeoftrainingconducted.
+10 (c) Progressandanycorrectiveactionsneeded.
+11 (d) Certificatecompletionandrenewaldates.
+12 167-E:4 Animal Duties. The official duties performed by a certified public safety comfort dog
+13 shall be directly related to the handler's role as an emergency response or public safety worker.
+14 Official duties may include but are not limited to: critical incident stress management, survivor
+15 advocacy and support, school support, crisis response, community mental health support, and
+16 communityrelations.
+17 167-E:5 CertifiedPublicSafetyComfortDogLicensing,RabiesCertificateandInsurance.
+18 I. The owner or employer of the certified public safety comfort dog shall comply with all
+19 state and local ordinances regarding licensing and rabies certification under RSA 466:1 and RSA
+20 466:1-a. The owner or employer of the certified public safety comfort dog shall also fully insure the
+21 dogforthedurationofitsservicecareer.
+22 II. Nothing in this section is intended to inhibit, interfere, or impede with the protections
+23 providedtoserviceanimalsandsearchandrescuedogsunderRSA167-D.
+24 167-E:6 CertifiedPublicSafetyComfortDogTeamCertification.
+25 I. Each certified public safety comfort dog team shall complete all training requirements
+26 outlined within RSA 167-E:2 and RSA 167-E:3 in order to be certified in the state of New
+27 Hampshire.
+28 II. Each certified public safety comfort dog shall be retested with his or her assigned
+29 certified public safety comfort dog every 3 years. Such retesting shall be comprised of the following
+30 American Kennel Club certificates or an equivalent certificate from another nationally recognized
+31 organization:
+32 (a) CanineGoodCitizen(CGC).
+33 (b) AdvancedCanineGoodCitizen(CGCA).
+34 (c) UrbanCanineGoodCitizen(CGCU).
+35 III. Theemergencyresponseorpublicsafetyagencyowningoremployingthecertifiedpublic
+36 safetycomfortdogshallmaintainalltrainingandcertificationrecords,including:
+37 (a) Initialcertificationdocumentation.
+
+SB573-VERSIONADOPTEDBYBOTHBODIES
+-Page5-
+1 (b) Recertificationdatesandresults.
+2 (c) Anyongoingtrainingorcorrectiveactionrecords.
+3 IV. All certified public safety comfort dog teams working in the state of New Hampshire
+4 shall have one year from the effective date of this chapter to meet certification and recertification
+5 requirementsoutlinedtherein.
+6 167-E:7 Certified Public Safety Dog May Accompany Handler. A certified public safety comfort
+7 dog may accompany their handler into any public facility, housing accommodation, or place of public
+8 accommodation to which the general public is invited, while they are in the course of performing
+9 theirofficialduties,and/or,whileinthecourseof,ortravelingtoorfromthelocationof,theirofficial
+10 duties.
+11 167-E:8 ProhibitedActs.
+12 I. It is unlawful for a person, directly or indirectly, either to prohibit, hinder, or interfere
+13 withacertifiedpublicsafetycomfortdogteam,whileinthecourseofperformingtheirofficialduties.
+14 II. It isunlawful for anypersontorepresent, and/or fit,adogwithacollar, leash, vest, sign,
+15 orharnessofanytypewhichrepresentsthatthedogisacertifiedpublicsafetycomfortdogifthedog
+16 isnotacertifiedpublicsafetycomfortdogcertifiedunderthischapter.
+17 167-E:9 CertifiedPublicSafetyDogCare.
+18 I. A certified public safety comfort dog shall be confined when traveling above 55 miles per
+19 hour. Confinement may be a crate or tether attached to a harness but not to a collar. A remote
+20 temperature sensor shall be placed in any vehicle in which the certified public safety comfort dog
+21 willbeleftunattended.
+22 II. NoprongorelectroniccollarsshallbeusedforAmericanKennelClubtesting,andnodog
+23 maywearprongorelectroniccollarswhilebeingdeployed.
+24 III. The decision to spay or neuter a certified public safety comfort dog shall be determined
+25 bytherecommendationofthedog'sveterinarian.
+26 167-E:10 Certified Public Safety Comfort Dog Retirement. Each emergency response or public
+27 safety agency employing a certified public safety comfort dog shall have a policy which outlines the
+28 certified public safety comfort dog's safe and humane retirement. If it is determined that a certified
+29 public safety comfort dog in training cannot meet the standards set forth in this chapter, such policy
+30 shall outline the certified public safety comfort dog’s permanent ownership, and/or, options to return
+31 to the agency, non-profit, business or breeder the certified public safety comfort dog was obtained
+32 from.
+33 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: B53-VNADBYBHB60.1626SEBNATegcnssfrcdpcsyctd:S.B,Dt1;S.F,Dt1;S.G,Dt2;S.P,D;S.W,Dt8;R.M,M.4;R.M,H.3:EeDsadADAsblescnssfrcdpcsyctd,ccsyctdgh,adcdpcsyctdghgt-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B53-VNADBYBHB60.162A2EOFNWHnteYrofOrLdToTdTNATegcnssfrcdpcsyctdeitEdbyteSeadHeofRsinGlCtc1NwC;PcSyCtDgC.AdRAbyigarc1DtefgnwcCR1PCSYCTDGC11D.IntscI."dpcsyctd"msasytddgttps,c,adcsretoi,g,adcsinvssshash,ngh,s,drrfa,eyrcsasadorpswepemybeegs,t,orc.C0pcsyctdsaetdtoitgyadeywhp,o1ulstadnlcptohpaea,res2iem,adeeolwgadr.Cdpcsyctd3aentcdsedsorelsta4I."dpcsyctdgh"msaneyreorp5sywrwoisrefrtec,t,adsnofacdpcs6ctdgdgisiswhi,g,adcsinndofsto7csr.Acdpcsyctdghrsleettitb8a,fsc,admsacmadcgpeinv9e.Acdpcsyctdghrslbetdtoudc0b,c,adelstt,agtmtoeyget1cdpcsyctdsiswhi,g,orcsind2orcss3I."yreorpcsyw"msaylweto4cdurRA1,cdcycso,sfordys,sep5o,cnlwete,cncycse,ayc,v6orrrf,cnfedte,reoraew,i7aes,eymlp,ftrrs,advrp8t,adlld,igayrdeyreorpcs9wsasddintss]
+[DELETED: B53-VNADBYBHBPe2I."ld"msapnwodstel,s,adardbycsadwncsfrpcsyssaddsteap,f,a,ororustopendeyssattes,c,torpeeysslV.""msaneeoftedtofs,dnoeyssadcswoisrefrrgattepcsagpttecsmetoE1adtgorrgshcstopcopesyaV."dpcsyctdgt"msatdcdpcsyc0dgadish,wgcytopes,c,adcsret1i,g,adcsinvss.Tecdpcsyctd2tmsluosdtgtodpssine,ael,adn3c,egtmtoeyrdtotee,b,p4c,adrlnsoftetye5V."dpcsyctdgt"msaypnwoisedtot6dsfrteueofacdpcsyctdgorisvgadtgtored7frteueofcdpcsyctdsbyeyreorpcsyw,o8aniltrwohsaneyreorpcsywrtotnt9cdpcsyctd0V."ga"msaypyadhganora1rlp,orpnt,whisudoro,orisi,a,orddt2beudoro,asteh,r,orsgpeofoeormep3I."cf"msaypeofpcanadays,h4s,w,pcb,adayorpeorsetowhteglpci5r,n,orcypdori6X."eofpca"isaytnr,h,m,ort7c,wrfretofttgsoranoftesgh8r,orr;ayp,m,w,d,rls,s9e,orcndgwhgsorssofayk;ayr,e0h,orpewefdissdfrcnontep;aypemdfrtes1ofiec,i,adftpsortrd,sawrorc,orwea2bsofaykdaerdfrcnontep;ayg;ayp3ceodonldorw,orintea,orayssadtst;a4b,b,orsea;aya,mgp,orh;a5t,mnpeh,mch,rfg,sgr,sgp,ata6rnp,f,bga,g,sgg,bdadplp,ora7orpeofa;aycts;ayd,c,orh;aypcl]
+[DELETED: B53-VNADBYBHBPe3ayk,pyadsys,teorbss,hhs,aceadu,orayelinurtesnoftesebdoe,ortecrofenofteseofNwH12CdPcSyCtDgTI.Teiltgadcntgslbecdbytedssb.ShiltgadcnslbecdoftefgAnKCbc,oranetcefmarnyrdo()CeGdCn(()AdCeGdCn(0()UnCeGdCn(1I.Teogtgslbecdoftef2()Ammof1hrprmhofsdt.Tgslfso3mgadrgC,C,adCUs4()Eetovsesorpcsye,i5iswhftrsadtep6I.Teeyreorpcsyayegorogtecdp7syctdgslmnddtgr.Rssli8()Dsaddnoftgs9()Teteoftgc0()Psadayceasn1()Cecnadrld213CdPcSyCtDgHrT3I.Ehcdpcsyctdghrwgwhtecdpcs4ctdgslcetgwhhsorhradcdpcsyctd5ShtgadcetgslbecdoftefgAnKlC6c,oranetcefmarnyrdo7()CeGdCn(8()AdCeGdCn(9()UnCeGdCn(0I.Tefgtgslaoberdofcdpcsyctd1h2()Tgonrgadrgtoisegmlh3c4()Enoncsintsfreyreorpcs5w,igCTt6()Tgonpgbceyceadftadfrcep7I.Teogtgslbecdoftef]
+[DELETED: B53-VNADBYBHBPe4()Ammofoehrprmhofsdtgwhtecdpsyctd.TgslfsonrgRA12cns,ht,adsdpci()RreetoecsyestomnpI.Teeyreorpcsyayegorogtecdpsyctdgslmnddtgrsfrbhtedgadh.Rsli()Dsaddnoftgs()Teteoftgc0()Psadayceasn1()Cecnadrld214AlD.Teoldspdbyacdpcsyctd3slbedyrdtotehsreasaneyreorpcsyw4Oldsmyiebtaentldt:clitssm,s5ayads,sls,csr,cymlhhs,a6cyr715CdPcSyCtDgL,RsCeadI8I.Teororeroftecdpcsyctdgslcywha9seadllosrglgadrscnurRA41adR04.Teororeroftecdpcsyctdgslaofyiet1dgfrtednofissec2I.Ngintssnisidtoi,i,oriewhtep3pdtoseasadshadredsurRA1416CdPcSyCtDgTmC5I.Ehcdpcsyctdgtmslcealtgr6odwnRA12adRA13inortobecdinteseofN7H8I.Ehcdpcsyctdgslberdwhhsorhra9cdpcsyctdgey3y.Shrgslbecdoftef0AnKlCbcsoranetcefmarnyr1o2()CeGdCn(3()AdCeGdCn(4()UnCeGdCn(5I.Teeyreorpcsyayogoregtecdp6syctdgslmnaltgadcnr,i7()Ilcnd]
+[DELETED: B53-VNADBYBHBPe5()Rndsadr()AyogtgorceanrI.AlcdpcsyctdgtswginteseofNwHslheoeyrfmteeedeoftscrtomtcnadrrsodt17CdPcSyDgMyAyH.Acdpcsycdgmyaytrhrioaypcf,hga,orpeofpantowhteglpcisi,wetyaeinteceofptrold,a,weinteceo,ortgtoorfmtelno,tro0d118PdA2I.Itisulfrap,dyori,ertop,h,ori3whacdpcsyctdgt,weinteceofpgtrold4I.Itisulfraypntor,arf,adgwhac,l,v,s5orhsofaytewhrstttedgisacdpcsyctdgifted6isntacdpcsyctdgcdurtsc719CdPcSyDgC8I.Acdpcsyctdgslbecdwntgae55msp9h.Ctmybeaceortradtoahsbtnttoac.Ar0tesrslbepdinayveinwhtecdpcsyctd1wlbeltu2I.NopgoreccsslbeudfrAnKlCbt,adnod3mywrpgoreccswebgd4I.Tedntosyornracdpcsyctdgslbed5byternoftedsv610CdPcSyCtDgR.Eheyreorp7syayegacdpcsyctdgslheapywhost8cdpcsyctdsseadher.Ifitisddttac9pcsyctdgintgctmttessstfhintsc,shp0sloetecdpcsyctdspto,a,ostor1totea,n,bsorbrtecdpcsyctdgwso2f32EeD.Tsatslteet60dsarisp]

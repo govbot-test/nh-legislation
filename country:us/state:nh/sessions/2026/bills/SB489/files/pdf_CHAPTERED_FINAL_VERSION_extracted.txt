@@ -1,0 +1,90 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER64
+SB489-FINALVERSION
+02/05/2026 0346s
+2026SESSION
+26-2054
+08/06
+489
+ANACT alteringtheappointmentprocessfortheboardoftaxandlandappeals.
+SPONSORS: Sen.Avard,Dist12;Rep.Sirois,Hills.32;Rep.Barbour,Hills.35
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillalterstheappointmentprocessfortheboardoftaxandlandappeals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER64
+SB489-FINALVERSION
+02/05/2026 0346s 26-2054
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT alteringtheappointmentprocessfortheboardoftaxandlandappeals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 64:1 BoardofTaxandLandAppeals;Appointment;Term;Chairman. AmendRSA71-B:2toreadas
+2 follows:
+3 71-B:2 Appointment;Term;Chairman. Themembersoftheboardshallbeappointedbyandserveat
+4 thepleasureof thegovernor andcouncil, ratherthanfixedterms. Thegovernorandcouncilshall appoint
+5 one member as chairman to serve in that capacity for the duration of his or her term. The executive
+6 councilshallholdahearingpriortoconfirmationaccordingtotheproceduresunderRSA4:44.
+64:2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:May08,2026
+EffectiveDate:May08,2026
+[DELETED: R6B49-FLV606SEBNATagteatpsfrtebdoftxadlda:S.A,Dt1;R.S,H.3;R.B,H.3:EnLwadMlADAsblasteatpsfrtebdoftxadlda-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R6B49-FLV60s2EOFNWHNATagteatpsfrtebdoftxadlda61BdofTxadLdA;A;T;C.AdRA72tordaf72A;T;C.Temsoftebdslbeatepeoftegradc,rrtnfdt.Tegradclslaoemrascntoseinttcyfrtednofhsorhrt.TeeclslhdahgprtocnagtotepsurRA42EeD.Tsatslteetunisp:My0,2eD:My0,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER64
+SB489-FINALVERSION
+02/05/2026 0346s
+2026SESSION
+26-2054
+08/06
+489
+SENATEBILL
+ANACT alteringtheappointmentprocessfortheboardoftaxandlandappeals.
+SPONSORS: Sen.Avard,Dist12;Rep.Sirois,Hills.32;Rep.Barbour,Hills.35
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillalterstheappointmentprocessfortheboardoftaxandlandappeals.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER64
+SB489-FINALVERSION
+02/05/2026 0346s 26-2054
+08/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT alteringtheappointmentprocessfortheboardoftaxandlandappeals.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 64:1 BoardofTaxandLandAppeals;Appointment;Term;Chairman. AmendRSA71-B:2toreadas
+2 follows:
+3 71-B:2 Appointment;Term;Chairman. Themembersoftheboardshallbeappointedbyandserveat
+4 thepleasureof thegovernor andcouncil, ratherthanfixedterms. Thegovernorandcouncilshall appoint
+5 one member as chairman to serve in that capacity for the duration of his or her term. The executive
+6 councilshallholdahearingpriortoconfirmationaccordingtotheproceduresunderRSA4:44.
+64:2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+Approved:May08,2026
+EffectiveDate:May08,2026
+
+[DELETED: R6B49-FLV606SEBNATagteatpsfrtebdoftxadlda:S.A,Dt1;R.S,H.3;R.B,H.3:EnLwadMlADAsblasteatpsfrtebdoftxadlda-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R6B49-FLV60s2EOFNWHNATagteatpsfrtebdoftxadlda61BdofTxadLdA;A;T;C.AdRA72tordaf72A;T;C.Temsoftebdslbeatepeoftegradc,rrtnfdt.Tegradclslaoemrascntoseinttcyfrtednofhsorhrt.TeeclslhdahgprtocnagtotepsurRA42EeD.Tsatslteetunisp:My0,2eD:My0,2]

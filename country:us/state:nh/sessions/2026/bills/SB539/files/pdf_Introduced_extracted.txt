@@ -1,0 +1,344 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB539-FN-ASINTRODUCED
+2026SESSION
+26-2123
+06/08
+539-FN
+ANACT relativetoeligiblebiomasstechnologyintherenewableportfoliostandards.
+SPONSORS: Sen. McConkey, Dist 3; Sen. Innis, Dist 7; Sen. Avard, Dist 12; Sen. Pearl, Dist
+17;Sen.Carson,Dist14
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restructures how biomass technologies are categorized and eligible for renewable
+portfoliostandardcomplianceinthestatebyaligningalleligiblebiomasstechnologiestoclassIII.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB539-FN-ASINTRODUCED
+26-2123
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoeligiblebiomasstechnologyintherenewableportfoliostandards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MinimumElectricRenewablePortfolioStandards. AmendRSA362-F:3toreadasfollows:
+2 362-F:3 Minimum Electric Renewable Portfolio Standards. For each year specified in the table
+3 below, each provider of electricity shall obtain and retire certificates sufficient in number and class
+4 type to meet or exceed the following percentages of total megawatt-hours of electricity supplied by
+5 the provider to its end-use customers that year, except to the extent that the provider makes
+6 paymentstotherenewableenergyfundunderRSA362-F:10,II:
+7 2008 2009 2010 2011 2012 2013 2014 2015 2025andthereafter
+8 ClassI 0.0% 0.5% 1% 2% 3% 3.8% 5% 6% [15%]12%(*)
+9 ClassII 0.0% 0.0% 0.04% 0.08% 0.15% 0.2% 0.3% 0.3% 0.7%
+10 ClassIII 3.5% 4.5% 5.5% 6.5% 1.4% 1.5% 3.0% 8.0% [8.0%]9%
+11 ClassIV 0.5% 1% 1% 1% 1% 1.3% 1.4% 1.5% 1.5%
+12 *Class I increases an additional 0.9 percent per year from 2015 through 2025. A set percentage of
+13 the class I totals shall be satisfied annually by the acquisition of renewable energy certificates from
+14 qualifying renewable energy technologies producing useful thermal energy as defined in RSA 362-
+15 F:2, XV-a. The set percentage shall be 0.4 percent in 2014, 0.6 percent in 2015, 0.8 percent in 2016,
+16 and increased annually by 0.2 percent per year from 2017 through 2023, after which it shall remain
+17 unchanged. Class II shall increase to 0.5 percent beginning in 2018, 0.6 percent beginning in 2019,
+18 and 0.7 percent beginning in 2020, otherwise classes II-IV shall remain at the same percentages
+19 from2015through2025exceptasprovidedinRSA362-F:4,V-VI.
+20 2 ElectricRenewableEnergyClasses. AmendRSA362-F:4,I(f)through(j)toreadasfollows:
+21 [(f) Eligiblebiomasstechnologies.]
+22 [(g)] (f) Solar thermal energy; if the solar thermal energy output is in the form of useful
+23 thermalenergyonlyiftheunitbeganoperationafterJanuary1,2013.
+24 [(h)] (g) Class II sources to the extent that they are not otherwise used to satisfy the
+25 minimumportfoliostandardsofotherclasses.
+26 [(i)] (h) The incremental new production of electricity in any year from [an eligible
+27 biomass or] methane source or any hydroelectric generating facility licensed or exempted by Federal
+28 Energy Regulatory Commission (FERC), regardless of gross nameplate capacity, over its historical
+29 generation baseline, provided the department of energy certifies demonstrable completion of capital
+30 investments attributable to the efficiency improvements, additions of capacity, or increased
+31 renewable energy output that are sufficient to, were intended to, and can be demonstrated to
+SB539-FN-ASINTRODUCED
+-Page2-
+1 increaseannualrenewableelectricityoutput. Thedeterminationofincrementalproductionshallnot
+2 be based on any operational changes at such facility but rather on capital investments in efficiency
+3 improvementsoradditionsofcapacity.
+4 [(j)] (i) The production of electricity from a [class III or] IV source that has begun
+5 operation as a new facility by demonstrating that 80 percent of its resulting tax basis of the source's
+6 plant and equipment, but not its property and intangible assets, is derived from capital investment
+7 directly related to restoring generation or increasing capacity including department permitting
+8 requirements for new plants. Such production shall not qualify for class [III or] IV certificates.
+9 [Commencing July 1, 2013, a class III source eligible as a class I source under this subparagraph or
+10 subparagraph (i) may submit a notice to the department of energy electing to be a class III source
+11 insteadofaclassIsource. Oncesuchnoticeisgiven,theproductionfromsuchasourceshallqualify
+12 for class III certificates, provided the source meets the other requirements of a class III eligible
+13 biomasstechnology.]
+14 3 ElectricRenewableEnergyClasses. AmendRSA362-F:4,IIItoreadasfollows:
+15 III. ClassIII(ExistingBiomass/Methane)shallincludetheproductionofelectricityfromany
+16 of the following[, provided the source began operation prior to January 1, 2006 and except as
+17 providedinsubparagraph(b)]:
+18 (a) Eligiblebiomasstechnologieshavingagrossnameplatecapacityof25MWsorless.
+19 (b) Eligible biomass technologies having a gross nameplate capacity of 75 MWs
+20 operating as of January 1, 2026 in Coos County established as a distressed place-based
+21 economypursuanttoRSA162-U.
+22 (c) Methane gas. Effective for electricity production commencing January 1, 2017,
+23 methane gas shall not qualify for class III if the production is from a source or sources which began
+24 operation prior to January 1, 2006 and which source exceeds, or sources exceed, a total gross
+25 nameplatecapacityof10MWsintheaggregatelocatedatanysinglelandfillsite. Allphases,stages,
+26 cells, lifts, expansions, and other landfill areas shall be combined in determining the single landfill
+27 site gross nameplate capacity. Only class III and potential class III eligible sources at any single
+28 landfill site shall be included in determining whether the 10 MW aggregate limitation has been
+29 exceeded.
+30 4 ElectricRenewableEnergyClasses. AmendRSA362-F:4,VItoreadasfollows:
+31 VI. After notice and hearing, the department of energy may modify the class [III and] IV
+32 renewable portfolio standards requirements under RSA 362-F:3 for calendar years beginning
+33 January 1, 2012 such that the requirements are equal to an amount between 85 percent and 95
+34 percent of the reasonably expected potential annual output of available eligible sources after taking
+35 intoaccountdemandfromsimilarprogramsinotherstates.
+36 5 RenewableEnergyFund. AmendRSA362-F:10,II(c)toreadasfollows:
+37 (c) ClassIII-[$31.50]$45.
+SB539-FN-ASINTRODUCED
+-Page3-
+1 6 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+LBA
+26-2123
+11/15/25
+SB539-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoeligiblebiomasstechnologyintherenewableportfoliostandards.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+(rangenot (rangenot (rangenot
+Revenue $0
+providedbythe providedbythe providedbythe
+agency) agency) agency)
+RevenueFund(s) RenewableEnergyFund
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 ($374,000)to ($374,000)to ($374,000)to
+$374,000 $374,000 $374,000
+FundingSource(s) GeneralFundandVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill consolidates all eligible biomass technologies into Class III of the Renewable Portfolio
+Standard (RPS), increases the Class III obligation from 8 percent to 9 percent, and reduces the
+ClassIobligationfrom15percentto12percentbeginningin2025. Thebillalsoremovescurrent
+operational daterestrictions for certainbiomass facilities and adds anew eligibilityprovisionfor
+a75MWfacilityoperatinginCoosCounty.
+The Department of Energy states this bill will result in an indeterminable impact on state
+revenuestotheRenewableEnergyFund(REF)andanindeterminableimpactonstateelectricity
+expenditures. There is no anticipated fiscal impact on county or local revenues or expenditures
+asitrelatestotheREF.
+The Department of Energy states this bill will result in an indeterminable impact on state
+revenuestotheRenewableEnergyFund(REF)andanindeterminableimpactonstateelectricity
+expenditures. The Department states this bill alters REC purchase obligations for Class I and
+Class III, which may affect REC market supply, demand, and pricing. REF revenues are
+generated entirely from alternative compliance payments (ACPs) when providers cannot acquire
+sufficient RECs. If the reclassification of biomass resources results in more RECs being used for
+New Hampshire compliance, ACP payments would decrease and REF revenue would fall; if
+fewerRECsareused,ACPpaymentswouldriseandREFrevenuewouldincrease. BecauseREC
+availability and pricing are determined by regional markets with limited transparency, the
+directionandmagnitudeofthisimpactcannotbedetermined.
+Additionally, the Department notes it is not possible to estimate the bill’s effect on state
+electricity costs. The state purchases approximately 77,000 MWh annually, and the cost of RPS
+compliance is embedded in energy rates. A change of $0.005 per kWh in either direction would
+change state electricity expenditures by approximately $387,000 per year. The Department
+cannot estimate whether the bill would increase or decrease REC-related components of electric
+rates.
+The Department does not have access to electricity consumption data for counties or
+municipalitiesandthereforecannotestimatethebill’seffectonthoseentities’energycosts.
+AGENCIESCONTACTED:
+DepartmentofEnergy
+[DELETED: B5N-ASI6SEBNATretoeebstyinterepos:S.M,Dt3;S.I,Dt7;S.A,Dt1;S.P,D;S.C,Dt1:EyadNlRsblrshwbstsaecdadeefrrosdceintesebyagaleebststocsI-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoeebstyintereposeitEdbyteSeadHeofRsinGlCtc1MmEcRePoS.AdRA33tordasf33MmEcRePoS.Frehyrsdintetb,ehprofeyslonadrecsstinnradctetomtoredtefgpsoftlmsofeysdbteprtoiseecstty,ettoteetttteprmpstotereeyfdurRA3,I282920212223242525adtCsI0%0%1%2%3%3%5%6%[]1%(CsII0%0%0%0%0%0%0%0%00CsII3%4%5%6%1%1%3%8%[]91CsIV0%1%1%1%1%1%1%1%12*sIisanal09ptpryrfm25th2.Astpeo3tecsItsslbesdaybyteanofreeycsf4qgreeytspgultleyasddinRA35F,X.Testpeslbe04ptin2,06ptin2,08ptin26adidayby02ptpryrfm27th2,arwhitslr7u.CsIIslieto05ptbgin2,06ptbgin28ad07ptbgin2,oecsIVslrnattesep9fm25th25etaspdinRA3,V02EcReEyC.AdRA3,I)th()tordasf1[)Eebst2[]()Srtle;iftesrtleyotisintefmofu3tleyoyifteutbnonarJy1,24[]()CsIIsstoteettttyaentoeudtosyt5mmpossoforc6[]()Teilnwpnofeyinayyrfm[ne7bso]meseorayhcggfyldoredbyF8EyRyCn(,rsofgsnec,orish9gnb,pdtedtofeycsdecnofc0isaetoteeyi,asofc,ori1reeyotttaestt,weidt,adcnbeddt]
+[DELETED: B5N-ASIPe2iealreeyo.Tednofilpnslnbebdonayolcsatshfybtrronclisineisorasofc[]()Tepnofeyfma[sIIo]IVsetthsbonasanwfybydgtt80ptofisrgtxbsoftesptade,btntispyadiea,isddfmclidyrdtorggnorigcyigdtprsfrnwp.Shpnslntqyfrcs[Io]IVc[gJy1,2,acsIIseeeasacsIseurtssho0sh()mystanetotedtofeyegtobeacsIIs1idofacsIs.Oeshneisg,tepnfmshaseslq2frcsIIc,pdtesemsteorrsofacsIIe3bst43EcReEyC.AdRA3,IItordasf5I.CsII(gB)slietepnofeyfma6oftef,pdtesebnonprtoJy1,26adeta7pdinsh(8()Eebstshgagsnecyof25Msorl9()Eebstshgagsnecyof75M0ogasofJy1,26inCsCyedasaddp1eypttoRA12()Meg.EefreypncgJy1,23megsslntqyfrcsIIiftepnisfmaseorsswhb4onprtoJy1,26adwhsee,orsse,atlg5necyof10Msinteaeldataysells.Alp,s6c,l,e,adorllasslbecdindgtesel7segsnec.OycsIIadplcsIIeessatays8llseslbeidindgwrte10MWaelnhsb9e04EcReEyC.AdRA3,VItordasf1V.Arneadh,tedtofeymymytecs[Ia]I2repossrsurRA33frcrysb3Jy1,22shtttersaeeltoanatbn85ptad94ptofteryedplalotofaeeessart5ioatddfmsrpsinors65ReEyF.AdRA3,I)tordasf7()CsI]$]
+[DELETED: B5N-ASIPe36EeD.Tsatslteetunisp]
+[DELETED: B5-FLNSINATretoeebstyintereposLIdSeIY26FY27FY28FY2eIeIent(ent(endbytepdbytepdbyt)a)aeFeEyF0()to()to()teIeI0$0$gSlFdadVsAyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblcsaleebstsioCsIIofteRePd(,isteCsIIonfm8ptto9p,adrstsIonfm15ptto12ptbgin2.Teblaorscldersfrcnbsfsadasanweypnf75MWfyoginCsCeDtofEysstsblwlrtinanieitonsstoteReEyFd()adanieitonsee.TeisnoadflitoncyorllrsoresitrstoteR]
+[DELETED: eDtofEysstsblwlrtinanieitonsstoteReEyFd()adanieitonsee.TeDtsstsblasRCpeosfrCsIasI,whmyatRCmts,d,adp.RFrsadeyfmaeceps()wnpsctatR.IfternofbsrsrsinmeRsbgudfwHec,APpswddeadRFrewdf;irRsaeu,APpswdreadRFrewdi.BeRyadpgaeddbyrlmswhldt,tnadmeoftsitctbed,teDtnsitisntpetoeetebsetonsyc.Tesepsay70Mha,adtectofReisedineyr.Aceof$5prkhinerdnweseeyesbyay$0pry.TeDteewrteblwdieordeRdcsofeeDtdsntheastoeycndafrcsosadtecteetebsetontee’eycSCtofE]
+
+
+================================================================================
+
+Raw Text:
+SB539-FN-ASINTRODUCED
+2026SESSION
+26-2123
+06/08
+539-FN
+SENATEBILL
+ANACT relativetoeligiblebiomasstechnologyintherenewableportfoliostandards.
+SPONSORS: Sen. McConkey, Dist 3; Sen. Innis, Dist 7; Sen. Avard, Dist 12; Sen. Pearl, Dist
+17;Sen.Carson,Dist14
+COMMITTEE: EnergyandNaturalResources
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill restructures how biomass technologies are categorized and eligible for renewable
+portfoliostandardcomplianceinthestatebyaligningalleligiblebiomasstechnologiestoclassIII.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB539-FN-ASINTRODUCED
+26-2123
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoeligiblebiomasstechnologyintherenewableportfoliostandards.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 MinimumElectricRenewablePortfolioStandards. AmendRSA362-F:3toreadasfollows:
+2 362-F:3 Minimum Electric Renewable Portfolio Standards. For each year specified in the table
+3 below, each provider of electricity shall obtain and retire certificates sufficient in number and class
+4 type to meet or exceed the following percentages of total megawatt-hours of electricity supplied by
+5 the provider to its end-use customers that year, except to the extent that the provider makes
+6 paymentstotherenewableenergyfundunderRSA362-F:10,II:
+7 2008 2009 2010 2011 2012 2013 2014 2015 2025andthereafter
+8 ClassI 0.0% 0.5% 1% 2% 3% 3.8% 5% 6% [15%]12%(*)
+9 ClassII 0.0% 0.0% 0.04% 0.08% 0.15% 0.2% 0.3% 0.3% 0.7%
+10 ClassIII 3.5% 4.5% 5.5% 6.5% 1.4% 1.5% 3.0% 8.0% [8.0%]9%
+11 ClassIV 0.5% 1% 1% 1% 1% 1.3% 1.4% 1.5% 1.5%
+12 *Class I increases an additional 0.9 percent per year from 2015 through 2025. A set percentage of
+13 the class I totals shall be satisfied annually by the acquisition of renewable energy certificates from
+14 qualifying renewable energy technologies producing useful thermal energy as defined in RSA 362-
+15 F:2, XV-a. The set percentage shall be 0.4 percent in 2014, 0.6 percent in 2015, 0.8 percent in 2016,
+16 and increased annually by 0.2 percent per year from 2017 through 2023, after which it shall remain
+17 unchanged. Class II shall increase to 0.5 percent beginning in 2018, 0.6 percent beginning in 2019,
+18 and 0.7 percent beginning in 2020, otherwise classes II-IV shall remain at the same percentages
+19 from2015through2025exceptasprovidedinRSA362-F:4,V-VI.
+20 2 ElectricRenewableEnergyClasses. AmendRSA362-F:4,I(f)through(j)toreadasfollows:
+21 [(f) Eligiblebiomasstechnologies.]
+22 [(g)] (f) Solar thermal energy; if the solar thermal energy output is in the form of useful
+23 thermalenergyonlyiftheunitbeganoperationafterJanuary1,2013.
+24 [(h)] (g) Class II sources to the extent that they are not otherwise used to satisfy the
+25 minimumportfoliostandardsofotherclasses.
+26 [(i)] (h) The incremental new production of electricity in any year from [an eligible
+27 biomass or] methane source or any hydroelectric generating facility licensed or exempted by Federal
+28 Energy Regulatory Commission (FERC), regardless of gross nameplate capacity, over its historical
+29 generation baseline, provided the department of energy certifies demonstrable completion of capital
+30 investments attributable to the efficiency improvements, additions of capacity, or increased
+31 renewable energy output that are sufficient to, were intended to, and can be demonstrated to
+
+SB539-FN-ASINTRODUCED
+-Page2-
+1 increaseannualrenewableelectricityoutput. Thedeterminationofincrementalproductionshallnot
+2 be based on any operational changes at such facility but rather on capital investments in efficiency
+3 improvementsoradditionsofcapacity.
+4 [(j)] (i) The production of electricity from a [class III or] IV source that has begun
+5 operation as a new facility by demonstrating that 80 percent of its resulting tax basis of the source's
+6 plant and equipment, but not its property and intangible assets, is derived from capital investment
+7 directly related to restoring generation or increasing capacity including department permitting
+8 requirements for new plants. Such production shall not qualify for class [III or] IV certificates.
+9 [Commencing July 1, 2013, a class III source eligible as a class I source under this subparagraph or
+10 subparagraph (i) may submit a notice to the department of energy electing to be a class III source
+11 insteadofaclassIsource. Oncesuchnoticeisgiven,theproductionfromsuchasourceshallqualify
+12 for class III certificates, provided the source meets the other requirements of a class III eligible
+13 biomasstechnology.]
+14 3 ElectricRenewableEnergyClasses. AmendRSA362-F:4,IIItoreadasfollows:
+15 III. ClassIII(ExistingBiomass/Methane)shallincludetheproductionofelectricityfromany
+16 of the following[, provided the source began operation prior to January 1, 2006 and except as
+17 providedinsubparagraph(b)]:
+18 (a) Eligiblebiomasstechnologieshavingagrossnameplatecapacityof25MWsorless.
+19 (b) Eligible biomass technologies having a gross nameplate capacity of 75 MWs
+20 operating as of January 1, 2026 in Coos County established as a distressed place-based
+21 economypursuanttoRSA162-U.
+22 (c) Methane gas. Effective for electricity production commencing January 1, 2017,
+23 methane gas shall not qualify for class III if the production is from a source or sources which began
+24 operation prior to January 1, 2006 and which source exceeds, or sources exceed, a total gross
+25 nameplatecapacityof10MWsintheaggregatelocatedatanysinglelandfillsite. Allphases,stages,
+26 cells, lifts, expansions, and other landfill areas shall be combined in determining the single landfill
+27 site gross nameplate capacity. Only class III and potential class III eligible sources at any single
+28 landfill site shall be included in determining whether the 10 MW aggregate limitation has been
+29 exceeded.
+30 4 ElectricRenewableEnergyClasses. AmendRSA362-F:4,VItoreadasfollows:
+31 VI. After notice and hearing, the department of energy may modify the class [III and] IV
+32 renewable portfolio standards requirements under RSA 362-F:3 for calendar years beginning
+33 January 1, 2012 such that the requirements are equal to an amount between 85 percent and 95
+34 percent of the reasonably expected potential annual output of available eligible sources after taking
+35 intoaccountdemandfromsimilarprogramsinotherstates.
+36 5 RenewableEnergyFund. AmendRSA362-F:10,II(c)toreadasfollows:
+37 (c) ClassIII-[$31.50]$45.
+
+SB539-FN-ASINTRODUCED
+-Page3-
+1 6 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+LBA
+26-2123
+11/15/25
+SB539-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoeligiblebiomasstechnologyintherenewableportfoliostandards.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+(rangenot (rangenot (rangenot
+Revenue $0
+providedbythe providedbythe providedbythe
+agency) agency) agency)
+RevenueFund(s) RenewableEnergyFund
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0 ($374,000)to ($374,000)to ($374,000)to
+$374,000 $374,000 $374,000
+FundingSource(s) GeneralFundandVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill consolidates all eligible biomass technologies into Class III of the Renewable Portfolio
+Standard (RPS), increases the Class III obligation from 8 percent to 9 percent, and reduces the
+ClassIobligationfrom15percentto12percentbeginningin2025. Thebillalsoremovescurrent
+operational daterestrictions for certainbiomass facilities and adds anew eligibilityprovisionfor
+a75MWfacilityoperatinginCoosCounty.
+The Department of Energy states this bill will result in an indeterminable impact on state
+revenuestotheRenewableEnergyFund(REF)andanindeterminableimpactonstateelectricity
+expenditures. There is no anticipated fiscal impact on county or local revenues or expenditures
+asitrelatestotheREF.
+
+The Department of Energy states this bill will result in an indeterminable impact on state
+revenuestotheRenewableEnergyFund(REF)andanindeterminableimpactonstateelectricity
+expenditures. The Department states this bill alters REC purchase obligations for Class I and
+Class III, which may affect REC market supply, demand, and pricing. REF revenues are
+generated entirely from alternative compliance payments (ACPs) when providers cannot acquire
+sufficient RECs. If the reclassification of biomass resources results in more RECs being used for
+New Hampshire compliance, ACP payments would decrease and REF revenue would fall; if
+fewerRECsareused,ACPpaymentswouldriseandREFrevenuewouldincrease. BecauseREC
+availability and pricing are determined by regional markets with limited transparency, the
+directionandmagnitudeofthisimpactcannotbedetermined.
+Additionally, the Department notes it is not possible to estimate the bill’s effect on state
+electricity costs. The state purchases approximately 77,000 MWh annually, and the cost of RPS
+compliance is embedded in energy rates. A change of $0.005 per kWh in either direction would
+change state electricity expenditures by approximately $387,000 per year. The Department
+cannot estimate whether the bill would increase or decrease REC-related components of electric
+rates.
+The Department does not have access to electricity consumption data for counties or
+municipalitiesandthereforecannotestimatethebill’seffectonthoseentities’energycosts.
+AGENCIESCONTACTED:
+DepartmentofEnergy
+
+[DELETED: B5N-ASI6SEBNATretoeebstyinterepos:S.M,Dt3;S.I,Dt7;S.A,Dt1;S.P,D;S.C,Dt1:EyadNlRsblrshwbstsaecdadeefrrosdceintesebyagaleebststocsI-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoeebstyintereposeitEdbyteSeadHeofRsinGlCtc1MmEcRePoS.AdRA33tordasf33MmEcRePoS.Frehyrsdintetb,ehprofeyslonadrecsstinnradctetomtoredtefgpsoftlmsofeysdbteprtoiseecstty,ettoteetttteprmpstotereeyfdurRA3,I282920212223242525adtCsI0%0%1%2%3%3%5%6%[]1%(CsII0%0%0%0%0%0%0%0%00CsII3%4%5%6%1%1%3%8%[]91CsIV0%1%1%1%1%1%1%1%12*sIisanal09ptpryrfm25th2.Astpeo3tecsItsslbesdaybyteanofreeycsf4qgreeytspgultleyasddinRA35F,X.Testpeslbe04ptin2,06ptin2,08ptin26adidayby02ptpryrfm27th2,arwhitslr7u.CsIIslieto05ptbgin2,06ptbgin28ad07ptbgin2,oecsIVslrnattesep9fm25th25etaspdinRA3,V02EcReEyC.AdRA3,I)th()tordasf1[)Eebst2[]()Srtle;iftesrtleyotisintefmofu3tleyoyifteutbnonarJy1,24[]()CsIIsstoteettttyaentoeudtosyt5mmpossoforc6[]()Teilnwpnofeyinayyrfm[ne7bso]meseorayhcggfyldoredbyF8EyRyCn(,rsofgsnec,orish9gnb,pdtedtofeycsdecnofc0isaetoteeyi,asofc,ori1reeyotttaestt,weidt,adcnbeddt]
+[DELETED: B5N-ASIPe2iealreeyo.Tednofilpnslnbebdonayolcsatshfybtrronclisineisorasofc[]()Tepnofeyfma[sIIo]IVsetthsbonasanwfybydgtt80ptofisrgtxbsoftesptade,btntispyadiea,isddfmclidyrdtorggnorigcyigdtprsfrnwp.Shpnslntqyfrcs[Io]IVc[gJy1,2,acsIIseeeasacsIseurtssho0sh()mystanetotedtofeyegtobeacsIIs1idofacsIs.Oeshneisg,tepnfmshaseslq2frcsIIc,pdtesemsteorrsofacsIIe3bst43EcReEyC.AdRA3,IItordasf5I.CsII(gB)slietepnofeyfma6oftef,pdtesebnonprtoJy1,26adeta7pdinsh(8()Eebstshgagsnecyof25Msorl9()Eebstshgagsnecyof75M0ogasofJy1,26inCsCyedasaddp1eypttoRA12()Meg.EefreypncgJy1,23megsslntqyfrcsIIiftepnisfmaseorsswhb4onprtoJy1,26adwhsee,orsse,atlg5necyof10Msinteaeldataysells.Alp,s6c,l,e,adorllasslbecdindgtesel7segsnec.OycsIIadplcsIIeessatays8llseslbeidindgwrte10MWaelnhsb9e04EcReEyC.AdRA3,VItordasf1V.Arneadh,tedtofeymymytecs[Ia]I2repossrsurRA33frcrysb3Jy1,22shtttersaeeltoanatbn85ptad94ptofteryedplalotofaeeessart5ioatddfmsrpsinors65ReEyF.AdRA3,I)tordasf7()CsI]$]
+[DELETED: B5N-ASIPe36EeD.Tsatslteetunisp]
+[DELETED: B5-FLNSINATretoeebstyintereposLIdSeIY26FY27FY28FY2eIeIent(ent(endbytepdbytepdbyt)a)aeFeEyF0()to()to()teIeI0$0$gSlFdadVsAyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblcsaleebstsioCsIIofteRePd(,isteCsIIonfm8ptto9p,adrstsIonfm15ptto12ptbgin2.Teblaorscldersfrcnbsfsadasanweypnf75MWfyoginCsCeDtofEysstsblwlrtinanieitonsstoteReEyFd()adanieitonsee.TeisnoadflitoncyorllrsoresitrstoteR]
+[DELETED: eDtofEysstsblwlrtinanieitonsstoteReEyFd()adanieitonsee.TeDtsstsblasRCpeosfrCsIasI,whmyatRCmts,d,adp.RFrsadeyfmaeceps()wnpsctatR.IfternofbsrsrsinmeRsbgudfwHec,APpswddeadRFrewdf;irRsaeu,APpswdreadRFrewdi.BeRyadpgaeddbyrlmswhldt,tnadmeoftsitctbed,teDtnsitisntpetoeetebsetonsyc.Tesepsay70Mha,adtectofReisedineyr.Aceof$5prkhinerdnweseeyesbyay$0pry.TeDteewrteblwdieordeRdcsofeeDtdsntheastoeycndafrcsosadtecteetebsetontee’eycSCtofE]

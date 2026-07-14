@@ -1,0 +1,220 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB602-FN-ASINTRODUCED
+2026SESSION
+26-2237
+12/06
+602-FN
+ANACT relative to the withholding of state payments to the federal government in
+responsetosuspendedfederalaid.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Prentiss, Dist 5; Sen.
+Altschiller,Dist24;Rep.Simpson,Rock.33;Rep.Telerski,Hills.11
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the commissioner of the department of administrative services to withhold
+moneys owed to the federal government where the federal government has withheld existing or
+expected state aid to New Hampshire by means of an executive order or contravention of a court
+order. The bill also authorizes the commissioner to make payments owed to the federal government
+uponNewHampshire'sreceiptofexistingorexpectedstateaid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB602-FN-ASINTRODUCED
+26-2237
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the withholding of state payments to the federal government in
+responsetosuspendedfederalaid.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownasthe"ProtectOurMoneyAct."
+2 2 New Paragraph; Frozen Federal Aid; Requirement to Withhold Moneys Owed to Federal
+3 Government. AmendRSA21-I:13byinsertingafterparagraphXIXthefollowingnewparagraph:
+4 XX. If the commissioner determines that federal aid to this state that was previously
+5 authorized under an act of Congress is being withheld under an executive order of the president of
+6 theUnitedStatesorincontraventionofacourtorder,thecommissionershalldoallofthefollowing:
+7 (a) Determine the approximate amount of federal aid this state is being deprived of or is
+8 expectedtobedeprivedofastheresultoftheexecutiveorderorcontraventionofthecourtorder.
+9 (b) No later than 60 days after the date of the executive order or court order, submit to
+10 the speaker of the house of representatives, the president of the senate, the house clerk, the senate
+11 clerk,andthegovernor,fordistributiontothelegislatureareportthatdoesallofthefollowing:
+12 (1) Describes in detail the amount of federal aid this state is being deprived of or is
+13 expected to be deprived of as the result of the executive order or contravention of the court order, as
+14 determinedundersubparagraph(a).
+15 (2) Identifies all moneys this state is required to pay to the federal government for
+16 anyreasonduringthesucceeding12monthsafterthereportissubmitted.
+17 (c) Of the moneys identified under subparagraph (b)(2), withhold the payment of those
+18 moneystothefederalgovernmentinatotalamountnottoexceedtheapproximateamountoffederal
+19 aid this state is being deprived of or is expected to be deprived of as the result of the executive order
+20 orcontraventionofthecourtorder,asdeterminedundersubparagraph(a).
+21 (d) Authorize the payment to the federal government of the moneys withheld under
+22 subparagraph (c) upon the state’s receipt of all federal aid previously withheld under the executive
+23 orderorincontraventionofthecourtorder.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2237
+Revised12/4/25
+SB602-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the withholding of state payments to the federal government in
+responsetosuspendedfederalaid.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFundandVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 Indeterminable
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+ThisbillcreatestheProtectOurMoneyActwhichrequirestheCommissioneroftheDepartment
+of Administrative Services to withhold payments owed to the federal government if the federal
+government suspends or withholds federal aid to the state through an executive order or in
+violation of a court order. The bill requires the Commissioner to determine the amount of aid
+being withheld and report it within 60 days. The state would then withhold an equivalent
+amount of money it owes to the federal government, and only release those funds once the
+previouslywithheldfederalaidisreceived.
+The Department of Administrative Services (DAS) states that this bill could lead to an
+indeterminable increase in state expenditures. The most likely source of funds the state might
+withhold from the federal government would be payroll taxes deducted from employee wages.
+However, failing to remit these taxes could subject the state to significant IRS fines and
+penalties. Additionally, the federal Treasury Offset Program (TOPS) allows the federal
+government to reduce the state’s access to federal funds in response. As a result, DAS indicates
+that the bill poses a risk to the state’s cash flow, jeopardizes federal funding, and could expose
+thestatetosubstantialfinancialpenalties.
+Additionally, the Treasury Department indicates that there would be an indeterminable impact
+atthecountylevelifthestateweretolosefundingrelativetotheMedicaidprogram.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServicesandTreasuryDepartment
+[DELETED: B6N-ASI6SEBNATretotewgofsepstoteflgtietosdfla:S.PsK,Dt2;S.R,Dt1;S.P,Dt5;S,Dt2;R.S,R.3;R.T,H.1:FsblrstecroftedtofaesstowsodtoteflgtweteflgthswdegodseadtoNwHebymsofaneeororcnofac.TeblaoastecrtomepsodtoteflgnNwHsrtofegoredsea-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretotewgofsepstoteflgtietosdflaeitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknaste"tOrMyA2NwP;FnFlA;RttoWdMsOdtoFG.AdRA23byigarphXXtefgnwpX.IftecrdsttfladtotssettwspaduranatofCsisbgwduraneeorofteptoteUdSsorincnofacto,tecrsldoaloftef()Deteaeatoffladtsseisbgddoforiedtobeddofastertofteeeororcnoftecto()Nolrtn60dsartedeofteeeororcto,stt0tesrofteheofr,teptoftes,tehec,tes1c,adteg,frdntoteleartttdsaloftef2()Dsindlteatoffladtsseisbgddofori3edtobeddofastertofteeeororcnoftecto,a4ddursh(5()Isalmstsseisrdtopytoteflgtf6ayrndgtesg12msartertiss7()Oftemsidursh(,wdteptoft8mstoteflgtinatlatnttoedteaeatoff9adtsseisbgddoforisedtobeddofastertofteeeo0orcnoftecto,asddursh(1()Aetepttoteflgtoftemswdu2sh()untessrtofalfladpywdurtee3ororincnoftecto43EeD.Tsatslteet60dsarisp]
+[DELETED: d1B6-FLNSINATretotewgofsepstoteflgtietosdflaLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIgSlFdadVsAyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0IyE0IlR0$0$0$lE0$0$0$sblcstePtOrMyAtwhrsteCrofteDfAeSstowdpsodtoteflgtifteftssorwsfladtotesethaneeororinofacto.TeblrsteCrtodeteatofagwdadrtitwn60d.Tesewdtnwdanetofmyitostoteflg,adoyretefsoetywdfladisreDtofAeSs()sstttsblcdldtoaeieinsee.Temtlyseoffstesemdfmteflgtwdbepltsddfmeew]
+[DELETED: ,fgtorttetscdsttesetostISfsa.A,teflTyOtPm()astefttoretessastoflfsinr.Asar,DSitteblpsarktotesschf,jsflf,adcdeesetoslflp,teTyDtistttewdbeanieittecylliftesewetolefgretoteMdpSCtofAeSsadTyD]
+
+
+================================================================================
+
+Raw Text:
+SB602-FN-ASINTRODUCED
+2026SESSION
+26-2237
+12/06
+602-FN
+SENATEBILL
+ANACT relative to the withholding of state payments to the federal government in
+responsetosuspendedfederalaid.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Prentiss, Dist 5; Sen.
+Altschiller,Dist24;Rep.Simpson,Rock.33;Rep.Telerski,Hills.11
+COMMITTEE: Finance
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires the commissioner of the department of administrative services to withhold
+moneys owed to the federal government where the federal government has withheld existing or
+expected state aid to New Hampshire by means of an executive order or contravention of a court
+order. The bill also authorizes the commissioner to make payments owed to the federal government
+uponNewHampshire'sreceiptofexistingorexpectedstateaid.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB602-FN-ASINTRODUCED
+26-2237
+12/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the withholding of state payments to the federal government in
+responsetosuspendedfederalaid.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactshallbeknownasthe"ProtectOurMoneyAct."
+2 2 New Paragraph; Frozen Federal Aid; Requirement to Withhold Moneys Owed to Federal
+3 Government. AmendRSA21-I:13byinsertingafterparagraphXIXthefollowingnewparagraph:
+4 XX. If the commissioner determines that federal aid to this state that was previously
+5 authorized under an act of Congress is being withheld under an executive order of the president of
+6 theUnitedStatesorincontraventionofacourtorder,thecommissionershalldoallofthefollowing:
+7 (a) Determine the approximate amount of federal aid this state is being deprived of or is
+8 expectedtobedeprivedofastheresultoftheexecutiveorderorcontraventionofthecourtorder.
+9 (b) No later than 60 days after the date of the executive order or court order, submit to
+10 the speaker of the house of representatives, the president of the senate, the house clerk, the senate
+11 clerk,andthegovernor,fordistributiontothelegislatureareportthatdoesallofthefollowing:
+12 (1) Describes in detail the amount of federal aid this state is being deprived of or is
+13 expected to be deprived of as the result of the executive order or contravention of the court order, as
+14 determinedundersubparagraph(a).
+15 (2) Identifies all moneys this state is required to pay to the federal government for
+16 anyreasonduringthesucceeding12monthsafterthereportissubmitted.
+17 (c) Of the moneys identified under subparagraph (b)(2), withhold the payment of those
+18 moneystothefederalgovernmentinatotalamountnottoexceedtheapproximateamountoffederal
+19 aid this state is being deprived of or is expected to be deprived of as the result of the executive order
+20 orcontraventionofthecourtorder,asdeterminedundersubparagraph(a).
+21 (d) Authorize the payment to the federal government of the moneys withheld under
+22 subparagraph (c) upon the state’s receipt of all federal aid previously withheld under the executive
+23 orderorincontraventionofthecourtorder.
+24 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2237
+Revised12/4/25
+SB602-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relative to the withholding of state payments to the federal government in
+responsetosuspendedfederalaid.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 IndeterminableIncrease
+FundingSource(s) GeneralFundandVariousAgencyFunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 Indeterminable
+CountyExpenditures $0 Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 $0 $0 $0
+METHODOLOGY:
+ThisbillcreatestheProtectOurMoneyActwhichrequirestheCommissioneroftheDepartment
+of Administrative Services to withhold payments owed to the federal government if the federal
+government suspends or withholds federal aid to the state through an executive order or in
+violation of a court order. The bill requires the Commissioner to determine the amount of aid
+being withheld and report it within 60 days. The state would then withhold an equivalent
+amount of money it owes to the federal government, and only release those funds once the
+previouslywithheldfederalaidisreceived.
+The Department of Administrative Services (DAS) states that this bill could lead to an
+indeterminable increase in state expenditures. The most likely source of funds the state might
+withhold from the federal government would be payroll taxes deducted from employee wages.
+
+However, failing to remit these taxes could subject the state to significant IRS fines and
+penalties. Additionally, the federal Treasury Offset Program (TOPS) allows the federal
+government to reduce the state’s access to federal funds in response. As a result, DAS indicates
+that the bill poses a risk to the state’s cash flow, jeopardizes federal funding, and could expose
+thestatetosubstantialfinancialpenalties.
+Additionally, the Treasury Department indicates that there would be an indeterminable impact
+atthecountylevelifthestateweretolosefundingrelativetotheMedicaidprogram.
+AGENCIESCONTACTED:
+DepartmentofAdministrativeServicesandTreasuryDepartment
+
+[DELETED: B6N-ASI6SEBNATretotewgofsepstoteflgtietosdfla:S.PsK,Dt2;S.R,Dt1;S.P,Dt5;S,Dt2;R.S,R.3;R.T,H.1:FsblrstecroftedtofaesstowsodtoteflgtweteflgthswdegodseadtoNwHebymsofaneeororcnofac.TeblaoastecrtomepsodtoteflgnNwHsrtofegoredsea-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretotewgofsepstoteflgtietosdflaeitEdbyteSeadHeofRsinGlCtc1StT.Tsatslbeknaste"tOrMyA2NwP;FnFlA;RttoWdMsOdtoFG.AdRA23byigarphXXtefgnwpX.IftecrdsttfladtotssettwspaduranatofCsisbgwduraneeorofteptoteUdSsorincnofacto,tecrsldoaloftef()Deteaeatoffladtsseisbgddoforiedtobeddofastertofteeeororcnoftecto()Nolrtn60dsartedeofteeeororcto,stt0tesrofteheofr,teptoftes,tehec,tes1c,adteg,frdntoteleartttdsaloftef2()Dsindlteatoffladtsseisbgddofori3edtobeddofastertofteeeororcnoftecto,a4ddursh(5()Isalmstsseisrdtopytoteflgtf6ayrndgtesg12msartertiss7()Oftemsidursh(,wdteptoft8mstoteflgtinatlatnttoedteaeatoff9adtsseisbgddoforisedtobeddofastertofteeeo0orcnoftecto,asddursh(1()Aetepttoteflgtoftemswdu2sh()untessrtofalfladpywdurtee3ororincnoftecto43EeD.Tsatslteet60dsarisp]
+[DELETED: d1B6-FLNSINATretotewgofsepstoteflgtietosdflaLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIgSlFdadVsAyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0IyE0IlR0$0$0$lE0$0$0$sblcstePtOrMyAtwhrsteCrofteDfAeSstowdpsodtoteflgtifteftssorwsfladtotesethaneeororinofacto.TeblrsteCrtodeteatofagwdadrtitwn60d.Tesewdtnwdanetofmyitostoteflg,adoyretefsoetywdfladisreDtofAeSs()sstttsblcdldtoaeieinsee.Temtlyseoffstesemdfmteflgtwdbepltsddfmeew]
+[DELETED: ,fgtorttetscdsttesetostISfsa.A,teflTyOtPm()astefttoretessastoflfsinr.Asar,DSitteblpsarktotesschf,jsflf,adcdeesetoslflp,teTyDtistttewdbeanieittecylliftesewetolefgretoteMdpSCtofAeSsadTyD]

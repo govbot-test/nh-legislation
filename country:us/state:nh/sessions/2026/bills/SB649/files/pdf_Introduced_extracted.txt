@@ -1,0 +1,262 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB649-FN-ASINTRODUCED
+2026SESSION
+26-2087
+06/08
+649-FN
+ANACT increasing fines for using a hand-held mobile electronic device while driving a
+motorvehicle.
+SPONSORS: Sen.Fenton,Dist10;Sen. McConkey,Dist3;Sen. Gannon,Dist23;Sen. Prentiss,
+Dist 5; Sen. Birdsell, Dist 19; Sen. Ricciardi, Dist 9; Rep. Roy, Rock. 31; Rep.
+Gorski,Hills.2;Rep.N.Murphy,Hills.12;Rep.Crawford,Carr.3
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases fines and adds license suspension for repeat offenses involving the use of a
+hand-held mobile electronic device while driving, with enhanced penalties when the violation
+contributestoacrash.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB649-FN-ASINTRODUCED
+26-2087
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing fines for using a hand-held mobile electronic device while driving a
+motorvehicle.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Use of Mobile Electronic Devices While Driving; Prohibition; Penalties. Amend RSA 265:79-c,
+2 IIItoreadasfollows:
+3 III. Any person who violates this section shall be guilty of a violation and shall be [fined
+4 $100 plus penalty assessment for a first offense, $250 plus penalty assessment for a second offense,
+5 and $500 plus penalty assessment for any subsequent offense within a 24-month period.] subject to
+6 thefollowingfinesandpenalties:
+7 (a) Forafirstoffense,afineof$250. Iftheviolationisacontributingcauseof a
+8 motorvehiclecrash,thefineshallbe$500.
+9 (b) For a second offense within 24 months of the first offense, a fine of $500. If
+10 theviolationisacontributingcauseofamotorvehiclecrash,thefineshallbe$750.
+11 (c) For a third or subsequent offense within 24 months of the first offense, a fine
+12 of $750 andlicense suspensionof up to 30 days. If the violationisacontributingcause of a
+13 motorvehiclecrash,thefineshallbe$1,000andthesuspensionshallbe60days.
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2087
+10/22/25
+SB649-FN-FISCALNOTE
+ASINTRODUCED
+ANACT increasing fines for using a hand-held mobile electronic device while driving a
+motorvehicle.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+GeneralFund,HighwayFund,VictimsAssistanceFund,andJudicial
+RevenueFund
+BranchInformationTechnologyFund
+DepartmentofSafetyDMVCosts-$48KinFY2027
+Expenditures*
+CoststoCriminalandJudicialSystems-Indeterminable
+GeneralFund,Restricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriorto
+fundsbeingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill, effective January 1, 2027, increases penalties for using hand-held mobile electronic
+deviceswhiledrivingamotorvehicle:
+OffenseCount ExistingLaw ProposedChange
+$250fine,or$500fine,ifcrash-
+1stOffense $100fine
+contributing
+$500fine,or$750fine,ifcrash-
+2ndOffense1 $250fine
+contributing
+$750fine,pluslicensesuspension
+upto30days,or$1,000fine,plus
+3rdorLaterOffense1 $500fine
+60-daysuspension,ifcrash-
+contributing
+1Ifwithin24monthsoffirstoffense
+In addition to the fines illustrated above, an additional penalty assessment of $2 or 24 percent,
+whichever is greater, is applied to each fine under RSA 265:79-c, III. Fine revenue is credited to
+the highway fund and penalty assessment revenue is split between the general fund (66.66%),
+the Victims’ Assistance Fund (16.67%) and the Judicial Branch Information Technology Fund
+(16.67%).
+In FY 2025, the Department of Safety and Judicial Branch report the following fine and penalty
+assessmentrevenuecollections:
+FineRevenue-HighwayFund $458,720
+PenaltyAssessment-GeneralFund $73,399
+PenaltyAssessment-Victims'AssistanceFund $18,352
+PenaltyAssessment-JudicialBranchInformationTechnologyFund $18,352
+It is assumed this bill would increase revenue to all four funds illustrated above, however the
+amount of a potential increase is indeterminable as the number of infractions cannot be
+predictedasitisunknownifthisbillwillchangedriverbehavior.
+The Department of Safety states this bill will require updates to its systems and processes to
+reflect the new fine structure and license suspension protocols. This includes updated software
+andconfigurationchanges,useracceptancetesting(UAT),andproductiondeploymentwithpost-
+implementation support. The DMV estimates a one-time expenditure of $48,000 to implement
+thesechanges.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+[DELETED: B6N-ASI6SEBNATigfsfrugahdmeecdewedgrv:S.F,Dt1;S.M,Dt3;S.G,Dt2;S.Pt5;S.B,Dt1;S.R,Dt9;R.R,R.3;R,H.2;R.N.M,H.1;R.C,C.:Tsblisfsadaslesnfrrtosigteueofdmeecdewed,whedpswntevstoac-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATigfsfrugahdmeecdewedgrveitEdbyteSeadHeofRsinGlCtc1UeofMeEcDsWeD;P;P.AdRA2IItordasfI.Aypnwovstssnslbegyofavnadslbe[$0pspyatfrafto,$0pspyatfrasdoad$0pspyatfraystoewna2hp]stttefgfsadp()Frafto,afeof$.Iftevnisacgceofmrvec,tefeslbe$()Frasdoewn24msoftefto,afeof$.I0tevnisacgceofamrvec,tefeslbe$1()Fratdorstoewn24msoftefto,af2of$0adlesnofupto30d.Iftevnisacgceof3mrvec,tefeslbe$0adtesnslbe60d42EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATigfsfrugahdmeecdewedgrvLIdSeIY26FY27FY28FY20IeFlF,HyF,VsAeF,adJhInTyFtofSyDVCs-$KinFY2stoCladJlSs-IgSlF,Rd-HyFdCtofCs-Prtec,csadwhtecnoyfdrebyteDtofSyisddprtsbgcdasudhyfdr0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsb,eeJy1,2,ispsfrughdmeeswedgamrveCtEgLwPdCtOe$0f0f,or$0f,ifcdOe$0f0f,or$0f,ifcdorLrOe$0f0f,pslespto30d,or$0f,pys,ifc]
+[DELETED: fwn24msofftonantotefsida,analpyaf$2or24prisg,isadtoehfeurRA2,I.Fereiscdtehyfdadpyatreisstbnteglfd(eV’AeFd()adteJlBhInTyFnFY2,teDtofSyadJlBhrttefgfeadptreceRe-HyFd$yAt-GlFd$yAt-V'AeFd$yAt-JlBhInTyFd$tisadtsblwdieretoalfrfsida,hrttofaplieisieastenrofisctbdasitisuniftsblwlcedrbeDtofSysstsblwlreustoisssadpstttenwfeseadlesnp.Tsisudsdcnc,uraetg(,adpndtwhpns.TeDVesaoeeeof$0toiecsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSCtofS,JlB,JlC,DtofJ,Dto,NwHeAnofC,adNwHeM]
+
+
+================================================================================
+
+Raw Text:
+SB649-FN-ASINTRODUCED
+2026SESSION
+26-2087
+06/08
+649-FN
+SENATEBILL
+ANACT increasing fines for using a hand-held mobile electronic device while driving a
+motorvehicle.
+SPONSORS: Sen.Fenton,Dist10;Sen. McConkey,Dist3;Sen. Gannon,Dist23;Sen. Prentiss,
+Dist 5; Sen. Birdsell, Dist 19; Sen. Ricciardi, Dist 9; Rep. Roy, Rock. 31; Rep.
+Gorski,Hills.2;Rep.N.Murphy,Hills.12;Rep.Crawford,Carr.3
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increases fines and adds license suspension for repeat offenses involving the use of a
+hand-held mobile electronic device while driving, with enhanced penalties when the violation
+contributestoacrash.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB649-FN-ASINTRODUCED
+26-2087
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing fines for using a hand-held mobile electronic device while driving a
+motorvehicle.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Use of Mobile Electronic Devices While Driving; Prohibition; Penalties. Amend RSA 265:79-c,
+2 IIItoreadasfollows:
+3 III. Any person who violates this section shall be guilty of a violation and shall be [fined
+4 $100 plus penalty assessment for a first offense, $250 plus penalty assessment for a second offense,
+5 and $500 plus penalty assessment for any subsequent offense within a 24-month period.] subject to
+6 thefollowingfinesandpenalties:
+7 (a) Forafirstoffense,afineof$250. Iftheviolationisacontributingcauseof a
+8 motorvehiclecrash,thefineshallbe$500.
+9 (b) For a second offense within 24 months of the first offense, a fine of $500. If
+10 theviolationisacontributingcauseofamotorvehiclecrash,thefineshallbe$750.
+11 (c) For a third or subsequent offense within 24 months of the first offense, a fine
+12 of $750 andlicense suspensionof up to 30 days. If the violationisacontributingcause of a
+13 motorvehiclecrash,thefineshallbe$1,000andthesuspensionshallbe60days.
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2087
+10/22/25
+SB649-FN-FISCALNOTE
+ASINTRODUCED
+ANACT increasing fines for using a hand-held mobile electronic device while driving a
+motorvehicle.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable
+GeneralFund,HighwayFund,VictimsAssistanceFund,andJudicial
+RevenueFund
+BranchInformationTechnologyFund
+DepartmentofSafetyDMVCosts-$48KinFY2027
+Expenditures*
+CoststoCriminalandJudicialSystems-Indeterminable
+GeneralFund,Restricted-HighwayFundCostofCollections-Perthe
+stateconstitution,costsassociatedwiththecollection/administrationof
+FundingSource
+highwayfundrevenuebytheDepartmentofSafetyisdeductedpriorto
+fundsbeingcreditedasunrestrictedhighwayfundrevenue
+Appropriations* $0 $0 $0 $0
+FundingSource None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures Indeterminable
+METHODOLOGY:
+This bill, effective January 1, 2027, increases penalties for using hand-held mobile electronic
+deviceswhiledrivingamotorvehicle:
+OffenseCount ExistingLaw ProposedChange
+$250fine,or$500fine,ifcrash-
+1stOffense $100fine
+contributing
+$500fine,or$750fine,ifcrash-
+2ndOffense1 $250fine
+contributing
+$750fine,pluslicensesuspension
+upto30days,or$1,000fine,plus
+3rdorLaterOffense1 $500fine
+60-daysuspension,ifcrash-
+contributing
+
+1Ifwithin24monthsoffirstoffense
+In addition to the fines illustrated above, an additional penalty assessment of $2 or 24 percent,
+whichever is greater, is applied to each fine under RSA 265:79-c, III. Fine revenue is credited to
+the highway fund and penalty assessment revenue is split between the general fund (66.66%),
+the Victims’ Assistance Fund (16.67%) and the Judicial Branch Information Technology Fund
+(16.67%).
+In FY 2025, the Department of Safety and Judicial Branch report the following fine and penalty
+assessmentrevenuecollections:
+FineRevenue-HighwayFund $458,720
+PenaltyAssessment-GeneralFund $73,399
+PenaltyAssessment-Victims'AssistanceFund $18,352
+PenaltyAssessment-JudicialBranchInformationTechnologyFund $18,352
+It is assumed this bill would increase revenue to all four funds illustrated above, however the
+amount of a potential increase is indeterminable as the number of infractions cannot be
+predictedasitisunknownifthisbillwillchangedriverbehavior.
+The Department of Safety states this bill will require updates to its systems and processes to
+reflect the new fine structure and license suspension protocols. This includes updated software
+andconfigurationchanges,useracceptancetesting(UAT),andproductiondeploymentwithpost-
+implementation support. The DMV estimates a one-time expenditure of $48,000 to implement
+thesechanges.
+This bill adds, deletes, or modifies a criminal penalty, or changes statute to which there is a
+penalty for violation. Therefore, this bill may have an impact on the judicial and correctional
+systems, which could affect prosecution, incarceration, probation, and parole costs, for the state,
+as well as county and local governments. A summary of such costs can be found at:
+https://gencourt.state.nh.us/lba/Budget/Fiscal_Notes/JudicialCorrectionalCosts.pdf
+AGENCIESCONTACTED:
+Department of Safety, Judicial Branch, Judicial Council, Department of Justice, Department of
+Corrections, New Hampshire Association of Counties, and New Hampshire Municipal
+Association
+
+[DELETED: B6N-ASI6SEBNATigfsfrugahdmeecdewedgrv:S.F,Dt1;S.M,Dt3;S.G,Dt2;S.Pt5;S.B,Dt1;S.R,Dt9;R.R,R.3;R,H.2;R.N.M,H.1;R.C,C.:Tsblisfsadaslesnfrrtosigteueofdmeecdewed,whedpswntevstoac-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATigfsfrugahdmeecdewedgrveitEdbyteSeadHeofRsinGlCtc1UeofMeEcDsWeD;P;P.AdRA2IItordasfI.Aypnwovstssnslbegyofavnadslbe[$0pspyatfrafto,$0pspyatfrasdoad$0pspyatfraystoewna2hp]stttefgfsadp()Frafto,afeof$.Iftevnisacgceofmrvec,tefeslbe$()Frasdoewn24msoftefto,afeof$.I0tevnisacgceofamrvec,tefeslbe$1()Fratdorstoewn24msoftefto,af2of$0adlesnofupto30d.Iftevnisacgceof3mrvec,tefeslbe$0adtesnslbe60d42EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATigfsfrugahdmeecdewedgrvLIdSeIY26FY27FY28FY20IeFlF,HyF,VsAeF,adJhInTyFtofSyDVCs-$KinFY2stoCladJlSs-IgSlF,Rd-HyFdCtofCs-Prtec,csadwhtecnoyfdrebyteDtofSyisddprtsbgcdasudhyfdr0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yElR0$0$0$lEsb,eeJy1,2,ispsfrughdmeeswedgamrveCtEgLwPdCtOe$0f0f,or$0f,ifcdOe$0f0f,or$0f,ifcdorLrOe$0f0f,pslespto30d,or$0f,pys,ifc]
+[DELETED: fwn24msofftonantotefsida,analpyaf$2or24prisg,isadtoehfeurRA2,I.Fereiscdtehyfdadpyatreisstbnteglfd(eV’AeFd()adteJlBhInTyFnFY2,teDtofSyadJlBhrttefgfeadptreceRe-HyFd$yAt-GlFd$yAt-V'AeFd$yAt-JlBhInTyFd$tisadtsblwdieretoalfrfsida,hrttofaplieisieastenrofisctbdasitisuniftsblwlcedrbeDtofSysstsblwlreustoisssadpstttenwfeseadlesnp.Tsisudsdcnc,uraetg(,adpndtwhpns.TeDVesaoeeeof$0toiecsbla,d,ormsaclp,orcssetowhteisyfrv.T,tsblmyheanitontejladc,whcdatp,i,p,adpec,frtesswlascyadllg.AsyofshcscnbefdaSCtofS,JlB,JlC,DtofJ,Dto,NwHeAnofC,adNwHeM]

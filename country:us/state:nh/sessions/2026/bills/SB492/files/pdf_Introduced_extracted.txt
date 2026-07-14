@@ -1,0 +1,376 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB492-FN-ASINTRODUCED
+2026SESSION
+26-2057
+06/07
+492-FN
+ANACT authorizing the department of military affairs and veterans services to license
+andleasepropertyinwhichthedepartmentholdsapropertyinterest.
+SPONSORS: Sen.Watters,Dist4;Sen.Sullivan,Dist18;Sen.Lang,Dist2;Sen.Pearl,Dist17;
+Sen. Fenton, Dist 10; Sen. Birdsell, Dist 19; Sen. Avard, Dist 12; Sen. Perkins
+Kwoka, Dist 21; Sen. Prentiss, Dist 5; Rep. Moffett, Merr. 4; Rep. Rollins, Sull. 3;
+Rep.Mandelbaum,Rock.21;Rep.Seibert,Hills.21
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Authorizes the department of military affairs and veterans services to lease or license
+propertyunderitsjurisdiction.
+II. Clarifies that when department property is leased or licensed to private entities that are not
+exemptfromtaxation,thepropertyissubjecttolocalpropertytaxesasthoughprivatelyowned.
+III. Outlines the responsibilities of lessees and licensees to pay taxes, the penalties for
+nonpayment,andthemunicipality’sauthoritytoenforcecollectionthroughliensandlegalaction.
+IV. Establishesadedicatedpropertyfundforthedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB492-FN-ASINTRODUCED
+26-2057
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing the department of military affairs and veterans services to license
+andleasepropertyinwhichthedepartmentholdsapropertyinterest.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; National Guard Facilities. Amend RSA 110-B:28 by inserting after
+2 paragraphVIthefollowingnewparagraphs:
+3 VII. The department of military affairs and veterans services shall have the authority to
+4 licenseor leaseall propertyunder itsjurisdiction. However, no leaseorlicense of real propertyfor a
+5 term exceeding 7 years shall be executed without the prior approval of the governor and the
+6 executivecouncil.
+7 VIII. All department property that is leased or licensed by a person, other than the
+8 authority or any other entity exempted from taxation under RSA 72:23, shall be taxable by the
+9 municipality in which the property is located as though such property were not owned by the
+10 department and were held in fee simple. Upon leasing or licensing by the department of any of its
+11 property to a non-exempt entity for any use, the municipality in which such property is located shall
+12 subject such property to any and all applicable property taxes of the municipality as though such
+13 property were not owned by the state or authority and were held in fee simple. Tax payments shall
+14 bemadeasfollows:
+15 (a) In the case of such property rented from the department, the renter or lessee shall
+16 pay,inlieuofrealestatetaxes,tothemunicipalityinwhichthepropertyislocatedanamountequal
+17 to the amount that would have been paid as ad valorem taxes in respect to such property, had it
+18 beenownedbyanongovernmentalperson.
+19 (b) In the case of such property leased from the department, the lessee of such property
+20 shall pay all taxes duly assessed against such property no later than thedue date. If the lessee fails
+21 topaysuchdulyassessedtaxesbytheduedate:
+22 (1) Interest shall accrue on the unpaid taxes at a rate of 18 percent per annum from
+23 theduedateuntilsuchtaxesarepaid;
+24 (2) The municipality in which the leased property is located shall have a lien,
+25 subordinate only to any existing lien of the authority or the state, upon any personal property
+26 including, but not limited to, equipment owned by the lessee, which lien shall continue in force from
+27 theduedateuntilthetaxesandaccruedinterestarepaid;and
+28 (3) The municipality may bring suit against the lessee in any court of competent
+29 jurisdiction for the recovery of any unpaid taxes and interest, together with reasonable attorney's
+30 feesandcosts.
+SB492-FN-ASINTRODUCED
+-Page2-
+1 (c) Such tax payments shall be made at the times and in the manner prescribed for ad
+2 valorem property taxes for nongovernmental persons and shall be based on the valuation of the
+3 property determined by the respective municipality for such purpose, subject to any equalization or
+4 proportionality factor to be applied within such municipality. If the lessee or authority determines
+5 that any valuation made by a municipality is excessive, it may seek a reduction of the valuation by
+6 followingtheproceduresprescribedinRSA76fortheabatementoftaxes.
+7 IX. For all the department property that is leased or licensed by a person, other than the
+8 department, who is subject to the payment of a municipal services fee in lieu of real estate taxes for
+9 the provision of services by or on behalf of the authority which are traditionally provided by the
+10 municipality, and to the extent such municipal services fee is based in whole or in part on the
+11 valuationofthepropertybytherespectivemunicipalityforsuchpurpose,subjecttoanyequalization
+12 or proportionality factor to be applied within such municipality, if the lessee or the department
+13 determines that any valuation made by a municipality is excessive, it may seek a reduction of the
+14 valuationbyfollowingtheproceduresprescribedinRSA76fortheabatementoftaxes.
+15 2 New Section; Department of Military Affairs and Veterans Services Fund. Amend RSA 110-B
+16 byinsertingaftersection28-athefollowingnewsection:
+17 110-B:28-b DepartmentofMilitaryAffairsandVeteransServicesPropertyFund.
+18 I. There is hereby established in the office of the state treasurer a fund to be known as the
+19 department of military affairs and veterans services property fund, which shall be kept distinct and
+20 separate from all other funds. The fund shall consist of such moneys as may be appropriated to the
+21 departmentforeachfiscalyearrelatingtodepartmentproperty,departmentprojects,oranyactivity
+22 ofthedepartment,aswellasanygifts,grants,ordonationsreceivedforsuchpurpose. Allmoneysin
+23 the department of military affairs and veterans services property fund shall be nonlapsing and
+24 continuallyappropriatedtothedepartment.
+25 II. Moneys credited to the fund may be expended by the department for the benefit of the
+26 department:
+27 (a) To purchase, lease, acquire, own, improve, use, sell, convey, transfer, or otherwise
+28 deal in and with department property, department projects, or any interest therein, whether
+29 tangibleorintangible,asauthorizedunderthischapter.
+30 (b) To pay the costs of operating, maintaining, improving, and repairing department
+31 propertyanddepartmentprojects.
+32 (c) To pay all administrative and operational expenses of the department authorized by
+33 law, including, but not limited to, wages, salaries, benefits, reasonable overhead expenses, and
+34 expenses allocated by law or authorized by the adjutant general, including any allocation or
+35 reimbursementtootherdepartmentorauthorityfunds,aspermittedbylaw.
+SB492-FN-ASINTRODUCED
+-Page3-
+1 (d) To pay the principal of, and premium, if any, and the interest on any outstanding
+2 bondsofthestaterelatedtodepartmentpropertyordepartmentprojects,assuchobligationsbecome
+3 dueandpayable.
+4 (e) To create and maintain reserves as required by any bond resolution or security
+5 documentrelatingtosuchbonds.
+6 (f) To pay any payments in lieu of taxes required by law, if any, related to department
+7 propertyordepartmentprojects.
+8 (g) To pay any and all other expenses incident to the management and operation of the
+9 department,itsproperty,oritsprojectsinfurtheranceofitsstatutorypurposes.
+10 IV. Money in this fund shall be paid out on manifests approved by the governor and council
+11 in the same manner as other state claims are paid, provided that advances may be made to the
+12 treasurer of thedepartment as requested and approved pursuant tothis section. Manifests covering
+13 advances shall be submitted at the earliest practicable time for regular processing and audit as
+14 requiredbylaw.
+15 V. The department revenues or any other revenues, other than revenues from or associated
+16 with the department property or the department projects, received and due to the department shall
+17 be retained by the department and shall be used for the department property or the department
+18 projectsinsuchmannerastheadjutantgeneralmaydetermineconsistentwiththeprovisionsofthis
+19 section or as is otherwise provided by law or by the terms and conditions incident to any gift, grant,
+20 devise,bequest,trust,orsecuritydocument.
+21 3 New Subparagraph; Department of Military Affairs and Veterans Services Property Fund
+22 Established. Amend RSA 6:12, I(b) by inserting after subparagraph (410) the following new
+23 subparagraph:
+24 (411) Moneys deposited in the department of military affairs and veterans services
+25 propertyfundestablishedinRSA110-B:28-b.
+26 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2057
+Revised12/30/25
+SB492-FN-FISCALNOTE
+ASINTRODUCED
+ANACT authorizing the department of military affairs and veterans services to license
+andleasepropertyinwhichthedepartmentholdsapropertyinterest.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) PropertyFund
+$105,000 $107,000 $112,000
+(GeneralFund) (GeneralFund) (GeneralFund)
+Expenditures* $0
+Indeterminable Indeterminable Indeterminable
+(PropertyFund) (PropertyFund) (PropertyFund)
+FundingSource(s) GeneralFundandPropertyFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill authorizes the Department of Military Affairs and Veterans Services to lease or license
+property under its jurisdiction, provides that property leased or licensed to non tax exempt
+entitiesis subject tolocal propertytaxation,establishes lesseeresponsibilityfor payment of such
+taxes, and creates a dedicated, nonlapsing Department of Military Affairs and Veterans Services
+PropertyFund.
+The Department of Military Affairs and Veterans Services states this bill would authorize the
+Department to lease or license property and establish a dedicated, nonlapsing property fund to
+receive revenues generated from such activity, but the amount of revenues received into that
+fund is indeterminable. The Department states it does not currently lease or license property to
+private entities and therefore does not have existing lease or license revenue that would
+otherwise lapse to the General Fund. The Department states the creation of the property fund
+would not reduce the need for General Fund appropriations. To implement this bill, the
+Department requests one new full time position titled Property Manager. The Department
+estimates the cost of this position at $105,000 in FY 2027, $107,000 in FY 2028, and $112,000 in
+FY2029. Thebilldoesnotauthorizenorappropriatefundstosupportthisposition.
+The Department states there is no direct fiscal impact on county or local expenditures; however,
+municipalities may receive property tax revenue when department property is leased or licensed
+tonontaxexemptentities,asprovidedinthebill.
+AGENCIESCONTACTED:
+DepartmentofMilitaryAffairsandVeteransServices
+[DELETED: B4N-ASI6SEBNATagtedtofmyasadvssstoldlepyinwhtedthsapyi:S.W,Dt4;S.S,Dt1;S.L,Dt2;S.P,Dt1.F,Dt1;S.B,Dt1;S.A,Dt1;S.P,Dt2;S.P,Dt5;R.M,M.4;R.R,S.3.M,R.2;R.S,H.2:EeDsadAsb.Astedtofmyasadvssstoleorlyurisj.Csttwndtpyisldorldtopeesttaentfmt,tepyissttollpytsasthpyo.Ostersoflsadlstopyt,tepsf,adtemsaytoeecnthlsadlla.Esaddpyfdfrted-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATagtedtofmyasadvssstoldlepyinwhtedthsapyieitEdbyteSeadHeofRsinGlCtc1NwP;NlGdF.AdRA18byigaphVItefgnwpV.Tedtofmyasadvsssslheteaytleorlealpyurisj.H,noleorleofrlpyfrtmeg7ysslbeedwttepraloftegradteecV.Aldtpyttisldorldbyap,ortntayorayoreyedfmtnurRA7,slbetebytmyinwhtepyisldasthshpywentodbyt0dtadwehdinfes.Unlgorlgbytedtofayofi1pytoanteyfrayu,temyinwhshpyislds2stshpytoayadalaepytsoftemyasths3pywentodbyteseorayadwehdinfes.Txpss4bemeasf5()Inteceofshpyrdfmted,terrorles6p,inluofrleet,totemyinwhtepyisldanate7toteatttwdhebnpdasadvmtsinrttoshp,hdi8bnodbyanlp9()Inteceofshpyldfmted,teleofshp0slpyaltsdyadatshpynolrtnteded.Iftelef1topyshdyadtsbyteded2()Itslaeonteudtsatareof18ptpramf3tededeulshtsaep4()Temyinwhteldpyisldslheal5seoytoayeglnofteayortes,unayplp6i,btntldt,etodbytel,whlnslceinfef7tededeultetsadaditaep;a8()Temymybgstatteleinayctofc9jnfrteryofayudtsadi,trwhrea0fsadc]
+[DELETED: B4N-ASIPe2()Shtxpsslbemeattetsadintemrpdfravmpytsfrnlpsadslbebdontevnoftpyddbyteremyfrshp,sttoayenopyfrtobeadwnshm.Ifteleoraydttayvnmebyamyise,itmyskarnoftevnbfgtepspdinRA76frteatoftI.Fraltedtpyttisldorldbyap,ortntd,woissttoteptofamlssfeinluofrleetsftepnofssbyoronbfofteaywhaetypdbyt0m,adtoteetshmlssfeisbdinweorinptont1vnoftepybyteremyfrshp,sttoaye2orpyfrtobeadwnshm,ifteleorted3dsttayvnmebyamyise,itmyskarnoft4vnbyfgtepspdinRA76frteatoft52NwS;DtofMyAsadVsSsF.AdRA16byigarsn2atefgnws71bDtofMyAsadVsSsPyF8I.Teishyedinteoeoftesetrafdtobeknast9dtofmyasadvssspyf,whslbektdta0sefmalorf.Tefdslctofshmsasmybeadtot1dtfrehflyrrgtodtp,dtp,oraya2ofted,aswlasayg,g,ordsrdfrshp.Almsi3tedtofmyasadvssspyfdslbenga4cyadtoted5I.Mscdtotefdmybeedbytedtfrtebtoft6d7()Top,l,a,o,i,u,s,c,t,oro8dlinadwhdtp,dtp,orayitt,w9teori,asadurtsc0()Topytecsofo,m,i,adrgd1pyaddtp2()Topyalaeadolesoftedtadb3l,i,btntldt,w,s,b,reode,a4esadbylworadbyteatg,igayano5rttoordtorayf,aspdbyl]
+[DELETED: B4N-ASIPe3()Topyteplo,adp,ifa,adteitonayobsofteserdtodtpyordtp,asshosbdeadp()Toceadmnrsasrdbyaybdrnorsdtrgtoshb()Topyaypsinluoftsrdbyl,ifa,rdtodpyordtp()Topyayadaloresittotemtadonoftd,isp,orispsinfeofissyp0I.Myintsfdslbepdotonmsadbytegradc1intesemrasorsecsaep,pdttasmybemetot2troftedtasrdadadpttotss.Msc3asslbesdatteetpetefrrrpgadata4rdbyl5V.Tedtrsorayorr,ortnrsfmora6whtedtpyortedtp,rdaddetotedts7berdbytedtadslbeudfrtedtpyorted8psinshmrasteatglmydectwhtepsoft9snorasisoepdbylworbytetsadcsittoayg,g0d,b,t,orsyd13NwS;DtofMyAsadVsSsPyF2E.AdRA6,I)byigarsh()tefgn3s4()Msddintedtofmyasadvss5pyfdedinRA164EeD.TsatslteetJy1,2]
+[DELETED: d1B4-FLNSINATagtedtofmyasadvssstoldlepyinwhtedthsapyiLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20IeIeIeFyF0$0$lF)(lF)(lFeIeIyF)(yF)(yFgSlFdadPyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblasteDtofMyAsadVsSstoleorlyurisj,psttpyldorldtonntxesissttollpyt,esleryfrptofs,adcsad,ngDtofMyAsadVsSyFeDtofMyAsadVsSssstsblwdaetttoleorlepyadehad,ngpyfdtersgdfmsha,btteatofrsrdiotdisi.TeDtssitdsntcyleorlepyteesadtedsntheegleorlerettweletoteGlF.TeDtsstecnoftepyfdntretendfrGlFda.Toittsb,ttrsoenwfltepntdPyM.TeDstectoftspnat$0inFY2,$0inFY2,ad$0iY2.Tebldsntaenraefstosttsp]
+[DELETED: eDtssteisnodtflitoncyorlle;hsmyrepytxrewndtpyisldorlonntxete,aspdintebSCtofMyAsadVsS]
+
+
+================================================================================
+
+Raw Text:
+SB492-FN-ASINTRODUCED
+2026SESSION
+26-2057
+06/07
+492-FN
+SENATEBILL
+ANACT authorizing the department of military affairs and veterans services to license
+andleasepropertyinwhichthedepartmentholdsapropertyinterest.
+SPONSORS: Sen.Watters,Dist4;Sen.Sullivan,Dist18;Sen.Lang,Dist2;Sen.Pearl,Dist17;
+Sen. Fenton, Dist 10; Sen. Birdsell, Dist 19; Sen. Avard, Dist 12; Sen. Perkins
+Kwoka, Dist 21; Sen. Prentiss, Dist 5; Rep. Moffett, Merr. 4; Rep. Rollins, Sull. 3;
+Rep.Mandelbaum,Rock.21;Rep.Seibert,Hills.21
+COMMITTEE: ExecutiveDepartmentsandAdministration
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbill:
+I. Authorizes the department of military affairs and veterans services to lease or license
+propertyunderitsjurisdiction.
+II. Clarifies that when department property is leased or licensed to private entities that are not
+exemptfromtaxation,thepropertyissubjecttolocalpropertytaxesasthoughprivatelyowned.
+III. Outlines the responsibilities of lessees and licensees to pay taxes, the penalties for
+nonpayment,andthemunicipality’sauthoritytoenforcecollectionthroughliensandlegalaction.
+IV. Establishesadedicatedpropertyfundforthedepartment.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB492-FN-ASINTRODUCED
+26-2057
+06/07
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT authorizing the department of military affairs and veterans services to license
+andleasepropertyinwhichthedepartmentholdsapropertyinterest.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; National Guard Facilities. Amend RSA 110-B:28 by inserting after
+2 paragraphVIthefollowingnewparagraphs:
+3 VII. The department of military affairs and veterans services shall have the authority to
+4 licenseor leaseall propertyunder itsjurisdiction. However, no leaseorlicense of real propertyfor a
+5 term exceeding 7 years shall be executed without the prior approval of the governor and the
+6 executivecouncil.
+7 VIII. All department property that is leased or licensed by a person, other than the
+8 authority or any other entity exempted from taxation under RSA 72:23, shall be taxable by the
+9 municipality in which the property is located as though such property were not owned by the
+10 department and were held in fee simple. Upon leasing or licensing by the department of any of its
+11 property to a non-exempt entity for any use, the municipality in which such property is located shall
+12 subject such property to any and all applicable property taxes of the municipality as though such
+13 property were not owned by the state or authority and were held in fee simple. Tax payments shall
+14 bemadeasfollows:
+15 (a) In the case of such property rented from the department, the renter or lessee shall
+16 pay,inlieuofrealestatetaxes,tothemunicipalityinwhichthepropertyislocatedanamountequal
+17 to the amount that would have been paid as ad valorem taxes in respect to such property, had it
+18 beenownedbyanongovernmentalperson.
+19 (b) In the case of such property leased from the department, the lessee of such property
+20 shall pay all taxes duly assessed against such property no later than thedue date. If the lessee fails
+21 topaysuchdulyassessedtaxesbytheduedate:
+22 (1) Interest shall accrue on the unpaid taxes at a rate of 18 percent per annum from
+23 theduedateuntilsuchtaxesarepaid;
+24 (2) The municipality in which the leased property is located shall have a lien,
+25 subordinate only to any existing lien of the authority or the state, upon any personal property
+26 including, but not limited to, equipment owned by the lessee, which lien shall continue in force from
+27 theduedateuntilthetaxesandaccruedinterestarepaid;and
+28 (3) The municipality may bring suit against the lessee in any court of competent
+29 jurisdiction for the recovery of any unpaid taxes and interest, together with reasonable attorney's
+30 feesandcosts.
+
+SB492-FN-ASINTRODUCED
+-Page2-
+1 (c) Such tax payments shall be made at the times and in the manner prescribed for ad
+2 valorem property taxes for nongovernmental persons and shall be based on the valuation of the
+3 property determined by the respective municipality for such purpose, subject to any equalization or
+4 proportionality factor to be applied within such municipality. If the lessee or authority determines
+5 that any valuation made by a municipality is excessive, it may seek a reduction of the valuation by
+6 followingtheproceduresprescribedinRSA76fortheabatementoftaxes.
+7 IX. For all the department property that is leased or licensed by a person, other than the
+8 department, who is subject to the payment of a municipal services fee in lieu of real estate taxes for
+9 the provision of services by or on behalf of the authority which are traditionally provided by the
+10 municipality, and to the extent such municipal services fee is based in whole or in part on the
+11 valuationofthepropertybytherespectivemunicipalityforsuchpurpose,subjecttoanyequalization
+12 or proportionality factor to be applied within such municipality, if the lessee or the department
+13 determines that any valuation made by a municipality is excessive, it may seek a reduction of the
+14 valuationbyfollowingtheproceduresprescribedinRSA76fortheabatementoftaxes.
+15 2 New Section; Department of Military Affairs and Veterans Services Fund. Amend RSA 110-B
+16 byinsertingaftersection28-athefollowingnewsection:
+17 110-B:28-b DepartmentofMilitaryAffairsandVeteransServicesPropertyFund.
+18 I. There is hereby established in the office of the state treasurer a fund to be known as the
+19 department of military affairs and veterans services property fund, which shall be kept distinct and
+20 separate from all other funds. The fund shall consist of such moneys as may be appropriated to the
+21 departmentforeachfiscalyearrelatingtodepartmentproperty,departmentprojects,oranyactivity
+22 ofthedepartment,aswellasanygifts,grants,ordonationsreceivedforsuchpurpose. Allmoneysin
+23 the department of military affairs and veterans services property fund shall be nonlapsing and
+24 continuallyappropriatedtothedepartment.
+25 II. Moneys credited to the fund may be expended by the department for the benefit of the
+26 department:
+27 (a) To purchase, lease, acquire, own, improve, use, sell, convey, transfer, or otherwise
+28 deal in and with department property, department projects, or any interest therein, whether
+29 tangibleorintangible,asauthorizedunderthischapter.
+30 (b) To pay the costs of operating, maintaining, improving, and repairing department
+31 propertyanddepartmentprojects.
+32 (c) To pay all administrative and operational expenses of the department authorized by
+33 law, including, but not limited to, wages, salaries, benefits, reasonable overhead expenses, and
+34 expenses allocated by law or authorized by the adjutant general, including any allocation or
+35 reimbursementtootherdepartmentorauthorityfunds,aspermittedbylaw.
+
+SB492-FN-ASINTRODUCED
+-Page3-
+1 (d) To pay the principal of, and premium, if any, and the interest on any outstanding
+2 bondsofthestaterelatedtodepartmentpropertyordepartmentprojects,assuchobligationsbecome
+3 dueandpayable.
+4 (e) To create and maintain reserves as required by any bond resolution or security
+5 documentrelatingtosuchbonds.
+6 (f) To pay any payments in lieu of taxes required by law, if any, related to department
+7 propertyordepartmentprojects.
+8 (g) To pay any and all other expenses incident to the management and operation of the
+9 department,itsproperty,oritsprojectsinfurtheranceofitsstatutorypurposes.
+10 IV. Money in this fund shall be paid out on manifests approved by the governor and council
+11 in the same manner as other state claims are paid, provided that advances may be made to the
+12 treasurer of thedepartment as requested and approved pursuant tothis section. Manifests covering
+13 advances shall be submitted at the earliest practicable time for regular processing and audit as
+14 requiredbylaw.
+15 V. The department revenues or any other revenues, other than revenues from or associated
+16 with the department property or the department projects, received and due to the department shall
+17 be retained by the department and shall be used for the department property or the department
+18 projectsinsuchmannerastheadjutantgeneralmaydetermineconsistentwiththeprovisionsofthis
+19 section or as is otherwise provided by law or by the terms and conditions incident to any gift, grant,
+20 devise,bequest,trust,orsecuritydocument.
+21 3 New Subparagraph; Department of Military Affairs and Veterans Services Property Fund
+22 Established. Amend RSA 6:12, I(b) by inserting after subparagraph (410) the following new
+23 subparagraph:
+24 (411) Moneys deposited in the department of military affairs and veterans services
+25 propertyfundestablishedinRSA110-B:28-b.
+26 4 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2057
+Revised12/30/25
+SB492-FN-FISCALNOTE
+ASINTRODUCED
+ANACT authorizing the department of military affairs and veterans services to license
+andleasepropertyinwhichthedepartmentholdsapropertyinterest.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 Indeterminable Indeterminable Indeterminable
+RevenueFund(s) PropertyFund
+$105,000 $107,000 $112,000
+(GeneralFund) (GeneralFund) (GeneralFund)
+Expenditures* $0
+Indeterminable Indeterminable Indeterminable
+(PropertyFund) (PropertyFund) (PropertyFund)
+FundingSource(s) GeneralFundandPropertyFund
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill authorizes the Department of Military Affairs and Veterans Services to lease or license
+property under its jurisdiction, provides that property leased or licensed to non tax exempt
+entitiesis subject tolocal propertytaxation,establishes lesseeresponsibilityfor payment of such
+taxes, and creates a dedicated, nonlapsing Department of Military Affairs and Veterans Services
+PropertyFund.
+The Department of Military Affairs and Veterans Services states this bill would authorize the
+Department to lease or license property and establish a dedicated, nonlapsing property fund to
+receive revenues generated from such activity, but the amount of revenues received into that
+fund is indeterminable. The Department states it does not currently lease or license property to
+private entities and therefore does not have existing lease or license revenue that would
+otherwise lapse to the General Fund. The Department states the creation of the property fund
+would not reduce the need for General Fund appropriations. To implement this bill, the
+Department requests one new full time position titled Property Manager. The Department
+estimates the cost of this position at $105,000 in FY 2027, $107,000 in FY 2028, and $112,000 in
+FY2029. Thebilldoesnotauthorizenorappropriatefundstosupportthisposition.
+
+The Department states there is no direct fiscal impact on county or local expenditures; however,
+municipalities may receive property tax revenue when department property is leased or licensed
+tonontaxexemptentities,asprovidedinthebill.
+AGENCIESCONTACTED:
+DepartmentofMilitaryAffairsandVeteransServices
+
+[DELETED: B4N-ASI6SEBNATagtedtofmyasadvssstoldlepyinwhtedthsapyi:S.W,Dt4;S.S,Dt1;S.L,Dt2;S.P,Dt1.F,Dt1;S.B,Dt1;S.A,Dt1;S.P,Dt2;S.P,Dt5;R.M,M.4;R.R,S.3.M,R.2;R.S,H.2:EeDsadAsb.Astedtofmyasadvssstoleorlyurisj.Csttwndtpyisldorldtopeesttaentfmt,tepyissttollpytsasthpyo.Ostersoflsadlstopyt,tepsf,adtemsaytoeecnthlsadlla.Esaddpyfdfrted-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B4N-ASIEOFNWHnteYrofOrLdToTdTNATagtedtofmyasadvssstoldlepyinwhtedthsapyieitEdbyteSeadHeofRsinGlCtc1NwP;NlGdF.AdRA18byigaphVItefgnwpV.Tedtofmyasadvsssslheteaytleorlealpyurisj.H,noleorleofrlpyfrtmeg7ysslbeedwttepraloftegradteecV.Aldtpyttisldorldbyap,ortntayorayoreyedfmtnurRA7,slbetebytmyinwhtepyisldasthshpywentodbyt0dtadwehdinfes.Unlgorlgbytedtofayofi1pytoanteyfrayu,temyinwhshpyislds2stshpytoayadalaepytsoftemyasths3pywentodbyteseorayadwehdinfes.Txpss4bemeasf5()Inteceofshpyrdfmted,terrorles6p,inluofrleet,totemyinwhtepyisldanate7toteatttwdhebnpdasadvmtsinrttoshp,hdi8bnodbyanlp9()Inteceofshpyldfmted,teleofshp0slpyaltsdyadatshpynolrtnteded.Iftelef1topyshdyadtsbyteded2()Itslaeonteudtsatareof18ptpramf3tededeulshtsaep4()Temyinwhteldpyisldslheal5seoytoayeglnofteayortes,unayplp6i,btntldt,etodbytel,whlnslceinfef7tededeultetsadaditaep;a8()Temymybgstatteleinayctofc9jnfrteryofayudtsadi,trwhrea0fsadc]
+[DELETED: B4N-ASIPe2()Shtxpsslbemeattetsadintemrpdfravmpytsfrnlpsadslbebdontevnoftpyddbyteremyfrshp,sttoayenopyfrtobeadwnshm.Ifteleoraydttayvnmebyamyise,itmyskarnoftevnbfgtepspdinRA76frteatoftI.Fraltedtpyttisldorldbyap,ortntd,woissttoteptofamlssfeinluofrleetsftepnofssbyoronbfofteaywhaetypdbyt0m,adtoteetshmlssfeisbdinweorinptont1vnoftepybyteremyfrshp,sttoaye2orpyfrtobeadwnshm,ifteleorted3dsttayvnmebyamyise,itmyskarnoft4vnbyfgtepspdinRA76frteatoft52NwS;DtofMyAsadVsSsF.AdRA16byigarsn2atefgnws71bDtofMyAsadVsSsPyF8I.Teishyedinteoeoftesetrafdtobeknast9dtofmyasadvssspyf,whslbektdta0sefmalorf.Tefdslctofshmsasmybeadtot1dtfrehflyrrgtodtp,dtp,oraya2ofted,aswlasayg,g,ordsrdfrshp.Almsi3tedtofmyasadvssspyfdslbenga4cyadtoted5I.Mscdtotefdmybeedbytedtfrtebtoft6d7()Top,l,a,o,i,u,s,c,t,oro8dlinadwhdtp,dtp,orayitt,w9teori,asadurtsc0()Topytecsofo,m,i,adrgd1pyaddtp2()Topyalaeadolesoftedtadb3l,i,btntldt,w,s,b,reode,a4esadbylworadbyteatg,igayano5rttoordtorayf,aspdbyl]
+[DELETED: B4N-ASIPe3()Topyteplo,adp,ifa,adteitonayobsofteserdtodtpyordtp,asshosbdeadp()Toceadmnrsasrdbyaybdrnorsdtrgtoshb()Topyaypsinluoftsrdbyl,ifa,rdtodpyordtp()Topyayadaloresittotemtadonoftd,isp,orispsinfeofissyp0I.Myintsfdslbepdotonmsadbytegradc1intesemrasorsecsaep,pdttasmybemetot2troftedtasrdadadpttotss.Msc3asslbesdatteetpetefrrrpgadata4rdbyl5V.Tedtrsorayorr,ortnrsfmora6whtedtpyortedtp,rdaddetotedts7berdbytedtadslbeudfrtedtpyorted8psinshmrasteatglmydectwhtepsoft9snorasisoepdbylworbytetsadcsittoayg,g0d,b,t,orsyd13NwS;DtofMyAsadVsSsPyF2E.AdRA6,I)byigarsh()tefgn3s4()Msddintedtofmyasadvss5pyfdedinRA164EeD.TsatslteetJy1,2]
+[DELETED: d1B4-FLNSINATagtedtofmyasadvssstoldlepyinwhtedthsapyiLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20IeIeIeFyF0$0$lF)(lF)(lFeIeIyF)(yF)(yFgSlFdadPyF0$0$0$gSe=Ctofbl*n=AdfgtocrctofbsblasteDtofMyAsadVsSstoleorlyurisj,psttpyldorldtonntxesissttollpyt,esleryfrptofs,adcsad,ngDtofMyAsadVsSyFeDtofMyAsadVsSssstsblwdaetttoleorlepyadehad,ngpyfdtersgdfmsha,btteatofrsrdiotdisi.TeDtssitdsntcyleorlepyteesadtedsntheegleorlerettweletoteGlF.TeDtsstecnoftepyfdntretendfrGlFda.Toittsb,ttrsoenwfltepntdPyM.TeDstectoftspnat$0inFY2,$0inFY2,ad$0iY2.Tebldsntaenraefstosttsp]
+[DELETED: eDtssteisnodtflitoncyorlle;hsmyrepytxrewndtpyisldorlonntxete,aspdintebSCtofMyAsadVsS]

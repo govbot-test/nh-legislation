@@ -1,0 +1,186 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB519-FN-ASINTRODUCED
+2026SESSION
+26-2075
+09/08
+519-FN
+ANACT relativetotheuseofunmannedaerialsystems.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a civil cause of action for the use of unmanned aerial systems for certain
+purposesthatviolateareasonableexpectationofprivacy,subjecttocertainexceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB519-FN-ASINTRODUCED
+26-2075
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofunmannedaerialsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Causes of Action Related to the Use of Small Unmanned Aircraft Systems.
+2 AmendRSAbyinsertingafterchapter507-Ithefollowingnewchapter:
+3 CHAPTER507-J
+4 CAUSESOFACTIONRELATEDTOTHEUSEOFSMALLUNMANNEDAIRCRAFTSYSTEMS
+5 507-J:1 Definitions. Asusedinthischapter:
+6 I. "Aircraft"means"aircraft"asitisdefinedinRSA422:3,VI.
+7 II. "Imaging device" means any technology capable of recording or transmitting images,
+8 sound,ordata.
+9 III. "Operate"means"operateaircraft"asthattermisdefinedinRSA422:3,XXII.
+10 IV. "Small unmanned aircraft" means "small unmanned aircraft" as it is defined in RSA
+11 422:3,XXVII-a.
+12 V. "Small unmanned aircraft system" means "small unmanned aircraft system" as it is
+13 definedinRSA422:3,XXVII-b.
+14 VI. "Surveillance" means the observation of one or more persons or property with enough
+15 claritytogatheridentifyinginformation,habits,conduct,movements,oroccupancy.
+16 507-J:2 ProhibitiononUsetoViolatePrivacy.
+17 Neither the state, or any political subdivision thereof, nor any person, shall operate a small
+18 unmanned aircraft system that includes an imaging device to conduct surveillance over private
+19 property without written consent from the property owner, in any situation where a reasonable
+20 expectation of privacy exists. For purposes of this section, a reasonable expectation of privacy shall
+21 be presumed to exist in any location where an individual cannot be observed from a public ground-
+22 levelposition.
+23 507-J:3 Exceptions. RSA507-J:2shallnotapplyto:
+24 I. Lawenforcementofficersoperatingpursuanttoavalidwarrant.
+25 II. Law enforcement officers acting pursuant to exigent circumstances involving imminent
+26 dangertolifeortheriskofdestructionofevidence.
+27 III. Lawenforcementofficersperformingcounter-terrorismoperations.
+28 IV. Regulatedutilityinspections.
+29 V. Licensedbusinessoperations.
+30 VI. Propertyappraisalfortaxes.
+31 VII. Environmentalemergencyassessments.
+SB519-FN-ASINTRODUCED
+-Page2-
+1 507-J:4Remedies.
+2 I. A person alleging a violation of RSA 507-J:2 may bring an action for compensatory and
+3 punitivedamagesandinjunctiverelief.
+4 II. Anycivilremedyshallbeinadditiontoanyotherremedyavailableatlaw.
+5 III. The court mayaward reasonable attorney's fees toapersonwho successfullyestablishes
+6 aviolationofRSA507-J:2.
+7 507-J:5 Severability.
+8 If any provision of this chapter or the application thereof to any person or circumstances is held
+9 invalid, such invalidity shall not affect other provisions or applications of the chapter which can be
+10 given effect without the invalid provision or application, and to this end the provisions of this
+11 chapteraredeclaredtobeseverable.
+12 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2075
+10/27/25
+SB519-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheuseofunmannedaerialsystems.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+JudicialBranch
+[DELETED: B5N-ASI6SEBNATretoteueofudals:S.R,Dt1:Jsblesaclceofanfrteueofudalssfrcsttveareenofp,sttocne-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoteueofudalseitEdbyteSeadHeofRsinGlCtc1NwC;CsofAnRdtoteUeofSlUdAtSAdRAbyigarcr5ItefgnwcCR5CSOFANRDTOTEUEOFSLUDATS51D.AsudintscI.""ms""asitisddinRA4,VI."gd"msaytyceofrgortgis,ordI.""ms"ea"astttmisddinRA4,X0I."luda"ms"luda"asitisddinR14,X2V."ludats"ms"ludats"asiti3ddinRA4,X4V.""msteonofoeormepsorpywhe5cytogrigi,h,c,m,oro652PnonUetoVeP7Nrtes,orayplsnt,nrayp,sloeas8udatsmttisanigdetoctseorp9pywtwnctfmtepyo,inaysnwear0enofpye.Frpsoftss,areenofpys1bepdtoetinaylnweanilctbeodfmapcg2llp353E.RA52slntayt4I.Lwetosogpttoavdw5I.Lwetosagpttoetcsigi6drtoleorterkofdnofe7I.Lwetospgcmo8I.Rduyi9V.Ldbso0V.Pyalfrt1V.Eleya]
+[DELETED: B5N-ASIPe254RI.ApnagavnofRA52mybgananfrcyapedsadierI.AyclryslbeinantoayorryaeatlI.TectmyadreasfstoapnwosyeavnofRA555SIfaypnoftscrorteantftoaypnorcsishi,shiyslntatorpsorasoftecrwhcnb0gnetwtteidpnora,adtotsedtepsoft1craeddtobes22EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretoteueofudalsLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SClB]
+
+
+================================================================================
+
+Raw Text:
+SB519-FN-ASINTRODUCED
+2026SESSION
+26-2075
+09/08
+519-FN
+SENATEBILL
+ANACT relativetotheuseofunmannedaerialsystems.
+SPONSORS: Sen.Reardon,Dist15
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a civil cause of action for the use of unmanned aerial systems for certain
+purposesthatviolateareasonableexpectationofprivacy,subjecttocertainexceptions.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB519-FN-ASINTRODUCED
+26-2075
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetotheuseofunmannedaerialsystems.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Chapter; Causes of Action Related to the Use of Small Unmanned Aircraft Systems.
+2 AmendRSAbyinsertingafterchapter507-Ithefollowingnewchapter:
+3 CHAPTER507-J
+4 CAUSESOFACTIONRELATEDTOTHEUSEOFSMALLUNMANNEDAIRCRAFTSYSTEMS
+5 507-J:1 Definitions. Asusedinthischapter:
+6 I. "Aircraft"means"aircraft"asitisdefinedinRSA422:3,VI.
+7 II. "Imaging device" means any technology capable of recording or transmitting images,
+8 sound,ordata.
+9 III. "Operate"means"operateaircraft"asthattermisdefinedinRSA422:3,XXII.
+10 IV. "Small unmanned aircraft" means "small unmanned aircraft" as it is defined in RSA
+11 422:3,XXVII-a.
+12 V. "Small unmanned aircraft system" means "small unmanned aircraft system" as it is
+13 definedinRSA422:3,XXVII-b.
+14 VI. "Surveillance" means the observation of one or more persons or property with enough
+15 claritytogatheridentifyinginformation,habits,conduct,movements,oroccupancy.
+16 507-J:2 ProhibitiononUsetoViolatePrivacy.
+17 Neither the state, or any political subdivision thereof, nor any person, shall operate a small
+18 unmanned aircraft system that includes an imaging device to conduct surveillance over private
+19 property without written consent from the property owner, in any situation where a reasonable
+20 expectation of privacy exists. For purposes of this section, a reasonable expectation of privacy shall
+21 be presumed to exist in any location where an individual cannot be observed from a public ground-
+22 levelposition.
+23 507-J:3 Exceptions. RSA507-J:2shallnotapplyto:
+24 I. Lawenforcementofficersoperatingpursuanttoavalidwarrant.
+25 II. Law enforcement officers acting pursuant to exigent circumstances involving imminent
+26 dangertolifeortheriskofdestructionofevidence.
+27 III. Lawenforcementofficersperformingcounter-terrorismoperations.
+28 IV. Regulatedutilityinspections.
+29 V. Licensedbusinessoperations.
+30 VI. Propertyappraisalfortaxes.
+31 VII. Environmentalemergencyassessments.
+
+SB519-FN-ASINTRODUCED
+-Page2-
+1 507-J:4Remedies.
+2 I. A person alleging a violation of RSA 507-J:2 may bring an action for compensatory and
+3 punitivedamagesandinjunctiverelief.
+4 II. Anycivilremedyshallbeinadditiontoanyotherremedyavailableatlaw.
+5 III. The court mayaward reasonable attorney's fees toapersonwho successfullyestablishes
+6 aviolationofRSA507-J:2.
+7 507-J:5 Severability.
+8 If any provision of this chapter or the application thereof to any person or circumstances is held
+9 invalid, such invalidity shall not affect other provisions or applications of the chapter which can be
+10 given effect without the invalid provision or application, and to this end the provisions of this
+11 chapteraredeclaredtobeseverable.
+12 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2075
+10/27/25
+SB519-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetotheuseofunmannedaerialsystems.
+FISCALIMPACT:
+TheLegislativeBudgetAssistanthasdeterminedthatthislegislationhasatotalfiscalimpact
+oflessthan$10,000ineachofthefiscalyears2026through2029.
+AGENCIESCONTACTED:
+JudicialBranch
+
+[DELETED: B5N-ASI6SEBNATretoteueofudals:S.R,Dt1:Jsblesaclceofanfrteueofudalssfrcsttveareenofp,sttocne-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretoteueofudalseitEdbyteSeadHeofRsinGlCtc1NwC;CsofAnRdtoteUeofSlUdAtSAdRAbyigarcr5ItefgnwcCR5CSOFANRDTOTEUEOFSLUDATS51D.AsudintscI.""ms""asitisddinRA4,VI."gd"msaytyceofrgortgis,ordI.""ms"ea"astttmisddinRA4,X0I."luda"ms"luda"asitisddinR14,X2V."ludats"ms"ludats"asiti3ddinRA4,X4V.""msteonofoeormepsorpywhe5cytogrigi,h,c,m,oro652PnonUetoVeP7Nrtes,orayplsnt,nrayp,sloeas8udatsmttisanigdetoctseorp9pywtwnctfmtepyo,inaysnwear0enofpye.Frpsoftss,areenofpys1bepdtoetinaylnweanilctbeodfmapcg2llp353E.RA52slntayt4I.Lwetosogpttoavdw5I.Lwetosagpttoetcsigi6drtoleorterkofdnofe7I.Lwetospgcmo8I.Rduyi9V.Ldbso0V.Pyalfrt1V.Eleya]
+[DELETED: B5N-ASIPe254RI.ApnagavnofRA52mybgananfrcyapedsadierI.AyclryslbeinantoayorryaeatlI.TectmyadreasfstoapnwosyeavnofRA555SIfaypnoftscrorteantftoaypnorcsishi,shiyslntatorpsorasoftecrwhcnb0gnetwtteidpnora,adtotsedtepsoft1craeddtobes22EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretoteueofudalsLIeLeBtAthsddtttslnhsatlfliflstn$0inehofteflys26th2SClB]

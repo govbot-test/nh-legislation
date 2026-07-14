@@ -1,0 +1,188 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB550-FN-ASAMENDEDBYTHEHOUSE
+14May2026...1702h
+2026SESSION
+26-2143
+05/06
+550-FN
+ANACT relativetoinsurancecoverageforservicesprovidedbynaturopathyproviders.
+SPONSORS: Sen.Rochefort,Dist1;Rep.Lundgren,Rock.16
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresgroupinsurancepoliciesissuedinthestatetoincludecoveragefornaturopathy
+providers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB550-FN-ASAMENDEDBYTHEHOUSE
+14May2026...1702h 26-2143
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoinsurancecoverageforservicesprovidedbynaturopathyproviders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Naturopathy Providers; Payment for Equivalent Types of Services; Group. Amend RSA
+2 415:18-wtoreadasfollows:
+3 415:18-w Naturopathy Providers; Payment for Equivalent Types of Services; Group. Each
+4 insurer that issues or renews any policy of group or blanket accident or health insurance providing
+5 benefits for medical or hospital expenses [may] shall provideto each group, or to the portion of each
+6 group comprised of certificate holders of such insurance who are residents of this state, coverage for
+7 expenses arising from a health service performed by a doctor of naturopathic medicine licensed
+8 underRSA328-Eifthatparticulartypeofserviceiswithinthescopeofpracticeofsuchdoctorandif
+9 theinsurerwouldreimburseforthattypeofservicewhenperformedbyanyothertypeofhealthcare
+10 provider. Such coverage, if provided, shall be subject to each insurer's standards and mechanisms
+11 for determining medical necessity, for credentialing pursuant to RSA 420-J:4, and for contracting
+12 pursuanttoRSA420-J:8. Anysuchbenefitsprovidedshallnotbesubjecttoanygreaterco-payment,
+13 deductible,orcoinsurancethananyothersimilarbenefitsprovidedbytheinsurer.
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2143
+5/15/26
+SB550-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1702h)
+ANACT relativetoinsurancecoverageforservicesprovidedbynaturopathyproviders.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill requires group insurance policies issued or renewed in the state to provide coverage for
+health services performed by a licensed doctor of naturopathic medicine when the insurer would
+reimburse for the same type of service if performed by another health care provider. The bill
+prohibits insurers from applying higher co-payments, deductibles, or coinsurance to such
+services.
+The Insurance Department states this bill may increase total claim expenditures by a small
+amount due to increasing the number of providers eligible to perform covered services. The
+Department notes this may also result in increased insurance premiums; however, the extent of
+any increase is indeterminable. The Department assumes any increase would be small because
+health carriers retain the authority to apply standards for medical necessity, credentialing, and
+contracting and are not required to cover any specific items or services that are not already
+covered under the plan. To the extent counties and municipalities purchase health insurance,
+theycouldseeanincreaseintheirhealthinsurancepremiums.
+AGENCIESCONTACTED:
+InsuranceDepartment
+[DELETED: B5N-ASADBYTEH.16SEBNATretoiecefrsspdbynyp:S.R,Dt1;R.L,R.1:HhadHnSsblrsgpiepsidintesetoiecefrn-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTEH.1h2EOFNWHnteYrofOrLdToTdTNATretoiecefrsspdbynypeitEdbyteSeadHeofRsinGlCtc1NyP;PtfrEtTsofS;G.AdR4wtordasf4wNyP;PtfrEtTsofS;G.Eirttisorrsaypyofgporbtatorhhiepbsfrmlorhles[]slpetoehg,ortotepnofegpcdofcehsofshiewoaersoftss,cefesagfmahhsepdbyadrofncmelurRA3Eifttprteofseiswnteseofpeofshdraditeirwdrefrttteofsewnpdbyayorteofhhc0p.Shc,ifp,slbesttoehisssadm1frdgmln,frcgpttoRA4,adfrc2pttoRA4.Ayshbspdslntbesttoaygrc3d,orcetnayorsrbspdbytei42EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSADBYTEHE(T#2NATretoiecefrsspdbynypLIdSeIY26FY27FY28FY2eIeIeIeItpdby(tpd(tpdb)bya)aeFlF0$0$0$gS0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblrsgpiepsidorrdintesetopecefhsspdbyalddrofncmewnteirwefrteseteofseifpdbyarhhcep.Tebsisfmaghrc,d,orcetoseIeDtsstsblmyietlcmesbyastdetoigtenrofpseetopmcds.Ttnstsmyaortinidiep;h,teetoyieisi.TeDtasayiewdbeslbhcsrnteaytoayssfrmln,c,a]
+[DELETED: gadaentrdtocrayscisorssttaentadurtep.ToteetcsadmspehhiycdseanieintrhhiepSCeD]
+
+
+================================================================================
+
+Raw Text:
+SB550-FN-ASAMENDEDBYTHEHOUSE
+14May2026...1702h
+2026SESSION
+26-2143
+05/06
+550-FN
+SENATEBILL
+ANACT relativetoinsurancecoverageforservicesprovidedbynaturopathyproviders.
+SPONSORS: Sen.Rochefort,Dist1;Rep.Lundgren,Rock.16
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+Thisbillrequiresgroupinsurancepoliciesissuedinthestatetoincludecoveragefornaturopathy
+providers.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB550-FN-ASAMENDEDBYTHEHOUSE
+14May2026...1702h 26-2143
+05/06
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoinsurancecoverageforservicesprovidedbynaturopathyproviders.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Naturopathy Providers; Payment for Equivalent Types of Services; Group. Amend RSA
+2 415:18-wtoreadasfollows:
+3 415:18-w Naturopathy Providers; Payment for Equivalent Types of Services; Group. Each
+4 insurer that issues or renews any policy of group or blanket accident or health insurance providing
+5 benefits for medical or hospital expenses [may] shall provideto each group, or to the portion of each
+6 group comprised of certificate holders of such insurance who are residents of this state, coverage for
+7 expenses arising from a health service performed by a doctor of naturopathic medicine licensed
+8 underRSA328-Eifthatparticulartypeofserviceiswithinthescopeofpracticeofsuchdoctorandif
+9 theinsurerwouldreimburseforthattypeofservicewhenperformedbyanyothertypeofhealthcare
+10 provider. Such coverage, if provided, shall be subject to each insurer's standards and mechanisms
+11 for determining medical necessity, for credentialing pursuant to RSA 420-J:4, and for contracting
+12 pursuanttoRSA420-J:8. Anysuchbenefitsprovidedshallnotbesubjecttoanygreaterco-payment,
+13 deductible,orcoinsurancethananyothersimilarbenefitsprovidedbytheinsurer.
+14 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2143
+5/15/26
+SB550-FN-FISCALNOTE
+ASAMENDEDBYTHEHOUSE(AMENDMENT#2026-1702h)
+ANACT relativetoinsurancecoverageforservicesprovidedbynaturopathyproviders.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Increase Increase Increase
+Revenue $0
+(notprovidedby (notprovided (notprovidedby
+agency) byagency) agency)
+RevenueFund(s) GeneralFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 Indeterminable Indeterminable Indeterminable
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 Indeterminable Indeterminable Indeterminable
+METHODOLOGY:
+This bill requires group insurance policies issued or renewed in the state to provide coverage for
+health services performed by a licensed doctor of naturopathic medicine when the insurer would
+reimburse for the same type of service if performed by another health care provider. The bill
+prohibits insurers from applying higher co-payments, deductibles, or coinsurance to such
+services.
+The Insurance Department states this bill may increase total claim expenditures by a small
+amount due to increasing the number of providers eligible to perform covered services. The
+Department notes this may also result in increased insurance premiums; however, the extent of
+any increase is indeterminable. The Department assumes any increase would be small because
+health carriers retain the authority to apply standards for medical necessity, credentialing, and
+
+contracting and are not required to cover any specific items or services that are not already
+covered under the plan. To the extent counties and municipalities purchase health insurance,
+theycouldseeanincreaseintheirhealthinsurancepremiums.
+AGENCIESCONTACTED:
+InsuranceDepartment
+
+[DELETED: B5N-ASADBYTEH.16SEBNATretoiecefrsspdbynyp:S.R,Dt1;R.L,R.1:HhadHnSsblrsgpiepsidintesetoiecefrn-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASADBYTEH.1h2EOFNWHnteYrofOrLdToTdTNATretoiecefrsspdbynypeitEdbyteSeadHeofRsinGlCtc1NyP;PtfrEtTsofS;G.AdR4wtordasf4wNyP;PtfrEtTsofS;G.Eirttisorrsaypyofgporbtatorhhiepbsfrmlorhles[]slpetoehg,ortotepnofegpcdofcehsofshiewoaersoftss,cefesagfmahhsepdbyadrofncmelurRA3Eifttprteofseiswnteseofpeofshdraditeirwdrefrttteofsewnpdbyayorteofhhc0p.Shc,ifp,slbesttoehisssadm1frdgmln,frcgpttoRA4,adfrc2pttoRA4.Ayshbspdslntbesttoaygrc3d,orcetnayorsrbspdbytei42EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSADBYTEHE(T#2NATretoiecefrsspdbynypLIdSeIY26FY27FY28FY2eIeIeIeItpdby(tpd(tpdb)bya)aeFlF0$0$0$gS0$0$0$gSe=Ctofbl*n=AdfgtocrctofbdPlSnIY26FY27FY28FY2yR0$0$0$yE0IeIeIlR0$0$0$lE0IeIeIsblrsgpiepsidorrdintesetopecefhsspdbyalddrofncmewnteirwefrteseteofseifpdbyarhhcep.Tebsisfmaghrc,d,orcetoseIeDtsstsblmyietlcmesbyastdetoigtenrofpseetopmcds.Ttnstsmyaortinidiep;h,teetoyieisi.TeDtasayiewdbeslbhcsrnteaytoayssfrmln,c,a]
+[DELETED: gadaentrdtocrayscisorssttaentadurtep.ToteetcsadmspehhiycdseanieintrhhiepSCeD]

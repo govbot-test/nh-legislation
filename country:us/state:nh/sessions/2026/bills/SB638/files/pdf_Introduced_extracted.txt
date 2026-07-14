@@ -1,0 +1,244 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB638-FN-ASINTRODUCED
+2026SESSION
+26-2271
+07/08
+638-FN
+ANACT relativetoestablishingasmallbusinesstariffstabilizationfund.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Fenton, Dist 10; Sen.
+Watters, Dist 4; Sen. Altschiller, Dist 24; Rep. Simpson, Rock. 33; Rep. Telerski,
+Hills.11
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a small business tariff stabilization fund to support the needs of small
+businesses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB638-FN-ASINTRODUCED
+26-2271
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoestablishingasmallbusinesstariffstabilizationfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This bill may be known and cited as "The Repeal the Tariff Tax on Small
+2 BusinessesAct."
+3 2 StatementofFindings.
+4 I. The commissioner of the department of business and economic affairs stated that
+5 Canadiantourismhasdeclinedbyabout30percent,attributing“difficultyandvolatilitybetweenthe
+6 Canadian government and the United States government” as a potential driver. A decrease in
+7 tourism has coincided with lower than projected meals and rooms tax revenue, meaning local
+8 propertytaxpayerswillhavetomakeupthedifference.
+9 II. AccordingtotheU.S.CensusBureau’sForeignTradeBureau,exportstoCanadaare42.6
+10 percent lower compared to last year. Dramatically lower exports mean less revenue for small
+11 businesses.
+12 III. Small businesses are the backbone of New Hampshire's economy. They make up 99
+13 percent of New Hampshire businesses. It is theduty of the general court to support them, including
+14 helping them navigate federal policy that has decreased their revenue through a decline in tourism
+15 andtrade. Previously,theMainStreetReliefFundprovidedstabilizationtosmallbusinessesduring
+16 asimilareconomicdisruption.
+17 3 New Subparagraph; The State and Its Government; State Treasurer; Application of Receipts.
+18 AmendRSA6:12,I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraph:
+19 (411) Moneys deposited into the small business tariff stabilization fund established
+20 inRSA12-O:23-b.
+21 4 New Section; The State and Its Government; Department of Business and Economic Affairs;
+22 Small Business Tariff Stabilization Fund. Amend RSA 12-O by inserting after section 23-a the
+23 followingnewsection:
+24 12-O:23-b SmallBusinessTariffStabilizationFund.
+25 I. There is hereby established the small business tariff stabilization fund, which shall be
+26 kept separate and distinct from all other funds and shall be continually appropriated to the
+27 department of business and economic affairs. The fund shall be used to provide stabilization grants
+28 tosmallbusinesses.
+29 II. Stabilization grants shall be distributed or expended by the department of business and
+30 economicaffairsforthefollowingpurposes:
+SB638-FN-ASINTRODUCED
+-Page2-
+1 (a) Addressing economic hardships small businesses face, including supply chain
+2 disruptionsandpreservingsmallbusinesseswithlowcapitalreserves;and
+3 (b) Supporting small businesses, as defined by the U.S. Small Business Administration,
+4 whose primary place of business is in New Hampshire and who are committed to preventing layoffs
+5 duetoincreasedcostsassociatedwithtariffs.
+6 III. The department may accept gifts, grants, donations or other moneys for the purposes of
+7 this section. Said moneys and any interest earned shall be deposited into the small business tariff
+8 stabilization fund and may be expended to accomplish the purposes of this section. The moneys in
+9 thisfundshallbenonlapsing.
+10 5 Department of Business and Economic Affairs; Appropriation. There is hereby appropriated
+11 to the department of business and economic affairs the sum of $2,500,000 for the fiscal year ending
+12 June 30, 2026, for the purpose of funding the small business tariff stabilization fund. The governor
+13 is authorized to draw a warrant for said sum out of any money in the treasury not otherwise
+14 appropriated.
+15 6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2271
+11/18/25
+SB638-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoestablishingasmallbusinesstariffstabilizationfund.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+Increase Increase Increase
+FundingSource(s) SmallBusinessTariffStabilizationFund
+Appropriations* $2,500,000 $0 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a Small Business Tariff Stabilization Fund, nonlapsing, continually
+appropriated to the Department of Business and Economic Affairs (BEA), for the purpose of
+providing stabilization grants to small businesses experiencing economic hardship associated
+with tariffs, supply chain disruptions, decreased tourism, or reduced export activity. The bill
+authorizes BEA to distribute grants, accept gifts, grants, and donations, and deposit such funds,
+along with any interest earned, into the dedicated nonlapsing fund. The bill appropriates
+$2,500,000 in General Funds for June 30, 2026 to capitalize the Small Business Tariff
+Stabilization Fund. However, the fund is not created until the bill’s effective date of January 1,
+2027, which falls in FY 2027. Because the appropriation is made in FY 2026 but the fund does
+notlegallyexistuntilJanuary1,2027,thedollarscannotbedepositedandtheappropriationwill
+notoccur.
+The Department of Business and Economic Affairs states they are unable to determine the cost
+toimplementthegrantprogram,includingapplicationreview,programoversight,reporting,and
+ongoing fund management. Additionally, the bill does not authorize any new positions if needed
+bytheBEAtoadministertheprogram.
+AGENCIESCONTACTED:
+DepartmentofBusinessandEconomicAffairs
+[DELETED: B6N-ASI6SEBNATretoegaslbstfsnf:S.PsK,Dt2;S.R,Dt1;S.F,Dt1;S,Dt4;S.A,Dt2;R.S,R.3;R.T.1:WsadMsblesaslbstfsnfdtosttensofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretoegaslbstfsnfeitEdbyteSeadHeofRsinGlCtc1StT.Tsblmybeknadcdas"eRlteTfTxonSBsA2StofFI.TecroftedtofbsadecassdtCntmhsddbyat30p,ag“yadvybntCngtadteUdSsg”asapld.Adeitmhscdwhlrtnpdmsadrstxr,mglpytswlhetomeuptedI.AgtoteU.CsBsFnTeB,estoCaae40ptlrcdtolty.Dylresmnlsrefrs1b2I.SlbsaetebeofNwHse.Tymeup93ptofNwHeb.Itistedyofteglcttostt,i4hgtmneflpytthsddtrrethadeint5adt.P,teMnStRfFdpdsntoslbsd6asrecd73NwS;TeSeadIsG;SeT;AnofR8AdRA6,I)byigarsh()tefgnws9()Msddioteslbstfsnfde0inRA114NwS;TeSeadIsG;DtofBsadEcA2SlBsTfSnF.AdRA1Obyigarsn2at3fgnws41bSlBsTfSnF5I.Teishyedteslbstfsnf,whslb6ktseaddtfmalorfsadslbecyadtot7dtofbsadeca.Tefdslbeudtopesng8toslb9I.Sngsslbeddoredbytedtofbsa0ecasfrtefgp]
+[DELETED: B6N-ASIPe2()Agechsslbsf,igsycdsadpgslbswhlwclr;a()Sgslb,asddbyteU.SlBsAwepypeofbsisinNwHeadwoaecdtopgldetoidcsadwhtI.Tedtmyatg,g,dsorormsfrtepsotss.Sdmsadayitedslbeddioteslbstsnfdadmybeedtoahtepsoftss.Temsitsfdslben05DtofBsadEcA;A.Teishya1totedtofbsadecastesmof$0frteflyre2Je3,2,frtepeoffgteslbstfsnf.Teg3isadtodwawtfrsdsmotofaymyintetynto4a56EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATretoegaslbstfsnfLIdSeIY26FY27FY28FY20$0$0$eFeIeIeIeIgSlBsTfSnF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesaSlBsTfSnF,n,cdtoteDtofBsadEcAs(,frtepeogsngstoslbsegechpaht,sycnd,ddt,orrdeta.TebsBAtodeg,atg,g,add,addtshfgwhayite,ioteddngf.Tebla0inGlFsfrJe3,26toceteSlBsTnF.H,tefdisntcdultebseedeofJy1,whfsinFY2.BeteanismeinFY26bttefddtlyetulJy1,2,tedsctbeddadteanwtoeDtofBsadEcAssstyaeuetodetecoittegtp,iganr,pmo,r,agfdm.A,tebldsntaeaynwpsifnyteBAtoartepSCtofBsadEcA]
+
+
+================================================================================
+
+Raw Text:
+SB638-FN-ASINTRODUCED
+2026SESSION
+26-2271
+07/08
+638-FN
+SENATEBILL
+ANACT relativetoestablishingasmallbusinesstariffstabilizationfund.
+SPONSORS: Sen. Perkins Kwoka, Dist 21; Sen. Rosenwald, Dist 13; Sen. Fenton, Dist 10; Sen.
+Watters, Dist 4; Sen. Altschiller, Dist 24; Rep. Simpson, Rock. 33; Rep. Telerski,
+Hills.11
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill establishes a small business tariff stabilization fund to support the needs of small
+businesses.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB638-FN-ASINTRODUCED
+26-2271
+07/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetoestablishingasmallbusinesstariffstabilizationfund.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 Short Title. This bill may be known and cited as "The Repeal the Tariff Tax on Small
+2 BusinessesAct."
+3 2 StatementofFindings.
+4 I. The commissioner of the department of business and economic affairs stated that
+5 Canadiantourismhasdeclinedbyabout30percent,attributing“difficultyandvolatilitybetweenthe
+6 Canadian government and the United States government” as a potential driver. A decrease in
+7 tourism has coincided with lower than projected meals and rooms tax revenue, meaning local
+8 propertytaxpayerswillhavetomakeupthedifference.
+9 II. AccordingtotheU.S.CensusBureau’sForeignTradeBureau,exportstoCanadaare42.6
+10 percent lower compared to last year. Dramatically lower exports mean less revenue for small
+11 businesses.
+12 III. Small businesses are the backbone of New Hampshire's economy. They make up 99
+13 percent of New Hampshire businesses. It is theduty of the general court to support them, including
+14 helping them navigate federal policy that has decreased their revenue through a decline in tourism
+15 andtrade. Previously,theMainStreetReliefFundprovidedstabilizationtosmallbusinessesduring
+16 asimilareconomicdisruption.
+17 3 New Subparagraph; The State and Its Government; State Treasurer; Application of Receipts.
+18 AmendRSA6:12,I(b)byinsertingaftersubparagraph(410)thefollowingnewsubparagraph:
+19 (411) Moneys deposited into the small business tariff stabilization fund established
+20 inRSA12-O:23-b.
+21 4 New Section; The State and Its Government; Department of Business and Economic Affairs;
+22 Small Business Tariff Stabilization Fund. Amend RSA 12-O by inserting after section 23-a the
+23 followingnewsection:
+24 12-O:23-b SmallBusinessTariffStabilizationFund.
+25 I. There is hereby established the small business tariff stabilization fund, which shall be
+26 kept separate and distinct from all other funds and shall be continually appropriated to the
+27 department of business and economic affairs. The fund shall be used to provide stabilization grants
+28 tosmallbusinesses.
+29 II. Stabilization grants shall be distributed or expended by the department of business and
+30 economicaffairsforthefollowingpurposes:
+
+SB638-FN-ASINTRODUCED
+-Page2-
+1 (a) Addressing economic hardships small businesses face, including supply chain
+2 disruptionsandpreservingsmallbusinesseswithlowcapitalreserves;and
+3 (b) Supporting small businesses, as defined by the U.S. Small Business Administration,
+4 whose primary place of business is in New Hampshire and who are committed to preventing layoffs
+5 duetoincreasedcostsassociatedwithtariffs.
+6 III. The department may accept gifts, grants, donations or other moneys for the purposes of
+7 this section. Said moneys and any interest earned shall be deposited into the small business tariff
+8 stabilization fund and may be expended to accomplish the purposes of this section. The moneys in
+9 thisfundshallbenonlapsing.
+10 5 Department of Business and Economic Affairs; Appropriation. There is hereby appropriated
+11 to the department of business and economic affairs the sum of $2,500,000 for the fiscal year ending
+12 June 30, 2026, for the purpose of funding the small business tariff stabilization fund. The governor
+13 is authorized to draw a warrant for said sum out of any money in the treasury not otherwise
+14 appropriated.
+15 6 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2271
+11/18/25
+SB638-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetoestablishingasmallbusinesstariffstabilizationfund.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Indeterminable Indeterminable Indeterminable
+Expenditures* $0
+Increase Increase Increase
+FundingSource(s) SmallBusinessTariffStabilizationFund
+Appropriations* $2,500,000 $0 $0 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill establishes a Small Business Tariff Stabilization Fund, nonlapsing, continually
+appropriated to the Department of Business and Economic Affairs (BEA), for the purpose of
+providing stabilization grants to small businesses experiencing economic hardship associated
+with tariffs, supply chain disruptions, decreased tourism, or reduced export activity. The bill
+authorizes BEA to distribute grants, accept gifts, grants, and donations, and deposit such funds,
+along with any interest earned, into the dedicated nonlapsing fund. The bill appropriates
+$2,500,000 in General Funds for June 30, 2026 to capitalize the Small Business Tariff
+Stabilization Fund. However, the fund is not created until the bill’s effective date of January 1,
+2027, which falls in FY 2027. Because the appropriation is made in FY 2026 but the fund does
+notlegallyexistuntilJanuary1,2027,thedollarscannotbedepositedandtheappropriationwill
+notoccur.
+The Department of Business and Economic Affairs states they are unable to determine the cost
+toimplementthegrantprogram,includingapplicationreview,programoversight,reporting,and
+ongoing fund management. Additionally, the bill does not authorize any new positions if needed
+bytheBEAtoadministertheprogram.
+AGENCIESCONTACTED:
+DepartmentofBusinessandEconomicAffairs
+
+[DELETED: B6N-ASI6SEBNATretoegaslbstfsnf:S.PsK,Dt2;S.R,Dt1;S.F,Dt1;S,Dt4;S.A,Dt2;R.S,R.3;R.T.1:WsadMsblesaslbstfsnfdtosttensofs-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASIEOFNWHnteYrofOrLdToTdTNATretoegaslbstfsnfeitEdbyteSeadHeofRsinGlCtc1StT.Tsblmybeknadcdas"eRlteTfTxonSBsA2StofFI.TecroftedtofbsadecassdtCntmhsddbyat30p,ag“yadvybntCngtadteUdSsg”asapld.Adeitmhscdwhlrtnpdmsadrstxr,mglpytswlhetomeuptedI.AgtoteU.CsBsFnTeB,estoCaae40ptlrcdtolty.Dylresmnlsrefrs1b2I.SlbsaetebeofNwHse.Tymeup93ptofNwHeb.Itistedyofteglcttostt,i4hgtmneflpytthsddtrrethadeint5adt.P,teMnStRfFdpdsntoslbsd6asrecd73NwS;TeSeadIsG;SeT;AnofR8AdRA6,I)byigarsh()tefgnws9()Msddioteslbstfsnfde0inRA114NwS;TeSeadIsG;DtofBsadEcA2SlBsTfSnF.AdRA1Obyigarsn2at3fgnws41bSlBsTfSnF5I.Teishyedteslbstfsnf,whslb6ktseaddtfmalorfsadslbecyadtot7dtofbsadeca.Tefdslbeudtopesng8toslb9I.Sngsslbeddoredbytedtofbsa0ecasfrtefgp]
+[DELETED: B6N-ASIPe2()Agechsslbsf,igsycdsadpgslbswhlwclr;a()Sgslb,asddbyteU.SlBsAwepypeofbsisinNwHeadwoaecdtopgldetoidcsadwhtI.Tedtmyatg,g,dsorormsfrtepsotss.Sdmsadayitedslbeddioteslbstsnfdadmybeedtoahtepsoftss.Temsitsfdslben05DtofBsadEcA;A.Teishya1totedtofbsadecastesmof$0frteflyre2Je3,2,frtepeoffgteslbstfsnf.Teg3isadtodwawtfrsdsmotofaymyintetynto4a56EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSINATretoegaslbstfsnfLIdSeIY26FY27FY28FY20$0$0$eFeIeIeIeIgSlBsTfSnF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblesaSlBsTfSnF,n,cdtoteDtofBsadEcAs(,frtepeogsngstoslbsegechpaht,sycnd,ddt,orrdeta.TebsBAtodeg,atg,g,add,addtshfgwhayite,ioteddngf.Tebla0inGlFsfrJe3,26toceteSlBsTnF.H,tefdisntcdultebseedeofJy1,whfsinFY2.BeteanismeinFY26bttefddtlyetulJy1,2,tedsctbeddadteanwtoeDtofBsadEcAssstyaeuetodetecoittegtp,iganr,pmo,r,agfdm.A,tebldsntaeaynwpsifnyteBAtoartepSCtofBsadEcA]

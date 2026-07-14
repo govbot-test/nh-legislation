@@ -1,0 +1,816 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+SB557-FN-ASINTRODUCED
+2026SESSION
+26-2144
+07/09
+557-FN
+ANACT prohibiting the sale of kratom products to anyone under 21 years of age and
+providingfortheregulationofthesaleofkratomproducts.
+SPONSORS: Sen. Altschiller, Dist 24; Sen. Watters, Dist 4; Sen. Prentiss, Dist 5; Rep. Manos,
+Rock.12;Rep.N.Murphy,Hills.12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill regulates kratom products and prohibits the sale of such products to anyone under 21
+yearsofage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB557-FN-ASINTRODUCED
+26-2144
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the sale of kratom products to anyone under 21 years of age and
+providingfortheregulationofthesaleofkratomproducts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownandcitedasthe"KratomConsumerProtectionAct."
+2 2 New Subparagraph; The State and Its Government; State Treasurer and State Accounts;
+3 Application of Receipts. Amend RSA 6:12, I(b) by inserting after subparagraph (410) the following
+4 newsubparagraph:
+5 (411) Moneys deposited in the kratom administration account fund under RSA 318-
+6 B:66.
+7 3 New Subdivision; Kratom. Amend RSA 318-B by inserting after section 50 the following new
+8 subdivision:
+9 Kratom
+10 318-B:51 ShortTitle. Thissubdivisionmaybeknownandcitedasthe"NewHampshireKratom
+11 Act."
+12 318-B:52 Definitions. Asusedinthissubdivision:
+13 I. "Contraband kratom products" means any kratom product that is prohibited by RSA 318-
+14 B:53.
+15 II. "Department"meanstheNewHampshiredepartmentofhealthandhumanservices.
+16 III. "Distributor"meansanyperson:
+17 (a) Whether located within or outside this state, other than a retailer, who sells or
+18 distributeskratomorkratomproductswithinorintothisstate;and
+19 (b) Engaged in this state in the business of manufacturing kratom products or any
+20 person engaged in the business of selling kratom or kratom products to dealers, or to other persons,
+21 for the purpose of resale only; provided that 75 percent of all kratom and kratom products sold by
+22 that person in this state are sold to retailers or other persons for resale and selling kratom and
+23 kratomproductsdirectlytoatleast20dealersorotherpersonsforresale;or
+24 (c) Maintaining one or more regular places of business in this state for that purpose;
+25 provided that 75 percent of the sold kratom and kratom products are purchased directly from the
+26 manufacturer and selling kratom and kratom products directly to at least 20 retailers or other
+27 personsforresale.
+28 IV. "Kratom"meansanypartoftheleafoftheplantmitragynaspeciosa.
+SB557-FN-ASINTRODUCED
+-Page2-
+1 V. "Kratom product" means a product containing any part or extract of the leaf of the plant
+2 mitragyna speciosa or an extract thereof including concentrated forms of kratom and product
+3 composedofkratomandotheringredients.
+4 VI. "Importer" means any person who imports into the United States, either directly or
+5 indirectly,kratomorakratomproductforsaleordistribution.
+6 VII. "Kratom extract" means a substance or compound obtained by extraction of the
+7 mitragyna speciosa leaf, intended for ingestion, containing only naturally occurring constituents of
+8 the kratom plant, generally recognized as safe (GRAS) substances, approved constituent articles,
+9 anddoesnotcontainanycontrolledsubstances.
+10 VIII. "Synthesizedmaterial"means:
+11 (a) An alkaloid or alkaloid derivative that has been created by chemical synthesis or
+12 biosynthetic means, including fermentation, recombinant techniques, yeast derived, and enzymatic
+13 techniques, rather than traditional food preparation techniques, such as heating or extracting that
+14 syntheticallyaltersthecompositionofanykratomalkaloidorconstituent;or
+15 (b) An alkaloid or alkaloid derivative contained in kratom that has been exposed to
+16 chemicals or processes that would confer a structural change in the alkaloids, resulting in material
+17 thathasbeenchemicallyaltered.
+18 IX. "Licensed," when used with reference to a manufacturer, importer, distributor, or
+19 retailer, means only those persons who hold a valid and current license issued under RSA 318-B:62
+20 for the type of business being engaged in. When the term “licensed” is used before a list of entities,
+21 such as “licensed manufacturer, importer, wholesale retailer, or retailer” such term shall be deemed
+22 toapplytoeachentityinsuchlist.
+23 X. "Manufacturer"meansanypersonwhomanufactures,fabricates,assembles,processes,or
+24 labelsakratomproduct.
+25 XI. "Person" means any individual, including an employee or agent, firm, fiduciary,
+26 partnership,corporation,trust,orassociation,howeverformed.
+27 XII. "Place of business" means any location where kratom or kratom products are sold,
+28 stored, or kept including: any storage room, attic, basement, garage or other facility immediately
+29 adjacenttothelocation. Italsoincludesanyreceptacle,hide,vessel,vehicle,airplane,ortrain.
+30 XIII. "Retailer" means any person, whether located within or outside of this state, who sells
+31 ordistributeskratomorkratomproductstoaconsumerinthisstate.
+32 XIV. "Sale" or "sell" means gifts, exchanges, and/or barter of kratom products, and shall
+33 includetheactofholding,storing,orkeepingkratomproductsataplaceofbusinessorwithaperson
+34 foranypurpose.
+35 318-B:53 KratomandKratomProductLimitations.
+36 I. Apersonshallnotprepare,distribute,sell,possess,oradvertiseanyofthefollowing:
+SB557-FN-ASINTRODUCED
+-Page3-
+1 (a) Akratomproductthatisaconventionalfoodorbeverageorlabeledasaconventional
+2 foodorbeverageproduct.
+3 (b) A kratom product that contains any substance that is poisonous, harmful, or
+4 injurioustohealth.
+5 (c) A kratom product that contains a substance other than a non-psychoactive substance
+6 necessaryforthepreparation,processing,ormanufacturingofsaidproduct.
+7 (d) A kratom extract that contains levels of residual solvents higher than is allowed in
+8 theU.S.Pharmacopeia467.
+9 (e) A kratom product containing any synthetic alkaloids including synthetic
+10 mitragynine, synthetic 7-hydroxymitragynine, or any other synthetically derived compounds of the
+11 kratomplant.
+12 (f) Akratomproductthatcontainsaheavymetalthatexceedsanyofthefollowinglimits
+13 inpartspermillion:
+14 (1) Arseniclessthan2.
+15 (2) Cadmiumlessthan0.82.
+16 (3) Leadlessthan1.2.
+17 (4) Mercurylessthan0.4.
+18 (g) A kratom product in any form that is combustible or intended to be used for
+19 vaporization,aerosolization,orinjection.
+20 (h) A kratom product in any form that mimics a candy product or is manufactured,
+21 packaged,oradvertisedinawaythatcanbereasonablyconsideredtoappealtoindividualsunder21
+22 yearsofage.
+23 (i) A kratom product not contained in child-resistant packaging that meets the
+24 standards set forth in 16 C.F.R 1700.15(b) when tested in accordance with 16 C.F.R 1700.20. All
+25 persons holding valid licenses pursuant to this subdivision shall ensure that kratom and/or any
+26 kratom product sold by the licensee and intended for human consumption shall meet requirements
+27 relatedtochild-resistantpackaging.
+28 (j) Akratomproductthatcontainsaconcentrationratiothatis:
+29 (1) Greaterthan150milligramsofmitragynineperserving;
+30 (2) Greaterthan0.5milligrams7-hydroxymitragyninepergram;or
+31 (3) Greaterthan1milligrams7-hydroxymitragynineperserving.
+32 (k) A kratom product that contains more than one percent of 7-hydroxymitragynine by
+33 percentageoftotalkratomalkaloids.
+34 (l) A kratom or a kratom product that does not provideclearly visible labeling including,
+35 butnotlimitedto:
+36 (1) Arecommendationtoconsultahealthcareprofessionalpriortouse;
+37 (2) Astatementthatkratommaybehabitforming;
+SB557-FN-ASINTRODUCED
+-Page4-
+1 (3) Astatementthatkratomisnotsafeforusewhilepregnantorbreastfeeding;
+2 (4) Awarningthattheproductmayresultindangerousmedicationinteractions;
+3 (5) The following statement: “These statements have not been evaluated by the
+4 United States Food and Drug Administration. This product is not intended to diagnose, treat, cure,
+5 orpreventanydisease.”;
+6 (6) The net quantity of contents declared in numerical count, such as the number of
+7 capsules,orinvolumeorweightinUnitedStatescustomarysystemterms;
+8 (A) The amount of mitragynine and/or 7-hydroxymitragynine contained in a
+9 servinginsaidkratomproduct;
+10 (B) Arecommendedamountofthekratomproductperserving;and
+11 (C) Arecommendednumberofservingsthatcanbesafelyconsumedina24-hour
+12 period.
+13 (7) The total amount of mitragynine and 7-hydroxymitragynine contained in the
+14 kratomproduct;
+15 (8) A statement that this product should be stored safely and out of the reach of
+16 children;
+17 (9) Thenameandphysicalnon-postofficeboxaddressofthemanufacturer.
+18 II. Kratom and kratom products sold at retail shall be sold by a licensed retailer and
+19 obtainedfromalicensedmanufacturer,importer,ordistributor.
+20 III. All kratom and kratom products that do not comply with this section shall be deemed
+21 contraband.
+22 318-B:54 AgeLimitsandSalesRestrictions.
+23 I. No person or entity shall distribute, sell, transfer, or advertise kratom or a kratom
+24 producttoapersonunder21yearsofage.
+25 II. All kratom products shall be kept behind the sales counter only accessible to store
+26 employees.
+27 III. Valid photo identification for proof of age shall be required for all kratom and kratom
+28 product purchases. Acceptable forms of government-issued identification shall include a recent
+29 photo of the individual to whom the identification has been issued showing the date of birth of the
+30 individualtoverifytheindividualis21yearsofageorolder. Acceptableformsofgovernment-issued
+31 identification are: a valid motor vehicle operator’s license issued by this state; a valid driver
+32 privilege card issued by this state; a valid identification card issued by the administrator of the
+33 divisionofmotorvehicles;avalidarmedservicesidentificationcard;oravalidpassport.
+34 318-B:55 Violations.
+35 I. A person or entity that violates RSA 318-B:53 or 318-B:54 may be subject to the
+36 suspension or revocation of its license pursuant to RSA 318-B:65 by the department and shall be
+37 subject to a fine by the department of not more than $1,000 for the first offense and not more than
+SB557-FN-ASINTRODUCED
+-Page5-
+1 $2,000forasecondoffense. Uponathirdviolation,thelicenseoftheretailershallberevokedbythe
+2 department,andtheretailershallbeprohibitedfromsellingkratomorkratomproducts.
+3 II. The department may require an independent third-party test of a kratom product by a
+4 laboratory of the department’s choice to determine if the product is prohibited by RSA 318-B:53, and
+5 the retailer shall be required to submit payment for the test and administrative costs associated
+6 with said testing. If the retailer does not tender payment to the department within 30 days of
+7 receipt of the invoice, the retailer may be subject to the suspension or revocation of its license
+8 pursuanttothissection.
+9 III. The department and the department of revenue administration are authorized to share
+10 informationtoeffectuatethepurposesofthissubdivision.
+11 IV. A person or entity who violates the provisions of this subdivision by adulterating a
+12 kratomproductwithanysubstancelistedinthissubdivisionshallbesubjecttopenaltiesassetforth
+13 inthissubdivision,orasthedepartmentmayestablishpursuanttoRSA541-A.
+14 V. All funds received by the department pursuant to this section shall be deposited into a
+15 fundestablishedunderRSA318-B:66.
+16 318-B:56 ConfiscationofContrabandKratomProductsandOtherProperty.
+17 I. All kratom products that are held for sale or distribution within this state in violation of
+18 the requirements of this subdivision are declared to be contraband goods and may be seized by the
+19 department or the department’s agents, or employees, or by any sheriff, or the sheriff’s deputy, or
+20 any police officer when directed by the department to do so, without a warrant. All contraband
+21 goodsseizedbythestateunderthissubdivisionshallbedestroyed.
+22 II. All other property on the premises of any distributor or retailer who or that, with the
+23 intent to defraud this state, fails to keep or make any record, return, report, or inventory; keeps or
+24 makes any false or fraudulent record, return, report, or inventory required by this subdivision; or
+25 attempts in any manner to evade or defeat the requirements of this subdivision shall be subject to
+26 forfeiturepursuanttoRSA318-B:17-b.
+27 318-B:57 Sale of Contraband Kratom Products Prohibited. No distributor shall sell, and no
+28 other person shall sell, offer for sale, display for sale, or possess with intent to sell any contraband
+29 kratomproductswithoutthewrittenrecordimposedbythissubdivision.
+30 318-B:58 PenaltiesforViolationsastoContrabandKratomProducts.
+31 I. Any person who violates any provision of RSA 318-B:57 shall be fined by the department
+32 asfollows:
+33 (a) Forafirstoffenseina24-monthperiod,finednotmorethan10timestheretailvalue
+34 ofthecontrabandkratomproducts;
+35 (b) For a second or subsequent offense in a 24-month period, fined not more than 25
+36 timestheretailvalueofthecontrabandkratomproducts.
+SB557-FN-ASINTRODUCED
+-Page6-
+1 II. Whendeterminingtheamount of afine sought or imposed under this section, evidence of
+2 mitigatingfactors,includinghistory,severity,andintentshallbeconsidered.
+3 III. Allfundsreceivedbythedepartmentpursuanttothissubdivisionshallbedepositedinto
+4 areceiptaccountestablishedunderRSA318-B:66.
+5 318-B:59 HearingsonKratomProducts.
+6 I. When any kratom products are confiscated under the provisions of RSA 318-B:56, upon
+7 the request of a person claiming an interest in the kratom, the department shall conduct a hearing
+8 in accordance with the procedures as set forth in this subdivision, or as established by the
+9 departmentpursuanttoRSA541-A.
+10 II. When a fine, or license suspension or revocation occurs under the provisions of this
+11 subdivision, upon the request of the aggrieved party, the department shall conduct a hearing in
+12 accordance with the procedures as set forth in this subdivision, or as established by the department
+13 pursuanttoRSA541-A.
+14 III. When a person aggrieved by any action under this subdivision, upon the request of a
+15 person claiming an interest in the kratom, the department shall conduct a hearing in accordance
+16 withthe procedures as set forthin this subdivision, or as established by the department pursuant to
+17 RSA541-A.
+18 318-B:60 Appeals to Superior Court. Any person aggrieved by any decision of the department
+19 under the provisions of this subdivision may appeal the decision within 30 days thereafter to the
+20 superiorcourt.
+21 318-B:61 Payment of Refunds. All moneys received by the department under the provisions of
+22 this subdivision, unless otherwise designated, shall be paid to the general fund. Whenever the
+23 department determines that any person is entitled to a refund of any moneys paid by that person
+24 under the provisions of this subdivision, or whenever a court of competent jurisdiction orders a
+25 refund of any paid moneys, the state treasurer shall, upon certification by the department and with
+26 the approval of the controller, pay the refunds from any moneys in the treasury not appropriated
+27 withoutanyfurtheractorresolutionmakingappropriationforanymoneys.
+28 318-B:62 Manufacturer,Importer,Distributor,andRetailerLicensesRequired.
+29 I. Each person engaging in the business of selling kratom or kratom products in this state,
+30 including any manufacturer, importer, distributor, or retailer, shall secure a license from the
+31 departmentbeforeengagingorcontinuingtoengageinthatbusinessinaccordancewiththissection.
+32 A separate application and license shall be required for each place of business operated by a
+33 distributor, manufacturer, importer, distributor, or retailer. If the applicant for a license does not
+34 have a place of business in this state, the license shall be issued for such applicant’s principal place
+35 of business, wherever located. A licensee shall notify the department within 30 days that it changes
+36 its principal place of business. A separate license shall be required for each class of business if the
+37 applicant is engaged in more than one of the activities required to be licensed by this section. Each
+SB557-FN-ASINTRODUCED
+-Page7-
+1 license shall expire after one year at which time said license shall be renewed in accordance with
+2 thissection.
+3 II. Effective April 1, 2027 until December 31, 2029, each initial licensing application for a
+4 manufacturer’s, importer’s, or distributor’s license shall be accompanied by a non-refundable initial
+5 application fee of $2,500. Effective April 1, 2027 until December 31, 2029, each initial licensing
+6 application for a retailer’s license shall be accompanied by a non-refundable initial application fee of
+7 $1,500.
+8 III. Eachlicense,includinganymanufacturer,importer,distributor,orretailerlicense,shall
+9 be renewed annually. Effective April 1, 2027 until December 31, 2029, each license renewal of a
+10 manufacturer’s, importer’s, or distributor’s license shall be accompanied by a non-refundable
+11 renewal fee of $2,500. Effective April 1, 2027 until December 31, 2029, each license renewal of a
+12 retailer’slicenseshallbeaccompaniedbyanon-refundablerenewalfeeof$1,500.
+13 IV. EffectiveJanuary1,2029,thedirectorofthedepartmentshallbeauthorizedtoestablish
+14 by rule and regulation, pursuant to RSA 541-A, reasonable initial application fees and license
+15 renewalfeesforkratommanufacturer’s,importer’s,distributor’s,andretaillicenses.
+16 V. Eachissuedlicenseshallbeprominentlydisplayedonthepremises,ifany,coveredbythe
+17 license.
+18 VI. A manufacturer or importer may sell or distribute kratom and/or kratom products to a
+19 person located or doing business within the state only if such person is a licensed distributor. An
+20 importer may obtain kratom and/or kratom products only from a licensed manufacturer. A
+21 distributor may sell or distribute kratom and/or kratom products to a person located or doing
+22 business within this state only if such person is a licensed distributor or retailer. A distributor may
+23 obtain kratom and/or kratom products only from a licensed manufacturer, importer, or distributor.
+24 Aretailermayobtainkratomand/orkratomproductsonlyfromalicenseddistributor.
+25 VII.(a) No license under this subdivision may be granted, maintained, or renewed if the
+26 applicant,oranycombinationofpersonsowningdirectlyorindirectlyanyinterestsintheapplicant:
+27 (1) Isdelinquentinanytaxfilingsforonemonthormore;or
+28 (2) Hadalicenseunderthissubdivisionrevokedwithinthepast2years.
+29 (b) No person shall apply for a new license, or renewal of a license and no license shall
+30 be issued or renewed for any person, unless all outstanding fines, fees, or other charges relating to
+31 anylicenseheldbythatpersonhavebeenpaid.
+32 (c) No license shall beissued relatingtoabusiness at anyspecific locationuntil all prior
+33 licenses relating to that location have been officially terminated and all fines, fees, or charges
+34 relating to the prior licenses have been paid or otherwise resolved or if the department has found
+35 that the person applying for the new license is not acting as an agent for the prior licensee who is
+36 subject to any such related fines, fees, or charges that are still due. Evidence of such agency status
+SB557-FN-ASINTRODUCED
+-Page8-
+1 shall include a direct familial relationship and/or employment, contractual, or other formal financial
+2 orbusinessrelationshipwiththepriorlicensee.
+3 (d) No person shall apply for a new license pertaining to a specific location to evade
+4 paymentofanyfines,fees,orotherchargesrelatingtoapriorlicenseforthatlocation.
+5 (e) No new license shall be issued for a business at a specific location for which a license
+6 hasalreadyissuedunlessthereisabonafide,good-faithchangeinownershipofthebusinessatthat
+7 location.
+8 (f) Nolicenseorpermitshallbeissued,renewed,ormaintainedforanyperson,including
+9 the owners of the business being licensed, who has been convicted of violating any criminal law
+10 relating to tobacco products, electronic nicotine-delivery system products, kratom and/or kratom
+11 products, the payment of taxes, fraud, and/or has been ordered to pay civil fines of more than
+12 $25,000 for violations of any civil law relating to tobacco products, electronic nicotine-delivery
+13 systemproducts,kratomand/orkratomproducts,thepaymentoftaxes,orfraud.
+14 VIII. All funds received by the department pursuant to this section shall be deposited into a
+15 fundestablishedunderRSA318-B:66.
+16 318-B:63 Penalties for Unlicensed Business. Any manufacturer, importer, distributor, or
+17 retailerwhosells,offersforsale,orpossesseswithintenttosell,kratomorkratomproducts,without
+18 a license as provided in RSA 318-B:62, shall be fined in accordance with the provisions of, and the
+19 penaltiescontainedinRSA318-B:64.
+20 318-B:64 Penaltyfor OperatingWithoutaLicense. Anyindividualor businesswhoviolates this
+21 subdivision by selling or conveying kratom or a kratom product without a retail license or a license
+22 under this subdivision shall be cited for that violation and shall be fined $5,000 dollars by the
+23 department. All funds received by the department pursuant to this section shall be deposited into a
+24 fundestablishedunderRSA318-B:66.
+25 318-B:65 Suspension or Revocation of License. The department may suspend or revoke any
+26 license under this subdivision for failure of the licensee to comply with any provision of this
+27 subdivision or with any provision of any other law or ordinance relative to the sale or purchase of
+28 kratom or kratom products. The department may also suspend or revoke any license for failure of
+29 the licensee to comply with any provision of this subdivision, and, for the purpose of determining
+30 whether the licensee is complying with any provision of this subdivision, the department and its
+31 agents shall be empowered to examine the books, papers, and records of any licensee. The
+32 departmentshallrevokethelicenseofanypersonwhowouldbeineligibletoobtainaneworrenewa
+33 license by reason of any of the conditions for licensure provided in this subdivision. Any person
+34 aggrieved by the suspension or revocation may apply to the department for a hearing as provided in
+35 thissubdivision.
+36 318-B:66 Fund Established. All funds received pursuant to this subdivision shall be payable to
+37 the department. There is to be established a fund to be known as the "Kratom Administration
+SB557-FN-ASINTRODUCED
+-Page9-
+1 Account Fund" which shall be a separate fund within the department. Penalties, fines, application
+2 fees, and license renewal fees shall be deposited into the fund. Moneys deposited into the fund shall
+3 be transferred to the department and shall be expended for the purpose of administering the
+4 provisionofthissubdivision.
+5 318-B:67 Rules and Regulation. The department shall have the authority to adopt additional
+6 rules and regulations as necessary to fulfill the requirements of this subdivision, pursuant to RSA
+7 541-A.
+8 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+LBA
+26-2144
+Revised02/26/2026
+SB557-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibiting the sale of kratom products to anyone under 21 years of age and
+providingfortheregulationofthesaleofkratomproducts.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$69,000- $275,000- $275,000-
+Revenue $0
+$155,000 $612,500 $612,500
+RevenueFund(s) Kratomfeeandfinerevenue
+Expenditures* $0 $1.75million+ $855,000 $891,000
+FundingSource(s) Kratomadministrationaccountfunds;stategeneralfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates a regulatory framework for the sale of kratom products in the state. It prohibits
+sales to individuals under 21, requires licensure for all manufacturers, importers, distributors,
+and retailers operating in or into the state, and establishes product safety, labeling, and
+packagingstandards. Thebillauthorizesenforcementactionsincludingfines,licenserevocation,
+productseizure,anddestructionofnoncompliantgoods. ItdirectstheDepartmentofHealthand
+Human Services to administer the program, including inspections, hearings, and rulemaking,
+and establishes a dedicated Kratom Administration Account Fund to receive licensing fees and
+penalties. The bill takes effect January 1, 2027, with licensing and enforcement beginning April
+1,2027.
+The bill establishes licensing fees of $2,500 for manufacturers, importers, and distributors and
+$1,500 for retailers from April 1, 2027 through December 31, 2029. The Department of Health
+and Human Services estimates annual revenue between $275,000 to $612,500, based on
+projections of 150 to 350 retailers, 10 to 15 manufacturers or distributors, and minimal fine
+revenue. (Given the bill's effective date, the it is assumed that 25 percent of this amount will be
+collected in FY27, with the full amount collected in later years.) The Department expects,
+however, that costs will exceed revenues, particularly in the first year of implementation.
+Estimated costs range from $1.75 million to $2 million in FY27, largely due to one-time IT
+system development costs of $1to$1.25 million, plus ongoingstaffing, indirect costs, and system
+maintenance. The Department expects that staffing needs will necessitate hiring one
+supervisor, three or more compliance managers, and an IT developer/programmer, at a cost of
+$580,000+ per year. The Department also anticipates that, due to its unfamiliarity with the law
+enforcement activities required by the bill, it will need to expand upon its current contract with
+the NH Liquor Commission, which is currently limited to tobacco enforcement. In total, the
+Department expects that ongoing operational costs will be $855,000 in FY28 and $891,000 in
+FY29. For the purposes of this fiscal note, it is assumed that any costs not covered by the
+dedicatedKratomfundwillbepaidforwithstategeneralfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B5N-ASI6SEBNATpgteseofkmpstoaeur21ysofaeagfrternofteseofkmp:S.A,Dt2;S.W,Dt4;S.P,Dt5;R.M.1;R.N.M,H.1:Jsblrskmpsadpsteseofshpstoaeur2sofa-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATpgteseofkmpstoaeur21ysofaeagfrternofteseofkmpeitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknadcdaste"mCrPnA2NwS;TeSeadIsG;SeTradSeAAnofR.AdRA6,I)byigarsh()tefnws()MsddintekmanatfdurRA3B3NwS;K.AdRA3Bbyigarsn50tefgnsK031StT.Tssnmybeknadcdaste"wHeK1A232D.Asudintss3I."dkmp"msaykmptttispdbyRA34B5I.""msteNwHedtofhhadhns6I.""msayp7()Wrldwnoroetss,ortnar,wosso8dskmorkmpswnoriotss;a9()Edintsseintebsofmgkmpsora0pnedintebsofsgkmorkmpstod,ortoorp1frtepeofreo;pdtt75ptofalkmadkmpssdb2ttpnintsseaesdtorsororpsfrreadsgkma3kmpsdytoatlt20dsororpsfrr;o4()Mgoeormerrpsofbsintssefrttp5pdtt75ptoftesdkmadkmpsaepddyfmt6mradsgkmadkmpsdytoatlt20rsoro7psfrr8I.""msayptoftelfofteptmas]
+[DELETED: B5N-ASIPe2V."mp"msaptcgayptoretoftelfoftepmasaoranettfigcdfsofkmadpcdofkmadoriV.""msaypnwoisioteUdS,erdyoi,kmorakmptfrseordV."me"msaseorcdodbyenoftmasal,idfri,cgoynyogcsotekmp,gyrdasse()s,adctaaddsntcnaycds0V."dm"m1()Anadoraddetthsbncdbyclsso2bcm,igf,rtt,ytd,ade3t,rrtntlfdpnt,shashgoregt4syastecnofaykmadorc;o5()Anadoraddecdinkmtthsbnedt6csorpsttwdcraslceintea,rginm7tthsbncya8I.""wnudwhretoam,i,d,o9r,msoytepswohdavdadctleidurRA30frteteofbsbgedi.Wntetm“”isudbealtofe1shas“dm,i,wer,orr”shtmslbed2toaytoeheyinshl3X.""msaypnwom,f,a,p,o4lsakmp5X.""msayi,iganeeora,f,f6p,c,t,ora,hrf7X."eofb"msaylnwekmorkmpsaes8s,orkti:ayser,a,b,geororfyi9attotel.Itaoisayr,h,v,v,a,ort0X.""msayp,wrldwnoroeoftss,wos1ordskmorkmpstoacrintss2X.""or""msg,e,arbrofkmp,ads3ieteatofh,s,orkgkmpsatapeofbsorwhap4frayp533KmadKmPtL6I.Apnslntp,d,s,p,oraeayoftef]
+[DELETED: B5N-ASIPe3()Akmptttisaclfdorbeorldasacfdorbep()Akmptttcsaysettisp,h,oistoh()Akmptttcsaseortnanesnyfrtep,p,ormgofsdp()AkmetttcslsofrlsshrtnisaditeU.Pa4()Akmptcgayscasigs0m,sc7,orayorsyddcsoft1kmp2()Akmptttcsahymlttesayoftefgl3inpsprm4()Aclstn25()Cmlstn06()Ldlstn17()Mylstn08()Akmptinayfmttisceoridtobeudf9v,a,ori0()Akmptinayfmttmsacyptorism1p,oradinawyttcnberycdtoaltoisur22ysofa3()Akmptntcdinctpgttmst4ssstfhin16CR1)wntdinaewh16CR1.A5pshgvdlspttotssnsleettkmara6kmptsdbyteleadidfrhncnslmtr7rdtoctp8()Akmptttcsacnrotti9()Grtn10msofmeprs0()Grtn05ms7eprg;o1()Grtn1ms7eprs2()Akmptttcsmetnoeptof7eb3peoftlkma4()Akmorakmptttdsntpecyvelgi5btntldt6()Arntoctahhceplprtou7()Astttkmmybehtf]
+[DELETED: B5N-ASIPe4()Astttkmisntsefrueweptorb()Awgttteptmyrtindsmni()Tefgs:“esshentbnedbytUdSsFdadDgA.Tsptisntidtod,t,corptayd()Tentqyofcsddinnlc,shastenroc,orinveorwtinUdSscysmt()Teatofmear7ecdinsginsdkmp0()Ardatoftekmptprs;a1()Ardnrofssttcnbesycdina22p3()Tetlatofmead7ecdint4kmp5()Asttttsptsdbesdsyadotofterho6c7()Teneadplntoebxasoftem8I.Kmadkmpssdatrlslbesdbyaldrra9odfmaldm,i,ord0I.Alkmadkmpsttdontcywhtssnslbed1c234AeLsadSsR3I.Nopnoreysld,s,t,oraekmorak4pttoapnur21ysofa5I.Alkmpsslbektbdtesscroyaetos6e7I.Vdpoinfrpfofaeslberdfralkmadk8ptp.Aefsofgdinsliear9poofteiltowmteinhsbnidsgtedeofbhoft0iltovyteilis21ysofaeoro.Aefsofg1ina:avdmrveosleidbytss;avdd2pecdidbytss;avdincdidbytearoft3dnofmrv;avdadssinc;oravdp435V5I.ApnoreyttvsRA33or34mybesttot6snorrnofislepttoRA35bytedtadslb7sttoafebytedtofntmetn$0frteftoeadntmet]
+[DELETED: B5N-ASIPe5$0frasdo.Unatdv,teleofterrslberdbytd,adterrslbepdfmsgkmorkmpI.TedtmyreanittyttofakmptbylyoftedscetodeifteptispdbyRA3,aterrslberdtostptfrtettadaecsawhsdt.Ifterrdsnttrpttotedtwn30dsortoftei,terrmybesttotesnorrnofislpttotssI.Tedtadtedtofreanaeadtos0intoeetepsoftss1I.Apnoreywovstepsoftssnbyag2kmptwhayseldintssnslbesttopsasstf3intss,orastedtmyehpttoRA54V.Alfsrdbytedtpttotssnslbeddio5fdedurRA3636CnofCdKmPsadOrP7I.Alkmpsttaehdfrseordnwntsseinvno8tersoftssnaeddtobecdgsadmybesdbyt9dtortedsa,ore,orbyays,ortessd,o0aypeorwnddbytedttodos,wtaw.Alc1gssdbyteseurtssnslbed2I.Alorpyontepsofaydrorrrwoort,wht3ittoddtss,fstokpormeayr,r,r,ori;kso4msayfeorftr,r,r,oriyrdbytss;o5asinaymrtoeeordttersoftssnslbestt6fepttoRA3737SeofCdKmPsP.Nodrsls,adn8orpnsls,orfrs,dyfrs,orpswhittoslayc9kmpswttewnrdidbytss038PsfrVsastoCdKmP1I.AypnwovsaypnofRA37slbefdbyted2asf3()Fraftoeina2hp,fdntmetn10tsterlv4oftecdkmp5()Frasdorstoeina2hp,fdntmetn26tsterlveoftecdkmp]
+[DELETED: B5N-ASIPe6I.Wndgteatofafestoridurtss,eeomgf,igh,s,aditslbecI.AlfsrdbytedtpttotssnslbeddiartatedurRA339HsonKmPI.WnaykmpsaecdurtepsofRA3,utertofapncganitintek,tedtslctahinaewhtepsasstfhintss,orasedbytdtpttoRA50I.Wnaf,orlesnorrnosurtepsoft1s,untertofteadp,tedtslctahgi2aewhtepsasstfhintss,orasedbyted3pttoRA54I.Wnapnadbyayanurtss,untertof5pncganitintek,tedtslctahgina6whtepsasstfhintss,orasedbytedtptt7RA5830AstoSrC.Aypnadbyaydnofted9urtepsoftssnmyaltednwn30dstrtot0src131PtofR.Almsrdbytedturtepso2tss,usoed,slbepdtoteglf.Wrt3dtdsttaypnisedtoardofaymspdbyttp4urtepsoftss,orwractofctjnos5rdofaypdm,tesetrs,uncnbytedtadw6tealoftec,pytersfmaymsintetynta7wtayfratorrnmganfraym832M,I,D,adRrLsR9I.Ehpnegintebsofsgkmorkmpsintss0igaym,i,d,orr,slsealefmt1dtbeegorcgtoeeinttbsinaewhtss2Aseanadleslberdfrehpeofbsodby3d,m,i,d,orr.Ifteatfraledsn4heapeofbsintss,teleslbeidfrshasplp5ofb,wrl.Aleslnytedtwn30dsttitc6isplpeofb.Aseleslberdfrehcsofbsift7atisedinmetnoeofteasrdtobeldbytss.E]
+[DELETED: B5N-ASIPe7lesleearoeyratwhtesdleslberdinaewtssI.EeAl1,27ulDr3,2,ehillganfrm,i,ordsleslbeadbyaneianfeof$.EeAl1,27ulDr3,2,ehillanfrarsleslbeadbyaneilanfeo$I.Ehl,igaym,i,d,orrrl,sberda.EeAl1,27ulDr3,2,ehlerlof0m,i,ordsleslbeadbyan1rlfeof$.EeAl1,27ulDr3,2,ehlerlof2rsleslbeadbyanerlfeof$3I.EeJy1,2,tedroftedtslbeadtoe4byreadr,pttoRA5,reilanfsadl5rlfsfrkmm,i,d,adrll6V.Ehidleslbepyddontep,ifa,cdbyt7l8V.Amrorirmyslordekmarkmpsto9pnldordgbswnteseoyifshpnisaldd.A0irmyonkmarkmpsoyfmaldm.1drmyslordekmarkmpstoapnldord2bswntsseoyifshpnisalddrorr.Adrm3onkmarkmpsoyfmaldm,i,ord4Arrmyonkmarkmpsoyfmaldd5V)Noleurtssnmybeg,m,orrdift6a,oraycnofpsogdyoriyayisintea7()Isdtinaytxfsfroemhorm;o8()Hdaleurtssnrdwntept2y9()Nopnslayfranwl,orrlofaleadnoles0beidorrdfrayp,usalogf,f,ororcsrgt1aylehdbyttpnhebnp2()Noleslbeidrgtoabsataysclnulalp3lsrgtottlnhebnoytdadalf,f,orc4rgtoteprlshebnpdoroerdoriftedthsf5tttepnagfrtenwleisntagasanatfrteprlewoi6sttoayshrdf,f,orcsttaesld.Eeofshays]
+[DELETED: B5N-ASIPe8slieadtflrpare,c,ororflforbsrpwhteprl()Nopnslayfranwlepgtoasclntoeptofayf,f,ororcsrgtoaprlefrttl()Nonwleslbeidfrabsatasclnfrwhalhsayidusteisabaf,ghceinopoftebsattl()Noleorptslbei,r,ormdfrayp,iteosoftebsbgl,wohsbncdofvgaycll0rgtotop,ecnysmp,kmark1p,teptoft,f,arhsbnodtopyclfsofmet2$0frvsofaycllwrgtotop,ecn3smp,kmarkmp,teptoft,orf4V.Alfsrdbytedtpttotssnslbeddio5fdedurRA3633PsfrUdB.Aym,i,d,o7rrwos,osfrs,orpswhittos,kmorkmp,w8aleaspdinRA3,slbefdinaewhtepso,adt9pscdinRA3034PyfrOgWtaL.Ayilorbswovst1snbysgorcgkmorakmptwtarlleoral2urtssnslbecdfrttvnadslbefd$0dsbyt3d.Alfsrdbytedtpttotssnslbeddio4fdedurRA3535SnorRnofL.Tedtmysdorrea6leurtssnfrfeofteletocywhaypnoft7snorwhaypnofayorlworoeretoteseorpeo8kmorkmp.Tedtmyaosdorreaylefrfeo9teletocywhaypnoftss,a,frtepeofd0wrteleiscgwhaypnoftss,tedtadi1asslbeedtoeeteb,p,adrsofayl.T2dtslreteleofaypnwowdbeietoonanworrw3lebyrnofayoftecsfrlepdintss.Ayp4adbytesnorrnmyaytotedtfrahgaspdi5tss636FdE.Alfsrdpttotssnslbepet7ted.Teistobeedafdtobeknaste"mA]
+[DELETED: B5N-ASIPe9AtF"whslbeasefdwnted.P,f,af,adlerlfsslbeddiotef.Msddiotefdsbetdtotedtadslbeedfrtepeofagtpnoftss37RsadR.Tedtslheteaytoatarsadrsasnytofltersoftss,pttoR54EeD.TsatslteetJy1,2]
+[DELETED: d0B5-FLNSINATpgteseofkmpstoaeur21ysofaeagfrternofteseofkmpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20-$0-$00$0$eFmfeadfer0$5m+$0$gSmanatf;seglf0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblcsaryfkfrteseofkmpsintes.Itpstoisur2,rslefralm,i,ddrsoginoriotes,adespts,l,ags.Teblasetasigf,lerts,addnofntg.ItdsteDtofHhanSstoartep,igi,h,adrdesaddKmAnAtFdtorelgfsa.TebltsetJy1,2,whlgadetbgA,2ebleslgfsof$0frm,i,addsa0frrsfmAl1,27thDr3,2.TeDtofHdHnSsesalrebn$0to$,bdosof10to30r,10to15msord,admlf.(ntebseed,teitisadtt25ptoftsatwlbdinF,whteflatcdinlry)TeDte,ttcswledr,pyinteftyrofidcsrefm$5mnto$2mninF,lydetooeI]
+[DELETED: mdtcsof$1to$5m,psogs,itc,ads.TeDtesttsgnswlnehgo,teormecem,adanITd,atacto+pry.TeDtaoast,detoisuywhteltasrdbyteb,itwlndtoedunisctctweNHLrC,whiscyldtotoe.Int,ttesttogolcswlbe$0inF8ad$0i.Frtepsoftsfln,itisadttaycsntcdbytdKmfdwlbepdfrwhseglfSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB557-FN-ASINTRODUCED
+2026SESSION
+26-2144
+07/09
+557-FN
+SENATEBILL
+ANACT prohibiting the sale of kratom products to anyone under 21 years of age and
+providingfortheregulationofthesaleofkratomproducts.
+SPONSORS: Sen. Altschiller, Dist 24; Sen. Watters, Dist 4; Sen. Prentiss, Dist 5; Rep. Manos,
+Rock.12;Rep.N.Murphy,Hills.12
+COMMITTEE: Judiciary
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill regulates kratom products and prohibits the sale of such products to anyone under 21
+yearsofage.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB557-FN-ASINTRODUCED
+26-2144
+07/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT prohibiting the sale of kratom products to anyone under 21 years of age and
+providingfortheregulationofthesaleofkratomproducts.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 ShortTitle. Thisactmaybeknownandcitedasthe"KratomConsumerProtectionAct."
+2 2 New Subparagraph; The State and Its Government; State Treasurer and State Accounts;
+3 Application of Receipts. Amend RSA 6:12, I(b) by inserting after subparagraph (410) the following
+4 newsubparagraph:
+5 (411) Moneys deposited in the kratom administration account fund under RSA 318-
+6 B:66.
+7 3 New Subdivision; Kratom. Amend RSA 318-B by inserting after section 50 the following new
+8 subdivision:
+9 Kratom
+10 318-B:51 ShortTitle. Thissubdivisionmaybeknownandcitedasthe"NewHampshireKratom
+11 Act."
+12 318-B:52 Definitions. Asusedinthissubdivision:
+13 I. "Contraband kratom products" means any kratom product that is prohibited by RSA 318-
+14 B:53.
+15 II. "Department"meanstheNewHampshiredepartmentofhealthandhumanservices.
+16 III. "Distributor"meansanyperson:
+17 (a) Whether located within or outside this state, other than a retailer, who sells or
+18 distributeskratomorkratomproductswithinorintothisstate;and
+19 (b) Engaged in this state in the business of manufacturing kratom products or any
+20 person engaged in the business of selling kratom or kratom products to dealers, or to other persons,
+21 for the purpose of resale only; provided that 75 percent of all kratom and kratom products sold by
+22 that person in this state are sold to retailers or other persons for resale and selling kratom and
+23 kratomproductsdirectlytoatleast20dealersorotherpersonsforresale;or
+24 (c) Maintaining one or more regular places of business in this state for that purpose;
+25 provided that 75 percent of the sold kratom and kratom products are purchased directly from the
+26 manufacturer and selling kratom and kratom products directly to at least 20 retailers or other
+27 personsforresale.
+28 IV. "Kratom"meansanypartoftheleafoftheplantmitragynaspeciosa.
+
+SB557-FN-ASINTRODUCED
+-Page2-
+1 V. "Kratom product" means a product containing any part or extract of the leaf of the plant
+2 mitragyna speciosa or an extract thereof including concentrated forms of kratom and product
+3 composedofkratomandotheringredients.
+4 VI. "Importer" means any person who imports into the United States, either directly or
+5 indirectly,kratomorakratomproductforsaleordistribution.
+6 VII. "Kratom extract" means a substance or compound obtained by extraction of the
+7 mitragyna speciosa leaf, intended for ingestion, containing only naturally occurring constituents of
+8 the kratom plant, generally recognized as safe (GRAS) substances, approved constituent articles,
+9 anddoesnotcontainanycontrolledsubstances.
+10 VIII. "Synthesizedmaterial"means:
+11 (a) An alkaloid or alkaloid derivative that has been created by chemical synthesis or
+12 biosynthetic means, including fermentation, recombinant techniques, yeast derived, and enzymatic
+13 techniques, rather than traditional food preparation techniques, such as heating or extracting that
+14 syntheticallyaltersthecompositionofanykratomalkaloidorconstituent;or
+15 (b) An alkaloid or alkaloid derivative contained in kratom that has been exposed to
+16 chemicals or processes that would confer a structural change in the alkaloids, resulting in material
+17 thathasbeenchemicallyaltered.
+18 IX. "Licensed," when used with reference to a manufacturer, importer, distributor, or
+19 retailer, means only those persons who hold a valid and current license issued under RSA 318-B:62
+20 for the type of business being engaged in. When the term “licensed” is used before a list of entities,
+21 such as “licensed manufacturer, importer, wholesale retailer, or retailer” such term shall be deemed
+22 toapplytoeachentityinsuchlist.
+23 X. "Manufacturer"meansanypersonwhomanufactures,fabricates,assembles,processes,or
+24 labelsakratomproduct.
+25 XI. "Person" means any individual, including an employee or agent, firm, fiduciary,
+26 partnership,corporation,trust,orassociation,howeverformed.
+27 XII. "Place of business" means any location where kratom or kratom products are sold,
+28 stored, or kept including: any storage room, attic, basement, garage or other facility immediately
+29 adjacenttothelocation. Italsoincludesanyreceptacle,hide,vessel,vehicle,airplane,ortrain.
+30 XIII. "Retailer" means any person, whether located within or outside of this state, who sells
+31 ordistributeskratomorkratomproductstoaconsumerinthisstate.
+32 XIV. "Sale" or "sell" means gifts, exchanges, and/or barter of kratom products, and shall
+33 includetheactofholding,storing,orkeepingkratomproductsataplaceofbusinessorwithaperson
+34 foranypurpose.
+35 318-B:53 KratomandKratomProductLimitations.
+36 I. Apersonshallnotprepare,distribute,sell,possess,oradvertiseanyofthefollowing:
+
+SB557-FN-ASINTRODUCED
+-Page3-
+1 (a) Akratomproductthatisaconventionalfoodorbeverageorlabeledasaconventional
+2 foodorbeverageproduct.
+3 (b) A kratom product that contains any substance that is poisonous, harmful, or
+4 injurioustohealth.
+5 (c) A kratom product that contains a substance other than a non-psychoactive substance
+6 necessaryforthepreparation,processing,ormanufacturingofsaidproduct.
+7 (d) A kratom extract that contains levels of residual solvents higher than is allowed in
+8 theU.S.Pharmacopeia467.
+9 (e) A kratom product containing any synthetic alkaloids including synthetic
+10 mitragynine, synthetic 7-hydroxymitragynine, or any other synthetically derived compounds of the
+11 kratomplant.
+12 (f) Akratomproductthatcontainsaheavymetalthatexceedsanyofthefollowinglimits
+13 inpartspermillion:
+14 (1) Arseniclessthan2.
+15 (2) Cadmiumlessthan0.82.
+16 (3) Leadlessthan1.2.
+17 (4) Mercurylessthan0.4.
+18 (g) A kratom product in any form that is combustible or intended to be used for
+19 vaporization,aerosolization,orinjection.
+20 (h) A kratom product in any form that mimics a candy product or is manufactured,
+21 packaged,oradvertisedinawaythatcanbereasonablyconsideredtoappealtoindividualsunder21
+22 yearsofage.
+23 (i) A kratom product not contained in child-resistant packaging that meets the
+24 standards set forth in 16 C.F.R 1700.15(b) when tested in accordance with 16 C.F.R 1700.20. All
+25 persons holding valid licenses pursuant to this subdivision shall ensure that kratom and/or any
+26 kratom product sold by the licensee and intended for human consumption shall meet requirements
+27 relatedtochild-resistantpackaging.
+28 (j) Akratomproductthatcontainsaconcentrationratiothatis:
+29 (1) Greaterthan150milligramsofmitragynineperserving;
+30 (2) Greaterthan0.5milligrams7-hydroxymitragyninepergram;or
+31 (3) Greaterthan1milligrams7-hydroxymitragynineperserving.
+32 (k) A kratom product that contains more than one percent of 7-hydroxymitragynine by
+33 percentageoftotalkratomalkaloids.
+34 (l) A kratom or a kratom product that does not provideclearly visible labeling including,
+35 butnotlimitedto:
+36 (1) Arecommendationtoconsultahealthcareprofessionalpriortouse;
+37 (2) Astatementthatkratommaybehabitforming;
+
+SB557-FN-ASINTRODUCED
+-Page4-
+1 (3) Astatementthatkratomisnotsafeforusewhilepregnantorbreastfeeding;
+2 (4) Awarningthattheproductmayresultindangerousmedicationinteractions;
+3 (5) The following statement: “These statements have not been evaluated by the
+4 United States Food and Drug Administration. This product is not intended to diagnose, treat, cure,
+5 orpreventanydisease.”;
+6 (6) The net quantity of contents declared in numerical count, such as the number of
+7 capsules,orinvolumeorweightinUnitedStatescustomarysystemterms;
+8 (A) The amount of mitragynine and/or 7-hydroxymitragynine contained in a
+9 servinginsaidkratomproduct;
+10 (B) Arecommendedamountofthekratomproductperserving;and
+11 (C) Arecommendednumberofservingsthatcanbesafelyconsumedina24-hour
+12 period.
+13 (7) The total amount of mitragynine and 7-hydroxymitragynine contained in the
+14 kratomproduct;
+15 (8) A statement that this product should be stored safely and out of the reach of
+16 children;
+17 (9) Thenameandphysicalnon-postofficeboxaddressofthemanufacturer.
+18 II. Kratom and kratom products sold at retail shall be sold by a licensed retailer and
+19 obtainedfromalicensedmanufacturer,importer,ordistributor.
+20 III. All kratom and kratom products that do not comply with this section shall be deemed
+21 contraband.
+22 318-B:54 AgeLimitsandSalesRestrictions.
+23 I. No person or entity shall distribute, sell, transfer, or advertise kratom or a kratom
+24 producttoapersonunder21yearsofage.
+25 II. All kratom products shall be kept behind the sales counter only accessible to store
+26 employees.
+27 III. Valid photo identification for proof of age shall be required for all kratom and kratom
+28 product purchases. Acceptable forms of government-issued identification shall include a recent
+29 photo of the individual to whom the identification has been issued showing the date of birth of the
+30 individualtoverifytheindividualis21yearsofageorolder. Acceptableformsofgovernment-issued
+31 identification are: a valid motor vehicle operator’s license issued by this state; a valid driver
+32 privilege card issued by this state; a valid identification card issued by the administrator of the
+33 divisionofmotorvehicles;avalidarmedservicesidentificationcard;oravalidpassport.
+34 318-B:55 Violations.
+35 I. A person or entity that violates RSA 318-B:53 or 318-B:54 may be subject to the
+36 suspension or revocation of its license pursuant to RSA 318-B:65 by the department and shall be
+37 subject to a fine by the department of not more than $1,000 for the first offense and not more than
+
+SB557-FN-ASINTRODUCED
+-Page5-
+1 $2,000forasecondoffense. Uponathirdviolation,thelicenseoftheretailershallberevokedbythe
+2 department,andtheretailershallbeprohibitedfromsellingkratomorkratomproducts.
+3 II. The department may require an independent third-party test of a kratom product by a
+4 laboratory of the department’s choice to determine if the product is prohibited by RSA 318-B:53, and
+5 the retailer shall be required to submit payment for the test and administrative costs associated
+6 with said testing. If the retailer does not tender payment to the department within 30 days of
+7 receipt of the invoice, the retailer may be subject to the suspension or revocation of its license
+8 pursuanttothissection.
+9 III. The department and the department of revenue administration are authorized to share
+10 informationtoeffectuatethepurposesofthissubdivision.
+11 IV. A person or entity who violates the provisions of this subdivision by adulterating a
+12 kratomproductwithanysubstancelistedinthissubdivisionshallbesubjecttopenaltiesassetforth
+13 inthissubdivision,orasthedepartmentmayestablishpursuanttoRSA541-A.
+14 V. All funds received by the department pursuant to this section shall be deposited into a
+15 fundestablishedunderRSA318-B:66.
+16 318-B:56 ConfiscationofContrabandKratomProductsandOtherProperty.
+17 I. All kratom products that are held for sale or distribution within this state in violation of
+18 the requirements of this subdivision are declared to be contraband goods and may be seized by the
+19 department or the department’s agents, or employees, or by any sheriff, or the sheriff’s deputy, or
+20 any police officer when directed by the department to do so, without a warrant. All contraband
+21 goodsseizedbythestateunderthissubdivisionshallbedestroyed.
+22 II. All other property on the premises of any distributor or retailer who or that, with the
+23 intent to defraud this state, fails to keep or make any record, return, report, or inventory; keeps or
+24 makes any false or fraudulent record, return, report, or inventory required by this subdivision; or
+25 attempts in any manner to evade or defeat the requirements of this subdivision shall be subject to
+26 forfeiturepursuanttoRSA318-B:17-b.
+27 318-B:57 Sale of Contraband Kratom Products Prohibited. No distributor shall sell, and no
+28 other person shall sell, offer for sale, display for sale, or possess with intent to sell any contraband
+29 kratomproductswithoutthewrittenrecordimposedbythissubdivision.
+30 318-B:58 PenaltiesforViolationsastoContrabandKratomProducts.
+31 I. Any person who violates any provision of RSA 318-B:57 shall be fined by the department
+32 asfollows:
+33 (a) Forafirstoffenseina24-monthperiod,finednotmorethan10timestheretailvalue
+34 ofthecontrabandkratomproducts;
+35 (b) For a second or subsequent offense in a 24-month period, fined not more than 25
+36 timestheretailvalueofthecontrabandkratomproducts.
+
+SB557-FN-ASINTRODUCED
+-Page6-
+1 II. Whendeterminingtheamount of afine sought or imposed under this section, evidence of
+2 mitigatingfactors,includinghistory,severity,andintentshallbeconsidered.
+3 III. Allfundsreceivedbythedepartmentpursuanttothissubdivisionshallbedepositedinto
+4 areceiptaccountestablishedunderRSA318-B:66.
+5 318-B:59 HearingsonKratomProducts.
+6 I. When any kratom products are confiscated under the provisions of RSA 318-B:56, upon
+7 the request of a person claiming an interest in the kratom, the department shall conduct a hearing
+8 in accordance with the procedures as set forth in this subdivision, or as established by the
+9 departmentpursuanttoRSA541-A.
+10 II. When a fine, or license suspension or revocation occurs under the provisions of this
+11 subdivision, upon the request of the aggrieved party, the department shall conduct a hearing in
+12 accordance with the procedures as set forth in this subdivision, or as established by the department
+13 pursuanttoRSA541-A.
+14 III. When a person aggrieved by any action under this subdivision, upon the request of a
+15 person claiming an interest in the kratom, the department shall conduct a hearing in accordance
+16 withthe procedures as set forthin this subdivision, or as established by the department pursuant to
+17 RSA541-A.
+18 318-B:60 Appeals to Superior Court. Any person aggrieved by any decision of the department
+19 under the provisions of this subdivision may appeal the decision within 30 days thereafter to the
+20 superiorcourt.
+21 318-B:61 Payment of Refunds. All moneys received by the department under the provisions of
+22 this subdivision, unless otherwise designated, shall be paid to the general fund. Whenever the
+23 department determines that any person is entitled to a refund of any moneys paid by that person
+24 under the provisions of this subdivision, or whenever a court of competent jurisdiction orders a
+25 refund of any paid moneys, the state treasurer shall, upon certification by the department and with
+26 the approval of the controller, pay the refunds from any moneys in the treasury not appropriated
+27 withoutanyfurtheractorresolutionmakingappropriationforanymoneys.
+28 318-B:62 Manufacturer,Importer,Distributor,andRetailerLicensesRequired.
+29 I. Each person engaging in the business of selling kratom or kratom products in this state,
+30 including any manufacturer, importer, distributor, or retailer, shall secure a license from the
+31 departmentbeforeengagingorcontinuingtoengageinthatbusinessinaccordancewiththissection.
+32 A separate application and license shall be required for each place of business operated by a
+33 distributor, manufacturer, importer, distributor, or retailer. If the applicant for a license does not
+34 have a place of business in this state, the license shall be issued for such applicant’s principal place
+35 of business, wherever located. A licensee shall notify the department within 30 days that it changes
+36 its principal place of business. A separate license shall be required for each class of business if the
+37 applicant is engaged in more than one of the activities required to be licensed by this section. Each
+
+SB557-FN-ASINTRODUCED
+-Page7-
+1 license shall expire after one year at which time said license shall be renewed in accordance with
+2 thissection.
+3 II. Effective April 1, 2027 until December 31, 2029, each initial licensing application for a
+4 manufacturer’s, importer’s, or distributor’s license shall be accompanied by a non-refundable initial
+5 application fee of $2,500. Effective April 1, 2027 until December 31, 2029, each initial licensing
+6 application for a retailer’s license shall be accompanied by a non-refundable initial application fee of
+7 $1,500.
+8 III. Eachlicense,includinganymanufacturer,importer,distributor,orretailerlicense,shall
+9 be renewed annually. Effective April 1, 2027 until December 31, 2029, each license renewal of a
+10 manufacturer’s, importer’s, or distributor’s license shall be accompanied by a non-refundable
+11 renewal fee of $2,500. Effective April 1, 2027 until December 31, 2029, each license renewal of a
+12 retailer’slicenseshallbeaccompaniedbyanon-refundablerenewalfeeof$1,500.
+13 IV. EffectiveJanuary1,2029,thedirectorofthedepartmentshallbeauthorizedtoestablish
+14 by rule and regulation, pursuant to RSA 541-A, reasonable initial application fees and license
+15 renewalfeesforkratommanufacturer’s,importer’s,distributor’s,andretaillicenses.
+16 V. Eachissuedlicenseshallbeprominentlydisplayedonthepremises,ifany,coveredbythe
+17 license.
+18 VI. A manufacturer or importer may sell or distribute kratom and/or kratom products to a
+19 person located or doing business within the state only if such person is a licensed distributor. An
+20 importer may obtain kratom and/or kratom products only from a licensed manufacturer. A
+21 distributor may sell or distribute kratom and/or kratom products to a person located or doing
+22 business within this state only if such person is a licensed distributor or retailer. A distributor may
+23 obtain kratom and/or kratom products only from a licensed manufacturer, importer, or distributor.
+24 Aretailermayobtainkratomand/orkratomproductsonlyfromalicenseddistributor.
+25 VII.(a) No license under this subdivision may be granted, maintained, or renewed if the
+26 applicant,oranycombinationofpersonsowningdirectlyorindirectlyanyinterestsintheapplicant:
+27 (1) Isdelinquentinanytaxfilingsforonemonthormore;or
+28 (2) Hadalicenseunderthissubdivisionrevokedwithinthepast2years.
+29 (b) No person shall apply for a new license, or renewal of a license and no license shall
+30 be issued or renewed for any person, unless all outstanding fines, fees, or other charges relating to
+31 anylicenseheldbythatpersonhavebeenpaid.
+32 (c) No license shall beissued relatingtoabusiness at anyspecific locationuntil all prior
+33 licenses relating to that location have been officially terminated and all fines, fees, or charges
+34 relating to the prior licenses have been paid or otherwise resolved or if the department has found
+35 that the person applying for the new license is not acting as an agent for the prior licensee who is
+36 subject to any such related fines, fees, or charges that are still due. Evidence of such agency status
+
+SB557-FN-ASINTRODUCED
+-Page8-
+1 shall include a direct familial relationship and/or employment, contractual, or other formal financial
+2 orbusinessrelationshipwiththepriorlicensee.
+3 (d) No person shall apply for a new license pertaining to a specific location to evade
+4 paymentofanyfines,fees,orotherchargesrelatingtoapriorlicenseforthatlocation.
+5 (e) No new license shall be issued for a business at a specific location for which a license
+6 hasalreadyissuedunlessthereisabonafide,good-faithchangeinownershipofthebusinessatthat
+7 location.
+8 (f) Nolicenseorpermitshallbeissued,renewed,ormaintainedforanyperson,including
+9 the owners of the business being licensed, who has been convicted of violating any criminal law
+10 relating to tobacco products, electronic nicotine-delivery system products, kratom and/or kratom
+11 products, the payment of taxes, fraud, and/or has been ordered to pay civil fines of more than
+12 $25,000 for violations of any civil law relating to tobacco products, electronic nicotine-delivery
+13 systemproducts,kratomand/orkratomproducts,thepaymentoftaxes,orfraud.
+14 VIII. All funds received by the department pursuant to this section shall be deposited into a
+15 fundestablishedunderRSA318-B:66.
+16 318-B:63 Penalties for Unlicensed Business. Any manufacturer, importer, distributor, or
+17 retailerwhosells,offersforsale,orpossesseswithintenttosell,kratomorkratomproducts,without
+18 a license as provided in RSA 318-B:62, shall be fined in accordance with the provisions of, and the
+19 penaltiescontainedinRSA318-B:64.
+20 318-B:64 Penaltyfor OperatingWithoutaLicense. Anyindividualor businesswhoviolates this
+21 subdivision by selling or conveying kratom or a kratom product without a retail license or a license
+22 under this subdivision shall be cited for that violation and shall be fined $5,000 dollars by the
+23 department. All funds received by the department pursuant to this section shall be deposited into a
+24 fundestablishedunderRSA318-B:66.
+25 318-B:65 Suspension or Revocation of License. The department may suspend or revoke any
+26 license under this subdivision for failure of the licensee to comply with any provision of this
+27 subdivision or with any provision of any other law or ordinance relative to the sale or purchase of
+28 kratom or kratom products. The department may also suspend or revoke any license for failure of
+29 the licensee to comply with any provision of this subdivision, and, for the purpose of determining
+30 whether the licensee is complying with any provision of this subdivision, the department and its
+31 agents shall be empowered to examine the books, papers, and records of any licensee. The
+32 departmentshallrevokethelicenseofanypersonwhowouldbeineligibletoobtainaneworrenewa
+33 license by reason of any of the conditions for licensure provided in this subdivision. Any person
+34 aggrieved by the suspension or revocation may apply to the department for a hearing as provided in
+35 thissubdivision.
+36 318-B:66 Fund Established. All funds received pursuant to this subdivision shall be payable to
+37 the department. There is to be established a fund to be known as the "Kratom Administration
+
+SB557-FN-ASINTRODUCED
+-Page9-
+1 Account Fund" which shall be a separate fund within the department. Penalties, fines, application
+2 fees, and license renewal fees shall be deposited into the fund. Moneys deposited into the fund shall
+3 be transferred to the department and shall be expended for the purpose of administering the
+4 provisionofthissubdivision.
+5 318-B:67 Rules and Regulation. The department shall have the authority to adopt additional
+6 rules and regulations as necessary to fulfill the requirements of this subdivision, pursuant to RSA
+7 541-A.
+8 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+LBA
+26-2144
+Revised02/26/2026
+SB557-FN-FISCALNOTE
+ASINTRODUCED
+ANACT prohibiting the sale of kratom products to anyone under 21 years of age and
+providingfortheregulationofthesaleofkratomproducts.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+$69,000- $275,000- $275,000-
+Revenue $0
+$155,000 $612,500 $612,500
+RevenueFund(s) Kratomfeeandfinerevenue
+Expenditures* $0 $1.75million+ $855,000 $891,000
+FundingSource(s) Kratomadministrationaccountfunds;stategeneralfunds
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates a regulatory framework for the sale of kratom products in the state. It prohibits
+sales to individuals under 21, requires licensure for all manufacturers, importers, distributors,
+and retailers operating in or into the state, and establishes product safety, labeling, and
+packagingstandards. Thebillauthorizesenforcementactionsincludingfines,licenserevocation,
+productseizure,anddestructionofnoncompliantgoods. ItdirectstheDepartmentofHealthand
+Human Services to administer the program, including inspections, hearings, and rulemaking,
+and establishes a dedicated Kratom Administration Account Fund to receive licensing fees and
+penalties. The bill takes effect January 1, 2027, with licensing and enforcement beginning April
+1,2027.
+The bill establishes licensing fees of $2,500 for manufacturers, importers, and distributors and
+$1,500 for retailers from April 1, 2027 through December 31, 2029. The Department of Health
+and Human Services estimates annual revenue between $275,000 to $612,500, based on
+projections of 150 to 350 retailers, 10 to 15 manufacturers or distributors, and minimal fine
+revenue. (Given the bill's effective date, the it is assumed that 25 percent of this amount will be
+collected in FY27, with the full amount collected in later years.) The Department expects,
+however, that costs will exceed revenues, particularly in the first year of implementation.
+Estimated costs range from $1.75 million to $2 million in FY27, largely due to one-time IT
+
+system development costs of $1to$1.25 million, plus ongoingstaffing, indirect costs, and system
+maintenance. The Department expects that staffing needs will necessitate hiring one
+supervisor, three or more compliance managers, and an IT developer/programmer, at a cost of
+$580,000+ per year. The Department also anticipates that, due to its unfamiliarity with the law
+enforcement activities required by the bill, it will need to expand upon its current contract with
+the NH Liquor Commission, which is currently limited to tobacco enforcement. In total, the
+Department expects that ongoing operational costs will be $855,000 in FY28 and $891,000 in
+FY29. For the purposes of this fiscal note, it is assumed that any costs not covered by the
+dedicatedKratomfundwillbepaidforwithstategeneralfunds.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B5N-ASI6SEBNATpgteseofkmpstoaeur21ysofaeagfrternofteseofkmp:S.A,Dt2;S.W,Dt4;S.P,Dt5;R.M.1;R.N.M,H.1:Jsblrskmpsadpsteseofshpstoaeur2sofa-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATpgteseofkmpstoaeur21ysofaeagfrternofteseofkmpeitEdbyteSeadHeofRsinGlCtc1StT.Tsatmybeknadcdaste"mCrPnA2NwS;TeSeadIsG;SeTradSeAAnofR.AdRA6,I)byigarsh()tefnws()MsddintekmanatfdurRA3B3NwS;K.AdRA3Bbyigarsn50tefgnsK031StT.Tssnmybeknadcdaste"wHeK1A232D.Asudintss3I."dkmp"msaykmptttispdbyRA34B5I.""msteNwHedtofhhadhns6I.""msayp7()Wrldwnoroetss,ortnar,wosso8dskmorkmpswnoriotss;a9()Edintsseintebsofmgkmpsora0pnedintebsofsgkmorkmpstod,ortoorp1frtepeofreo;pdtt75ptofalkmadkmpssdb2ttpnintsseaesdtorsororpsfrreadsgkma3kmpsdytoatlt20dsororpsfrr;o4()Mgoeormerrpsofbsintssefrttp5pdtt75ptoftesdkmadkmpsaepddyfmt6mradsgkmadkmpsdytoatlt20rsoro7psfrr8I.""msayptoftelfofteptmas]
+[DELETED: B5N-ASIPe2V."mp"msaptcgayptoretoftelfoftepmasaoranettfigcdfsofkmadpcdofkmadoriV.""msaypnwoisioteUdS,erdyoi,kmorakmptfrseordV."me"msaseorcdodbyenoftmasal,idfri,cgoynyogcsotekmp,gyrdasse()s,adctaaddsntcnaycds0V."dm"m1()Anadoraddetthsbncdbyclsso2bcm,igf,rtt,ytd,ade3t,rrtntlfdpnt,shashgoregt4syastecnofaykmadorc;o5()Anadoraddecdinkmtthsbnedt6csorpsttwdcraslceintea,rginm7tthsbncya8I.""wnudwhretoam,i,d,o9r,msoytepswohdavdadctleidurRA30frteteofbsbgedi.Wntetm“”isudbealtofe1shas“dm,i,wer,orr”shtmslbed2toaytoeheyinshl3X.""msaypnwom,f,a,p,o4lsakmp5X.""msayi,iganeeora,f,f6p,c,t,ora,hrf7X."eofb"msaylnwekmorkmpsaes8s,orkti:ayser,a,b,geororfyi9attotel.Itaoisayr,h,v,v,a,ort0X.""msayp,wrldwnoroeoftss,wos1ordskmorkmpstoacrintss2X.""or""msg,e,arbrofkmp,ads3ieteatofh,s,orkgkmpsatapeofbsorwhap4frayp533KmadKmPtL6I.Apnslntp,d,s,p,oraeayoftef]
+[DELETED: B5N-ASIPe3()Akmptttisaclfdorbeorldasacfdorbep()Akmptttcsaysettisp,h,oistoh()Akmptttcsaseortnanesnyfrtep,p,ormgofsdp()AkmetttcslsofrlsshrtnisaditeU.Pa4()Akmptcgayscasigs0m,sc7,orayorsyddcsoft1kmp2()Akmptttcsahymlttesayoftefgl3inpsprm4()Aclstn25()Cmlstn06()Ldlstn17()Mylstn08()Akmptinayfmttisceoridtobeudf9v,a,ori0()Akmptinayfmttmsacyptorism1p,oradinawyttcnberycdtoaltoisur22ysofa3()Akmptntcdinctpgttmst4ssstfhin16CR1)wntdinaewh16CR1.A5pshgvdlspttotssnsleettkmara6kmptsdbyteleadidfrhncnslmtr7rdtoctp8()Akmptttcsacnrotti9()Grtn10msofmeprs0()Grtn05ms7eprg;o1()Grtn1ms7eprs2()Akmptttcsmetnoeptof7eb3peoftlkma4()Akmorakmptttdsntpecyvelgi5btntldt6()Arntoctahhceplprtou7()Astttkmmybehtf]
+[DELETED: B5N-ASIPe4()Astttkmisntsefrueweptorb()Awgttteptmyrtindsmni()Tefgs:“esshentbnedbytUdSsFdadDgA.Tsptisntidtod,t,corptayd()Tentqyofcsddinnlc,shastenroc,orinveorwtinUdSscysmt()Teatofmear7ecdinsginsdkmp0()Ardatoftekmptprs;a1()Ardnrofssttcnbesycdina22p3()Tetlatofmead7ecdint4kmp5()Asttttsptsdbesdsyadotofterho6c7()Teneadplntoebxasoftem8I.Kmadkmpssdatrlslbesdbyaldrra9odfmaldm,i,ord0I.Alkmadkmpsttdontcywhtssnslbed1c234AeLsadSsR3I.Nopnoreysld,s,t,oraekmorak4pttoapnur21ysofa5I.Alkmpsslbektbdtesscroyaetos6e7I.Vdpoinfrpfofaeslberdfralkmadk8ptp.Aefsofgdinsliear9poofteiltowmteinhsbnidsgtedeofbhoft0iltovyteilis21ysofaeoro.Aefsofg1ina:avdmrveosleidbytss;avdd2pecdidbytss;avdincdidbytearoft3dnofmrv;avdadssinc;oravdp435V5I.ApnoreyttvsRA33or34mybesttot6snorrnofislepttoRA35bytedtadslb7sttoafebytedtofntmetn$0frteftoeadntmet]
+[DELETED: B5N-ASIPe5$0frasdo.Unatdv,teleofterrslberdbytd,adterrslbepdfmsgkmorkmpI.TedtmyreanittyttofakmptbylyoftedscetodeifteptispdbyRA3,aterrslberdtostptfrtettadaecsawhsdt.Ifterrdsnttrpttotedtwn30dsortoftei,terrmybesttotesnorrnofislpttotssI.Tedtadtedtofreanaeadtos0intoeetepsoftss1I.Apnoreywovstepsoftssnbyag2kmptwhayseldintssnslbesttopsasstf3intss,orastedtmyehpttoRA54V.Alfsrdbytedtpttotssnslbeddio5fdedurRA3636CnofCdKmPsadOrP7I.Alkmpsttaehdfrseordnwntsseinvno8tersoftssnaeddtobecdgsadmybesdbyt9dtortedsa,ore,orbyays,ortessd,o0aypeorwnddbytedttodos,wtaw.Alc1gssdbyteseurtssnslbed2I.Alorpyontepsofaydrorrrwoort,wht3ittoddtss,fstokpormeayr,r,r,ori;kso4msayfeorftr,r,r,oriyrdbytss;o5asinaymrtoeeordttersoftssnslbestt6fepttoRA3737SeofCdKmPsP.Nodrsls,adn8orpnsls,orfrs,dyfrs,orpswhittoslayc9kmpswttewnrdidbytss038PsfrVsastoCdKmP1I.AypnwovsaypnofRA37slbefdbyted2asf3()Fraftoeina2hp,fdntmetn10tsterlv4oftecdkmp5()Frasdorstoeina2hp,fdntmetn26tsterlveoftecdkmp]
+[DELETED: B5N-ASIPe6I.Wndgteatofafestoridurtss,eeomgf,igh,s,aditslbecI.AlfsrdbytedtpttotssnslbeddiartatedurRA339HsonKmPI.WnaykmpsaecdurtepsofRA3,utertofapncganitintek,tedtslctahinaewhtepsasstfhintss,orasedbytdtpttoRA50I.Wnaf,orlesnorrnosurtepsoft1s,untertofteadp,tedtslctahgi2aewhtepsasstfhintss,orasedbyted3pttoRA54I.Wnapnadbyayanurtss,untertof5pncganitintek,tedtslctahgina6whtepsasstfhintss,orasedbytedtptt7RA5830AstoSrC.Aypnadbyaydnofted9urtepsoftssnmyaltednwn30dstrtot0src131PtofR.Almsrdbytedturtepso2tss,usoed,slbepdtoteglf.Wrt3dtdsttaypnisedtoardofaymspdbyttp4urtepsoftss,orwractofctjnos5rdofaypdm,tesetrs,uncnbytedtadw6tealoftec,pytersfmaymsintetynta7wtayfratorrnmganfraym832M,I,D,adRrLsR9I.Ehpnegintebsofsgkmorkmpsintss0igaym,i,d,orr,slsealefmt1dtbeegorcgtoeeinttbsinaewhtss2Aseanadleslberdfrehpeofbsodby3d,m,i,d,orr.Ifteatfraledsn4heapeofbsintss,teleslbeidfrshasplp5ofb,wrl.Aleslnytedtwn30dsttitc6isplpeofb.Aseleslberdfrehcsofbsift7atisedinmetnoeofteasrdtobeldbytss.E]
+[DELETED: B5N-ASIPe7lesleearoeyratwhtesdleslberdinaewtssI.EeAl1,27ulDr3,2,ehillganfrm,i,ordsleslbeadbyaneianfeof$.EeAl1,27ulDr3,2,ehillanfrarsleslbeadbyaneilanfeo$I.Ehl,igaym,i,d,orrrl,sberda.EeAl1,27ulDr3,2,ehlerlof0m,i,ordsleslbeadbyan1rlfeof$.EeAl1,27ulDr3,2,ehlerlof2rsleslbeadbyanerlfeof$3I.EeJy1,2,tedroftedtslbeadtoe4byreadr,pttoRA5,reilanfsadl5rlfsfrkmm,i,d,adrll6V.Ehidleslbepyddontep,ifa,cdbyt7l8V.Amrorirmyslordekmarkmpsto9pnldordgbswnteseoyifshpnisaldd.A0irmyonkmarkmpsoyfmaldm.1drmyslordekmarkmpstoapnldord2bswntsseoyifshpnisalddrorr.Adrm3onkmarkmpsoyfmaldm,i,ord4Arrmyonkmarkmpsoyfmaldd5V)Noleurtssnmybeg,m,orrdift6a,oraycnofpsogdyoriyayisintea7()Isdtinaytxfsfroemhorm;o8()Hdaleurtssnrdwntept2y9()Nopnslayfranwl,orrlofaleadnoles0beidorrdfrayp,usalogf,f,ororcsrgt1aylehdbyttpnhebnp2()Noleslbeidrgtoabsataysclnulalp3lsrgtottlnhebnoytdadalf,f,orc4rgtoteprlshebnpdoroerdoriftedthsf5tttepnagfrtenwleisntagasanatfrteprlewoi6sttoayshrdf,f,orcsttaesld.Eeofshays]
+[DELETED: B5N-ASIPe8slieadtflrpare,c,ororflforbsrpwhteprl()Nopnslayfranwlepgtoasclntoeptofayf,f,ororcsrgtoaprlefrttl()Nonwleslbeidfrabsatasclnfrwhalhsayidusteisabaf,ghceinopoftebsattl()Noleorptslbei,r,ormdfrayp,iteosoftebsbgl,wohsbncdofvgaycll0rgtotop,ecnysmp,kmark1p,teptoft,f,arhsbnodtopyclfsofmet2$0frvsofaycllwrgtotop,ecn3smp,kmarkmp,teptoft,orf4V.Alfsrdbytedtpttotssnslbeddio5fdedurRA3633PsfrUdB.Aym,i,d,o7rrwos,osfrs,orpswhittos,kmorkmp,w8aleaspdinRA3,slbefdinaewhtepso,adt9pscdinRA3034PyfrOgWtaL.Ayilorbswovst1snbysgorcgkmorakmptwtarlleoral2urtssnslbecdfrttvnadslbefd$0dsbyt3d.Alfsrdbytedtpttotssnslbeddio4fdedurRA3535SnorRnofL.Tedtmysdorrea6leurtssnfrfeofteletocywhaypnoft7snorwhaypnofayorlworoeretoteseorpeo8kmorkmp.Tedtmyaosdorreaylefrfeo9teletocywhaypnoftss,a,frtepeofd0wrteleiscgwhaypnoftss,tedtadi1asslbeedtoeeteb,p,adrsofayl.T2dtslreteleofaypnwowdbeietoonanworrw3lebyrnofayoftecsfrlepdintss.Ayp4adbytesnorrnmyaytotedtfrahgaspdi5tss636FdE.Alfsrdpttotssnslbepet7ted.Teistobeedafdtobeknaste"mA]
+[DELETED: B5N-ASIPe9AtF"whslbeasefdwnted.P,f,af,adlerlfsslbeddiotef.Msddiotefdsbetdtotedtadslbeedfrtepeofagtpnoftss37RsadR.Tedtslheteaytoatarsadrsasnytofltersoftss,pttoR54EeD.TsatslteetJy1,2]
+[DELETED: d0B5-FLNSINATpgteseofkmpstoaeur21ysofaeagfrternofteseofkmpLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20-$0-$00$0$eFmfeadfer0$5m+$0$gSmanatf;seglf0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblcsaryfkfrteseofkmpsintes.Itpstoisur2,rslefralm,i,ddrsoginoriotes,adespts,l,ags.Teblasetasigf,lerts,addnofntg.ItdsteDtofHhanSstoartep,igi,h,adrdesaddKmAnAtFdtorelgfsa.TebltsetJy1,2,whlgadetbgA,2ebleslgfsof$0frm,i,addsa0frrsfmAl1,27thDr3,2.TeDtofHdHnSsesalrebn$0to$,bdosof10to30r,10to15msord,admlf.(ntebseed,teitisadtt25ptoftsatwlbdinF,whteflatcdinlry)TeDte,ttcswledr,pyinteftyrofidcsrefm$5mnto$2mninF,lydetooeI]
+[DELETED: mdtcsof$1to$5m,psogs,itc,ads.TeDtesttsgnswlnehgo,teormecem,adanITd,atacto+pry.TeDtaoast,detoisuywhteltasrdbyteb,itwlndtoedunisctctweNHLrC,whiscyldtotoe.Int,ttesttogolcswlbe$0inF8ad$0i.Frtepsoftsfln,itisadttaycsntcdbytdKmfdwlbepdfrwhseglfSCtofHhadHnS]

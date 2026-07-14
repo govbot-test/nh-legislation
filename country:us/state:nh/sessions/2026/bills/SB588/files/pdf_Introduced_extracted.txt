@@ -1,0 +1,202 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SB588-FN-ASINTRODUCED
+2026SESSION
+26-2188
+12/09
+588-FN
+ANACT requiring that all municipalities that are served by a school district vote on the
+closureofschools.
+SPONSORS: Sen. Innis, Dist 7; Sen. Murphy, Dist 16; Sen. Ward, Dist 8; Sen. Carson, Dist 14;
+Rep.Noble,Hills.2
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that voters residing in all municipalities that are served by a school district
+vote on the closure of schools. This bill also requires school boards to hold a public meeting for such
+vote,withthesameprocedureapplyingtobothsingledistrictandcooperativeschooldistricts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB588-FN-ASINTRODUCED
+26-2188
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring that all municipalities that are served by a school district vote on the
+closureofschools.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Discontinuance of Schools. Amend RSA 194 by inserting after section 19-a the
+2 followingnewsection:
+3 194:19-b Discontinuance of Schools. No elementary school, as defined in RSA 189:25, or high
+4 school, as defined in RSA 194:23, shall be discontinued, or thelocation thereof be changed, except by
+5 amajorityvoteofvotersresidinginallmunicipalitiesthatareservedbytheschoolordistrict. Upon
+6 written petition to the school board by 20 or more legal voters of the towns or district in which such
+7 elementary or high school is located, the school board or cooperative school board shall hold an open
+8 public meeting for the purpose of voting on the question of discontinuance of the elementary or high
+9 school. Noticeofthemeetingshallbepublishedinanewspaperofgeneralcirculationatleast7days
+10 before the meeting. Voting shall be by ballot with the use of a checklist, after reasonable
+11 opportunity for public comment in an open public meeting, as defined in RSA 189:74. The question
+12 ontheballotshallbeinsubstantiallythefollowingform:
+13 "Shall the school district authorize the discontinuation of ________ school, ceasing the school's
+14 operation?" Yes____No______
+15 I. If a majority of voters present and voting vote in the affirmative for the discontinuation of
+16 an elementary or high school, then the elementary or high school shall be closed by the district
+17 effectivenolaterthanonedaypriortothestartofthefollowingschoolyear.
+18 II. If a majority of voters present and voting vote in the negative for the discontinuation of
+19 anelementaryorhighschool,thentheelementaryorhighschoolshallcontinuetooperate.
+20 III. A separate ballot shall be required where more than one elementary school or high
+21 schoolclosureisbeingvotedonatthesamemeeting.
+22 2 Repeal. RSA194:35,relativetothediscontinuanceofhighschools,isrepealed.
+23 3 NewSection;SchoolClosures. AmendRSA195byinsertingaftersection10thefollowingnew
+24 section:
+25 195:10-a School Closures. All cooperative school districts shall comply with the requirements of
+26 RSA194:19-brelativetotheclosureofelementaryandhighschools.
+27 I. Forthepurposesofthissection:
+28 (a) ElementaryschoolsarethesameasdefinedinRSA189:25.
+29 (b) HighschoolsarethesameasdefinedinRSA194:23.
+SB588-FN-ASINTRODUCED
+-Page2-
+1 II. It shall be prohibited for any cooperative school district articles of agreement to
+2 circumventtherequirementsofRSA194:19-b.
+3 4 Applicability. Upon passage of this act all cooperative school district articles of agreement
+4 that presently violate the requirements of RSA 194:19-b shall be amended to comply with said
+5 section.
+6 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+LBA
+26-2188
+11/18/25
+SB588-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring that all municipalities that are served by a school district vote on the
+closureofschools.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+The bill requires voters of all towns served by a school district to vote on closing any school. It
+also requires school boards to hold a public meeting for the vote, using the same process for both
+singledistrictandcooperativedistricts.
+Local school districts would be responsible for providing notice and managing related procedures
+in the event of a public meeting for the vote of a school closure. If a school within the district is
+closed,thedistrictmayincuradditionalexpenses.
+AGENCIESCONTACTED:
+None
+[DELETED: B5N-ASI6SEBNATrgttalmsttaesdbyasldtveonteofs:S.I,Dt7;S.M,Dt1;S.W,Dt8;S.C,Dt1.N,H.:EnLwadMlAsblrsttvsrginalmsttaesdbyasldeonteceofs.Tsblaorsslbstohdapcmgfrs,whtesepeagtobhsedtadcesld-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATrgttalmsttaesdbyasldtveonteofseitEdbyteSeadHeofRsinGlCtc1NwS;DeofS.AdRA14byigarsn1atfgnws1bDeofS.Noeys,asddinRA1,orhs,asddinRA1,slbed,ortelntfbec,etbamyveofvsrginalmsttaesdbyteslord.Uwnpntoteslbdby20ormellvsoftetsordtinwhseyorhhslisl,teslbdorceslbdslhdanopcmgfrtepeofvgonteqnofdeofteeyorhs.Neoftemgslbepdinanrofglcnatlt7d0betem.Vgslbebybtwhteueofac,arr1oyfrpcctinanonpcm,asddinRA1.Teq2ontebtslbeinsytefgf3"ltesldtaetednof__s,cgtes4o"Ys__No_5I.Ifamyofvsptadvgveinteaefrtedno6aneyorhhs,tnteeyorhhslslbecdbyted7eenolrtnoedyprtotestoftefgsly8I.Ifamyofvsptadvgveintenefrtedno9aneyorhhs,tnteeyorhhslslcetoo0I.Asebtslberdwemetnoeeyslorh1slceisbgvdonattesem22R.RA1,retotedeofhhs,isr33NwS;SlC.AdRA15byigarsn10tefgn4s51aSlC.Alcesldsslcywhterso6RA1bretoteceofeyadhhs7I.Frtepsoftss8()EyssaeteseasddinRA19()HhssaeteseasddinRA1]
+[DELETED: B5N-ASIPe2I.ItslbepdfraycesldtasofattcttersofRA14A.UnpeoftsatalcesldtasofattpyvetersofRA1bslbeadtocywhss5EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATrgttalmsttaesdbyasldtveonteofsLIdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0IeIeblrsvsofaltssdbyasldttoveoncgays.Iorsslbstohdapcmgfrtev,ugtesepsfrbedtadcedlsldswdberefrpgneadmgrdpnteetofapcmgfrteveofaslc.Ifaslwntedti,tedtmyiraleSC]
+
+
+================================================================================
+
+Raw Text:
+SB588-FN-ASINTRODUCED
+2026SESSION
+26-2188
+12/09
+588-FN
+SENATEBILL
+ANACT requiring that all municipalities that are served by a school district vote on the
+closureofschools.
+SPONSORS: Sen. Innis, Dist 7; Sen. Murphy, Dist 16; Sen. Ward, Dist 8; Sen. Carson, Dist 14;
+Rep.Noble,Hills.2
+COMMITTEE: ElectionLawandMunicipalAffairs
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires that voters residing in all municipalities that are served by a school district
+vote on the closure of schools. This bill also requires school boards to hold a public meeting for such
+vote,withthesameprocedureapplyingtobothsingledistrictandcooperativeschooldistricts.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB588-FN-ASINTRODUCED
+26-2188
+12/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT requiring that all municipalities that are served by a school district vote on the
+closureofschools.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Discontinuance of Schools. Amend RSA 194 by inserting after section 19-a the
+2 followingnewsection:
+3 194:19-b Discontinuance of Schools. No elementary school, as defined in RSA 189:25, or high
+4 school, as defined in RSA 194:23, shall be discontinued, or thelocation thereof be changed, except by
+5 amajorityvoteofvotersresidinginallmunicipalitiesthatareservedbytheschoolordistrict. Upon
+6 written petition to the school board by 20 or more legal voters of the towns or district in which such
+7 elementary or high school is located, the school board or cooperative school board shall hold an open
+8 public meeting for the purpose of voting on the question of discontinuance of the elementary or high
+9 school. Noticeofthemeetingshallbepublishedinanewspaperofgeneralcirculationatleast7days
+10 before the meeting. Voting shall be by ballot with the use of a checklist, after reasonable
+11 opportunity for public comment in an open public meeting, as defined in RSA 189:74. The question
+12 ontheballotshallbeinsubstantiallythefollowingform:
+13 "Shall the school district authorize the discontinuation of ________ school, ceasing the school's
+14 operation?" Yes____No______
+15 I. If a majority of voters present and voting vote in the affirmative for the discontinuation of
+16 an elementary or high school, then the elementary or high school shall be closed by the district
+17 effectivenolaterthanonedaypriortothestartofthefollowingschoolyear.
+18 II. If a majority of voters present and voting vote in the negative for the discontinuation of
+19 anelementaryorhighschool,thentheelementaryorhighschoolshallcontinuetooperate.
+20 III. A separate ballot shall be required where more than one elementary school or high
+21 schoolclosureisbeingvotedonatthesamemeeting.
+22 2 Repeal. RSA194:35,relativetothediscontinuanceofhighschools,isrepealed.
+23 3 NewSection;SchoolClosures. AmendRSA195byinsertingaftersection10thefollowingnew
+24 section:
+25 195:10-a School Closures. All cooperative school districts shall comply with the requirements of
+26 RSA194:19-brelativetotheclosureofelementaryandhighschools.
+27 I. Forthepurposesofthissection:
+28 (a) ElementaryschoolsarethesameasdefinedinRSA189:25.
+29 (b) HighschoolsarethesameasdefinedinRSA194:23.
+
+SB588-FN-ASINTRODUCED
+-Page2-
+1 II. It shall be prohibited for any cooperative school district articles of agreement to
+2 circumventtherequirementsofRSA194:19-b.
+3 4 Applicability. Upon passage of this act all cooperative school district articles of agreement
+4 that presently violate the requirements of RSA 194:19-b shall be amended to comply with said
+5 section.
+6 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+LBA
+26-2188
+11/18/25
+SB588-FN-FISCALNOTE
+ASINTRODUCED
+ANACT requiring that all municipalities that are served by a school district vote on the
+closureofschools.
+FISCALIMPACT:
+Estimated Political Subdivision Impact
+FY2026 FY2027 FY2028 FY2029
+CountyRevenue $0 $0 $0 $0
+CountyExpenditures $0 $0 $0 $0
+LocalRevenue $0 $0 $0 $0
+LocalExpenditures $0 IndeterminableIncrease
+METHODOLOGY:
+The bill requires voters of all towns served by a school district to vote on closing any school. It
+also requires school boards to hold a public meeting for the vote, using the same process for both
+singledistrictandcooperativedistricts.
+Local school districts would be responsible for providing notice and managing related procedures
+in the event of a public meeting for the vote of a school closure. If a school within the district is
+closed,thedistrictmayincuradditionalexpenses.
+AGENCIESCONTACTED:
+None
+
+[DELETED: B5N-ASI6SEBNATrgttalmsttaesdbyasldtveonteofs:S.I,Dt7;S.M,Dt1;S.W,Dt8;S.C,Dt1.N,H.:EnLwadMlAsblrsttvsrginalmsttaesdbyasldeonteceofs.Tsblaorsslbstohdapcmgfrs,whtesepeagtobhsedtadcesld-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATrgttalmsttaesdbyasldtveonteofseitEdbyteSeadHeofRsinGlCtc1NwS;DeofS.AdRA14byigarsn1atfgnws1bDeofS.Noeys,asddinRA1,orhs,asddinRA1,slbed,ortelntfbec,etbamyveofvsrginalmsttaesdbyteslord.Uwnpntoteslbdby20ormellvsoftetsordtinwhseyorhhslisl,teslbdorceslbdslhdanopcmgfrtepeofvgonteqnofdeofteeyorhs.Neoftemgslbepdinanrofglcnatlt7d0betem.Vgslbebybtwhteueofac,arr1oyfrpcctinanonpcm,asddinRA1.Teq2ontebtslbeinsytefgf3"ltesldtaetednof__s,cgtes4o"Ys__No_5I.Ifamyofvsptadvgveinteaefrtedno6aneyorhhs,tnteeyorhhslslbecdbyted7eenolrtnoedyprtotestoftefgsly8I.Ifamyofvsptadvgveintenefrtedno9aneyorhhs,tnteeyorhhslslcetoo0I.Asebtslberdwemetnoeeyslorh1slceisbgvdonattesem22R.RA1,retotedeofhhs,isr33NwS;SlC.AdRA15byigarsn10tefgn4s51aSlC.Alcesldsslcywhterso6RA1bretoteceofeyadhhs7I.Frtepsoftss8()EyssaeteseasddinRA19()HhssaeteseasddinRA1]
+[DELETED: B5N-ASIPe2I.ItslbepdfraycesldtasofattcttersofRA14A.UnpeoftsatalcesldtasofattpyvetersofRA1bslbeadtocywhss5EeD.Tsatslteet60dsarisp]
+[DELETED: B5-FLNSINATrgttalmsttaesdbyasldtveonteofsLIdPlSnIY26FY27FY28FY2yR0$0$0$yE0$0$0$lR0$0$0$lE0IeIeblrsvsofaltssdbyasldttoveoncgays.Iorsslbstohdapcmgfrtev,ugtesepsfrbedtadcedlsldswdberefrpgneadmgrdpnteetofapcmgfrteveofaslc.Ifaslwntedti,tedtmyiraleSC]

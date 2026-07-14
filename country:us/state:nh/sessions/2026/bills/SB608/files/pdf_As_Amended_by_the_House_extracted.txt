@@ -1,0 +1,346 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the House
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SB608-FN-ASAMENDEDBYTHEHOUSE
+01/29/2026 0210s
+03/12/2026 1050s
+9Apr2026...1263h
+2026SESSION
+26-2173
+09/08
+608-FN
+ANACT relativetofamilycaregiver supportincertainprograms andchildcaresupport for
+kinshipcaregivers.
+SPONSORS: Sen. Watters, Dist 4; Sen. Lang, Dist 2; Sen. Fenton, Dist 10; Sen. Avard, Dist 12;
+Sen. Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Altschiller, Dist 24;
+Rep.Rice,Hills.38;Rep.Wallner,Merr.19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to seek approval from Centers for
+Medicare and Medicaid Services to cover family caregiver support services as an allowable service
+under specified waiver programs. The bill also eliminates the child care scholarship cost share for
+childreninkinshipcare.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB608-FN-ASAMENDEDBYTHEHOUSE
+01/29/2026 0210s
+03/12/2026 1050s
+9Apr2026...1263h 26-2173
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetofamilycaregiver supportincertainprograms andchildcaresupport for
+kinshipcaregivers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Long-Term Care; Family Caregiver Support. Amend RSA 151-E by inserting
+2 aftersection28thefollowingnewsection:
+3 151-E:29 FamilyCaregiverSupport.
+4 I. The commissioner of the department of health and human services shall seek approval
+5 from the Centers for Medicare and Medicaid Services (CMS) to include family caregiver support
+6 services as an allowable service under the Acquired Brain Disorder (ABD) and the Choices for
+7 Independence (CFI) Home and Community Based Services (HCBS) waiver programs as determined
+8 undertheindividualserviceplan.
+9 II. The department shall incorporate such services into the ABD and CFI HCBS programs
+10 throughwaiveramendmentsorattherespectivewaiverrenewalsforABDandCFIHCBSprograms.
+11 III. Familycaregiversupportservicesshallbedesignedtosustaintheabilityofcaregiversto
+12 provide care in the home and community. Services may include, but are not limited to, counseling,
+13 education and training, peer support, caregiver assessment or other supports consistent with the
+14 purposesofthissection.
+15 IV. The commissioner of the department of health and human services shall adopt rules
+16 under RSA 541-A relative to definition, scope, eligibility criteria, provider qualifications, and service
+17 limitationsforfamilycaregiversupportservices.
+18 2 ChildCareSupportforKinshipCaregivers. AmendRSA161:2,XIItoreadasfollows:
+19 XII. Social Service Programs. Develop a broad range of social and related services aimed at
+20 preventing dependency and family breakdown, promoting child development and child care,
+21 protecting vulnerable children and enabling them to live in their own homes or foster homes rather
+22 than in institutions, assisting individuals to attain and maintain self-support and strengthen family
+23 life, develop and operate social service programs within the department of health and human
+24 services,receiveanddistributesuchfederalfundswhichareallocatedspecificallytothestateforday
+25 care for children and adults, and purchase or contract with other agencies or individuals to provide
+26 direct grants from sums appropriated for such purpose to other agencies upon submission of
+27 approvable plans within the objectives of this paragraph. Child care provided as a preventive or
+28 protective service shall be available to grandparents who are the legal guardians or primary
+29 caretakers of their grandchildren. Beginning July 1, 2021, child care providers who contract with
+SB608-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 thedepartmenttoprovidepreventiveandprotectivechildcareservicesshallbetrainedinevidence-
+2 basedtrauma-informedcareatnocosttotheprovider.
+3 3 New Hampshire Employment Program and Family Assistance Program; Modification of Work
+4 Requirement for Purposes of Child Care Scholarship Eligibility; Retirement. Amend RSA 167:83,
+5 II(q)toreadasfollows:
+6 (q) Modification of the work requirement for the child care scholarship program to
+7 include participation in an approved mental health or substance use disorder or substance misuse
+8 treatmentprogramverifiedbyalicensedphysician,anadvancedpracticeregisterednurse(APRN),a
+9 licensed behavioral health professional, a licensed physician associate, a licensed alcohol and drug
+10 counselor(LADC),acertifiedrecoverysupportworker(CRSW),oraboard-certifiedpsychologistand
+11 to include retirement for any individual who has reached retirement age as defined by the
+12 SocialSecurityAdministration.
+13 4 New Subparagraph; Child Care Scholarship Program. Amend RSA 167:83, II by inserting
+14 aftersubparagraph(u)thefollowingnewsubparagraph:
+15 (v) Elimination of the child care scholarship cost share for children in kinship care.
+16 There shall be no child care scholarship family cost share for any household in which all enrolled
+17 childrenareinthecareofacaretakerrelative,asdefinedinRSA167:78,III. Ifoneormoreenrolled
+18 children in the household are not in the care of a caretaker relative, the household may be required
+19 to pay a family cost share, but the household shall not be required to pay any additional cost share
+20 forthosechildrenwhoareinthecareofacaretakerrelative.
+21 5 Contingency. DepartmentofHealthandHumanServices;Funding.
+22
+23 I. RSA 167:83, II(q), as amended by section 3 of this act, and RSA 167:83, II(v), as inserted
+24 by section 4 of this act, shall take effect upon certification by the commissioner of the department of
+25 health and human services to the director of the office of legislative services and secretary of state
+26 thatthefederalOfficeofChildCarehasapprovedmodificationofthechildcarescholarshipprogram
+27 asprovidedinsections3and4ofthisact.
+28 II. The department shall not be required to implement the provisions of this act until such
+29 date that the program is sufficiently funded to meet the requirements of sections 1 through 4 of this
+30 act. Beginning July 1, 2026, the department shall submit bi-monthly written reports to the house
+31 children and family law committee and the senate children and family law committee on the status
+32 of available funding to implement the requirements of this act until such time that the program is
+33 fullyimplemented.
+34 6 Fiscal Committee Approval. Upon receipt of federal approval required by this act, the
+35 department of health and human services shall seek approval from the joint legislative fiscal
+36 committee at its next scheduled meeting for any expenditures pursuant to sections 1, 3, 4, and 5 of
+37 thisact.
+SB608-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 7 EffectiveDate.
+2 I. Sections3and4ofthisactshalltakeeffectasprovidedinsection5ofthisact.
+3 II. Theremainderofthisactshalltakeeffectuponitspassage.
+LBA
+26-2173
+Revised3/19/26
+SB608-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1050s)
+ANACT relativetofamilycaregiver supportincertainprograms andchildcaresupport for
+kinshipcaregivers.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFunds,FederalFunds
+$0(Althoughthe
+billallowsthe
+Fiscal
+Appropriations* $0 $0 $0
+Committeeto
+authorize
+funding)
+FundingSource(s) GeneralFunds,pendingFiscalCommitteeauthorization
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to seek approval from the
+federal Centers for Medicare and Medicaid Services (CMS) to include family caregiver support
+services under the Acquired Brain Disorder (ABD) the Choices for Independence (CFI) waiver
+programs. In addition, the bill eliminates the child care scholarship cost share for children in
+kinship care. As amended, the bill requires the Department to seek Fiscal Committee approval
+for funding relative to the components of the bill that are expected to have a fiscal impact. Since
+anyexpenditures will bedetermined by this subsequent action of theFiscal Committee, they are
+identified as indeterminablein the tableabove. The Department has provided the following cost
+estimates.
+· The addition of family caregiver support services is anticipated to cost $226,000 in the
+first year, increasing to $232,000 in the second. The Department assumes that coverage
+of these services will go into effect in FY28, as time will be needed for implementation.
+These services will be covered with 50 percent general funds and 50 percent federal
+funds.
+· Systems changes to the New Heights eligibility system will cost $310,000 in FY27, and
+befullygenerallyfunded.
+· The requirement that cost share be eliminated for children in kinship care is expected to
+decreaserevenue(indirectlyincreasinggeneralfundcosts)by$10,000peryear.
+In addition to the changes above, the bill adds retirement as an activity that counts toward the
+child care scholarship work requirement. In response to the bill as introduced, the Department
+noted that these provisions may run afoul of federal regulations, potentially jeopardizing federal
+funds. Asamended,however,thebillmakesenactmentoftheprovisionscontingentuponfederal
+approval. Forthisreason,thesecomponentsofthebillareexpectedtohavenofiscalimpact.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+[DELETED: B6N-ASADBYTEH6061.16SEBNATretofycrstincnpsadcdcestfpc:S.W,Dt4;S.L,Dt2;S.F,Dt1;S.A,Dt1.R,Dt1;S.PsK,Dt2;S.A,Dt2.R,H.3;R.W,M.1:HhadHnSsbldstedtofhhadhnsstoskalfmCsfeadMdSstocrfycrstssasanaesrsdwrp.Teblaoestecdcespctsefninkpc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTEH6061.1h2EOFNWHnteYrofOrLdToTdTNATretofycrstincnpsadcdcestfpceitEdbyteSeadHeofRsinGlCtc1NwS;LmC;FyCrS.AdRA1Ebyiarsn28tefgnws19FyCrSI.TecroftedtofhhadhnssslskafmteCsfrMeadMdSs()toiefycrsssasanaeseurteAdBnDr()adteCsfIe()HeadCyBdSs()wrpsasdurteilsepI.TedtslieshssioteADadCIHSp0thwrasoratterewrrsfrADadCIHSp1I.Fycrstssslbeddtosnteayofcst2peceinteheadc.Ssmyi,btaentldt,c3enadt,prs,cratororssctwht4psoftss5I.Tecroftedtofhhadhnssslatr6urRA5Aretod,s,eyc,prq,ads7lsfrfycrsts82CdCeStfrKpC.AdRA1,XItordasf9X.SlSeP.Dpabdreofsladrdssada0pgdyadfyb,pgcddtadcdc1pgvecnadegtmtoleintronhsorfrhsr2tnini,agistoanadmnstadsnf3l,dpadoeslsepswntedtofhhadh4s,readdeshflfswhaeadsytotesefrd5cefrcnada,adpeorctwhorasoristop6dtgsfmssadfrshpetoorasunsno7aepswnteosoftsp.Cdcepdasapeo8peseslbeaetogswoaetellgsorp9csoftrg.BgJy1,2,cdcepswoctw]
+[DELETED: B6N-ASADBYTEHPe2tedttopepeadpecdcessslbetdinebdtdceatnocttotep3NwHeEtPmadFyAeP;MnofWRtfrPsofCdCeSpE;R.AdRA1I)tordasf()Mnoftewkrtfrtecdcesppmtiepninanadmlhhorseuedrorsemttpmvdbyaldp,anadperdne(,ldblhhp,aldpna,aldaladd0cr(,acdrystwr(,orabdpta1toiertfrayilwohsrdrtaeasddbyt2SlSyA34NwS;CdCeSpP.AdRA1,IIbyi4arsh()tefgnws5()Enoftecdcespctsefrcninkpc6Teslbenocdcespfyctsefrayhdinwhale7cnaeinteceofacrr,asddinRA1,I.Ifoeormee8cnintehdaentinteceofacrr,tehdmyber9topyafycts,bttehdslntberdtopyayalcts0frtecnwoaeinteceofacrr15C.DtofHhadHnS;F3I.RA1,I,asadbysn3oftsa,adRA1,I,asi4bysn4oftsa,slteetuncnbytecroftedto5hhadhnsstotedrofteoeoflessadsyofs6ttteflOeofCdCehsadmnoftecdcespp7aspdinss3ad4oftsa8I.Tedtslntberdtoittepsoftsatuls9detttepmissyfdtomttersofss1th4oft0a.BgJy1,2,tedtslstbywnrstoteh1cnadfylwceadtesecnadfylwceontes2ofaefgtoittersoftsatulshtetttepmi3fyi46FlCeA.Unrtofflalrdbytsa,t5dtofhhadhnssslskalfmtejtlef6ceatisntsdmgfrayespttoss1,3,4,ad5o7tsa]
+[DELETED: B6N-ASADBYTEHPe37EeDI.Ss3ad4oftsatslteetaspdinsn5oftsaI.Terroftsatslteetunisp]
+[DELETED: d3B6-FLNSADBYTESE(T#NATretofycrstincnpsadcdcestfpcLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIeIgSlF,FlF0$0$0(htlastetgSlF,pgFlCeae=Ctofbl*n=AdfgtocrctofbsblrsteDtofHhadHnSstoskalfmtlCsfrMeadMdSs()toiefycrssurteAdBnDr()teCsfrIe()w.Ina,teblestecdcespctsefrcnipc.Asa,teblrsteDttoskFlCearfgretotecsofteblttaeedtoheafli.SyeswlbeddbytsstanofteFlC,tyadasieintetea.TeDthspdtefgceanoffycrstssisadtoct$0intty,igto$0intes.TeDtasttcftesswlgoioetinF,astewlbendfriesswlbecdwh50ptglfsad50ptf]
+[DELETED: scstoteNwHseysmwlct$0inF,aefygyfertttctsebeedfrcninkpceisedtere(yigglfdc)by$0prynantotecsa,teblasrtasanayttcstdtdcespwkr.Inretoteblasi,teDdtttepsmyrnalofflr,pyjgf.Asa,h,teblmsetoftepsctunf.Frtsr,tecsofteblaeedtohenofliSCtofHhadHnS]
+
+
+================================================================================
+
+Raw Text:
+SB608-FN-ASAMENDEDBYTHEHOUSE
+01/29/2026 0210s
+03/12/2026 1050s
+9Apr2026...1263h
+2026SESSION
+26-2173
+09/08
+608-FN
+SENATEBILL
+ANACT relativetofamilycaregiver supportincertainprograms andchildcaresupport for
+kinshipcaregivers.
+SPONSORS: Sen. Watters, Dist 4; Sen. Lang, Dist 2; Sen. Fenton, Dist 10; Sen. Avard, Dist 12;
+Sen. Rosenwald, Dist 13; Sen. Perkins Kwoka, Dist 21; Sen. Altschiller, Dist 24;
+Rep.Rice,Hills.38;Rep.Wallner,Merr.19
+COMMITTEE: HealthandHumanServices
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill directs the department of health and human services to seek approval from Centers for
+Medicare and Medicaid Services to cover family caregiver support services as an allowable service
+under specified waiver programs. The bill also eliminates the child care scholarship cost share for
+childreninkinshipcare.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB608-FN-ASAMENDEDBYTHEHOUSE
+01/29/2026 0210s
+03/12/2026 1050s
+9Apr2026...1263h 26-2173
+09/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetofamilycaregiver supportincertainprograms andchildcaresupport for
+kinshipcaregivers.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Long-Term Care; Family Caregiver Support. Amend RSA 151-E by inserting
+2 aftersection28thefollowingnewsection:
+3 151-E:29 FamilyCaregiverSupport.
+4 I. The commissioner of the department of health and human services shall seek approval
+5 from the Centers for Medicare and Medicaid Services (CMS) to include family caregiver support
+6 services as an allowable service under the Acquired Brain Disorder (ABD) and the Choices for
+7 Independence (CFI) Home and Community Based Services (HCBS) waiver programs as determined
+8 undertheindividualserviceplan.
+9 II. The department shall incorporate such services into the ABD and CFI HCBS programs
+10 throughwaiveramendmentsorattherespectivewaiverrenewalsforABDandCFIHCBSprograms.
+11 III. Familycaregiversupportservicesshallbedesignedtosustaintheabilityofcaregiversto
+12 provide care in the home and community. Services may include, but are not limited to, counseling,
+13 education and training, peer support, caregiver assessment or other supports consistent with the
+14 purposesofthissection.
+15 IV. The commissioner of the department of health and human services shall adopt rules
+16 under RSA 541-A relative to definition, scope, eligibility criteria, provider qualifications, and service
+17 limitationsforfamilycaregiversupportservices.
+18 2 ChildCareSupportforKinshipCaregivers. AmendRSA161:2,XIItoreadasfollows:
+19 XII. Social Service Programs. Develop a broad range of social and related services aimed at
+20 preventing dependency and family breakdown, promoting child development and child care,
+21 protecting vulnerable children and enabling them to live in their own homes or foster homes rather
+22 than in institutions, assisting individuals to attain and maintain self-support and strengthen family
+23 life, develop and operate social service programs within the department of health and human
+24 services,receiveanddistributesuchfederalfundswhichareallocatedspecificallytothestateforday
+25 care for children and adults, and purchase or contract with other agencies or individuals to provide
+26 direct grants from sums appropriated for such purpose to other agencies upon submission of
+27 approvable plans within the objectives of this paragraph. Child care provided as a preventive or
+28 protective service shall be available to grandparents who are the legal guardians or primary
+29 caretakers of their grandchildren. Beginning July 1, 2021, child care providers who contract with
+
+SB608-FN-ASAMENDEDBYTHEHOUSE
+-Page2-
+1 thedepartmenttoprovidepreventiveandprotectivechildcareservicesshallbetrainedinevidence-
+2 basedtrauma-informedcareatnocosttotheprovider.
+3 3 New Hampshire Employment Program and Family Assistance Program; Modification of Work
+4 Requirement for Purposes of Child Care Scholarship Eligibility; Retirement. Amend RSA 167:83,
+5 II(q)toreadasfollows:
+6 (q) Modification of the work requirement for the child care scholarship program to
+7 include participation in an approved mental health or substance use disorder or substance misuse
+8 treatmentprogramverifiedbyalicensedphysician,anadvancedpracticeregisterednurse(APRN),a
+9 licensed behavioral health professional, a licensed physician associate, a licensed alcohol and drug
+10 counselor(LADC),acertifiedrecoverysupportworker(CRSW),oraboard-certifiedpsychologistand
+11 to include retirement for any individual who has reached retirement age as defined by the
+12 SocialSecurityAdministration.
+13 4 New Subparagraph; Child Care Scholarship Program. Amend RSA 167:83, II by inserting
+14 aftersubparagraph(u)thefollowingnewsubparagraph:
+15 (v) Elimination of the child care scholarship cost share for children in kinship care.
+16 There shall be no child care scholarship family cost share for any household in which all enrolled
+17 childrenareinthecareofacaretakerrelative,asdefinedinRSA167:78,III. Ifoneormoreenrolled
+18 children in the household are not in the care of a caretaker relative, the household may be required
+19 to pay a family cost share, but the household shall not be required to pay any additional cost share
+20 forthosechildrenwhoareinthecareofacaretakerrelative.
+21 5 Contingency. DepartmentofHealthandHumanServices;Funding.
+22
+23 I. RSA 167:83, II(q), as amended by section 3 of this act, and RSA 167:83, II(v), as inserted
+24 by section 4 of this act, shall take effect upon certification by the commissioner of the department of
+25 health and human services to the director of the office of legislative services and secretary of state
+26 thatthefederalOfficeofChildCarehasapprovedmodificationofthechildcarescholarshipprogram
+27 asprovidedinsections3and4ofthisact.
+28 II. The department shall not be required to implement the provisions of this act until such
+29 date that the program is sufficiently funded to meet the requirements of sections 1 through 4 of this
+30 act. Beginning July 1, 2026, the department shall submit bi-monthly written reports to the house
+31 children and family law committee and the senate children and family law committee on the status
+32 of available funding to implement the requirements of this act until such time that the program is
+33 fullyimplemented.
+34 6 Fiscal Committee Approval. Upon receipt of federal approval required by this act, the
+35 department of health and human services shall seek approval from the joint legislative fiscal
+36 committee at its next scheduled meeting for any expenditures pursuant to sections 1, 3, 4, and 5 of
+37 thisact.
+
+SB608-FN-ASAMENDEDBYTHEHOUSE
+-Page3-
+1 7 EffectiveDate.
+2 I. Sections3and4ofthisactshalltakeeffectasprovidedinsection5ofthisact.
+3 II. Theremainderofthisactshalltakeeffectuponitspassage.
+
+LBA
+26-2173
+Revised3/19/26
+SB608-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-1050s)
+ANACT relativetofamilycaregiver supportincertainprograms andchildcaresupport for
+kinshipcaregivers.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Revenue $0 $0 $0 $0
+RevenueFund(s) None
+Expenditures* $0 Indeterminable Indeterminable Indeterminable
+FundingSource(s) GeneralFunds,FederalFunds
+$0(Althoughthe
+billallowsthe
+Fiscal
+Appropriations* $0 $0 $0
+Committeeto
+authorize
+funding)
+FundingSource(s) GeneralFunds,pendingFiscalCommitteeauthorization
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill requires the Department of Health and Human Services to seek approval from the
+federal Centers for Medicare and Medicaid Services (CMS) to include family caregiver support
+services under the Acquired Brain Disorder (ABD) the Choices for Independence (CFI) waiver
+programs. In addition, the bill eliminates the child care scholarship cost share for children in
+kinship care. As amended, the bill requires the Department to seek Fiscal Committee approval
+for funding relative to the components of the bill that are expected to have a fiscal impact. Since
+anyexpenditures will bedetermined by this subsequent action of theFiscal Committee, they are
+identified as indeterminablein the tableabove. The Department has provided the following cost
+estimates.
+· The addition of family caregiver support services is anticipated to cost $226,000 in the
+first year, increasing to $232,000 in the second. The Department assumes that coverage
+of these services will go into effect in FY28, as time will be needed for implementation.
+These services will be covered with 50 percent general funds and 50 percent federal
+funds.
+
+· Systems changes to the New Heights eligibility system will cost $310,000 in FY27, and
+befullygenerallyfunded.
+· The requirement that cost share be eliminated for children in kinship care is expected to
+decreaserevenue(indirectlyincreasinggeneralfundcosts)by$10,000peryear.
+In addition to the changes above, the bill adds retirement as an activity that counts toward the
+child care scholarship work requirement. In response to the bill as introduced, the Department
+noted that these provisions may run afoul of federal regulations, potentially jeopardizing federal
+funds. Asamended,however,thebillmakesenactmentoftheprovisionscontingentuponfederal
+approval. Forthisreason,thesecomponentsofthebillareexpectedtohavenofiscalimpact.
+AGENCIESCONTACTED:
+DepartmentofHealthandHumanServices
+
+[DELETED: B6N-ASADBYTEH6061.16SEBNATretofycrstincnpsadcdcestfpc:S.W,Dt4;S.L,Dt2;S.F,Dt1;S.A,Dt1.R,Dt1;S.PsK,Dt2;S.A,Dt2.R,H.3;R.W,M.1:HhadHnSsbldstedtofhhadhnsstoskalfmCsfeadMdSstocrfycrstssasanaesrsdwrp.Teblaoestecdcespctsefninkpc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTEH6061.1h2EOFNWHnteYrofOrLdToTdTNATretofycrstincnpsadcdcestfpceitEdbyteSeadHeofRsinGlCtc1NwS;LmC;FyCrS.AdRA1Ebyiarsn28tefgnws19FyCrSI.TecroftedtofhhadhnssslskafmteCsfrMeadMdSs()toiefycrsssasanaeseurteAdBnDr()adteCsfIe()HeadCyBdSs()wrpsasdurteilsepI.TedtslieshssioteADadCIHSp0thwrasoratterewrrsfrADadCIHSp1I.Fycrstssslbeddtosnteayofcst2peceinteheadc.Ssmyi,btaentldt,c3enadt,prs,cratororssctwht4psoftss5I.Tecroftedtofhhadhnssslatr6urRA5Aretod,s,eyc,prq,ads7lsfrfycrsts82CdCeStfrKpC.AdRA1,XItordasf9X.SlSeP.Dpabdreofsladrdssada0pgdyadfyb,pgcddtadcdc1pgvecnadegtmtoleintronhsorfrhsr2tnini,agistoanadmnstadsnf3l,dpadoeslsepswntedtofhhadh4s,readdeshflfswhaeadsytotesefrd5cefrcnada,adpeorctwhorasoristop6dtgsfmssadfrshpetoorasunsno7aepswnteosoftsp.Cdcepdasapeo8peseslbeaetogswoaetellgsorp9csoftrg.BgJy1,2,cdcepswoctw]
+[DELETED: B6N-ASADBYTEHPe2tedttopepeadpecdcessslbetdinebdtdceatnocttotep3NwHeEtPmadFyAeP;MnofWRtfrPsofCdCeSpE;R.AdRA1I)tordasf()Mnoftewkrtfrtecdcesppmtiepninanadmlhhorseuedrorsemttpmvdbyaldp,anadperdne(,ldblhhp,aldpna,aldaladd0cr(,acdrystwr(,orabdpta1toiertfrayilwohsrdrtaeasddbyt2SlSyA34NwS;CdCeSpP.AdRA1,IIbyi4arsh()tefgnws5()Enoftecdcespctsefrcninkpc6Teslbenocdcespfyctsefrayhdinwhale7cnaeinteceofacrr,asddinRA1,I.Ifoeormee8cnintehdaentinteceofacrr,tehdmyber9topyafycts,bttehdslntberdtopyayalcts0frtecnwoaeinteceofacrr15C.DtofHhadHnS;F3I.RA1,I,asadbysn3oftsa,adRA1,I,asi4bysn4oftsa,slteetuncnbytecroftedto5hhadhnsstotedrofteoeoflessadsyofs6ttteflOeofCdCehsadmnoftecdcespp7aspdinss3ad4oftsa8I.Tedtslntberdtoittepsoftsatuls9detttepmissyfdtomttersofss1th4oft0a.BgJy1,2,tedtslstbywnrstoteh1cnadfylwceadtesecnadfylwceontes2ofaefgtoittersoftsatulshtetttepmi3fyi46FlCeA.Unrtofflalrdbytsa,t5dtofhhadhnssslskalfmtejtlef6ceatisntsdmgfrayespttoss1,3,4,ad5o7tsa]
+[DELETED: B6N-ASADBYTEHPe37EeDI.Ss3ad4oftsatslteetaspdinsn5oftsaI.Terroftsatslteetunisp]
+[DELETED: d3B6-FLNSADBYTESE(T#NATretofycrstincnpsadcdcestfpcLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$0$0$eF0IeIeIgSlF,FlF0$0$0(htlastetgSlF,pgFlCeae=Ctofbl*n=AdfgtocrctofbsblrsteDtofHhadHnSstoskalfmtlCsfrMeadMdSs()toiefycrssurteAdBnDr()teCsfrIe()w.Ina,teblestecdcespctsefrcnipc.Asa,teblrsteDttoskFlCearfgretotecsofteblttaeedtoheafli.SyeswlbeddbytsstanofteFlC,tyadasieintetea.TeDthspdtefgceanoffycrstssisadtoct$0intty,igto$0intes.TeDtasttcftesswlgoioetinF,astewlbendfriesswlbecdwh50ptglfsad50ptf]
+[DELETED: scstoteNwHseysmwlct$0inF,aefygyfertttctsebeedfrcninkpceisedtere(yigglfdc)by$0prynantotecsa,teblasrtasanayttcstdtdcespwkr.Inretoteblasi,teDdtttepsmyrnalofflr,pyjgf.Asa,h,teblmsetoftepsctunf.Frtsr,tecsofteblaeedtohenofliSCtofHhadHnS]

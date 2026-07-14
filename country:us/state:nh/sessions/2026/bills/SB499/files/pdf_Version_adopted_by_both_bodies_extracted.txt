@@ -1,0 +1,106 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Version adopted by both bodies
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SB499-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0349s
+2026SESSION
+26-2065
+09/05
+499
+ANACT relative to the membership, duties, and reporting requirements of the traffic
+safetycommission.
+SPONSORS: Sen.Birdsell,Dist19
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill adds an additional member and an additional duty and reporting requirement for the
+trafficsafetycommission.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB499-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0349s 26-2065
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the membership, duties, and reporting requirements of the traffic
+safetycommission.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Traffic Safety Commission; Membership. Amend RSA 21-P:64, I(b) by
+2 insertingaftersubparagraph(11)thefollowingnewsubparagraph:
+3 (12) A member of the trauma medical review committee established under RSA
+4 153-A:8,appointedbythecommittee.
+5 2 New Paragraph; Traffic Safety Commission; Duty Added. Amend RSA 21-P:64 by inserting
+6 afterparagraphIIthefollowingnewparagraph:
+7 II-a. The commission shall review and analyze any available and relevant information and
+8 datarelatedtothecauseoftrafficcollisionsinNewHampshire.
+9 3 TrafficSafetyCommission;Reports. AmendRSA21-P:64,Vtoreadasfollows:
+10 V. The commissionshall report annually, beginning November 1, 2018, tothespeaker of the
+11 house of representatives, the president of the senate, and the governor. The reports shall describe
+12 the activities and findings of the commission and any recommendations for proposed legislation.
+13 Beginning November 1, 2026, the reports shall include aggregated data on the causes of
+14 traffic collisions in New Hampshire for that year and recommendations on how to address
+15 thesecauses.
+16 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+[DELETED: B49-VNADBYBHB606SEBNATretotem,d,adrgrsoftetyc:S.B,Dt1:TDAsblasanalmradanaldyadrgrtfrtcsyc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B49-VNADBYBHB60s2EOFNWHnteYrofOrLdToTdTNATretotem,d,adrgrsoftetyceitEdbyteSeadHeofRsinGlCtc1NwS;TcSyC;M.AdRA2,I)bigarsh()tefgnws()AmroftetamlrwceedurR1,adbytec2NwP;TcSyC;DyA.AdRA24byiarphIItefgnwpI.TecnslrwadaeayaeadrtinadardtoteceoftccsinNwH3TcSyC;R.AdRA2,Vtordasf0V.Tecnslrta,bgNr1,2,totesroft1heofr,teptoftes,adteg.Terssld2teasadfsoftecnadayrsfrpdl3BgNr1,2,tersslieaddaontecso4tccsinNwHefrttyradrsonhwtoa5tec64EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SB499-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0349s
+2026SESSION
+26-2065
+09/05
+499
+SENATEBILL
+ANACT relative to the membership, duties, and reporting requirements of the traffic
+safetycommission.
+SPONSORS: Sen.Birdsell,Dist19
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+This bill adds an additional member and an additional duty and reporting requirement for the
+trafficsafetycommission.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB499-VERSIONADOPTEDBYBOTHBODIES
+02/05/2026 0349s 26-2065
+09/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relative to the membership, duties, and reporting requirements of the traffic
+safetycommission.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Subparagraph; Traffic Safety Commission; Membership. Amend RSA 21-P:64, I(b) by
+2 insertingaftersubparagraph(11)thefollowingnewsubparagraph:
+3 (12) A member of the trauma medical review committee established under RSA
+4 153-A:8,appointedbythecommittee.
+5 2 New Paragraph; Traffic Safety Commission; Duty Added. Amend RSA 21-P:64 by inserting
+6 afterparagraphIIthefollowingnewparagraph:
+7 II-a. The commission shall review and analyze any available and relevant information and
+8 datarelatedtothecauseoftrafficcollisionsinNewHampshire.
+9 3 TrafficSafetyCommission;Reports. AmendRSA21-P:64,Vtoreadasfollows:
+10 V. The commissionshall report annually, beginning November 1, 2018, tothespeaker of the
+11 house of representatives, the president of the senate, and the governor. The reports shall describe
+12 the activities and findings of the commission and any recommendations for proposed legislation.
+13 Beginning November 1, 2026, the reports shall include aggregated data on the causes of
+14 traffic collisions in New Hampshire for that year and recommendations on how to address
+15 thesecauses.
+16 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+[DELETED: B49-VNADBYBHB606SEBNATretotem,d,adrgrsoftetyc:S.B,Dt1:TDAsblasanalmradanaldyadrgrtfrtcsyc-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B49-VNADBYBHB60s2EOFNWHnteYrofOrLdToTdTNATretotem,d,adrgrsoftetyceitEdbyteSeadHeofRsinGlCtc1NwS;TcSyC;M.AdRA2,I)bigarsh()tefgnws()AmroftetamlrwceedurR1,adbytec2NwP;TcSyC;DyA.AdRA24byiarphIItefgnwpI.TecnslrwadaeayaeadrtinadardtoteceoftccsinNwH3TcSyC;R.AdRA2,Vtordasf0V.Tecnslrta,bgNr1,2,totesroft1heofr,teptoftes,adteg.Terssld2teasadfsoftecnadayrsfrpdl3BgNr1,2,tersslieaddaontecso4tccsinNwHefrttyradrsonhwtoa5tec64EeD.TsatslteetJy1,2]

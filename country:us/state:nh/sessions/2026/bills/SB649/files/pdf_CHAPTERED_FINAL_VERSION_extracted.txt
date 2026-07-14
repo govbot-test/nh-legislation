@@ -1,0 +1,114 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - CHAPTERED FINAL VERSION
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CHAPTER114
+SB649-FN-FINALVERSION
+2026SESSION
+26-2087
+06/08
+649-FN
+ANACT increasing fines for using a hand-held mobile electronic device while driving a motor
+vehicle.
+SPONSORS: Sen. Fenton, Dist 10; Sen. McConkey, Dist 3; Sen. Gannon, Dist 23; Sen. Prentiss,
+Dist 5; Sen. Birdsell, Dist 19; Sen. Ricciardi, Dist 9; Rep. Roy, Rock. 31; Rep. Gorski,
+Hills.2;Rep.N.Murphy,Hills.12;Rep.Crawford,Carr.3
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increasesfinesandaddslicensesuspensionfor repeat offensesinvolvingtheuseof ahand-
+held mobile electronic device while driving, with enhanced penalties when the violation contributes to a
+crash.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+CHAPTER114
+SB649-FN-FINALVERSION
+26-2087
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing fines for using a hand-held mobile electronic device while driving a motor
+vehicle.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 114:1 Use of Mobile ElectronicDevices WhileDriving; Prohibition; Penalties. AmendRSA 265:79-c,
+2 IIItoreadasfollows:
+3 III. Anypersonwhoviolatesthissectionshallbeguiltyofaviolationandshallbe[fined$100plus
+4 penaltyassessmentforafirstoffense,$250pluspenaltyassessmentforasecondoffense,and$500plus
+5 penalty assessment for any subsequent offense within a 24-month period.]subjecttothefollowingfines
+6 andpenalties:
+7 (a)Forafirstoffense,afineof$250.Iftheviolationisacontributingcauseofamotorvehicle
+8 crash,thefineshallbe$500.
+9 (b)Forasecondoffensewithin24monthsofthefirstoffense,afineof$500.Iftheviolation
+10 isacontributingcauseofamotorvehiclecrash,thefineshallbe$750.
+11 (c)Forathirdorsubsequentoffensewithin24monthsofthefirstoffense,afineof$750and
+12 licensesuspensionofupto30days. Iftheviolationisacontributingcauseofamotorvehiclecrash,the
+13 fineshallbe$1,000andthesuspensionshallbe60days.
+14 114:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:May28,2026
+EffectiveDate:January01,2027
+[DELETED: R1B6N-FLV6SEBNATigfsfrugahdmeecdewedgam:S.F,Dt1;S.M,Dt3;S.G,Dt2;S.Pt5;S.B,Dt1;S.R,Dt9;R.R,R.3;R.G.2;R.N.M,H.1;R.C,C.:Tsblisfsadaslesnfrrtosigteueofahdmeecdewed,whedpswntevncsto-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B6N-FLVEOFNWHNATigfsfrugahdmeecdewedgam11UeofMeEcDsWeD;P;P.AdRA2IItordasfI.Aypnwovstssnslbegyofavnadslbe[d$0ppyatfrafto,$0pspyatfrasdo,ad$0ppyatfraystoewna2hp]sa(c()F.I0i1()F2l.I3f412EeD.TsatslteetJy1,2:My2,2eD:Jy0,2]
+
+
+================================================================================
+
+Raw Text:
+CHAPTER114
+SB649-FN-FINALVERSION
+2026SESSION
+26-2087
+06/08
+649-FN
+SENATEBILL
+ANACT increasing fines for using a hand-held mobile electronic device while driving a motor
+vehicle.
+SPONSORS: Sen. Fenton, Dist 10; Sen. McConkey, Dist 3; Sen. Gannon, Dist 23; Sen. Prentiss,
+Dist 5; Sen. Birdsell, Dist 19; Sen. Ricciardi, Dist 9; Rep. Roy, Rock. 31; Rep. Gorski,
+Hills.2;Rep.N.Murphy,Hills.12;Rep.Crawford,Carr.3
+COMMITTEE: Transportation
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill increasesfinesandaddslicensesuspensionfor repeat offensesinvolvingtheuseof ahand-
+held mobile electronic device while driving, with enhanced penalties when the violation contributes to a
+crash.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+CHAPTER114
+SB649-FN-FINALVERSION
+26-2087
+06/08
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT increasing fines for using a hand-held mobile electronic device while driving a motor
+vehicle.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 114:1 Use of Mobile ElectronicDevices WhileDriving; Prohibition; Penalties. AmendRSA 265:79-c,
+2 IIItoreadasfollows:
+3 III. Anypersonwhoviolatesthissectionshallbeguiltyofaviolationandshallbe[fined$100plus
+4 penaltyassessmentforafirstoffense,$250pluspenaltyassessmentforasecondoffense,and$500plus
+5 penalty assessment for any subsequent offense within a 24-month period.]subjecttothefollowingfines
+6 andpenalties:
+7 (a)Forafirstoffense,afineof$250.Iftheviolationisacontributingcauseofamotorvehicle
+8 crash,thefineshallbe$500.
+9 (b)Forasecondoffensewithin24monthsofthefirstoffense,afineof$500.Iftheviolation
+10 isacontributingcauseofamotorvehiclecrash,thefineshallbe$750.
+11 (c)Forathirdorsubsequentoffensewithin24monthsofthefirstoffense,afineof$750and
+12 licensesuspensionofupto30days. Iftheviolationisacontributingcauseofamotorvehiclecrash,the
+13 fineshallbe$1,000andthesuspensionshallbe60days.
+14 114:2 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+Approved:May28,2026
+EffectiveDate:January01,2027
+
+[DELETED: R1B6N-FLV6SEBNATigfsfrugahdmeecdewedgam:S.F,Dt1;S.M,Dt3;S.G,Dt2;S.Pt5;S.B,Dt1;S.R,Dt9;R.R,R.3;R.G.2;R.N.M,H.1;R.C,C.:Tsblisfsadaslesnfrrtosigteueofahdmeecdewed,whedpswntevncsto-------------------------------------------------------------------------:Mradtoctlwasirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: R1B6N-FLVEOFNWHNATigfsfrugahdmeecdewedgam11UeofMeEcDsWeD;P;P.AdRA2IItordasfI.Aypnwovstssnslbegyofavnadslbe[d$0ppyatfrafto,$0pspyatfrasdo,ad$0ppyatfraystoewna2hp]sa(c()F.I0i1()F2l.I3f412EeD.TsatslteetJy1,2:My2,2eD:Jy0,2]

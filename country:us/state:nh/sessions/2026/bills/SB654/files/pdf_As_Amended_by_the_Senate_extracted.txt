@@ -1,0 +1,315 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - As Amended by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SB654-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0829s
+2026SESSION
+26-3253
+07/05
+654-FN
+ANACT creating tax credits for businesses that have on-site child care services and for
+businessesthatprovidehealthcarecoverageforcertainemployees.
+SPONSORS: Sen. Sullivan, Dist 18; Sen. Lang, Dist 2; Sen. Ricciardi, Dist 9; Rep. Rice, Hills.
+38;Rep.Notter,Hills.12;Rep.Kuttab,Rock.17
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillcreatestaxcreditsagainstthebusinessprofitstaxforbusinessesthathaveon-sitechild
+care services and for businesses that provide health care coverage for certain employees. This bill
+also makes an appropriation to the department of revenue administration for improvements and
+systemupgradestotherevenueinformationmanagementsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB654-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0829s 26-3253
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating tax credits for businesses that have on-site child care services and for
+businessesthatprovidehealthcarecoverageforcertainemployees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Business Profits Tax; Credits. Amend RSA 77-A:5 by inserting after
+2 paragraphXVIIthefollowingnewparagraphs:
+3 XVIII. There shall beallowed anon-site child care services tax credit for eligible businesses,
+4 accordingtothefollowing:
+5 (a) The credit shall be equal to 20 percent of qualifying expenditures, as defined in 26
+6 U.S.C. section 45F, tied to operating or contracting for on-site or nearby child care services for
+7 employees,upto$100,000perfiscalyear.
+8 (b) An eligible business shall have its child care service facility for its employees housed
+9 within the business' main building, inside a shared building where both the business and child care
+10 facilityarelocated,orinseparatebuildingswithinthesameofficeorindustrialpark,orwithin1/4of
+11 amileoftheabove.
+12 (c) Unused tax credits may be carried forward for up to 4 years. Older credits shall be
+13 utilizedfirst.
+14 (d) A business that receives a credit under this paragraph shall be required to pay any
+15 taxnotpaidduetocreditsreceivedifitclosesanon-sitechildcarefacilitywithin3yearsofreceiving
+16 acreditandcontinuestomaintainitsprimarybusinessoperationsatthesameaddressnolaterthan
+17 thetaxyearfollowingtheclosure.
+18 (e) The department of health and human services and the department of revenue
+19 administration may share information about facility closures without waiving any other applicable
+20 confidentialityrulesorrequirements.
+21 (f) Upon written request made prior to the filing of the applicable tax return, the
+22 commissionermaywaivetherepaymentoftaxnotpaidduetocreditsincircumstanceswhereachild
+23 carefacilityisclosed due tono faultof thebusinessthat receivedthecredits orduetocircumstances
+24 beyond the control of the business that received the credit. Factors which the department should
+25 consider in determining whether to waive the repayment obligation shall include the duration of the
+26 closure if temporary, the reason for the closure as stated by the requestor, and the impact of the
+27 closureupontheemployees.
+28 (g) Businesses that share a group child day care center may jointly claim the on-site
+29 child care services tax credit under this paragraph. A joint application shall include a qualifying
+30 contractual agreement of the use of the shared facility to the department prior to claiming the credit
+SB654-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 under this paragraph. A qualifying contractual agreement shall include clauses regarding credit
+2 recaptureincasesofcontractdissolutionorthecessationofchildcarefacilityservices.
+3 (h) Taxpayers shall apply for the tax credit on forms provided by the commissioner and
+4 applications shall be accompanied by information or records required by the commissioner.
+5 Applicationsshallbeprocessedintheorderreceived,andshallbeapprovedordeniedwithin60days
+6 of receipt. If an application is denied, the commissioner shall notify the taxpayer of the reason or
+7 reasonsforthedenial.
+8 (i) The aggregate of all on-site child care services tax credits issued by the commissioner
+9 shallnotexceed$2,500,000inanystatefiscalyear. Applicationsreceivedinafiscalyearthatexceed
+10 the aggregate limit for that year may be considered and granted for the succeeding fiscal year or
+11 yearsandshallreceivepriorityoversubsequentlyfiledapplicationsinapplyingtheaggregatecapfor
+12 thatfiscalyear.
+13 (j) The department may adopt rules pursuant to RSA 541-A regarding the procedure for
+14 applyingforthecreditandtheprocedureforapplyingforwaiveroftherepaymentobligation.
+15 XIX. Thereshallbealloweda"parenthours"taxcredit,accordingtothefollowing:
+16 (a) The credit shall be equal to 20 percent of the employer's cost of health care benefits
+17 conferredtoeachparenthoursemployee,upto$10,000peryearperemployee.
+18 (b) As used in subparagraph (a), "parent hours employee" means an employee with at
+19 least one dependent child whose working hours fall entirely between 9:00 a.m. and 3:00 p.m. on
+20 weekdays.
+21 (c) Any costs of health care benefits included as a qualifying expenditure for purposes of
+22 the on-site child care tax credit under paragraph XVIII shall be ineligible for the parent hours tax
+23 credit.
+24 2 Appropriation; Department of Revenue Administration. There is hereby appropriated to the
+25 department of revenue administration the sum of $40,000 for the fiscal year ending June 30, 2028,
+26 for the purpose of making internal improvements and system upgrades to the department's revenue
+27 informationmanagementsystem. Thegovernorisauthorizedtodrawawarrantforsaidsumsoutof
+28 anymoneyinthetreasurynototherwiseappropriated.
+29 3 Applicability. Section 1 of this act shall apply to taxable periods beginning on or after
+30 December31,2027.
+31 4 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+LBA
+26-3253
+03/13/2026
+SB654-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0829s)
+ANACT creating tax credits for businesses that have on-site child care services and for
+businessesthatprovidehealthcarecoverageforcertainemployees.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates a new on-site child care services tax credit against the Business Profits Tax
+(BPT)foremployerbusinesseswhohavechildcareservicesforemployees. Theon-sitechildcare
+services tax credit shall be equal to 20% of qualifying expenses up to $100,000 per fiscal year
+with any unused tax credits available for up to 4 years. Multiple businesses may share a child
+care facility and each is able to claim the on-site child care services tax credit. The aggregate of
+all on-site child care services tax credits issued shall not exceed $2,500,000 in any fiscal year. If
+a business closes a child care facility within 3 years of receiving a credit and continues to
+maintain its primary business operations at the same address, they will be required to pay back
+all credits received, unless the Commissioner of the Department of Revenue Administration
+determines the closure was due to no fault or beyond control of the business that received the
+credit.
+This bill also establishes the parent hours tax credit against the BPT for employers who permit
+those with at least one dependent child to work not more than 9:00 a.m. to 3:00 p.m. on
+weekdays. The parent hours tax credit would be equal to 20 percent of the employer's cost of
+health care benefits for each employee working "parent hours", up to $10,000 per year per
+employee. Thereisnoaggregatecapforthiscreditnordoesithaveacarryforwardprovision.
+The Department states this bill will decrease general fund and education trust fund revenue by
+anindeterminable amount but is not ableto determinethe magnitudeof thefiscal impact due to
+the unpredictability of the credits being claimed and the associated business tax liability of the
+affectedbusinesses.
+The Department will need to develop an application and award process for purposes of
+administering the credits including the need to modify applicable business tax forms and
+instructions. UpdatestotheRevenueInformationManagementSystemwillbeneededtopermit
+theclaimingofthecredits,managingthecreditsandmanagingthecreditcarryforwards. Based
+on estimates provided by its vendor, it is estimated to cost $40,000 to adequately modify the
+electronic system to implement these credit programs and to not cause other work to not be
+completed. This bill appropriates $40,000 of general funds for the fiscal year ending June 30,
+2028(FY2028)fortherequiredupdates.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration
+[DELETED: B6N-ASADBYTES606SEBNATcgtxcsfrbsttheoecdcessadfsttpehhcecefrcne:S.S,Dt1;S.L,Dt2;S.R,Dt9;R.R,H;R.N,H.1;R.K,R.1:WsadMDAsblcstxcsattebspstxfrbsttheoecessadfrbsttpehhcecefrcne.Tsbomsanantotedtofreanfrisamustotereinmts-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATcgtxcsfrbsttheoecdcessadfsttpehhcecefrcneeitEdbyteSeadHeofRsinGlCtc1NwP;BsPsT;C.AdRA75byigaphXItefgnwpX.Teslbeadanoecdcesstxctfreebagtotef()Tectslbeelto20ptofqge,asddin2U.sn4,tdtoogorcgfroeornycdcessfe,upto$0prfly()Aneebsslheiscdcesefyfriseshwnteb'mnb,ieasdbgwebhtebsadcdc0fyael,orinsebswnteseoeorilp,orwn14o1ameoftea2()Udtxcsmybecdfdfrupto4y.Orcsslb3udf4()Absttrsacturtsphslberdtopya5txntpddetocsrdifitcsanoecdcefywn3ysofr6actadcstomnispybsosatteseasnolrt7tetxyrfgtec8()Tedtofhhadhnssadtedtofr9anmyseinatfycswtwgayora0cyrsorr1()Unwnrtmeprtotefgofteaetxr,t2crmywetertoftxntpddetocsincsweac3cefyiscddetonoftoftebsttrdtecsordetoc4bdtecloftebsttrdtec.Fswhtedts5crindgwrtowetertonslietednoft6ceift,ternfrteceassdbyter,adteitoft7ceuntee8()Bsttseagpcddycecrmyjycmteo9cdcesstxcturtsp.Ajtanslieaq0clatofteueoftesdfytotedtprtocgtec]
+[DELETED: B6N-ASADBYTESPe2urtsp.Aqgclatsliecsrgcreincsofctdnortecnofcdcefys()TsslayfrtetxctonfspdbytecraasslbeadbyinorrsrdbytecAsslbepdinteorr,adslbeadorddwn60dofr.Ifananisd,tecrslnytetrofternorsfrted()Teaeofaloecdcesstxcsidbytecslnted$0inaysefly.Asrdinaflyrtte0teaeltfrttyrmybecdadgdfrtesgflyro1ysadslrepyorsyfdasinagteaecpf2ttfly3()TedtmyatrspttoRA5Argtepef4agfrtectadtepefragfrwrofterto5X.Teslbeada"th"txc,agtotef6()Tectslbeelto20ptofteesctofhhceb7cdtoehpthse,upto$0pryrpre8()Asudinsh(,"thse"msaneewha9ltoedtcdwewghsfleybn90a.ad30p.o0w1()Aycsofhhcebsidasaqgeefrpso2teoecdcetxcturphXIslbeiefrtepthst3c42A;DtofReA.Teishyadtot5dtofreantesmof$0frteflyregJe3,26frtepeofmgilisadsmustotedsr7inmts.Tegrisadtodwawtfrsdssoto8aymyintetyntoea93A.Sn1oftsatslaytotepsbgonora0Dr3,214EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATcgtxcsfrbsttheoecdcessadfsttpehhcecefrcneLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$eIeDeFlFdadEnTtF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblcsanwoecdcesstxctatteBsPsT)frerbswohecdcessfre.Teoecdcstxctslbeelto2%ofqgesupto$0prflyhayudtxcsaefrupto4y.Mebsmyseacefyadehisaetocmteoecdcesstxc.Teaeoloecdcesstxcsidslnted$0inayfly.Ibscsacdcefywn3ysofrgactadcstnispybsosattesea,tywlberdtopyblcsr,usteCrofteDtofReAstecewsdetonoftorbdcloftebsttrdtsblaoestepthstxctatteBTfreswopewhatltoedtcdtowkntmetn90a.to30p.o.Tepthstxctwdbeelto20ptofteesctohcebsfreheewg"th,upto$0pryrp.Teisnoaecpfrtsctnrdsitheacyfdp]
+[DELETED: eDtsstsblwldeglfdadenttfdrebnieatbtisntaetodetemeofteflitdeteuyoftecsbgcdadteadbstxlyoftdbeDtwlndtodpananadadpsfrpsogtecsigtendtomyaebstxfsa.UstoteReInMtSmwlbendtopecgoftec,mgtecsadmgtectcyf.Bnespdbyisv,itisedtoct$0toaymytcsmtoittectpsadtontceorwktontb.Tsblas$0ofglfsfrteflyregJe38(Y2)frterduSCtofReA]
+
+
+================================================================================
+
+Raw Text:
+SB654-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0829s
+2026SESSION
+26-3253
+07/05
+654-FN
+SENATEBILL
+ANACT creating tax credits for businesses that have on-site child care services and for
+businessesthatprovidehealthcarecoverageforcertainemployees.
+SPONSORS: Sen. Sullivan, Dist 18; Sen. Lang, Dist 2; Sen. Ricciardi, Dist 9; Rep. Rice, Hills.
+38;Rep.Notter,Hills.12;Rep.Kuttab,Rock.17
+COMMITTEE: WaysandMeans
+─────────────────────────────────────────────────────────────────
+AMENDEDANALYSIS
+Thisbillcreatestaxcreditsagainstthebusinessprofitstaxforbusinessesthathaveon-sitechild
+care services and for businesses that provide health care coverage for certain employees. This bill
+also makes an appropriation to the department of revenue administration for improvements and
+systemupgradestotherevenueinformationmanagementsystem.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB654-FN-ASAMENDEDBYTHESENATE
+03/05/2026 0829s 26-3253
+07/05
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT creating tax credits for businesses that have on-site child care services and for
+businessesthatprovidehealthcarecoverageforcertainemployees.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Paragraphs; Business Profits Tax; Credits. Amend RSA 77-A:5 by inserting after
+2 paragraphXVIIthefollowingnewparagraphs:
+3 XVIII. There shall beallowed anon-site child care services tax credit for eligible businesses,
+4 accordingtothefollowing:
+5 (a) The credit shall be equal to 20 percent of qualifying expenditures, as defined in 26
+6 U.S.C. section 45F, tied to operating or contracting for on-site or nearby child care services for
+7 employees,upto$100,000perfiscalyear.
+8 (b) An eligible business shall have its child care service facility for its employees housed
+9 within the business' main building, inside a shared building where both the business and child care
+10 facilityarelocated,orinseparatebuildingswithinthesameofficeorindustrialpark,orwithin1/4of
+11 amileoftheabove.
+12 (c) Unused tax credits may be carried forward for up to 4 years. Older credits shall be
+13 utilizedfirst.
+14 (d) A business that receives a credit under this paragraph shall be required to pay any
+15 taxnotpaidduetocreditsreceivedifitclosesanon-sitechildcarefacilitywithin3yearsofreceiving
+16 acreditandcontinuestomaintainitsprimarybusinessoperationsatthesameaddressnolaterthan
+17 thetaxyearfollowingtheclosure.
+18 (e) The department of health and human services and the department of revenue
+19 administration may share information about facility closures without waiving any other applicable
+20 confidentialityrulesorrequirements.
+21 (f) Upon written request made prior to the filing of the applicable tax return, the
+22 commissionermaywaivetherepaymentoftaxnotpaidduetocreditsincircumstanceswhereachild
+23 carefacilityisclosed due tono faultof thebusinessthat receivedthecredits orduetocircumstances
+24 beyond the control of the business that received the credit. Factors which the department should
+25 consider in determining whether to waive the repayment obligation shall include the duration of the
+26 closure if temporary, the reason for the closure as stated by the requestor, and the impact of the
+27 closureupontheemployees.
+28 (g) Businesses that share a group child day care center may jointly claim the on-site
+29 child care services tax credit under this paragraph. A joint application shall include a qualifying
+30 contractual agreement of the use of the shared facility to the department prior to claiming the credit
+
+SB654-FN-ASAMENDEDBYTHESENATE
+-Page2-
+1 under this paragraph. A qualifying contractual agreement shall include clauses regarding credit
+2 recaptureincasesofcontractdissolutionorthecessationofchildcarefacilityservices.
+3 (h) Taxpayers shall apply for the tax credit on forms provided by the commissioner and
+4 applications shall be accompanied by information or records required by the commissioner.
+5 Applicationsshallbeprocessedintheorderreceived,andshallbeapprovedordeniedwithin60days
+6 of receipt. If an application is denied, the commissioner shall notify the taxpayer of the reason or
+7 reasonsforthedenial.
+8 (i) The aggregate of all on-site child care services tax credits issued by the commissioner
+9 shallnotexceed$2,500,000inanystatefiscalyear. Applicationsreceivedinafiscalyearthatexceed
+10 the aggregate limit for that year may be considered and granted for the succeeding fiscal year or
+11 yearsandshallreceivepriorityoversubsequentlyfiledapplicationsinapplyingtheaggregatecapfor
+12 thatfiscalyear.
+13 (j) The department may adopt rules pursuant to RSA 541-A regarding the procedure for
+14 applyingforthecreditandtheprocedureforapplyingforwaiveroftherepaymentobligation.
+15 XIX. Thereshallbealloweda"parenthours"taxcredit,accordingtothefollowing:
+16 (a) The credit shall be equal to 20 percent of the employer's cost of health care benefits
+17 conferredtoeachparenthoursemployee,upto$10,000peryearperemployee.
+18 (b) As used in subparagraph (a), "parent hours employee" means an employee with at
+19 least one dependent child whose working hours fall entirely between 9:00 a.m. and 3:00 p.m. on
+20 weekdays.
+21 (c) Any costs of health care benefits included as a qualifying expenditure for purposes of
+22 the on-site child care tax credit under paragraph XVIII shall be ineligible for the parent hours tax
+23 credit.
+24 2 Appropriation; Department of Revenue Administration. There is hereby appropriated to the
+25 department of revenue administration the sum of $40,000 for the fiscal year ending June 30, 2028,
+26 for the purpose of making internal improvements and system upgrades to the department's revenue
+27 informationmanagementsystem. Thegovernorisauthorizedtodrawawarrantforsaidsumsoutof
+28 anymoneyinthetreasurynototherwiseappropriated.
+29 3 Applicability. Section 1 of this act shall apply to taxable periods beginning on or after
+30 December31,2027.
+31 4 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+LBA
+26-3253
+03/13/2026
+SB654-FN-FISCALNOTE
+ASAMENDEDBYTHESENATE(AMENDMENT#2026-0829s)
+ANACT creating tax credits for businesses that have on-site child care services and for
+businessesthatprovidehealthcarecoverageforcertainemployees.
+FISCALIMPACT: Thisbilldoesnotprovidefunding,nordoesitauthorizenewpositions.
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable
+Revenue $0 $0
+Decrease Decrease
+RevenueFund(s) GeneralFundandEducationTrustFund
+Expenditures* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+Appropriations* $0 $0 $40,000 $0
+FundingSource(s) GeneralFund
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates a new on-site child care services tax credit against the Business Profits Tax
+(BPT)foremployerbusinesseswhohavechildcareservicesforemployees. Theon-sitechildcare
+services tax credit shall be equal to 20% of qualifying expenses up to $100,000 per fiscal year
+with any unused tax credits available for up to 4 years. Multiple businesses may share a child
+care facility and each is able to claim the on-site child care services tax credit. The aggregate of
+all on-site child care services tax credits issued shall not exceed $2,500,000 in any fiscal year. If
+a business closes a child care facility within 3 years of receiving a credit and continues to
+maintain its primary business operations at the same address, they will be required to pay back
+all credits received, unless the Commissioner of the Department of Revenue Administration
+determines the closure was due to no fault or beyond control of the business that received the
+credit.
+This bill also establishes the parent hours tax credit against the BPT for employers who permit
+those with at least one dependent child to work not more than 9:00 a.m. to 3:00 p.m. on
+weekdays. The parent hours tax credit would be equal to 20 percent of the employer's cost of
+health care benefits for each employee working "parent hours", up to $10,000 per year per
+employee. Thereisnoaggregatecapforthiscreditnordoesithaveacarryforwardprovision.
+
+The Department states this bill will decrease general fund and education trust fund revenue by
+anindeterminable amount but is not ableto determinethe magnitudeof thefiscal impact due to
+the unpredictability of the credits being claimed and the associated business tax liability of the
+affectedbusinesses.
+The Department will need to develop an application and award process for purposes of
+administering the credits including the need to modify applicable business tax forms and
+instructions. UpdatestotheRevenueInformationManagementSystemwillbeneededtopermit
+theclaimingofthecredits,managingthecreditsandmanagingthecreditcarryforwards. Based
+on estimates provided by its vendor, it is estimated to cost $40,000 to adequately modify the
+electronic system to implement these credit programs and to not cause other work to not be
+completed. This bill appropriates $40,000 of general funds for the fiscal year ending June 30,
+2028(FY2028)fortherequiredupdates.
+AGENCIESCONTACTED:
+DepartmentofRevenueAdministration
+
+[DELETED: B6N-ASADBYTES606SEBNATcgtxcsfrbsttheoecdcessadfsttpehhcecefrcne:S.S,Dt1;S.L,Dt2;S.R,Dt9;R.R,H;R.N,H.1;R.K,R.1:WsadMDAsblcstxcsattebspstxfrbsttheoecessadfrbsttpehhcecefrcne.Tsbomsanantotedtofreanfrisamustotereinmts-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B6N-ASADBYTES60s2EOFNWHnteYrofOrLdToTdTNATcgtxcsfrbsttheoecdcessadfsttpehhcecefrcneeitEdbyteSeadHeofRsinGlCtc1NwP;BsPsT;C.AdRA75byigaphXItefgnwpX.Teslbeadanoecdcesstxctfreebagtotef()Tectslbeelto20ptofqge,asddin2U.sn4,tdtoogorcgfroeornycdcessfe,upto$0prfly()Aneebsslheiscdcesefyfriseshwnteb'mnb,ieasdbgwebhtebsadcdc0fyael,orinsebswnteseoeorilp,orwn14o1ameoftea2()Udtxcsmybecdfdfrupto4y.Orcsslb3udf4()Absttrsacturtsphslberdtopya5txntpddetocsrdifitcsanoecdcefywn3ysofr6actadcstomnispybsosatteseasnolrt7tetxyrfgtec8()Tedtofhhadhnssadtedtofr9anmyseinatfycswtwgayora0cyrsorr1()Unwnrtmeprtotefgofteaetxr,t2crmywetertoftxntpddetocsincsweac3cefyiscddetonoftoftebsttrdtecsordetoc4bdtecloftebsttrdtec.Fswhtedts5crindgwrtowetertonslietednoft6ceift,ternfrteceassdbyter,adteitoft7ceuntee8()Bsttseagpcddycecrmyjycmteo9cdcesstxcturtsp.Ajtanslieaq0clatofteueoftesdfytotedtprtocgtec]
+[DELETED: B6N-ASADBYTESPe2urtsp.Aqgclatsliecsrgcreincsofctdnortecnofcdcefys()TsslayfrtetxctonfspdbytecraasslbeadbyinorrsrdbytecAsslbepdinteorr,adslbeadorddwn60dofr.Ifananisd,tecrslnytetrofternorsfrted()Teaeofaloecdcesstxcsidbytecslnted$0inaysefly.Asrdinaflyrtte0teaeltfrttyrmybecdadgdfrtesgflyro1ysadslrepyorsyfdasinagteaecpf2ttfly3()TedtmyatrspttoRA5Argtepef4agfrtectadtepefragfrwrofterto5X.Teslbeada"th"txc,agtotef6()Tectslbeelto20ptofteesctofhhceb7cdtoehpthse,upto$0pryrpre8()Asudinsh(,"thse"msaneewha9ltoedtcdwewghsfleybn90a.ad30p.o0w1()Aycsofhhcebsidasaqgeefrpso2teoecdcetxcturphXIslbeiefrtepthst3c42A;DtofReA.Teishyadtot5dtofreantesmof$0frteflyregJe3,26frtepeofmgilisadsmustotedsr7inmts.Tegrisadtodwawtfrsdssoto8aymyintetyntoea93A.Sn1oftsatslaytotepsbgonora0Dr3,214EeD.TsatslteetJy1,2]
+[DELETED: B6-FLNSADBYTESE(T#NATcgtxcsfrbsttheoecdcessadfsttpehhcecefrcneLIsbldsntpef,nrdsitaenwpdSeIY26FY27FY28FY20$eIeDeFlFdadEnTtF0$0$0$gSlF0$0$0$gSlFe=Ctofbl*n=AdfgtocrctofbsblcsanwoecdcesstxctatteBsPsT)frerbswohecdcessfre.Teoecdcstxctslbeelto2%ofqgesupto$0prflyhayudtxcsaefrupto4y.Mebsmyseacefyadehisaetocmteoecdcesstxc.Teaeoloecdcesstxcsidslnted$0inayfly.Ibscsacdcefywn3ysofrgactadcstnispybsosattesea,tywlberdtopyblcsr,usteCrofteDtofReAstecewsdetonoftorbdcloftebsttrdtsblaoestepthstxctatteBTfreswopewhatltoedtcdtowkntmetn90a.to30p.o.Tepthstxctwdbeelto20ptofteesctohcebsfreheewg"th,upto$0pryrp.Teisnoaecpfrtsctnrdsitheacyfdp]
+[DELETED: eDtsstsblwldeglfdadenttfdrebnieatbtisntaetodetemeofteflitdeteuyoftecsbgcdadteadbstxlyoftdbeDtwlndtodpananadadpsfrpsogtecsigtendtomyaebstxfsa.UstoteReInMtSmwlbendtopecgoftec,mgtecsadmgtectcyf.Bnespdbyisv,itisedtoct$0toaymytcsmtoittectpsadtontceorwktontb.Tsblas$0ofglfsfrteflyregJe38(Y2)frterduSCtofReA]
