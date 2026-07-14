@@ -1,0 +1,242 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB444",
+  "title": "prohibiting the use of animal testing when other comparable methods are available.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nh-2026-sb444"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced 01/07/2026 and Referred to Commerce;  SJ 1",
+      "date": "2025-11-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Hearing: 01/20/2026, Room 100, SH, 11:00 am;  SC 1",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2026-0778s, 03/05/2026; Vote 5-0; CC;  SC 8",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "SB 444 was Removed from the Consent Calendar; 03/05/2026;  SJ 5",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2026-0778s, AF, VV; 03/05/2026;  SJ 5",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Sen. Innis Floor Amendment # 2026-0877s, AA, VV; 03/05/2026;  SJ 5",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2026-0877s, MA, VV; OT3rdg; 03/05/2026;  SJ 5",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Introduced (in recess of) 03/12/2026 and referred to Commerce and Consumer Affairs  HJ 8  P. 114",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 04/08/2026 01:15 pm GP 229",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 04/21/2026 01:15 pm GP 229",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Executive Session: 04/29/2026 10:00 am GP 229",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 04/28/2026 10:00 am GP 229",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Committee Report: Refer for Interim Study  04/29/2026 (Vote 13-2; CC)  HC 19  P. 6",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    },
+    {
+      "description": "Refer for Interim Study: MA VV 05/14/2026  HJ 13",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:52:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cathryn A Harvey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cathryn A Harvey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel E. Innis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick N Long",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick N Long\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=22684&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Amended by the Senate",
+      "links": [
+        {
+          "url": "https://gc.nh.gov/bill_Status/pdf.aspx?id=28145&q=billVersion",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1199&inflect=2",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "LSR": "2010",
+    "_code": "3080"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T18:52:57Z"
+  }
+}

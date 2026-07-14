@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Enrolled Bill Amendment # 2026-2197e: AA VV (in recess of) 06/04/2026  HJ 15",
+    "occurred_at": "2026-06-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB56"
+}

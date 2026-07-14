@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Inexpedient to Legislate  04/14/2026 (Vote 11-5; RC)",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1191&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB465"
+}

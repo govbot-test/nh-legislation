@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendment #2026-0545s, MA, VV; OT3rdg; 02/19/2026;  SJ 4",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1430&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB457"
+}

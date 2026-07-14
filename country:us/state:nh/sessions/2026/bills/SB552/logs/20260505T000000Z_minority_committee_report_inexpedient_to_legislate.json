@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Minority Committee Report: Inexpedient to Legislate",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1340&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB552"
+}

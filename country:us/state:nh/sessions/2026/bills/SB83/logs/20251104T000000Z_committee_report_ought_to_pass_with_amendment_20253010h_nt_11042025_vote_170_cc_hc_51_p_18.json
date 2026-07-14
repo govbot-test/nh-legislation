@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass with Amendment # 2025-3010h (NT)  11/04/2025 (Vote 17-0; CC)  HC 51  P. 18",
+    "occurred_at": "2025-11-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB83"
+}

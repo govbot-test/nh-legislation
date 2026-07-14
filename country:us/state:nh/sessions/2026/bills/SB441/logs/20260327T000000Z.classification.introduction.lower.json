@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced (in recess of) 03/26/2026 and referred to Health, Human Services and Elderly Affairs  HJ 9  P. 54",
+    "occurred_at": "2026-03-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1211&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB441"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "==RESCHEDULED== Hearing: 01/27/2026, Room 100, SH, 09:45 am;  SC 2",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1232&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB482"
+}

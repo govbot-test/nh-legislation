@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass with Amendment # 2026-1344h   04/14/2026 (Vote 13-0; CC)  HC 19  P. 11",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1454&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB461"
+}

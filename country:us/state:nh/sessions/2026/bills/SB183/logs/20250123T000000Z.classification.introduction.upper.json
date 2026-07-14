@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 01/09/2025 and Referred to Executive Departments and Administration;  SJ 3",
+    "occurred_at": "2025-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB183"
+}

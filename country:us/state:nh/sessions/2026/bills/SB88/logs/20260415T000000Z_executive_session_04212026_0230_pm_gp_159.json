@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Executive Session: 04/21/2026 02:30 pm GP 159",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB88"
+}

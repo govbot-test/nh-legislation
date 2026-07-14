@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Criminal Justice and Public Safety 04/09/2026  HJ 10  P. 16",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1383&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB594"
+}

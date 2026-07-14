@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass with Amendment # 2026-0117s, 01/29/2026; Vote 4-0; CC;  SC 3",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1258&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB516"
+}

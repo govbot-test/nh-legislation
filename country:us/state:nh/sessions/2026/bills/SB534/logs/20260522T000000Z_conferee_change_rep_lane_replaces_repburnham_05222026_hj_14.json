@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conferee Change: Rep. Lane Replaces Rep.Burnham 05/22/2026  HJ 14",
+    "occurred_at": "2026-05-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1307&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB534"
+}

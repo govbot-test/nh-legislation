@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 01/07/2026;  SC 46",
+    "occurred_at": "2025-11-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB231"
+}

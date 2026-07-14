@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled Bill Amendment # 2026-1992e Adopted, VV, (In recess of 05/21/2026);  SJ 14",
+    "occurred_at": "2026-06-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1315&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB560"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass with Amendment # 2025-0494s, 03/06/2025, Vote 4-2;  SC 11",
+    "occurred_at": "2025-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB71"
+}

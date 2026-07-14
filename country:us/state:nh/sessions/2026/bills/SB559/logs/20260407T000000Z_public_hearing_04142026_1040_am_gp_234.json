@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Public Hearing: 04/14/2026 10:40 am GP 234",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1310&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB559"
+}

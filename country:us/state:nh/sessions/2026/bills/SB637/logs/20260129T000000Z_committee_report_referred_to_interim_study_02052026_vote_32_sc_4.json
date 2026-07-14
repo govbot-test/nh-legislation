@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report: Referred to Interim Study, 02/05/2026, Vote 3-2;  SC 4",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1468&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB637"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 02/19/2026 and referred to Executive Departments and Administration  HJ 5  P. 127",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1261&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB571"
+}

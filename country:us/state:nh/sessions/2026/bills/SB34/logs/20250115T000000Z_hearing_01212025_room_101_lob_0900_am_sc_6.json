@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing: 01/21/2025, Room 101, LOB, 09:00 am;  SC 6",
+    "occurred_at": "2025-01-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB34"
+}

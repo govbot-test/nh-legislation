@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Watters Floor Amendment # 2025-1160s, RC 8Y-16N, AF; 03/27/2025;  SJ 9",
+    "occurred_at": "2025-03-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB83"
+}

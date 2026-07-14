@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee Work Session: 04/28/2026 10:00 am GP 229",
+    "occurred_at": "2026-04-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2479&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB665"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing: 02/11/2026, Room 103, SH, 09:20 am;  SC 5",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2473&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB656"
+}

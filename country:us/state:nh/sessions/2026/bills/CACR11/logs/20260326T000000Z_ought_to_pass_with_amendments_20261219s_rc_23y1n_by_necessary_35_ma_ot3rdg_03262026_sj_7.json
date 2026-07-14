@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendments #2026-1219s, RC 23Y-1N, by necessary 3/5, MA; OT3rdg; 03/26/2026;  SJ 7",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1409&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "CACR11"
+}

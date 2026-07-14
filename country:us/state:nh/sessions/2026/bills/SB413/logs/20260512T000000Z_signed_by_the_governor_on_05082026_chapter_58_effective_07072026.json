@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 05/08/2026; Chapter 58; Effective 07/07/2026",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1462&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB413"
+}

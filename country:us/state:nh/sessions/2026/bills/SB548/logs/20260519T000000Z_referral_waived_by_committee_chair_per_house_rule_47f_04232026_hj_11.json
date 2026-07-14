@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referral Waived by Committee Chair per House Rule 47(f) 04/23/2026  HJ 11",
+    "occurred_at": "2026-05-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1323&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB548"
+}

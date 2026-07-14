@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "I. Sections 3 and 4 of this act shall take effect as provided in Section 5",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1372&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB608"
+}

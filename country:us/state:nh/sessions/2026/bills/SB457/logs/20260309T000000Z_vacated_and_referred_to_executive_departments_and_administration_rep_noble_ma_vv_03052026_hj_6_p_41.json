@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Executive Departments and Administration (Rep. Noble): MA VV 03/05/2026  HJ 6  P. 41",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1430&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB457"
+}

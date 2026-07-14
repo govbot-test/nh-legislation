@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "FLAM # 2026-1929h(NT) (Rep. Farrington): AF RC 159-177 05/14/2026",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1227&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB408"
+}

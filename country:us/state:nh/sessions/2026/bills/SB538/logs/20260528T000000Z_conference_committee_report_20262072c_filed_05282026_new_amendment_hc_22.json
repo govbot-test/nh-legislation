@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report # 2026-2072c Filed 05/28/2026; New Amendment  HC 22",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1309&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB538"
+}

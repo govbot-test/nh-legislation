@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 01/07/2026 and Referred to Judiciary;  SJ 2",
+    "occurred_at": "2026-01-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1278&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB650"
+}

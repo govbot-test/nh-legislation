@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendment 2026-1750h and 2026-1965h: MA RC 167-133 05/14/2026  HJ 13",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1371&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB567"
+}

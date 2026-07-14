@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced 01/29/2026 and Referred to Education Finance;  SJ 3",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2477&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB659"
+}

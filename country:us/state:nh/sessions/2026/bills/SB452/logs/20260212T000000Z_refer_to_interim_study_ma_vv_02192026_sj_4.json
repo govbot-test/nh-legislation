@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Refer to Interim Study, MA, VV; 02/19/2026;  SJ 4",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1213&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB452"
+}

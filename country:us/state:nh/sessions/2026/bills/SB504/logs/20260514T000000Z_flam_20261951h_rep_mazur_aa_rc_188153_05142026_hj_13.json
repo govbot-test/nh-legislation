@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "FLAM # 2026-1951h (Rep. Mazur): AA RC 188-153 05/14/2026  HJ 13",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1288&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB504"
+}

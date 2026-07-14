@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Full Committee Work Session: 10/14/2025 10:00 am GP 229",
+    "occurred_at": "2025-09-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB106"
+}

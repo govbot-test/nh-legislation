@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Gannon Moved Laid on Table, MA, VV; 03/26/2026;  SJ 7",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1278&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB650"
+}

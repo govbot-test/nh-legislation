@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report: Refer for Interim Study  10/14/2025 (Vote 17-0; CC)  HC 51  P. 17",
+    "occurred_at": "2025-11-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB106"
+}

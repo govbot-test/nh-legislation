@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Alexander Jr., Tom Mannion, McFarlane, Barton, D. Kelley, DeVito, Reinfurt, Granger, Thibault, Giasson) 04/03/2026  HJ 10  P. 11",
+    "occurred_at": "2026-04-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1276&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB649"
+}

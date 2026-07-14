@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 05/28/2026; Chapter 101; Effective 05/28/2026",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1426&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB456"
+}

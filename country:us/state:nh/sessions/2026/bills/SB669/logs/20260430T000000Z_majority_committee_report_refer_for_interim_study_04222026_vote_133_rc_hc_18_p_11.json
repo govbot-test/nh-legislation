@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Refer for Interim Study  04/22/2026 (Vote 13-3; RC)  HC 18  P. 11",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2482&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB669"
+}

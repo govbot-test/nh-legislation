@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Finance 05/01/2025  HJ 13  P. 18",
+    "occurred_at": "2025-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB63"
+}

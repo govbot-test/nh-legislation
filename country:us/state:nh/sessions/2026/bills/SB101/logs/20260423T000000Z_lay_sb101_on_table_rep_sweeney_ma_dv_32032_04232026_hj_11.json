@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Lay SB101 on Table (Rep. Sweeney): MA DV 320-32 04/23/2026  HJ 11",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB101"
+}

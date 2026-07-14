@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Rochefort Moved to Concur with the House Amendment, MA, VV; 04/16/2026;  SJ 9",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1372&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB608"
+}

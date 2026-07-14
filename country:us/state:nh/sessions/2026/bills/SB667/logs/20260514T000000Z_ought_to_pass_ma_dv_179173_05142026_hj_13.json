@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA DV 179-173 05/14/2026  HJ 13",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2478&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB667"
+}

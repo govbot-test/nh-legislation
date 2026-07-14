@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Inexpedient to Legislate  04/27/2026 (Vote 13-11; RC)  HC 18  P. 12",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1453&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB603"
+}

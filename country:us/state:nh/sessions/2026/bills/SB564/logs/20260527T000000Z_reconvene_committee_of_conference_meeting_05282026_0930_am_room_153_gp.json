@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "==RECONVENE== Committee of Conference Meeting: 05/28/2026, 09:30 am, Room 153, GP",
+    "occurred_at": "2026-05-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1389&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB564"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing: 03/10/2026, Room 100, SH, 09:30 am, on proposed non-germane amendment # 2026-1065s;  SC 9",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=2476&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB655"
+}

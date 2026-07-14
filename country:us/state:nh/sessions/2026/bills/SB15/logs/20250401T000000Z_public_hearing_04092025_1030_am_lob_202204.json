@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Public Hearing: 04/09/2025 10:30 am LOB 202-204",
+    "occurred_at": "2025-04-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB15"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled Adopted, VV, (In recess 03/12/2026);  SJ 7",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB83"
+}

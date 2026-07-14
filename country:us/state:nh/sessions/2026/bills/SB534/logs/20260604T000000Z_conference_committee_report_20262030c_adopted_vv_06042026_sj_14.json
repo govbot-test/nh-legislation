@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report # 2026-2030c, Adopted, VV; 06/04/2026;  SJ 14",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1307&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB534"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the Governor on 06/12/2026; Chapter 135; Effective 01/01/2027",
+    "occurred_at": "2026-06-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1254&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB499"
+}

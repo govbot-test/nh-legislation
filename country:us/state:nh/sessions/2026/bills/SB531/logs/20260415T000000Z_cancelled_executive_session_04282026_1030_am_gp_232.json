@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "==CANCELLED== Executive Session: 04/28/2026 10:30 am GP 232",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1300&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB531"
+}

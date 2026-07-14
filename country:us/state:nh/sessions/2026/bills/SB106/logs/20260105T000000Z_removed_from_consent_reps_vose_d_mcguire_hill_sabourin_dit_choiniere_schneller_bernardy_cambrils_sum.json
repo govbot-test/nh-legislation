@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed from Consent (Reps. Vose, D. McGuire, Hill, Sabourin dit Choiniere, Schneller, Bernardy, Cambrils, Summers, D. Thomas, Mattson) 01/05/2026  HJ 1  P. 43",
+    "occurred_at": "2026-01-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB106"
+}

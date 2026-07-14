@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendment 2026-0022h: MA VV 01/08/2026  HJ 2  P. 66",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB27"
+}

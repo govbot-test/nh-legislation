@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Amendment # 2026-1165s, AA, VV; 03/26/2026;  SJ 7",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1370&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB607"
+}

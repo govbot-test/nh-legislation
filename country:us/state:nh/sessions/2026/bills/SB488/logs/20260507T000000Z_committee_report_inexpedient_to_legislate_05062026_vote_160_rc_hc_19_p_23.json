@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate  05/06/2026 (Vote 16-0; RC)  HC 19  P. 23",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1242&inflect=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB488"
+}

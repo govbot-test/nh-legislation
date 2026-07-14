@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Commerce and Consumer Affairs (Rep. Kofalt): MA VV (in recess of) 02/19/2026  HJ 5  P. 127",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB256"
+}

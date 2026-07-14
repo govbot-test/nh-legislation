@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendment #2025-0165s, RC 14Y-9N, MA; OT3rdg; 01/30/2025;  SJ 4",
+    "occurred_at": "2025-01-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://gc.nh.gov/bill_Status/advanced.aspx",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB15"
+}
