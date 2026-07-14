@@ -1,0 +1,185 @@
+Title: SENATEBILL
+Official Title: SENATEBILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SB563-FN-ASINTRODUCED
+2026SESSION
+26-2162
+08/09
+563-FN
+ANACT relativetodirectshippersofwine.
+SPONSORS: Sen.Reardon,Dist15;Sen.Innis,Dist7
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a license for direct shippers of wine from small wineries for sale into the state
+ofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+SB563-FN-ASINTRODUCED
+26-2162
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetodirectshippersofwine.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Direct Wine Shipper; License. Amend RSA 178 by inserting after section 27-b
+2 thefollowingnewsection:
+3 178:27-c DirectShippers;SmallWineries.
+4 I. In this section, “direct wine shipper” means a winery located outside of New Hampshire
+5 that produces fewer than 5,000 cases of wine in a calendar year and is licensed to ship wine directly
+6 toconsumersandlicenseesinNewHampshire.
+7 II. A small winery may apply to the New Hampshire liquor commission for a direct wine
+8 shipperlicense. Thelicenseshallauthorizetheshipmentofwinedirectlytoconsumersandlicensees
+9 within New Hampshire. The license shall be renewed annually and subject to a fee determined by
+10 theliquorcommissioninrulesestablishedunderRSA541-A.
+11 III. AllsalesmadebyadirectwineshipperintoNewHampshireshallincludeasurchargeof
+12 25 percent of the sale price. The surcharge shall be remitted to the commission no later than the
+13 15th day of the month following the month in which the sale occurred. Direct wine shippers from
+14 smallwineriesshallsubmitmonthlyreportstothecommissiondetailing:
+15 (a) Quantityofwinesold;
+16 (b) Namesandaddressesoflicenseesandconsumerstowhomwinewasshipped;
+17 (c) Priceofeachsale;
+18 (d) Totalsurchargecollectedandremitted.
+19 IV. All sales made under this section shall conform to RSA 179:5. The commission may
+20 suspendorrevokeadirectwineshipperlicenseforviolationsofthischapterorotherapplicablelaws.
+21 V. The liquor commission shall adopt rules under RSA 541-A to implement the provisions of
+22 this section, including but not limited to application procedures, reporting formats, including a
+23 websitetoregisterforalicense,reportsales,andremitsurcharges,andenforcementmechanisms.
+24 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+LBA
+26-2162
+11/18/25
+SB563-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetodirectshippersofwine.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Increase$10,000 Increase$10,000 Increase$10,000
+to$100,000 to$100,000 to$100,000
+RevenueFund(s) LiquorFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates a new license type for “small wineries” that produce fewer than 5,000 cases of
+wine annually. The bill authorizes these wineries to ship wine directly to consumers and
+licenseesinNewHampshire,subjecttoalicensefeeanda25percentsurchargeonthesaleprice
+ofalldirectshipments.
+TheLiquorCommissionstatesthisbillwillresultinanindeterminableincreaseinstaterevenue
+from the new 25 percent surcharge on direct shipments and any associated license fees. The
+Commission is unable to estimate the number of small wineries that would seek licensure or the
+volumeofsalesthatwouldoccurunderthisnewcategorybutassumesitwouldbeintherangeof
+$10,000 to $100,000. The Commission notes current direct shipper licensees under RSA 178:27
+pay a $100 annual license fee and an 8 percent fee on the retail value of sales. The new small
+winery license would replace or supplement these existing arrangements, potentially affecting
+bothsurchargeandfeecollections.
+AGENCIESCONTACTED:
+LiquorCommission
+[DELETED: B5N-ASI6SEBNATretodtssofw:S.R,Dt1;S.I,Dt:CsblrsalefrdtssofwefmslwsfrseiotesfNwH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretodtssofweitEdbyteSeadHeofRsinGlCtc1NwS;DtWeS;L.AdRA18byigarsn2tefgnws1cDtS;SlWI.Intss,“twes”msawyldoeofNwHttpsfrtn50csofweinacryradisldtospwedtocsadlsinNwHI.AslwymyaytoteNwHelrcnfradtwsrl.TeleslaetestofwedytocsadlwnNwH.Teleslberdayadsttoafeddb0telrcninrsedurRA51I.AlssmebyadtwesrioNwHeslieaseo225ptoftesep.Teseslberdtotecnnolrtnt31hdyoftemhfgtemhinwhteseo.Dtwessf4slwsslstmyrstotecnd5()Qyofwes6()Nsadasoflsadcstowmwewss7()Peofehs8()Tlsecdadr9I.AlssmeurtssnslcmtoRA1.Tecnm0sdorreadtwesrlefrvsoftscrororael1V.TelrcnslatrsurRA5Atoittepso2tss,igbtntldtoanp,rgf,ig3wetorrfral,rts,adrts,adetm42EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretodtssofwLIdSeIY26FY27FY28FY20Ie$0Ie$0Ie$eIeIo$0to$0to$eFrF0$0$0$gS0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblcsanwletefr“lw”ttpefrtn50csoea.TeblastewstospwedytocsasinNwH,sttoalefeada25ptseontesepfaldtseLrCnsstsblwlrtinanieieinsermtenw25ptseondtssadayadlef.Tnisuetoeetenrofslwsttwdskleorteofssttwdorurtsnwcybtasitwdbeintereo0to$.TeCnnsctdtsrlsurRA1ya$0allefeadan8ptfeonterlveofs.Tenwsylewdreorstteega,pyahseadfecSCrC]
+
+
+================================================================================
+
+Raw Text:
+SB563-FN-ASINTRODUCED
+2026SESSION
+26-2162
+08/09
+563-FN
+SENATEBILL
+ANACT relativetodirectshippersofwine.
+SPONSORS: Sen.Reardon,Dist15;Sen.Innis,Dist7
+COMMITTEE: Commerce
+─────────────────────────────────────────────────────────────────
+ANALYSIS
+This bill requires a license for direct shippers of wine from small wineries for sale into the state
+ofNewHampshire.
+---------------------------------------------------------------------------
+Explanation: Matteraddedtocurrentlawappearsinbolditalics.
+Matterremovedfromcurrentlawappears[inbracketsandstruckthrough.]
+Matterwhichiseither(a)allnewor(b)repealedandreenactedappearsinregulartype.
+
+SB563-FN-ASINTRODUCED
+26-2162
+08/09
+STATEOFNEWHAMPSHIRE
+IntheYearofOurLordTwoThousandTwenty-Six
+ANACT relativetodirectshippersofwine.
+BeitEnactedbytheSenateandHouseofRepresentativesinGeneralCourtconvened:
+1 1 New Section; Direct Wine Shipper; License. Amend RSA 178 by inserting after section 27-b
+2 thefollowingnewsection:
+3 178:27-c DirectShippers;SmallWineries.
+4 I. In this section, “direct wine shipper” means a winery located outside of New Hampshire
+5 that produces fewer than 5,000 cases of wine in a calendar year and is licensed to ship wine directly
+6 toconsumersandlicenseesinNewHampshire.
+7 II. A small winery may apply to the New Hampshire liquor commission for a direct wine
+8 shipperlicense. Thelicenseshallauthorizetheshipmentofwinedirectlytoconsumersandlicensees
+9 within New Hampshire. The license shall be renewed annually and subject to a fee determined by
+10 theliquorcommissioninrulesestablishedunderRSA541-A.
+11 III. AllsalesmadebyadirectwineshipperintoNewHampshireshallincludeasurchargeof
+12 25 percent of the sale price. The surcharge shall be remitted to the commission no later than the
+13 15th day of the month following the month in which the sale occurred. Direct wine shippers from
+14 smallwineriesshallsubmitmonthlyreportstothecommissiondetailing:
+15 (a) Quantityofwinesold;
+16 (b) Namesandaddressesoflicenseesandconsumerstowhomwinewasshipped;
+17 (c) Priceofeachsale;
+18 (d) Totalsurchargecollectedandremitted.
+19 IV. All sales made under this section shall conform to RSA 179:5. The commission may
+20 suspendorrevokeadirectwineshipperlicenseforviolationsofthischapterorotherapplicablelaws.
+21 V. The liquor commission shall adopt rules under RSA 541-A to implement the provisions of
+22 this section, including but not limited to application procedures, reporting formats, including a
+23 websitetoregisterforalicense,reportsales,andremitsurcharges,andenforcementmechanisms.
+24 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+LBA
+26-2162
+11/18/25
+SB563-FN-FISCALNOTE
+ASINTRODUCED
+ANACT relativetodirectshippersofwine.
+FISCALIMPACT:
+Estimated State Impact
+FY2026 FY2027 FY2028 FY2029
+Indeterminable Indeterminable Indeterminable
+Revenue $0 Increase$10,000 Increase$10,000 Increase$10,000
+to$100,000 to$100,000 to$100,000
+RevenueFund(s) LiquorFund
+Expenditures* $0 $0 $0 $0
+FundingSource(s) None
+Appropriations* $0 $0 $0 $0
+FundingSource(s) None
+*Expenditure=Costofbill *Appropriation=Authorizedfundingtocovercostofbill
+METHODOLOGY:
+This bill creates a new license type for “small wineries” that produce fewer than 5,000 cases of
+wine annually. The bill authorizes these wineries to ship wine directly to consumers and
+licenseesinNewHampshire,subjecttoalicensefeeanda25percentsurchargeonthesaleprice
+ofalldirectshipments.
+TheLiquorCommissionstatesthisbillwillresultinanindeterminableincreaseinstaterevenue
+from the new 25 percent surcharge on direct shipments and any associated license fees. The
+Commission is unable to estimate the number of small wineries that would seek licensure or the
+volumeofsalesthatwouldoccurunderthisnewcategorybutassumesitwouldbeintherangeof
+$10,000 to $100,000. The Commission notes current direct shipper licensees under RSA 178:27
+pay a $100 annual license fee and an 8 percent fee on the retail value of sales. The new small
+winery license would replace or supplement these existing arrangements, potentially affecting
+bothsurchargeandfeecollections.
+AGENCIESCONTACTED:
+LiquorCommission
+
+[DELETED: B5N-ASI6SEBNATretodtssofw:S.R,Dt1;S.I,Dt:CsblrsalefrdtssofwefmslwsfrseiotesfNwH-------------------------------------------------------------------------:Mradtoctlwasinbdirrdfmctlwas[nbsadsrwhiser()alnwor()rdadrdasinrrt]
+[DELETED: B5N-ASIEOFNWHnteYrofOrLdToTdTNATretodtssofweitEdbyteSeadHeofRsinGlCtc1NwS;DtWeS;L.AdRA18byigarsn2tefgnws1cDtS;SlWI.Intss,“twes”msawyldoeofNwHttpsfrtn50csofweinacryradisldtospwedtocsadlsinNwHI.AslwymyaytoteNwHelrcnfradtwsrl.TeleslaetestofwedytocsadlwnNwH.Teleslberdayadsttoafeddb0telrcninrsedurRA51I.AlssmebyadtwesrioNwHeslieaseo225ptoftesep.Teseslberdtotecnnolrtnt31hdyoftemhfgtemhinwhteseo.Dtwessf4slwsslstmyrstotecnd5()Qyofwes6()Nsadasoflsadcstowmwewss7()Peofehs8()Tlsecdadr9I.AlssmeurtssnslcmtoRA1.Tecnm0sdorreadtwesrlefrvsoftscrororael1V.TelrcnslatrsurRA5Atoittepso2tss,igbtntldtoanp,rgf,ig3wetorrfral,rts,adrts,adetm42EeD.TsatslteetJy1,2]
+[DELETED: B5-FLNSINATretodtssofwLIdSeIY26FY27FY28FY20Ie$0Ie$0Ie$eIeIo$0to$0to$eFrF0$0$0$gS0$0$0$gSe=Ctofbl*n=Adfgtocrctofbsblcsanwletefr“lw”ttpefrtn50csoea.TeblastewstospwedytocsasinNwH,sttoalefeada25ptseontesepfaldtseLrCnsstsblwlrtinanieieinsermtenw25ptseondtssadayadlef.Tnisuetoeetenrofslwsttwdskleorteofssttwdorurtsnwcybtasitwdbeintereo0to$.TeCnnsctdtsrlsurRA1ya$0allefeadan8ptfeonterlveofs.Tenwsylewdreorstteega,pyahseadfecSCrC]
